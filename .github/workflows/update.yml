@@ -1,5 +1,9 @@
 name: Briefing Diário — Atualizar notícias
 on:
+  push:
+    paths:
+      - 'scripts/update_news.py'
+      - '.github/workflows/update.yml'
   workflow_dispatch:
   schedule:
     - cron: '0 5 * * *'
