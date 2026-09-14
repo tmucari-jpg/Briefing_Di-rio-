@@ -1,71 +1,77 @@
 import json
 import re
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import quote
-from urllib.request import urlopen
-import xml.etree.ElementTree as ET
+from urllib.parse import urlencode
+from urllib.request import Request, urlopen
+import feedparser
 
 QUERIES = {
-    'Mundo': 'global geopolitics economy energy oil LNG artificial intelligence technology security when:1d',
+    'Mundo': 'world geopolitics economy energy oil LNG artificial intelligence technology security when:1d',
     'África': 'Africa economy energy LNG investment infrastructure security jobs when:1d',
-    'Moçambique': 'Mozambique LNG energy economy projects jobs investment security when:1d'
+    'Moçambique': 'Mozambique Moçambique LNG energy economy projects jobs investment security when:1d'
 }
 
 def clean(text):
-    return re.sub(r'\\s+', ' ', re.sub(r'<[^>]+>', '', text or '')).strip()
+    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', '', text or '')).strip()
+
+def norm(text):
+    text = unicodedata.normalize('NFKD', text.lower()).encode('ascii','ignore').decode()
+    return re.sub(r'[^a-z0-9]', '', text)
 
 def make_tags(text):
     text = text.lower()
-    result = []
     groups = {
-        'Energia': ['energy', 'energia', 'lng', 'gas', 'oil', 'petróleo'],
-        'IA': ['artificial intelligence', 'inteligência artificial', 'technology', 'tecnologia'],
-        'Economia': ['economy', 'economia', 'investment', 'investimento', 'business', 'negócios'],
-        'Segurança': ['security', 'segurança', 'conflict', 'guerra', 'military']
+        'Energia': ['energy','energia','lng','gas','oil','petróleo','petroleo'],
+        'IA': ['artificial intelligence','inteligência artificial','inteligencia artificial','technology','tecnologia'],
+        'Economia': ['economy','economia','investment','investimento','business','negócios','negocios'],
+        'Segurança': ['security','segurança','seguranca','conflict','guerra','military']
     }
-    for tag, words in groups.items():
-        if any(word in text for word in words):
-            result.append(tag)
-    return result or ['Economia']
+    return [tag for tag, words in groups.items() if any(word in text for word in words)] or ['Economia']
 
 def read_feed(section, query):
-    url = 'https://news.google.com/rss/search?q=' + quote(query) + '&hl=pt-PT&gl=MZ&ceid=MZ:pt-419'
-    root = ET.fromstring(urlopen(url, timeout=20).read())
+    params = urlencode({'q': query, 'hl': 'pt-PT', 'gl': 'MZ', 'ceid': 'MZ:pt-419'})
+    url = 'https://news.google.com/rss/search?' + params
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; BriefingDiario/1.0)'})
+    feed = feedparser.parse(urlopen(req, timeout=30).read())
     result = []
-    for item in root.findall('./channel/item')[:15]:
-        title = clean(item.findtext('title'))
-        desc = clean(item.findtext('description'))
+    for item in feed.entries[:15]:
+        title = clean(item.get('title',''))
+        desc = clean(item.get('summary',''))
+        if not title: continue
         result.append({
             'section': section,
             'tags': make_tags(title + ' ' + desc),
             'title': title,
             'summary': desc[:500],
-            'why': 'Contextualizar o impacto da notícia e a relevância para Moçambique.',
-            'impact': 'Avaliar efeitos em energia, economia, segurança, emprego ou investimento.',
-            'source': clean(item.findtext('source')) or 'Google News',
-            'link': item.findtext('link') or ''
+            'why': 'Notícia recente com potencial relevância para decisões, negócios ou contexto estratégico.',
+            'impact': 'Avaliar efeitos em energia, economia, segurança, emprego, tecnologia ou investimento.',
+            'source': clean(item.get('source',{}).get('title','')) or 'Google News',
+            'published': clean(item.get('published','')),
+            'link': item.get('link','')
         })
     return result
 
-items = []
-seen = set()
+items=[];seen=set();errors=[]
 for section, query in QUERIES.items():
     try:
         for item in read_feed(section, query):
-            key = re.sub(r'[^a-z0-9]', '', item['title'].lower())
+            key=norm(item['title'])
             if key and key not in seen:
-                seen.add(key)
-                items.append(item)
+                seen.add(key);items.append(item)
     except Exception as error:
-        print(section, error)
+        errors.append(f'{section}: {error}')
 
-payload = {
-    'updated_at': datetime.now(timezone.utc).isoformat(),
-    'items': items,
-    'watch': ['Energia e LNG', 'Economia e investimento', 'Geopolítica e segurança'],
-    'risks': ['Choques geopolíticos', 'Volatilidade económica', 'Risco de informação não verificada'],
-    'opportunities': ['Energia e fornecedores', 'Tecnologia e IA', 'Emprego, negócios e investimento']
+if not items:
+    raise SystemExit('Nenhuma notícia foi obtida. ' + ' | '.join(errors))
+
+payload={
+ 'updated_at':datetime.now(timezone.utc).isoformat(),
+ 'items':items,
+ 'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança'],
+ 'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],
+ 'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento']
 }
-Path('docs/news.json').write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
-print('Actualizadas', len(items), 'notícias')
+Path('docs/news.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
+print('Actualizadas',len(items),'notícias')
