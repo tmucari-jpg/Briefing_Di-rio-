@@ -1,19 +1,107 @@
 {
-  "updated_at": "2026-09-13T09:56:03.350856+00:00",
-  "items": [],
-  "watch": [
-    "Energia e LNG",
-    "Economia e investimento",
-    "Geopolítica e segurança"
+  "updated_at": "2026-09-14T15:30:00+02:00",
+  "items": [
+    {
+      "section": "Mundo",
+      "tags": ["Energia", "Economia", "Segurança"],
+      "title": "Petróleo sobe acima de US$108 após ataques e interrupções no abastecimento saudita",
+      "summary": "Ataques e danos a infra-estruturas energéticas sauditas aumentaram o receio de perturbações no fornecimento global. O Brent avançou fortemente e os mercados passaram a incorporar maior pressão inflacionista.",
+      "why": "Energia mais cara pode aumentar custos de transporte, combustíveis, fertilizantes e importações.",
+      "impact": "Para Moçambique, pode significar pressão sobre custos internos, mas também melhorar o valor de exportações ligadas a hidrocarbonetos.",
+      "source": "Reuters",
+      "published": "14/09/2026",
+      "link": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-09-14/"
+    },
+    {
+      "section": "Mundo",
+      "tags": ["IA", "Economia"],
+      "title": "Líderes de empresas de IA defendem desaceleração do desenvolvimento",
+      "summary": "Executivos de empresas de inteligência artificial alertaram para riscos de segurança associados ao ritmo de desenvolvimento. A reacção atingiu as acções ligadas à IA e aumentou o debate sobre regulação.",
+      "why": "Uma mudança no ritmo de investimento pode afectar custos, infra-estrutura digital e adopção de IA pelas empresas.",
+      "impact": "Moçambique pode aproveitar o momento para apostar em competências digitais e aplicações de IA com foco prático, em vez de apenas infra-estrutura cara.",
+      "source": "Reuters",
+      "published": "14/09/2026",
+      "link": "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14/"
+    },
+    {
+      "section": "Mundo",
+      "tags": ["Energia", "Segurança"],
+      "title": "Tensão no Médio Oriente ameaça rotas de petróleo e comércio mundial",
+      "summary": "A instabilidade envolvendo o Golfo, o Mar Vermelho e o estreito de Bab al-Mandab está a elevar o risco para navios e cadeias globais de abastecimento.",
+      "why": "Desvios de navios podem aumentar fretes, prazos de entrega e preços de mercadorias.",
+      "impact": "Empresas moçambicanas dependentes de importações devem acompanhar fretes, combustíveis e seguros marítimos; exportadores podem enfrentar novas rotas e custos.",
+      "source": "The Guardian",
+      "published": "14/09/2026",
+      "link": "https://www.theguardian.com/us-news/2026/sep/14/first-thing-oil-prices-surge-houthi-attack-saudi-arabia-supply-fears"
+    },
+    {
+      "section": "África",
+      "tags": ["Economia", "Segurança"],
+      "title": "BRICS adopta declaração de Nova Deli com apelo à contenção no Médio Oriente",
+      "summary": "Os países do BRICS adoptaram uma declaração que apela à contenção no Médio Oriente e defende a continuidade do comércio global.",
+      "why": "O posicionamento do BRICS pode influenciar relações económicas, diplomáticas e comerciais dos países africanos.",
+      "impact": "Moçambique pode beneficiar de maior articulação com parceiros do Sul Global em comércio, financiamento e energia.",
+      "source": "bne IntelliNews",
+      "published": "14/09/2026",
+      "link": "https://www.intellinews.com/africa/news/"
+    },
+    {
+      "section": "África",
+      "tags": ["Segurança"],
+      "title": "Surto de Ébola na RD Congo ultrapassa 7 mil casos, segundo relatos recentes",
+      "summary": "A resposta ao surto de Ébola na República Democrática do Congo continua, enquanto as autoridades indicam sinais de redução do pico de transmissão.",
+      "why": "Crises sanitárias regionais podem afectar mobilidade, comércio fronteiriço e capacidade dos sistemas de saúde.",
+      "impact": "Moçambique deve manter vigilância epidemiológica e capacidade de resposta, sobretudo perante maior mobilidade regional.",
+      "source": "Al Jazeera",
+      "published": "12/09/2026",
+      "link": "https://www.aljazeera.com/africa/"
+    },
+    {
+      "section": "África",
+      "tags": ["Energia", "Economia"],
+      "title": "Angola prevê mais de US$70 mil milhões em investimentos de petróleo e gás",
+      "summary": "Angola projecta forte investimento em petróleo e gás nos próximos anos, com novas operações de grandes empresas internacionais no offshore.",
+      "why": "A competição africana por capital, tecnologia e fornecedores no sector energético está a intensificar-se.",
+      "impact": "Moçambique precisa reforçar previsibilidade regulatória e capacidade de fornecedores locais para captar uma parcela maior da cadeia de valor energética.",
+      "source": "bne IntelliNews",
+      "published": "11/09/2026",
+      "link": "https://www.intellinews.com/africa/news/"
+    },
+    {
+      "section": "Moçambique",
+      "tags": ["Energia", "IA", "Economia"],
+      "title": "Moçambique e Coreia do Sul reforçam cooperação no sector energético",
+      "summary": "Os dois países assinaram um Memorando de Entendimento para reforçar a cooperação, partilha de conhecimentos e políticas ligadas aos recursos naturais e sectores industriais.",
+      "why": "A cooperação combina energia, indústria e transformação digital, áreas estratégicas para diversificação económica.",
+      "impact": "Há espaço para empresas e profissionais moçambicanos acompanharem oportunidades em energia, tecnologia, formação e fornecedores especializados.",
+      "source": "Repórter Nacional",
+      "published": "12/09/2026",
+      "link": "https://rn.co.mz/mocambique-coreia-energia/"
+    },
+    {
+      "section": "Moçambique",
+      "tags": ["Economia"],
+      "title": "Governo reforça infra-estruturas de água para enfrentar o El Niño",
+      "summary": "O Governo está a concluir e reabilitar sistemas de água em várias zonas do país para reduzir os impactos esperados do El Niño.",
+      "why": "Água, agricultura e resiliência climática terão impacto directo na actividade económica e nas comunidades.",
+      "impact": "O movimento cria procura por fornecedores, obras, manutenção, gestão de água e soluções de eficiência hídrica.",
+      "source": "O País",
+      "published": "14/09/2026",
+      "link": "https://digital.opais.co.mz/o-pais"
+    },
+    {
+      "section": "Moçambique",
+      "tags": ["Segurança", "Economia"],
+      "title": "Segurança jurídica volta ao centro do debate sobre investimento em Vilanculo",
+      "summary": "O Presidente Daniel Chapo destacou a previsibilidade jurídica e a protecção de contratos como condições para investimento sustentável e turismo competitivo.",
+      "why": "Segurança jurídica reduz risco percebido por investidores e pode acelerar actividade económica.",
+      "impact": "Para empresas, a mensagem reforça a importância de contratos, conformidade, resolução de conflitos e gestão de risco jurídico.",
+      "source": "O País",
+      "published": "14/09/2026",
+      "link": "https://opais.co.mz/"
+    }
   ],
-  "risks": [
-    "Choques geopolíticos",
-    "Volatilidade económica",
-    "Risco de informação não verificada"
-  ],
-  "opportunities": [
-    "Energia e fornecedores",
-    "Tecnologia e IA",
-    "Emprego, negócios e investimento"
-  ]
+  "watch": ["Energia e LNG", "Preços do petróleo e custos de importação", "IA e transformação digital"],
+  "risks": ["Choques geopolíticos", "Volatilidade do petróleo", "Risco de interrupção das cadeias logísticas"],
+  "opportunities": ["Energia e fornecedores", "Tecnologia e IA", "Água, infra-estrutura e serviços para empresas"]
 }
