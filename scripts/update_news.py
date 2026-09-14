@@ -1,3 +1,4 @@
+# Briefing Diário feed updater v2
 import json
 import re
 import unicodedata
@@ -39,7 +40,8 @@ def read_feed(section, query):
     for item in feed.entries[:15]:
         title = clean(item.get('title',''))
         desc = clean(item.get('summary',''))
-        if not title: continue
+        if not title:
+            continue
         result.append({
             'section': section,
             'tags': make_tags(title + ' ' + desc),
@@ -59,7 +61,8 @@ for section, query in QUERIES.items():
         for item in read_feed(section, query):
             key=norm(item['title'])
             if key and key not in seen:
-                seen.add(key);items.append(item)
+                seen.add(key)
+                items.append(item)
     except Exception as error:
         errors.append(f'{section}: {error}')
 
