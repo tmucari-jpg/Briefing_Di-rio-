@@ -1,85 +1,16 @@
 let data=[];
 let section='Mundo';
 let topic='Todos';
+let deferredPrompt=null;
 const $=s=>document.querySelector(s);
 const $$=s=>document.querySelectorAll(s);
-
-function speak(text){
-  if(!('speechSynthesis' in window)){alert('O áudio não é suportado neste navegador.');return;}
-  speechSynthesis.cancel();
-  const u=new SpeechSynthesisUtterance(text);
-  u.lang='pt-PT';
-  u.rate=.94;
-  speechSynthesis.speak(u);
-}
-
-function setActive(group,value){
-  $$(group+' button').forEach(b=>{
-    const match=b.dataset.section===value || b.dataset.topic===value;
-    b.classList.toggle('active',match);
-  });
-}
-
-function filteredItems(){
-  return data.filter(x=>x.section===section && (topic==='Todos' || (x.tags||[]).includes(topic)));
-}
-
-function render(){
-  const items=filteredItems();
-  if($('#count')) $('#count').textContent=`${items.length} ${items.length===1?'notícia':'notícias'}`;
-  if($('#news')) $('#news').innerHTML='';
-  items.forEach(x=>{
-    const c=$('#card').content.cloneNode(true);
-    c.querySelector('.meta').textContent=`${x.source||'Fonte'} · ${x.published||'Hoje'}`;
-    c.querySelector('h3').textContent=x.title||'';
-    c.querySelector('.summary').textContent=x.summary||'';
-    c.querySelector('.why').textContent=x.why||'Contexto relevante para acompanhar.';
-    c.querySelector('.impact').textContent=x.impact||'Acompanhar efeitos para Moçambique.';
-    const a=c.querySelector('a');
-    a.href=x.link||'#';
-    c.querySelector('.speak').onclick=()=>speak(`${x.title||''}. ${x.summary||''} ${x.why||''} ${x.impact||''}`);
-    $('#news').append(c);
-  });
-  if(!items.length && $('#news')){
-    $('#news').innerHTML='<div class="empty"><strong>Sem notícias neste filtro.</strong><span>Experimente “Todos” ou outro tema.</span></div>';
-  }
-}
-
-function bind(){
-  $$('#sections button').forEach(b=>b.onclick=()=>{
-    section=b.dataset.section;
-    topic='Todos';
-    setActive('#sections',section);
-    setActive('#topics','Todos');
-    render();
-  });
-  $$('#topics button').forEach(b=>b.onclick=()=>{
-    topic=b.dataset.topic;
-    setActive('#topics',topic);
-    render();
-  });
-  $('#listenAll').onclick=()=>{
-    const items=filteredItems();
-    speak(`Briefing de ${section}. ${items.slice(0,7).map(x=>`${x.title||''}. ${x.summary||''}`).join(' ')}`);
-  };
-  if($('#refresh')) $('#refresh').onclick=()=>load(true);
-}
-
-async function load(force=false){
-  try{
-    const r=await fetch(`news.json${force?'?t='+Date.now():''}`,{cache:'no-store'});
-    if(!r.ok) throw new Error('feed');
-    const j=await r.json();
-    data=Array.isArray(j.items)?j.items:[];
-    if($('#updated')) $('#updated').textContent=j.updated_at?`Actualizado ${new Date(j.updated_at).toLocaleString('pt-PT',{dateStyle:'short',timeStyle:'short'})}`:'Actualização diária';
-    if($('#summary')) $('#summary').innerHTML=`<div class="insight"><span>👀</span><div><strong>3 coisas a acompanhar</strong><small>${(j.watch||[]).join(' · ')}</small></div></div><div class="insight"><span>⚠️</span><div><strong>Riscos</strong><small>${(j.risks||[]).join(' · ')}</small></div></div><div class="insight"><span>🚀</span><div><strong>Oportunidades</strong><small>${(j.opportunities||[]).join(' · ')}</small></div></div>`;
-    render();
-  }catch(e){
-    if($('#updated')) $('#updated').textContent='Não foi possível carregar as notícias.';
-    if($('#news')) $('#news').innerHTML='<div class="empty"><strong>Sem ligação ao feed.</strong><span>Toque em Actualizar para tentar novamente.</span></div>';
-  }
-}
-
-bind();
-load();
-if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
+function speak(text){if(!('speechSynthesis'in window)){alert('O áudio não é suportado neste navegador.');return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang='pt-PT';u.rate=.94;speechSynthesis.speak(u)}
+function setActive(group,value){$$(group+' button').forEach(b=>b.classList.toggle('active',b.dataset.section===value||b.dataset.topic===value))}
+function filteredItems(){return data.filter(x=>x.section===section&&(topic==='Todos'||(x.tags||[]).includes(topic)))}
+function render(){const items=filteredItems();if($('#count'))$('#count').textContent=`${items.length} ${items.length===1?'notícia':'notícias'}`;if($('#news'))$('#news').innerHTML='';items.forEach(x=>{const c=$('#card').content.cloneNode(true);c.querySelector('.meta').textContent=`${x.source||'Fonte'} · ${x.published||'Hoje'}`;c.querySelector('h3').textContent=x.title||'';c.querySelector('.summary').textContent=x.summary||'';c.querySelector('.why').textContent=x.why||'Contexto relevante para acompanhar.';c.querySelector('.impact').textContent=x.impact||'Acompanhar efeitos para Moçambique.';const a=c.querySelector('a');a.href=x.link||'#';c.querySelector('.speak').onclick=()=>speak(`${x.title||''}. ${x.summary||''} ${x.why||''} ${x.impact||''}`);$('#news').append(c)});if(!items.length&&$('#news'))$('#news').innerHTML='<div class="empty"><strong>Sem notícias neste filtro.</strong><span>Experimente “Todos” ou outro tema.</span></div>'}
+function bind(){$$('#sections button').forEach(b=>b.onclick=()=>{section=b.dataset.section;topic='Todos';setActive('#sections',section);setActive('#topics','Todos');render()});$$('#topics button').forEach(b=>b.onclick=()=>{topic=b.dataset.topic;setActive('#topics',topic);render()});$('#listenAll').onclick=()=>{const items=filteredItems();speak(`Briefing de ${section}. ${items.slice(0,7).map(x=>`${x.title||''}. ${x.summary||''}`).join(' ')}`)};if($('#refresh'))$('#refresh').onclick=()=>load(true);if($('#install'))$('#install').onclick=async()=>{if(!deferredPrompt)return;deferredPrompt.prompt();await deferredPrompt.userChoice;deferredPrompt=null;$('#install').hidden=true}}
+async function load(force=false){try{const r=await fetch(`news.json${force?'?t='+Date.now():''}`,{cache:'no-store'});if(!r.ok)throw new Error('feed');const j=await r.json();data=Array.isArray(j.items)?j.items:[];if($('#updated'))$('#updated').textContent=j.updated_at?`Actualizado ${new Date(j.updated_at).toLocaleString('pt-PT',{dateStyle:'short',timeStyle:'short'})}`:'Actualização diária';if($('#summary'))$('#summary').innerHTML=`<div class="insight"><span>👀</span><div><strong>3 coisas a acompanhar</strong><small>${(j.watch||[]).join(' · ')}</small></div></div><div class="insight"><span>⚠️</span><div><strong>Riscos</strong><small>${(j.risks||[]).join(' · ')}</small></div></div><div class="insight"><span>🚀</span><div><strong>Oportunidades</strong><small>${(j.opportunities||[]).join(' · ')}</small></div></div>`;render()}catch(e){if($('#updated'))$('#updated').textContent='Não foi possível carregar as notícias.';if($('#news'))$('#news').innerHTML='<div class="empty"><strong>Sem ligação ao feed.</strong><span>Toque em Actualizar para tentar novamente.</span></div>'}}
+bind();load();
+window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;if($('#install'))$('#install').hidden=false});
+window.addEventListener('appinstalled',()=>{deferredPrompt=null;if($('#install'))$('#install').hidden=true});
+if('serviceWorker'in navigator)navigator.serviceWorker.register('sw.js');
