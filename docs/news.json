@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T12:42:38.257358+00:00",
+  "updated_at": "2026-09-15T13:09:20.073636+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,123 +7,173 @@
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
-      ],
-      "title": "13h Amadeu Guerra promete rapidez nos processos em curso",
-      "summary": "",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-15T13:29:06+00:00",
-      "age_hours": -0.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/noticiario-antena1/13h-amadeu-guerra-promete-rapidez-nos-processos-em-curso_a1_1765570"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
+        "Energia",
+        "Economia"
       ],
       "title": "Vagas de emprego recuam na zona euro e UE no segundo trimestre",
       "summary": "A taxa de empregos vagos recuou para 2,1% na zona euro e para 2,0%, no segundo trimestre, na União Europeia (UE), divulga hoje o Eurostat, sem apresentar dados para Portugal.",
       "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
-      "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
+      "impact": "Pode influenciar preços de energia, investimento, fornecedores e cadeias de abastecimento.",
       "source": "RTP Notícias — Últimas",
       "published": "2026-09-15T11:39:35+00:00",
-      "age_hours": 1.1,
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/vagas-de-emprego-recuam-na-zona-euro-e-ue-no-segundo-trimestre_n1765544"
+      "link": "https://www.rtp.pt/noticias/economia/vagas-de-emprego-recuam-na-zona-euro-e-ue-no-segundo-trimestre_n1765544",
+      "editorial_score": 11.69,
+      "source_tier": "A"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
         "Segurança"
       ],
-      "title": "Guerra nas estrelas. EUA admitem ter armas em órbita",
-      "summary": "Washington reconhece pela primeira vez que colocou armas convencionais no espaço para proteger as forças norte-americanas. O anúncio surge num contexto de crescente rivalidade com Rússia e China e de reforço das capacidades militares no domínio espacial.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-15T10:52:56+00:00",
-      "age_hours": 1.8,
+      "title": "Moçambique: Guerra ao furto de medicamentos chega às unidades de saúde - HealthNews",
+      "summary": "Moçambique: Guerra ao furto de medicamentos chega às unidades de saúde HealthNews",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "HealthNews",
+      "published": "2026-09-15T09:19:55+00:00",
+      "age_hours": 3.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/guerra-nas-estrelas-eua-admitem-ter-armas-em-orbita_n1765521"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjhYZERISGwwYzdreUduX2dXOGtIVFIyMTA1MmJ2eDhOMVNGSXpOa2xGMnBZUXRNTGJ1bXN4bUs1dmw2LUZHT1ZfaUlZVlYyazZwQ2praWxuUHEwU3V6SXY1MlBmUjgwZXNKMVdhZzIyS1JDLUxBc0lmU3E5ckt1U1p4Mm9zZHBpS2gwLXotQUhsVGFaRFlvZDN0Tk95cXhwZHRaZHZB?oc=5",
+      "editorial_score": 10.21,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Federica Mogherini, antiga Alta Representante da UE: \"Este é o mundo mais perigoso em que já vivemos\"",
-      "summary": "A ex-Ministra dos Negócios Estrangeiros italiana passou por Portugal, na escola de verão da Comissão Europeia, e deixou este alerta",
+      "title": "Parlamento Europeu aprova candidatos à liderança das autoridades dos mercados e bancária",
+      "summary": "O Parlamento Europeu confirmou hoje as candidaturas de Carlo Comporti para presidente da Autoridade Europeia dos Valores Mobiliários e Mercados (ESMA) e de Thomas Gstädtner para diretor executivo da Autoridade Bancária Europeia (EBA), concluindo a nomeação.",
       "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
       "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-15T09:25:29+00:00",
-      "age_hours": 3.3,
+      "published": "2026-09-15T13:00:49+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/rtpeuropa-comissao-europeia/federica-mogherini-antiga-alta-representante-da-ue-este-e-o-mundo-mais-perigoso-em-que-ja-vivemos_v1765501"
+      "link": "https://www.rtp.pt/noticias/economia/parlamento-europeu-aprova-candidatos-a-lideranca-das-autoridades-dos-mercados-e-bancaria_n1765559",
+      "editorial_score": 9.98,
+      "source_tier": "A"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "Energia"
-      ],
-      "title": "Kiev ataca refinaria russa após anúncio de acordo pelos EUA",
-      "summary": "A Ucrânia atacou hoje uma refinaria na região russa de Samara, após o anúncio do Presidente dos Estados Unidos, Donald Trump, de que Kiev e Moscovo tinham acordado abster-se de atacar mutuamente infraestruturas ligadas a energia.",
-      "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
-      "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-15T08:38:18+00:00",
-      "age_hours": 4.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/kiev-ataca-refinaria-russa-apos-anuncio-de-acordo-pelos-eua_n1765488"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
         "Economia"
       ],
-      "title": "Tailândia e Camboja iniciam mediação internacional de disputa marítima",
-      "summary": "Os ministros dos Negócios Estrangeiros da Tailândia e do Camboja iniciaram hoje em Singapura, sob mediação da ONU, um processo de conciliação para resolver uma disputa marítima envolvendo reservas de gás e hidrocarbonetos.",
-      "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
-      "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-15T07:46:16+00:00",
-      "age_hours": 4.9,
+      "title": "ANGOLA: ZONA ECONÓMICA ESPECIAL QUER CHEGAR AOS 50 MIL EMPREGOS - 24Horas.pt",
+      "summary": "ANGOLA: ZONA ECONÓMICA ESPECIAL QUER CHEGAR AOS 50 MIL EMPREGOS 24Horas.pt",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para a região.",
+      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "24Horas.pt",
+      "published": "2026-09-15T10:00:17+00:00",
+      "age_hours": 3.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/tailandia-e-camboja-iniciam-mediacao-internacional-de-disputa-maritima_n1765472"
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9vVE5XdmlTa2FnWDVJRlV1bTNsY1VJSTlOd1lSa0Z3SmhscHlFR2NVYk9TZ3lDUTBZN0lrWHBfT2VQS1pUMEZjbzdpQ0ZSeld5SUNnUUVhT2RER1BjN3JrVDJaRi1FT3YwejRKMWgtZ3VINlZfRnFzSW92eU1zT09xZlZtVTZwX2g4cUpEekxyNWs?oc=5",
+      "editorial_score": 9.33,
+      "source_tier": "C"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo quer reduzir desnutrição crónica infantil para 30% até 2029 - Carta de Moçambique",
+      "summary": "Governo quer reduzir desnutrição crónica infantil para 30% até 2029 Carta de Moçambique",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "Carta de Moçambique",
+      "published": "2026-09-15T08:37:10+00:00",
+      "age_hours": 4.5,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaWxET0xtY21SVGFqNGtib1ctdHNLQklYTXhMcU1ERU41cGJheFlFU25RMmhCaEFOSnBnNzVENnB5d2RHNTV0ckJzWE5QdjhibEFZQlN0MXZpb0pQNkxSdENaNnBtQW9CTUxlVWJ5dFMtd2xDcW85X3M3MWdmQW1PZU9pYVBBVjlFUDh3MlRJRE9oY19xZ2d0Tlp1aWI0c1lmMnNESg?oc=5",
+      "editorial_score": 9.06,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
       "tags": [
         "Segurança"
       ],
-      "title": "Pentágono admite escassez de munições devido à guerra",
-      "summary": "O Departamento de Defesa dos Estados Unidos reconheceu, num relatório publicado na segunda-feira, uma &quot;escassez&quot; de munições ligada à guerra contra o Irão, uma constatação que o Governo norte-americano tinha até agora recusado confirmar.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-15T07:25:20+00:00",
-      "age_hours": 5.3,
+      "title": "Moçambique entre os países mais vulneráveis à insegurança alimentar em África - Portal Impala",
+      "summary": "Moçambique entre os países mais vulneráveis à insegurança alimentar em África Portal Impala",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "Portal Impala",
+      "published": "2026-09-15T09:29:11+00:00",
+      "age_hours": 3.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/pentagono-admite-escassez-de-municoes-devido-a-guerra_n1765477"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVhlY1FaLXJxbGprMVFpVXdiUGM5eXM3aXBodzR4MWt3Yi05ZzByUWN2TFZmbkpMdW9kZ1V0Mk9PODVLY21lSDdKUm1LN0YwbExSSzZUQzFMNF85YVgzbGI2aDZac0RMbmhILThVT1FXY2M4d0xZZDgyN2lBa1pSTTltcTVJV1NNWXo5bmx4YlNQMW9UMlhieEVLTktIWmxaT2J2VTdHcWw3STRLcS1WZVpHZHVKWkFTdlE?oc=5",
+      "editorial_score": 7.23,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "IA"
       ],
-      "title": "China aprova legislação que endurece controlo sobre viagens ao estrangeiro",
-      "summary": "A China introduziu novos e abrangentes controlos sobre as viagens ao estrangeiro dos seus cidadãos, numa altura em que intensifica os esforços para proteger segredos de Estado, tecnologia e trabalhadores altamente qualificados.",
+      "title": "Dubai quer usar inteligência artificial para redesenhar a experiência de viagem - Ambitur",
+      "summary": "Dubai quer usar inteligência artificial para redesenhar a experiência de viagem Ambitur",
       "why": "A evolução tecnológica está a mudar produtividade, regulação e modelos de negócio.",
       "impact": "Pode criar procura por competências digitais e novas oportunidades, mas também aumentar a pressão por adaptação e regulação.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-15T07:01:31+00:00",
-      "age_hours": 5.7,
+      "source": "Ambitur",
+      "published": "2026-09-15T13:02:49+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/china-aprova-legislacao-que-endurece-controlo-sobre-viagens-ao-estrangeiro_n1765464"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2poNXJpRHBfSi1KOHdiaXJRM0ItMjZIYUdOVHhKZDdjUHpBaEl2SS1acmx4QW9aMHBqWXJhVG1qSlpYR3VjLTVvSG1jajRUV2JwLUZyS0JKUGRMWVozdjlvcm5XN3RpUUI0bjdWb1liVzRRa1lfZ1pZeHRqczByVjdCVTNOQzFmcUUxVmw5YWY1bHppMmVJUDQxVXNuNWZ6WlVtMWVR?oc=5",
+      "editorial_score": 6.98,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "TOTVS leva debate sobre Inteligência Artificial estratégica e prática a empresários do Recife - jc.uol.com.br",
+      "summary": "TOTVS leva debate sobre Inteligência Artificial estratégica e prática a empresários do Recife jc.uol.com.br",
+      "why": "A evolução tecnológica está a mudar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, mas também aumentar a pressão por adaptação e regulação.",
+      "source": "jc.uol.com.br",
+      "published": "2026-09-15T12:19:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeTFVREVOVFA1bEhZR3pKMVNWekl0Z3VkenJ5YXNsZF95SzRfU0R0dDdLeEY5LUFBNHRIMDJtZnhBYXRQM3FEX0ptMlI1QVRZUWFRRXVnWjNJYXRNOGJZOWR0bWplQ2k4cmdNcVF0ZDZEd3JoSzF6MHZ6ZXNJdjlHellSQkk4cEtfTXBoSlo3Q2NQTzcxY2djSkhST3NPS2ppeFR0RnBWX29hV28tNndSZ2dOdE1sM3c0NExGZm5kLVRLZ3pzV3FneGhXTVRDdmpPZ2x0Y1g2UQ?oc=5",
+      "editorial_score": 6.83,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Ascensão de emergentes como Brasil e China desafia sistema multilateral de comércio, diz OMC - estadao.com.br",
+      "summary": "Ascensão de emergentes como Brasil e China desafia sistema multilateral de comércio, diz OMC estadao.com.br",
+      "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
+      "source": "estadao.com.br",
+      "published": "2026-09-15T12:13:00+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGViZGhPVExOMXpVLUlJTzN1eGZyUjduWmFUR0JhcWZPWXNqTnFJd0psSjd5dWVyYldBbThkbWlzSlZ6RTRlWjhZLURyNG13Vkx5VDE1cjhjcVlTOVc5LTBPanM3Tkk0SEZOTXhiSmliWTFXQUhnVWFQYkZ2emctQVd0ZXN6MFBHaFQxU0JMOV9DUHNVeWxVbUdR0gGfAUFVX3lxTE1nSW1vV21WN1VoemNBTkRlcENWWkZKRlgzSDlSTlJDRmg1MGtUa0pvOW5EeUJISHh3NHl3TXlMVHNsQi1NUWdJOVRKQjVJUjhfLTBzUnRtenNCUlhCbnY5TUstdjNDQ1hOdk12cGRpZVBnTkVzZ0JlajcwMGF3aFVHLXJ3RE9iSEE2Qmtwdm5jNVAycjlZdG13SWhwU3VORQ?oc=5",
+      "editorial_score": 6.81,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Ataque a pipeline saudita arrisca tirar 360 milhões de barris do mercado - Jornal Económico",
+      "summary": "Ataque a pipeline saudita arrisca tirar 360 milhões de barris do mercado Jornal Económico",
+      "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
+      "source": "Jornal Económico",
+      "published": "2026-09-15T12:00:00+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMG5va2FPYmhFMmRsTFFEemNZamlXd2FHenZwSVNNTG95TXdLcDIzanNKRlhyRF8zM01KWnVENGhwVG10Y2FZQ2NVUkZod2pJdndoZzVGUGhjWVl1MDhqbTBZSlF6Ukk5R1hPd3B5aDh6N0l4Q3Z1aG55T21zajVJWTJYUzFoVFhwT0ViN0EtX2l3NkJrYW1mNTdaUmwxaTQxbFp6X1A3ZGJBYTRjbGhnTGJ1aUs?oc=5",
+      "editorial_score": 6.75,
+      "source_tier": "C"
     }
   ],
   "watch": [
@@ -144,8 +194,13 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 8,
-    "África": 0,
-    "Moçambique": 0
+    "Mundo": 6,
+    "África": 2,
+    "Moçambique": 2
+  },
+  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
+  "briefing_intro": {
+    "pt": "Bom dia. Este é o Briefing Diário. Hoje, vale a pena acompanhar primeiro os temas com maior impacto potencial em geopolítica, economia, energia, tecnologia e Moçambique.",
+    "en": "Good morning. This is the Daily Briefing. Today, focus first on the stories with the strongest potential relevance to geopolitics, the economy, energy, technology and Mozambique."
   }
 }

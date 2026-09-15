@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T12:42:41.464545+00:00",
+  "updated_at": "2026-09-15T13:09:24.491350+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -10,119 +10,171 @@
         "Economia"
       ],
       "title": "Tzu Chi hands over model house in Mozambique Island after 500 families trained in resilient construction techniques",
-      "summary": "The Tzu Chi Charity Foundation will officially hand over on Wednesday the first house built using affordable, locally available materials, as part of the Resilient Housing and Economic Empowerment Project in Mozambique Island, Nampula province, marking the end of the training phase. The handover of the model house marks the completion of the training phase&#8230; Source",
-      "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
+      "summary": "The Tzu Chi Charity Foundation will officially hand over on Wednesday the first house built using affordable, locally available materials, as part of the Resilient Housing and Economic Empowerment Project in Mozambique Island, Nampula province, marking the end of the training phase. The handover of the model house marks the completion of the training phase… Source",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T12:37:14+00:00",
-      "age_hours": 0.1,
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/tzu-chi-hands-over-model-house-in-mozambique-island-after-500-families-trained-in-resilient-construction-techniques/"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "BBC World",
-      "published": "2026-09-15T11:40:00+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
+      "link": "https://clubofmozambique.com/news/tzu-chi-hands-over-model-house-in-mozambique-island-after-500-families-trained-in-resilient-construction-techniques/",
+      "editorial_score": 12.9,
+      "source_tier": "B"
     },
     {
       "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mozambique and Portugal discuss new defence cooperation package",
+      "summary": "The Mozambican President and the Portuguese Defence Minister discussed the new package of bilateral cooperation in the sector, including the revision of the framework agreement on defence and the future of the European Union’s military mission in Mozambique. “We had an opportunity to take stock and agree on relevant steps regarding the future, both in… Source",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-15T12:59:47+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-and-portugal-discuss-new-defence-cooperation-package/",
+      "editorial_score": 11.96,
+      "source_tier": "B"
+    },
+    {
+      "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "UK Special Representative for Nature meets President Chapo in Maputo, strengthening UK-Mozambique global partnership on oceans and blue economy",
-      "summary": "President Daniel Chapo received on 14 September the UK Special Representative for Nature Ruth Davis, in Maputo for talks around UK-Mozambique global partnership on the blue economy, biodiversity and climate resilience. Recognizing Mozambique’s leadership on conservation and climate, the Special Representative and Chapo discussed upcoming opportunities for showcasing oceans partnership and advancing cooperation at UNGA&#8230; Source",
-      "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-15T11:00:04+00:00",
-      "age_hours": 1.7,
+      "title": "Nigeria, Australia Deepen Mining Skills Programme to Build Skilled Workforce, Unlock Business Opportunities - MSME Africa",
+      "summary": "Nigeria, Australia Deepen Mining Skills Programme to Build Skilled Workforce, Unlock Business Opportunities MSME Africa",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para a região.",
+      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "MSME Africa",
+      "published": "2026-09-15T13:07:03+00:00",
+      "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/uk-special-representative-for-nature-meets-president-chapo-in-maputo-strengthening-uk-mozambique-global-partnership-on-oceans-and-blue-economy/"
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaU5KWjJUOGYzZTM5dG0yazVoTXFiaGRPV1JoOFFucmRSaUQ0Ui1QVmNUcy1pNFFuX2JXbWJvWktCa0FFU2VHbWFQOWxKdEhQN0NQeU1sQ1dLcFN3M2RCdUo1WkZJc1MwODZxNG92TkRsb2RUQ2ZRT2RFRGMwWTAzN0JLSzQ0T3BjM3pOa1d4bVRfaWRvX2NSTHFzQU5US2xMY2x4Zm80Rm1xdXZMUWVYMjgzYVVCS1ZNcWdFX1VpOW5EYnJWakZSTFdEUGl5R3Z4?oc=5",
+      "editorial_score": 11.0,
+      "source_tier": "C"
     },
     {
-      "section": "Moçambique",
+      "section": "África",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Mozambique: President calls for early action to mitigate effects of El Niño",
-      "summary": "Mozambique&#8217;s president called on Monday for early action to mitigate the impacts of El Niño, which is approaching at an &#8220;accelerated and alarming&#8221; rate, and urged new ways of funding food security in one of the countries most affected by disasters. Speaking at the opening of the 1st National Conference on Food and Nutritional Security,&#8230; Source",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-15T08:42:32+00:00",
-      "age_hours": 4.0,
+      "title": "MTN South Africa Launches Fifth Women in Digital Business Challenge - TechAfrica News",
+      "summary": "MTN South Africa Launches Fifth Women in Digital Business Challenge TechAfrica News",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para a região.",
+      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "TechAfrica News",
+      "published": "2026-09-15T12:51:01+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-president-calls-for-early-action-to-mitigate-effects-of-el-nino/"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Lack of diversified diet affects 80 percent of Mozambican minors",
-      "summary": "Lack of diversified diet affects 80 percent of Mozambican minors, contributing to micronutrient deficiencies as well as increasing the risk of malnutrition, according to the health minister Ussene Isse. Speaking at the 1st National Conference on Food and Nutrition Security, held on Monday, in Maputo, the minister revealed that chronic malnutrition currently affects 37 percent&#8230; Source",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-15T08:35:12+00:00",
-      "age_hours": 4.1,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/lack-of-diversified-diet-affects-80-percent-of-mozambican-minors/"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mozambique and EU deepen cooperation in security and defense",
-      "summary": "The European Union (EU) and Mozambique have decided to deepen their cooperation in the fields of security and defense, with a particular focus on combating terrorism in the northern province of Cabo Delgado. The deepening of partnership was a key highlight during the official visit to Maputo by Lieutenant General Michiel van der Laan, head&#8230; Source",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-15T08:26:53+00:00",
-      "age_hours": 4.3,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-and-eu-deepen-cooperation-in-security-and-defense/"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "US scraps limits on emissions from coal and gas power plants",
-      "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-      "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
-      "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
-      "source": "BBC World",
-      "published": "2026-09-14T22:04:14+00:00",
-      "age_hours": 14.6,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVnVfUTg0dE51X19QZzUxRFlHSFhCVm9Vc1Y3R3A0ZVl1VEgtcGo1b1VZTDVsU1FTSFFyQi1WU2JOSXhfUTZVY3BKSldJdFFDVzB4UHNPQUNXM29NUlFCTXh0cHk5aG1sc2d2UjVZUEJJWDQ1SUFfSGZNTXo3N3d2TVVfUW1mOE9XSTc3R0FBVUJYZw?oc=5",
+      "editorial_score": 9.94,
+      "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
         "Energia"
       ],
-      "title": "Africa's richest man launches continent's biggest share sale",
-      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "title": "Norwegian state guarantee backs Lyra Energy's private power platform in South Africa - energize.co.za",
+      "summary": "Norwegian state guarantee backs Lyra Energy's private power platform in South Africa energize.co.za",
       "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
-      "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
-      "source": "BBC Africa",
-      "published": "2026-09-14T16:23:42+00:00",
-      "age_hours": 20.3,
+      "impact": "Pode influenciar preços de energia, investimento, fornecedores e cadeias de abastecimento.",
+      "source": "energize.co.za",
+      "published": "2026-09-15T12:30:00+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQk9JM1VYdlFfSFdYSWRDVXhZelRLSlNTOFcxNll1Y0RuX3lqZWc1NmZfYmFNZjRPR2xKUmFaOWU5a1pKZ3VheGdEWGJxNmhKa1E2UlJmZVdQOHNDcG5aelB6dFlWOXNEYl9HWjl4VmlCQVdmVTl0Y2hhY2laXzRuM0tQY1dSNWxKWVRsa2hRdDlRbkQzTV9maHZwalpTaXVfY1VCbW5mbGg5d21oMkx1ejZ4aElUVjF4UWc?oc=5",
+      "editorial_score": 9.85,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Three ways the Iran war changed the global economy - Egypt Independent",
+      "summary": "Three ways the Iran war changed the global economy Egypt Independent",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
+      "source": "Egypt Independent",
+      "published": "2026-09-15T12:47:54+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUNPbVlRdDA1Y2dzS2VOSFNoVm1uVDlrcWIwRWFpRWlfWW03OFR5R05OUzFveUFUM0IydGpzSWI0eGs5UHQzYzNDdHZsUWxjLXdidWgyQUpja0tST2ZIR3FDQW1vVUlmM3dlNmw3WmpxdDE3aC1URDhRckFGNV9QV3A1Y21pXzRhSm4tNQ?oc=5",
+      "editorial_score": 8.92,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "WTO warns of 'most serious and sustained' trade disruptions - CNA",
+      "summary": "WTO warns of 'most serious and sustained' trade disruptions CNA",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
+      "source": "CNA",
+      "published": "2026-09-15T12:22:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0Zmb2dMNjNIZVNuMnFZNExMMVJpZmVLYWN1TWNSemdiNWxpblBUZlAxb3ZhLWdYU2J1eUF0UTczdkg2ZFdXa2tfQmVFSzQ4R3drNFZfakxreXZ4Q2c3bzgybVRibmhoVk8wNloyYlBmbkQtb18tLU1ka3ZOZll2MnNJREhrU2NybUpFT3VDR24?oc=5",
+      "editorial_score": 8.83,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "VVater Wins 2026 World Future Award for Second Consecutive Year - Newswire.com",
+      "summary": "VVater Wins 2026 World Future Award for Second Consecutive Year Newswire.com",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
+      "source": "Newswire.com",
+      "published": "2026-09-15T13:00:00+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFVUczdHSklOdlg5Z3JJQVFpbGxCMWN0UERGX3EzVjdCM25zd1V5djVoZy15bUxTb2tMM0o2MU1vUS1Ybkh4ZzFkVU5JbkhETGo2Nl9sdXpUMzE2dnUwZGN1THJiSlFCdkJPVjdzZzM5dklhUXBCNUFOXzdmMVZHN1h6cEFLOFBaTkdxTVk1OGoyQWVtdzhjRA?oc=5",
+      "editorial_score": 7.96,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Opinion | The world is not so much embracing China as recoiling from Trump’s US - South China Morning Post",
+      "summary": "Opinion | The world is not so much embracing China as recoiling from Trump’s US South China Morning Post",
+      "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
+      "impact": "Pode influenciar preços de energia, investimento, fornecedores e cadeias de abastecimento.",
+      "source": "South China Morning Post",
+      "published": "2026-09-15T12:30:08+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWtiLW45REg3bVJtZlFEMjBueUZNVW82TUJHYlNMT2tlQWdBM2tiVEE3RTBHZkc4UHBXVXBIWi1UanhIR0NudTBxZDFDUlBTRHdyY25HVlU3eWhBc1JZdmRpaHJmRDBiTG5rc2ZTbU1IaXNuWEQwVXRPZzc0U05YaWNWSUMzMjlFcU45dkJoMjZ3Nl9OU3FGQnF3WU51TExVMWNZdWRwbU5LbG5tc3lVSUFB0gGyAUFVX3lxTE44TUwyNVBVSjBlREM2SE1fZDVSd0RtQWFwSHFDVEFYQ191ZFZ2QjBsR3NGMG9FYjBIZ1ZVVGdiV2RUNUs0RGY5QW96OU1yR0dWNlVaNk5YYy1tbzVvVy13QU1RM0FXdlhHUkVGdzl0Z3dCTVB5MmJqRDNZWlFSODU0eGRjWVlpZ2NYc1Z5S1IzQzNuemVfTWpOQmdNTTFnNGZaMlhhaDI4WVFPMnMxV05JUnc?oc=5",
+      "editorial_score": 7.85,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Right now, the Houthis are a bigger threat to the world economy than Iran - The Independent",
+      "summary": "Right now, the Houthis are a bigger threat to the world economy than Iran The Independent",
+      "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
+      "source": "The Independent",
+      "published": "2026-09-15T12:30:00+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFdHb2hiQzl4V080WmhrbDdMSmI3R2pkU3NfSVlSamZGVk4wYXdQRUwxOGlPdHo5NlNfU1RjWXN2VWhVSXpsblIxS0tJQXBVV2F0d0hqVVNzNVpxbmZkNUkzWkZtRTMzV1k5ZmFEcnRrZW9id0JIZnAyTDlXWlFmd0pNNlFYLXpCSFdVTW1LSTY?oc=5",
+      "editorial_score": 7.85,
+      "source_tier": "C"
     }
   ],
   "watch": [
@@ -143,8 +195,13 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 2,
-    "África": 1,
-    "Moçambique": 5
+    "Mundo": 5,
+    "África": 3,
+    "Moçambique": 2
+  },
+  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
+  "briefing_intro": {
+    "pt": "Bom dia. Este é o Briefing Diário. Hoje, vale a pena acompanhar primeiro os temas com maior impacto potencial em geopolítica, economia, energia, tecnologia e Moçambique.",
+    "en": "Good morning. This is the Daily Briefing. Today, focus first on the stories with the strongest potential relevance to geopolitics, the economy, energy, technology and Mozambique."
   }
 }
