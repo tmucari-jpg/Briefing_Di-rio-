@@ -17,9 +17,9 @@ RSS_PT={
  'Moçambique':[('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html'),('RTP Notícias — Últimas','https://www.rtp.pt/noticias/rss')]
 }
 RSS_EN={
- 'Mundo':[('BBC World','https://feeds.bbci.co.uk/news/world/rss.xml')],
- 'África':[('BBC Africa','https://feeds.bbci.co.uk/news/world/africa/rss.xml')],
- 'Moçambique':[('Club of Mozambique','https://clubofmozambique.com/feed/')]
+ 'Mundo':[('BBC World','https://feeds.bbci.co.uk/news/world/rss.xml'),('DW English','https://rss.dw.com/rdf/rss-en-all'),('Al Jazeera English','https://www.aljazeera.com/xml/rss/all.xml')],
+ 'África':[('BBC Africa','https://feeds.bbci.co.uk/news/world/africa/rss.xml'),('Le Monde Africa','https://www.lemonde.fr/en/africa/rss_full.xml'),('DW English','https://rss.dw.com/rdf/rss-en-all')],
+ 'Moçambique':[('Club of Mozambique','https://clubofmozambique.com/feed/'),('Le Monde Mozambique','https://www.lemonde.fr/en/mozambique/rss_full.xml'),('DW English','https://rss.dw.com/rdf/rss-en-all')]
 }
 
 THEMES=['energy','energia','lng','gás','gas','oil','petróleo','petroleo','econom','economia','investment','investimento','business','negócios','negocios','trade','comércio','comercio','market','mercado','artificial intelligence','inteligência artificial','technology','tecnologia','security','segurança','conflito','conflict','war','guerra','military','militar','sanction','sanções','infrastructure','infraestrutura','jobs','emprego','employment','mining','mineração','climate','drought','flood','water','água','interest rate','inflation','inflação','tariff','tarifas','election','eleição','eleições','governo','government','diplomacia','diplomacy','refugiados','refugees']
@@ -44,13 +44,15 @@ def dt(item):
     return None
 def age(d): return (datetime.now(timezone.utc)-d).total_seconds()/3600 if d else 99999
 def likely_portuguese(title,desc): return not any(x in (' '+title+' '+desc+' ').lower() for x in EN_WORDS)
-def relevant(sec,title,desc):
+def relevant(sec,title,desc,source=''):
     t=(title+' '+desc).lower()
     if any(x in t for x in BAD): return False
     if not any(x in t for x in THEMES): return False
-    if sec=='Mundo': return any(x in t for x in GLOBAL) or any(x in t for x in ['lng','gás','gas','energia','artificial intelligence','inteligência artificial','guerra','war','sanctions','sanções','tariffs','tarifas','inflation','inflação'])
-    if sec=='África': return any(x in t for x in AFRICA)
-    return any(x in t for x in MOZ)
+    if source=='Google News':
+        if sec=='Mundo': return any(x in t for x in GLOBAL) or any(x in t for x in ['lng','gás','gas','energia','artificial intelligence','inteligência artificial','guerra','war','sanctions','sanções','tariffs','tarifas','inflation','inflação'])
+        if sec=='África': return any(x in t for x in AFRICA)
+        return any(x in t for x in MOZ)
+    return True
 def tags(t):
     t=t.lower(); o=[]
     if any(x in t for x in ['energy','energia','lng','gás','gas','oil','petróleo','petroleo']): o.append('Energia')
@@ -73,12 +75,12 @@ def context(sec,t):
         return 'A notícia ajuda a perceber a direção da economia e das decisões de investimento.','Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.'
     return 'A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.','O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.'
 def parse(url,sec,source,hours,pt=True):
-    req=Request(url,headers={'User-Agent':'Mozilla/5.0 BriefingDiario/13','Accept':'application/rss+xml, application/xml, text/xml, */*'})
+    req=Request(url,headers={'User-Agent':'Mozilla/5.0 BriefingDiario/14','Accept':'application/rss+xml, application/xml, text/xml, */*'})
     with urlopen(req,timeout=30) as r: raw=r.read()
     f=feedparser.parse(raw); out=[]; now=datetime.now(timezone.utc)
     for i in f.entries:
         title,desc=clean(i.get('title')),clean(i.get('summary') or i.get('description')); d=dt(i)
-        if not title or not d or d>now.replace(microsecond=0) or age(d)>hours or not relevant(sec,title,desc): continue
+        if not title or not d or d>now.replace(microsecond=0) or age(d)>hours or not relevant(sec,title,desc,source): continue
         if pt and not likely_portuguese(title,desc): continue
         w,im=context(sec,title+' '+desc); actual_source=source
         try: actual_source=clean(i.get('source',{}).get('title') or source)
