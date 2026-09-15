@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'scripts/update_news.py'
+      - 'scripts/editorial_quality.py'
       - '.github/workflows/update.yml'
   workflow_dispatch:
   schedule:
@@ -18,32 +19,36 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-
       - name: Instalar dependências
         run: pip install feedparser
-
       - name: Actualizar briefing
         env:
           TZ: Africa/Maputo
         run: python scripts/update_news.py
-
-      - name: Validar feeds gerados
+      - name: Curadoria e qualidade editorial
+        run: python scripts/editorial_quality.py
+      - name: Validar briefing final
         run: |
-          test -s docs/news-pt.json
-          test -s docs/news-en.json
           python - <<'PY'
           import json
-          for f in ('docs/news-pt.json', 'docs/news-en.json'):
-              d=json.load(open(f, encoding='utf-8'))
-              n=len(d.get('items', []))
+          for f in ('docs/news-pt.json','docs/news-en.json'):
+              d=json.load(open(f,encoding='utf-8'))
+              n=len(d.get('items',[]))
+              c=d.get('section_counts',{})
               assert n >= 8, f'{f}: menos de 8 notícias'
-              print(f"{f}: {n} notícias")
+              assert c.get('Mundo',0) >= 4, f'{f}: Mundo insuficiente'
+              assert c.get('África',0) >= 2, f'{f}: África insuficiente'
+              assert c.get('Moçambique',0) >= 2, f'{f}: Moçambique insuficiente'
+              assert len({x.get('title','').strip().lower() for x in d['items']}) == n, f'{f}: títulos duplicados'
+              for x in d['items']:
+                  for k in ('title','summary','why','impact','source','link','published','editorial_score','source_tier'):
+                      assert x.get(k), f'{f}: campo ausente {k}'
+                  assert x['source_tier'] in ('A','B','C')
+              print(f'{f}: {n} notícias · {c}')
           PY
-
       - name: Commit notícias
         run: |
           git config user.name 'github-actions[bot]'
@@ -52,6 +57,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'Sem alterações nas notícias.'
           else
-            git commit -m 'chore: atualizar briefing diário'
+            git commit -m 'chore: actualizar briefing editorial'
             git push
           fi
