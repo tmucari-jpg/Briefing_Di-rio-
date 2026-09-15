@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:42:33.898747+00:00",
+  "updated_at": "2026-09-15T11:54:30.454341+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -15,7 +15,7 @@
       "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T08:42:32+00:00",
-      "age_hours": 3.0,
+      "age_hours": 3.2,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-president-calls-for-early-action-to-mitigate-effects-of-el-nino/"
     },
@@ -30,7 +30,7 @@
       "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T08:35:12+00:00",
-      "age_hours": 3.1,
+      "age_hours": 3.3,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/lack-of-diversified-diet-affects-80-percent-of-mozambican-minors/"
     },
@@ -45,7 +45,7 @@
       "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T08:26:53+00:00",
-      "age_hours": 3.3,
+      "age_hours": 3.5,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-and-eu-deepen-cooperation-in-security-and-defense/"
     },
@@ -60,7 +60,7 @@
       "impact": "Para Moçambique, interessa por produtividade, emprego digital, serviços públicos e novas oportunidades de negócio.",
       "source": "BBC World",
       "published": "2026-09-15T02:50:36+00:00",
-      "age_hours": 8.9,
+      "age_hours": 9.1,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss"
     },
@@ -75,7 +75,7 @@
       "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
       "source": "BBC World",
       "published": "2026-09-15T01:08:55+00:00",
-      "age_hours": 10.6,
+      "age_hours": 10.8,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss"
     },
@@ -90,7 +90,7 @@
       "impact": "Para Moçambique, importa pela exposição ao gás, energia, logística e receitas de exportação.",
       "source": "BBC World",
       "published": "2026-09-14T22:04:14+00:00",
-      "age_hours": 13.6,
+      "age_hours": 13.8,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss"
     },
@@ -106,7 +106,7 @@
       "impact": "Para Moçambique, interessa por produtividade, emprego digital, serviços públicos e novas oportunidades de negócio.",
       "source": "BBC World",
       "published": "2026-09-14T21:58:41+00:00",
-      "age_hours": 13.7,
+      "age_hours": 13.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss"
     },
@@ -121,7 +121,7 @@
       "impact": "Para Moçambique, importa pela exposição ao gás, energia, logística e receitas de exportação.",
       "source": "BBC World",
       "published": "2026-09-14T16:23:42+00:00",
-      "age_hours": 19.3,
+      "age_hours": 19.5,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
     },
@@ -136,7 +136,7 @@
       "impact": "Para Moçambique, importa pela exposição ao gás, energia, logística e receitas de exportação.",
       "source": "BBC Africa",
       "published": "2026-09-14T16:23:42+00:00",
-      "age_hours": 19.3,
+      "age_hours": 19.5,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
     },
@@ -151,7 +151,7 @@
       "impact": "O impacto potencial para Moçambique deve ser acompanhado através de comércio, energia, investimento e condições financeiras.",
       "source": "BBC World",
       "published": "2026-09-14T15:01:28+00:00",
-      "age_hours": 20.7,
+      "age_hours": 20.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss"
     }
