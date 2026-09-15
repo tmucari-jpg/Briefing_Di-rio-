@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:34:40.084449+00:00",
+  "updated_at": "2026-09-15T09:45:22.318305+00:00",
   "language": "pt",
   "items": [
     {
@@ -14,6 +14,19 @@
       "source": "BBC",
       "published": "Mon, 14 Sep 2026 22:22:49 GMT",
       "link": "https://www.bbc.com/portuguese/articles/cqdr7npp6v4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "EUA confirmam ter colocado pela primeira vez armamentos no espaço",
+      "summary": "Secretário da Força Aérea dos EUA afirma que as armas são necessárias para defender o país contra ações inimigas.",
+      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
+      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
+      "source": "BBC",
+      "published": "Tue, 15 Sep 2026 09:40:59 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cm750xnveq4yo?at_medium=RSS&at_campaign=rss"
     },
     {
       "section": "Mundo",
@@ -70,6 +83,19 @@
     {
       "section": "Mundo",
       "tags": [
+        "Energia"
+      ],
+      "title": "Elas foram melhores amigas por décadas, até que um exame de DNA revelou que são irmãs",
+      "summary": "A história de Meena Geltink e Minal Tijssen parece saída diretamente de um filme de Bollywood: nascidas na Índia, elas foram adotadas quando bebês por famílias diferentes e criadas perto uma da outra na Holanda. Até descobrirem que são irmãs.",
+      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
+      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
+      "source": "BBC",
+      "published": "Mon, 14 Sep 2026 17:42:17 GMT",
+      "link": "https://www.bbc.com/portuguese/articles/cx62mll11z2go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Economia"
       ],
       "title": "Homem admite ter drogado e estuprado a esposa por 20 anos no Reino Unido",
@@ -92,32 +118,6 @@
       "source": "BBC",
       "published": "Mon, 14 Sep 2026 16:42:16 GMT",
       "link": "https://www.bbc.com/portuguese/articles/c5ydqd0w4w1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas para presidente da BBC News Brasil",
-      "summary": "Acompanhe as últimas estimativas de intenção de voto para Lula x Flávio na eleição presidencial de 2026 reunidas no agregador de pesquisas eleitorais da BBC News Brasil.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 18:30:54 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Elas foram melhores amigas por décadas, até que um exame de DNA revelou que são irmãs",
-      "summary": "A história de Meena Geltink e Minal Tijssen parece saída diretamente de um filme de Bollywood: nascidas na Índia, elas foram adotadas quando bebês por famílias diferentes e criadas perto uma da outra na Holanda. Até descobrirem que são irmãs.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 17:42:17 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/cx62mll11z2go?at_medium=RSS&at_campaign=rss"
     },
     {
       "section": "Mundo",
