@@ -1,136 +1,164 @@
 {
-  "updated_at": "2026-09-15T09:45:23.672028+00:00",
+  "updated_at": "2026-09-15T11:42:36.240300+00:00",
   "language": "en",
+  "window_hours": 24,
+  "fallback_hours": 72,
   "items": [
     {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "BRICS Delhi Declaration signals grudge over global trade rules - The Financial Express",
-      "summary": "BRICS Delhi Declaration signals grudge over global trade rules &nbsp;&nbsp; The Financial Express",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
-      "source": "Google News",
-      "published": "Mon, 14 Sep 2026 18:23:24 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjBTbEJNWllKQnlKdkJFUzBld2hra0s0VmkzSjhsQWVsVGRqRTNhWVhIcXViUUU4M2Zrc2tvUGJaSV9qVTFXbzBDVWdQVlJKNHI3Ry13N01YLXFqdXEyTmFzelZQQmRpa3N6YnNmc1Jpa0dEOWhLN1o1bHI2aTBBVjlNYm5WaW0wTmNzUExycXFJS3d0WjZ2Nmd4dFVWUF92Rk81czYyRE4?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Gastech 2026 Opens in Bangkok with a Clear Message: the Industry Must Deliver More Energy for a Growing World - thewire.in",
-      "summary": "Gastech 2026 Opens in Bangkok with a Clear Message: the Industry Must Deliver More Energy for a Growing World &nbsp;&nbsp; thewire.in",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
-      "source": "Google News",
-      "published": "Mon, 14 Sep 2026 12:29:55 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRndoUEw1MmtySUo3ZUZFSWJtWkhDaFFUNXBLQlQ3YTZNN2FZcXhOTlRGODdEMXZPY3NVT3lEUTRLR2VmWEF3R2lVdVpnanRzUEMxM01saFdpM25iUWtGbXlGRkp5cnF5MDBjNHNMWlhEQ3lVTWVKd0d4ZDBvcVJJcjlLbnpzQzNjNjhZT0dMMjdnM18yOXdrYVI1NVA0dWVubU1RRG1CR1lUX2tncmxHYTBLb0lCdGFEeWFzVm5IdFp5aW52XzRGNXJNU1VkY2RxS0VmYTJHcG9ZSkZRZEYtdUNPVjJEZ9IB5gFBVV95cUxQRndoUEw1MmtySUo3ZUZFSWJtWkhDaFFUNXBLQlQ3YTZNN2FZcXhOTlRGODdEMXZPY3NVT3lEUTRLR2VmWEF3R2lVdVpnanRzUEMxM01saFdpM25iUWtGbXlGRkp5cnF5MDBjNHNMWlhEQ3lVTWVKd0d4ZDBvcVJJcjlLbnpzQzNjNjhZT0dMMjdnM18yOXdrYVI1NVA0dWVubU1RRG1CR1lUX2tncmxHYTBLb0lCdGFEeWFzVm5IdFp5aW52XzRGNXJNU1VkY2RxS0VmYTJHcG9ZSkZRZEYtdUNPVjJEZw?oc=5"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
-      "source": "BBC",
-      "published": "Tue, 15 Sep 2026 08:49:31 GMT",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
-      "source": "BBC",
-      "published": "Tue, 15 Sep 2026 02:50:36 GMT",
-      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
         "Segurança"
       ],
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
+      "title": "Lack of diversified diet affects 80 percent of Mozambican minors",
+      "summary": "Lack of diversified diet affects 80 percent of Mozambican minors, contributing to micronutrient deficiencies as well as increasing the risk of malnutrition, according to the health minister Ussene Isse. Speaking at the 1st National Conference on Food and Nutrition Security, held on Monday, in Maputo, the minister revealed that chronic malnutrition currently affects 37 percent&#8230; Source",
+      "why": "It can change geopolitical risks, trade routes, energy and financing costs.",
+      "impact": "Mozambique may feel effects through imports, energy, regional trade and investment.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-15T08:35:12+00:00",
+      "age_hours": 3.1,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/lack-of-diversified-diet-affects-80-percent-of-mozambican-minors/"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mozambique and EU deepen cooperation in security and defense",
+      "summary": "The European Union (EU) and Mozambique have decided to deepen their cooperation in the fields of security and defense, with a particular focus on combating terrorism in the northern province of Cabo Delgado. The deepening of partnership was a key highlight during the official visit to Maputo by Lieutenant General Michiel van der Laan, head&#8230; Source",
+      "why": "It can change geopolitical risks, trade routes, energy and financing costs.",
+      "impact": "Mozambique may feel effects through imports, energy, regional trade and investment.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-15T08:26:53+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-and-eu-deepen-cooperation-in-security-and-defense/"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Africa gas & LNG summit 2026 to put Mozambique at centre of debate on gas investment and industrialization - Africa Sustainability Matters",
+      "summary": "Africa gas & LNG summit 2026 to put Mozambique at centre of debate on gas investment and industrialization &nbsp;&nbsp; Africa Sustainability Matters",
+      "why": "It matters because it can affect prices, investment and energy security.",
+      "impact": "For Mozambique, it matters because of exposure to gas, energy, logistics and export revenues.",
+      "source": "Google News",
+      "published": "2026-09-15T07:56:52+00:00",
+      "age_hours": 3.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV2FuVGUtcHFKY0JqWXFyVkxPWFNvbDlZUW5nSFkyMU0zN0F1MUxHbEhwTGt3WWpVQk1nekw3QmZSTTFWUnBraEpJN2R6djM2UldfREpMOHJ5U09FTVVQdEp4VV9OOXNLbHA5ejZweWg5ZjFNcWVic0FsbXZUcExNOTh1UHp2S0tFMTNiRDh5VE8xRTJRVmlBUzU3MW1ZdGlwSk1MYUFMUTVoeHB4NG9JdS0tdTRDS0N4dmVuWmpsdzlOcHp5OHVzaG01YXJ1eXdwUEFUUGh0bkZpcC1YZWc?oc=5"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Algeria-Mali: Economic Corridors Key to Regional Stability, Experts Say - دزاير تيوب",
+      "summary": "Algeria-Mali: Economic Corridors Key to Regional Stability, Experts Say &nbsp;&nbsp; دزاير تيوب",
+      "why": "It helps track a relevant change in the economy and geopolitics.",
+      "impact": "Potential effects on Mozambique should be monitored through trade, energy, investment and financial conditions.",
+      "source": "Google News",
+      "published": "2026-09-14T18:23:30+00:00",
+      "age_hours": 17.3,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnkzRURESFY0ODdLT2dCeUozUXBENmFHYkMzcXg1WUdQX095bDVIREJjN05NQVBlVW5XNHBmTmFDZnFjOEdfX2VHcldBanhJd3F4MzB1amFuVl9FZTI5NTg3Qy1KV3RObUlhZVdOUnJGU3lXdGFqYUg2OVhfQkVOejlzZzFMVXRZUXZqMEpYQU42ZHltTTVnRTFCMXJPcGNX?oc=5"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Defense tech-firm locks in $1M deal to protect critical lithium and gold mines amid $500M development push in Nigeria - Business Insider Africa",
+      "summary": "Defense tech-firm locks in $1M deal to protect critical lithium and gold mines amid $500M development push in Nigeria &nbsp;&nbsp; Business Insider Africa",
+      "why": "It helps track a relevant change in the economy and geopolitics.",
+      "impact": "Potential effects on Mozambique should be monitored through trade, energy, investment and financial conditions.",
+      "source": "Google News",
+      "published": "2026-09-14T17:40:23+00:00",
+      "age_hours": 18.0,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM1NGYlMxX2pWRHVfSW1WYnpIeVFnLWlaRGw0Y19BUDQwTUFkQVJCVHFGTjNjeWZVOGdXSjBOcGM2bW9SdGxCUlhPQmVsandOTnM2al9pb0tGbjlrNGgxN2JmdFk0eDdYWUowUnFqU2NvNzZEdldpSUxMdEFjeWdSTlcySTJpWW1kTzE2UWpWZVhlRXdrQWxrbEpNQ0ZQTUJFekl4eGk3TFNyMG1lbHBxNl8tMEs3LWthcHBuV2QtSUozNzZ5TzVLLXk4TmJ4dm5wUWxzZHp2WQ?oc=5"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "why": "It matters because it can affect prices, investment and energy security.",
+      "impact": "For Mozambique, it matters because of exposure to gas, energy, logistics and export revenues.",
       "source": "BBC",
-      "published": "Tue, 15 Sep 2026 03:50:06 GMT",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-09-14T16:23:42+00:00",
+      "age_hours": 19.3,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+      "why": "It helps track a relevant change in the economy and geopolitics.",
+      "impact": "Potential effects on Mozambique should be monitored through trade, energy, investment and financial conditions.",
       "source": "BBC",
-      "published": "Tue, 15 Sep 2026 09:07:35 GMT",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss"
+      "published": "2026-09-14T15:01:28+00:00",
+      "age_hours": 20.7,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "IA",
+        "Economia"
+      ],
+      "title": "AI Selloff and Oil Surge Hit Overseas Markets - stl.news",
+      "summary": "AI Selloff and Oil Surge Hit Overseas Markets &nbsp;&nbsp; stl.news",
+      "why": "It matters because it can affect prices, investment and energy security.",
+      "impact": "For Mozambique, it matters because of exposure to gas, energy, logistics and export revenues.",
+      "source": "Google News",
+      "published": "2026-09-14T13:17:41+00:00",
+      "age_hours": 22.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxeTZRZUJXZjRTN1Rnb1JOSHJsTVp1R0ZmbmRpYjRCUTVDdkpSZzdlWEt1T09nT0YxNkFNZkY3RmdQcVZoY3cycExvVlliRFlVZ2dGcHhrZ3ZLSnBaMkoxRGdjS0s5dWJIMjZuTDQtSldKcTB3bUE?oc=5"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
-      "source": "BBC",
-      "published": "Tue, 15 Sep 2026 09:37:00 GMT",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss"
+      "title": "Citigroup and Goldman Sachs Anticipate Bank of England Rate Hikes Amid Inflation Concerns - Devdiscourse",
+      "summary": "Citigroup and Goldman Sachs Anticipate Bank of England Rate Hikes Amid Inflation Concerns &nbsp;&nbsp; Devdiscourse",
+      "why": "It helps track a relevant change in the economy and geopolitics.",
+      "impact": "Potential effects on Mozambique should be monitored through trade, energy, investment and financial conditions.",
+      "source": "Google News",
+      "published": "2026-09-14T12:48:21+00:00",
+      "age_hours": 22.9,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdG1lV0NvVEhqelhjTEJWa194Sk4wcjZlUU5Sd0YwWXFQZXc2V1U3MnpWdVRYWW43Z3V4cGRVd1BPN1RrU0pjZnFCdzBlTDVXUjRIWFpxMzVFMlcyR25HbmVzUTczbjN2U2FwcmprdnU5Y2RzY2dzd1B4akY1RVNWUkRuS2pMSDRuRGc0Nm5VYzU2a3pJRm94V3dNZnRzNE9yaXBPWXJ2WFR0cS1Ib3dwOHNldlpVR2ZlLXRscm9fTlc1TGltcm5ETmdzWWo2MGlWRi1kcmJRNHBpSVcxSkV5RNIB4AFBVV95cUxPdG1lV0NvVEhqelhjTEJWa194Sk4wcjZlUU5Sd0YwWXFQZXc2V1U3MnpWdVRYWW43Z3V4cGRVd1BPN1RrU0pjZnFCdzBlTDVXUjRIWFpxMzVFMlcyR25HbmVzUTczbjN2U2FwcmprdnU5Y2RzY2dzd1B4akY1RVNWUkRuS2pMSDRuRGc0Nm5VYzU2a3pJRm94V3dNZnRzNE9yaXBPWXJ2WFR0cS1Ib3dwOHNldlpVR2ZlLXRscm9fTlc1TGltcm5ETmdzWWo2MGlWRi1kcmJRNHBpSVcxSkV5RA?oc=5"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia",
+        "IA",
+        "Economia",
+        "Segurança"
       ],
-      "title": "US confirms for first time it has deployed space weapons",
-      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
-      "source": "BBC",
-      "published": "Tue, 15 Sep 2026 08:48:28 GMT",
-      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-      "summary": "An Instagram post from the couple said two nights of their wedding festivities in the Bahamas were partially funded by Umar Kremlev.",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 22:56:44 GMT",
-      "link": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-      "why": "Helps track decisions, risks and opportunities that may affect Mozambique.",
-      "impact": "Assess potential effects on energy, economy, security, jobs, technology and investment.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 11:31:39 GMT",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss"
+      "title": "AI Stock Tsunami: Global Markets Recoil Amid Safety Warnings - Devdiscourse",
+      "summary": "AI Stock Tsunami: Global Markets Recoil Amid Safety Warnings &nbsp;&nbsp; Devdiscourse",
+      "why": "It matters because it can affect prices, investment and energy security.",
+      "impact": "For Mozambique, it matters because of exposure to gas, energy, logistics and export revenues.",
+      "source": "Google News",
+      "published": "2026-09-14T12:42:01+00:00",
+      "age_hours": 23.0,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMklxcGlCYnJxZWVFbGpaTlZSb2hIbU52R2N3aEtWQTBieGtFUWgxZ3V1Mko3TFpsdDJMWFZscDJMaUQ5Qk8xaGQyMElxbXBZc2VhdEYxVFlWQzZnakY1cm0zUm0tZW5oNW1XN1AzM2ljcGN2RzdwRng3ODFPMGVCbk1STEFLV29tTVZuZkE3SEVmUUZyYnBXUnAtM0RYeXItYlhWd29oZjdZZEJjcGNJVzd6eUJjM2ND0gG4AUFVX3lxTFAySXFwaUJicnFlZUVsalpOVlJvaEhtTnZHY3doS1ZBMGJ4a0VRaDFndXUySjdMWmx0MkxYVmxwMkxpRDlCTzFoZDIwSXFtcFlzZWF0RjFUWVZDNmdqRjVybTNSbS1lbmg1bVc3UDMzaWNwY3ZHN3BGeDc4MU8wZUJuTVJMQUtXb21NVm5mQTdIRWZRRnJicFdScC0zRFh5ci1iWFZ3b2hmN1lkQmNwY0lXN3p5QmMzY0M?oc=5"
     }
   ],
   "watch": [
@@ -149,5 +177,10 @@
     "Technology and AI",
     "Jobs, business and investment"
   ],
-  "generator": "GitHub Actions · Briefing Diário"
+  "generator": "GitHub Actions · Briefing Diário",
+  "section_counts": {
+    "Mundo": 4,
+    "África": 3,
+    "Moçambique": 3
+  }
 }

@@ -1,136 +1,159 @@
 {
-  "updated_at": "2026-09-15T09:45:22.318305+00:00",
+  "updated_at": "2026-09-15T11:42:33.898747+00:00",
   "language": "pt",
+  "window_hours": 24,
+  "fallback_hours": 72,
   "items": [
     {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mozambique: President calls for early action to mitigate effects of El Niño",
+      "summary": "Mozambique&#8217;s president called on Monday for early action to mitigate the impacts of El Niño, which is approaching at an &#8220;accelerated and alarming&#8221; rate, and urged new ways of funding food security in one of the countries most affected by disasters. Speaking at the opening of the 1st National Conference on Food and Nutritional Security,&#8230; Source",
+      "why": "Pode alterar riscos geopolíticos, rotas comerciais, energia e custos de financiamento.",
+      "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-15T08:42:32+00:00",
+      "age_hours": 3.0,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-president-calls-for-early-action-to-mitigate-effects-of-el-nino/"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Lack of diversified diet affects 80 percent of Mozambican minors",
+      "summary": "Lack of diversified diet affects 80 percent of Mozambican minors, contributing to micronutrient deficiencies as well as increasing the risk of malnutrition, according to the health minister Ussene Isse. Speaking at the 1st National Conference on Food and Nutrition Security, held on Monday, in Maputo, the minister revealed that chronic malnutrition currently affects 37 percent&#8230; Source",
+      "why": "Pode alterar riscos geopolíticos, rotas comerciais, energia e custos de financiamento.",
+      "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-15T08:35:12+00:00",
+      "age_hours": 3.1,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/lack-of-diversified-diet-affects-80-percent-of-mozambican-minors/"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mozambique and EU deepen cooperation in security and defense",
+      "summary": "The European Union (EU) and Mozambique have decided to deepen their cooperation in the fields of security and defense, with a particular focus on combating terrorism in the northern province of Cabo Delgado. The deepening of partnership was a key highlight during the official visit to Maputo by Lieutenant General Michiel van der Laan, head&#8230; Source",
+      "why": "Pode alterar riscos geopolíticos, rotas comerciais, energia e custos de financiamento.",
+      "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-15T08:26:53+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-and-eu-deepen-cooperation-in-security-and-defense/"
+    },
+    {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "IA"
       ],
-      "title": "Caso Moraes-Vorcaro: o que está em jogo no STF e quem fala primeiro na sessão",
-      "summary": "A expectativa é que os ministros decidam sobre uma possível abertura de investigação contra Alexandre de Moraes, mas detalhes sobre sessão ainda geram dúvidas nos bastidores: entenda o que pode acontecer.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 22:22:49 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/cqdr7npp6v4xo?at_medium=RSS&at_campaign=rss"
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+      "why": "Pode acelerar ou travar investimento, regulação e adoção tecnológica.",
+      "impact": "Para Moçambique, interessa por produtividade, emprego digital, serviços públicos e novas oportunidades de negócio.",
+      "source": "BBC World",
+      "published": "2026-09-15T02:50:36+00:00",
+      "age_hours": 8.9,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mass nesting brings swarms of turtles to Mexican beach",
+      "summary": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
+      "why": "Pode alterar riscos geopolíticos, rotas comerciais, energia e custos de financiamento.",
+      "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
+      "source": "BBC World",
+      "published": "2026-09-15T01:08:55+00:00",
+      "age_hours": 10.6,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "section": "Mundo",
       "tags": [
         "Energia"
       ],
-      "title": "EUA confirmam ter colocado pela primeira vez armamentos no espaço",
-      "summary": "Secretário da Força Aérea dos EUA afirma que as armas são necessárias para defender o país contra ações inimigas.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Tue, 15 Sep 2026 09:40:59 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/cm750xnveq4yo?at_medium=RSS&at_campaign=rss"
+      "title": "US scraps limits on emissions from coal and gas power plants",
+      "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
+      "why": "É relevante porque pode mexer com preços, investimento e segurança energética.",
+      "impact": "Para Moçambique, importa pela exposição ao gás, energia, logística e receitas de exportação.",
+      "source": "BBC World",
+      "published": "2026-09-14T22:04:14+00:00",
+      "age_hours": 13.6,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "IA",
+        "Segurança"
       ],
-      "title": "Emmy 2006: confira a lista completa dos ganhadores do prêmio que consagrou a série O Segredo de Widow's Bay",
-      "summary": "A série 'O Segredo de Widow's Bay' levou 14 dos 19 prêmios aos quais estava indicada — entre eles o de melhor série de comédia.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Tue, 15 Sep 2026 08:28:33 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/cm74kx40vl08o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Por que Cármen Lúcia e Fachin devem ser cruciais para o futuro de Alexandre de Moraes no STF",
-      "summary": "Apesar de visão comum de um STF dividido em 'alas', posicionamentos de ministros demonstram complexidade muito maior ao longo dos últimos anos",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 18:36:24 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/c33krrv86r2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Como o PCC aparece nas investigações sobre a produtora de Dark Horse, filme sobre a vida de Jair Bolsonaro",
-      "summary": "Suposta ligação de facção com empresário vinculado à dona da produtora do filme é apontada em investigações da Polícia Civil de São Paulo e do Ministério Público sobre feminicídio.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Tue, 15 Sep 2026 08:00:44 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/cq8r63m878y1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Por que cofundador da Anthropic defende um 'botão de desligamento' obrigatório para IA",
-      "summary": "Jack Clark disse à BBC que os detalhes sobre os requisitos e a verificação de um 'botão de desligamento' devem fazer parte da 'discussão política mais ampla' que está ocorrendo em torno da IA.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 21:50:19 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/c5y4zx9l98k9o?at_medium=RSS&at_campaign=rss"
+      "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
+      "summary": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
+      "why": "Pode acelerar ou travar investimento, regulação e adoção tecnológica.",
+      "impact": "Para Moçambique, interessa por produtividade, emprego digital, serviços públicos e novas oportunidades de negócio.",
+      "source": "BBC World",
+      "published": "2026-09-14T21:58:41+00:00",
+      "age_hours": 13.7,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "section": "Mundo",
       "tags": [
         "Energia"
       ],
-      "title": "Elas foram melhores amigas por décadas, até que um exame de DNA revelou que são irmãs",
-      "summary": "A história de Meena Geltink e Minal Tijssen parece saída diretamente de um filme de Bollywood: nascidas na Índia, elas foram adotadas quando bebês por famílias diferentes e criadas perto uma da outra na Holanda. Até descobrirem que são irmãs.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 17:42:17 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/cx62mll11z2go?at_medium=RSS&at_campaign=rss"
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "why": "É relevante porque pode mexer com preços, investimento e segurança energética.",
+      "impact": "Para Moçambique, importa pela exposição ao gás, energia, logística e receitas de exportação.",
+      "source": "BBC World",
+      "published": "2026-09-14T16:23:42+00:00",
+      "age_hours": 19.3,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "why": "É relevante porque pode mexer com preços, investimento e segurança energética.",
+      "impact": "Para Moçambique, importa pela exposição ao gás, energia, logística e receitas de exportação.",
+      "source": "BBC Africa",
+      "published": "2026-09-14T16:23:42+00:00",
+      "age_hours": 19.3,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Homem admite ter drogado e estuprado a esposa por 20 anos no Reino Unido",
-      "summary": "Homem na faixa dos 60 anos, cuja identidade não foi revelada, declarou-se culpado por dezenas de crimes.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 21:45:33 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/cq9869r0rjnjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "'Estava prestes a me casar com um violento estuprador em série, mas meus entes queridos salvaram minha vida'",
-      "summary": "Amy (nome fictício) contou à BBC que seus amigos e familiares encaminharam à polícia escocesa evidências que foram fundamentais para a prisão do estuprador em série Christopher Malcolm.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 16:42:16 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/c5ydqd0w4w1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "5 coisas que você precisa saber sobre o documentário de 4 horas sobre Elon Musk",
-      "summary": "O Festival de Cinema de Veneza sediou a estreia do novo e provocativo retrato épico do homem mais rico do mundo.",
-      "why": "Ajuda a acompanhar decisões, riscos e oportunidades que podem afetar Moçambique.",
-      "impact": "Avaliar efeitos potenciais em energia, economia, segurança, emprego, tecnologia e investimento.",
-      "source": "BBC",
-      "published": "Mon, 14 Sep 2026 16:13:52 GMT",
-      "link": "https://www.bbc.com/portuguese/articles/c6lyqzejw7g7o?at_medium=RSS&at_campaign=rss"
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+      "why": "Ajuda a acompanhar uma mudança relevante na economia e na geopolítica.",
+      "impact": "O impacto potencial para Moçambique deve ser acompanhado através de comércio, energia, investimento e condições financeiras.",
+      "source": "BBC World",
+      "published": "2026-09-14T15:01:28+00:00",
+      "age_hours": 20.7,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "watch": [
@@ -149,5 +172,10 @@
     "Tecnologia e IA",
     "Emprego, negócios e investimento"
   ],
-  "generator": "GitHub Actions · Briefing Diário"
+  "generator": "GitHub Actions · Briefing Diário",
+  "section_counts": {
+    "Mundo": 6,
+    "África": 1,
+    "Moçambique": 3
+  }
 }
