@@ -1,159 +1,128 @@
 {
-  "updated_at": "2026-09-15T11:54:30.454341+00:00",
+  "updated_at": "2026-09-15T12:32:33.425533+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mozambique: President calls for early action to mitigate effects of El Niño",
-      "summary": "Mozambique&#8217;s president called on Monday for early action to mitigate the impacts of El Niño, which is approaching at an &#8220;accelerated and alarming&#8221; rate, and urged new ways of funding food security in one of the countries most affected by disasters. Speaking at the opening of the 1st National Conference on Food and Nutritional Security,&#8230; Source",
-      "why": "Pode alterar riscos geopolíticos, rotas comerciais, energia e custos de financiamento.",
-      "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-15T08:42:32+00:00",
-      "age_hours": 3.2,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-president-calls-for-early-action-to-mitigate-effects-of-el-nino/"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Lack of diversified diet affects 80 percent of Mozambican minors",
-      "summary": "Lack of diversified diet affects 80 percent of Mozambican minors, contributing to micronutrient deficiencies as well as increasing the risk of malnutrition, according to the health minister Ussene Isse. Speaking at the 1st National Conference on Food and Nutrition Security, held on Monday, in Maputo, the minister revealed that chronic malnutrition currently affects 37 percent&#8230; Source",
-      "why": "Pode alterar riscos geopolíticos, rotas comerciais, energia e custos de financiamento.",
-      "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-15T08:35:12+00:00",
-      "age_hours": 3.3,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/lack-of-diversified-diet-affects-80-percent-of-mozambican-minors/"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mozambique and EU deepen cooperation in security and defense",
-      "summary": "The European Union (EU) and Mozambique have decided to deepen their cooperation in the fields of security and defense, with a particular focus on combating terrorism in the northern province of Cabo Delgado. The deepening of partnership was a key highlight during the official visit to Maputo by Lieutenant General Michiel van der Laan, head&#8230; Source",
-      "why": "Pode alterar riscos geopolíticos, rotas comerciais, energia e custos de financiamento.",
-      "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-15T08:26:53+00:00",
-      "age_hours": 3.5,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-and-eu-deepen-cooperation-in-security-and-defense/"
-    },
-    {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Economia"
       ],
-      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-      "why": "Pode acelerar ou travar investimento, regulação e adoção tecnológica.",
-      "impact": "Para Moçambique, interessa por produtividade, emprego digital, serviços públicos e novas oportunidades de negócio.",
-      "source": "BBC World",
-      "published": "2026-09-15T02:50:36+00:00",
-      "age_hours": 9.1,
+      "title": "Parlamento Europeu aprova candidatos à liderança das autoridades dos mercados e bancária",
+      "summary": "O Parlamento Europeu confirmou hoje as candidaturas de Carlo Comporti para presidente da Autoridade Europeia dos Valores Mobiliários e Mercados (ESMA) e de Thomas Gstädtner para diretor executivo da Autoridade Bancária Europeia (EBA), concluindo a nomeação.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias",
+      "published": "2026-09-15T13:00:49+00:00",
+      "age_hours": -0.5,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mass nesting brings swarms of turtles to Mexican beach",
-      "summary": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
-      "why": "Pode alterar riscos geopolíticos, rotas comerciais, energia e custos de financiamento.",
-      "impact": "Moçambique pode sentir efeitos através de importações, energia, comércio regional e investimento.",
-      "source": "BBC World",
-      "published": "2026-09-15T01:08:55+00:00",
-      "age_hours": 10.8,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "US scraps limits on emissions from coal and gas power plants",
-      "summary": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-      "why": "É relevante porque pode mexer com preços, investimento e segurança energética.",
-      "impact": "Para Moçambique, importa pela exposição ao gás, energia, logística e receitas de exportação.",
-      "source": "BBC World",
-      "published": "2026-09-14T22:04:14+00:00",
-      "age_hours": 13.8,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
-      "summary": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
-      "why": "Pode acelerar ou travar investimento, regulação e adoção tecnológica.",
-      "impact": "Para Moçambique, interessa por produtividade, emprego digital, serviços públicos e novas oportunidades de negócio.",
-      "source": "BBC World",
-      "published": "2026-09-14T21:58:41+00:00",
-      "age_hours": 13.9,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Africa's richest man launches continent's biggest share sale",
-      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
-      "why": "É relevante porque pode mexer com preços, investimento e segurança energética.",
-      "impact": "Para Moçambique, importa pela exposição ao gás, energia, logística e receitas de exportação.",
-      "source": "BBC World",
-      "published": "2026-09-14T16:23:42+00:00",
-      "age_hours": 19.5,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.rtp.pt/noticias/economia/parlamento-europeu-aprova-candidatos-a-lideranca-das-autoridades-dos-mercados-e-bancaria_n1765559"
     },
     {
       "section": "África",
       "tags": [
+        "Economia"
+      ],
+      "title": "Guiné-Bissau reporta e condena vandalismo na residência do embaixador em Cabo Verde",
+      "summary": "O Governo da Guiné-Bissau deu hoje conta de &quot;atos de vandalismo&quot; registados na residência oficial do embaixador do país em Cabo Verde e manifestou &quot;total firmeza&quot; na sua condenação.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias",
+      "published": "2026-09-15T11:40:26+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/guine-bissau-reporta-e-condena-vandalismo-na-residencia-do-embaixador-em-cabo-verde_n1765539"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Energia"
       ],
-      "title": "Africa's richest man launches continent's biggest share sale",
-      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
-      "why": "É relevante porque pode mexer com preços, investimento e segurança energética.",
-      "impact": "Para Moçambique, importa pela exposição ao gás, energia, logística e receitas de exportação.",
-      "source": "BBC Africa",
-      "published": "2026-09-14T16:23:42+00:00",
-      "age_hours": 19.5,
+      "title": "Vagas de emprego recuam na zona euro e UE no segundo trimestre",
+      "summary": "A taxa de empregos vagos recuou para 2,1% na zona euro e para 2,0%, no segundo trimestre, na União Europeia (UE), divulga hoje o Eurostat, sem apresentar dados para Portugal.",
+      "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
+      "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
+      "source": "RTP Notícias",
+      "published": "2026-09-15T11:39:35+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.rtp.pt/noticias/economia/vagas-de-emprego-recuam-na-zona-euro-e-ue-no-segundo-trimestre_n1765544"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Guerra nas estrelas. EUA admitem ter armas em órbita",
+      "summary": "Washington reconhece pela primeira vez que colocou armas convencionais no espaço para proteger as forças norte-americanas. O anúncio surge num contexto de crescente rivalidade com Rússia e China e de reforço das capacidades militares no domínio espacial.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
+      "source": "RTP Notícias",
+      "published": "2026-09-15T10:52:56+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/guerra-nas-estrelas-eua-admitem-ter-armas-em-orbita_n1765521"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Flash flooding interrupts half-marathon, submerges cars",
-      "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
-      "why": "Ajuda a acompanhar uma mudança relevante na economia e na geopolítica.",
-      "impact": "O impacto potencial para Moçambique deve ser acompanhado através de comércio, energia, investimento e condições financeiras.",
-      "source": "BBC World",
-      "published": "2026-09-14T15:01:28+00:00",
-      "age_hours": 20.9,
+      "title": "Derrota para Trump. Supremo Tribunal dos EUA rejeita restringir voto por correio",
+      "summary": "O Supremo Tribunal dos EUA rejeitou, na segunda-feira, uma tentativa do presidente Donald Trump de restringir o voto por correspondência antes das eleições intercalares de novembro.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias",
+      "published": "2026-09-15T10:36:53+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss"
+      "link": "https://www.rtp.pt/noticias/mundo/derrota-para-trump-supremo-tribunal-dos-eua-rejeita-restringir-voto-por-correio_n1765520"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Zelensky desmente Trump e recusa tréguas energéticas com Rússia",
+      "summary": "O presidente ucraniano garante que só vai interromper os ataques a alvos energéticos russos se o inimigo fizer o mesmo e os EUA o garantirem. Esta é a resposta de Kiev depois de Donald Trump anunciar que os dois lados do conflito tinham concordado com este cessar-fogo parcial.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
+      "source": "RTP Notícias",
+      "published": "2026-09-15T10:17:18+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/zelensky-desmente-trump-e-recusa-treguas-energeticas-com-russia_n1765509"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Portugal é país da UE que mais caiu em índices de qualidade da democracia",
+      "summary": "Portugal é o país da União Europeia que mais caiu nos índices de qualidade da democracia, nos últimos cinco anos. Um relatório internacional aponta quebras na credibilidade das eleições e na liberdade de expressão, numa altura em que há recuos praticamente por todo o mundo.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias",
+      "published": "2026-09-15T09:53:23+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/politica/portugal-e-pais-da-ue-que-mais-caiu-em-indices-de-qualidade-da-democracia_n1765510"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Federica Mogherini, antiga Alta Representante da UE: \"Este é o mundo mais perigoso em que já vivemos\"",
+      "summary": "A ex-Ministra dos Negócios Estrangeiros italiana passou por Portugal, na escola de verão da Comissão Europeia, e deixou este alerta",
+      "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
+      "source": "RTP Notícias",
+      "published": "2026-09-15T09:25:29+00:00",
+      "age_hours": 3.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/rtpeuropa-comissao-europeia/federica-mogherini-antiga-alta-representante-da-ue-este-e-o-mundo-mais-perigoso-em-que-ja-vivemos_v1765501"
     }
   ],
   "watch": [
@@ -174,8 +143,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
+    "Mundo": 7,
     "África": 1,
-    "Moçambique": 3
+    "Moçambique": 0
   }
 }
