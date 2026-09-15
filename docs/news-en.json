@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:09:24.491350+00:00",
+  "updated_at": "2026-09-15T13:20:28.205164+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -15,10 +15,10 @@
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T12:37:14+00:00",
-      "age_hours": 0.5,
+      "age_hours": 0.7,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/tzu-chi-hands-over-model-house-in-mozambique-island-after-500-families-trained-in-resilient-construction-techniques/",
-      "editorial_score": 12.9,
+      "editorial_score": 12.85,
       "source_tier": "B"
     },
     {
@@ -32,11 +32,28 @@
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T12:59:47+00:00",
-      "age_hours": 0.2,
+      "age_hours": 0.3,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-and-portugal-discuss-new-defence-cooperation-package/",
-      "editorial_score": 11.96,
+      "editorial_score": 11.94,
       "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
+      "impact": "Pode influenciar preços de energia, investimento, fornecedores e cadeias de abastecimento.",
+      "source": "BBC World",
+      "published": "2026-09-15T13:05:36+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 10.96,
+      "source_tier": "A"
     },
     {
       "section": "África",
@@ -49,10 +66,27 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "MSME Africa",
       "published": "2026-09-15T13:07:03+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.2,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaU5KWjJUOGYzZTM5dG0yazVoTXFiaGRPV1JoOFFucmRSaUQ0Ui1QVmNUcy1pNFFuX2JXbWJvWktCa0FFU2VHbWFQOWxKdEhQN0NQeU1sQ1dLcFN3M2RCdUo1WkZJc1MwODZxNG92TkRsb2RUQ2ZRT2RFRGMwWTAzN0JLSzQ0T3BjM3pOa1d4bVRfaWRvX2NSTHFzQU5US2xMY2x4Zm80Rm1xdXZMUWVYMjgzYVVCS1ZNcWdFX1VpOW5EYnJWakZSTFdEUGl5R3Z4?oc=5",
-      "editorial_score": 11.0,
+      "editorial_score": 10.96,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Adil El Youssefi: How next-generation intelligent infrastructure is powering Africa's data centre revolution - TechTrendsKE",
+      "summary": "Adil El Youssefi: How next-generation intelligent infrastructure is powering Africa's data centre revolution TechTrendsKE",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "TechTrendsKE",
+      "published": "2026-09-15T13:08:24+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTFkc3AyZzNTSmJMLVhudUNWQ1NkbmloVnh1VTh2b2t4cGptX1hDMUsxRHQ5czAtRmJaelB5dVlFdld3T2ZTeml3SXdzUDVVV3NSN1ljTFFHQ2pkQ0Z3aGNMZUpOVVZNU0lpUGJZWUUyUTNkZjM1Z1VoX0lRZEVsYVpydnNCSVU4Z1dwcTgwMnNBSVFzekNXTTdwNFJZNjlDOURlRzFSRVhsaU9HcGV3S2V4cmFnWGZWLWdkaThzQ3Z1eHVJS01zUXlBakJ2UnNGRFVKSHp0ZlMwZk1tTGc?oc=5",
+      "editorial_score": 9.96,
       "source_tier": "C"
     },
     {
@@ -66,27 +100,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "TechAfrica News",
       "published": "2026-09-15T12:51:01+00:00",
-      "age_hours": 0.3,
+      "age_hours": 0.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVnVfUTg0dE51X19QZzUxRFlHSFhCVm9Vc1Y3R3A0ZVl1VEgtcGo1b1VZTDVsU1FTSFFyQi1WU2JOSXhfUTZVY3BKSldJdFFDVzB4UHNPQUNXM29NUlFCTXh0cHk5aG1sc2d2UjVZUEJJWDQ1SUFfSGZNTXo3N3d2TVVfUW1mOE9XSTc3R0FBVUJYZw?oc=5",
-      "editorial_score": 9.94,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Norwegian state guarantee backs Lyra Energy's private power platform in South Africa - energize.co.za",
-      "summary": "Norwegian state guarantee backs Lyra Energy's private power platform in South Africa energize.co.za",
-      "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
-      "impact": "Pode influenciar preços de energia, investimento, fornecedores e cadeias de abastecimento.",
-      "source": "energize.co.za",
-      "published": "2026-09-15T12:30:00+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQk9JM1VYdlFfSFdYSWRDVXhZelRLSlNTOFcxNll1Y0RuX3lqZWc1NmZfYmFNZjRPR2xKUmFaOWU5a1pKZ3VheGdEWGJxNmhKa1E2UlJmZVdQOHNDcG5aelB6dFlWOXNEYl9HWjl4VmlCQVdmVTl0Y2hhY2laXzRuM0tQY1dSNWxKWVRsa2hRdDlRbkQzTV9maHZwalpTaXVfY1VCbW5mbGg5d21oMkx1ejZ4aElUVjF4UWc?oc=5",
-      "editorial_score": 9.85,
+      "editorial_score": 9.9,
       "source_tier": "C"
     },
     {
@@ -101,45 +118,27 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
       "source": "Egypt Independent",
       "published": "2026-09-15T12:47:54+00:00",
-      "age_hours": 0.4,
+      "age_hours": 0.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUNPbVlRdDA1Y2dzS2VOSFNoVm1uVDlrcWIwRWFpRWlfWW03OFR5R05OUzFveUFUM0IydGpzSWI0eGs5UHQzYzNDdHZsUWxjLXdidWgyQUpja0tST2ZIR3FDQW1vVUlmM3dlNmw3WmpxdDE3aC1URDhRckFGNV9QV3A1Y21pXzRhSm4tNQ?oc=5",
-      "editorial_score": 8.92,
+      "editorial_score": 8.9,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
         "Segurança"
       ],
-      "title": "WTO warns of 'most serious and sustained' trade disruptions - CNA",
-      "summary": "WTO warns of 'most serious and sustained' trade disruptions CNA",
+      "title": "US allies in Asia alarmed as think tank calls for pullback",
+      "summary": "Analysts warn that a US withdrawal from the western Pacific, as recently suggested by a think tank, would weaken deterrence and strengthen China's position.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "CNA",
-      "published": "2026-09-15T12:22:00+00:00",
+      "source": "DW English",
+      "published": "2026-09-15T12:32:00+00:00",
       "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0Zmb2dMNjNIZVNuMnFZNExMMVJpZmVLYWN1TWNSemdiNWxpblBUZlAxb3ZhLWdYU2J1eUF0UTczdkg2ZFdXa2tfQmVFSzQ4R3drNFZfakxreXZ4Q2c3bzgybVRibmhoVk8wNloyYlBmbkQtb18tLU1ka3ZOZll2MnNJREhrU2NybUpFT3VDR24?oc=5",
-      "editorial_score": 8.83,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "VVater Wins 2026 World Future Award for Second Consecutive Year - Newswire.com",
-      "summary": "VVater Wins 2026 World Future Award for Second Consecutive Year Newswire.com",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "Newswire.com",
-      "published": "2026-09-15T13:00:00+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFVUczdHSklOdlg5Z3JJQVFpbGxCMWN0UERGX3EzVjdCM25zd1V5djVoZy15bUxTb2tMM0o2MU1vUS1Ybkh4ZzFkVU5JbkhETGo2Nl9sdXpUMzE2dnUwZGN1THJiSlFCdkJPVjdzZzM5dklhUXBCNUFOXzdmMVZHN1h6cEFLOFBaTkdxTVk1OGoyQWVtdzhjRA?oc=5",
-      "editorial_score": 7.96,
+      "link": "https://www.dw.com/en/us-allies-in-asia-alarmed-as-think-tank-calls-for-pullback/a-79275554?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 7.83,
       "source_tier": "C"
     },
     {
@@ -153,10 +152,10 @@
       "impact": "Pode influenciar preços de energia, investimento, fornecedores e cadeias de abastecimento.",
       "source": "South China Morning Post",
       "published": "2026-09-15T12:30:08+00:00",
-      "age_hours": 0.7,
+      "age_hours": 0.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWtiLW45REg3bVJtZlFEMjBueUZNVW82TUJHYlNMT2tlQWdBM2tiVEE3RTBHZkc4UHBXVXBIWi1UanhIR0NudTBxZDFDUlBTRHdyY25HVlU3eWhBc1JZdmRpaHJmRDBiTG5rc2ZTbU1IaXNuWEQwVXRPZzc0U05YaWNWSUMzMjlFcU45dkJoMjZ3Nl9OU3FGQnF3WU51TExVMWNZdWRwbU5LbG5tc3lVSUFB0gGyAUFVX3lxTE44TUwyNVBVSjBlREM2SE1fZDVSd0RtQWFwSHFDVEFYQ191ZFZ2QjBsR3NGMG9FYjBIZ1ZVVGdiV2RUNUs0RGY5QW96OU1yR0dWNlVaNk5YYy1tbzVvVy13QU1RM0FXdlhHUkVGdzl0Z3dCTVB5MmJqRDNZWlFSODU0eGRjWVlpZ2NYc1Z5S1IzQzNuemVfTWpOQmdNTTFnNGZaMlhhaDI4WVFPMnMxV05JUnc?oc=5",
-      "editorial_score": 7.85,
+      "editorial_score": 7.83,
       "source_tier": "C"
     },
     {
@@ -164,16 +163,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "Right now, the Houthis are a bigger threat to the world economy than Iran - The Independent",
-      "summary": "Right now, the Houthis are a bigger threat to the world economy than Iran The Independent",
-      "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
-      "source": "The Independent",
-      "published": "2026-09-15T12:30:00+00:00",
-      "age_hours": 0.7,
+      "title": "Why the era of cheap government debt is over",
+      "summary": "US debt has topped $40 trillion. How risky is the growing debt burden, and will investors keep funding Washington's deficits?",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "DW English",
+      "published": "2026-09-15T13:17:00+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFdHb2hiQzl4V080WmhrbDdMSmI3R2pkU3NfSVlSamZGVk4wYXdQRUwxOGlPdHo5NlNfU1RjWXN2VWhVSXpsblIxS0tJQXBVV2F0d0hqVVNzNVpxbmZkNUkzWkZtRTMzV1k5ZmFEcnRrZW9id0JIZnAyTDlXWlFmd0pNNlFYLXpCSFdVTW1LSTY?oc=5",
-      "editorial_score": 7.85,
+      "link": "https://www.dw.com/en/why-the-era-of-cheap-government-debt-is-over/a-79259272?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 6.98,
       "source_tier": "C"
     }
   ],
