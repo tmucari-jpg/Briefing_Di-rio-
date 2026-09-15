@@ -60,3 +60,5 @@ jobs:
             git commit -m 'chore: actualizar briefing editorial'
             git push
           fi
+
+# Teste real de execução via push; manter este workflow acionável manualmente também.
