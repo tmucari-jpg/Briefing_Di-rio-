@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:35:30.874536+00:00",
+  "updated_at": "2026-09-15T13:44:30.842572+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -15,10 +15,10 @@
       "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T12:37:14+00:00",
-      "age_hours": 1.0,
+      "age_hours": 1.1,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/tzu-chi-hands-over-model-house-in-mozambique-island-after-500-families-trained-in-resilient-construction-techniques/",
-      "editorial_score": 12.79,
+      "editorial_score": 12.77,
       "source_tier": "B"
     },
     {
@@ -32,10 +32,10 @@
       "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T12:59:47+00:00",
-      "age_hours": 0.6,
+      "age_hours": 0.7,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-and-portugal-discuss-new-defence-cooperation-package/",
-      "editorial_score": 11.88,
+      "editorial_score": 11.85,
       "source_tier": "B"
     },
     {
@@ -50,11 +50,28 @@
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "Business News Nigeria",
       "published": "2026-09-15T13:18:45+00:00",
-      "age_hours": 0.3,
+      "age_hours": 0.4,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1dLUEhFNU82NzVnQXlBZXBNWlVSbFFSSzdlNWhaREp2Q3FVc2FwMmV0anJOeUFhMnpwaDBzR0t3OVR2cjFKTnVPMno0a0JreVd2ZUUtdFN3QktkVlFncHMtWklvUG1YQ0x6a082bm16ZWJaNERDY3ZHYTRrTTNvaXFSZkpvUDZyWkk4MXBzT3NjcTNwalhNbkhtRlh6d1NleFlqMENYSkloOUU?oc=5",
-      "editorial_score": 10.94,
+      "editorial_score": 10.92,
       "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "El Nino reaches super status: Where will it bring rain, drought and heat?",
+      "summary": "Forecasters say the Pacific Ocean warming pattern could be the strongest on record. Here is what that means for you.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-15T13:10:26+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss",
+      "editorial_score": 10.88,
+      "source_tier": "A"
     },
     {
       "section": "Mundo",
@@ -67,44 +84,10 @@
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "BBC World",
       "published": "2026-09-15T13:05:36+00:00",
-      "age_hours": 0.5,
+      "age_hours": 0.6,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 10.9,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Nigeria, Australia Deepen Mining Skills Programme to Build Skilled Workforce, Unlock Business Opportunities - MSME Africa",
-      "summary": "Nigeria, Australia Deepen Mining Skills Programme to Build Skilled Workforce, Unlock Business Opportunities MSME Africa",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "MSME Africa",
-      "published": "2026-09-15T13:07:03+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaU5KWjJUOGYzZTM5dG0yazVoTXFiaGRPV1JoOFFucmRSaUQ0Ui1QVmNUcy1pNFFuX2JXbWJvWktCa0FFU2VHbWFQOWxKdEhQN0NQeU1sQ1dLcFN3M2RCdUo1WkZJc1MwODZxNG92TkRsb2RUQ2ZRT2RFRGMwWTAzN0JLSzQ0T3BjM3pOa1d4bVRfaWRvX2NSTHFzQU5US2xMY2x4Zm80Rm1xdXZMUWVYMjgzYVVCS1ZNcWdFX1VpOW5EYnJWakZSTFdEUGl5R3Z4?oc=5",
-      "editorial_score": 10.9,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "US allies in Asia alarmed as think tank calls for pullback",
-      "summary": "Analysts warn that a US withdrawal from the western Pacific, as recently suggested by a think tank, would weaken deterrence and strengthen China's position.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "DW English",
-      "published": "2026-09-15T12:32:00+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/us-allies-in-asia-alarmed-as-think-tank-calls-for-pullback/a-79275554?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 10.77,
+      "editorial_score": 10.88,
       "source_tier": "A"
     },
     {
@@ -118,10 +101,10 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "DW English",
       "published": "2026-09-15T13:17:00+00:00",
-      "age_hours": 0.3,
+      "age_hours": 0.5,
       "within_24h": true,
       "link": "https://www.dw.com/en/why-the-era-of-cheap-government-debt-is-over/a-79259272?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 9.94,
+      "editorial_score": 9.9,
       "source_tier": "A"
     },
     {
@@ -135,10 +118,10 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "energize.co.za",
       "published": "2026-09-15T13:14:00+00:00",
-      "age_hours": 0.4,
+      "age_hours": 0.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3hFYkxQVHNXUmtXMDFWdDN6QW5DZzhXOE5EdkFLU1NVSUNIZ2FWQWlzWjkxWUhxQjltb0tLeFA4WEZCRzVkaDBFekp5NTdmdlZRbktyeXNuQjhNM0RqbDJ5OUowc0FUbmtuemFic2dSTkZwR3k0SU9MNEFtakRfTlUwakJUNHNUSGdFRnhlQTY1MER1bnZtVzBaU2std3Jvb2NJTjBSVkxEZGZqN3F3MjFocEdRQldEc0E?oc=5",
-      "editorial_score": 9.92,
+      "editorial_score": 9.9,
       "source_tier": "C"
     },
     {
@@ -152,10 +135,27 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "TechTrendsKE",
       "published": "2026-09-15T13:08:24+00:00",
-      "age_hours": 0.5,
+      "age_hours": 0.6,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTFkc3AyZzNTSmJMLVhudUNWQ1NkbmloVnh1VTh2b2t4cGptX1hDMUsxRHQ5czAtRmJaelB5dVlFdld3T2ZTeml3SXdzUDVVV3NSN1ljTFFHQ2pkQ0Z3aGNMZUpOVVZNU0lpUGJZWUUyUTNkZjM1Z1VoX0lRZEVsYVpydnNCSVU4Z1dwcTgwMnNBSVFzekNXTTdwNFJZNjlDOURlRzFSRVhsaU9HcGV3S2V4cmFnWGZWLWdkaThzQ3Z1eHVJS01zUXlBakJ2UnNGRFVKSHp0ZlMwZk1tTGc?oc=5",
-      "editorial_score": 9.9,
+      "editorial_score": 9.88,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "MTN South Africa Launches Fifth Women in Digital Business Challenge - TechAfrica News",
+      "summary": "MTN South Africa Launches Fifth Women in Digital Business Challenge TechAfrica News",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "TechAfrica News",
+      "published": "2026-09-15T12:51:01+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVnVfUTg0dE51X19QZzUxRFlHSFhCVm9Vc1Y3R3A0ZVl1VEgtcGo1b1VZTDVsU1FTSFFyQi1WU2JOSXhfUTZVY3BKSldJdFFDVzB4UHNPQUNXM29NUlFCTXh0cHk5aG1sc2d2UjVZUEJJWDQ1SUFfSGZNTXo3N3d2TVVfUW1mOE9XSTc3R0FBVUJYZw?oc=5",
+      "editorial_score": 9.81,
       "source_tier": "C"
     },
     {
@@ -170,10 +170,10 @@
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "Egypt Independent",
       "published": "2026-09-15T12:47:54+00:00",
-      "age_hours": 0.8,
+      "age_hours": 0.9,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUNPbVlRdDA1Y2dzS2VOSFNoVm1uVDlrcWIwRWFpRWlfWW03OFR5R05OUzFveUFUM0IydGpzSWI0eGs5UHQzYzNDdHZsUWxjLXdidWgyQUpja0tST2ZIR3FDQW1vVUlmM3dlNmw3WmpxdDE3aC1URDhRckFGNV9QV3A1Y21pXzRhSm4tNQ?oc=5",
-      "editorial_score": 8.83,
+      "editorial_score": 8.81,
       "source_tier": "C"
     }
   ],
