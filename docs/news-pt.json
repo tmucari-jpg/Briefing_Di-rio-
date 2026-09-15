@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:44:25.663589+00:00",
+  "updated_at": "2026-09-15T13:48:59.935739+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -15,10 +15,10 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "RTP Notícias — Últimas",
       "published": "2026-09-15T13:41:47+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.1,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/pais/procurador-geral-da-republica-promete-rapidez-nos-inqueritos_v1765575",
-      "editorial_score": 11.0,
+      "editorial_score": 10.98,
       "source_tier": "A"
     },
     {
@@ -26,11 +26,11 @@
       "tags": [
         "Economia"
       ],
-      "title": "Moçambique quer transformar recursos em indústria, emprego e valor nacional - integritymagazine.co.mz",
-      "summary": "Moçambique quer transformar recursos em indústria, emprego e valor nacional integritymagazine.co.mz",
+      "title": "Moçambique quer transformar recursos em indústria, emprego e valor nacional - Integrity Magazine",
+      "summary": "Moçambique quer transformar recursos em indústria, emprego e valor nacional Integrity Magazine",
       "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "integritymagazine.co.mz",
+      "source": "Integrity Magazine",
       "published": "2026-09-15T10:52:19+00:00",
       "age_hours": 2.9,
       "within_24h": true,
@@ -41,18 +41,18 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Moçambique: Guerra ao furto de medicamentos chega às unidades de saúde - HealthNews",
-      "summary": "Moçambique: Guerra ao furto de medicamentos chega às unidades de saúde HealthNews",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "HealthNews",
-      "published": "2026-09-15T09:19:55+00:00",
-      "age_hours": 4.4,
+      "title": "Governo de Moçambique aposta em regulação moderna para o sector de jogos - MZNews",
+      "summary": "Governo de Moçambique aposta em regulação moderna para o sector de jogos MZNews",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "MZNews",
+      "published": "2026-09-15T13:40:57+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWjhYZERISGwwYzdreUduX2dXOGtIVFIyMTA1MmJ2eDhOMVNGSXpOa2xGMnBZUXRNTGJ1bXN4bUs1dmw2LUZHT1ZfaUlZVlYyazZwQ2praWxuUHEwU3V6SXY1MlBmUjgwZXNKMVdhZzIyS1JDLUxBc0lmU3E5ckt1U1p4Mm9zZHBpS2gwLXotQUhsVGFaRFlvZDN0Tk95cXhwZHRaZHZB?oc=5",
-      "editorial_score": 10.08,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnlhYm1nVzIzUFZUVkhUS3RvVUQ4NUljaHZNdW5DTDItYXhHaWFnR1dQZlBVSTlXamVfLWxmbGJlTkZjWERSa1VNdXQ2WGtBeW5SOHN6NDRRSXV6czQweldLWHFDSDBPamNFWGxJRFE5alFjcjdab1FGeVVLMFhOQTVTd2QtNDFBaTlBZ0hoS0lid0R6c3NyTWpn?oc=5",
+      "editorial_score": 9.98,
       "source_tier": "C"
     },
     {
@@ -66,10 +66,10 @@
       "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
       "source": "RTP Notícias — Últimas",
       "published": "2026-09-15T13:12:52+00:00",
-      "age_hours": 0.5,
+      "age_hours": 0.6,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/economia/calcado-portugues-aposta-nos-eua-um-mercado-promissor-mas-que-exige-prudencia_n1765561",
-      "editorial_score": 9.9,
+      "editorial_score": 9.88,
       "source_tier": "A"
     },
     {
@@ -83,10 +83,10 @@
       "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
       "source": "RTP Notícias — Últimas",
       "published": "2026-09-15T13:00:49+00:00",
-      "age_hours": 0.7,
+      "age_hours": 0.8,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/economia/parlamento-europeu-aprova-candidatos-a-lideranca-das-autoridades-dos-mercados-e-bancaria_n1765559",
-      "editorial_score": 9.85,
+      "editorial_score": 9.83,
       "source_tier": "A"
     },
     {
@@ -100,10 +100,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "24Horas.pt",
       "published": "2026-09-15T10:00:17+00:00",
-      "age_hours": 3.7,
+      "age_hours": 3.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRU9vVE5XdmlTa2FnWDVJRlV1bTNsY1VJSTlOd1lSa0Z3SmhscHlFR2NVYk9TZ3lDUTBZN0lrWHBfT2VQS1pUMEZjbzdpQ0ZSeld5SUNnUUVhT2RER1BjN3JrVDJaRi1FT3YwejRKMWgtZ3VINlZfRnFzSW92eU1zT09xZlZtVTZwX2g4cUpEekxyNWs?oc=5",
-      "editorial_score": 9.23,
+      "editorial_score": 9.21,
       "source_tier": "C"
     },
     {
@@ -117,10 +117,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "Jornal Mercado",
       "published": "2026-09-15T09:31:28+00:00",
-      "age_hours": 4.2,
+      "age_hours": 4.3,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnQxM0lGdWVJa3l1cTJNcVp0ZXMyMDBWb1d3QW9JcWZ5Wmc3S08zRWRIR1pHaE0wVkZDMC1hZ0RCcENZbV9kRGJfVmp1U0pMOW15Z2FfWndSSmxvSzNiVnFZYjNNNko3SEFwVDJsWVlYVnA5UzZOcGxnTHlYX2g3N1JFVHJTWGk4Y0gxN0Q1Xy0ySWdXRWJkSTl1T3hrQQ?oc=5",
-      "editorial_score": 8.12,
+      "editorial_score": 8.1,
       "source_tier": "C"
     },
     {
@@ -134,10 +134,10 @@
       "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
       "source": "jornaleconomico.sapo.pt",
       "published": "2026-09-15T13:00:00+00:00",
-      "age_hours": 0.7,
+      "age_hours": 0.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMG5va2FPYmhFMmRsTFFEemNZamlXd2FHenZwSVNNTG95TXdLcDIzanNKRlhyRF8zM01KWnVENGhwVG10Y2FZQ2NVUkZod2pJdndoZzVGUGhjWVl1MDhqbTBZSlF6Ukk5R1hPd3B5aDh6N0l4Q3Z1aG55T21zajVJWTJYUzFoVFhwT0ViN0EtX2l3NkJrYW1mNTdaUmwxaTQxbFp6X1A3ZGJBYTRjbGhnTGJ1aUs?oc=5",
-      "editorial_score": 7.85,
+      "editorial_score": 7.83,
       "source_tier": "C"
     },
     {
@@ -151,10 +151,10 @@
       "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
       "source": "Ambitur",
       "published": "2026-09-15T13:02:49+00:00",
-      "age_hours": 0.7,
+      "age_hours": 0.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2poNXJpRHBfSi1KOHdiaXJRM0ItMjZIYUdOVHhKZDdjUHpBaEl2SS1acmx4QW9aMHBqWXJhVG1qSlpYR3VjLTVvSG1jajRUV2JwLUZyS0JKUGRMWVozdjlvcm5XN3RpUUI0bjdWb1liVzRRa1lfZ1pZeHRqczByVjdCVTNOQzFmcUUxVmw5YWY1bHppMmVJUDQxVXNuNWZ6WlVtMWVR?oc=5",
-      "editorial_score": 6.85,
+      "editorial_score": 6.83,
       "source_tier": "C"
     }
   ],
