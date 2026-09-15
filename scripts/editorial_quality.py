@@ -5,7 +5,12 @@ from pathlib import Path
 
 TARGET={'Mundo':4,'África':2,'Moçambique':2}
 MIN_NEWS=8
-SOURCE_SCORE={'RTP Notícias':5,'RTP':5,'DW Português':5,'BBC World':5,'BBC Africa':5,'Club of Mozambique':4,'Google News':2}
+SOURCE_SCORE={
+    'RTP Notícias':5,'RTP':5,'DW Português':5,'DW English':5,
+    'BBC World':5,'BBC Africa':5,'BBC':5,'Al Jazeera English':5,
+    'Club of Mozambique':4,'Le Monde':4,'Reuters':5,'Associated Press':5,
+    'Google News':2
+}
 BAD_WORDS=('futebol','football','cinema','filme','música','music','novela','horóscopo','horoscope','moda','fashion','entretenimento','entertainment')
 
 def norm(s):
@@ -24,7 +29,7 @@ def recency_score(x):
 
 def relevance_score(x):
     text=(x.get('title','')+' '+x.get('summary','')).lower(); score=0
-    for w in ('lng','gás','gas','energy','energia','oil','econom','investment','investimento','business','trade','technology','tecnologia','artificial intelligence','security','segurança','war','guerra','diplomacy','diplomacia','infrastructure','infraestrutura','jobs','employment','emprego','mining','mineração'): 
+    for w in ('lng','gás','gas','energy','energia','oil','econom','investment','investimento','business','trade','technology','tecnologia','artificial intelligence','security','segurança','war','guerra','diplomacy','diplomacia','infrastructure','infraestrutura','jobs','employment','emprego','mining','mineração'):
         if w in text: score+=1
     if x.get('section')=='Moçambique' and any(w in text for w in ('moçambique','mozambique','maputo','cabo delgado','pemba')): score+=3
     elif x.get('section')=='África' and any(w in text for w in ('africa','afric','angola','tanzania','tanzânia','south africa','áfrica do sul')): score+=2
@@ -49,9 +54,49 @@ def dedupe(items):
         out.append(x)
     return out
 
+def editorial_context(x,lang):
+    t=(x.get('title','')+' '+x.get('summary','')).lower(); sec=x.get('section')
+    energy=any(w in t for w in ('lng','gás','gas','oil','energy','energia'))
+    tech=any(w in t for w in ('artificial intelligence','inteligência artificial','technology','tecnologia'))
+    security=any(w in t for w in ('war','guerra','conflict','conflito','security','segurança','military','militar','sanction','sanções','diplomacy','diplomacia'))
+    economy=any(w in t for w in ('econom','investment','investimento','business','trade','comércio','comercio','market','mercado','inflation','inflação','employment','emprego','mining','mineração'))
+    if lang=='en':
+        if energy:
+            return ('Energy and investment are strategic issues that can influence government and business decisions in the region.','It may affect energy prices, investment decisions, suppliers and supply chains.')
+        if tech:
+            return ('Technology is reshaping productivity, regulation and business models.','It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.')
+        if security:
+            if sec in ('Africa','Moçambique'):
+                return ('Developments in security and diplomacy can change risk levels and decisions across the region.','It may affect trade, movement, supply chains, investment and perceptions of risk.')
+            return ('The development has geopolitical relevance and may change risk, trade and investment decisions.','It may affect prices, supply chains, trade and investor risk perceptions.')
+        if economy:
+            if sec=='Moçambique':
+                return ('The story helps track economic conditions that may influence businesses and households in Mozambique.','It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.')
+            if sec=='África':
+                return ('The story helps explain economic and trade trends relevant to Africa.','It may affect regional trade, investment, employment, prices and opportunities for African businesses.')
+            return ('The story helps track the direction of the global economy and investment decisions.','It may affect prices, access to capital, demand, suppliers and business opportunities.')
+        return ('The story is worth following because of its potential economic, institutional or regional relevance.','Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.')
+    if energy:
+        return ('Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.','Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.')
+    if tech:
+        return ('A tecnologia está a transformar produtividade, regulação e modelos de negócio.','Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.')
+    if security:
+        if sec in ('África','Moçambique'):
+            return ('A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.','Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.')
+        return ('A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.','Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.')
+    if economy:
+        if sec=='Moçambique':
+            return ('A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.','Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.')
+        if sec=='África':
+            return ('A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.','Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.')
+        return ('A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.','Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.')
+    return ('A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.','O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.')
+
 def curate(d):
+    lang=d.get('language','pt')
     items=dedupe([x for x in d.get('items',[]) if valid(x)])
     for x in items:
+        x['why'],x['impact']=editorial_context(x,lang)
         x['editorial_score']=round(source_score(x.get('source',''))+recency_score(x)+relevance_score(x),2)
         x['source_tier']='A' if source_score(x.get('source',''))>=5 else ('B' if source_score(x.get('source',''))>=4 else 'C')
     items.sort(key=lambda x:x['editorial_score'],reverse=True)
