@@ -1,4 +1,4 @@
-import json, re
+import json, re, unicodedata
 from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
@@ -23,9 +23,8 @@ def recency_score(x):
     return max(0,24-h)/24*5 if h<=24 else max(0,72-h)/48*1.5
 
 def relevance_score(x):
-    text=(x.get('title','')+' '+x.get('summary','')).lower()
-    score=0
-    for w in ('lng','gás','gas','energy','energia','oil','econom','investment','investimento','business','trade','technology','tecnologia','artificial intelligence','security','segurança','war','guerra','diplomacy','diplomacia','infrastructure','infraestrutura','jobs','employment','emprego','mining','mineração'):
+    text=(x.get('title','')+' '+x.get('summary','')).lower(); score=0
+    for w in ('lng','gás','gas','energy','energia','oil','econom','investment','investimento','business','trade','technology','tecnologia','artificial intelligence','security','segurança','war','guerra','diplomacy','diplomacia','infrastructure','infraestrutura','jobs','employment','emprego','mining','mineração'): 
         if w in text: score+=1
     if x.get('section')=='Moçambique' and any(w in text for w in ('moçambique','mozambique','maputo','cabo delgado','pemba')): score+=3
     elif x.get('section')=='África' and any(w in text for w in ('africa','afric','angola','tanzania','tanzânia','south africa','áfrica do sul')): score+=2
@@ -58,8 +57,7 @@ def curate(d):
     items.sort(key=lambda x:x['editorial_score'],reverse=True)
     counts={s:0 for s in TARGET}; selected=[]
     for s,n in TARGET.items():
-        choices=[x for x in items if x['section']==s]
-        selected.extend(choices[:n]); counts[s]=min(len(choices),n)
+        choices=[x for x in items if x['section']==s]; selected.extend(choices[:n]); counts[s]=min(len(choices),n)
     if any(counts[s]<n for s,n in TARGET.items()): raise SystemExit(f'Qualidade editorial rejeitada: secções insuficientes {counts}.')
     chosen_ids={id(x) for x in selected}; rest=[x for x in items if id(x) not in chosen_ids]
     selected.extend(rest[:max(0,10-len(selected))]); selected=sorted(selected[:10],key=lambda x:x['editorial_score'],reverse=True)
