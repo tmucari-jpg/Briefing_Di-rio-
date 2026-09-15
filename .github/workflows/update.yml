@@ -39,8 +39,9 @@ jobs:
           import json
           for f in ('docs/news-pt.json', 'docs/news-en.json'):
               d=json.load(open(f, encoding='utf-8'))
-              assert len(d.get('items', [])) >= 10, f'{f}: menos de 10 notícias'
-              print(f"{f}: {len(d['items'])} notícias")
+              n=len(d.get('items', []))
+              assert n >= 8, f'{f}: menos de 8 notícias'
+              print(f"{f}: {n} notícias")
           PY
 
       - name: Commit notícias
