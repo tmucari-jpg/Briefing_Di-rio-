@@ -9,38 +9,34 @@ from urllib.request import Request, urlopen
 
 import feedparser
 
-SECTIONS = {
-    'Mundo': 'world geopolitics economy energy oil LNG artificial intelligence technology security when:1d',
-    'África': 'Africa economy energy LNG investment infrastructure security jobs when:1d',
-    'Moçambique': 'Mozambique Moçambique LNG energy economy projects jobs investment security when:1d',
-}
-
 LANGS = {
     'pt': {
-        'hl': 'pt-PT', 'gl': 'MZ', 'ceid': 'MZ:pt-PT',
         'file': 'docs/news-pt.json',
         'source': 'Fonte internacional',
-        'why': 'Ajuda a acompanhar decisões, riscos e oportunidades com possível impacto em Moçambique.',
-        'impact': 'Avaliar efeitos em energia, economia, segurança, emprego, tecnologia e investimento.',
+        'why': 'A notícia pode ajudar a compreender decisões, riscos ou oportunidades com possível impacto em Moçambique.',
+        'impact': 'Avaliar o possível efeito em energia, economia, segurança, emprego, tecnologia ou investimento.',
     },
     'en': {
-        'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en',
         'file': 'docs/news-en.json',
         'source': 'International source',
-        'why': 'Helps track decisions, risks and opportunities that may affect Mozambique.',
-        'impact': 'Assess effects on energy, economy, security, jobs, technology and investment.',
+        'why': 'This story may help track a decision, risk or opportunity with possible relevance to Mozambique.',
+        'impact': 'Assess the possible effect on energy, economy, security, jobs, technology or investment.',
     },
 }
 
-# Direct RSS sources are used as a fallback/supplement so one failing provider
-# cannot stop the daily update.
-RSS = {
+# Direct RSS feeds are the primary layer. Google News is only a supplement,
+# so a Google outage or block cannot break the daily publication.
+FEEDS = {
     'pt': {
         'Mundo': [
             'https://feeds.bbci.co.uk/portuguese/international/rss.xml',
+            'https://www.rtp.pt/noticias/rss/feeds/mundo',
         ],
         'África': [
             'https://feeds.bbci.co.uk/portuguese/topics/africa/rss.xml',
+        ],
+        'Moçambique': [
+            'https://opais.co.mz/feed/',
         ],
     },
     'en': {
@@ -50,7 +46,21 @@ RSS = {
         'África': [
             'https://feeds.bbci.co.uk/news/world/africa/rss.xml',
         ],
+        'Moçambique': [
+            'https://clubofmozambique.com/feed/',
+        ],
     },
+}
+
+GOOGLE = {
+    'pt': {'hl': 'pt-PT', 'gl': 'MZ', 'ceid': 'MZ:pt-PT'},
+    'en': {'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'},
+}
+
+QUERIES = {
+    'Mundo': 'world geopolitics economy energy oil LNG artificial intelligence technology security when:1d',
+    'África': 'Africa economy energy LNG investment infrastructure security jobs when:1d',
+    'Moçambique': 'Mozambique Moçambique LNG energy economy projects jobs investment security when:1d',
 }
 
 
@@ -103,22 +113,17 @@ def parse_entries(section, entries, lang):
 
 
 def read_feed(url, section, lang):
-    req = Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; BriefingDiario/3.0)'})
-    with urlopen(req, timeout=25) as response:
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; BriefingDiario/4.0)'})
+    with urlopen(req, timeout=20) as response:
         raw = response.read()
     parsed = feedparser.parse(raw)
-    if getattr(parsed, 'bozo', False) and not parsed.entries:
-        raise RuntimeError('RSS inválido ou vazio')
-    return parse_entries(section, parsed.entries, lang)
+    return parse_entries(section, getattr(parsed, 'entries', []), lang)
 
 
 def google(section, query, lang):
-    cfg = LANGS[lang]
+    cfg = GOOGLE[lang]
     url = 'https://news.google.com/rss/search?' + urlencode({
-        'q': query,
-        'hl': cfg['hl'],
-        'gl': cfg['gl'],
-        'ceid': cfg['ceid'],
+        'q': query, 'hl': cfg['hl'], 'gl': cfg['gl'], 'ceid': cfg['ceid']
     })
     return read_feed(url, section, lang)
 
@@ -138,40 +143,25 @@ def build_language(lang):
     seen = set()
     errors = []
 
-    for section, query in SECTIONS.items():
+    for section, urls in FEEDS[lang].items():
         section_items = []
+        for url in urls:
+            try:
+                add_unique(section_items, {norm(x['title']) for x in section_items}, read_feed(url, section, lang), limit=20)
+            except Exception as exc:
+                errors.append(f'{section}: {url}: {type(exc).__name__}')
 
-        # Google News is the primary source because it gives broad coverage
-        # and lets us request the selected language and recent results.
+        # Google is optional. It improves breadth but can never make the job fail.
         try:
-            section_items = google(section, query, lang)
+            add_unique(section_items, {norm(x['title']) for x in section_items}, google(section, QUERIES[section], lang), limit=20)
         except Exception as exc:
-            errors.append(f'{section}/Google: {type(exc).__name__}: {exc}')
-
-        # Supplement, rather than merely replace, Google results with direct RSS.
-        for url in RSS.get(lang, {}).get(section, []):
-            if len(section_items) >= 10:
-                break
-            try:
-                add_unique(section_items, set(norm(x['title']) for x in section_items), read_feed(url, section, lang), limit=15)
-            except Exception as exc:
-                errors.append(f'{section}/RSS: {type(exc).__name__}: {exc}')
-
-        # If Google returned fewer than 10, try a second broader Google query.
-        if len(section_items) < 10:
-            try:
-                broad = f'{section} latest news when:2d'
-                add_unique(section_items, set(norm(x['title']) for x in section_items), google(section, broad, lang), limit=15)
-            except Exception as exc:
-                errors.append(f'{section}/Google-broad: {type(exc).__name__}: {exc}')
+            errors.append(f'{section}/Google: {type(exc).__name__}')
 
         add_unique(items, seen, section_items, limit=30)
 
-    # A valid daily feed must contain enough stories for the app to show its
-    # intended 10-story edition. Fail loudly only if the whole update is empty.
     if len(items) < 10:
         details = ' | '.join(errors[-8:])
-        raise SystemExit(f'Actualização {lang} insuficiente: apenas {len(items)} notícias. {details}')
+        raise SystemExit(f'Actualização {lang} insuficiente: {len(items)} notícias. {details}')
 
     now = datetime.now(timezone.utc).isoformat()
     if lang == 'pt':
@@ -192,23 +182,13 @@ def build_language(lang):
         'opportunities': opportunities,
         'generator': 'GitHub Actions · Briefing Diário',
     }
-    Path(LANGS[lang]['file']).write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2),
-        encoding='utf-8',
-    )
+    Path(LANGS[lang]['file']).write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
     return payload
 
 
 pt_payload = build_language('pt')
 en_payload = build_language('en')
-
-# Keep news.json as a compatibility feed. The app uses the language-specific
-# files, while older links/caches can still receive the Portuguese edition.
-Path('docs/news.json').write_text(
-    json.dumps(pt_payload, ensure_ascii=False, indent=2),
-    encoding='utf-8',
-)
-
+Path('docs/news.json').write_text(json.dumps(pt_payload, ensure_ascii=False, indent=2), encoding='utf-8')
 print(f"Actualizado pt: {len(pt_payload['items'])} notícias")
 print(f"Actualizado en: {len(en_payload['items'])} notícias")
 print(f"Timestamp UTC: {pt_payload['updated_at']}")
