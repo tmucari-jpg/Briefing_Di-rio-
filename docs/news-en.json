@@ -1,9 +1,24 @@
 {
-  "updated_at": "2026-09-15T12:32:36.324344+00:00",
+  "updated_at": "2026-09-15T12:42:41.464545+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Tzu Chi hands over model house in Mozambique Island after 500 families trained in resilient construction techniques",
+      "summary": "The Tzu Chi Charity Foundation will officially hand over on Wednesday the first house built using affordable, locally available materials, as part of the Resilient Housing and Economic Empowerment Project in Mozambique Island, Nampula province, marking the end of the training phase. The handover of the model house marks the completion of the training phase&#8230; Source",
+      "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-15T12:37:14+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/tzu-chi-hands-over-model-house-in-mozambique-island-after-500-families-trained-in-resilient-construction-techniques/"
+    },
     {
       "section": "Mundo",
       "tags": [
@@ -15,7 +30,7 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
       "source": "BBC World",
       "published": "2026-09-15T11:40:00+00:00",
-      "age_hours": 0.9,
+      "age_hours": 1.0,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss"
     },
@@ -30,7 +45,7 @@
       "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T11:00:04+00:00",
-      "age_hours": 1.5,
+      "age_hours": 1.7,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/uk-special-representative-for-nature-meets-president-chapo-in-maputo-strengthening-uk-mozambique-global-partnership-on-oceans-and-blue-economy/"
     },
@@ -45,7 +60,7 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T08:42:32+00:00",
-      "age_hours": 3.8,
+      "age_hours": 4.0,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-president-calls-for-early-action-to-mitigate-effects-of-el-nino/"
     },
@@ -60,7 +75,7 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T08:35:12+00:00",
-      "age_hours": 4.0,
+      "age_hours": 4.1,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/lack-of-diversified-diet-affects-80-percent-of-mozambican-minors/"
     },
@@ -75,7 +90,7 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
       "source": "Club of Mozambique",
       "published": "2026-09-15T08:26:53+00:00",
-      "age_hours": 4.1,
+      "age_hours": 4.3,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-and-eu-deepen-cooperation-in-security-and-defense/"
     },
@@ -90,28 +105,12 @@
       "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
       "source": "BBC World",
       "published": "2026-09-14T22:04:14+00:00",
-      "age_hours": 14.5,
+      "age_hours": 14.6,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
-      "summary": "The BBC asked people in Washington DC about the technology’s rapid development and whether it poses a threat to humanity, as some experts warn.",
-      "why": "A evolução tecnológica está a mudar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, mas também aumentar a pressão por adaptação e regulação.",
-      "source": "BBC World",
-      "published": "2026-09-14T21:58:41+00:00",
-      "age_hours": 14.6,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
         "Energia"
       ],
@@ -119,9 +118,9 @@
       "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
       "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
       "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
-      "source": "BBC World",
+      "source": "BBC Africa",
       "published": "2026-09-14T16:23:42+00:00",
-      "age_hours": 20.1,
+      "age_hours": 20.3,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss"
     }
@@ -144,8 +143,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 0,
-    "Moçambique": 4
+    "Mundo": 2,
+    "África": 1,
+    "Moçambique": 5
   }
 }

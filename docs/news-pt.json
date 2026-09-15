@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T12:32:33.425533+00:00",
+  "updated_at": "2026-09-15T12:42:38.257358+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,32 +7,17 @@
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Parlamento Europeu aprova candidatos à liderança das autoridades dos mercados e bancária",
-      "summary": "O Parlamento Europeu confirmou hoje as candidaturas de Carlo Comporti para presidente da Autoridade Europeia dos Valores Mobiliários e Mercados (ESMA) e de Thomas Gstädtner para diretor executivo da Autoridade Bancária Europeia (EBA), concluindo a nomeação.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias",
-      "published": "2026-09-15T13:00:49+00:00",
-      "age_hours": -0.5,
+      "title": "13h Amadeu Guerra promete rapidez nos processos em curso",
+      "summary": "",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-15T13:29:06+00:00",
+      "age_hours": -0.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/parlamento-europeu-aprova-candidatos-a-lideranca-das-autoridades-dos-mercados-e-bancaria_n1765559"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Guiné-Bissau reporta e condena vandalismo na residência do embaixador em Cabo Verde",
-      "summary": "O Governo da Guiné-Bissau deu hoje conta de &quot;atos de vandalismo&quot; registados na residência oficial do embaixador do país em Cabo Verde e manifestou &quot;total firmeza&quot; na sua condenação.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias",
-      "published": "2026-09-15T11:40:26+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/guine-bissau-reporta-e-condena-vandalismo-na-residencia-do-embaixador-em-cabo-verde_n1765539"
+      "link": "https://www.rtp.pt/noticias/noticiario-antena1/13h-amadeu-guerra-promete-rapidez-nos-processos-em-curso_a1_1765570"
     },
     {
       "section": "Mundo",
@@ -43,9 +28,9 @@
       "summary": "A taxa de empregos vagos recuou para 2,1% na zona euro e para 2,0%, no segundo trimestre, na União Europeia (UE), divulga hoje o Eurostat, sem apresentar dados para Portugal.",
       "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
       "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
-      "source": "RTP Notícias",
+      "source": "RTP Notícias — Últimas",
       "published": "2026-09-15T11:39:35+00:00",
-      "age_hours": 0.9,
+      "age_hours": 1.1,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/economia/vagas-de-emprego-recuam-na-zona-euro-e-ue-no-segundo-trimestre_n1765544"
     },
@@ -58,56 +43,11 @@
       "summary": "Washington reconhece pela primeira vez que colocou armas convencionais no espaço para proteger as forças norte-americanas. O anúncio surge num contexto de crescente rivalidade com Rússia e China e de reforço das capacidades militares no domínio espacial.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "RTP Notícias",
+      "source": "RTP Notícias — Mundo",
       "published": "2026-09-15T10:52:56+00:00",
-      "age_hours": 1.7,
+      "age_hours": 1.8,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/guerra-nas-estrelas-eua-admitem-ter-armas-em-orbita_n1765521"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Derrota para Trump. Supremo Tribunal dos EUA rejeita restringir voto por correio",
-      "summary": "O Supremo Tribunal dos EUA rejeitou, na segunda-feira, uma tentativa do presidente Donald Trump de restringir o voto por correspondência antes das eleições intercalares de novembro.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias",
-      "published": "2026-09-15T10:36:53+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/derrota-para-trump-supremo-tribunal-dos-eua-rejeita-restringir-voto-por-correio_n1765520"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Zelensky desmente Trump e recusa tréguas energéticas com Rússia",
-      "summary": "O presidente ucraniano garante que só vai interromper os ataques a alvos energéticos russos se o inimigo fizer o mesmo e os EUA o garantirem. Esta é a resposta de Kiev depois de Donald Trump anunciar que os dois lados do conflito tinham concordado com este cessar-fogo parcial.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
-      "source": "RTP Notícias",
-      "published": "2026-09-15T10:17:18+00:00",
-      "age_hours": 2.3,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/zelensky-desmente-trump-e-recusa-treguas-energeticas-com-russia_n1765509"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Portugal é país da UE que mais caiu em índices de qualidade da democracia",
-      "summary": "Portugal é o país da União Europeia que mais caiu nos índices de qualidade da democracia, nos últimos cinco anos. Um relatório internacional aponta quebras na credibilidade das eleições e na liberdade de expressão, numa altura em que há recuos praticamente por todo o mundo.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias",
-      "published": "2026-09-15T09:53:23+00:00",
-      "age_hours": 2.7,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/politica/portugal-e-pais-da-ue-que-mais-caiu-em-indices-de-qualidade-da-democracia_n1765510"
     },
     {
       "section": "Mundo",
@@ -118,11 +58,72 @@
       "summary": "A ex-Ministra dos Negócios Estrangeiros italiana passou por Portugal, na escola de verão da Comissão Europeia, e deixou este alerta",
       "why": "A notícia ajuda a perceber a direção da economia e das decisões de investimento.",
       "impact": "Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.",
-      "source": "RTP Notícias",
+      "source": "RTP Notícias — Últimas",
       "published": "2026-09-15T09:25:29+00:00",
-      "age_hours": 3.1,
+      "age_hours": 3.3,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/rtpeuropa-comissao-europeia/federica-mogherini-antiga-alta-representante-da-ue-este-e-o-mundo-mais-perigoso-em-que-ja-vivemos_v1765501"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Kiev ataca refinaria russa após anúncio de acordo pelos EUA",
+      "summary": "A Ucrânia atacou hoje uma refinaria na região russa de Samara, após o anúncio do Presidente dos Estados Unidos, Donald Trump, de que Kiev e Moscovo tinham acordado abster-se de atacar mutuamente infraestruturas ligadas a energia.",
+      "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
+      "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-15T08:38:18+00:00",
+      "age_hours": 4.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/kiev-ataca-refinaria-russa-apos-anuncio-de-acordo-pelos-eua_n1765488"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Tailândia e Camboja iniciam mediação internacional de disputa marítima",
+      "summary": "Os ministros dos Negócios Estrangeiros da Tailândia e do Camboja iniciaram hoje em Singapura, sob mediação da ONU, um processo de conciliação para resolver uma disputa marítima envolvendo reservas de gás e hidrocarbonetos.",
+      "why": "Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.",
+      "impact": "Pode influenciar investimento, custos de energia, fornecedores locais e receitas ligadas ao setor energético.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-15T07:46:16+00:00",
+      "age_hours": 4.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/tailandia-e-camboja-iniciam-mediacao-internacional-de-disputa-maritima_n1765472"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Pentágono admite escassez de munições devido à guerra",
+      "summary": "O Departamento de Defesa dos Estados Unidos reconheceu, num relatório publicado na segunda-feira, uma &quot;escassez&quot; de munições ligada à guerra contra o Irão, uma constatação que o Governo norte-americano tinha até agora recusado confirmar.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-15T07:25:20+00:00",
+      "age_hours": 5.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/pentagono-admite-escassez-de-municoes-devido-a-guerra_n1765477"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "China aprova legislação que endurece controlo sobre viagens ao estrangeiro",
+      "summary": "A China introduziu novos e abrangentes controlos sobre as viagens ao estrangeiro dos seus cidadãos, numa altura em que intensifica os esforços para proteger segredos de Estado, tecnologia e trabalhadores altamente qualificados.",
+      "why": "A evolução tecnológica está a mudar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, mas também aumentar a pressão por adaptação e regulação.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-15T07:01:31+00:00",
+      "age_hours": 5.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/china-aprova-legislacao-que-endurece-controlo-sobre-viagens-ao-estrangeiro_n1765464"
     }
   ],
   "watch": [
@@ -143,8 +144,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 7,
-    "África": 1,
+    "Mundo": 8,
+    "África": 0,
     "Moçambique": 0
   }
 }
