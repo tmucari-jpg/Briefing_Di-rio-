@@ -1,9 +1,61 @@
 {
-  "updated_at": "2026-09-16T19:49:54.369858+00:00",
+  "updated_at": "2026-09-16T23:28:39.991240+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "Pedro Santa Clara sobre riscos da IA: \"Há uma enorme histeria que é aproveitada\"",
+      "summary": "Economista e especialista em inteligência artificial defende, na Grande Entrevista da RTP, que há interesse das empresas em abrandar o ritmo de desenvolvimento da tecnologia.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-16T22:43:05+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/pedro-santa-clara-sobre-riscos-da-ia-ha-uma-enorme-histeria-que-e-aproveitada_n1765916",
+      "editorial_score": 11.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "RASI baixou esta quarta-feira ao Parlamento",
+      "summary": "Luís Neves disse que o aumento da criminalidade geral representa mais crimes, mas também mais fiscalização e mais ação do Estado. O Parlamento debateu o Relatório de Segurança Interna de 2025, tendo o ministro revelado que o tráfico de droga é \"primeira ameaça\" à segurança interna em Portugal.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-16T20:53:47+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/politica/rasi-baixou-esta-quarta-feira-ao-parlamento_v1765903",
+      "editorial_score": 10.46,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Alunos sem vagas. Ministério continua a reunir com diretores",
+      "summary": "Ainda há alunos sem escola. Já foram resolvidos cerca mil casos, mas há mais e prosseguem as reuniões para lhes encontrar escola.",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-16T20:48:47+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/pais/alunos-sem-vagas-ministerio-continua-a-reunir-com-diretores_v1765900",
+      "editorial_score": 10.44,
+      "source_tier": "A"
+    },
     {
       "section": "Mundo",
       "tags": [
@@ -15,62 +67,10 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "RTP Notícias — Últimas",
       "published": "2026-09-16T19:31:09+00:00",
-      "age_hours": 0.3,
+      "age_hours": 4.0,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/pais/luis-neves-admite-incluir-nacionalidades-nos-crimes-do-rasi_n1765885",
-      "editorial_score": 10.94,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Hashim Thaçi, antigo presidente do Kosovo, condenado a 25 anos em Haia por crimes de guerra",
-      "summary": "O comandante \"Cobra\" liderou uma unidade militar na guerra contra a antiga Jugoslávia, no final dos 1990. O atual primeiro-ministro do Kosovo fala numa \"injustiça inaceitável\".",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T19:18:04+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/hashim-thaci-antigo-presidente-do-kosovo-condenado-a-25-anos-em-haia-por-crimes-de-guerra_n1765881",
-      "editorial_score": 10.9,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "title": "Guterres alerta para riscos da inteligência artificial e pede regras globais de segurança",
-      "summary": "Secretário-geral da ONU defende que os países com maior capacidade nas áreas mais avançadas da inteligência artificial \"devem estabelecer mecanismos de contacto\" para evitar \"um desastre global de enormes proporções\".",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T18:06:44+00:00",
-      "age_hours": 1.7,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/guterres-alerta-para-riscos-da-inteligencia-artificial-e-pede-regras-globais-de-seguranca_n1765867",
-      "editorial_score": 10.65,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Dois bombeiros feridos no incêndio em Portel",
-      "summary": "Um dos bombeiros sofreu uma queda e o outro teve de receber assistência devido à exaustão. Neste momento, o incêndio encontra-se dominado. Por questões de segurança o Itinerário Principal 2 (IP2) foi encerrado nos dois sentidos (Portel, Monte do Trigo, Portel).",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-16T17:03:31+00:00",
-      "age_hours": 2.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/dois-bombeiros-feridos-no-incendio-em-portel_n1765857",
-      "editorial_score": 10.42,
+      "editorial_score": 10.17,
       "source_tier": "A"
     },
     {
@@ -84,10 +84,10 @@
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-16T12:54:22+00:00",
-      "age_hours": 6.9,
+      "age_hours": 10.6,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHd5cUtkT0NHU2s0SU90UHFNRldvVjhGX1gwTUhwQXBrZ2NpNF81Rl9ZcjFoUFVDN1BDSDhGNkM4ZGtrYTRtX1p0MjBVS1dncFNVRV9WQ25aeHEwcElJMXJhenpGUy05VUtCRENzUjRXUTU0a0wxMEVjQ0RXaHlablRINFBNdWFmXzhPYVlGSTBjdVJrTU9ta29iRmtZenU3MlZ4MllZb2JFaThveW0tM3Z0ODZVbW5N?oc=5",
-      "editorial_score": 9.56,
+      "editorial_score": 8.79,
       "source_tier": "C"
     },
     {
@@ -101,61 +101,79 @@
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "Folha de Maputo",
       "published": "2026-09-16T10:48:52+00:00",
-      "age_hours": 9.0,
+      "age_hours": 12.7,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTU2aXk0Y2dqMm0wY292WVdpcEQzMWhVYTJDSlhIYWREd0htZ25SNmFtRl9NeFVaSTFjUlBSbnJjbnVpRG5pZFRFSngxMU0ybTNhNGZjYjRnMVhmZkVyUm4tZzhwa1gwYWl0eE1XdUhlMk8tRGtBalItM2FxS1kwa2VKbWcxRC1wWFdCMGM1ZTl5ejdRb3M0Z3RkUkwwZ1c0X2FzaTZnXzN2ek5ad2tZbUZoV3c5eG5peUtoUi1qU29wNFZPOGg5WDBiT0Y?oc=5",
-      "editorial_score": 9.12,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Angola: BAD Desembolsou Quase 3 MM$ Nos Últimos Dez Anos - diarioeconomico.co.mz",
-      "summary": "Angola: BAD Desembolsou Quase 3 MM$ Nos Últimos Dez Anos diarioeconomico.co.mz",
-      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
-      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-16T13:45:00+00:00",
-      "age_hours": 6.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEw3cFdyTUdOUVVrMjgtLW1Vc3lmeFlCOU94QjZhVldtT1lWeU1FeXV5V2dOODdHZmVyRXV6QUFJaHd1ZW5ZNWcwazZHUVJzdEdnaVo3dzN1VmRRSTJPODFlRkZUZDhLQnZxeHJ2M1FmbXNfck5lQlNJYS0zeFljR1lxM01fZFRGd1c4b1cxdnJFYlRVRVk4RGRnTnpUUi1KNjA5ZldWS2V0T0w5MTFUbXQwcw?oc=5",
-      "editorial_score": 8.73,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Banco Mundial Apoia Moçambique na Expansão do Investimento Turístico - diarioeconomico.co.mz",
-      "summary": "Banco Mundial Apoia Moçambique na Expansão do Investimento Turístico diarioeconomico.co.mz",
-      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
-      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-16T09:30:00+00:00",
-      "age_hours": 10.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWM0NVYtckJ5WUtkMlROX2dDRFBKLUpDdWE3alM5ZjdqWjNYa3k0QmMzdlRETVVFenJJbHhZZ0NmcDFwRkt3Y3FaVUZ0cmtvZGliWC1mYUppUTM0ZS1wV0JOQkJDVGtYODVfV1FXVFM4bjRXcnA0RVI2ZjVyQXBhbEVRSUhmZFBNQzRreFJnU21fVms2WDNpWDVsdjlhZ0w0Yk1hVDh5T09na2VkaXhTMWtqUENUUW94eUNZaEc2a0lmZERsY1NwQXFVcw?oc=5",
-      "editorial_score": 6.85,
+      "editorial_score": 8.35,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Energia"
       ],
-      "title": "Guia sobre como investir com inteligência artificial - CNN Brasil",
-      "summary": "Guia sobre como investir com inteligência artificial CNN Brasil",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "CNN Brasil",
-      "published": "2026-09-16T18:00:07+00:00",
-      "age_hours": 1.8,
+      "title": "O que acontece quando o governo gasta demais? - Revista Oeste",
+      "summary": "O que acontece quando o governo gasta demais? Revista Oeste",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "Revista Oeste",
+      "published": "2026-09-16T19:58:27+00:00",
+      "age_hours": 3.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0dhM05tZ0t6dDlDZjkxLVYxUWRzcVB6Z192RWxhQ1dVNklqSUFIZU9oMkxNMHBjekc1MDRYSmRyTVUyVHhGTFFKdDNnUVJLY1FFRU9HNU94cTlkUWRRck4wZEZfUl9VbWx0N2FYajJEZ3Z4U0ViRVU1TEY5SzI5QWc0TnVnRndmOUJQeFRES0tpMFpLTG5kaW1UUmRYZEM5YmYyclF5ZFJWTTg1M2lORGhMOGMtaDVxaFBNZ3k4RQ?oc=5",
-      "editorial_score": 6.62,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1VSWnV6ZzdkQjJrd1hzUXRheGdHSkFYMVk5d2o4S255SzEzNjltZm5sanZIcHNXbWNpc3plSkpUUFdWb0lYcnBMdEFGSlMzV2hGR3JBVGhWVk9OTmI0Y0Jzc0lqN0RIS1lMOGhRSjUyYk5qUWxYT1J3SGZnU09wVE54RE1CVl8y?oc=5",
+      "editorial_score": 7.27,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Ações dos EUA caem enquanto Warsh alerta que inflação continua alta - Invezz",
+      "summary": "Ações dos EUA caem enquanto Warsh alerta que inflação continua alta Invezz",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "Invezz",
+      "published": "2026-09-16T19:33:18+00:00",
+      "age_hours": 3.9,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2NlTTh0UmNtVXlkVE1IeGtOZTliZzQyX3JNRDVQN1kwX185QzItVE5ZUjFEWllNSnF5VVh3a0lTd1EyXzFEUi1YZVdwX09zczdDVkstVGtOX0ZkVlNFX0xCaTFYOTBQelVNOGRmYV9RX094RVV6ckdCaEc1UmlKSFhLbW91aFJZRkdIZThnSlIwS2dtczhPeXhVMW1iakEwdGUwUHp5NEVMNkNscS1R?oc=5",
+      "editorial_score": 7.19,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "África do Sul: EUA Anunciam Restrições de Vistos Para Alguns Cidadãos Sul-Africanos - diarioeconomico.co.mz",
+      "summary": "África do Sul: EUA Anunciam Restrições de Vistos Para Alguns Cidadãos Sul-Africanos diarioeconomico.co.mz",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
+      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-16T09:00:00+00:00",
+      "age_hours": 14.5,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYVJ6Ty1DQWU2VkoweUZqeTFDcUZGUlVRM1lCd0ZzUE5sLXcxRHFiMlZJSThUU0JyNTZscmx1RW1LWGYycktkTmtBUzI5LXRIWkFSbVY1SllRbmtTekVxS1d5QlNPaW8zR1hCS0FvWFVrMG5lWS1Pajk2dXdJSXZHX293RkR4eGdITXlDNURieVh5NzlQU1lRWGpsMDFNZVVmVVQzS2dWSnZMMExfQ1ZoVlZWVXExdnlvTWM3TVR6NFJ4elp0c3NkdTU3Q1Jjc0lRU1g4UEtCODU?oc=5",
+      "editorial_score": 6.98,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Xenofobia ameaça economia sul-africana - O País - A verdade como notícia",
+      "summary": "Xenofobia ameaça economia sul-africana O País - A verdade como notícia",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
+      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "O País - A verdade como notícia",
+      "published": "2026-09-16T08:09:11+00:00",
+      "age_hours": 15.3,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wMjhWbnVoOE9faElEem5idXNwellrRnhGaWhYQzRQQlJPUDVrUlJPVG1qcVk3UDBFbHlmTHNFRy1qRGtScFhzWEZRd0hnZHhrWmx1M2FBMmZKWkRqaVVUdjVBSFVVYlRqQWRZ?oc=5",
+      "editorial_score": 6.81,
       "source_tier": "C"
     }
   ],
@@ -177,7 +195,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 5,
+    "Mundo": 6,
     "África": 2,
     "Moçambique": 2
   },

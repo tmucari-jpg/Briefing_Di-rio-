@@ -1,9 +1,60 @@
 {
-  "updated_at": "2026-09-16T19:50:00.097402+00:00",
+  "updated_at": "2026-09-16T23:28:46.842216+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "How climate change worsened Nepal's deadly mountain collapse",
+      "summary": "A glacier and rock collapse in Nepal killed nearly 1,400 people and left thousands missing. Scientists say decades of warming helped set the disaster in motion.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "DW English",
+      "published": "2026-09-16T23:03:00+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 10.92,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Delhi court to consider non-disclosure in Mozambique mining case - Global Arbitration Review",
+      "summary": "Delhi court to consider non-disclosure in Mozambique mining case Global Arbitration Review",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
+      "source": "Global Arbitration Review",
+      "published": "2026-09-16T21:16:25+00:00",
+      "age_hours": 2.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamdCYm9xQ1dnbDk2aDhZTmJjeHUzUnpkTHdIUXp2TkxxQnRCNGxPVXVVUG1MVXhJUFRYaDVic05MY1dGN0pmS09tODdXSmFjZGt4U3BXRDZKYjl4MV84S2ZYTjZtcmdBMUpob0h4Q3doNWN6Rjl5S3laNXVmQmdzSW1IZnpLa1p6SGhsY2V6aU5nRkZFc2d1bGpSTmNqaTAzREJqSWJNalI?oc=5",
+      "editorial_score": 10.54,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "United States (U.S.), Argentine Representatives Join African Mining Week (AMW) 2026 as Mineral Diplomacy Reshapes Supply Chains - Social News XYZ",
+      "summary": "United States (U.S.), Argentine Representatives Join African Mining Week (AMW) 2026 as Mineral Diplomacy Reshapes Supply Chains Social News XYZ",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Social News XYZ",
+      "published": "2026-09-16T21:08:12+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWVF2cUxfUUJ6ZTdKV0k1TS1RTGpIRUw5alBud2pzb1ZXRGdPZkdCUWRMVGRfbmRLVDZid0szMDhtN0R3S1dZdW4wM0MxRE1UQnRQNXdiNFRpSVJEWVdUMVdSd2g0U1Q5empDR09HQ0xHdDNoUURLLUw4b2ZnZUJNWnItMmFPTW16TzRRaVFWTy16eEsyNkFyV2RWYmVrZnNIR0Fzc1NHcVkzTmtkZ3Z6ekRhaTFsZDBJem1wRHV0OEEwWGRUNXlzUVVieVI3WWFIVkdHNFNfZlBsZUlUdXZtdnpPa2dwTzRBeXppTWlWZzA5QQ?oc=5",
+      "editorial_score": 10.52,
+      "source_tier": "C"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -15,146 +66,95 @@
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "Oils & Fats International",
       "published": "2026-09-16T15:34:48+00:00",
-      "age_hours": 4.3,
+      "age_hours": 7.9,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmdUVTRrelk5R0xTWDFGNjJiNEVlSHpHTnFkSlFFZU5DZzFHVkRNaU9fYlZBN3Y4UDV2NVhyMjBFQ1l4VkxxWGdpd0JrZUZESVM3UVVxVWNpZDhOWU5zOEJ4NUg1VUVXV1Q1Zk91MGdPVTJXdWF3UUFzc1E1MkNqYWpjalNSclZCZlhjbWtlZWpyMUpmX1ZJM3VYclBHQVg0aXc?oc=5",
-      "editorial_score": 11.1,
+      "editorial_score": 10.35,
       "source_tier": "C"
     },
     {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "UK and Mozambique launch new partnership to protect coasts and support fishing communities",
-      "summary": "The UK and Mozambique launched on 15 September, the Climate and Ocean Adaptation and Sustainable Transition, or COAST, Facility, a new programme supporting sustainable fisheries, coastal resilience and mangrove restoration across Mozambique. The launch took place in Maputo, with UK Special Representative for Nature Ruth Davis and representatives of the Government of Mozambique marking the… Source",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-16T14:54:51+00:00",
-      "age_hours": 4.9,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/uk-and-mozambique-launch-new-partnership-to-protect-coasts-and-support-fishing-communities/",
-      "editorial_score": 10.98,
-      "source_tier": "B"
-    },
-    {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "US Fed raises key rate for first time in 3 years",
-      "summary": "In an attempt to address the persistently high inflation in the world's largest economy, the US Federal Reserve increased interest rates by 25 basis points.",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "title": "US Congress passes Russia sanctions bill",
+      "summary": "The sanctions package is considered the most substantial US legislative effort against Moscow since Trump returned to the White House. It awaits the president's signature, and he has said he will sign it.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "DW English",
-      "published": "2026-09-16T18:24:00+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 10.71,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "US Fed raises interest rates as inflation weighs on economy",
-      "summary": "The 25 basis-point hike is the first raise in three years and comes ahead of critical midterm elections in the US.",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-16T18:03:51+00:00",
-      "age_hours": 1.8,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/9/16/us-fed-raises-interest-rates-as-inflation-weighs-on-economy?traffic_source=rss",
-      "editorial_score": 10.62,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "US agency to invest $155 million in African digital infrastructure firm WIOCC - WTVB",
-      "summary": "US agency to invest $155 million in African digital infrastructure firm WIOCC WTVB",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "WTVB",
-      "published": "2026-09-16T19:22:28+00:00",
+      "published": "2026-09-16T23:01:00+00:00",
       "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdlJ4WnJYcTdpX3JpSEFGU0tSOHRIa2hucGlaRWt5R0xRS2dHRXYxTzZCSGZuUFotYVRpeGJfa055dkFjbzBHNkwwaWNSMWlqUVZMR2Rma3Q5QnkzV0tNV0xEbmFMTFpLZ3V4ekl5UUQzZ1lRa3hqdTVFNnpYaGxUTVdTQ0dzWVlIUEllMW9iQ1hhbi12eFhISi10cTF3d05mQm1kVUVmY1M4MlE?oc=5",
+      "link": "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-rdf",
       "editorial_score": 9.9,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Entry-level smartphone costs hit 76% of monthly income in Sub-Saharan Africa - Business News Nigeria",
-      "summary": "Entry-level smartphone costs hit 76% of monthly income in Sub-Saharan Africa Business News Nigeria",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Business News Nigeria",
-      "published": "2026-09-16T18:57:03+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0JlMmZwMkdvU0RTVzZvbjNMOGIwcG9ZTG9wanVVaGVjX3lSaTQxTDg1REZwRDJYVjJfekpiWHJLTERJMFVtVTlaSzVaZERfSmtXMkdpNnNseHFMR0pBVlhZQXUzOFI4OExnbTNzaWVSenF1YU5ZX1F0anNLWk9OZDlmQ2NLUmNmbUhCQkNFcmlBQ0ZmUHM1X0xrUU1sY2J2M2JJQ3NTOHJaczNpMFhnNUdSVXlnbWtjaHc?oc=5",
-      "editorial_score": 9.81,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Africa’s top 10 M&A deals hit $4.8bn in H1 as MTN-IHS deal leads - Business News Nigeria",
-      "summary": "Africa’s top 10 M&A deals hit $4.8bn in H1 as MTN-IHS deal leads Business News Nigeria",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Business News Nigeria",
-      "published": "2026-09-16T18:56:15+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWlc2amRjeG41RG9UVFV6OXlSa3h5dy1DcjdGaEtIZVFCWGlLbk5qakFWUm9VUGxIQ1IxdUNnQndNczV0VW1XVHdOZm5FcWRlckJrN1hNVjJkclVZQ01jSlprNDFBREp0WjJnVG55LUFLMnVCTU5RZ1Z4a013QjI2dGlLY3Y4T2lWV0haTWt1dVVnakRpQ2JzQUlkRmRqNTZkbEptUWNB?oc=5",
-      "editorial_score": 9.81,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين - الشروق أونلاين",
-      "summary": "Algeria Set to Record Africa’s Fastest Renewable Energy Growth at 42.5% CAGR – الشروق أونلاين الشروق أونلاين",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "الشروق أونلاين",
-      "published": "2026-09-16T18:21:47+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUMyYXFQLS00Vlhyd1NGWFZ6M2dRTlBpSjRZY0JpeXFpUnJtMUFUbXlBRUo3bFdzYWY2aGxJWjVIWnI3alNlcUxLdThrRzk5Y0Rqam03c3FNWHJ6bm84RzdINEtHS1NZRlZ4UEZrQlY4R3g4c2xna0RWdUZySTNKQ1R6ZnBaalFmZlZfaXJ6bG5RZk1EN0Y5blE5R0Y4LTBhZkI0RUJ1ek0?oc=5",
-      "editorial_score": 9.69,
-      "source_tier": "C"
+      "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
+        "Economia"
+      ],
+      "title": "Sweden's center-left bloc set to win election, STV reports",
+      "summary": "The center-left opposition won the Swedish elections by a very slim margin, the public broadcaster reported after 99% of the votes were counted. Thorny negotiations await the bloc even if the result is confirmed.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "DW English",
+      "published": "2026-09-16T22:56:00+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 9.9,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "US interest rates raised for first time in three years",
+      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "BBC World",
+      "published": "2026-09-16T22:16:51+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 9.75,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "BBC World",
+      "published": "2026-09-16T21:24:24+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 9.56,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
         "Energia"
       ],
-      "title": "Gastech 2026 in Bangkok Converts Global Energy Ambition into Billions of Dollars in Deals - PR Newswire",
-      "summary": "Gastech 2026 in Bangkok Converts Global Energy Ambition into Billions of Dollars in Deals PR Newswire",
+      "title": "Visit Nigeria and Angola, Minister of Foreign Affairs Havas Strengthen Indonesia's Energy Resilience - VOI.id",
+      "summary": "Visit Nigeria and Angola, Minister of Foreign Affairs Havas Strengthen Indonesia's Energy Resilience VOI.id",
       "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "PR Newswire",
-      "published": "2026-09-16T19:11:00+00:00",
-      "age_hours": 0.6,
+      "source": "VOI.id",
+      "published": "2026-09-16T21:00:00+00:00",
+      "age_hours": 2.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOVhBNjY1ZHBUOGh5LWVfWXh1bDZ4OUhnSnIxQ0toeW9RR0hUdkZvUFFQSEZrRnFEdWdEMm1Gc0dGMElBMkhMdmFRaF8yUDJ4M3lGY1hWR1dqVkRPWmxjTW9VclhKbUlnamVKQzI0bmdpd0dIYUdRNU5qUmVEVVdSdWVMWWl0Y0V3MlJIRTk2WmR5QmdTNHFLQUUxeURoVXZlc0VGckhfVnBfSHNoTlFVa0xSc2x6R2t1dEViRkh1aVhHdUNSRGRFcmV0YkZCQ193NExoVllxY2xQMVFwNFM1SnZR?oc=5",
-      "editorial_score": 8.88,
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5OS1d5VnJreHU2OERmNDU3WEM0NzVvMXAybVJhVUJrdTg1T3NkOExteTVCNE5SMzAtclplWTdlSFp6M1U?oc=5",
+      "editorial_score": 9.48,
       "source_tier": "C"
     },
     {
@@ -163,16 +163,16 @@
         "Economia",
         "Segurança"
       ],
-      "title": "The World Economy Is Becoming Wary of the U.S. - nytimes.com",
-      "summary": "The World Economy Is Becoming Wary of the U.S. nytimes.com",
+      "title": "Brazil warns global trade reset must not come at developing countries’ expense - DatamarNews",
+      "summary": "Brazil warns global trade reset must not come at developing countries’ expense DatamarNews",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "nytimes.com",
-      "published": "2026-09-16T18:50:07+00:00",
-      "age_hours": 1.0,
+      "source": "DatamarNews",
+      "published": "2026-09-16T20:49:16+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGhMeGs3d1pMZFBlS3NtWUVZS2s4UmttYnB0bEM1OVZUSnFCZ2FWbDB2T2J4NlNLWHctSnltSmlLY3ZTZTlNNDVXSVlFTkxSaFFqVTd6MU5fMlVPakhHM09lam5WYkJwclBsMkd3NURiNllBcU52VzFMTFhWZm9nYlhQSGF0eC1EV21Waw?oc=5",
-      "editorial_score": 8.79,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcm16WUxXZTBtRWkzeGU2X0VnLTNmTTFqcktTWkpEbDdZWWpWdWZkZVpwU1Q3UGNaUUVRbXkweHNfc2VKenJjSVBpMl90d0xfYUgxVGgtMVd0VmdVNkVON3l5cmVjdlFGMHQ3VWJxcHFUR0dadXQzbmVoelU3cE1PNmpOdENHZGZSa0ZXdTdyTTVFMmRQeWpxajc2QU9fdWRZRkdjTmg3QmgyTmtRdmtCMg?oc=5",
+      "editorial_score": 8.44,
       "source_tier": "C"
     }
   ],
@@ -194,8 +194,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 4,
+    "Mundo": 6,
+    "África": 2,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
