@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:49:08.090875+00:00",
+  "updated_at": "2026-09-16T09:39:15.819076+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,104 +7,106 @@
     {
       "section": "Moçambique",
       "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Social protection for the FADM, postal security, navigation aid fees, ENH and Coral Norte, concessions and rescue package for Temane, meteorology, El Niño, and four new appointees – Mozambique Cabinet meeting brief",
+      "summary": "The Council of Ministers approved a set of measures on Tuesday aimed at strengthening social protection for members of the Armed Forces, improving the security of postal services and creating conditions for the resumption of important energy projects in the country. The decisions were taken during the 27th Ordinary Session of the Council of Ministers,… Source",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-16T09:38:50+00:00",
+      "age_hours": 0.0,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/social-protection-for-the-fadm-postal-security-navigation-aid-fees-enh-and-coral-norte-concessions-and-rescue-package-for-temane-meteorology-el-nino-and-four-new-appointees-mozambique/",
+      "editorial_score": 14.0,
+      "source_tier": "B"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Middle East war wipes out 36 million tonnes of LNG as buyers hunt for alternatives from Africa - Business Insider Africa",
+      "summary": "Middle East war wipes out 36 million tonnes of LNG as buyers hunt for alternatives from Africa Business Insider Africa",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Business Insider Africa",
+      "published": "2026-09-16T09:30:00+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMDJPYU9GR3VVQWdXelNlbkk1ajlBU29IZ2hmVFB6VG5mVERQVVRVN3JHZHR6WFIyaGtoQTIyaDNIS1pSNGNGVS1xeURkenYySURoVTJwX3EtRXNsQXVZT0g2YWhGTzFzX2V3M01Va3VfcnJ2U3VRTFU3alFBMl9VOU9sWnMxOFRlZkMycGp1Si1LWDJlZ1gyckNCLXMyZmJCYThZSnNUcTVpNTBTQ2daUmFVODROTWpjel9pc0IwRjJVdXJTWkpBRGM5UTgtdFh0b3luYmFn?oc=5",
+      "editorial_score": 11.96,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Economia"
       ],
-      "title": "Tzu Chi hands over model house in Mozambique Island after 500 families trained in resilient construction techniques",
-      "summary": "The Tzu Chi Charity Foundation will officially hand over on Wednesday the first house built using affordable, locally available materials, as part of the Resilient Housing and Economic Empowerment Project in Mozambique Island, Nampula province, marking the end of the training phase. The handover of the model house marks the completion of the training phase… Source",
-      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
-      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-15T12:37:14+00:00",
-      "age_hours": 1.2,
+      "title": "Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds",
+      "summary": "Palestinian human rights lawyer Noura Erakat was arrested in Florida after speaking against an Israel Bonds investment.",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-16T09:19:50+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/tzu-chi-hands-over-model-house-in-mozambique-island-after-500-families-trained-in-resilient-construction-techniques/",
-      "editorial_score": 12.75,
-      "source_tier": "B"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/human-rights-lawyer-noura-erakat-arrested-at-hearing-against-israel-bonds?traffic_source=rss",
+      "editorial_score": 10.94,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+      "summary": "The Saudi-led coalition said its air defenses had destroyed a Houthi-deployed drone just outside Mecca, Islam's holiest city.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "DW English",
+      "published": "2026-09-16T09:10:00+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 10.9,
+      "source_tier": "A"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
-      ],
-      "title": "Mozambique and Portugal discuss new defence cooperation package",
-      "summary": "The Mozambican President and the Portuguese Defence Minister discussed the new package of bilateral cooperation in the sector, including the revision of the framework agreement on defence and the future of the European Union’s military mission in Mozambique. “We had an opportunity to take stock and agree on relevant steps regarding the future, both in… Source",
-      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
-      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-15T12:59:47+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-and-portugal-discuss-new-defence-cooperation-package/",
-      "editorial_score": 11.83,
-      "source_tier": "B"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "N1bn fraud evades security systems across West Africa in H1 2026 - Business News Nigeria",
-      "summary": "N1bn fraud evades security systems across West Africa in H1 2026 Business News Nigeria",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Business News Nigeria",
-      "published": "2026-09-15T13:18:45+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ1dLUEhFNU82NzVnQXlBZXBNWlVSbFFSSzdlNWhaREp2Q3FVc2FwMmV0anJOeUFhMnpwaDBzR0t3OVR2cjFKTnVPMno0a0JreVd2ZUUtdFN3QktkVlFncHMtWklvUG1YQ0x6a082bm16ZWJaNERDY3ZHYTRrTTNvaXFSZkpvUDZyWkk4MXBzT3NjcTNwalhNbkhtRlh6d1NleFlqMENYSkloOUU?oc=5",
-      "editorial_score": 10.9,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "El Nino reaches super status: Where will it bring rain, drought and heat?",
-      "summary": "Forecasters say the Pacific Ocean warming pattern could be the strongest on record. Here is what that means for you.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-15T13:10:26+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss",
-      "editorial_score": 10.88,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
         "Energia"
       ],
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "title": "Mozambique Approves Financial Structures for Coral Norte FLNG and Temane Thermal Power Plant Projects - streamlinefeed.co.ke",
+      "summary": "Mozambique Approves Financial Structures for Coral Norte FLNG and Temane Thermal Power Plant Projects streamlinefeed.co.ke",
       "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "BBC World",
-      "published": "2026-09-15T13:05:36+00:00",
-      "age_hours": 0.7,
+      "source": "streamlinefeed.co.ke",
+      "published": "2026-09-16T07:14:03+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 10.85,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdkliT2s5aGdSSW5YMDYwenpQSTViVGpGUFpULUhkZWRBblZXTFBfeVFRalNkcjRDYXh3Q0FPUF9xLUxoSmstekpGWkFlUU4tZVZsWWhCd214b2FNeDBrelpPTlVEX2c5eFVKYzA5QTdrYVM1X3NwdVNqWlhqaTBtT3JVYVF3V29QckJHRVFkaHZYcXZZUFh5b1ZkcUZWVzJhejNDV2VobjZsTjBuYmwzaDE0ZkJYR1hITDdKdV9OQlh1VXpMMHBEOWFVUi1wdThs?oc=5",
+      "editorial_score": 10.5,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Why the era of cheap government debt is over",
-      "summary": "US debt has topped $40 trillion. How risky is the growing debt burden, and will investors keep funding Washington's deficits?",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "title": "German drama 'Blindspot Berlin' revisits 2016 Christmas market attack",
+      "summary": "A decade after the terrorist attack on a Berlin Christmas market, a new miniseries looks into the institutional failures that allowed the deadly truck rampage to happen.",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
       "source": "DW English",
-      "published": "2026-09-15T13:17:00+00:00",
-      "age_hours": 0.5,
+      "published": "2026-09-16T09:29:00+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.dw.com/en/why-the-era-of-cheap-government-debt-is-over/a-79259272?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 9.9,
+      "link": "https://www.dw.com/en/german-drama-blindspot-berlin-revisits-2016-christmas-market-attack/a-79281162?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 9.96,
       "source_tier": "A"
     },
     {
@@ -112,68 +114,67 @@
       "tags": [
         "Economia"
       ],
-      "title": "African Infrastructure Elites opens nominations for innovative projects and leaders - energize.co.za",
-      "summary": "African Infrastructure Elites opens nominations for innovative projects and leaders energize.co.za",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "energize.co.za",
-      "published": "2026-09-15T13:14:00+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3hFYkxQVHNXUmtXMDFWdDN6QW5DZzhXOE5EdkFLU1NVSUNIZ2FWQWlzWjkxWUhxQjltb0tLeFA4WEZCRzVkaDBFekp5NTdmdlZRbktyeXNuQjhNM0RqbDJ5OUowc0FUbmtuemFic2dSTkZwR3k0SU9MNEFtakRfTlUwakJUNHNUSGdFRnhlQTY1MER1bnZtVzBaU2std3Jvb2NJTjBSVkxEZGZqN3F3MjFocEdRQldEc0E?oc=5",
-      "editorial_score": 9.88,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Adil El Youssefi: How next-generation intelligent infrastructure is powering Africa's data centre revolution - TechTrendsKE",
-      "summary": "Adil El Youssefi: How next-generation intelligent infrastructure is powering Africa's data centre revolution TechTrendsKE",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "TechTrendsKE",
-      "published": "2026-09-15T13:08:24+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTFkc3AyZzNTSmJMLVhudUNWQ1NkbmloVnh1VTh2b2t4cGptX1hDMUsxRHQ5czAtRmJaelB5dVlFdld3T2ZTeml3SXdzUDVVV3NSN1ljTFFHQ2pkQ0Z3aGNMZUpOVVZNU0lpUGJZWUUyUTNkZjM1Z1VoX0lRZEVsYVpydnNCSVU4Z1dwcTgwMnNBSVFzekNXTTdwNFJZNjlDOURlRzFSRVhsaU9HcGV3S2V4cmFnWGZWLWdkaThzQ3Z1eHVJS01zUXlBakJ2UnNGRFVKSHp0ZlMwZk1tTGc?oc=5",
-      "editorial_score": 9.85,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "MTN South Africa Launches Fifth Women in Digital Business Challenge - TechAfrica News",
-      "summary": "MTN South Africa Launches Fifth Women in Digital Business Challenge TechAfrica News",
+      "title": "Africa-China 2.0 with Paul Frimpong: Beyond Digital Adoption - Business & Financial Times",
+      "summary": "Africa-China 2.0 with Paul Frimpong: Beyond Digital Adoption Business & Financial Times",
       "why": "The story helps explain economic and trade trends relevant to Africa.",
       "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "TechAfrica News",
-      "published": "2026-09-15T12:51:01+00:00",
-      "age_hours": 1.0,
+      "source": "Business & Financial Times",
+      "published": "2026-09-16T09:29:56+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVnVfUTg0dE51X19QZzUxRFlHSFhCVm9Vc1Y3R3A0ZVl1VEgtcGo1b1VZTDVsU1FTSFFyQi1WU2JOSXhfUTZVY3BKSldJdFFDVzB4UHNPQUNXM29NUlFCTXh0cHk5aG1sc2d2UjVZUEJJWDQ1SUFfSGZNTXo3N3d2TVVfUW1mOE9XSTc3R0FBVUJYZw?oc=5",
-      "editorial_score": 9.79,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDFTeUxIU3BXUG8zMXhoMEJBWUlUYXpkUVNjTEE3c3p2T0hXaUJRQ1h1VlluY092VncxMHNIN1I3MGEwaUNROE5NbjJDWXJDTDBIdVg0Y0gteVo2XzN6NkdremVrazQzcEZfLWo4cEwxM19jemsxWW5yajBnM0dWU3hQSERnYnduVUFXaHBhckN6WUJ5YXN3?oc=5",
+      "editorial_score": 9.96,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Three ways the Iran war changed the global economy - Egypt Independent",
-      "summary": "Three ways the Iran war changed the global economy Egypt Independent",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Egypt Independent",
-      "published": "2026-09-15T12:47:54+00:00",
-      "age_hours": 1.0,
+      "title": "Hong Kong unveils plan to align economy with China's goals - The Peninsula Qatar",
+      "summary": "Hong Kong unveils plan to align economy with China's goals The Peninsula Qatar",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "The Peninsula Qatar",
+      "published": "2026-09-16T09:27:54+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUNPbVlRdDA1Y2dzS2VOSFNoVm1uVDlrcWIwRWFpRWlfWW03OFR5R05OUzFveUFUM0IydGpzSWI0eGs5UHQzYzNDdHZsUWxjLXdidWgyQUpja0tST2ZIR3FDQW1vVUlmM3dlNmw3WmpxdDE3aC1URDhRckFGNV9QV3A1Y21pXzRhSm4tNQ?oc=5",
-      "editorial_score": 8.79,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2ZiWWhiYzBEUERCTGNFOE1JNW93Ty03QmZNcnBMWVh4bXN2MENjRzlfcVNsalNLOU5MVHo3VEkzdTJOUy1vNzZwVVcxSWp6QlVIcGJRNlVrVnRxMzZsODZsLU43bHUwQjJRdVJBYkRNRk1jN1RuZWxPSEZZeDRCdjVKb3FiZnNmX3pCaFFFWDlUalozQm5QU3p0U3ZWMHZwaXB2aDBMa2dVdw?oc=5",
+      "editorial_score": 7.96,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Arrow Electronics to showcase intelligent and sustainable technology solutions at electronica India 2026 - bastillepost.com",
+      "summary": "Arrow Electronics to showcase intelligent and sustainable technology solutions at electronica India 2026 bastillepost.com",
+      "why": "Technology is reshaping productivity, regulation and business models.",
+      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
+      "source": "bastillepost.com",
+      "published": "2026-09-16T09:10:00+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNemlhYzM1bDZ6YnR6eG9SV1hUYjZ4alpYbXItc0FhSkZIMTI1bDFEM3BJcjQ4RGVBQWFTZzYtUVBUMXpZYVRBQ0puS0plWmNuekl0VE5pWUR1aTJZWVg0RF9kVEF4NFFYMk93dVB0bk52Y3BIekpMcW9QXzBoVTI0dDVQVldCaHZJNGlXeWxvYUNOeGtGVjctSWVyVWFhb0xjVVFFajhjSzdpT01BMVQxT0RkRTVtYnM1NVd5Y1ltYmRCVmxhUm0ySFVYRFhrS2pGdDZ6ZnZfRVJFS29VZFlTSnhzT1BIdFNCOFVDbg?oc=5",
+      "editorial_score": 7.9,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Global Grocers: These Pittsburgh-area markets have the corner on Eastern European foods - Pittsburgh Post-Gazette",
+      "summary": "Global Grocers: These Pittsburgh-area markets have the corner on Eastern European foods Pittsburgh Post-Gazette",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "Pittsburgh Post-Gazette",
+      "published": "2026-09-16T09:30:23+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc3YyNXN6YmtYOG1Ndndac1JCTzVuelVuSmlHSnpQa1RlTHZibmtuQkV0OTliY0tHcGViR3BhQW1HV0dUTElvbDVJSUQ4REZ3WC1VVlRBbE9Cb1dkcmozRUQxYmdnOHpGajZWREpLTW40ZjZoUVY3bVVYYTlSSWc3Qm4yeWpQMFk0RUZHcTdad1RxaE9meVk5Q050cGFPS1ktU2c?oc=5",
+      "editorial_score": 6.98,
       "source_tier": "C"
     }
   ],
@@ -195,8 +196,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 4,
+    "Mundo": 6,
+    "África": 2,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
