@@ -8,8 +8,12 @@ on:
       - '.github/workflows/update.yml'
   workflow_dispatch:
   schedule:
+    # 07:00, 11:00, 15:00, 19:00 e 23:00 em Africa/Maputo (UTC+2)
     - cron: '0 5 * * *'
-    - cron: '30 5 * * *'
+    - cron: '0 9 * * *'
+    - cron: '0 13 * * *'
+    - cron: '0 17 * * *'
+    - cron: '0 21 * * *'
 
 permissions:
   contents: write
@@ -61,4 +65,4 @@ jobs:
             git push
           fi
 
-# Teste real de execução via push; manter este workflow acionável manualmente também.
+# Atualização automática cinco vezes por dia, com execução manual disponível.
