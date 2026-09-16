@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T13:22:21.263896+00:00",
+  "updated_at": "2026-09-16T13:33:15.373301+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -16,48 +16,113 @@
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "Club of Mozambique",
       "published": "2026-09-16T12:40:23+00:00",
-      "age_hours": 0.7,
+      "age_hours": 0.9,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-labour-ministry-hands-over-a-tractor-self-employment-kits-to-former-mineworkers-photos/",
-      "editorial_score": 13.85,
+      "editorial_score": 13.81,
       "source_tier": "B"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia",
+        "Economia"
+      ],
+      "title": "Land and Environment Secretary due in Macau as Mozambique debuts at global timber forum",
+      "summary": "Mozambique’s Secretary of State for Land and the Environment is due to visit Macau, marking the country’s debut at an annual event on the sustainable trade in tropical timber, the Macau Government said on Tuesday. According to a statement, the Global Legal & Sustainable Timber Forum 2026 (GLSTF 2026) , scheduled for 22 and 23… Source",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-16T13:30:06+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/land-and-environment-secretary-due-in-macau-as-mozambique-debuts-at-global-timber-forum/",
+      "editorial_score": 12.98,
+      "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Segurança"
       ],
-      "title": "Mozambique: Nation among most vulnerable to food insecurity in Africa – report",
-      "summary": "Around 3.5 million Mozambicans are facing acute food insecurity, placing the country amongst the most vulnerable in Africa, against a backdrop of armed conflict, economic pressure and growing climate threats, according to a report by the African organisation AGRA. “Mozambique’s food security situation is expected to remain mixed through January 2027, with Crisis (IPC Phase… Source",
-      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
-      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-16T12:23:31+00:00",
-      "age_hours": 1.0,
+      "title": "China willing to ‘safeguard Iran’s legitimate rights’, official says",
+      "summary": "China says the US-Israel war on Iran highlights flaws in the Middle East's 'existing security architecture'.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-16T13:09:51+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-nation-among-most-vulnerable-to-food-insecurity-in-africa-report/",
-      "editorial_score": 13.79,
-      "source_tier": "B"
+      "link": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss",
+      "editorial_score": 11.92,
+      "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
-        "Energia",
-        "Economia",
+        "Economia"
+      ],
+      "title": "New bosses for major bank in South Africa as it moves to cut jobs and close branches - businesstech.co.za",
+      "summary": "New bosses for major bank in South Africa as it moves to cut jobs and close branches businesstech.co.za",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "businesstech.co.za",
+      "published": "2026-09-16T13:30:41+00:00",
+      "age_hours": 0.0,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeXV3QURjRXl6dktpY2RDYkVFZDl4R2FxQkczSmFMMmpnWjJ2UC1OR2t1bHBtQnFSajRSX3BlbldxQ2FFYUR6SjZBaG03RmpuZGhOZnRBb09MeHlVdi1oTVNLbkFSMWQ4dHY4cmlxUHhBcTUtQzBFaWVBbERKUW0xSUZRQ284ei1ZZTFqYVU1dVJUanVGQ3RzVEt6LTN5Zml4WWR2TS1Tcm91Sm0yQ25NQ3FOb01LT0dIZ3BNbTEzeFd5SUt6eHhueFR6ZG9odw?oc=5",
+      "editorial_score": 11.0,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Segurança"
       ],
-      "title": "Businesses warn South Africa is sleepwalking toward a gas crisis. - fullview.co.za",
-      "summary": "Businesses warn South Africa is sleepwalking toward a gas crisis. fullview.co.za",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "fullview.co.za",
-      "published": "2026-09-16T12:45:18+00:00",
-      "age_hours": 0.6,
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "BBC World",
+      "published": "2026-09-16T13:28:46+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOVR3QzY1a2xUSHJPOHczS3JTTi1CZ2V1TEtoSC1HTXB4cFFEQUJaajZVQjRfM2g4NDlqWG1FN0tqNnMzRGpRV2hIcVVvc0xfZ3ljQXU3WV9XLW1VMlBGUHdFazdqa1Z1MXV4VFVMX2lCVnJuTU5ZbGdCck45TjIyc0hESkcwQURmM1ZaTW5MY0Vydw?oc=5",
-      "editorial_score": 11.88,
-      "source_tier": "C"
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 10.98,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Iran: Activists sound alarm as regime seizes Baha'i assets",
+      "summary": "Rights groups warn Iran is increasingly confiscating assets from government critics and members of the country's Baha'i faith, but also actors, athletes, and journalists living abroad.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "DW English",
+      "published": "2026-09-16T13:28:00+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/iran-activists-sound-alarm-as-regime-seizes-baha-i-assets/a-79291138?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 10.98,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Gold mine collapse kills at least 70 people in Sudan’s West Kordofan",
+      "summary": "Dozens of artisanal miners have been killed after a series of adjoining mining shafts collapsed.",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-16T13:15:22+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss",
+      "editorial_score": 10.94,
+      "source_tier": "A"
     },
     {
       "section": "África",
@@ -71,96 +136,28 @@
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "gasworld",
       "published": "2026-09-16T13:07:53+00:00",
-      "age_hours": 0.2,
+      "age_hours": 0.4,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPak5Xb1laREVRWFhubW1TcDhpR0Q3OUlUTFRuZjROaG40T3RQbE5RVnVYeE8ySUxfX0VmUWJicW8wUnF3OGl0WVhzOENWdmNtRkJEUHZneDRZSXBXNVB3a0V3VGZWXzVlbmFqWXd5Z1lsQ1N2cDRrc2tWbmVfeF9YYklrbS1yREJuSzh2NXFMdVZPR3lSNC1JandNQ05Zcjg1ZVQ2WVRtWkx1aF8wUndCcWloX2t3dlVFMUNMdWtrdWVQUQ?oc=5",
-      "editorial_score": 10.96,
+      "editorial_score": 10.92,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "US political rivals Sanders and Bannon unite on AI warning",
-      "summary": "US senator Bernie Sanders and Donald Trump’s former adviser Steve Bannon have united to warn against the dangers of AI.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "title": "FIFA to present review of Infantino’s shelved investment plan to Council",
+      "summary": "A review of FIFA President Gianni Infantino's failed World Cup selloff to be presented to governing body's Council.",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
       "source": "Al Jazeera English",
-      "published": "2026-09-16T12:39:47+00:00",
-      "age_hours": 0.7,
+      "published": "2026-09-16T13:05:02+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/us-political-rivals-sanders-and-bannon-unite-on-ai-warning?traffic_source=rss",
-      "editorial_score": 10.85,
+      "link": "https://www.aljazeera.com/sports/2026/9/16/fifa-to-present-review-of-infantinos-shelved-investment-plan-to-council?traffic_source=rss",
+      "editorial_score": 10.9,
       "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "BBC World",
-      "published": "2026-09-16T12:26:16+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 10.81,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "R14 per litre plan for petrol and diesel in South Africa - businesstech.co.za",
-      "summary": "R14 per litre plan for petrol and diesel in South Africa businesstech.co.za",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "businesstech.co.za",
-      "published": "2026-09-16T12:30:39+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVFqRHExWnRaYWlWUjJvaXZRMlc1OVl6aTdFdm1BYkhrbTkzNFl6VnFGUE9VblZzZHh3alBvVzhQdjdrWl9adU4yQVdEb05ZdzFPcnRZR2FyekRsUUo2aTNMMTJxeEVaamxHUXJHdnVPanJKLVduRmNzQ2k4b05VN2g2ZzJzT2pwZkFrTkp4bzVQM0xBWkN5YnVpWUUtaTVVd2ZXMGxB?oc=5",
-      "editorial_score": 9.81,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "In Sweden, many breathe sigh of relief as far right suffers election losses",
-      "summary": "The election is tight, but one result is clear: the Sweden Democrats' bid to turn hate into votes failed.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-16T12:22:25+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/features/2026/9/16/in-sweden-many-breathe-sigh-of-relief-as-far-right-suffers-election-losses?traffic_source=rss",
-      "editorial_score": 9.79,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "VEGA brings measurement expertise beyond mining to Electra Mining Africa 2026 - engineeringnews.co.za",
-      "summary": "VEGA brings measurement expertise beyond mining to Electra Mining Africa 2026 engineeringnews.co.za",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "engineeringnews.co.za",
-      "published": "2026-09-16T12:25:00+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGl4aUxDaU1QbkJIYkJ6eENuMFo1YlRudF9uWl9BNFNYQlYzNURVUVVaN3VCbVdTRDBFdkQ5dkZtMXdoVldmTHhfMElSd1NqNjBhMFFNZWVxVVBoXzVMeHMtdlZHVVRfUlEzRGFub3lBQ0FHVVpNbjFUTDUzcFo5WkZLVUlrbWNPc0o5UGdpbS1UNFRFeXU3TXhxZmx0VHcwM3JPTWM4YjY5ZlJLeGxodnFVbDQ2d002TFlfNDJ0M2FyTzJnSDdCVVFR?oc=5",
-      "editorial_score": 9.79,
-      "source_tier": "C"
     },
     {
       "section": "Mundo",
@@ -173,10 +170,10 @@
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "Global Atlanta",
       "published": "2026-09-16T13:06:03+00:00",
-      "age_hours": 0.3,
+      "age_hours": 0.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdE9DekxKVjdtbk9zb2NYcENYTTRaT18zQXRwR1BYd0VRMGNVdThnTXhONWplTlJkTHh1bmxrRThYWWxON1lJMGhPbkFkSlRnczd0ejFRU0Q0eU43b2hxd1k2alA2QmprVGpKMnhaSlMtZy12QWVsajIyZ05wTEhRY29qdUxQa1BZZmNLN0k1VXU1Z1JyaXBv?oc=5",
-      "editorial_score": 7.94,
+      "editorial_score": 7.9,
       "source_tier": "C"
     }
   ],
@@ -198,8 +195,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 4,
+    "Mundo": 6,
+    "África": 2,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",

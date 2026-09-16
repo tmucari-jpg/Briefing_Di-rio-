@@ -1,9 +1,26 @@
 {
-  "updated_at": "2026-09-16T13:22:14.637035+00:00",
+  "updated_at": "2026-09-16T13:33:09.448394+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Presidente do INEM pede mais investimento",
+      "summary": "O presidente do INEM diz que é urgente reforçar o orçamento do Instituto e propõe o aumento da contribuição, através dos seguros, de 2,5% para 4%. Luís Cabral foi ouvido na Comissão Parlamentar, a propósito da proposta da nova Lei Orgânica, onde reafirmou que as alterações que estão ser feitas eram necessárias há já muitos anos.",
+      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-16T13:23:47+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/pais/presidente-do-inem-pede-mais-investimento_v1765808",
+      "editorial_score": 10.96,
+      "source_tier": "A"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -15,10 +32,10 @@
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-16T12:54:22+00:00",
-      "age_hours": 0.5,
+      "age_hours": 0.6,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHd5cUtkT0NHU2s0SU90UHFNRldvVjhGX1gwTUhwQXBrZ2NpNF81Rl9ZcjFoUFVDN1BDSDhGNkM4ZGtrYTRtX1p0MjBVS1dncFNVRV9WQ25aeHEwcElJMXJhenpGUy05VUtCRENzUjRXUTU0a0wxMEVjQ0RXaHlablRINFBNdWFmXzhPYVlGSTBjdVJrTU9ta29iRmtZenU3MlZ4MllZb2JFaThveW0tM3Z0ODZVbW5N?oc=5",
-      "editorial_score": 10.9,
+      "editorial_score": 10.88,
       "source_tier": "C"
     },
     {
@@ -32,10 +49,10 @@
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "folhademaputo.co.mz",
       "published": "2026-09-16T10:48:52+00:00",
-      "age_hours": 2.6,
+      "age_hours": 2.7,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTU2aXk0Y2dqMm0wY292WVdpcEQzMWhVYTJDSlhIYWREd0htZ25SNmFtRl9NeFVaSTFjUlBSbnJjbnVpRG5pZFRFSngxMU0ybTNhNGZjYjRnMVhmZkVyUm4tZzhwa1gwYWl0eE1XdUhlMk8tRGtBalItM2FxS1kwa2VKbWcxRC1wWFdCMGM1ZTl5ejdRb3M0Z3RkUkwwZ1c0X2FzaTZnXzN2ek5ad2tZbUZoV3c5eG5peUtoUi1qU29wNFZPOGg5WDBiT0Y?oc=5",
-      "editorial_score": 10.46,
+      "editorial_score": 10.44,
       "source_tier": "C"
     },
     {
@@ -49,27 +66,10 @@
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Últimas",
       "published": "2026-09-16T13:10:47+00:00",
-      "age_hours": 0.2,
+      "age_hours": 0.4,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/pais/governo-garante-que-sistema-volta-vai-continuar_v1765805",
-      "editorial_score": 9.96,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "\"Alemanha precisa de estabilidade\". Chefes dos governos estaduais conservadores apoiam Merz",
-      "summary": "Oito chefes de Governo estaduais do partido União Democrata-Cristã (CDU) do chanceler alemão Friedrich Merz apoiaram o líder num comunidado conjunto divulgado esta quarta-feira.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T11:22:38+00:00",
-      "age_hours": 2.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/alemanha-precisa-de-estabilidade-chefes-dos-governos-estaduais-conservadores-apoiam-merz_n1765781",
-      "editorial_score": 9.58,
+      "editorial_score": 9.92,
       "source_tier": "A"
     },
     {
@@ -85,10 +85,10 @@
       "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
       "source": "bra1.com.br",
       "published": "2026-09-16T12:44:00+00:00",
-      "age_hours": 0.6,
+      "age_hours": 0.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONjRQTFZhclAtU3NJWFNkRVUzMmpMNzBCV0tYNWFKbnN3MzNmVVV5Q0pIbnM3UE1qNjJfZ3V1dUtSTDZIWU8zNHNrVnBib0RpUDBZX2Q4U3BvX1hWd2ltUGtXQXF3aFVTbnp3Ymd0TThnenp2cGlNN3B5ZWFHQmVINTlFbUpDUFByZzZId2MtcEFTaDl4X2tVU19fVjFzZy1BU2NQdUUzZGVqX3l5cGdjekR3ZkJVYXBJVDJiY1dZUzFxY1B0d1gzZi14My1NT0ZHWG5ycWJfbl9CZVVHU0Z3bnFR?oc=5",
-      "editorial_score": 8.88,
+      "editorial_score": 8.83,
       "source_tier": "C"
     },
     {
@@ -103,10 +103,10 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "European Parliament",
       "published": "2026-09-16T11:26:59+00:00",
-      "age_hours": 1.9,
+      "age_hours": 2.1,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbUo5Q1YzcnZ4YkpTTHhNU2x2MW53ZHlFWUpPMDVnUjQ4X05QZkt0bnNOdlNKeW9Tam9wN2xCTEFBM1BsT3J5dDQ2TXlCOXF4bGtuSmZVaUlzWEhvMEZLOHlDV0R2b2NOVWkxNUgtWldiNkJSM3pzQ2FGVmJ6V2NsV1NpOWFVTzY4MnI4cHh4UTllN1QtTTdGamQ1VUgxMXBQZVlQLVhwWlIyYmw3SWFRZm51NGVNeGJyYmxRbDZQT0FjOGwzcGFCV1hPaU0tWjlCXzJxYS1OcUQ?oc=5",
-      "editorial_score": 8.6,
+      "editorial_score": 8.56,
       "source_tier": "C"
     },
     {
@@ -120,10 +120,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "Jornal Mercado",
       "published": "2026-09-16T10:31:45+00:00",
-      "age_hours": 2.8,
+      "age_hours": 3.0,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWExqVWxDNXU1TmM3SnBQTVZ1UElEUUtST2JKYzBicjkyREhUWEFBU3ZWQ2JQa1p6RHlUcnFqb1dMV3YxengzNTFVUGpwQ1NKUmxwZEZrUkNha2lBa0pacm9falRIOE11cjRjd3ByTzc4YTRWbGZfM2JXaDBDRHh0NlVFMTFJNUUtQlozYmgySWoxV2FqSXJIbFRDZXZERkVpcDJzeFA3dFJRVGo3NHFjeDRKR2tnZC02?oc=5",
-      "editorial_score": 8.42,
+      "editorial_score": 8.38,
       "source_tier": "C"
     },
     {
@@ -137,10 +137,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-16T09:30:00+00:00",
-      "age_hours": 3.9,
+      "age_hours": 4.1,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWM0NVYtckJ5WUtkMlROX2dDRFBKLUpDdWE3alM5ZjdqWjNYa3k0QmMzdlRETVVFenJJbHhZZ0NmcDFwRkt3Y3FaVUZ0cmtvZGliWC1mYUppUTM0ZS1wV0JOQkJDVGtYODVfV1FXVFM4bjRXcnA0RVI2ZjVyQXBhbEVRSUhmZFBNQzRreFJnU21fVms2WDNpWDVsdjlhZ0w0Yk1hVDh5T09na2VkaXhTMWtqUENUUW94eUNZaEc2a0lmZERsY1NwQXFVcw?oc=5",
-      "editorial_score": 8.19,
+      "editorial_score": 8.15,
       "source_tier": "C"
     },
     {
@@ -155,10 +155,10 @@
       "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
       "source": "Portal NE9",
       "published": "2026-09-16T13:19:14+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.2,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV05oOFJHQzlIN0hjdjVjQTlmWk5ia213c2ZoMXJfa0pjNmwtSFBiZ1RSamVXWFE1dndDY21MZ2hncE9Ja3RHWUZLbmhfZjBXcE5iUDBJLUc3dkpkTWlndWV4Q242MDF5cHhINE5JRFp4SzJMbEg1bk05OXFnVF9fa3p6anRNOE9wTzJ1dUFEbUpUeFNES05QVl85TTNuc3l3X3BteUs0QQ?oc=5",
-      "editorial_score": 7.0,
+      "editorial_score": 6.96,
       "source_tier": "C"
     }
   ],
