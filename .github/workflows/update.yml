@@ -5,6 +5,7 @@ on:
     paths:
       - 'scripts/update_news.py'
       - 'scripts/editorial_quality.py'
+      - 'scripts/update_opportunities.py'
       - '.github/workflows/update.yml'
   workflow_dispatch:
   schedule:
@@ -34,6 +35,10 @@ jobs:
         run: python scripts/update_news.py
       - name: Curadoria e qualidade editorial
         run: python scripts/editorial_quality.py
+      - name: Gerar radar semanal de oportunidades
+        env:
+          TZ: Africa/Maputo
+        run: python scripts/update_opportunities.py
       - name: Validar briefing final
         run: |
           python - <<'PY'
@@ -52,17 +57,24 @@ jobs:
                       assert x.get(k), f'{f}: campo ausente {k}'
                   assert x['source_tier'] in ('A','B','C')
               print(f'{f}: {n} notícias · {c}')
+          for f in ('docs/opportunities-pt.json','docs/opportunities-en.json'):
+              d=json.load(open(f,encoding='utf-8'))
+              assert isinstance(d.get('items'), list), f'{f}: items inválidos'
+              for x in d['items']:
+                  for k in ('title','summary','category','source','link','published'):
+                      assert x.get(k), f'{f}: campo ausente {k}'
+              print(f'{f}: {len(d["items"])} oportunidades')
           PY
-      - name: Commit notícias
+      - name: Commit notícias e oportunidades
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add docs/news.json docs/news-pt.json docs/news-en.json
+          git add docs/news.json docs/news-pt.json docs/news-en.json docs/opportunities-pt.json docs/opportunities-en.json
           if git diff --cached --quiet; then
-            echo 'Sem alterações nas notícias.'
+            echo 'Sem alterações.'
           else
-            git commit -m 'chore: actualizar briefing editorial'
+            git commit -m 'chore: actualizar briefing e radar de oportunidades'
             git push
           fi
 
-# Atualização automática cinco vezes por dia, com execução manual disponível.
+# Notícias: cinco actualizações por dia. Oportunidades: janela móvel de 7 dias, regenerada em cada actualização.
