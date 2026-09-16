@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T09:39:10.358057+00:00",
+  "updated_at": "2026-09-16T13:22:14.637035+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,120 +7,52 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Insegurança obriga comerciantes a paralisar actividades em Cuamba - Carta de Moçambique",
-      "summary": "Insegurança obriga comerciantes a paralisar actividades em Cuamba Carta de Moçambique",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "Carta de Moçambique",
-      "published": "2026-09-16T09:26:48+00:00",
-      "age_hours": 0.2,
+      "title": "“O Ancoradouro do Tempo” Estreia na Ilha de Moçambique no Festival Owani 2026 - diarioeconomico.co.mz",
+      "summary": "“O Ancoradouro do Tempo” Estreia na Ilha de Moçambique no Festival Owani 2026 diarioeconomico.co.mz",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-16T12:54:22+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk4xaDVBbkRid0dXVFRYQTlMZlptUFdRb3M1UV96d2RXbjhNOVZNZXRYb3F6eFJRa0xMcnZVNTVmZ0x2R3E2d2lEZjFpbVpGbjU5WTlMVzRsMXN5bGZBOEs2cjZpOFRNQTVDak4wYlFsV01BTk9SWWZmN085NGp3WlhvbzBWOFFSOE5ra2ktSEpPS1Q1TTJRT1dDVmlvNmRSX2lv?oc=5",
-      "editorial_score": 10.96,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHd5cUtkT0NHU2s0SU90UHFNRldvVjhGX1gwTUhwQXBrZ2NpNF81Rl9ZcjFoUFVDN1BDSDhGNkM4ZGtrYTRtX1p0MjBVS1dncFNVRV9WQ25aeHEwcElJMXJhenpGUy05VUtCRENzUjRXUTU0a0wxMEVjQ0RXaHlablRINFBNdWFmXzhPYVlGSTBjdVJrTU9ta29iRmtZenU3MlZ4MllZb2JFaThveW0tM3Z0ODZVbW5N?oc=5",
+      "editorial_score": 10.9,
       "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Timor-Leste adere à Convenção sobre Munições de Fragmentação e à Agência de Energia Atómica",
-      "summary": "Timor-Leste aderiu esta semana à Convenção sobre Munições de Fragmentação e à Agência Internacional de Energia Atómica, anunciou hoje o Governo timorense.",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T09:12:56+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/timor-leste-adere-a-convencao-sobre-municoes-de-fragmentacao-e-a-agencia-de-energia-atomica_n1765729",
-      "editorial_score": 10.92,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Veteranos da guerra na Ucrânia em destaque em eleições parlamentares russas",
-      "summary": "Veteranos da guerra na Ucrânia, promovidos pelo Kremlin como a \"verdadeira elite\" da Rússia, surgem em destaque como candidatos nas listas partidárias e nos vídeos de campanha para as eleições para o Parlamento do país esta semana.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T09:03:15+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/veteranos-da-guerra-na-ucrania-em-destaque-em-eleicoes-parlamentares-russas_n1765725",
-      "editorial_score": 10.88,
-      "source_tier": "A"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
-      ],
-      "title": "Governo aprova estrutura financeira e condições do financiamento do Projecto Coral Norte FLNG - Carta de Moçambique",
-      "summary": "Governo aprova estrutura financeira e condições do financiamento do Projecto Coral Norte FLNG Carta de Moçambique",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Carta de Moçambique",
-      "published": "2026-09-16T08:51:48+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLTFFdVM3Y241SEQ5cFZMVk9GSTdOVkQ1UFo2TkxxczJyTS1RMjhpWk5PbVQ1aks2TzZ3NkM1RDNsWG9VSUxRVC1PNlZnbTJQMExqMWN5ODIxX2RQbE5iQ2c5eXA1WDktc1g4MlBjSVJzdTZlWHdkV3EwbHcwVldRaWZ2bFdZQ2YzYVVEb3VNMld2VEMzRWRxMXFPbUJOZHgyYnFpTHZiWXhyVkVwZ2M0WDhZMjFWS2Qyb0FvT2h1eE5VcWRsc21yY1NpaVk2X21SU1NmYTlKMA?oc=5",
-      "editorial_score": 10.83,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Consórcio chinês vai gerir, modernizar e expandir fronteira entre Moçambique e Zimbabué",
-      "summary": "Um consórcio chinês vai assumir, por 25 anos, a concessão da gestão do Posto Fronteiriço de Paragem Única de Machipanda, prevendo, segundo o Governo, modernizar e expandir aquela que é uma das principais fronteiras entre Moçambique e o Zimbabué.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-16T09:15:55+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/consorcio-chines-vai-gerir-modernizar-e-expandir-fronteira-entre-mocambique-e-zimbabue_n1765732",
-      "editorial_score": 9.92,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "África do Sul: EUA Anunciam Restrições de Vistos Para Alguns Cidadãos Sul-Africanos - diarioeconomico.co.mz",
-      "summary": "África do Sul: EUA Anunciam Restrições de Vistos Para Alguns Cidadãos Sul-Africanos diarioeconomico.co.mz",
-      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
-      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-16T09:00:00+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYVJ6Ty1DQWU2VkoweUZqeTFDcUZGUlVRM1lCd0ZzUE5sLXcxRHFiMlZJSThUU0JyNTZscmx1RW1LWGYycktkTmtBUzI5LXRIWkFSbVY1SllRbmtTekVxS1d5QlNPaW8zR1hCS0FvWFVrMG5lWS1Pajk2dXdJSXZHX293RkR4eGdITXlDNURieVh5NzlQU1lRWGpsMDFNZVVmVVQzS2dWSnZMMExfQ1ZoVlZWVXExdnlvTWM3TVR6NFJ4elp0c3NkdTU3Q1Jjc0lRU1g4UEtCODU?oc=5",
-      "editorial_score": 9.85,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
         "Segurança"
       ],
-      "title": "Responsável militar francês alerta em Pequim para impacto global do bloqueio de Ormuz",
-      "summary": "O bloqueio do estreito de Ormuz demonstra como uma crise regional pode ter repercussões globais, alertou hoje em Pequim um responsável do Ministério francês das Forças Armadas, que defendeu a liberdade de navegação no Médio Oriente e Indo-Pacífico.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T08:49:29+00:00",
-      "age_hours": 0.8,
+      "title": "Governo aprova regulamento que reforça segurança postal nacional em Moçambique - folhademaputo.co.mz",
+      "summary": "Governo aprova regulamento que reforça segurança postal nacional em Moçambique folhademaputo.co.mz",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "folhademaputo.co.mz",
+      "published": "2026-09-16T10:48:52+00:00",
+      "age_hours": 2.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/responsavel-militar-frances-alerta-em-pequim-para-impacto-global-do-bloqueio-de-ormuz_n1765723",
-      "editorial_score": 9.83,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTU2aXk0Y2dqMm0wY292WVdpcEQzMWhVYTJDSlhIYWREd0htZ25SNmFtRl9NeFVaSTFjUlBSbnJjbnVpRG5pZFRFSngxMU0ybTNhNGZjYjRnMVhmZkVyUm4tZzhwa1gwYWl0eE1XdUhlMk8tRGtBalItM2FxS1kwa2VKbWcxRC1wWFdCMGM1ZTl5ejdRb3M0Z3RkUkwwZ1c0X2FzaTZnXzN2ek5ad2tZbUZoV3c5eG5peUtoUi1qU29wNFZPOGg5WDBiT0Y?oc=5",
+      "editorial_score": 10.46,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo garante que sistema Volta vai continuar",
+      "summary": "A ministra do Ambiente admite ajustes, mas garante que o Sistema Volta vai continuar. O presidente da Câmara de Lisboa defende o fim imediato deste sistema de depósito de embalagens.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-16T13:10:47+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/pais/governo-garante-que-sistema-volta-vai-continuar_v1765805",
+      "editorial_score": 9.96,
       "source_tier": "A"
     },
     {
@@ -128,50 +60,105 @@
       "tags": [
         "Economia"
       ],
-      "title": "Mais de metade dos alunos sem colocação fizeram matrícula fora do prazo",
-      "summary": "O Ministério da Educação fez um balanço dos alunos que estavam sem vaga nas escolas na grande Lisboa e que entretanto foram colocados. Segundo o Governo, cerca de 65 por cento desses pedidos de matrícula foram apresentados fora do prazo.",
+      "title": "\"Alemanha precisa de estabilidade\". Chefes dos governos estaduais conservadores apoiam Merz",
+      "summary": "Oito chefes de Governo estaduais do partido União Democrata-Cristã (CDU) do chanceler alemão Friedrich Merz apoiaram o líder num comunidado conjunto divulgado esta quarta-feira.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-16T08:38:49+00:00",
-      "age_hours": 1.0,
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-16T11:22:38+00:00",
+      "age_hours": 2.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/mais-de-metade-dos-alunos-sem-colocacao-fizeram-matricula-fora-do-prazo_n1765740",
-      "editorial_score": 9.79,
+      "link": "https://www.rtp.pt/noticias/mundo/alemanha-precisa-de-estabilidade-chefes-dos-governos-estaduais-conservadores-apoiam-merz_n1765781",
+      "editorial_score": 9.58,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "IA",
+        "Economia",
+        "Segurança"
       ],
-      "title": "Estado da União. UE vai propor quadro de emergência para prevenir fluxos de migrantes",
-      "summary": "No discurso do Estado da União, que marca o regresso aos trabalhos dos eurodeputados, Ursula von der Leyen anunciou medidas nos campos da Inteligência Artificial, da resiliência climática, migrações e redes sociais.",
+      "title": "Como inteligência artificial e dados ajudam produtores rurais a investir com mais segurança e economia - bra1.com.br",
+      "summary": "Como inteligência artificial e dados ajudam produtores rurais a investir com mais segurança e economia bra1.com.br",
       "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
       "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T08:35:34+00:00",
-      "age_hours": 1.1,
+      "source": "bra1.com.br",
+      "published": "2026-09-16T12:44:00+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/estado-da-uniao-ue-vai-propor-quadro-de-emergencia-para-prevenir-fluxos-de-migrantes_n1765745",
-      "editorial_score": 9.77,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONjRQTFZhclAtU3NJWFNkRVUzMmpMNzBCV0tYNWFKbnN3MzNmVVV5Q0pIbnM3UE1qNjJfZ3V1dUtSTDZIWU8zNHNrVnBib0RpUDBZX2Q4U3BvX1hWd2ltUGtXQXF3aFVTbnp3Ymd0TThnenp2cGlNN3B5ZWFHQmVINTlFbUpDUFByZzZId2MtcEFTaDl4X2tVU19fVjFzZy1BU2NQdUUzZGVqX3l5cGdjekR3ZkJVYXBJVDJiY1dZUzFxY1B0d1gzZi14My1NT0ZHWG5ycWJfbl9CZVVHU0Z3bnFR?oc=5",
+      "editorial_score": 8.88,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Parlamento debate o estado da UE: economia, segurança, clima, IA, redes sociais | Atualidade | Parlamento Europeu - European Parliament",
+      "summary": "Parlamento debate o estado da UE: economia, segurança, clima, IA, redes sociais | Atualidade | Parlamento Europeu European Parliament",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "European Parliament",
+      "published": "2026-09-16T11:26:59+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbUo5Q1YzcnZ4YkpTTHhNU2x2MW53ZHlFWUpPMDVnUjQ4X05QZkt0bnNOdlNKeW9Tam9wN2xCTEFBM1BsT3J5dDQ2TXlCOXF4bGtuSmZVaUlzWEhvMEZLOHlDV0R2b2NOVWkxNUgtWldiNkJSM3pzQ2FGVmJ6V2NsV1NpOWFVTzY4MnI4cHh4UTllN1QtTTdGamQ1VUgxMXBQZVlQLVhwWlIyYmw3SWFRZm51NGVNeGJyYmxRbDZQT0FjOGwzcGFCV1hPaU0tWjlCXzJxYS1OcUQ?oc=5",
+      "editorial_score": 8.6,
+      "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Angola: BNA Revê em Alta Previsão de Crescimento do PIB Para 6,15% - diarioeconomico.co.mz",
-      "summary": "Angola: BNA Revê em Alta Previsão de Crescimento do PIB Para 6,15% diarioeconomico.co.mz",
+      "title": "Angola Hub Summit 2026: Banco Mundial e 14 países da SADC reforçam aposta na logística angolana - Jornal Mercado",
+      "summary": "Angola Hub Summit 2026: Banco Mundial e 14 países da SADC reforçam aposta na logística angolana Jornal Mercado",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
+      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "Jornal Mercado",
+      "published": "2026-09-16T10:31:45+00:00",
+      "age_hours": 2.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWExqVWxDNXU1TmM3SnBQTVZ1UElEUUtST2JKYzBicjkyREhUWEFBU3ZWQ2JQa1p6RHlUcnFqb1dMV3YxengzNTFVUGpwQ1NKUmxwZEZrUkNha2lBa0pacm9falRIOE11cjRjd3ByTzc4YTRWbGZfM2JXaDBDRHh0NlVFMTFJNUUtQlozYmgySWoxV2FqSXJIbFRDZXZERkVpcDJzeFA3dFJRVGo3NHFjeDRKR2tnZC02?oc=5",
+      "editorial_score": 8.42,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Banco Mundial Apoia Moçambique na Expansão do Investimento Turístico - diarioeconomico.co.mz",
+      "summary": "Banco Mundial Apoia Moçambique na Expansão do Investimento Turístico diarioeconomico.co.mz",
       "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "diarioeconomico.co.mz",
-      "published": "2026-09-16T08:15:00+00:00",
-      "age_hours": 1.4,
+      "published": "2026-09-16T09:30:00+00:00",
+      "age_hours": 3.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjdSRk9wSW1GZDFMZC04RTdvb0FndXhJeVVDSVRGUEU3YmF2LWFpWEozZVJQY1F5UklneEpsbExvUXNfYTdrZDYxOEVoSF9zdEEtWEI0c29ZR25PRHJRM2NCOFloVFNsRC1CbmZEb2Z0X0dtVWVjSzJQWnNfNkpjd3YxRUE5am5iN1UweG82clYtckFBTExmQ0FTdnpNM0FJdlg0ak9lWmZXUG1YQXhBNF9XTlRCOUhjdGxXUWswWQ?oc=5",
-      "editorial_score": 9.71,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWM0NVYtckJ5WUtkMlROX2dDRFBKLUpDdWE3alM5ZjdqWjNYa3k0QmMzdlRETVVFenJJbHhZZ0NmcDFwRkt3Y3FaVUZ0cmtvZGliWC1mYUppUTM0ZS1wV0JOQkJDVGtYODVfV1FXVFM4bjRXcnA0RVI2ZjVyQXBhbEVRSUhmZFBNQzRreFJnU21fVms2WDNpWDVsdjlhZ0w0Yk1hVDh5T09na2VkaXhTMWtqUENUUW94eUNZaEc2a0lmZERsY1NwQXFVcw?oc=5",
+      "editorial_score": 8.19,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "Recife transforma inteligência artificial em ferramenta de negócios no Porto Digital - Portal NE9",
+      "summary": "Recife transforma inteligência artificial em ferramenta de negócios no Porto Digital Portal NE9",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "Portal NE9",
+      "published": "2026-09-16T13:19:14+00:00",
+      "age_hours": 0.0,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV05oOFJHQzlIN0hjdjVjQTlmWk5ia213c2ZoMXJfa0pjNmwtSFBiZ1RSamVXWFE1dndDY21MZ2hncE9Ja3RHWUZLbmhfZjBXcE5iUDBJLUc3dkpkTWlndWV4Q242MDF5cHhINE5JRFp4SzJMbEg1bk05OXFnVF9fa3p6anRNOE9wTzJ1dUFEbUpUeFNES05QVl85TTNuc3l3X3BteUs0QQ?oc=5",
+      "editorial_score": 7.0,
       "source_tier": "C"
     }
   ],
@@ -193,7 +180,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
+    "Mundo": 5,
     "África": 2,
     "Moçambique": 2
   },
