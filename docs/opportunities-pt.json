@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-16T13:33:20.821562+00:00",
+  "updated_at": "2026-09-16T19:50:05.498890+00:00",
   "language": "pt",
   "window_days": 7,
   "items": [
+    {
+      "section": "Moçambique",
+      "category": "Novos projectos",
+      "title": "Mozambique: FNDS chair Dino Foi waives salary, official vehicle and official residence, CanalMoz reports",
+      "summary": "The recently sworn-in Chairman of the Board of Directors of the National Sustainable Development Fund (FNDS), Dino Foi, has opted to forgo his salary and substantial benefits and perks associated with the position. The story is the lead on the front page of Wednesday’s edition of the weekly Canal de Moçambique and is attracting attention… Source",
+      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
+      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-16T14:38:38+00:00",
+      "age_hours": 5.2,
+      "link": "https://clubofmozambique.com/news/mozambique-fnds-chair-dino-foi-waives-salary-official-vehicle-and-official-residence-canalmoz-reports/",
+      "score": 6
+    },
     {
       "section": "Moçambique",
       "category": "Regulação & decretos",
@@ -12,7 +25,7 @@
       "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
       "source": "RTP Últimas",
       "published": "2026-09-16T13:23:47+00:00",
-      "age_hours": 0.2,
+      "age_hours": 6.4,
       "link": "https://www.rtp.pt/noticias/pais/presidente-do-inem-pede-mais-investimento_v1765808",
       "score": 8
     },
@@ -25,7 +38,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Club of Mozambique",
       "published": "2026-09-16T12:40:23+00:00",
-      "age_hours": 0.9,
+      "age_hours": 7.2,
       "link": "https://clubofmozambique.com/news/mozambique-labour-ministry-hands-over-a-tractor-self-employment-kits-to-former-mineworkers-photos/",
       "score": 9
     },
@@ -38,22 +51,9 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Club of Mozambique",
       "published": "2026-09-16T12:06:50+00:00",
-      "age_hours": 1.4,
+      "age_hours": 7.7,
       "link": "https://clubofmozambique.com/news/italy-mozambique-business-forum-investment-in-agriculture-and-agribusiness-takes-centre-stage/",
       "score": 9
-    },
-    {
-      "section": "Moçambique",
-      "category": "Regulação & decretos",
-      "title": "Chinese consortium to manage, modernise and expand Machipanda border post between Mozambique and Zimbabwe",
-      "summary": "A Chinese consortium will take over, for 25 years, the concession to manage the Machipanda One-Stop Border Post, with the Government saying it will modernise and expand what is one of the main border crossings between Mozambique and Zimbabwe. According to Decree No. 53/2026 of the Council of Ministers, the concession was awarded to the… Source",
-      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
-      "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-16T11:43:10+00:00",
-      "age_hours": 1.8,
-      "link": "https://clubofmozambique.com/news/chinese-consortium-to-manage-modernise-and-expand-machipanda-border-post-between-mozambique-and-zimbabwe/",
-      "score": 10
     },
     {
       "section": "Moçambique",
@@ -64,7 +64,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-16T09:30:00+00:00",
-      "age_hours": 4.1,
+      "age_hours": 10.3,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWM0NVYtckJ5WUtkMlROX2dDRFBKLUpDdWE3alM5ZjdqWjNYa3k0QmMzdlRETVVFenJJbHhZZ0NmcDFwRkt3Y3FaVUZ0cmtvZGliWC1mYUppUTM0ZS1wV0JOQkJDVGtYODVfV1FXVFM4bjRXcnA0RVI2ZjVyQXBhbEVRSUhmZFBNQzRreFJnU21fVms2WDNpWDVsdjlhZ0w0Yk1hVDh5T09na2VkaXhTMWtqUENUUW94eUNZaEc2a0lmZERsY1NwQXFVcw?oc=5",
       "score": 8
     },
@@ -77,21 +77,8 @@
       "action": "Verificar entidade recrutadora, requisitos, localização e prazo de candidatura.",
       "source": "Google News",
       "published": "2026-09-16T05:43:04+00:00",
-      "age_hours": 7.8,
+      "age_hours": 14.1,
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFVxQ1ROYmh5SG5HT3hoM1c3dDVxcGdfQ3lPb0p1TUQ1NHBIel9OQlYzZ2txa09HNE9iVTFsdFFFYkhxMEJNSThOanV3bXNHZEhEQVFCUy02TDVGMVpZUVQtc1lmX2MzY2N4SGxIX1ZtU1FuQ0syNmppb1dQTWFtNldkM2VaR2w3b0RjUlBzTGF6ZjdtNkRpMTVHQktqMkd0RUJtYml3TGNsNXlsTXRlSEoxemlPR3phcE8xT3NR?oc=5",
-      "score": 5
-    },
-    {
-      "section": "Moçambique",
-      "category": "Novos projectos",
-      "title": "Banco Mundial apoia projecto de turismo focado no sector privado em Moçambique - Правда.Ру",
-      "summary": "Banco Mundial apoia projecto de turismo focado no sector privado em Moçambique Правда.Ру",
-      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
-      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
-      "source": "Google News",
-      "published": "2026-09-16T01:56:00+00:00",
-      "age_hours": 11.6,
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVFkZk92dzNTWURzM2xjRmMzZk9rRUFwUUM4bHJLVE5UclRkMzZRaGJKR09seHhzZWdIS0xHdV9sU0ZIbURnUmFWNFU2UlZ2ZC16WDZ1dFFBRmEyMjliSjFQZmtvMTNwUTg5WXZLQmJYVVpwV0RmOGhDYVRkQXdDUzliNVJUQ2I1?oc=5",
       "score": 5
     },
     {
@@ -103,7 +90,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-15T16:02:26+00:00",
-      "age_hours": 21.5,
+      "age_hours": 27.8,
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNem5qSTM4SDRfdnBlZGJ2eXRvVFBHUjVsWGFQbHZDbWtFVjB1NFdpLVdvaGc1RGFsUklPa3NCLTlRUFZrTGFFNzBjbnBnQ1VPU0pqdzh3Wk9SRDZ2bThaa2M5bzNzb3J2OXNqdDdPMXZiR2tfRG51YndVS05FTGlqblFxWGdXaXFObTFlQzVCSHJPLXFJM0lpclhQbTlIUndlYkgtUTF1Nnoydy14aGVaa0FQeDhxbXVUZFhOSWVpWDA0akZQVVM1UXJCZzRYandaTldpdGpzMDM0WGM?oc=5",
       "score": 8
     },
@@ -116,7 +103,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-15T11:36:36+00:00",
-      "age_hours": 25.9,
+      "age_hours": 32.2,
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PRE9UT0VxVGpzVWJnX3Fxall0ODZMRW9SR1d4LV9VeEJQZjE2YzhZVVZDQXlDd05uVUlhMy1ocUY0OHFyV195cEpaelVPZzM2NXdLS1Z2dkxIQQ?oc=5",
       "score": 8
     },
@@ -129,22 +116,9 @@
       "action": "Avaliar aplicação prática, fornecedores, competências necessárias e impacto na produtividade.",
       "source": "Google News",
       "published": "2026-09-15T09:25:53+00:00",
-      "age_hours": 28.1,
+      "age_hours": 34.4,
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3htbThvcXk0MGV1dUNhclZRcldQLWx2NHFRejVpOEZJRnVSUlRiT29TNlNpVklhVGVHdkpmaWRHajd2TXNSWTc2R05OWE1LRW0wS196cG5JTXFoSUJHRzc5bkhLdkxZZi1VWmtzeWRqZVRlbkhmaG5rbW9mWjJFSzVEZUJkUHA3N0lTLXJkR2FwTnlQTWxFR1VsOHpMZk1sWnZFOXhBSTdGaW1OTnNGS0ZrUzFXeXkyNUpqd2JrZw?oc=5",
       "score": 5
-    },
-    {
-      "section": "Moçambique",
-      "category": "Concursos",
-      "title": "Instituto Ferro-Portuário de Moçambique Lança Vários Concursos Limitados - diarioeconomico.co.mz",
-      "summary": "Instituto Ferro-Portuário de Moçambique Lança Vários Concursos Limitados diarioeconomico.co.mz",
-      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
-      "action": "Verificar requisitos, prazo e documentação antes de preparar uma proposta.",
-      "source": "Google News",
-      "published": "2026-09-15T04:47:50+00:00",
-      "age_hours": 32.8,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0Y0Q255QzBNbUs1WkYxTjUxNU81NS02SDZrcUFKclBKMnJaMlRoV0MwdnBwY1VuTDJGUk1NUnNEVnJpdTgwQXlZeXdWRDJIUUVsa0Fya2lvVmphY2pPSy1pU1ZrbHd4M0d1Zkwxb0QtcUlRSTZ1OFZPTDFBN1NoQXFSMVdxSW8xdWZoU2NSVjd1RWJqdHNtM0YwNkVIZHhQYlo0YVZWaGI5emNBaURuNlBZdHhIRXZVa2N6YVlzbGJUMGhTN1MxejZNaVpMcTN0OGtB?oc=5",
-      "score": 8
     },
     {
       "section": "Moçambique",
@@ -155,7 +129,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-14T05:40:17+00:00",
-      "age_hours": 55.9,
+      "age_hours": 62.2,
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWJXZTUxTmFUZWJNcF9tblhVTlItMktDaW5XNTNEUjEyUTZUR2NIVXMwbWc2QnVnSWJpbEppaFc2ZTNYcHFybVpJYnlLWVF4THlDWWkwSEl6SDQ1V0pvX3dtdGlUcndfVTZUTWY5V1RwMUVCV3o1NjNUSWE4blNPbEJpNGdBRlFEZUJDblk3cWpmT1A1dlBZS1VKWGYtQUp3?oc=5",
       "score": 8
     },
@@ -168,8 +142,34 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-14T04:35:27+00:00",
-      "age_hours": 57.0,
+      "age_hours": 63.2,
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOeFN2YWZhdF9fTGRqMHlqUlhPTE1MWFB1YkFJX0x1ZFU4QVNZamZ5NmdJaXZUbER5UkVIRWxFUThLb0NnTF9lUzlocG5UTGRYUTZINjZCNWNZcUlIblB0LWhlMkNFdW9PRHl1SHBwWDltZHQyMW0wOWZwekZuQThpbmF1SFpqTVRjMlhaSk9MakZOSjhiNHlMZlpJNFptNDdBT1A2Tmh2NlNPbkU4amJWdmhzeGVGRlp0aGhzbWpnOWoxaldLak91WWtqODJ5clBBbGdPVTBfcnB2dVMxUEg4U0hvTnBvVkNJRF9MUWx0YkdxWlFDUW5vTmJyTng2ZWFzcW9yZmh6WF9KY0sxclJTblhCMFlfUkxOOFdFS3ZzeG9zMk1IQVE?oc=5",
+      "score": 8
+    },
+    {
+      "section": "Moçambique",
+      "category": "Concursos",
+      "title": "Concurso Público: ActionAid Moçambique Procura Fornecedor de Equipamento Informático em Maputo - diarioeconomico.co.mz",
+      "summary": "Concurso Público: ActionAid Moçambique Procura Fornecedor de Equipamento Informático em Maputo diarioeconomico.co.mz",
+      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
+      "action": "Verificar requisitos, prazo e documentação antes de preparar uma proposta.",
+      "source": "Google News",
+      "published": "2026-09-13T21:41:59+00:00",
+      "age_hours": 70.1,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNem5qdjJ2ZUF3bnZfeFhuWkhiQXJ4bzZRTE9LQVNJUHFGblI5YmFqa3dNbG9WZFBDMVdZWEVHQ2dTWHJfTzd5ODhuLVp3aW5ZTlR4dk1iUlA2SEVQS1ZRVTFBanh5MWNvNkhFU29GVUVTMXpIOUdGZkQtZ2w3cGc4R1dlOUk?oc=5",
+      "score": 8
+    },
+    {
+      "section": "Moçambique",
+      "category": "Concursos",
+      "title": "Concurso Público: Embaixada da Irlanda Procura Consultores para Assistência Técnica em Saúde em Moçambique - diarioeconomico.co.mz",
+      "summary": "Concurso Público: Embaixada da Irlanda Procura Consultores para Assistência Técnica em Saúde em Moçambique diarioeconomico.co.mz",
+      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
+      "action": "Verificar requisitos, prazo e documentação antes de preparar uma proposta.",
+      "source": "Google News",
+      "published": "2026-09-13T21:41:56+00:00",
+      "age_hours": 70.1,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWoxcXd3dDh0clhsRkVKY0RNcEhjR2s3ekd4YWdERFFXUGlPWjZ5bVBlR3BScUk3UXZ1Mzh6MnlCdE1JUHpUZkZrVDM4THNVNlNvbThlRWZnUGpOTDlXUnQ3cXVqSEZNS3lMRTUwRVpYZTVNNkQ0Q1c3ckpTaEZMMEk0MXQ?oc=5",
       "score": 8
     },
     {
@@ -181,7 +181,7 @@
       "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
       "source": "Google News",
       "published": "2026-09-12T19:41:42+00:00",
-      "age_hours": 89.9,
+      "age_hours": 96.1,
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVF4bGNmZ0tuY3VSSVlLaXdGY0dHT2N2ZHNqYlZyUzVzNUxxRW5xRXdlRi1PeDhxOTJodTJ4TmJ2X1JCbEZxcmdMbEtVVWhPNzhlTEozLVc4V1VIWjFwUmVoVXFTN3dXMU1mcFR3WlU0WEZ3a0pIT0c2UEZFSk1rUk1EREdaaksxN0t4RVhnSW1ucXFYTU5IakxJY1cxdWk1UU1PUlR3Zng3c3ladEwtQ0VWc0s?oc=5",
       "score": 9
     },
@@ -194,7 +194,7 @@
       "action": "Confirmar elegibilidade, montante, prazo e documentos exigidos pela entidade financiadora.",
       "source": "Google News",
       "published": "2026-09-10T08:44:01+00:00",
-      "age_hours": 148.8,
+      "age_hours": 155.1,
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQjBrU1RiN3BaUl9CNm5EZXRfMFV1UEd2M0pXUVRQdzFjdVBwZkRTMVFxQXFrcDhUQm1fdTRsanNjX3lza0NKSHVkWmN3SnZvZWVpS0dXYXVPZmRhS0c3M2xSSm1fZHIwMU9iY1RocDN0N3FpX0lmc0M4MWxYLVktOTdfeS04UUFMbkVxbkJjVy1vWFdLaVJHVGY1cS02NkVyUS14N1BNR083QzlMU3VaLUw2SVVVckljQ1lzUzMtZ0g2UldBNkw2WnRERVk0VVJ3eGhtMUJMenBrWW1rNFZ3a2JFMjZMLVptTHRGMVlnM1FoSlhoTmU0d3BpZEtScHlMVzhrbGhWN1k?oc=5",
       "score": 8
     }
