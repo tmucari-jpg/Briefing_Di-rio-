@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T17:19:34.221446+00:00",
+  "updated_at": "2026-09-17T19:59:04.249879+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -15,44 +15,61 @@
       "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
       "source": "CLUB OF MOZAMBIQUE",
       "published": "2026-09-17T14:47:57+00:00",
-      "age_hours": 2.5,
+      "age_hours": 5.2,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbC1odEFEWktWaGZxS0ZWYXVROTAtWU9RX2JWZmswTEFxTk91Mll5ZnJmWGtwdUpXdXNQNjFrVnlSMTNIR1lOT1JSTTlfNXRHdm8ycVNrNnVKR3lUNk42TTZ2ODI0RE5Jeks3SDk1aG13MkRWaUpZdzhDaU92Q1FKZzN5Uk1LQng1bXc?oc=5",
-      "editorial_score": 12.48,
+      "editorial_score": 11.92,
       "source_tier": "B"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "UN fact-finding mission says US committed possible war crimes in Iran",
-      "summary": "The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "title": "US secures release of detained citizen Adam Castillo in Myanmar",
+      "summary": "Businessman Adam Castillo had been detained by authorities for three months on breach of trust allegations.",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
       "source": "Al Jazeera English",
-      "published": "2026-09-17T17:02:31+00:00",
-      "age_hours": 0.3,
+      "published": "2026-09-17T18:34:30+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
-      "editorial_score": 10.94,
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-secures-release-of-detained-citizen-adam-castillo-in-myanmar?traffic_source=rss",
+      "editorial_score": 10.71,
       "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "The infrastructure of resilience: Why Africa's climate future is an engineering problem we are failing to solve - CitiNewsroom.com",
+      "summary": "The infrastructure of resilience: Why Africa's climate future is an engineering problem we are failing to solve CitiNewsroom.com",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "CitiNewsroom.com",
+      "published": "2026-09-17T19:02:12+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZHdrbG81UmhDaHJqRzdSbVFPWkQ2YWFSX3NQbHVlT0dkLTNDeV90akFmZktlWnIyR3hIZlQzVV9fRktpT0NmaXk5eDhaZlFLRWhpT0Z1T1UwazctMnFpQmc0TlFzUXJ1U2hzdU1UX2ZXZ0wxUmNOeHFSUjlIN2FKM0tpS3NNNHF5WWRhUDdubGREUjExckNtT3pxU1ZEUFp2cFhDTDdYQS1JMVc5OHU1amd0dVFXNTR6OU9TbHd5UGM5TkpaV3VlWWt2cFBHUmd5dnIwX00wWjVKbFpVV3cwRw?oc=5",
+      "editorial_score": 9.81,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "Segurança"
       ],
-      "title": "A war-fatigued and anxious Russia picks a new parliament",
-      "summary": "Fuel shortages, drone strikes and mobilization rumors are fueling anxiety and war fatigue in Russia. As support for peace talks grows among Russians, the Kremlin is watching closely ahead of parliamentary elections.",
+      "title": "Serbia opens factory to assemble Israeli-made drones",
+      "summary": "Critics say Serbia's military ties with Israel are rising significantly.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "DW English",
-      "published": "2026-09-17T16:42:00+00:00",
-      "age_hours": 0.6,
+      "source": "Al Jazeera English",
+      "published": "2026-09-17T18:54:42+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 10.88,
+      "link": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss",
+      "editorial_score": 9.77,
       "source_tier": "A"
     },
     {
@@ -60,67 +77,67 @@
       "tags": [
         "Energia"
       ],
-      "title": "IPPG Calls for Bold Action to Turn Africa’s Energy Potential into Lasting National Value and Development - Energy Focus Report",
-      "summary": "IPPG Calls for Bold Action to Turn Africa’s Energy Potential into Lasting National Value and Development Energy Focus Report",
+      "title": "South Africa prepares Antarctic flights using SAF made from used oil — OilPrice - UA.NEWS",
+      "summary": "South Africa prepares Antarctic flights using SAF made from used oil — OilPrice UA.NEWS",
       "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Energy Focus Report",
-      "published": "2026-09-17T17:07:20+00:00",
-      "age_hours": 0.2,
+      "source": "UA.NEWS",
+      "published": "2026-09-17T18:08:18+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU1lzb1NqRVlraGR3SDdfaXRxWHFJYU1vLUkxVk50SUJNdVlNLVVBdkpmdGRnbUhkV2l1SFhVaTZlNzZvRzlmdjBtSGRBMWJNNDhUWWdYYzZIaDRjV01kVFU3dC1NU3pMODZWRUVCZTI0dEJyR0ktMXBiZWtjNlJBREJqc0pobjg3Qy15QVo2VUJkbTlwX1k5ekdVUXowTEdhYzJ1aG4yWmxqbXJQeExWb0doM0pvWC05LWpYSFBaMWtucDlTRzBnWS1FQi10d1hzSE5IYQ?oc=5",
-      "editorial_score": 9.96,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2haczVQdnp3MEJjUV9TR1dheE8xdHdpRFA5ZFM3bjlSZmZVTDBOYUZwaWptRFBQZXhmSF9CbjVzQVBRc0QtNFVfWVduTjdDZlhJN3ZXbkhLVGZTaEs0UngyRXJndDhyMUVFUVRJa3ZIdWVnbEtiQ0NzSkNVeE04ZVBOYkU3R0dyRnc3OXNvak5ucGxFTHpVWXZYQTBfLUlGMFAxZW1yYw?oc=5",
+      "editorial_score": 9.62,
       "source_tier": "C"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Zambia targets $1 billion from five new listings as first gold ETF nears launch - Business Insider Africa",
-      "summary": "Zambia targets $1 billion from five new listings as first gold ETF nears launch Business Insider Africa",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Business Insider Africa",
-      "published": "2026-09-17T16:57:11+00:00",
-      "age_hours": 0.4,
+      "title": "Brazil’s Lula announces welfare increases ahead of presidential election",
+      "summary": "Government says that increase represents an adjustment for inflation that has eaten away purchasing power since 2023.",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-17T18:07:05+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNVRjVkJWS3VjRURvTTB2aXBEb2p1RXI1YlpoYnpvQ3A2VXJDcnpVTDBEUzM3MUxyVEJwUlJxT0ljVWVQVm5PakZrd0pQVFk0NzRTOEttMlpZSE9hN0lMNXJiQjFFTklIbENkSHFxWjVuak5MSEVsYkdRU1lsOGo4d2RLVEY0dG1CT0xKVTFTeVNJdVlPSmFuMHYyczcxbHBKM3Q4X0V6cERNYmtSb2c4SXdIWkd5V3dDNWRheExkQzcwei1PcE1hbFpyV19YVERrVlEyT0cxcTQ?oc=5",
-      "editorial_score": 9.92,
-      "source_tier": "C"
+      "link": "https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election?traffic_source=rss",
+      "editorial_score": 9.6,
+      "source_tier": "A"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "South Africa: Club Med creates 600 permanent jobs at its first resort - Benin Web TV",
-      "summary": "South Africa: Club Med creates 600 permanent jobs at its first resort Benin Web TV",
+      "title": "‘I’m Russian’: NHL star Ovechkin defends Putin ad appearance",
+      "summary": "Washington Capitals captain under fire for appearing in an election campaign video for Putin's United Russia party.",
       "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Benin Web TV",
-      "published": "2026-09-17T16:40:21+00:00",
-      "age_hours": 0.7,
+      "source": "Al Jazeera English",
+      "published": "2026-09-17T18:02:20+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHNJeG5EOGhLRXVSc2ZuVzRVc0Q2bGVTQmRXX3JROGhtRHdkV1NNbzh6aDNYREdWdjZlb0FhTk0xLW03NzZ6Ujc0eVdlMWtWdDdIa2dGOWRBbnJ5VEc1WlBONGpSeXEwS1dnTXJqdDhuODN3a1RObkF1UWNRMElyX3dKaE1nLVEyZmhyNHlYaWFMZThUYlBrNjVR?oc=5",
-      "editorial_score": 9.85,
-      "source_tier": "C"
+      "link": "https://www.aljazeera.com/sports/2026/9/17/im-russian-nhl-star-ovechkin-defends-putin-ad-appearance?traffic_source=rss",
+      "editorial_score": 9.6,
+      "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Turning investment potential into results in Africa - McKinsey & Company",
-      "summary": "Turning investment potential into results in Africa McKinsey & Company",
+      "title": "Fortuna Mining CEO on West Africa Gold, Bambadji Risks and Equipment Shortages - News and Statistics - IndexBox",
+      "summary": "Fortuna Mining CEO on West Africa Gold, Bambadji Risks and Equipment Shortages - News and Statistics IndexBox",
       "why": "The story helps explain economic and trade trends relevant to Africa.",
       "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "McKinsey & Company",
-      "published": "2026-09-17T16:39:48+00:00",
-      "age_hours": 0.7,
+      "source": "IndexBox",
+      "published": "2026-09-17T17:32:32+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORElEYzVjLWp4aGdYcWpsVkhaMXEtSXp5eHJOX05UOXNrdVpXVFV4WnBqbzJnS3BDTllVcnktc1hVaGxZYTdJdG5pVzVvbEJ6Wjg5WjIxSkVaSld0QmJBN2RZSTNnQlVrVzNTV3h0SzRqUVk0WnJlSnZtekotUU1qdGROeVVRZkZndzFfMFY5dXZ4QjhOLXg0YXdSMW9lVkM0bFQwOUlrd3Fkdw?oc=5",
-      "editorial_score": 9.85,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1FzaktyX3lEd21xX1BGN0J0cHl2eVhwRGJIa1BnSnRiVUR3alBqZ0J6YWZFb0dQME9EZjdCRjhTZlBISkt5aGpQRFFGMHE3aHRVTU41eHJBOVFPX21CMUxkZG5rVGxyT0Nvc050ZkhxQUw2Vkt0QW5ZUW1mM0FucWZuMXJWeTRNcUpQa1ZyOExxZmFYR1dqM25neHFSWXJQZkMxWXZBcDIzQWpFM1E?oc=5",
+      "editorial_score": 9.5,
       "source_tier": "C"
     },
     {
@@ -134,44 +151,27 @@
       "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
       "source": "Bloomberg.com",
       "published": "2026-09-17T13:54:53+00:00",
-      "age_hours": 3.4,
+      "age_hours": 6.1,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeExCdnBXdmkyTmZpd2I0QmhZTUFUNDhsVUhySjdMeVNkS3JtRlRhdW1tTFh0TDBPdVFtVjZCWTllSXpyemJrU0VtekUzLWd4NG95OWNvUFBFVFdoMXUtTEExSWhMTnM0WUdvQkJ2eXF0YXUtTmwzZUJVZEhfb2ZkS2VzR0J1c1BmakNiTERYcEFVQmhsMWxZNW4yNWZMU1Z6MDZ1X0prdU5DV2JQR19USFdFa2JhSkZ4Ql9CWUp6RWtreFJ2Nmc?oc=5",
-      "editorial_score": 9.29,
+      "editorial_score": 8.73,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Dallas Has Capital-Markets Moments With Funding, IPOs and a Tug of War - Bloomberg.com",
-      "summary": "Dallas Has Capital-Markets Moments With Funding, IPOs and a Tug of War Bloomberg.com",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Bloomberg.com",
-      "published": "2026-09-17T16:33:54+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFRTS3o4WC1aSVNTUU1QZVR5UUd4d0NTNjZ0T3JsM2ZQYzh4OUZqQktQNTdzSFdUS0xLR2VKTWphV1hLd1ZWOEIwM2dqU0dJY2JjN0VXcEdDemZEd09XUldCSHZVdzk3VlpvUDlvWi1wYU5LR0FLT3hlWmw4XzNhamNNMXo0VEhIOW9jbllrX0xVaUZBUGNMcTh0d1dQYmFvYTk5NWtJUExLemNQOHY3RlpCN1J0cHFsdjF2amRYbHk?oc=5",
-      "editorial_score": 7.83,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
+        "Energia",
         "Economia"
       ],
-      "title": "Trump’s New Tariffs Hit a Different Economy - wita.org",
-      "summary": "Trump’s New Tariffs Hit a Different Economy wita.org",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "wita.org",
-      "published": "2026-09-17T16:31:24+00:00",
+      "title": "What to know after a week of Houthi attacks that threaten Saudi oil and have rattled world markets - Boston Herald",
+      "summary": "What to know after a week of Houthi attacks that threaten Saudi oil and have rattled world markets Boston Herald",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Boston Herald",
+      "published": "2026-09-17T19:11:15+00:00",
       "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVnFkeXFnYWU4cU1leUlTQnVvU0pCdGZ4aFNDVFU5ZHc1dU5DQ3A0d0c5YVpYam95TGJib2hGdjNkZXNJVGZ0bjZFb1E4dThVaHV4bFVQTUVtNW50OTItN3daOG1JZlJrTnhRRWFMclQ2OEhq?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XamlxTVNuQmt5WXZTS2N4WnVhMnV6VkVCQ1VVWXp3RVdyaVFVV3VIMG1MNHo4NXo1eWdRT3J0Z3gxYkI5NEFPd0QxOU9LOEJWUDJzaHZrQWladUxCMjZBWVkwV2d2X08tel9TUno0OVVJOHFxRGtZdmNsbw?oc=5",
       "editorial_score": 7.83,
       "source_tier": "C"
     }
@@ -194,8 +194,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 4,
+    "Mundo": 5,
+    "África": 3,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
