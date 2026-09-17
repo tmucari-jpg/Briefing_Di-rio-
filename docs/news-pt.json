@@ -1,145 +1,161 @@
 {
-  "updated_at": "2026-09-16T23:28:39.991240+00:00",
+  "updated_at": "2026-09-17T09:47:59.677966+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Economia"
-      ],
-      "title": "Pedro Santa Clara sobre riscos da IA: \"Há uma enorme histeria que é aproveitada\"",
-      "summary": "Economista e especialista em inteligência artificial defende, na Grande Entrevista da RTP, que há interesse das empresas em abrandar o ritmo de desenvolvimento da tecnologia.",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T22:43:05+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/pedro-santa-clara-sobre-riscos-da-ia-ha-uma-enorme-histeria-que-e-aproveitada_n1765916",
-      "editorial_score": 11.83,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "RASI baixou esta quarta-feira ao Parlamento",
-      "summary": "Luís Neves disse que o aumento da criminalidade geral representa mais crimes, mas também mais fiscalização e mais ação do Estado. O Parlamento debateu o Relatório de Segurança Interna de 2025, tendo o ministro revelado que o tráfico de droga é \"primeira ameaça\" à segurança interna em Portugal.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-16T20:53:47+00:00",
-      "age_hours": 2.6,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/politica/rasi-baixou-esta-quarta-feira-ao-parlamento_v1765903",
-      "editorial_score": 10.46,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Alunos sem vagas. Ministério continua a reunir com diretores",
-      "summary": "Ainda há alunos sem escola. Já foram resolvidos cerca mil casos, mas há mais e prosseguem as reuniões para lhes encontrar escola.",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-16T20:48:47+00:00",
-      "age_hours": 2.7,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/alunos-sem-vagas-ministerio-continua-a-reunir-com-diretores_v1765900",
-      "editorial_score": 10.44,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Luís Neves admite incluir nacionalidades nos crimes do RASI",
-      "summary": "O Parlamento debateu o Relatório de Segurança Interna (RASI) de 2025, tendo o ministro Luís Neves revelado que o tráfico de droga é \"primeira ameaça\" à segurança interna em Portugal.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-16T19:31:09+00:00",
-      "age_hours": 4.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/luis-neves-admite-incluir-nacionalidades-nos-crimes-do-rasi_n1765885",
-      "editorial_score": 10.17,
-      "source_tier": "A"
-    },
-    {
       "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "“O Ancoradouro do Tempo” Estreia na Ilha de Moçambique no Festival Owani 2026 - diarioeconomico.co.mz",
-      "summary": "“O Ancoradouro do Tempo” Estreia na Ilha de Moçambique no Festival Owani 2026 diarioeconomico.co.mz",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-16T12:54:22+00:00",
-      "age_hours": 10.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHd5cUtkT0NHU2s0SU90UHFNRldvVjhGX1gwTUhwQXBrZ2NpNF81Rl9ZcjFoUFVDN1BDSDhGNkM4ZGtrYTRtX1p0MjBVS1dncFNVRV9WQ25aeHEwcElJMXJhenpGUy05VUtCRENzUjRXUTU0a0wxMEVjQ0RXaHlablRINFBNdWFmXzhPYVlGSTBjdVJrTU9ta29iRmtZenU3MlZ4MllZb2JFaThveW0tM3Z0ODZVbW5N?oc=5",
-      "editorial_score": 8.79,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Governo aprova regulamento que reforça segurança postal nacional em Moçambique - Folha de Maputo",
-      "summary": "Governo aprova regulamento que reforça segurança postal nacional em Moçambique Folha de Maputo",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "Folha de Maputo",
-      "published": "2026-09-16T10:48:52+00:00",
-      "age_hours": 12.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTU2aXk0Y2dqMm0wY292WVdpcEQzMWhVYTJDSlhIYWREd0htZ25SNmFtRl9NeFVaSTFjUlBSbnJjbnVpRG5pZFRFSngxMU0ybTNhNGZjYjRnMVhmZkVyUm4tZzhwa1gwYWl0eE1XdUhlMk8tRGtBalItM2FxS1kwa2VKbWcxRC1wWFdCMGM1ZTl5ejdRb3M0Z3RkUkwwZ1c0X2FzaTZnXzN2ek5ad2tZbUZoV3c5eG5peUtoUi1qU29wNFZPOGg5WDBiT0Y?oc=5",
-      "editorial_score": 8.35,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "O que acontece quando o governo gasta demais? - Revista Oeste",
-      "summary": "O que acontece quando o governo gasta demais? Revista Oeste",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Revista Oeste",
-      "published": "2026-09-16T19:58:27+00:00",
-      "age_hours": 3.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1VSWnV6ZzdkQjJrd1hzUXRheGdHSkFYMVk5d2o4S255SzEzNjltZm5sanZIcHNXbWNpc3plSkpUUFdWb0lYcnBMdEFGSlMzV2hGR3JBVGhWVk9OTmI0Y0Jzc0lqN0RIS1lMOGhRSjUyYk5qUWxYT1J3SGZnU09wVE54RE1CVl8y?oc=5",
-      "editorial_score": 7.27,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
       "tags": [
         "Economia",
         "Segurança"
       ],
-      "title": "Ações dos EUA caem enquanto Warsh alerta que inflação continua alta - Invezz",
-      "summary": "Ações dos EUA caem enquanto Warsh alerta que inflação continua alta Invezz",
+      "title": "Moçambique Quer Reduzir Perdas Pós-Colheita E Medir Melhor O Retorno Dos Investimentos Na Segurança Alimentar - O.Económico",
+      "summary": "Moçambique Quer Reduzir Perdas Pós-Colheita E Medir Melhor O Retorno Dos Investimentos Na Segurança Alimentar O.Económico",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "O.Económico",
+      "published": "2026-09-17T08:12:35+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkp6d0JKSGhMMTFHM01nUW9oeWZsSUd1RkMtYUh6SDBENXlURS02Qk1Xc1RKMGpRVWtfdnhrRXYtSk9BUFZDZHF6X1lZSFBmMU93RDhIN1Y4bGJka2hUWFlJYWxyeUtseDRVOGxLMXdHYVh6dlVwZHpBN0p1R1BMYWVaY0ZXdXRZVjVwT3RBYTZRVzdMQTRRWDRSOHlfNWdzaTRrdll6cnRMWHRzMUZUUXZMZ3pkWWRma1JvcEQ5OWhNUFBURnU2R08yVk5mUlBGMno0?oc=5",
+      "editorial_score": 11.67,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Moçambique vai auditar custos recuperáveis dos megaprojetos de gás natural - Notícias ao Minuto",
+      "summary": "Moçambique vai auditar custos recuperáveis dos megaprojetos de gás natural Notícias ao Minuto",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "Notícias ao Minuto",
+      "published": "2026-09-17T09:08:04+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTZYUGVXVWNSUGt5d29BbUdORHVaX0prdWc1RzdCY2VDWnJ6YzZ6VWlrN1JMSm1OTjNFTjJNbU8zREs2UzR2LWdSUi03X2tDQ3JfWnpDWnV5aFB5d0JvOTJVZi16Y3pWWTRNR1BDeWNBV1BrdmFzRlhpckpMRGM3WnlRWnJsMTk4LXZJZ01DWDF1MGs4QmZmRGduZmpVS2VOdkpDU0lCT2JEaVhzbHAzZXhkOE5wa1g4N2dIRHBfYm5PZw?oc=5",
+      "editorial_score": 10.85,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo de Moçambique aprova novo Estatuto dos Serviços Sociais das Forças Armadas - MZNews",
+      "summary": "Governo de Moçambique aprova novo Estatuto dos Serviços Sociais das Forças Armadas MZNews",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "MZNews",
+      "published": "2026-09-17T09:20:09+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVlwLUtIcG9fVFBaWExORlhPa3JvVGUzVTdHSktpS3JfZjNvTDBGcFA3cVRFMk5EWlhVY0VyU0ZZSEdqVlNUbmR4WTZ3cERFblA1dzhxWXF3NkF2X3l5TTgzRzcwNFQ0QTBfR1VONksta0tyYzBRVV9tei02dlRhX3E5Z3dCQnUxLUhYWXFqTnoyVW1LalRIdi1qc1h3bjFCVE53SkF2Yw?oc=5",
+      "editorial_score": 9.9,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Câmara dos Representantes dos EUA aprova novas sanções contra a Rússia",
+      "summary": "A Câmara dos Representantes dos Estados Unidos aprovou um projeto de lei abrangente sobre sanções e tarifas destinado a aumentar a pressão económica sobre a Rússia devido à sua invasão da Ucrânia, quase um ano e meio após a sua apresentação pelo falecido senador Lindsey Graham.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "Invezz",
-      "published": "2026-09-16T19:33:18+00:00",
-      "age_hours": 3.9,
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-17T08:54:07+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2NlTTh0UmNtVXlkVE1IeGtOZTliZzQyX3JNRDVQN1kwX185QzItVE5ZUjFEWllNSnF5VVh3a0lTd1EyXzFEUi1YZVdwX09zczdDVkstVGtOX0ZkVlNFX0xCaTFYOTBQelVNOGRmYV9RX094RVV6ckdCaEc1UmlKSFhLbW91aFJZRkdIZThnSlIwS2dtczhPeXhVMW1iakEwdGUwUHp5NEVMNkNscS1R?oc=5",
-      "editorial_score": 7.19,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/camara-dos-representantes-dos-eua-aprova-novas-sancoes-contra-a-russia_n1765968",
+      "editorial_score": 9.81,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "\"A verdadeira tragédia [em Cabo Delgado] acontece tantas vezes devido à ganância das empresas e dos governos\", os bastidores de cinco anos de investigação - MZNews",
+      "summary": "\"A verdadeira tragédia [em Cabo Delgado] acontece tantas vezes devido à ganância das empresas e dos governos\", os bastidores de cinco anos de investigação MZNews",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "MZNews",
+      "published": "2026-09-17T08:54:55+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNLUVCd1ZIWWFleXBGZzJxTGd0a2puTzJDa0F6ZUR6YWlYWEcyQ3g3UEZYSlZ3dGg0aS1PTWwwdGhfWmxmT2hrNGd6QnFRamc5bEpPd2RycTVUOWxtS0U2U2dXS0lCQUdFOHZHczlsZHZFMjRnQUdQQXA4SjZpQ0tMY3VKYXJXZm9OT0UzLTZCa0FRVm81TGlOMHIwRVd5dFF5ODVpYTlfNzQybkxxX3NFRFl5SzhvYkE2bnRIRHg4LWU1ZGs2Z0JlRUlTaDNPMGwyc0JXYTJDVS1BNlpCaDhMLS13cnk4cjJaSmI5V3NER09uVjBEaENXSk83WVhqQXJL?oc=5",
+      "editorial_score": 9.81,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Guterres pede regras globais para travar riscos da IA",
+      "summary": "É um alerta dramático sobre o futuro da inteligência artificial.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-17T08:39:48+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/guterres-pede-regras-globais-para-travar-riscos-da-ia_v1765964",
+      "editorial_score": 9.77,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Portugal apoia com fardas nova Academia Militar de Timor-Leste",
+      "summary": "As Forças Armadas portuguesas entregaram hoje às Falintil -- Forças de Defesa de Timor-Leste fardamentos para a nova Academia Militar Conjunta timorense, no âmbito do acordo de cooperação em Defesa assinado entre os dois países.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-17T07:45:00+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/portugal-apoia-com-fardas-nova-academia-militar-de-timor-leste_n1765952",
+      "editorial_score": 9.58,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Timor-Leste adere à Convenção sobre Munições de Fragmentação e à Agência de Energia Atómica",
+      "summary": "Timor-Leste aderiu esta semana à Convenção sobre Munições de Fragmentação e à Agência Internacional de Energia Atómica, anunciou hoje o Governo timorense.",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-16T09:12:56+00:00",
+      "age_hours": 24.6,
+      "within_24h": false,
+      "link": "https://www.rtp.pt/noticias/mundo/timor-leste-adere-a-convencao-sobre-municoes-de-fragmentacao-e-a-agencia-de-energia-atomica_n1765729",
+      "editorial_score": 7.48,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Como adotar a inteligência artificial nas empresas - valor.globo.com",
+      "summary": "Como adotar a inteligência artificial nas empresas valor.globo.com",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "valor.globo.com",
+      "published": "2026-09-17T08:15:39+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdlNWODNsZ084VVJPeUZYanA5RXB3ZWk0SXk3bmxrQXpkV051cFYtUHVKaDZmaHZ3dldJNVpVSFNmS3VzeTFhMVRsMDRQdjZFVktXVldxcU8tZDJNenFndGRoRFpDZVBJdk5ZTEtCYWgySzhYeENsNGo0UmdDZVZTbklid1RzQVdXNGRtVVJiUlJOeDlfdXFOYUVORVByNnFKRS1xMi1jRTBaQlFK0gG7AUFVX3lxTE9NNTBXWU1pUlVLRkExWW9uSlQ4NXhSZWpNM2xtd3BRZzZPelpYMEUxZmhMY0d4eG1LUHotYWRYNHBjMXdjak52cTI2YlFjWHdxaWNwZy1BRjJ4ZHJwcmswUmlBbF8wWTVnM2hNdFdmY210Z0tpUXd3YmtfRVJFM0VWM0w1aVIzOEc2V210STN3QnB6WUx5SnVicDQwd0NaUHN1LTZoZnpCU2xlZkh1UG84VUNaeEFxLUhXWjQ?oc=5",
+      "editorial_score": 6.69,
       "source_tier": "C"
     },
     {
@@ -147,33 +163,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "África do Sul: EUA Anunciam Restrições de Vistos Para Alguns Cidadãos Sul-Africanos - diarioeconomico.co.mz",
-      "summary": "África do Sul: EUA Anunciam Restrições de Vistos Para Alguns Cidadãos Sul-Africanos diarioeconomico.co.mz",
+      "title": "Angola: BAD Desembolsou Quase 3 MM$ Nos Últimos Dez Anos - diarioeconomico.co.mz",
+      "summary": "Angola: BAD Desembolsou Quase 3 MM$ Nos Últimos Dez Anos diarioeconomico.co.mz",
       "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "diarioeconomico.co.mz",
-      "published": "2026-09-16T09:00:00+00:00",
-      "age_hours": 14.5,
+      "published": "2026-09-16T13:45:00+00:00",
+      "age_hours": 20.0,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYVJ6Ty1DQWU2VkoweUZqeTFDcUZGUlVRM1lCd0ZzUE5sLXcxRHFiMlZJSThUU0JyNTZscmx1RW1LWGYycktkTmtBUzI5LXRIWkFSbVY1SllRbmtTekVxS1d5QlNPaW8zR1hCS0FvWFVrMG5lWS1Pajk2dXdJSXZHX293RkR4eGdITXlDNURieVh5NzlQU1lRWGpsMDFNZVVmVVQzS2dWSnZMMExfQ1ZoVlZWVXExdnlvTWM3TVR6NFJ4elp0c3NkdTU3Q1Jjc0lRU1g4UEtCODU?oc=5",
-      "editorial_score": 6.98,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Xenofobia ameaça economia sul-africana - O País - A verdade como notícia",
-      "summary": "Xenofobia ameaça economia sul-africana O País - A verdade como notícia",
-      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
-      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
-      "source": "O País - A verdade como notícia",
-      "published": "2026-09-16T08:09:11+00:00",
-      "age_hours": 15.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wMjhWbnVoOE9faElEem5idXNwellrRnhGaWhYQzRQQlJPUDVrUlJPVG1qcVk3UDBFbHlmTHNFRy1qRGtScFhzWEZRd0hnZHhrWmx1M2FBMmZKWkRqaVVUdjVBSFVVYlRqQWRZ?oc=5",
-      "editorial_score": 6.81,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEw3cFdyTUdOUVVrMjgtLW1Vc3lmeFlCOU94QjZhVldtT1lWeU1FeXV5V2dOODdHZmVyRXV6QUFJaHd1ZW5ZNWcwazZHUVJzdEdnaVo3dzN1VmRRSTJPODFlRkZUZDhLQnZxeHJ2M1FmbXNfck5lQlNJYS0zeFljR1lxM01fZFRGd1c4b1cxdnJFYlRVRVk4RGRnTnpUUi1KNjA5ZldWS2V0T0w5MTFUbXQwcw?oc=5",
+      "editorial_score": 5.83,
       "source_tier": "C"
     }
   ],
@@ -195,9 +194,9 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
+    "Mundo": 4,
     "África": 2,
-    "Moçambique": 2
+    "Moçambique": 4
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
   "briefing_intro": {

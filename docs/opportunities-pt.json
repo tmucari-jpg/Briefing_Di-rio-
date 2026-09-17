@@ -1,46 +1,59 @@
 {
-  "updated_at": "2026-09-16T23:28:51.590562+00:00",
+  "updated_at": "2026-09-17T09:48:09.375748+00:00",
   "language": "pt",
   "window_days": 7,
   "items": [
     {
       "section": "Moçambique",
-      "category": "Novos projectos",
-      "title": "Mozambique: FNDS chair Dino Foi waives salary, official vehicle and official residence, CanalMoz reports",
-      "summary": "The recently sworn-in Chairman of the Board of Directors of the National Sustainable Development Fund (FNDS), Dino Foi, has opted to forgo his salary and substantial benefits and perks associated with the position. The story is the lead on the front page of Wednesday’s edition of the weekly Canal de Moçambique and is attracting attention… Source",
+      "category": "Energia/LNG",
+      "title": "Mozambique: Government approves financing structure for Coral Norte LNG Project — AIM report",
+      "summary": "Mozambican government has approved the Financing Structure for the Coral Norte Liquefied Natural Gas (LNG) Project, located in Area 4 of the Rovuma Basin, off the coast of the northern province of Cabo Delgado. The project in question is operated by Mozambique Rovuma Venture (MRV), a joint venture owned by the American ExxonMobil, the Italian… Source",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Club of Mozambique",
-      "published": "2026-09-16T14:38:38+00:00",
-      "age_hours": 8.8,
-      "link": "https://clubofmozambique.com/news/mozambique-fnds-chair-dino-foi-waives-salary-official-vehicle-and-official-residence-canalmoz-reports/",
-      "score": 6
+      "published": "2026-09-17T09:43:02+00:00",
+      "age_hours": 0.1,
+      "link": "https://clubofmozambique.com/news/mozambique-government-approves-financing-structure-for-coral-norte-lng-project-aim-report/",
+      "score": 9
     },
     {
       "section": "Moçambique",
       "category": "Energia/LNG",
-      "title": "Mozambique: Labour Ministry hands over a tractor, self-employment kits to former mineworkers – Photos",
-      "summary": "The Ministry of Labour, Gender and Social Action (MTGAS) today, 16 September 2026, handed over production equipment to former mineworkers and their dependants in Guara-Guara Administrative Post, Búzi district, Sofala province. The equipment includes a tractor and related implements, agricultural inputs, self-employment kits and other equipment, intended to support productive activities by former mineworkers in… Source",
+      "title": "Mozambique: CMH concerned about decline in Pande and Temane gas reserves — Lusa report",
+      "summary": "The Mozambican Hydrocarbon Company (CMH) has again warned about the decline in gas reserves at the Pande and Temane fields, a year after identifying the problem, in a financial year in which profits fell by 20.8%. The concern is contained in the 2025/2026 report and accounts, for the financial year ended in June, which Lusa… Source",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Club of Mozambique",
-      "published": "2026-09-16T12:40:23+00:00",
-      "age_hours": 10.8,
-      "link": "https://clubofmozambique.com/news/mozambique-labour-ministry-hands-over-a-tractor-self-employment-kits-to-former-mineworkers-photos/",
+      "published": "2026-09-17T09:09:29+00:00",
+      "age_hours": 0.6,
+      "link": "https://clubofmozambique.com/news/mozambique-cmh-concerned-about-decline-in-pande-and-temane-gas-reserves-lusa-report/",
       "score": 9
     },
     {
       "section": "Moçambique",
       "category": "Investimentos",
-      "title": "Italy-Mozambique Business Forum: Investment in agriculture and agribusiness takes centre stage",
-      "summary": "The Agency for Investment and Export Promotion (APIEX) participated in the Italy-Mozambique Business Forum, held in Maputo on 14 and 15 September. The event was organised by the Embassy of Italy in Mozambique and the Italian Trade Agency (ITA), with a focus on the agriculture and agribusiness sectors. The forum’s opening ceremony was chaired by… Source",
+      "title": "Moçambique Quer Reduzir Perdas Pós-Colheita E Medir Melhor O Retorno Dos Investimentos Na Segurança Alimentar - O.Económico",
+      "summary": "Moçambique Quer Reduzir Perdas Pós-Colheita E Medir Melhor O Retorno Dos Investimentos Na Segurança Alimentar O.Económico",
+      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
+      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
+      "source": "Google News",
+      "published": "2026-09-17T08:12:35+00:00",
+      "age_hours": 1.6,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkp6d0JKSGhMMTFHM01nUW9oeWZsSUd1RkMtYUh6SDBENXlURS02Qk1Xc1RKMGpRVWtfdnhrRXYtSk9BUFZDZHF6X1lZSFBmMU93RDhIN1Y4bGJka2hUWFlJYWxyeUtseDRVOGxLMXdHYVh6dlVwZHpBN0p1R1BMYWVaY0ZXdXRZVjVwT3RBYTZRVzdMQTRRWDRSOHlfNWdzaTRrdll6cnRMWHRzMUZUUXZMZ3pkWWRma1JvcEQ5OWhNUFBURnU2R08yVk5mUlBGMno0?oc=5",
+      "score": 8
+    },
+    {
+      "section": "Moçambique",
+      "category": "Novos projectos",
+      "title": "Mozambique: Fewer to need urgent food aid next year – FEWS NET",
+      "summary": "The Famine Early Warning Systems Network (FEWS NET) forecasts fewer Mozambicans needing urgent food assistance in 2027, thanks to improved reserves, increased market supply and reduced conflict-related displacement in Cabo Delgado. An analysis published on Tuesday projects that between 1.5 and 1.99 million people will require urgent food assistance in March 2027 in Mozambique –… Source",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Club of Mozambique",
-      "published": "2026-09-16T12:06:50+00:00",
-      "age_hours": 11.4,
-      "link": "https://clubofmozambique.com/news/italy-mozambique-business-forum-investment-in-agriculture-and-agribusiness-takes-centre-stage/",
-      "score": 9
+      "published": "2026-09-17T07:59:22+00:00",
+      "age_hours": 1.8,
+      "link": "https://clubofmozambique.com/news/mozambique-fewer-to-need-urgent-food-aid-next-year-fews-net/",
+      "score": 6
     },
     {
       "section": "Moçambique",
@@ -51,7 +64,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-16T09:30:00+00:00",
-      "age_hours": 14.0,
+      "age_hours": 24.3,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWM0NVYtckJ5WUtkMlROX2dDRFBKLUpDdWE3alM5ZjdqWjNYa3k0QmMzdlRETVVFenJJbHhZZ0NmcDFwRkt3Y3FaVUZ0cmtvZGliWC1mYUppUTM0ZS1wV0JOQkJDVGtYODVfV1FXVFM4bjRXcnA0RVI2ZjVyQXBhbEVRSUhmZFBNQzRreFJnU21fVms2WDNpWDVsdjlhZ0w0Yk1hVDh5T09na2VkaXhTMWtqUENUUW94eUNZaEc2a0lmZERsY1NwQXFVcw?oc=5",
       "score": 8
     },
@@ -64,22 +77,9 @@
       "action": "Verificar entidade recrutadora, requisitos, localização e prazo de candidatura.",
       "source": "Google News",
       "published": "2026-09-16T05:51:29+00:00",
-      "age_hours": 17.6,
+      "age_hours": 27.9,
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmRFQUNuM3M5M1JPak04NVZLMjc5MHR6MXcxaGdvTmxVcDN0Y2M1OURfYmxiU1RwT3RqaE1IOUJ1YV9GU1hpdnVCdFAwbm9KWk1TTGdOTUdzZmVhbVE2UHJFUFNINEVfRUJhMUt2QmZLZmlEMTBzcTdFcEMzSXhudzZGOXlWeUdzcVdwb2sxOUpTaUtGX3BpWVQ3MVRxSnFWMnFqNGhQNjZGTFgzc19YMWRUQWlyeUxOdHl5REd2OGVMdw?oc=5",
       "score": 5
-    },
-    {
-      "section": "Moçambique",
-      "category": "Energia/LNG",
-      "title": "Puma Energy reforça rede em Moçambique com abertura de 15 novos postos até ao final do ano - Carta de Moçambique",
-      "summary": "Puma Energy reforça rede em Moçambique com abertura de 15 novos postos até ao final do ano Carta de Moçambique",
-      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
-      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
-      "source": "Google News",
-      "published": "2026-09-15T16:02:26+00:00",
-      "age_hours": 31.4,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNem5qSTM4SDRfdnBlZGJ2eXRvVFBHUjVsWGFQbHZDbWtFVjB1NFdpLVdvaGc1RGFsUklPa3NCLTlRUFZrTGFFNzBjbnBnQ1VPU0pqdzh3Wk9SRDZ2bThaa2M5bzNzb3J2OXNqdDdPMXZiR2tfRG51YndVS05FTGlqblFxWGdXaXFObTFlQzVCSHJPLXFJM0lpclhQbTlIUndlYkgtUTF1Nnoydy14aGVaa0FQeDhxbXVUZFhOSWVpWDA0akZQVVM1UXJCZzRYandaTldpdGpzMDM0WGM?oc=5",
-      "score": 8
     },
     {
       "section": "Moçambique",
@@ -90,7 +90,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-15T11:36:36+00:00",
-      "age_hours": 35.9,
+      "age_hours": 46.2,
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PRE9UT0VxVGpzVWJnX3Fxall0ODZMRW9SR1d4LV9VeEJQZjE2YzhZVVZDQXlDd05uVUlhMy1ocUY0OHFyV195cEpaelVPZzM2NXdLS1Z2dkxIQQ?oc=5",
       "score": 8
     },
@@ -103,22 +103,9 @@
       "action": "Avaliar aplicação prática, fornecedores, competências necessárias e impacto na produtividade.",
       "source": "Google News",
       "published": "2026-09-15T09:25:53+00:00",
-      "age_hours": 38.0,
+      "age_hours": 48.4,
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3htbThvcXk0MGV1dUNhclZRcldQLWx2NHFRejVpOEZJRnVSUlRiT29TNlNpVklhVGVHdkpmaWRHajd2TXNSWTc2R05OWE1LRW0wS196cG5JTXFoSUJHRzc5bkhLdkxZZi1VWmtzeWRqZVRlbkhmaG5rbW9mWjJFSzVEZUJkUHA3N0lTLXJkR2FwTnlQTWxFR1VsOHpMZk1sWnZFOXhBSTdGaW1OTnNGS0ZrUzFXeXkyNUpqd2JrZw?oc=5",
       "score": 5
-    },
-    {
-      "section": "Moçambique",
-      "category": "Investimentos",
-      "title": "Moçambique procura investimento da Coreia do Sul para industrializar recursos - MZNews",
-      "summary": "Moçambique procura investimento da Coreia do Sul para industrializar recursos MZNews",
-      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
-      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
-      "source": "Google News",
-      "published": "2026-09-14T05:40:17+00:00",
-      "age_hours": 65.8,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWJXZTUxTmFUZWJNcF9tblhVTlItMktDaW5XNTNEUjEyUTZUR2NIVXMwbWc2QnVnSWJpbEppaFc2ZTNYcHFybVpJYnlLWVF4THlDWWkwSEl6SDQ1V0pvX3dtdGlUcndfVTZUTWY5V1RwMUVCV3o1NjNUSWE4blNPbEJpNGdBRlFEZUJDblk3cWpmT1A1dlBZS1VKWGYtQUp3?oc=5",
-      "score": 8
     },
     {
       "section": "Moçambique",
@@ -129,8 +116,21 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-14T04:35:27+00:00",
-      "age_hours": 66.9,
+      "age_hours": 77.2,
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOeFN2YWZhdF9fTGRqMHlqUlhPTE1MWFB1YkFJX0x1ZFU4QVNZamZ5NmdJaXZUbER5UkVIRWxFUThLb0NnTF9lUzlocG5UTGRYUTZINjZCNWNZcUlIblB0LWhlMkNFdW9PRHl1SHBwWDltZHQyMW0wOWZwekZuQThpbmF1SFpqTVRjMlhaSk9MakZOSjhiNHlMZlpJNFptNDdBT1A2Tmh2NlNPbkU4amJWdmhzeGVGRlp0aGhzbWpnOWoxaldLak91WWtqODJ5clBBbGdPVTBfcnB2dVMxUEg4U0hvTnBvVkNJRF9MUWx0YkdxWlFDUW5vTmJyTng2ZWFzcW9yZmh6WF9KY0sxclJTblhCMFlfUkxOOFdFS3ZzeG9zMk1IQVE?oc=5",
+      "score": 8
+    },
+    {
+      "section": "Moçambique",
+      "category": "Investimentos",
+      "title": "Moçambique procura investimento da Coreia do Sul para industrializar recursos - Правда.Ру",
+      "summary": "Moçambique procura investimento da Coreia do Sul para industrializar recursos Правда.Ру",
+      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
+      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
+      "source": "Google News",
+      "published": "2026-09-14T01:39:00+00:00",
+      "age_hours": 80.2,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pMXlnbk1tS0VmMnVILTlpZnMwc0xUMU53UjVJbUxQTlZ0T3dfN011aS1EREFnY0pKMDZDN1Ftd3FmcURVZ0tBUE1YQ2tEcVJObkNmWXNlTGJTcVpZeE1qQW1tWXlOX3daNHhxQXpvRE9Rbl9Tc2pKV3BDOC11UQ?oc=5",
       "score": 8
     },
     {
@@ -142,7 +142,7 @@
       "action": "Verificar requisitos, prazo e documentação antes de preparar uma proposta.",
       "source": "Google News",
       "published": "2026-09-13T21:41:59+00:00",
-      "age_hours": 73.8,
+      "age_hours": 84.1,
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNem5qdjJ2ZUF3bnZfeFhuWkhiQXJ4bzZRTE9LQVNJUHFGblI5YmFqa3dNbG9WZFBDMVdZWEVHQ2dTWHJfTzd5ODhuLVp3aW5ZTlR4dk1iUlA2SEVQS1ZRVTFBanh5MWNvNkhFU29GVUVTMXpIOUdGZkQtZ2w3cGc4R1dlOUk?oc=5",
       "score": 8
     },
@@ -155,7 +155,7 @@
       "action": "Verificar requisitos, prazo e documentação antes de preparar uma proposta.",
       "source": "Google News",
       "published": "2026-09-13T21:41:56+00:00",
-      "age_hours": 73.8,
+      "age_hours": 84.1,
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWoxcXd3dDh0clhsRkVKY0RNcEhjR2s3ekd4YWdERFFXUGlPWjZ5bVBlR3BScUk3UXZ1Mzh6MnlCdE1JUHpUZkZrVDM4THNVNlNvbThlRWZnUGpOTDlXUnQ3cXVqSEZNS3lMRTUwRVpYZTVNNkQ0Q1c3ckpTaEZMMEk0MXQ?oc=5",
       "score": 8
     },
@@ -168,35 +168,35 @@
       "action": "Verificar requisitos, prazo e documentação antes de preparar uma proposta.",
       "source": "Google News",
       "published": "2026-09-13T21:40:53+00:00",
-      "age_hours": 73.8,
+      "age_hours": 84.1,
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVprLXNvMGxnQTN6SGV5R242OTQ1UHZLLUdSOE1sdzlhS284ZjZLckZZNmRubzFIcTZqVW1Bb1dnRThOV0lhWnhyTDlhdlh6MVlrbUVFb0hkLXh4Nm9tWWVaMUhnc2Z0YVpMSDZwUWRuSkhCdXBzTzIwVTZoNW5VTmh5czM?oc=5",
       "score": 8
     },
     {
       "section": "Moçambique",
       "category": "Regulação & decretos",
-      "title": "Novo regulamento vai reorganizar setor mineiro em Moçambique – PR - Portal Impala",
-      "summary": "Novo regulamento vai reorganizar setor mineiro em Moçambique – PR Portal Impala",
+      "title": "Novo regulamento vai reorganizar setor mineiro em Moçambique, diz Chapo - Notícias ao Minuto",
+      "summary": "Novo regulamento vai reorganizar setor mineiro em Moçambique, diz Chapo Notícias ao Minuto",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
       "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
       "source": "Google News",
-      "published": "2026-09-12T19:41:42+00:00",
-      "age_hours": 99.8,
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVF4bGNmZ0tuY3VSSVlLaXdGY0dHT2N2ZHNqYlZyUzVzNUxxRW5xRXdlRi1PeDhxOTJodTJ4TmJ2X1JCbEZxcmdMbEtVVWhPNzhlTEozLVc4V1VIWjFwUmVoVXFTN3dXMU1mcFR3WlU0WEZ3a0pIT0c2UEZFSk1rUk1EREdaaksxN0t4RVhnSW1ucXFYTU5IakxJY1cxdWk1UU1PUlR3Zng3c3ladEwtQ0VWc0s?oc=5",
+      "published": "2026-09-12T19:43:50+00:00",
+      "age_hours": 110.1,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWhmLWxLRnlKQTNHSHc1cW5MSXRCVVkyazUyOHd3WUVTSERJTFp6eXF3NWpHZ3V0X2Z1MUJMN1dfdWV2M1RBMnkxU3dLUmVNSEx3Sk9HeFZrdGhwSklBSVpYNG9Ia0cyLUNCQXAxdlB0N0ZfRFExZlJYdTljUzZ1dXM3eTdzOFgzYmlYZnl6dUZZYlJQUG9TaXJISk9HMTFpY0FQQmE5dlhQYndqd2J2M0lFSHBGMWVK?oc=5",
       "score": 9
     },
     {
       "section": "Moçambique",
       "category": "Financiamento",
-      "title": "Moza Banco e Banco Europeu de Investimento lançam linha de financiamento de 10 Milhões de Euros para mulheres empreendedoras - Carta de Moçambique",
-      "summary": "Moza Banco e Banco Europeu de Investimento lançam linha de financiamento de 10 Milhões de Euros para mulheres empreendedoras Carta de Moçambique",
+      "title": "Banco de Moçambique: Patronato desafia governador e vice-governadora a garantirem crédito favorável - Carta de Moçambique",
+      "summary": "Banco de Moçambique: Patronato desafia governador e vice-governadora a garantirem crédito favorável Carta de Moçambique",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
       "action": "Confirmar elegibilidade, montante, prazo e documentos exigidos pela entidade financiadora.",
       "source": "Google News",
-      "published": "2026-09-10T08:44:01+00:00",
-      "age_hours": 158.7,
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQjBrU1RiN3BaUl9CNm5EZXRfMFV1UEd2M0pXUVRQdzFjdVBwZkRTMVFxQXFrcDhUQm1fdTRsanNjX3lza0NKSHVkWmN3SnZvZWVpS0dXYXVPZmRhS0c3M2xSSm1fZHIwMU9iY1RocDN0N3FpX0lmc0M4MWxYLVktOTdfeS04UUFMbkVxbkJjVy1vWFdLaVJHVGY1cS02NkVyUS14N1BNR083QzlMU3VaLUw2SVVVckljQ1lzUzMtZ0g2UldBNkw2WnRERVk0VVJ3eGhtMUJMenBrWW1rNFZ3a2JFMjZMLVptTHRGMVlnM1FoSlhoTmU0d3BpZEtScHlMVzhrbGhWN1k?oc=5",
-      "score": 8
+      "published": "2026-09-11T08:09:39+00:00",
+      "age_hours": 145.6,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYU94MmJ5NjdBbEJxcW9kdzRiN0R0Y3hGNGpPXzNKLTdYOUV3RWctNjBMbjVMQXY3WS1vSmxxREJwUklGVHpOR0plaUdxakVESF9WMjJSZ0xua0Z2eUxaRkFPNmtVVV9lSVZQY0Y3Vl83ZFJKV01BMWM1TzMyR2hNdl9IaEltUkVwWGlDaFVCOHNIUnVFWHZJUmdfdmV2SVZRZFBJVzJFbl9oZ0VlOXU5RDVUeWlscUFwZ0JGNC1HYVVReW9Xc1pIWklHWnRqU3hJMFVSNkw2N2tIWFFIVVE?oc=5",
+      "score": 5
     }
   ],
   "categories": [
