@@ -1,76 +1,58 @@
 {
-  "updated_at": "2026-09-17T09:47:59.677966+00:00",
+  "updated_at": "2026-09-17T17:19:26.292683+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "Moçambique",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Moçambique Quer Reduzir Perdas Pós-Colheita E Medir Melhor O Retorno Dos Investimentos Na Segurança Alimentar - O.Económico",
-      "summary": "Moçambique Quer Reduzir Perdas Pós-Colheita E Medir Melhor O Retorno Dos Investimentos Na Segurança Alimentar O.Económico",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "O.Económico",
-      "published": "2026-09-17T08:12:35+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkp6d0JKSGhMMTFHM01nUW9oeWZsSUd1RkMtYUh6SDBENXlURS02Qk1Xc1RKMGpRVWtfdnhrRXYtSk9BUFZDZHF6X1lZSFBmMU93RDhIN1Y4bGJka2hUWFlJYWxyeUtseDRVOGxLMXdHYVh6dlVwZHpBN0p1R1BMYWVaY0ZXdXRZVjVwT3RBYTZRVzdMQTRRWDRSOHlfNWdzaTRrdll6cnRMWHRzMUZUUXZMZ3pkWWRma1JvcEQ5OWhNUFBURnU2R08yVk5mUlBGMno0?oc=5",
-      "editorial_score": 11.67,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Moçambique vai auditar custos recuperáveis dos megaprojetos de gás natural - Notícias ao Minuto",
-      "summary": "Moçambique vai auditar custos recuperáveis dos megaprojetos de gás natural Notícias ao Minuto",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Notícias ao Minuto",
-      "published": "2026-09-17T09:08:04+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTZYUGVXVWNSUGt5d29BbUdORHVaX0prdWc1RzdCY2VDWnJ6YzZ6VWlrN1JMSm1OTjNFTjJNbU8zREs2UzR2LWdSUi03X2tDQ3JfWnpDWnV5aFB5d0JvOTJVZi16Y3pWWTRNR1BDeWNBV1BrdmFzRlhpckpMRGM3WnlRWnJsMTk4LXZJZ01DWDF1MGs4QmZmRGduZmpVS2VOdkpDU0lCT2JEaVhzbHAzZXhkOE5wa1g4N2dIRHBfYm5PZw?oc=5",
-      "editorial_score": 10.85,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo de Moçambique aprova novo Estatuto dos Serviços Sociais das Forças Armadas - MZNews",
-      "summary": "Governo de Moçambique aprova novo Estatuto dos Serviços Sociais das Forças Armadas MZNews",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "MZNews",
-      "published": "2026-09-17T09:20:09+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVlwLUtIcG9fVFBaWExORlhPa3JvVGUzVTdHSktpS3JfZjNvTDBGcFA3cVRFMk5EWlhVY0VyU0ZZSEdqVlNUbmR4WTZ3cERFblA1dzhxWXF3NkF2X3l5TTgzRzcwNFQ0QTBfR1VONksta0tyYzBRVV9tei02dlRhX3E5Z3dCQnUxLUhYWXFqTnoyVW1LalRIdi1qc1h3bjFCVE53SkF2Yw?oc=5",
-      "editorial_score": 9.9,
-      "source_tier": "C"
-    },
-    {
       "section": "Mundo",
       "tags": [
         "Segurança"
       ],
-      "title": "Câmara dos Representantes dos EUA aprova novas sanções contra a Rússia",
-      "summary": "A Câmara dos Representantes dos Estados Unidos aprovou um projeto de lei abrangente sobre sanções e tarifas destinado a aumentar a pressão económica sobre a Rússia devido à sua invasão da Ucrânia, quase um ano e meio após a sua apresentação pelo falecido senador Lindsey Graham.",
+      "title": "Controlo de fronteiras. Governo propõe suplemento de 160 euros para forças de segurança",
+      "summary": "A reunião entre Governo e as associações sindicais da PSP e GNR estava em suspenso durante a tarde desta quinta-feira. A RTP apurou que o executivo avançou com uma proposta de 160 euros de suplemento para a Unidade Nacional de Estrangeiros e Fronteiras em 2026.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-17T08:54:07+00:00",
-      "age_hours": 0.9,
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-17T17:13:16+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/camara-dos-representantes-dos-eua-aprova-novas-sancoes-contra-a-russia_n1765968",
-      "editorial_score": 9.81,
+      "link": "https://www.rtp.pt/noticias/pais/controlo-de-fronteiras-governo-propoe-suplemento-de-160-euros-para-forcas-de-seguranca_n1766094",
+      "editorial_score": 10.98,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Condutores fazem 1300 km em carros elétricos",
+      "summary": "A ação pretende mostrar que, com estas viaturas, já é possivel percorrer longas distâncias.",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-17T15:05:48+00:00",
+      "age_hours": 2.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/pais/condutores-fazem-1300-km-em-carros-eletricos_v1766072",
+      "editorial_score": 10.54,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "GNR deteta \"narcolancha\" e apreende mais de 6.700 litros de gasolina no Algarve",
+      "summary": "Em comunicado, a Unidade de Controlo Costeiro e de Fronteiras da GNR explica que realizou uma operação \"após a deteção de movimentos suspeitos de uma embarcação de alta velocidade\".",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-17T14:59:45+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/pais/gnr-deteta-narcolancha-e-apreende-mais-de-6700-litros-de-gasolina-no-algarve_n1766071",
+      "editorial_score": 10.52,
       "source_tier": "A"
     },
     {
@@ -78,101 +60,101 @@
       "tags": [
         "Economia"
       ],
-      "title": "\"A verdadeira tragédia [em Cabo Delgado] acontece tantas vezes devido à ganância das empresas e dos governos\", os bastidores de cinco anos de investigação - MZNews",
-      "summary": "\"A verdadeira tragédia [em Cabo Delgado] acontece tantas vezes devido à ganância das empresas e dos governos\", os bastidores de cinco anos de investigação MZNews",
+      "title": "Governos de Moçambique e Itália Reforçam Parceria Para Impulsionar Turismo - diarioeconomico.co.mz",
+      "summary": "Governos de Moçambique e Itália Reforçam Parceria Para Impulsionar Turismo diarioeconomico.co.mz",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-17T14:30:00+00:00",
+      "age_hours": 2.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcEtYV3Y4ZmtSSW5qZno2ZklrTjhrRl9SNERuSWo3WFFCUzlrZlI1eG9xbXRoaE5xZno3SFpxYWlteENBMlZDaUdrQ1ltazJvbHR2cjdtbnpDWDFpZENySFY5NGJpMjVIMFJOSy1IaGpGMVpncWRUNmFnWEp2VktjcFhtSl8wLTFPMGpSYmNQOXkwM185SUNxZDMwUXAwdGNXVVhtTGd0cVA3R05XY3VzOHNCLVJMdDc3NG03aVBHR1dZTnNPY0VDbFdSdmdWelRLUEZv?oc=5",
+      "editorial_score": 10.42,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique: Governo aprova medidas para reforçar apoio às Forças Armadas - e-global.pt",
+      "summary": "Moçambique: Governo aprova medidas para reforçar apoio às Forças Armadas e-global.pt",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "MZNews",
-      "published": "2026-09-17T08:54:55+00:00",
-      "age_hours": 0.9,
+      "source": "e-global.pt",
+      "published": "2026-09-17T15:15:57+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNLUVCd1ZIWWFleXBGZzJxTGd0a2puTzJDa0F6ZUR6YWlYWEcyQ3g3UEZYSlZ3dGg0aS1PTWwwdGhfWmxmT2hrNGd6QnFRamc5bEpPd2RycTVUOWxtS0U2U2dXS0lCQUdFOHZHczlsZHZFMjRnQUdQQXA4SjZpQ0tMY3VKYXJXZm9OT0UzLTZCa0FRVm81TGlOMHIwRVd5dFF5ODVpYTlfNzQybkxxX3NFRFl5SzhvYkE2bnRIRHg4LWU1ZGs2Z0JlRUlTaDNPMGwyc0JXYTJDVS1BNlpCaDhMLS13cnk4cjJaSmI5V3NER09uVjBEaENXSk83WVhqQXJL?oc=5",
-      "editorial_score": 9.81,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFZYUWR3cENUc1hNUkpsTmxBcGZUNjB6UjN4OTdiZDA0UlZvcEhVNkI0b0J2T1RIWEdLZUszVlNJVWhORjdWemY4RmF2SDN3WEtNQlA2RnZfT2R0WjBvb1dmVWtHdDZEVm1Qc2M4QUdtMnc0Rk1jZEZ6Q0FTeUhhQjlOdy1IZGozZ2VlV3NfSm54S0h6QUI2ZUhrZ3RQZi00SmJ5bk91Rm9SX3ZvM1JtWFJSUXdocXlBa05sVmVNc9IBxAFBVV95cUxPdWloVVNxcWJUdkhyLWZzUWgwWUF2UEZfZ0Y5RFlabVNoeDZwbUxLNXFnRkNXc3JJYjJrRG1CUDUyLWNZUHJfNzNCLWtuSzR6NjNSMDB3TVd0elY4VW1WejVMa0pzZGZLcUw2YkN5am52OGtfZlI1clR4UFAyMTBzUlZiU201WHEyMFJkRnd3YU5GcUJDVl8waEpaQ2NwbUhvN1BSV3JyUTQyM0RHVmVNdmdSMWY1U3l1dnVOWVpDZmttMFI5?oc=5",
+      "editorial_score": 9.56,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Economia"
       ],
-      "title": "Guterres pede regras globais para travar riscos da IA",
-      "summary": "É um alerta dramático sobre o futuro da inteligência artificial.",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-17T08:39:48+00:00",
-      "age_hours": 1.1,
+      "title": "Deputados do PS exigem esclarecimentos do Governo sobre portagens no IP3",
+      "summary": "Os deputados do PS eleitos pelo círculo de Viseu questionaram hoje o Governo sobre a possibilidade de cobrança de portagens no Itinerário Principal 3 (IP3), após a conclusão das intervenções destinadas à sua reconversão para perfil de autoestrada.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-17T14:42:23+00:00",
+      "age_hours": 2.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/guterres-pede-regras-globais-para-travar-riscos-da-ia_v1765964",
-      "editorial_score": 9.77,
+      "link": "https://www.rtp.pt/noticias/politica/deputados-do-ps-exigem-esclarecimentos-do-governo-sobre-portagens-no-ip3_n1766068",
+      "editorial_score": 9.46,
       "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Portugal apoia com fardas nova Academia Militar de Timor-Leste",
-      "summary": "As Forças Armadas portuguesas entregaram hoje às Falintil -- Forças de Defesa de Timor-Leste fardamentos para a nova Academia Militar Conjunta timorense, no âmbito do acordo de cooperação em Defesa assinado entre os dois países.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-17T07:45:00+00:00",
-      "age_hours": 2.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/portugal-apoia-com-fardas-nova-academia-militar-de-timor-leste_n1765952",
-      "editorial_score": 9.58,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Timor-Leste adere à Convenção sobre Munições de Fragmentação e à Agência de Energia Atómica",
-      "summary": "Timor-Leste aderiu esta semana à Convenção sobre Munições de Fragmentação e à Agência Internacional de Energia Atómica, anunciou hoje o Governo timorense.",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T09:12:56+00:00",
-      "age_hours": 24.6,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/timor-leste-adere-a-convencao-sobre-municoes-de-fragmentacao-e-a-agencia-de-energia-atomica_n1765729",
-      "editorial_score": 7.48,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Como adotar a inteligência artificial nas empresas - valor.globo.com",
-      "summary": "Como adotar a inteligência artificial nas empresas valor.globo.com",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "valor.globo.com",
-      "published": "2026-09-17T08:15:39+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdlNWODNsZ084VVJPeUZYanA5RXB3ZWk0SXk3bmxrQXpkV051cFYtUHVKaDZmaHZ3dldJNVpVSFNmS3VzeTFhMVRsMDRQdjZFVktXVldxcU8tZDJNenFndGRoRFpDZVBJdk5ZTEtCYWgySzhYeENsNGo0UmdDZVZTbklid1RzQVdXNGRtVVJiUlJOeDlfdXFOYUVORVByNnFKRS1xMi1jRTBaQlFK0gG7AUFVX3lxTE9NNTBXWU1pUlVLRkExWW9uSlQ4NXhSZWpNM2xtd3BRZzZPelpYMEUxZmhMY0d4eG1LUHotYWRYNHBjMXdjak52cTI2YlFjWHdxaWNwZy1BRjJ4ZHJwcmswUmlBbF8wWTVnM2hNdFdmY210Z0tpUXd3YmtfRVJFM0VWM0w1aVIzOEc2V210STN3QnB6WUx5SnVicDQwd0NaUHN1LTZoZnpCU2xlZkh1UG84VUNaeEFxLUhXWjQ?oc=5",
-      "editorial_score": 6.69,
-      "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Angola: BAD Desembolsou Quase 3 MM$ Nos Últimos Dez Anos - diarioeconomico.co.mz",
-      "summary": "Angola: BAD Desembolsou Quase 3 MM$ Nos Últimos Dez Anos diarioeconomico.co.mz",
+      "title": "Angola: Comércio Intra-Africano Caiu Para 1,8% em Nove Anos - diarioeconomico.co.mz",
+      "summary": "Angola: Comércio Intra-Africano Caiu Para 1,8% em Nove Anos diarioeconomico.co.mz",
       "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "diarioeconomico.co.mz",
-      "published": "2026-09-16T13:45:00+00:00",
-      "age_hours": 20.0,
+      "published": "2026-09-17T14:15:00+00:00",
+      "age_hours": 3.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEw3cFdyTUdOUVVrMjgtLW1Vc3lmeFlCOU94QjZhVldtT1lWeU1FeXV5V2dOODdHZmVyRXV6QUFJaHd1ZW5ZNWcwazZHUVJzdEdnaVo3dzN1VmRRSTJPODFlRkZUZDhLQnZxeHJ2M1FmbXNfck5lQlNJYS0zeFljR1lxM01fZFRGd1c4b1cxdnJFYlRVRVk4RGRnTnpUUi1KNjA5ZldWS2V0T0w5MTFUbXQwcw?oc=5",
-      "editorial_score": 5.83,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGpPY3pncEFic3RNU0NBVkZ2bVhLVTBOeGZhR29rT0dnLWlGcFFCVWtLYVh1cE4tZDVXMG1EMmh0YUVURGhkR1FZYVBGUC12bWtmUUxXUXRuN19qRXUtR1ZXRmYtM01SY2Y1LU8xckszLUVHZnNSM25aSE5ZYk9Ieng0M3E1SmtGRDdGakdXRXYzaTF0SjY4R0hGM2FhVGM4UFU5LVVoMnhDYmZNZzhZS1BYa2hoUQ?oc=5",
+      "editorial_score": 9.35,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Desabamento de edifício em Gaza mata pelo menos 20 pessoas",
+      "summary": "Pelo menos 20 pessoas, entre elas cinco crianças, morreram e dezenas continuam desaparecidas após o colapso de um edifício de seis pisos, danificado durante a guerra, no bairro de Tal al-Hawa, na Cidade de Gaza. A falta de maquinaria pesada está a condicionar as buscas das equipas de emergência.",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-16T14:12:28+00:00",
+      "age_hours": 27.1,
+      "within_24h": false,
+      "link": "https://www.rtp.pt/noticias/mundo/desabamento-de-edificio-em-gaza-mata-pelo-menos-20-pessoas_n1765821",
+      "editorial_score": 7.4,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Trump ameaça tarifas à UE por aproximação com Canadá - SpaceMoney",
+      "summary": "Trump ameaça tarifas à UE por aproximação com Canadá SpaceMoney",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "SpaceMoney",
+      "published": "2026-09-17T15:33:25+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalAtWEdYcEVLNUVpUU45eW5IVXcwZ3lrX0JzQTJrYzVza3IyWnFMV2JoZkk5ZEgwV0ZZNTg1S2hPNjBrOHV3ak1jeVZwRmF4blhzbTExVnBjSVpfSHdGT2VQcG1RS2NoRFo0VkY5X0NCZEszcmhaUzdhTW00OXhWX2hFOVhyZw?oc=5",
+      "editorial_score": 6.62,
       "source_tier": "C"
     }
   ],
@@ -194,9 +176,9 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
+    "Mundo": 5,
     "África": 2,
-    "Moçambique": 4
+    "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
   "briefing_intro": {

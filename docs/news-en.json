@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T09:48:04.895614+00:00",
+  "updated_at": "2026-09-17T17:19:34.221446+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,36 +7,18 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
-      ],
-      "title": "Mozambique: Government approves financing structure for Coral Norte LNG Project — AIM report",
-      "summary": "Mozambican government has approved the Financing Structure for the Coral Norte Liquefied Natural Gas (LNG) Project, located in Area 4 of the Rovuma Basin, off the coast of the northern province of Cabo Delgado. The project in question is operated by Mozambique Rovuma Venture (MRV), a joint venture owned by the American ExxonMobil, the Italian… Source",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-17T09:43:02+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-government-approves-financing-structure-for-coral-norte-lng-project-aim-report/",
-      "editorial_score": 13.98,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
         "Segurança"
       ],
-      "title": "Mozambique: CMH concerned about decline in Pande and Temane gas reserves — Lusa report",
-      "summary": "The Mozambican Hydrocarbon Company (CMH) has again warned about the decline in gas reserves at the Pande and Temane fields, a year after identifying the problem, in a financial year in which profits fell by 20.8%. The concern is contained in the 2025/2026 report and accounts, for the financial year ended in June, which Lusa… Source",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-17T09:09:29+00:00",
-      "age_hours": 0.6,
+      "title": "Mozambique: Maputo BRT contract awarded to CHICO - CLUB OF MOZAMBIQUE",
+      "summary": "Mozambique: Maputo BRT contract awarded to CHICO CLUB OF MOZAMBIQUE",
+      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
+      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
+      "source": "CLUB OF MOZAMBIQUE",
+      "published": "2026-09-17T14:47:57+00:00",
+      "age_hours": 2.5,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-cmh-concerned-about-decline-in-pande-and-temane-gas-reserves-lusa-report/",
-      "editorial_score": 13.88,
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbC1odEFEWktWaGZxS0ZWYXVROTAtWU9RX2JWZmswTEFxTk91Mll5ZnJmWGtwdUpXdXNQNjFrVnlSMTNIR1lOT1JSTTlfNXRHdm8ycVNrNnVKR3lUNk42TTZ2ODI0RE5Jeks3SDk1aG13MkRWaUpZdzhDaU92Q1FKZzN5Uk1LQng1bXc?oc=5",
+      "editorial_score": 12.48,
       "source_tier": "B"
     },
     {
@@ -44,84 +26,136 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "title": "UN fact-finding mission says US committed possible war crimes in Iran",
+      "summary": "The mission also said Iranian authorities committed crimes against humanity during their crackdown on recent protests.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "BBC World",
-      "published": "2026-09-17T08:22:12+00:00",
-      "age_hours": 1.4,
+      "source": "Al Jazeera English",
+      "published": "2026-09-17T17:02:31+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 10.71,
+      "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
+      "editorial_score": 10.94,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "A war-fatigued and anxious Russia picks a new parliament",
+      "summary": "Fuel shortages, drone strikes and mobilization rumors are fueling anxiety and war fatigue in Russia. As support for peace talks grows among Russians, the Kremlin is watching closely ahead of parliamentary elections.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "DW English",
+      "published": "2026-09-17T16:42:00+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 10.88,
       "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "China says ready to boost security cooperation with Africa - chinadailyasia.com",
-      "summary": "China says ready to boost security cooperation with Africa chinadailyasia.com",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "chinadailyasia.com",
-      "published": "2026-09-17T09:36:18+00:00",
+      "title": "IPPG Calls for Bold Action to Turn Africa’s Energy Potential into Lasting National Value and Development - Energy Focus Report",
+      "summary": "IPPG Calls for Bold Action to Turn Africa’s Energy Potential into Lasting National Value and Development Energy Focus Report",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Energy Focus Report",
+      "published": "2026-09-17T17:07:20+00:00",
       "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Teko1bm5kaGQ0cXQ2RTFzS0FqU1N4ZGp3WXZ5Y1RfdWpaRW8tekZRZFFlNWhlWnpadjZyNzhJbzBWOTY0MllDOGNrekZmZ2Z1WjRQakx4SVM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU1lzb1NqRVlraGR3SDdfaXRxWHFJYU1vLUkxVk50SUJNdVlNLVVBdkpmdGRnbUhkV2l1SFhVaTZlNzZvRzlmdjBtSGRBMWJNNDhUWWdYYzZIaDRjV01kVFU3dC1NU3pMODZWRUVCZTI0dEJyR0ktMXBiZWtjNlJBREJqc0pobjg3Qy15QVo2VUJkbTlwX1k5ekdVUXowTEdhYzJ1aG4yWmxqbXJQeExWb0doM0pvWC05LWpYSFBaMWtucDlTRzBnWS1FQi10d1hzSE5IYQ?oc=5",
       "editorial_score": 9.96,
       "source_tier": "C"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-      "summary": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "BBC World",
-      "published": "2026-09-17T09:03:28+00:00",
-      "age_hours": 0.7,
+      "title": "Zambia targets $1 billion from five new listings as first gold ETF nears launch - Business Insider Africa",
+      "summary": "Zambia targets $1 billion from five new listings as first gold ETF nears launch Business Insider Africa",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "Business Insider Africa",
+      "published": "2026-09-17T16:57:11+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 9.85,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Fiji declares HIV a national crisis, 1 in 60 adults carry it",
-      "summary": "Fiji's government estimates that HIV prevalence has almost tripled in the last five years. It's expanding testing, prevention and treatment services. In 2025 the tiny island recorded 16 times more new cases than in 2019.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "DW English",
-      "published": "2026-09-17T09:03:00+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/fiji-declares-hiv-a-national-crisis-1-in-60-adults-carry-it/a-79300628?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 9.85,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNVRjVkJWS3VjRURvTTB2aXBEb2p1RXI1YlpoYnpvQ3A2VXJDcnpVTDBEUzM3MUxyVEJwUlJxT0ljVWVQVm5PakZrd0pQVFk0NzRTOEttMlpZSE9hN0lMNXJiQjFFTklIbENkSHFxWjVuak5MSEVsYkdRU1lsOGo4d2RLVEY0dG1CT0xKVTFTeVNJdVlPSmFuMHYyczcxbHBKM3Q4X0V6cERNYmtSb2c4SXdIWkd5V3dDNWRheExkQzcwei1PcE1hbFpyV19YVERrVlEyT0cxcTQ?oc=5",
+      "editorial_score": 9.92,
+      "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "U.S. Unveils Ksh1 Trillion Investment Deal Targeting African Countries - Kenyans.co.ke",
-      "summary": "U.S. Unveils Ksh1 Trillion Investment Deal Targeting African Countries Kenyans.co.ke",
+      "title": "South Africa: Club Med creates 600 permanent jobs at its first resort - Benin Web TV",
+      "summary": "South Africa: Club Med creates 600 permanent jobs at its first resort Benin Web TV",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "Benin Web TV",
+      "published": "2026-09-17T16:40:21+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHNJeG5EOGhLRXVSc2ZuVzRVc0Q2bGVTQmRXX3JROGhtRHdkV1NNbzh6aDNYREdWdjZlb0FhTk0xLW03NzZ6Ujc0eVdlMWtWdDdIa2dGOWRBbnJ5VEc1WlBONGpSeXEwS1dnTXJqdDhuODN3a1RObkF1UWNRMElyX3dKaE1nLVEyZmhyNHlYaWFMZThUYlBrNjVR?oc=5",
+      "editorial_score": 9.85,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Turning investment potential into results in Africa - McKinsey & Company",
+      "summary": "Turning investment potential into results in Africa McKinsey & Company",
       "why": "The story helps explain economic and trade trends relevant to Africa.",
       "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Kenyans.co.ke",
-      "published": "2026-09-17T08:58:58+00:00",
+      "source": "McKinsey & Company",
+      "published": "2026-09-17T16:39:48+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORElEYzVjLWp4aGdYcWpsVkhaMXEtSXp5eHJOX05UOXNrdVpXVFV4WnBqbzJnS3BDTllVcnktc1hVaGxZYTdJdG5pVzVvbEJ6Wjg5WjIxSkVaSld0QmJBN2RZSTNnQlVrVzNTV3h0SzRqUVk0WnJlSnZtekotUU1qdGROeVVRZkZndzFfMFY5dXZ4QjhOLXg0YXdSMW9lVkM0bFQwOUlrd3Fkdw?oc=5",
+      "editorial_score": 9.85,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique, Senegal Eurobonds Top Emerging Market Returns, Lifted by IMF Talks - Bloomberg.com",
+      "summary": "Mozambique, Senegal Eurobonds Top Emerging Market Returns, Lifted by IMF Talks Bloomberg.com",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
+      "source": "Bloomberg.com",
+      "published": "2026-09-17T13:54:53+00:00",
+      "age_hours": 3.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeExCdnBXdmkyTmZpd2I0QmhZTUFUNDhsVUhySjdMeVNkS3JtRlRhdW1tTFh0TDBPdVFtVjZCWTllSXpyemJrU0VtekUzLWd4NG95OWNvUFBFVFdoMXUtTEExSWhMTnM0WUdvQkJ2eXF0YXUtTmwzZUJVZEhfb2ZkS2VzR0J1c1BmakNiTERYcEFVQmhsMWxZNW4yNWZMU1Z6MDZ1X0prdU5DV2JQR19USFdFa2JhSkZ4Ql9CWUp6RWtreFJ2Nmc?oc=5",
+      "editorial_score": 9.29,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Dallas Has Capital-Markets Moments With Funding, IPOs and a Tug of War - Bloomberg.com",
+      "summary": "Dallas Has Capital-Markets Moments With Funding, IPOs and a Tug of War Bloomberg.com",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Bloomberg.com",
+      "published": "2026-09-17T16:33:54+00:00",
       "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLUhjYjZMM2k2SzA4eUtsWDdTak5uS3FPaVFjZVAzbEI2dnQyR2dObEYzOUgwbUdqanVyR2xZLWhDd19LM0JIXzh6NlFsYlBYLVN6eGtVWVU1NkR1NE1hX094YXg0T2hFV3g1TXNHR2JJUVEtRkNvZ0tsajlscnNXUUUxSmQxQnhlRFlLc0ZPNEY1Yng0TXhUXzJndmJQdGE0UXZ2Y3JKN0ZaZkFiUTJDemxFeWZ3empBSzRz?oc=5",
-      "editorial_score": 9.83,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFRTS3o4WC1aSVNTUU1QZVR5UUd4d0NTNjZ0T3JsM2ZQYzh4OUZqQktQNTdzSFdUS0xLR2VKTWphV1hLd1ZWOEIwM2dqU0dJY2JjN0VXcEdDemZEd09XUldCSHZVdzk3VlpvUDlvWi1wYU5LR0FLT3hlWmw4XzNhamNNMXo0VEhIOW9jbllrX0xVaUZBUGNMcTh0d1dQYmFvYTk5NWtJUExLemNQOHY3RlpCN1J0cHFsdjF2amRYbHk?oc=5",
+      "editorial_score": 7.83,
       "source_tier": "C"
     },
     {
@@ -129,17 +163,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "One dead after torrential rain and flash floods hit Barcelona region",
-      "summary": "Flooding has caused widespread disruption across Valencia and Catalonia in north-east Spain.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "BBC World",
-      "published": "2026-09-17T08:39:30+00:00",
-      "age_hours": 1.1,
+      "title": "Trump’s New Tariffs Hit a Different Economy - wita.org",
+      "summary": "Trump’s New Tariffs Hit a Different Economy wita.org",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "wita.org",
+      "published": "2026-09-17T16:31:24+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c9lyk27g8ln7o?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 9.77,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aVnFkeXFnYWU4cU1leUlTQnVvU0pCdGZ4aFNDVFU5ZHc1dU5DQ3A0d0c5YVpYam95TGJib2hGdjNkZXNJVGZ0bjZFb1E4dThVaHV4bFVQTUVtNW50OTItN3daOG1JZlJrTnhRRWFMclQ2OEhq?oc=5",
+      "editorial_score": 7.83,
+      "source_tier": "C"
     }
   ],
   "watch": [
@@ -161,7 +195,7 @@
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
     "Mundo": 4,
-    "África": 2,
+    "África": 4,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
