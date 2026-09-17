@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T19:59:04.249879+00:00",
+  "updated_at": "2026-09-17T23:19:43.604218+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -15,61 +15,95 @@
       "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
       "source": "CLUB OF MOZAMBIQUE",
       "published": "2026-09-17T14:47:57+00:00",
-      "age_hours": 5.2,
+      "age_hours": 8.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbC1odEFEWktWaGZxS0ZWYXVROTAtWU9RX2JWZmswTEFxTk91Mll5ZnJmWGtwdUpXdXNQNjFrVnlSMTNIR1lOT1JSTTlfNXRHdm8ycVNrNnVKR3lUNk42TTZ2ODI0RE5Jeks3SDk1aG13MkRWaUpZdzhDaU92Q1FKZzN5Uk1LQng1bXc?oc=5",
-      "editorial_score": 11.92,
+      "editorial_score": 11.23,
       "source_tier": "B"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "US secures release of detained citizen Adam Castillo in Myanmar",
-      "summary": "Businessman Adam Castillo had been detained by authorities for three months on breach of trust allegations.",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-17T18:34:30+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-secures-release-of-detained-citizen-adam-castillo-in-myanmar?traffic_source=rss",
-      "editorial_score": 10.71,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "The infrastructure of resilience: Why Africa's climate future is an engineering problem we are failing to solve - CitiNewsroom.com",
-      "summary": "The infrastructure of resilience: Why Africa's climate future is an engineering problem we are failing to solve CitiNewsroom.com",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "CitiNewsroom.com",
-      "published": "2026-09-17T19:02:12+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZHdrbG81UmhDaHJqRzdSbVFPWkQ2YWFSX3NQbHVlT0dkLTNDeV90akFmZktlWnIyR3hIZlQzVV9fRktpT0NmaXk5eDhaZlFLRWhpT0Z1T1UwazctMnFpQmc0TlFzUXJ1U2hzdU1UX2ZXZ0wxUmNOeHFSUjlIN2FKM0tpS3NNNHF5WWRhUDdubGREUjExckNtT3pxU1ZEUFp2cFhDTDdYQS1JMVc5OHU1amd0dVFXNTR6OU9TbHd5UGM5TkpaV3VlWWt2cFBHUmd5dnIwX00wWjVKbFpVV3cwRw?oc=5",
-      "editorial_score": 9.81,
-      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "Segurança"
       ],
-      "title": "Serbia opens factory to assemble Israeli-made drones",
-      "summary": "Critics say Serbia's military ties with Israel are rising significantly.",
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "BBC World",
+      "published": "2026-09-17T21:41:19+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 10.67,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "Al Jazeera English",
-      "published": "2026-09-17T18:54:42+00:00",
-      "age_hours": 1.1,
+      "published": "2026-09-17T21:38:17+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss",
-      "editorial_score": 9.77,
+      "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+      "editorial_score": 10.65,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Russia, China veto UN mandate to monitor Iran sanctions",
+      "summary": "Move ends the Security Council’s watchdog panel on Iran sanctions.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-17T21:01:41+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
+      "editorial_score": 10.52,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Russia election: Could other parties challenge United Russia?",
+      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-17T22:19:58+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
+      "editorial_score": 9.79,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Trump hails 'major progress' in setting up US base in Poland",
+      "summary": "The location of the permanent US military base in Poland could be announced \"very soon,\" Donald Trump has said. The US president also praised the leadership of his Polish counterpart, Karol Nawrocki.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "DW English",
+      "published": "2026-09-17T21:55:00+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/trump-hails-major-progress-in-setting-up-us-base-in-poland/a-79316328?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 9.71,
       "source_tier": "A"
     },
     {
@@ -77,67 +111,33 @@
       "tags": [
         "Energia"
       ],
-      "title": "South Africa prepares Antarctic flights using SAF made from used oil — OilPrice - UA.NEWS",
-      "summary": "South Africa prepares Antarctic flights using SAF made from used oil — OilPrice UA.NEWS",
+      "title": "Load shedding has eased: South Africa now faces its next industrial energy test - Social News XYZ",
+      "summary": "Load shedding has eased: South Africa now faces its next industrial energy test Social News XYZ",
       "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "UA.NEWS",
-      "published": "2026-09-17T18:08:18+00:00",
-      "age_hours": 1.8,
+      "source": "Social News XYZ",
+      "published": "2026-09-17T20:42:07+00:00",
+      "age_hours": 2.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2haczVQdnp3MEJjUV9TR1dheE8xdHdpRFA5ZFM3bjlSZmZVTDBOYUZwaWptRFBQZXhmSF9CbjVzQVBRc0QtNFVfWVduTjdDZlhJN3ZXbkhLVGZTaEs0UngyRXJndDhyMUVFUVRJa3ZIdWVnbEtiQ0NzSkNVeE04ZVBOYkU3R0dyRnc3OXNvak5ucGxFTHpVWXZYQTBfLUlGMFAxZW1yYw?oc=5",
-      "editorial_score": 9.62,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTdYQUMtYllNNFFLYWU2cUZLbmV3ZmpJMm9LUzRNN1ItZmUxYkU2Wm1vOEVVQ1ZiMWZDbzJNY2xQdERvUVg3NG1GYTJIQ0dSR1A5eXdzZzBvZUhnMlVjX200TGRLSHlJOWI2Zkp3WHU1Y1hPSWZsbVB4eWFEaWlyVlJ4T0tFUF9mY0Nla2t5R0VpWlRnSzVENWRneDZRS1lCU2tWZUpTVHFHVFh3dGUwVWxfeWF3Mlph?oc=5",
+      "editorial_score": 9.46,
       "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Brazil’s Lula announces welfare increases ahead of presidential election",
-      "summary": "Government says that increase represents an adjustment for inflation that has eaten away purchasing power since 2023.",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-17T18:07:05+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/17/brazils-lula-announces-welfare-increases-ahead-of-presidential-election?traffic_source=rss",
-      "editorial_score": 9.6,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "‘I’m Russian’: NHL star Ovechkin defends Putin ad appearance",
-      "summary": "Washington Capitals captain under fire for appearing in an election campaign video for Putin's United Russia party.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-17T18:02:20+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/sports/2026/9/17/im-russian-nhl-star-ovechkin-defends-putin-ad-appearance?traffic_source=rss",
-      "editorial_score": 9.6,
-      "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Fortuna Mining CEO on West Africa Gold, Bambadji Risks and Equipment Shortages - News and Statistics - IndexBox",
-      "summary": "Fortuna Mining CEO on West Africa Gold, Bambadji Risks and Equipment Shortages - News and Statistics IndexBox",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "IndexBox",
-      "published": "2026-09-17T17:32:32+00:00",
-      "age_hours": 2.4,
+      "title": "2026 Update: Who in Africa is Ready for Nuclear Power? - Energy for Growth Hub",
+      "summary": "2026 Update: Who in Africa is Ready for Nuclear Power? Energy for Growth Hub",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Energy for Growth Hub",
+      "published": "2026-09-17T20:07:01+00:00",
+      "age_hours": 3.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1FzaktyX3lEd21xX1BGN0J0cHl2eVhwRGJIa1BnSnRiVUR3alBqZ0J6YWZFb0dQME9EZjdCRjhTZlBISkt5aGpQRFFGMHE3aHRVTU41eHJBOVFPX21CMUxkZG5rVGxyT0Nvc050ZkhxQUw2Vkt0QW5ZUW1mM0FucWZuMXJWeTRNcUpQa1ZyOExxZmFYR1dqM25neHFSWXJQZkMxWXZBcDIzQWpFM1E?oc=5",
-      "editorial_score": 9.5,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeGl0NTlFZ2wtZWR4RTd4d2ZFSHc5aWZldklYLWtjODRSaFk1Yk5hb0liNVlYMG9qS2EyU2dsM056S2NyOGNxdVp0NFZncG9aWE4wbi14MzNueC1YdjVpVGU0S2U5bE5FNEJfWFM5aDZ1eXlKYWl3amRRMllPME5yQ2JUYjctWHl4cEVnUGJPazBHUmc?oc=5",
+      "editorial_score": 9.33,
       "source_tier": "C"
     },
     {
@@ -151,28 +151,28 @@
       "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
       "source": "Bloomberg.com",
       "published": "2026-09-17T13:54:53+00:00",
-      "age_hours": 6.1,
+      "age_hours": 9.4,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeExCdnBXdmkyTmZpd2I0QmhZTUFUNDhsVUhySjdMeVNkS3JtRlRhdW1tTFh0TDBPdVFtVjZCWTllSXpyemJrU0VtekUzLWd4NG95OWNvUFBFVFdoMXUtTEExSWhMTnM0WUdvQkJ2eXF0YXUtTmwzZUJVZEhfb2ZkS2VzR0J1c1BmakNiTERYcEFVQmhsMWxZNW4yNWZMU1Z6MDZ1X0prdU5DV2JQR19USFdFa2JhSkZ4Ql9CWUp6RWtreFJ2Nmc?oc=5",
-      "editorial_score": 8.73,
+      "editorial_score": 8.04,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
-        "Economia"
+        "Economia",
+        "Segurança"
       ],
-      "title": "What to know after a week of Houthi attacks that threaten Saudi oil and have rattled world markets - Boston Herald",
-      "summary": "What to know after a week of Houthi attacks that threaten Saudi oil and have rattled world markets Boston Herald",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Boston Herald",
-      "published": "2026-09-17T19:11:15+00:00",
-      "age_hours": 0.8,
+      "title": "US tariff powers in Russia sanctions bill could lead back to global trade chaos - MLex",
+      "summary": "US tariff powers in Russia sanctions bill could lead back to global trade chaos MLex",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "MLex",
+      "published": "2026-09-17T22:51:00+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XamlxTVNuQmt5WXZTS2N4WnVhMnV6VkVCQ1VVWXp3RVdyaVFVV3VIMG1MNHo4NXo1eWdRT3J0Z3gxYkI5NEFPd0QxOU9LOEJWUDJzaHZrQWladUxCMjZBWVkwV2d2X08tel9TUno0OVVJOHFxRGtZdmNsbw?oc=5",
-      "editorial_score": 7.83,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWU1LWRCejAyRVZqeFE0UUM4YVp4Wm9nMzJpRkFmR1hZQmpBcjZqMC1RaDl1MWlTM3ZFLUhnZmIwOHFoNlphdWRfYzd2NV90ZnpGMzNiUm9FTGJpd3lSZ2JUVDJLXzFHTFpKUEJWbl9yVFV4UWZfN0xPVEtOUjNkMExJUU85VFFLS0hEMXpDbGl5ZTZuUnVHM0R6NUE2YXZnWUVteG9WWDJha0Q3VjgzdnZPUVg5R1kzUkZsN0E3QWdpYjdxSVRB0gFaQVVfeXFMTTZUeVFvM2NSWHdYN1c3YlZZa0ppNExfQWxIUzBaY1Z4MEg0WElDcFhfY3RlWUp4VWNUMkUxSjUtWFhLVzhTc25rMXdudk9FZW9vMEtBcTQtWHZB?oc=5",
+      "editorial_score": 7.9,
       "source_tier": "C"
     }
   ],
@@ -194,8 +194,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 5,
-    "África": 3,
+    "Mundo": 6,
+    "África": 2,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",

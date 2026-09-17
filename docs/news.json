@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T19:58:56.311984+00:00",
+  "updated_at": "2026-09-17T23:19:37.927496+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -9,16 +9,84 @@
       "tags": [
         "Economia"
       ],
-      "title": "Deputados do PSD eleitos por Viseu garantem que IP3 ficará isento de portagens",
-      "summary": "Numa nota de imprensa, o PSD disse que as declarações do ministro das Infraestruturas, Miguel Pinto Luz, sobre o futuro do IP3, \"suscitaram dúvidas que importa esclarecer sem equívocos\".",
+      "title": "Câmara de Coimbra prepara investimento de grande dimensão no parque escolar",
+      "summary": "A presidente da Câmara de Coimbra anunciou hoje que está a trabalhar num plano de investimento de grande dimensão na modernização das escolas do concelho, que vai envolver várias dezenas de milhões de euros (ME).",
+      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-17T22:35:06+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/pais/camara-de-coimbra-prepara-investimento-de-grande-dimensao-no-parque-escolar_n1766135",
+      "editorial_score": 10.85,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Região de Coimbra pede apoio de 100% do Fundo de Emergência Municipal",
+      "summary": "A Comunidade Intermunicipal da Região de Coimbra (CIMRC) pediu hoje o aumento para 100% da comparticipação do Fundo de Emergência Municipal (FEM) para recuperar infraestruturas danificadas na sequência das tempestades do início do ano.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-17T19:32:32+00:00",
-      "age_hours": 0.4,
+      "published": "2026-09-17T22:30:51+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/deputados-do-psd-eleitos-por-viseu-garantem-que-ip3-ficara-isento-de-portagens_n1766124",
-      "editorial_score": 10.92,
+      "link": "https://www.rtp.pt/noticias/economia/regiao-de-coimbra-pede-apoio-de-100-do-fundo-de-emergencia-municipal_n1766127",
+      "editorial_score": 10.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "ONU vê como \"profundo sinal de esperança\" regresso de deslocados e refugiados",
+      "summary": "A ONU considerou hoje \"um profundo sinal de esperança\" o regresso voluntário de mais de dois milhões de sírios deslocados internamente e 1,8 milhões de refugiados desde dezembro de 2024, após a queda do presidente Bashar al-Assad.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-17T22:45:25+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/onu-ve-como-profundo-sinal-de-esperanca-regresso-de-deslocados-e-refugiados_n1766104",
+      "editorial_score": 9.88,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Preço do petróleo Brent recua quase 3% e negoceia abaixo dos 104 dólares",
+      "summary": "O preço do barril de petróleo Brent para entrega em novembro recuava hoje perto de 3% e negociava abaixo dos 104 dólares, depois de na semana passada ter chegado perto dos 110 dólares.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-17T22:33:54+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/economia/preco-do-petroleo-brent-recua-quase-3-e-negoceia-abaixo-dos-104-dolares_n1766128",
+      "editorial_score": 9.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Confrontos entre forças do governo e Houthis no Iémen deixam 63 mortos",
+      "summary": "Os combates entre as forças governamentais iemenitas e os Houthis no Iémen deixaram 63 mortos em ambos os lados nas últimas 24 horas, disseram hoje fontes militares do país.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-17T22:25:26+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/confrontos-entre-forcas-do-governo-e-houthis-no-iemen-deixam-63-mortos_n1766190",
+      "editorial_score": 9.81,
       "source_tier": "A"
     },
     {
@@ -26,67 +94,34 @@
       "tags": [
         "Economia"
       ],
-      "title": "Governos de Moçambique e Itália Reforçam Parceria Para Impulsionar Turismo - diarioeconomico.co.mz",
-      "summary": "Governos de Moçambique e Itália Reforçam Parceria Para Impulsionar Turismo diarioeconomico.co.mz",
+      "title": "Economia de Moçambique regista 60 mil milhões em produção industrial no primeiro semestre - MZNews",
+      "summary": "Economia de Moçambique regista 60 mil milhões em produção industrial no primeiro semestre MZNews",
       "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-17T14:30:00+00:00",
-      "age_hours": 5.5,
+      "source": "MZNews",
+      "published": "2026-09-17T14:57:46+00:00",
+      "age_hours": 8.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcEtYV3Y4ZmtSSW5qZno2ZklrTjhrRl9SNERuSWo3WFFCUzlrZlI1eG9xbXRoaE5xZno3SFpxYWlteENBMlZDaUdrQ1ltazJvbHR2cjdtbnpDWDFpZENySFY5NGJpMjVIMFJOSy1IaGpGMVpncWRUNmFnWEp2VktjcFhtSl8wLTFPMGpSYmNQOXkwM185SUNxZDMwUXAwdGNXVVhtTGd0cVA3R05XY3VzOHNCLVJMdDc3NG03aVBHR1dZTnNPY0VDbFdSdmdWelRLUEZv?oc=5",
-      "editorial_score": 9.85,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUVBRlRreGtsYTVNRWU4MWhlUHBuTUFFc2U1UzIwb3FhWXJvUjZsMUNNY29oVHE4RHRxaGhMWkVmckEzRGlmVjBibWlsaWczNW1CSEhsR2V4ckVNY0hvenlzYTI4bHVzWnNRZEE3SVk0alc0eFNpdk1TaXdvWGlSS1hNSUZKSW84MURZeUJhWktVVldsazB5a1VVa0N1NzRDblBjZnV4RHphMDFta04wTw?oc=5",
+      "editorial_score": 9.25,
       "source_tier": "C"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
+        "IA",
         "Economia"
       ],
-      "title": "Rio com 500 crocodilos vai sediar provas dos Jogos Olímpicos de 2032",
-      "summary": "As provas de remo e canoagem nos Jogos de Brisbane disputam-se no rio Fitzroy, na Austrália, conhecido por ser o habitat natural de cerca de 500 crocodilos de água salgada. A decisão oficial partiu do Comité Olímpico Internacional (COI).",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-17T18:54:42+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/rio-com-500-crocodilos-vai-sediar-provas-dos-jogos-olimpicos-de-2032_d1766132",
-      "editorial_score": 9.77,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Associação comercial de Leiria critica resposta das seguradoras",
-      "summary": "O presidente da Associação de Comércio, Indústria, Serviços e Turismo da Região de Leiria (Acilis), Lino Ferreira, criticou hoje a resposta das seguradoras aos lesados do mau tempo que atingiu gravemente aquele território no início do ano.",
-      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-17T18:25:54+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/associacao-comercial-de-leiria-critica-resposta-das-seguradoras_n1766087",
-      "editorial_score": 9.69,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Agricultores de Coimbra dizem que Governo se esqueceu de pagar a lesados por javalis",
-      "summary": "A Associação Distrital de Agricultores de Coimbra (ADACO) acusou hoje o Governo de anunciar uma compensação financeira pela morte de javalis, esquecendo-se de medidas para pagar os prejuízos sofridos pelos lesados que veem as suas culturas devastadas.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-17T18:17:27+00:00",
-      "age_hours": 1.7,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/agricultores-de-coimbra-dizem-que-governo-se-esqueceu-de-pagar-a-lesados-por-javalis_n1766107",
-      "editorial_score": 9.65,
+      "title": "Pedro Santa Clara sobre riscos da IA: \"Há uma enorme histeria que é aproveitada\"",
+      "summary": "Economista e especialista em inteligência artificial defende, na Grande Entrevista da RTP, que há interesse das empresas em abrandar o ritmo de desenvolvimento da tecnologia.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-16T22:43:05+00:00",
+      "age_hours": 24.6,
+      "within_24h": false,
+      "link": "https://www.rtp.pt/noticias/mundo/pedro-santa-clara-sobre-riscos-da-ia-ha-uma-enorme-histeria-que-e-aproveitada_n1765916",
+      "editorial_score": 8.48,
       "source_tier": "A"
     },
     {
@@ -100,10 +135,10 @@
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "e-global.pt",
       "published": "2026-09-17T15:15:57+00:00",
-      "age_hours": 4.7,
+      "age_hours": 8.1,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFZYUWR3cENUc1hNUkpsTmxBcGZUNjB6UjN4OTdiZDA0UlZvcEhVNkI0b0J2T1RIWEdLZUszVlNJVWhORjdWemY4RmF2SDN3WEtNQlA2RnZfT2R0WjBvb1dmVWtHdDZEVm1Qc2M4QUdtMnc0Rk1jZEZ6Q0FTeUhhQjlOdy1IZGozZ2VlV3NfSm54S0h6QUI2ZUhrZ3RQZi00SmJ5bk91Rm9SX3ZvM1JtWFJSUXdocXlBa05sVmVNc9IBxAFBVV95cUxPdWloVVNxcWJUdkhyLWZzUWgwWUF2UEZfZ0Y5RFlabVNoeDZwbUxLNXFnRkNXc3JJYjJrRG1CUDUyLWNZUHJfNzNCLWtuSzR6NjNSMDB3TVd0elY4VW1WejVMa0pzZGZLcUw2YkN5am52OGtfZlI1clR4UFAyMTBzUlZiU201WHEyMFJkRnd3YU5GcUJDVl8waEpaQ2NwbUhvN1BSV3JyUTQyM0RHVmVNdmdSMWY1U3l1dnVOWVpDZmttMFI5?oc=5",
-      "editorial_score": 9.02,
+      "editorial_score": 8.31,
       "source_tier": "C"
     },
     {
@@ -117,45 +152,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-17T14:15:00+00:00",
-      "age_hours": 5.7,
+      "age_hours": 9.1,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGpPY3pncEFic3RNU0NBVkZ2bVhLVTBOeGZhR29rT0dnLWlGcFFCVWtLYVh1cE4tZDVXMG1EMmh0YUVURGhkR1FZYVBGUC12bWtmUUxXUXRuN19qRXUtR1ZXRmYtM01SY2Y1LU8xckszLUVHZnNSM25aSE5ZYk9Ieng0M3E1SmtGRDdGakdXRXYzaTF0SjY4R0hGM2FhVGM4UFU5LVVoMnhDYmZNZzhZS1BYa2hoUQ?oc=5",
-      "editorial_score": 8.81,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Angola: Corredor do Lobito Registou Recorde de Carga - diarioeconomico.co.mz",
-      "summary": "Angola: Corredor do Lobito Registou Recorde de Carga diarioeconomico.co.mz",
-      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
-      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-17T10:45:00+00:00",
-      "age_hours": 9.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNei1CbWRab0V3c0tMeUFDblU1QXhPZXNTVFlfUlh1a2stcTYxQXkwYVBleVFleFRjbHdaRm5xV0g0YkZ0ZVpZWURKRlJ1UnpiM0hKZnRSSDg5OFhZY21aWFE1T3BJRUlkSWx1a1JtT29tWENPNjExX19QclVFY0szdEw4VWNwMGpJNmhDMUF2STJKTzMxNHoxWjRnSUhqRTRJNDRnN1ZMVGg3OUM4NWJn?oc=5",
-      "editorial_score": 8.08,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Economia"
-      ],
-      "title": "Seminário Marketing & Inteligência Artificial promove conhecimento, conexão e inovação - Jornal Panorama Minas",
-      "summary": "Seminário Marketing & Inteligência Artificial promove conhecimento, conexão e inovação Jornal Panorama Minas",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "Jornal Panorama Minas",
-      "published": "2026-09-17T19:16:24+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRW9nN2N2dGY4VnlpY2phVU1ORERUaXB4Ry1KVTNDQ0VGOVJwV2ZXa2NKclNoaS1CWE9xYTU0dUJxbzlTTDN6RWZJQWF6WGdQdW1jYkg4ZXhaajJZVm5kVkQzT3JqaXhZenpsT2xXcU5HUTNHNTh2T0pscVhnMWxVQVYxV18yY0xjVDRiYnhBS2pKTnN4bExXeHhOTV8yQUlCTWpETFJaVHlTSnNkNFNLWGZHUG9qeExNTk53?oc=5",
-      "editorial_score": 6.85,
+      "editorial_score": 8.1,
       "source_tier": "C"
     },
     {
@@ -163,16 +163,16 @@
       "tags": [
         "IA"
       ],
-      "title": "Cade julga na quarta parceria entre Amazon e Anthropic, no caso de inteligência artificial - Brasil 247",
-      "summary": "Cade julga na quarta parceria entre Amazon e Anthropic, no caso de inteligência artificial Brasil 247",
+      "title": "Barretos fortalece laços com a China em encontro sobre inteligência artificial e e-commerce - regiaonews.net.br",
+      "summary": "Barretos fortalece laços com a China em encontro sobre inteligência artificial e e-commerce regiaonews.net.br",
       "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
       "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "Brasil 247",
-      "published": "2026-09-17T18:04:00+00:00",
-      "age_hours": 1.9,
+      "source": "regiaonews.net.br",
+      "published": "2026-09-17T22:47:11+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTGRoR1QzUUZjVjc1LV8wdnhZX05Tbk9SelpCZ2dvSWJqQUFVUXdEM1V1LUQwRHIxLWcyMGV4dEVGVFNSejJYQ2VPX0FLRnBXRnNGUF94ODZDS3B4cG5WMGFsXzMtM1JpVWJoLVhTbHNfWlZkTm9YTmNsWEJ5V2E5MGsyOHlqRzJhV1BUV1F6Mlg4aURwR3dYclNGaHpEbkZyNERUQ05sLWJNeGVQbEhuMGhBYXRUMFVWcWdyNjJ3RjYzSGs?oc=5",
-      "editorial_score": 6.6,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVklRT01acG85b2ZEbjBnZy01cjlwUTlHbEp5RXhtUEpKQWd1QjQ2Sm1nZkFxYkw0S1NvN1NTZVdhQmZnRC15QmhqaS1ZQkhyN28xYl91VWlxdDdCelVNLTBUQ2lFUEQtYXlrelNtVHRzRnhYUlEydnpoUTR2STRtZGpDaHIwTktBT0hCVW5VcTRKTnVEcXVuNGxSWXdrb1YxUjdZalp1YUZ1NTZSRzFIeXNPRjJSbEdfWDZtVW9Hd1U0c1lrUUYycC1sNA?oc=5",
+      "editorial_score": 6.9,
       "source_tier": "C"
     }
   ],
