@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T23:19:37.927496+00:00",
+  "updated_at": "2026-09-18T09:21:26.348920+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -9,33 +9,50 @@
       "tags": [
         "Economia"
       ],
-      "title": "Câmara de Coimbra prepara investimento de grande dimensão no parque escolar",
-      "summary": "A presidente da Câmara de Coimbra anunciou hoje que está a trabalhar num plano de investimento de grande dimensão na modernização das escolas do concelho, que vai envolver várias dezenas de milhões de euros (ME).",
+      "title": "Governo prolonga apoios aos Combustíveis",
+      "summary": "Perante a subida do preço dos combustíveis, o Governo vai prolongar o pacote de apoios à economia.",
       "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
       "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-17T22:35:06+00:00",
-      "age_hours": 0.7,
+      "published": "2026-09-18T08:56:47+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/camara-de-coimbra-prepara-investimento-de-grande-dimensao-no-parque-escolar_n1766135",
-      "editorial_score": 10.85,
+      "link": "https://www.rtp.pt/noticias/economia/governo-prolonga-apoios-aos-combustiveis_v1766240",
+      "editorial_score": 10.92,
       "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique e Japão Reforçam Cooperação Económica na 20.ª Reunião Técnica Anual - diarioeconomico.co.mz",
+      "summary": "Moçambique e Japão Reforçam Cooperação Económica na 20.ª Reunião Técnica Anual diarioeconomico.co.mz",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-18T07:45:00+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGVvdmxVVjkzOVkzY2ZmalRTR1c3aXgtam92LXNCX1NtTTVOMWlVbjgwNlF2cnNtNkVtdlV2M0JGb2szeENkVF9PaDI4OVViZUJuT2hEVXZBd09ITDZZQjlRd2hBdzdRZmRpYlF5bzBzc1pWbmhMMWstZUtOR1BmVGpkUmhyeG5BNE1wNlJKUEhMSTlJZHZaWVd0RzlPTXBPYVg0YzJNNFcxVEJNR2MwaEhhQjYycHVjWWJmU09YNUV5bm9ndzJhQVYyb2ctdw?oc=5",
+      "editorial_score": 10.67,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Região de Coimbra pede apoio de 100% do Fundo de Emergência Municipal",
-      "summary": "A Comunidade Intermunicipal da Região de Coimbra (CIMRC) pediu hoje o aumento para 100% da comparticipação do Fundo de Emergência Municipal (FEM) para recuperar infraestruturas danificadas na sequência das tempestades do início do ano.",
+      "title": "Governo no limite da margem orçamental",
+      "summary": "O ministro Adjunto e da Reforma do Estado, Gonçalo Matias, assegura que este é o limite máximo até onde o Governo pode ir no momento.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-17T22:30:51+00:00",
-      "age_hours": 0.8,
+      "published": "2026-09-18T09:08:48+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/regiao-de-coimbra-pede-apoio-de-100-do-fundo-de-emergencia-municipal_n1766127",
-      "editorial_score": 10.83,
+      "link": "https://www.rtp.pt/noticias/economia/governo-no-limite-da-margem-orcamental_v1766242",
+      "editorial_score": 9.96,
       "source_tier": "A"
     },
     {
@@ -43,103 +60,102 @@
       "tags": [
         "Economia"
       ],
-      "title": "ONU vê como \"profundo sinal de esperança\" regresso de deslocados e refugiados",
-      "summary": "A ONU considerou hoje \"um profundo sinal de esperança\" o regresso voluntário de mais de dois milhões de sírios deslocados internamente e 1,8 milhões de refugiados desde dezembro de 2024, após a queda do presidente Bashar al-Assad.",
+      "title": "Luís Montenegro rejeita medidas da Oposição",
+      "summary": "Numa declaração com pouco mais de 10 minutos, Luís Montenegro garantiu que o Governo não vai entrar num \"leilão de medidas avulsas\" que conduziria o país à \"tragédia\".",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-17T22:45:25+00:00",
-      "age_hours": 0.6,
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-18T09:02:47+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/onu-ve-como-profundo-sinal-de-esperanca-regresso-de-deslocados-e-refugiados_n1766104",
-      "editorial_score": 9.88,
+      "link": "https://www.rtp.pt/noticias/economia/luis-montenegro-rejeita-medidas-da-oposicao_v1766241",
+      "editorial_score": 9.94,
       "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Conselho de MInistros. Menos IRS e apoio a Pensionistas",
+      "summary": "O Governo aprovou a descida das taxas de IRS até ao sexto escalão. Na prática, a medida traz um alívio fiscal estimado entre 12 e 171 euros por ano para contribuintes solteiros sem filhos, refletindo-se de forma imediata no subsídio de Natal e nos salários de novembro.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-18T08:37:47+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/economia/conselho-de-ministros-menos-irs-e-apoio-a-pensionistas_v1766237",
+      "editorial_score": 9.85,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo prepara plano de 401 M$ para mitigar impactos do El Niño em Moçambique - MZNews",
+      "summary": "Governo prepara plano de 401 M$ para mitigar impactos do El Niño em Moçambique MZNews",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "MZNews",
+      "published": "2026-09-18T08:41:02+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanR3ZnBpb2p1bVMyZHBiMjlJWXoxZDNXdzM0WXFtY2RFSzVHcnNzWEpSVG5kT1RpR0R3X0V1RldKVzhEYnZPd2JkZjFCN0M0WjdncDNwMms2bm8yQkZ3cW1sMm9EUERVeExIZVphX1c1ZjNmT2pTWUY5cWRVWFpfbmhkZHNYZXAwUHFpeVFYNE5iQWVaY2JuUGFoOFpFQTB2?oc=5",
+      "editorial_score": 9.85,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "Energia"
       ],
-      "title": "Preço do petróleo Brent recua quase 3% e negoceia abaixo dos 104 dólares",
-      "summary": "O preço do barril de petróleo Brent para entrega em novembro recuava hoje perto de 3% e negociava abaixo dos 104 dólares, depois de na semana passada ter chegado perto dos 110 dólares.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-17T22:33:54+00:00",
-      "age_hours": 0.8,
+      "title": "Bancos aumentaram em 15% financiamento à energia a nível global - Jornal PT Green",
+      "summary": "Bancos aumentaram em 15% financiamento à energia a nível global Jornal PT Green",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "Jornal PT Green",
+      "published": "2026-09-18T08:08:00+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/preco-do-petroleo-brent-recua-quase-3-e-negoceia-abaixo-dos-104-dolares_n1766128",
-      "editorial_score": 9.83,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeTFRUlBlQldWcU9fdTdqZ3o2VWRTVzJEZDFBdV82eG1mcUF0Yko4aE5aZTA0cVFHYzd1Mk9Nd3ppSG5TV2NadzVjckZ1Z25pU1hmQVdSaUJsYW1VZWZJMFNZLW1oSUtldk5lX2ExcEtVR0pRdjZweHowd1I2VklPaGV4SWRYc1E1aWpyX3BCTnQxNS16ZDJyZHFmRkg?oc=5",
+      "editorial_score": 7.75,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "IA"
       ],
-      "title": "Confrontos entre forças do governo e Houthis no Iémen deixam 63 mortos",
-      "summary": "Os combates entre as forças governamentais iemenitas e os Houthis no Iémen deixaram 63 mortos em ambos os lados nas últimas 24 horas, disseram hoje fontes militares do país.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-17T22:25:26+00:00",
-      "age_hours": 0.9,
+      "title": "Aprimorando a aplicação da inteligência artificial em finanças e contabilidade. - Vietnam.vn",
+      "summary": "Aprimorando a aplicação da inteligência artificial em finanças e contabilidade. Vietnam.vn",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "Vietnam.vn",
+      "published": "2026-09-18T08:30:31+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/confrontos-entre-forcas-do-governo-e-houthis-no-iemen-deixam-63-mortos_n1766190",
-      "editorial_score": 9.81,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Economia de Moçambique regista 60 mil milhões em produção industrial no primeiro semestre - MZNews",
-      "summary": "Economia de Moçambique regista 60 mil milhões em produção industrial no primeiro semestre MZNews",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "MZNews",
-      "published": "2026-09-17T14:57:46+00:00",
-      "age_hours": 8.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUVBRlRreGtsYTVNRWU4MWhlUHBuTUFFc2U1UzIwb3FhWXJvUjZsMUNNY29oVHE4RHRxaGhMWkVmckEzRGlmVjBibWlsaWczNW1CSEhsR2V4ckVNY0hvenlzYTI4bHVzWnNRZEE3SVk0alc0eFNpdk1TaXdvWGlSS1hNSUZKSW84MURZeUJhWktVVldsazB5a1VVa0N1NzRDblBjZnV4RHphMDFta04wTw?oc=5",
-      "editorial_score": 9.25,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb1h1QkhkRGJpVFV6ZXBqR0tpeEhiaEl1aU9tbkt5NGc3VE5RNjhNZkxaUVpSVXhlV3ZnbHROYk51QktPRDhKRi1nS3ozVHFVeG5iak5pY1BpMDlBU0J3VVpuM2d4WjE2YkJIQ0pFd0xoUl94VV9hYzVaeTRtLXdlZGZqRVNvYUx0UXFaUXhhVDZGWjFQTU13Zg?oc=5",
+      "editorial_score": 6.83,
       "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
-        "IA",
-        "Economia"
+        "Segurança"
       ],
-      "title": "Pedro Santa Clara sobre riscos da IA: \"Há uma enorme histeria que é aproveitada\"",
-      "summary": "Economista e especialista em inteligência artificial defende, na Grande Entrevista da RTP, que há interesse das empresas em abrandar o ritmo de desenvolvimento da tecnologia.",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "title": "Câmara dos Representantes dos EUA aprova novas sanções contra a Rússia",
+      "summary": "A Câmara dos Representantes dos Estados Unidos aprovou um projeto de lei abrangente sobre sanções e tarifas destinado a aumentar a pressão económica sobre a Rússia devido à sua invasão da Ucrânia, quase um ano e meio após a sua apresentação pelo falecido senador Lindsey Graham.",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-16T22:43:05+00:00",
-      "age_hours": 24.6,
+      "published": "2026-09-17T08:54:07+00:00",
+      "age_hours": 24.5,
       "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/pedro-santa-clara-sobre-riscos-da-ia-ha-uma-enorme-histeria-que-e-aproveitada_n1765916",
-      "editorial_score": 8.48,
+      "link": "https://www.rtp.pt/noticias/mundo/camara-dos-representantes-dos-eua-aprova-novas-sancoes-contra-a-russia_n1765968",
+      "editorial_score": 6.48,
       "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique: Governo aprova medidas para reforçar apoio às Forças Armadas - e-global.pt",
-      "summary": "Moçambique: Governo aprova medidas para reforçar apoio às Forças Armadas e-global.pt",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "e-global.pt",
-      "published": "2026-09-17T15:15:57+00:00",
-      "age_hours": 8.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFZYUWR3cENUc1hNUkpsTmxBcGZUNjB6UjN4OTdiZDA0UlZvcEhVNkI0b0J2T1RIWEdLZUszVlNJVWhORjdWemY4RmF2SDN3WEtNQlA2RnZfT2R0WjBvb1dmVWtHdDZEVm1Qc2M4QUdtMnc0Rk1jZEZ6Q0FTeUhhQjlOdy1IZGozZ2VlV3NfSm54S0h6QUI2ZUhrZ3RQZi00SmJ5bk91Rm9SX3ZvM1JtWFJSUXdocXlBa05sVmVNc9IBxAFBVV95cUxPdWloVVNxcWJUdkhyLWZzUWgwWUF2UEZfZ0Y5RFlabVNoeDZwbUxLNXFnRkNXc3JJYjJrRG1CUDUyLWNZUHJfNzNCLWtuSzR6NjNSMDB3TVd0elY4VW1WejVMa0pzZGZLcUw2YkN5am52OGtfZlI1clR4UFAyMTBzUlZiU201WHEyMFJkRnd3YU5GcUJDVl8waEpaQ2NwbUhvN1BSV3JyUTQyM0RHVmVNdmdSMWY1U3l1dnVOWVpDZmttMFI5?oc=5",
-      "editorial_score": 8.31,
-      "source_tier": "C"
     },
     {
       "section": "África",
@@ -152,27 +168,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-17T14:15:00+00:00",
-      "age_hours": 9.1,
+      "age_hours": 19.1,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGpPY3pncEFic3RNU0NBVkZ2bVhLVTBOeGZhR29rT0dnLWlGcFFCVWtLYVh1cE4tZDVXMG1EMmh0YUVURGhkR1FZYVBGUC12bWtmUUxXUXRuN19qRXUtR1ZXRmYtM01SY2Y1LU8xckszLUVHZnNSM25aSE5ZYk9Ieng0M3E1SmtGRDdGakdXRXYzaTF0SjY4R0hGM2FhVGM4UFU5LVVoMnhDYmZNZzhZS1BYa2hoUQ?oc=5",
-      "editorial_score": 8.1,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Barretos fortalece laços com a China em encontro sobre inteligência artificial e e-commerce - regiaonews.net.br",
-      "summary": "Barretos fortalece laços com a China em encontro sobre inteligência artificial e e-commerce regiaonews.net.br",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "regiaonews.net.br",
-      "published": "2026-09-17T22:47:11+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVklRT01acG85b2ZEbjBnZy01cjlwUTlHbEp5RXhtUEpKQWd1QjQ2Sm1nZkFxYkw0S1NvN1NTZVdhQmZnRC15QmhqaS1ZQkhyN28xYl91VWlxdDdCelVNLTBUQ2lFUEQtYXlrelNtVHRzRnhYUlEydnpoUTR2STRtZGpDaHIwTktBT0hCVW5VcTRKTnVEcXVuNGxSWXdrb1YxUjdZalp1YUZ1NTZSRzFIeXNPRjJSbEdfWDZtVW9Hd1U0c1lrUUYycC1sNA?oc=5",
-      "editorial_score": 6.9,
+      "editorial_score": 6.02,
       "source_tier": "C"
     }
   ],
