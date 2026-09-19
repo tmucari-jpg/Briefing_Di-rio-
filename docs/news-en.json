@@ -1,75 +1,58 @@
 {
-  "updated_at": "2026-09-18T09:21:32.412181+00:00",
+  "updated_at": "2026-09-19T12:45:35.119686+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Minister Muhate wants to see approved investments implemented",
-      "summary": "Mozambique’s Minister of Economy Basílio Muhate wants approved investments not to remain merely on paper. He called for closer monitoring of their implementation to ensure that they are transformed into productive units, jobs, exports and revenue for the State. Basílio Muhate was speaking at the opening of the 2nd Session of the Coordinating Council of… Source",
-      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
-      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-18T08:20:52+00:00",
-      "age_hours": 1.0,
+      "title": "In Gaza, actors perform a war they are still living",
+      "summary": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-19T12:18:52+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/minister-muhate-wants-to-see-approved-investments-implemented/",
-      "editorial_score": 14.79,
-      "source_tier": "B"
+      "link": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
+      "editorial_score": 10.92,
+      "source_tier": "A"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Russian ambassador hails Mozambique’s BRICS co-operation prospects at lecture with Mozambican students — African Initiative",
-      "summary": "Developing relations with BRICS could open up further opportunities for Mozambique to attract investment and implement economic projects, said Vladimir Tararov, Russia’s ambassador to Maputo, during a lecture for Mozambican students. “To the question of whether Mozambique can benefit from developing relations with BRICS, my answer is yes. It is important to give substance to… Source",
-      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
-      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-18T07:45:49+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/russian-ambassador-hails-mozambiques-brics-co-operation-prospects-at-lecture-with-mozambican-students-african-initiative/",
-      "editorial_score": 13.67,
-      "source_tier": "B"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Afreximbank, DBSA launch joint facility to advance infrastructure projects in Southern Africa - Africa Business Communities",
-      "summary": "Afreximbank, DBSA launch joint facility to advance infrastructure projects in Southern Africa Africa Business Communities",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Africa Business Communities",
-      "published": "2026-09-18T09:13:49+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPV0JxM1F6Q1VETDVnR2IxRWFuYzZ6N042TXRjeExXVW5VcjN4Snh5d3hFRHBfdnMzS2tmWTNLZ2hsZEhmay16YnJ5bVlIX0dVSnJmaTV2ZmliY2RqeXpPLUZBSVFZY0lLRUM5MzN1Y2JVMXBLZ0lfVjZYa1o1djU4LVQySGdpMEM2LTNxemlTa1JQdGctWV9xb0thUEhSNUExRmdickdtQjYwdk9BN01fSnpXVUZFT001eEp4Y08tTGJjNjNjc1J6Z2FrMi1nVXVLOUV3R1dB?oc=5",
-      "editorial_score": 10.98,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Africa's urban waste crisis is outpacing infrastructure investment and choking neighborhoods - livingstonenterprise.net",
-      "summary": "Africa's urban waste crisis is outpacing infrastructure investment and choking neighborhoods livingstonenterprise.net",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "livingstonenterprise.net",
-      "published": "2026-09-18T08:44:16+00:00",
+      "title": "Doomsday AI: panic, regulation and the China fear",
+      "summary": "When tech CEOs warn AI could end humanity, does the media get the story right?",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-19T12:10:21+00:00",
       "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNlRrTGxGcnNna0hkT09kUlRaYkZWMkMtSzRNWVZHVmRRWVlUTW5xNzYxMElBeDNQRnNKNE5ieTlSQ3ZnczZNT3FNZWJjbHVqNFhXT1k1NDNfcDFZZnQ1UGxobFZOVHpoSHN3WEFvdC1xTHlidy1sSFJPdWhKaUo4SHp0NktVYW9OdE5PbTlZS1pENWFVVTdiQnJnZWVGYWI2M3h5T25uRndPemdnMFphbVBNYVN4aFpCaWtMQk9tM1NiOUc5YmI5MHd2UUdpVml4MUg1VFptQ0FUZw?oc=5",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear?traffic_source=rss",
       "editorial_score": 10.88,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mozambique Families Turn Social Protection Into Jobs, Food Security and Climate Resilience - Devdiscourse",
+      "summary": "Mozambique Families Turn Social Protection Into Jobs, Food Security and Climate Resilience Devdiscourse",
+      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
+      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
+      "source": "Devdiscourse",
+      "published": "2026-09-19T06:51:19+00:00",
+      "age_hours": 5.9,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcl9Ga1RNSzdOV1czbEtPVU5iYUhRZ3dhWTlpY3pvdWNWTmg2OHpqU0xKbEtlZ1p5U3N6RUYxcXR0aWl5cTBqaUxhWUVfV1JsRzhpNFZ2amhHU3RlMDdsbFR3STIzSmJIUlZQaFV3M1BpcWJBRzl4VTFlcXNEQkVrS1ZROFQtR0l2RWpSZ2ZNNkg4NXc4clh1ZnBOTzl1UWo5bEFZQnJwUThxZ29YQk94UktzQk9sQnFqTHdJT3NtUjNYRk9oU3BjWjhhUHRsQnJQWEhuTi1ROTl1MWPSAeABQVVfeXFMTXNpT0NuOEpia2pjMEgtUjlFVk9JMjlUZWJPbUptMjhvaGZOSld5ek1Kbmxhak56bHBFVDVqOXpkMGh1dzZhTHAyblVzeXpHVXJQelgySHU0VllXQ28xV0lINDhoMlF6cTJpZENQaU56akx5XzZsd2hvR2EwUXNPUjlPUVZocFZzYklXMHBCLWFSbk9FaXVDMzJWdDFtQllzNEhjSHlsYnA1VjIxUWhOTktwV09jeDJaei1zTG90clhuN0NzNkIyQTc3STdCcExLR3hJLXptVUwzU2Z5TjdrbEU?oc=5",
+      "editorial_score": 10.77,
       "source_tier": "C"
     },
     {
@@ -77,16 +60,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "From historical solidarity to strategic trade: The India–South Africa opportunity - The Economic Times",
-      "summary": "From historical solidarity to strategic trade: The India–South Africa opportunity The Economic Times",
+      "title": "FSD Africa Launches Finance Facility To Unlock Capital for Local Investment, Growth Businesses - Independent Newspaper Nigeria",
+      "summary": "FSD Africa Launches Finance Facility To Unlock Capital for Local Investment, Growth Businesses Independent Newspaper Nigeria",
       "why": "The story helps explain economic and trade trends relevant to Africa.",
       "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "The Economic Times",
-      "published": "2026-09-18T08:19:55+00:00",
-      "age_hours": 1.0,
+      "source": "Independent Newspaper Nigeria",
+      "published": "2026-09-19T10:58:06+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN19GYWlVc3B2TGFrVHhOVll1d0RLUzBIUlBYVlJBTHliVWpwVkRzcEo0M2xsVUhQU3ZObVRWTEUzeEs2SHZKZ2JBY1VTZldXbHhCd20zWlR5QlAzUlVmT1p1V25JRzZPT09GZTFkTHh6UWlkVzdrcFdYMXhRQ3gtd1NIU2JUWGxaUE02Yi1WZjNfNTJYRTNLcmlFaEJtcXl6MHFtSG9xS1E3RDZBcVI2bWQwVnAwUlAwODdxU2FaSU9hTFpVNzZDZEY4bW9oXzJLZEc4WWVPQUlNNy1MV3NneDBjZ19VZlZPclZSWm9GVdIB9AFBVV95cUxPb1M4ZFZ1Tzkydm5FNnNaWDZSazNFSXd5eVJtdXlTQ1RnX2xYc1lVbWRQWG1KNlN2RkNndUZ1dVlvdzdrQ3hEUXRrN19acnJvcFE0WHRYSHo2elFGVDdpa2MzQW9Pbm9oZExXMlNENjBTWWtjWUFLSmxTaDZHRW8wYTRWYk5IMy1nTGF2OUd3LUZPbmlHSDZUVDZpdk9QX09Idnd3aW1aTFhYWE9XZ0MxTWhVX08xeDNaUURxa09CWGtONTlkRjBnclhzMW1pZ1NuTzR3bFJ0M0czNElWR0Q4UmZoM2c3dkZWZzBjWmRmRWhvajB0?oc=5",
-      "editorial_score": 10.79,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeU9wNGdGNlNmdXVRZkJNUllEbHppdTRjQVMtX3JfcmtvR2NjNTRVSHJrUUVqVTFrVGRpT19ZT3loZmltS1pGbzBaa29DbUdyQi04THg3a1pQT0NfQ21DMGxMeUwxMVJSQWFfOWRaZmNqS2hQcm9vUXFKRmcwcGY2a1kzUnZGaTEzdGd3WmllYkZEVC1FRGhYNUgycmVnQlppSVowRXhUUFN5ZUVjeXRWVmdFaFM5c0lY?oc=5",
+      "editorial_score": 10.62,
       "source_tier": "C"
     },
     {
@@ -94,33 +77,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "India news: Long queues hit stores as new iPhones go on sale",
-      "summary": "The iPhone 18 has gone on sale in India, drawing huge queues across the country. Meanwhile, the Election Commission has barred both Trinamool factions from using the party's name in by-elections. Follow DW for more.",
+      "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
+      "summary": "Saudi Arabia has hosted a multinational naval coalition meeting aimed at protecting shipping in the Red Sea.",
       "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "DW English",
-      "published": "2026-09-18T09:06:00+00:00",
-      "age_hours": 0.3,
+      "source": "Al Jazeera English",
+      "published": "2026-09-19T12:21:01+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://www.dw.com/en/india-news-long-queues-hit-stores-as-new-iphones-go-on-sale/live-79320496?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 9.94,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Everything you need to know about Oktoberfest 2026",
-      "summary": "This year, AI will be used to manage overcrowded situations. Find all the numbers surrounding the fest — including the price of water!",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "DW English",
-      "published": "2026-09-18T08:47:00+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/everything-you-need-to-know-about-oktoberfest-2026/a-79311285?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 9.88,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
+      "editorial_score": 9.92,
       "source_tier": "A"
     },
     {
@@ -128,33 +94,33 @@
       "tags": [
         "Economia"
       ],
-      "title": "Korea and AfDB Plan AI Hub to Turn Africa’s Digital Potential Into Jobs and Growth - Devdiscourse",
-      "summary": "Korea and AfDB Plan AI Hub to Turn Africa’s Digital Potential Into Jobs and Growth Devdiscourse",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "title": "Following Money: South Africa’s Trade Gaps Point to Possible Illicit Flows - Devdiscourse",
+      "summary": "Following Money: South Africa’s Trade Gaps Point to Possible Illicit Flows Devdiscourse",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
       "source": "Devdiscourse",
-      "published": "2026-09-18T08:25:03+00:00",
-      "age_hours": 0.9,
+      "published": "2026-09-19T12:06:33+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObkRHaVNmT01MRGFYdUN3QkJ3cnBXNWJ0aVBKSGoxYnhUbUowRlBsOGJZOVloekF3ZW1BZmZWZ2JFSXdLU1E1NW9kUE04M1hNMnZqZHZBNzVPQTdSdXpRRERxb1VSbUxyT0U1WWNJcExveFIyVVB4a3FrLTc1NWJURjFnMnQxZkExRG5RS1c1VWFJWmY4Um1HRUV3aEhJcHdiS1Vub290bTdPa0k1X0FxY3NzWWxJRkxPNENUZTR6UEdMX3Y3b0lwMXBqeDFKcUt30gHWAUFVX3lxTFBYbDFKQ01XMURGdXM5aHJ4VWdzZk1MU0tDRTlPN084T2J6UkhseGV4d0ZYdk1qY3I2Vl9JdWNWb0NFNU5NdVR2QmlWUkVqYUJoRVhLMjl5RVhrd2Jma1g5OU15ZGZJSnFlWDE5NktlSmhTcWM0OUNUN0lSUU1ldUlKdGQwNWNYSDdzb0wwbU5tRml2LThvRi0zSVVvalZrVkhKakRDV1dzMEJrejBGQS11M2JMTEJOc0Fxa3dmdVg5ZUZoSFZjeVAzcjhiNDQzOC1iUW9lV0E?oc=5",
-      "editorial_score": 9.81,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN2RKSXMzM2tLeGU2OHNlTHRQWlBvOVlZcXotcmJ0ZkRobkNZRDZweE8tQU5IYlZ2Z0MteHA4X2xsa25fOHI2MGg3RmhCd1JJY0JXVk9jdUROSDU2aDQ0Y1djbkFmR1hrdnFXWV9YX2cyc29Hd3FhTFNERUxEeXR5elNuSUtuTVdCWTVkdGI5VWtwT3NFYkNTbDlkdHdqOGtHUHFOT2dsRGdJbDFuZElMcWI1U19YLURLei1MeEZPR21ZcFZR0gHKAUFVX3lxTE5SU3NHWHNhMGQtZ3FSZzZkSExQWk5Od0s4TjVuT3Y2VVYtQ3NaZWNhOWxGLU9HdnJVRmFqQUhHZWp6U2dZSjdjRzdxVFZEVDFvQVA1OEJ5bkgya0dRWTNMb0RocWhEd1lhM0t6WFphdGJ6akhNMHJDYl8zanNCenZBYlNQSXZnb0pPSFdyM1hMYW5uME11U2VYOHk0azdlMlFXTUpSbF9mY3hWc1JfekJNbE8wdTIwQ3RhNG13QmR3QVc2V2lNd0tlYVE?oc=5",
+      "editorial_score": 9.88,
       "source_tier": "C"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
         "Economia"
       ],
-      "title": "UK-China relations “important for the effective functioning of world trade’ — SMI DIGITAL - shipmanagementinternational.com",
-      "summary": "UK-China relations “important for the effective functioning of world trade’ — SMI DIGITAL shipmanagementinternational.com",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "shipmanagementinternational.com",
-      "published": "2026-09-18T09:04:01+00:00",
-      "age_hours": 0.3,
+      "title": "Data governance and digital trust identified as drivers of business competitiveness in Mozambique - Tech Review Africa",
+      "summary": "Data governance and digital trust identified as drivers of business competitiveness in Mozambique Tech Review Africa",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
+      "source": "Tech Review Africa",
+      "published": "2026-09-19T06:20:35+00:00",
+      "age_hours": 6.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnRVY284alFiTnExbXhjWk41MlBPQXVIeV90VWd0amU2cTFZT29wWmx4Y3RGZVFRUDRMRTVjaUpZOURYUnJpVmVPMldiT0pudWFoWkd0WGdZN29GM29SWEVzck0tYjkwbk9mWFRsY3paeXRUU3puX044dUhOZ1lZZEJ2aEttaFlaRzI4V0ZTNlVyUQ?oc=5",
-      "editorial_score": 7.94,
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZGtWSnJJY290Qk1WYzFJQ1BLTG1MMjFZYzEzd1g5aG1PcGNQN2ZBbHZ3WnU5Rl9XUVkyRDVxUk9qY0NrYVRvWXIwMG44bHBCZXowNG1GMlpTQi01OWFubzdvRmlaQTg0SnItWWtOYnNITm8tclNxeC1LZzktMDBWX05PRzRaamx1Sm84bHlRcWZVREtRMFA2UjZLUzJ5Y3hQdXJ2VlRKbldMakx2dmtVVWg4N3dOdzl2WGhuX0tieS1kaUVwTFNJclJFVV9tNXVoWEE?oc=5",
+      "editorial_score": 9.67,
       "source_tier": "C"
     },
     {
@@ -163,16 +129,50 @@
         "Economia",
         "Segurança"
       ],
-      "title": "Global markets feel pressure as central banks turn hawkish on inflation - Modern Diplomacy",
-      "summary": "Global markets feel pressure as central banks turn hawkish on inflation Modern Diplomacy",
+      "title": "AIT head warns world economy needs Taiwan - Taiwan News",
+      "summary": "AIT head warns world economy needs Taiwan Taiwan News",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Modern Diplomacy",
-      "published": "2026-09-18T08:50:46+00:00",
-      "age_hours": 0.5,
+      "source": "Taiwan News",
+      "published": "2026-09-19T12:39:00+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXphWE9XQ1JGWVlLQWJ4OExORVZqdC1iaUI0endfR053Z05xakh3ZUQ5VUVJYlJEdTdTOU0zUW41aE56THFGbHpaUFZKcWo4aDBRQVg5Zm5FOFl6am04aFJJeEI2WXlySzlfZGZMWkdKMHdxakVvcU45MEJEN3NHeHg0M0NpRzNaRG5mNDY2ekNZSUw5YVF5eE13ZUpSY29MSlZSWVhNekFvTjVDNklR?oc=5",
-      "editorial_score": 7.9,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LRE5FcXVEamJzQ1VEMDEtSkZRbERidVJDMXE3Z1hpZFgwSnhVNGlPcUtXajA3X0NhRFNEdDQtSWtjM21sM0dZMFZjU3V0dml2Yzh6b1JtaTc?oc=5",
+      "editorial_score": 8.98,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "India-New Zealand FTA Nears Implementation, Seen as Potential Global Trade Beacon: Minister Todd McClay - NDTV Profit",
+      "summary": "India-New Zealand FTA Nears Implementation, Seen as Potential Global Trade Beacon: Minister Todd McClay NDTV Profit",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "NDTV Profit",
+      "published": "2026-09-19T12:37:47+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWjlySXhVU2pyM0paS1c1ekNOcXBBWEl3TUR0VlA3VEhncW02YU53Zlo0SkJoVWJkbUlEWmw1TTRXLXVpRTJkMnNoeE8xUVMyZDdYVm1jdVZ3MnlSeTI1M1VCWDAxZ1l4d1JxMzBTRzF0QzI1azEzdHJURXVvVl9CV1JnV1FSblZaMXNiRVJiU0E4T1F0XzBucnQ2YlU5Ym1RMlRTSUlCSV8yMUlnNThnZkl3SWFfQjNmblRTZHUxbEN4X0Q5NTVfZm5yOW9wT2pWX25Kc0c3NW9zZXc0OWfSAeYBQVVfeXFMTTEwSkUwMFJlZGJMODhhdUhJQng0Z2NQSGpqS2M5T29DY2x0VElIVWhDSTgxQlI5ZDJnSUY0ZV9JZDBGa0xZdUhidjg5T01MY3NkVUJWdm9fd2dWVUgyenJEWWlremJnWlVrMXV3OHJjaC0xRXVEaU00Wm5tQXFOTmZrZlBhSXQxeE9jN2NuaE02MURFeGdCeG5rV1N1TTlqZHd4djlqVTFVY2ZEMzc2anRtbmRwWG5ZRjB5ZGdycjVoZTh0OGtGZzdqSXlnRUlWVlhqWmRUMVN2cjVLYUhwQlBSc0Uwamc?oc=5",
+      "editorial_score": 7.98,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "IMF tells EU ministers AI could boost growth but increase economic strains - Free Malaysia Today",
+      "summary": "IMF tells EU ministers AI could boost growth but increase economic strains Free Malaysia Today",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "Free Malaysia Today",
+      "published": "2026-09-19T11:44:00+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWNRaHBva0JJS1JkLTRtTW11dV9NT1kwUVQ0OE1CUGxoWEk5aXJqMnUwV1BJbENQM3hVd3V3V2ZmTml6OVVfb0czWElWWldYUHc5Rk44RVhPemVaUlpqZGhPa1BOeEc4dWVDZVFLVFFWNjYwT04wZ2dxb09ncEVHLVdZaUJ0TXNya3FiaUFiX3RQX1RDaHEyaWNvWFBVRllpck5RLTVndGFCUWZUYnJEalJQMEM5VXhuTFdxbE43N3B4QXRBZkFQOE9qSXhqWUVKaUtz?oc=5",
+      "editorial_score": 7.79,
       "source_tier": "C"
     }
   ],
@@ -194,8 +194,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 4,
+    "Mundo": 6,
+    "África": 2,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
