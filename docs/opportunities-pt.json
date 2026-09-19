@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-19T16:07:43.594721+00:00",
+  "updated_at": "2026-09-19T19:08:21.426843+00:00",
   "language": "pt",
   "window_days": 7,
   "items": [
+    {
+      "section": "Moçambique",
+      "category": "Energia/LNG",
+      "title": "Leopardus tilcayo. Descoberto um novo felino na Bolívia",
+      "summary": "Um pequeno felino que vive nas florestas nubladas dos Yungas bolivianos foi identificado como uma nova espécie para a ciência. O animal recebeu o nome científico Leopardus tilcayo, preservando a designação utilizada há gerações pelas comunidades locais.",
+      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
+      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
+      "source": "RTP Últimas",
+      "published": "2026-09-19T14:38:16+00:00",
+      "age_hours": 4.5,
+      "link": "https://www.rtp.pt/noticias/mundo/leopardus-tilcayo-descoberto-um-novo-felino-na-bolivia_n1766381",
+      "score": 4
+    },
     {
       "section": "Moçambique",
       "category": "Novos projectos",
@@ -12,7 +25,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Club of Mozambique",
       "published": "2026-09-18T17:18:25+00:00",
-      "age_hours": 22.8,
+      "age_hours": 25.8,
       "link": "https://clubofmozambique.com/news/just-in-imf-staff-mission-to-mozambique-unabridged/",
       "score": 6
     },
@@ -25,7 +38,7 @@
       "action": "Confirmar elegibilidade, montante, prazo e documentos exigidos pela entidade financiadora.",
       "source": "Club of Mozambique",
       "published": "2026-09-18T15:04:11+00:00",
-      "age_hours": 25.1,
+      "age_hours": 28.1,
       "link": "https://clubofmozambique.com/news/just-in-foundations-laid-for-imf-agreement-mozambique-government-says/",
       "score": 6
     },
@@ -38,7 +51,7 @@
       "action": "Verificar entidade recrutadora, requisitos, localização e prazo de candidatura.",
       "source": "Club of Mozambique",
       "published": "2026-09-18T10:23:22+00:00",
-      "age_hours": 29.7,
+      "age_hours": 32.7,
       "link": "https://clubofmozambique.com/news/undp-new-cooperation-programme-for-mozambique-aims-to-reduce-poverty-create-jobs-by-2030/",
       "score": 9
     },
@@ -51,7 +64,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-18T10:12:46+00:00",
-      "age_hours": 29.9,
+      "age_hours": 32.9,
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cGl6b0ZJWW1wZUM0ZVdGVkNXa09pVGxHZ1dQMFBZYXdPa3lFbnJKeDYtU2x1VVNBVFNFLU82bnpmVVItcnZKWFY4SEJWZENEVEhSVFpSZ1o4aE9LZldaUXh3ZWFXdGJzWkE?oc=5",
       "score": 8
     },
@@ -64,20 +77,20 @@
       "action": "Verificar entidade recrutadora, requisitos, localização e prazo de candidatura.",
       "source": "Club of Mozambique",
       "published": "2026-09-18T08:20:52+00:00",
-      "age_hours": 31.8,
+      "age_hours": 34.8,
       "link": "https://clubofmozambique.com/news/minister-muhate-wants-to-see-approved-investments-implemented/",
       "score": 9
     },
     {
       "section": "Moçambique",
       "category": "Investimentos",
-      "title": "Moçambique reorganiza classificação de 12 aeroportos e aprova plano de investimentos até 2045 - newsavia.com",
-      "summary": "Moçambique reorganiza classificação de 12 aeroportos e aprova plano de investimentos até 2045 newsavia.com",
+      "title": "Moçambique reorganiza classificação de 12 aeroportos e aprova plano de investimentos até 2045 - NewsAvia",
+      "summary": "Moçambique reorganiza classificação de 12 aeroportos e aprova plano de investimentos até 2045 NewsAvia",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-17T14:00:00+00:00",
-      "age_hours": 50.1,
+      "age_hours": 53.1,
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQm5nc284TDZTcXlyNFpOaWpkdW9USzk4Rks4aWdZV0t2SldoQ01kQUxsSEZEeGU3Y1pMQlF0QjVsMDRWRGxGV2hSRGJqWWQxYnZmMk9PdlROTW1nTENNYmljdTZOdDVMdXRJbTY0UWphTDRqT1dvNHp3SVRkQnJuNWVWWmYxVW16cFVZRGNLSmNTV0dwNmk3QmVyOU9maGlEWXdhWHVIQXliZzFZVmtkQWtFaDNiZw?oc=5",
       "score": 8
     },
@@ -90,20 +103,20 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-17T13:49:58+00:00",
-      "age_hours": 50.3,
+      "age_hours": 53.3,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONFlvcmp5eGRuQkZCTGxyWnlVZG9ueEVWaldtazlqWHhQenRnUUs4YjEteGtuTTNFcGUtR1lWUGZBZjFpMzhVNmtVUUFxb2JOSW5TMklqTGtiRmpzODF2VVN6a19mNExIUU1zN0NFRUpiUkdqZHpMd2FxOVFsdzlDakM0dTkyc1EzWS1TMnY2SkZiTmF2S05oVU91MU5ONGNSS1VNOEZJemIzU2Q2V01HR3NSMUg3QUZjMnlNa0U2YXdPRUFMalp3dnNXNA?oc=5",
       "score": 8
     },
     {
       "section": "Moçambique",
       "category": "Regulação & decretos",
-      "title": "Moçambique prepara nova Lei do Ambiente para combater crimes ecológicos - Правда.Ру",
-      "summary": "Moçambique prepara nova Lei do Ambiente para combater crimes ecológicos Правда.Ру",
+      "title": "Moçambique prepara nova Lei do Ambiente para combater crimes ecológicos - port.pravda.ru",
+      "summary": "Moçambique prepara nova Lei do Ambiente para combater crimes ecológicos port.pravda.ru",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
       "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
       "source": "Google News",
       "published": "2026-09-17T13:48:00+00:00",
-      "age_hours": 50.3,
+      "age_hours": 53.3,
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URmp3RXJramxyTURRb0tDSk5pRUpMUGREcmt4UmxBYjFhTElqLWxtaGZkU2NUU0xPbTVpb0JYa3E4WDFzZFhoQzFVZHhaMm1NN2V0bWtFNU1zbTJrcFZaOVZXYnltaV9RbWR5UjFtRVFIUzFnTW1n?oc=5",
       "score": 9
     },
@@ -116,22 +129,22 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-17T13:45:00+00:00",
-      "age_hours": 50.4,
+      "age_hours": 53.4,
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPREgwTkNSNXVSZW5BREVYeGhmcDYxUXN1Y1FCc3hVdzUxUWR5WWxsQjBIUmdMU3daeEdSMDhXdTdiUmNIaG5FbEZRUmw2WFNsbVgtYVc3dV9kMDdVRFIwVUxSSEhDTkRuMVhWZGROXzNNbE4xNlRBdmtaUmwzc2lfZlBpcDZMT3QtYVhINFJLa3hieUpzZUowcF9MZGQtdnU1RHFqSHM1VjI3YVhmOUpOY2VPNThLTUc0c2tzaFBDcmZoX0s3NmNsTm9VWFBaOVJEcjJGZnVDMWY0RDN5bE9mSzNmZ09ocGNiQU5ZbA?oc=5",
       "score": 8
     },
     {
       "section": "Moçambique",
-      "category": "Regulação & decretos",
-      "title": "SADC facilita trocas entre Moçambique e Malawi - revista.tempo.co.mz",
-      "summary": "SADC facilita trocas entre Moçambique e Malawi revista.tempo.co.mz",
+      "category": "Investimentos",
+      "title": "BRT arranca com investimento de 250 milhões de dólares na Área Metropolitana de Maputo - aimnews.org",
+      "summary": "BRT arranca com investimento de 250 milhões de dólares na Área Metropolitana de Maputo aimnews.org",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
-      "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
+      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
-      "published": "2026-09-16T11:44:56+00:00",
-      "age_hours": 76.4,
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuSlNSM183LW9pSU5BbE5wU3FiWGdBVVR3UGt1MTRKc0FYSmI1NUFtSElSc2RYcWR5WWFBX01RZTFvbHU5UmNtZi1jTERWaGEteUZZVjZZc3ROdUFCVGJSRVRwbzJFRnRWbnFacTE4Y19yTWwzWEJuZHctNzlGVEU?oc=5",
-      "score": 9
+      "published": "2026-09-17T07:00:00+00:00",
+      "age_hours": 60.1,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnJ1VXpaWXBWWDMtalI2X0o0TVpsZXBTd2xlcF8xSUVSUmpwSnROWGdQMTFHZXVPQUF2bTRGZTM2eEE3OU8xU0VuMmN1T2dfdU0xVDJaVVdCUUdBVVJ3bmF3ZDZsejg5Rl9ZQ2pSOGpDOEtPcDhSNVducW5QbFVRczRlWUZjeG92elAzSnpqLWlrd0R3SUE2SEJ5bVg0SDVGVVBTcHZtMS1TZlZrMnRiZjNGUkNXNVVaUWc?oc=5",
+      "score": 8
     },
     {
       "section": "Moçambique",
@@ -142,7 +155,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-16T09:30:00+00:00",
-      "age_hours": 78.6,
+      "age_hours": 81.6,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWM0NVYtckJ5WUtkMlROX2dDRFBKLUpDdWE3alM5ZjdqWjNYa3k0QmMzdlRETVVFenJJbHhZZ0NmcDFwRkt3Y3FaVUZ0cmtvZGliWC1mYUppUTM0ZS1wV0JOQkJDVGtYODVfV1FXVFM4bjRXcnA0RVI2ZjVyQXBhbEVRSUhmZFBNQzRreFJnU21fVms2WDNpWDVsdjlhZ0w0Yk1hVDh5T09na2VkaXhTMWtqUENUUW94eUNZaEc2a0lmZERsY1NwQXFVcw?oc=5",
       "score": 8
     },
@@ -155,7 +168,7 @@
       "action": "Avaliar aplicação prática, fornecedores, competências necessárias e impacto na produtividade.",
       "source": "Google News",
       "published": "2026-09-15T09:25:53+00:00",
-      "age_hours": 102.7,
+      "age_hours": 105.7,
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3htbThvcXk0MGV1dUNhclZRcldQLWx2NHFRejVpOEZJRnVSUlRiT29TNlNpVklhVGVHdkpmaWRHajd2TXNSWTc2R05OWE1LRW0wS196cG5JTXFoSUJHRzc5bkhLdkxZZi1VWmtzeWRqZVRlbkhmaG5rbW9mWjJFSzVEZUJkUHA3N0lTLXJkR2FwTnlQTWxFR1VsOHpMZk1sWnZFOXhBSTdGaW1OTnNGS0ZrUzFXeXkyNUpqd2JrZw?oc=5",
       "score": 5
     },
@@ -168,21 +181,8 @@
       "action": "Verificar requisitos, prazo e documentação antes de preparar uma proposta.",
       "source": "Google News",
       "published": "2026-09-15T04:47:50+00:00",
-      "age_hours": 107.3,
+      "age_hours": 110.3,
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0Y0Q255QzBNbUs1WkYxTjUxNU81NS02SDZrcUFKclBKMnJaMlRoV0MwdnBwY1VuTDJGUk1NUnNEVnJpdTgwQXlZeXdWRDJIUUVsa0Fya2lvVmphY2pPSy1pU1ZrbHd4M0d1Zkwxb0QtcUlRSTZ1OFZPTDFBN1NoQXFSMVdxSW8xdWZoU2NSVjd1RWJqdHNtM0YwNkVIZHhQYlo0YVZWaGI5emNBaURuNlBZdHhIRXZVa2N6YVlzbGJUMGhTN1MxejZNaVpMcTN0OGtB?oc=5",
-      "score": 8
-    },
-    {
-      "section": "Moçambique",
-      "category": "Energia/LNG",
-      "title": "Autoridade Tributária de Moçambique — Construção de Edifício de 2 Pisos para Delegação, DAF e Serviços Provinciais das Alfândegas em Gaza - diarioeconomico.co.mz",
-      "summary": "Autoridade Tributária de Moçambique — Construção de Edifício de 2 Pisos para Delegação, DAF e Serviços Provinciais das Alfândegas em Gaza diarioeconomico.co.mz",
-      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
-      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
-      "source": "Google News",
-      "published": "2026-09-14T04:35:27+00:00",
-      "age_hours": 131.5,
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOeFN2YWZhdF9fTGRqMHlqUlhPTE1MWFB1YkFJX0x1ZFU4QVNZamZ5NmdJaXZUbER5UkVIRWxFUThLb0NnTF9lUzlocG5UTGRYUTZINjZCNWNZcUlIblB0LWhlMkNFdW9PRHl1SHBwWDltZHQyMW0wOWZwekZuQThpbmF1SFpqTVRjMlhaSk9MakZOSjhiNHlMZlpJNFptNDdBT1A2Tmh2NlNPbkU4amJWdmhzeGVGRlp0aGhzbWpnOWoxaldLak91WWtqODJ5clBBbGdPVTBfcnB2dVMxUEg4U0hvTnBvVkNJRF9MUWx0YkdxWlFDUW5vTmJyTng2ZWFzcW9yZmh6WF9KY0sxclJTblhCMFlfUkxOOFdFS3ZzeG9zMk1IQVE?oc=5",
       "score": 8
     },
     {
@@ -194,7 +194,7 @@
       "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
       "source": "Google News",
       "published": "2026-09-12T19:43:50+00:00",
-      "age_hours": 164.4,
+      "age_hours": 167.4,
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWhmLWxLRnlKQTNHSHc1cW5MSXRCVVkyazUyOHd3WUVTSERJTFp6eXF3NWpHZ3V0X2Z1MUJMN1dfdWV2M1RBMnkxU3dLUmVNSEx3Sk9HeFZrdGhwSklBSVpYNG9Ia0cyLUNCQXAxdlB0N0ZfRFExZlJYdTljUzZ1dXM3eTdzOFgzYmlYZnl6dUZZYlJQUG9TaXJISk9HMTFpY0FQQmE5dlhQYndqd2J2M0lFSHBGMWVK?oc=5",
       "score": 9
     }

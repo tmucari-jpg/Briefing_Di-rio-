@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T16:07:32.589488+00:00",
+  "updated_at": "2026-09-19T19:08:11.053988+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -15,10 +15,10 @@
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "O.Económico",
       "published": "2026-09-19T15:57:59+00:00",
-      "age_hours": 0.2,
+      "age_hours": 3.2,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWVHdTVTYlM2Q0FYeGtPRzh3RG1RUmQ0Zm92QjR6RlItN0I5dGgwdW9kYzFuVElvMmhLS2JwMDVjbktnOGpFTVI5WldMUldyOVR2eW4zdGlPbWhJdnhKVFlmOG5QSGhSREtTZDVhVVlvdS05djJHNmZSenNsQ2Q1UnZPSE9fQjg1Q2tHbnBGakJ4NnpSTXhQcndWMllOV1J0MXlnMmVidVdKc3Y5M19VeXdUMDBwRWh4MTJDUW1YcHE?oc=5",
-      "editorial_score": 10.96,
+      "editorial_score": 10.33,
       "source_tier": "C"
     },
     {
@@ -32,10 +32,27 @@
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "RTP Notícias — Mundo",
       "published": "2026-09-19T14:38:16+00:00",
-      "age_hours": 1.5,
+      "age_hours": 4.5,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/leopardus-tilcayo-descoberto-um-novo-felino-na-bolivia_n1766381",
-      "editorial_score": 10.69,
+      "editorial_score": 10.06,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "AfD enche praça de Schwerin no encerramento de campanha eleitoral",
+      "summary": "Mais de um milhar de apoiantes da Alternativa para a Alemanha (AfD) encheram hoje a praça principal no centro histórico de Schwerin, no comício de encerramento das eleições estaduais de domingo em Mecklemburgo-Pomerânia Ocidental.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-19T17:18:18+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/afd-enche-praca-de-schwerin-no-encerramento-de-campanha-eleitoral_n1766500",
+      "editorial_score": 9.62,
       "source_tier": "A"
     },
     {
@@ -49,10 +66,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-19T15:20:00+00:00",
-      "age_hours": 0.8,
+      "age_hours": 3.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmRyanJ3TUZHaW0xMjNiZjF6OUFEek5Jb0RuaUdLTnMtdEFEOXRvb0wyeEdiRjdOUnExWnUtenFXN1FqX2cwUXV0djJ1VUFocXctNUhTX205WV95LWxNQ1FheVZId01ldnYzQWxTeUs4UjliMVlrQlBRVDJiMVI4bW9BcWxJUEVFTjJNN1ZiNVo1bkM2WXZLMmpQM2NmNUVzN09Bdlc1RUVFc0ZaYlNWQVRXdUtjQ0FvZHdN?oc=5",
-      "editorial_score": 9.83,
+      "editorial_score": 9.21,
       "source_tier": "C"
     },
     {
@@ -66,61 +83,62 @@
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "MZNews",
       "published": "2026-09-19T15:11:42+00:00",
-      "age_hours": 0.9,
+      "age_hours": 3.9,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM0l2SHhBNEZxQkxwTlAxdGV0ZVp6TkxrdWw0aXU3akFLR05GX2VXbGFMWVo5U1hiWkV5UUdJQ2ZJMDNXcWhpMXN5OFV0STJOdjE5SXhhcm43OE9mQmxPU203aUxlR3BoeWp4MzVnZjJkVTBqVG5sajNacUFGbFZYWEVWMGgyTGhXdy04SjllZzN1YzNEQmlHSTZHbTFaWmMxZ1JXZw?oc=5",
-      "editorial_score": 9.81,
+      "editorial_score": 9.19,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
+        "Energia",
         "Economia"
       ],
-      "title": "Quanto podem valer as mexidas do Governo no IRS?",
-      "summary": "As taxas de IRS até ao sexto escalão descem.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-19T13:56:47+00:00",
-      "age_hours": 2.2,
+      "title": "Salário de até R$ 10 mil e muito mais: programas de estágio e trainee abrem 10,4 mil vagas de emprego; veja a lista - A Tribuna",
+      "summary": "Salário de até R$ 10 mil e muito mais: programas de estágio e trainee abrem 10,4 mil vagas de emprego; veja a lista A Tribuna",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "A Tribuna",
+      "published": "2026-09-19T17:16:00+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/quanto-podem-valer-as-mexidas-do-governo-no-irs_v1766479",
-      "editorial_score": 9.54,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYVgtb1V5dzNjeHNmVG8xWnlGTElETmRCb0JPN3hzQ0JZWUoxU2NidHpHYjViRmhpSVpUSmZQdS1wbm1ybGJob3JHZzlZLTZTNzF3MWk1dEZTVlBiUjNOejFYdlM2M3U5OEVqQ2FGbGMydGY3MFplWmIyS1g4UFBuTHhCVXJBazcwRGt4aWE4clVSeEx4ZVBabWtkbEMtVlJQeThnNkVPYlJKS1U4SHY3Y0pwQ3dsMjRhTU1SLVNwTzFQWHBJT3lodks1QnpOMlh0R2lMT2ItTGRTQlU1SXdhZnNRX09sNDZsUXg1cTA2ejJ6OFhIRUkzNDFyTmJNRmtDLWVQLUl0Y0Q?oc=5",
+      "editorial_score": 8.6,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Metade da população coloca medicamentos fora de prazo no lixo comum",
-      "summary": "É uma das práticas que mais poluem os solos e as águas.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-19T13:51:47+00:00",
-      "age_hours": 2.3,
+      "title": "EDM programa cortes de energia em oito províncias no Domingo - Integrity Magazine",
+      "summary": "EDM programa cortes de energia em oito províncias no Domingo Integrity Magazine",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "Integrity Magazine",
+      "published": "2026-09-19T18:35:24+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/metade-da-populacao-coloca-medicamentos-fora-de-prazo-no-lixo-comum_v1766477",
-      "editorial_score": 9.52,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44N216ZmowRE5MRnpxLUlPT2N6c1dHQ0RWMHVwYmttV1p5UHVwM1FMVFhCa1FXemp0aVk4aThueGdZVDZYMlJMZUN0QmlOaWVOS3hkbXZ5cTJzdw?oc=5",
+      "editorial_score": 7.9,
+      "source_tier": "C"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Putin invoca Europa como ameaça crescente",
-      "summary": "Em momento de eleições parlamentares, Vladimir Putin diz à Rússia que a ameaça europeia está a crescer.",
+      "title": "Ucrânia: dois mortos em Sumy, ataques contra infraestruturas logísticas em Kiev",
+      "summary": "Volodymyr Zelensky deuncia \"ataque desumano\" da Rússia em Summy que atingiu edíficio residencial. \"Pode haver pessoas presas nos escombros\", admite.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T13:48:47+00:00",
-      "age_hours": 2.3,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/putin-invoca-europa-como-ameaca-crescente_v1766476",
-      "editorial_score": 9.52,
+      "published": "2026-09-18T18:15:06+00:00",
+      "age_hours": 24.9,
+      "within_24h": false,
+      "link": "https://www.rtp.pt/noticias/mundo/ucrania-dois-mortos-em-sumy-ataques-contra-infraestruturas-logisticas-em-kiev_n1766364",
+      "editorial_score": 7.47,
       "source_tier": "A"
     },
     {
@@ -134,44 +152,10 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "plantaobrasil.net",
       "published": "2026-09-19T14:15:00+00:00",
-      "age_hours": 1.9,
+      "age_hours": 4.9,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RS3gxWFZNQ0NkbW9rMWcyZHR6TGExendhbDlRcURveVZleEZzRG0yT3Uya1JMU0pXeG5NVUVWdHQ0dW9HRmtwNFJqWXBxNmZYeDZWclc4RlBYckFOaWc?oc=5",
-      "editorial_score": 7.6,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Espionagem. MI5 admite ter mentido em tribunal para proteger espião neonazi",
-      "summary": "É a primeira vez que o serviço de segurança interna e contraespionagem admite que foram contadas mentiras aos tribunais. Em causa está a defesa de um espião neonazi cujos crimes foram revelados pela BBC. O agente X, como ficou conhecido, usava a função de informador do MI5 para cometer abusos impunemente.",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-18T14:33:19+00:00",
-      "age_hours": 25.6,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/espionagem-mi5-admite-ter-mentido-em-tribunal-para-proteger-espiao-neonazi_n1766290",
-      "editorial_score": 7.45,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "A Semana na Imprensa - Inteligência Artificial pode dominar a internet? Especialistas divergem sobre os riscos - rfi.fr",
-      "summary": "A Semana na Imprensa - Inteligência Artificial pode dominar a internet? Especialistas divergem sobre os riscos rfi.fr",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "rfi.fr",
-      "published": "2026-09-19T14:06:52+00:00",
-      "age_hours": 2.0,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZERuTmM2RUNzanJybXdrTVJvOUtrY0c2Z2ZhbVlCRW1EMkRTVHRnLXgzSVg3U2tpV2JLMFB6NU5TNFp0WjdwOXNsM3FxbW1ydENZbXM3VFlmX3NJNlpZaldfRVdzQWFuZURmc3c5a2FzV1dJLUd3SGdzcW5odW9IcDNmSlRwUUpadkhRSGNLWG9yUGRSQzJLQjMxTXhHX1AxTDh3OW1SSS1lNjd5MFJxcVNzQ2FSY3hWb1Jrc09vUld5c2RhLS1GcWFjb09sQnBYaVMyaHF0UDktWVZWVFUteVNkRGp1R2c?oc=5",
-      "editorial_score": 6.58,
+      "editorial_score": 6.98,
       "source_tier": "C"
     }
   ],
@@ -193,7 +177,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
+    "Mundo": 5,
     "África": 2,
     "Moçambique": 2
   },
