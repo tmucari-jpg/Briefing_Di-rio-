@@ -1,24 +1,41 @@
 {
-  "updated_at": "2026-09-19T12:45:35.119686+00:00",
+  "updated_at": "2026-09-19T16:07:38.197914+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Xenophobia: The Angolans Will Attend, as Nigeria’s Top Firms Stay Away from Annual Energy Summit in Cape Town - Africa Oil+Gas Report",
+      "summary": "Xenophobia: The Angolans Will Attend, as Nigeria’s Top Firms Stay Away from Annual Energy Summit in Cape Town Africa Oil+Gas Report",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Africa Oil+Gas Report",
+      "published": "2026-09-19T13:42:16+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc0UtV09pUlhsa0V6c2VnVDdnbGNLVXpYcFZ3dXV6Vzlkc0tUd09xZVhRMFJSN0N1bjVBT01YaWZpbFVubnBrNlVNVXo3M294QXh4RDRqSjNOd2t5SGxyRnZQRXlvb3plRUxIUkZNZ2pNRFRKamtUUjhOMTE2c2dmMWpuYTRzbEVVN3AtYnlpNXZtV2pSNDdDQkJncktKdElTa1cyVV9URzl1S0Z5cTMtcGRqZDk4ejA1Y2hEcGFDVXoyclZyR1BnTjc4T1JVbXZDQmFvY0ZiTThlTFBOY3JPOHV5Zkh2VElzTWI3RWdtUQ?oc=5",
+      "editorial_score": 11.5,
+      "source_tier": "C"
+    },
+    {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "In Gaza, actors perform a war they are still living",
-      "summary": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-19T12:18:52+00:00",
-      "age_hours": 0.4,
+      "title": "Ukraine steps up measures to protect railways",
+      "summary": "As Russia increases its attacks on Ukraine's rail infrastructure, the Ukrainian government has called for help to replace destroyed locomotives and is making plans to keep passengers safe.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "DW English",
+      "published": "2026-09-19T15:37:00+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
-      "editorial_score": 10.92,
+      "link": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 10.9,
       "source_tier": "A"
     },
     {
@@ -26,16 +43,33 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Doomsday AI: panic, regulation and the China fear",
-      "summary": "When tech CEOs warn AI could end humanity, does the media get the story right?",
+      "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+      "summary": "This is Russia's first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "Al Jazeera English",
-      "published": "2026-09-19T12:10:21+00:00",
-      "age_hours": 0.6,
+      "published": "2026-09-19T15:18:00+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/19/doomsday-ai-panic-regulation-and-the-china-fear?traffic_source=rss",
-      "editorial_score": 10.88,
+      "link": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
+      "editorial_score": 10.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mecklenburg-Western Pomerania: Will economy shape the vote?",
+      "summary": "Voters in the eastern state of Mecklenburg-Western Pomerania head to the polls on Sunday, with the Social Democrats and far-right AfD neck and neck. Here's a look at key economic issues that could influence the election.",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "DW English",
+      "published": "2026-09-19T14:51:00+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 10.73,
       "source_tier": "A"
     },
     {
@@ -49,61 +83,61 @@
       "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
       "source": "Devdiscourse",
       "published": "2026-09-19T06:51:19+00:00",
-      "age_hours": 5.9,
+      "age_hours": 9.3,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcl9Ga1RNSzdOV1czbEtPVU5iYUhRZ3dhWTlpY3pvdWNWTmg2OHpqU0xKbEtlZ1p5U3N6RUYxcXR0aWl5cTBqaUxhWUVfV1JsRzhpNFZ2amhHU3RlMDdsbFR3STIzSmJIUlZQaFV3M1BpcWJBRzl4VTFlcXNEQkVrS1ZROFQtR0l2RWpSZ2ZNNkg4NXc4clh1ZnBOTzl1UWo5bEFZQnJwUThxZ29YQk94UktzQk9sQnFqTHdJT3NtUjNYRk9oU3BjWjhhUHRsQnJQWEhuTi1ROTl1MWPSAeABQVVfeXFMTXNpT0NuOEpia2pjMEgtUjlFVk9JMjlUZWJPbUptMjhvaGZOSld5ek1Kbmxhak56bHBFVDVqOXpkMGh1dzZhTHAyblVzeXpHVXJQelgySHU0VllXQ28xV0lINDhoMlF6cTJpZENQaU56akx5XzZsd2hvR2EwUXNPUjlPUVZocFZzYklXMHBCLWFSbk9FaXVDMzJWdDFtQllzNEhjSHlsYnA1VjIxUWhOTktwV09jeDJaei1zTG90clhuN0NzNkIyQTc3STdCcExLR3hJLXptVUwzU2Z5TjdrbEU?oc=5",
-      "editorial_score": 10.77,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "FSD Africa Launches Finance Facility To Unlock Capital for Local Investment, Growth Businesses - Independent Newspaper Nigeria",
-      "summary": "FSD Africa Launches Finance Facility To Unlock Capital for Local Investment, Growth Businesses Independent Newspaper Nigeria",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Independent Newspaper Nigeria",
-      "published": "2026-09-19T10:58:06+00:00",
-      "age_hours": 1.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeU9wNGdGNlNmdXVRZkJNUllEbHppdTRjQVMtX3JfcmtvR2NjNTRVSHJrUUVqVTFrVGRpT19ZT3loZmltS1pGbzBaa29DbUdyQi04THg3a1pQT0NfQ21DMGxMeUwxMVJSQWFfOWRaZmNqS2hQcm9vUXFKRmcwcGY2a1kzUnZGaTEzdGd3WmllYkZEVC1FRGhYNUgycmVnQlppSVowRXhUUFN5ZUVjeXRWVmdFaFM5c0lY?oc=5",
-      "editorial_score": 10.62,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc2lPQ244SmJramMwSC1SOUVWT0kyOVRlYk9tSm0yOG9oZk5KV3l6TUpubGFqTnpscEVUNWo5emQwaHV3NmFMcDJuVXN5ekdVclB6WDJIdTRWWVdDbzFXSUg0OGgyUXpxMmlkQ1BpTnpqTHlfNmx3aG9HYTBRc09SOU9RVmhwVnNiSVcwcEItYVJuT0VpdUMzMlZ0MW1CWXM0SGNIeWxicDVWMjFRaE5OS3BXT2N4Mlp6LXNMb3RyWG43Q3M2QjJBNzdJN0JwTEtHeEktem1VTDNTZnlON2tsRdIB4AFBVV95cUxNc2lPQ244SmJramMwSC1SOUVWT0kyOVRlYk9tSm0yOG9oZk5KV3l6TUpubGFqTnpscEVUNWo5emQwaHV3NmFMcDJuVXN5ekdVclB6WDJIdTRWWVdDbzFXSUg0OGgyUXpxMmlkQ1BpTnpqTHlfNmx3aG9HYTBRc09SOU9RVmhwVnNiSVcwcEItYVJuT0VpdUMzMlZ0MW1CWXM0SGNIeWxicDVWMjFRaE5OS3BXT2N4Mlp6LXNMb3RyWG43Q3M2QjJBNzdJN0JwTEtHeEktem1VTDNTZnlON2tsRQ?oc=5",
+      "editorial_score": 10.06,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Saudi-led naval coalition prepares to secure Red Sea waterways",
-      "summary": "Saudi Arabia has hosted a multinational naval coalition meeting aimed at protecting shipping in the Red Sea.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "title": "Djibouti refugee crisis worsens as more than 2,700 Yemenis arrive",
+      "summary": "More than 2,700 Yemenis have fled to Djibouti, many making dangerous sea crossings to escape the conflict.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "Al Jazeera English",
-      "published": "2026-09-19T12:21:01+00:00",
-      "age_hours": 0.4,
+      "published": "2026-09-19T15:31:05+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/saudi-led-naval-coalition-prepares-to-secure-red-sea-waterways?traffic_source=rss",
-      "editorial_score": 9.92,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/djibouti-refugee-crisis-worsens-as-more-than-2700-yemenis-arrive?traffic_source=rss",
+      "editorial_score": 9.88,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Syria says blast at military site in Deir Az Zor killed 11",
+      "summary": "Syrian army holds funeral for soldiers killed in ammunition blast in town of Ayyash, in western Deir Az Zor, on Friday.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-19T14:55:18+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/19/syria-says-blast-at-military-site-in-deir-az-zor-killed-11?traffic_source=rss",
+      "editorial_score": 9.75,
       "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Following Money: South Africa’s Trade Gaps Point to Possible Illicit Flows - Devdiscourse",
-      "summary": "Following Money: South Africa’s Trade Gaps Point to Possible Illicit Flows Devdiscourse",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Devdiscourse",
-      "published": "2026-09-19T12:06:33+00:00",
-      "age_hours": 0.6,
+      "title": "Reconnaissance Energy Africa stock steadies as investors watch next exploration milestones - AD HOC NEWS",
+      "summary": "Reconnaissance Energy Africa stock steadies as investors watch next exploration milestones AD HOC NEWS",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "AD HOC NEWS",
+      "published": "2026-09-19T14:52:29+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN2RKSXMzM2tLeGU2OHNlTHRQWlBvOVlZcXotcmJ0ZkRobkNZRDZweE8tQU5IYlZ2Z0MteHA4X2xsa25fOHI2MGg3RmhCd1JJY0JXVk9jdUROSDU2aDQ0Y1djbkFmR1hrdnFXWV9YX2cyc29Hd3FhTFNERUxEeXR5elNuSUtuTVdCWTVkdGI5VWtwT3NFYkNTbDlkdHdqOGtHUHFOT2dsRGdJbDFuZElMcWI1U19YLURLei1MeEZPR21ZcFZR0gHKAUFVX3lxTE5SU3NHWHNhMGQtZ3FSZzZkSExQWk5Od0s4TjVuT3Y2VVYtQ3NaZWNhOWxGLU9HdnJVRmFqQUhHZWp6U2dZSjdjRzdxVFZEVDFvQVA1OEJ5bkgya0dRWTNMb0RocWhEd1lhM0t6WFphdGJ6akhNMHJDYl8zanNCenZBYlNQSXZnb0pPSFdyM1hMYW5uME11U2VYOHk0azdlMlFXTUpSbF9mY3hWc1JfekJNbE8wdTIwQ3RhNG13QmR3QVc2V2lNd0tlYVE?oc=5",
-      "editorial_score": 9.88,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcS1ZT3N0QUJWanEtbmdueVZ4MzU5YTFYcWFEU2NzWjVOc2hpTGVnT3VqbGFLazRBc0liSFhKejZqeFlQTms5RkRWQVFibUkxRU1Venhzc1VLQkJFWmxLUW0yYjZMUUZwMTZnQnBNRms4VDBiREhkQktYVGVsaEhxUFozeXB0cndnWlluU3dfTUw2cXcwMzlnT0xlSEtVSGFwTXR0aVF0RUlqRi1WRlU0dHQwRWtqRHRjaDhpMUlGR0JGNVBV?oc=5",
+      "editorial_score": 9.73,
       "source_tier": "C"
     },
     {
@@ -117,10 +151,10 @@
       "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
       "source": "Tech Review Africa",
       "published": "2026-09-19T06:20:35+00:00",
-      "age_hours": 6.4,
+      "age_hours": 9.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZGtWSnJJY290Qk1WYzFJQ1BLTG1MMjFZYzEzd1g5aG1PcGNQN2ZBbHZ3WnU5Rl9XUVkyRDVxUk9qY0NrYVRvWXIwMG44bHBCZXowNG1GMlpTQi01OWFubzdvRmlaQTg0SnItWWtOYnNITm8tclNxeC1LZzktMDBWX05PRzRaamx1Sm84bHlRcWZVREtRMFA2UjZLUzJ5Y3hQdXJ2VlRKbldMakx2dmtVVWg4N3dOdzl2WGhuX0tieS1kaUVwTFNJclJFVV9tNXVoWEE?oc=5",
-      "editorial_score": 9.67,
+      "editorial_score": 8.96,
       "source_tier": "C"
     },
     {
@@ -129,50 +163,16 @@
         "Economia",
         "Segurança"
       ],
-      "title": "AIT head warns world economy needs Taiwan - Taiwan News",
-      "summary": "AIT head warns world economy needs Taiwan Taiwan News",
+      "title": "Ritter warns of US economy collapse, NATO vulnerabilities - Mehr News Agency",
+      "summary": "Ritter warns of US economy collapse, NATO vulnerabilities Mehr News Agency",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Taiwan News",
-      "published": "2026-09-19T12:39:00+00:00",
-      "age_hours": 0.1,
+      "source": "Mehr News Agency",
+      "published": "2026-09-19T15:57:00+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LRE5FcXVEamJzQ1VEMDEtSkZRbERidVJDMXE3Z1hpZFgwSnhVNGlPcUtXajA3X0NhRFNEdDQtSWtjM21sM0dZMFZjU3V0dml2Yzh6b1JtaTc?oc=5",
-      "editorial_score": 8.98,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "India-New Zealand FTA Nears Implementation, Seen as Potential Global Trade Beacon: Minister Todd McClay - NDTV Profit",
-      "summary": "India-New Zealand FTA Nears Implementation, Seen as Potential Global Trade Beacon: Minister Todd McClay NDTV Profit",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "NDTV Profit",
-      "published": "2026-09-19T12:37:47+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWjlySXhVU2pyM0paS1c1ekNOcXBBWEl3TUR0VlA3VEhncW02YU53Zlo0SkJoVWJkbUlEWmw1TTRXLXVpRTJkMnNoeE8xUVMyZDdYVm1jdVZ3MnlSeTI1M1VCWDAxZ1l4d1JxMzBTRzF0QzI1azEzdHJURXVvVl9CV1JnV1FSblZaMXNiRVJiU0E4T1F0XzBucnQ2YlU5Ym1RMlRTSUlCSV8yMUlnNThnZkl3SWFfQjNmblRTZHUxbEN4X0Q5NTVfZm5yOW9wT2pWX25Kc0c3NW9zZXc0OWfSAeYBQVVfeXFMTTEwSkUwMFJlZGJMODhhdUhJQng0Z2NQSGpqS2M5T29DY2x0VElIVWhDSTgxQlI5ZDJnSUY0ZV9JZDBGa0xZdUhidjg5T01MY3NkVUJWdm9fd2dWVUgyenJEWWlremJnWlVrMXV3OHJjaC0xRXVEaU00Wm5tQXFOTmZrZlBhSXQxeE9jN2NuaE02MURFeGdCeG5rV1N1TTlqZHd4djlqVTFVY2ZEMzc2anRtbmRwWG5ZRjB5ZGdycjVoZTh0OGtGZzdqSXlnRUlWVlhqWmRUMVN2cjVLYUhwQlBSc0Uwamc?oc=5",
-      "editorial_score": 7.98,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "IMF tells EU ministers AI could boost growth but increase economic strains - Free Malaysia Today",
-      "summary": "IMF tells EU ministers AI could boost growth but increase economic strains Free Malaysia Today",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Free Malaysia Today",
-      "published": "2026-09-19T11:44:00+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUWNRaHBva0JJS1JkLTRtTW11dV9NT1kwUVQ0OE1CUGxoWEk5aXJqMnUwV1BJbENQM3hVd3V3V2ZmTml6OVVfb0czWElWWldYUHc5Rk44RVhPemVaUlpqZGhPa1BOeEc4dWVDZVFLVFFWNjYwT04wZ2dxb09ncEVHLVdZaUJ0TXNya3FiaUFiX3RQX1RDaHEyaWNvWFBVRllpck5RLTVndGFCUWZUYnJEalJQMEM5VXhuTFdxbE43N3B4QXRBZkFQOE9qSXhqWUVKaUtz?oc=5",
-      "editorial_score": 7.79,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN01LMGdfTFBIWmZjc1NTMFk3VTJfV1hGdU1DNGxIcmhrSEZvMExvclRfRm8ySTduNDF3WkItNHlBVUd5bXd4UmliSEZNcTdNUnhURTlTM3dxM1ExQ0swS1ZiV1B3VXpWajRlWl9JYVB3ZmxUY25SNzkyemR0MmdidU9uSUxXeDNxUDlSRHRJTnIxSVk4VkI4?oc=5",
+      "editorial_score": 8.96,
       "source_tier": "C"
     }
   ],

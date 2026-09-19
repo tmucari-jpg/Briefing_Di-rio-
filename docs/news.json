@@ -1,58 +1,75 @@
 {
-  "updated_at": "2026-09-19T12:45:30.204014+00:00",
+  "updated_at": "2026-09-19T16:07:32.589488+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Montenegro na Assembleia Geral da ONU a poucos meses de Portugal regressar ao Conselho de Segurança",
-      "summary": "O primeiro-ministro, Luís Montenegro, vai participar pela segunda vez na Assembleia Geral das Nações Unidas, em Nova Iorque, na próxima semana, a poucos meses de Portugal regressar ao Conselho de Segurança da ONU como membro não-permanente.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T10:07:23+00:00",
-      "age_hours": 2.6,
+      "title": "Moçambique Perdeu Uma Década de Transformação Económica — E 1,2 Milhão de Empregos Mais Produtivos - O.Económico",
+      "summary": "Moçambique Perdeu Uma Década de Transformação Económica — E 1,2 Milhão de Empregos Mais Produtivos O.Económico",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "O.Económico",
+      "published": "2026-09-19T15:57:59+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/montenegro-na-assembleia-geral-da-onu-a-poucos-meses-de-portugal-regressar-ao-conselho-de-seguranca_n1766460",
-      "editorial_score": 10.46,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWVHdTVTYlM2Q0FYeGtPRzh3RG1RUmQ0Zm92QjR6RlItN0I5dGgwdW9kYzFuVElvMmhLS2JwMDVjbktnOGpFTVI5WldMUldyOVR2eW4zdGlPbWhJdnhKVFlmOG5QSGhSREtTZDVhVVlvdS05djJHNmZSenNsQ2Q1UnZPSE9fQjg1Q2tHbnBGakJ4NnpSTXhQcndWMllOV1J0MXlnMmVidVdKc3Y5M19VeXdUMDBwRWh4MTJDUW1YcHE?oc=5",
+      "editorial_score": 10.96,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Warren comanda na Aroeira, portugueses lutam pela subida",
-      "summary": "O golfista escocês Marc Warren vai partir hoje para a terceira volta do Open de Portugal no comando da prova do Challenge Tour, num dia em que os portugueses Tomás Bessa e Tomás Gouveia vão tentar subir na classificação.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-19T08:49:06+00:00",
-      "age_hours": 3.9,
+      "title": "Leopardus tilcayo. Descoberto um novo felino na Bolívia",
+      "summary": "Um pequeno felino que vive nas florestas nubladas dos Yungas bolivianos foi identificado como uma nova espécie para a ciência. O animal recebeu o nome científico Leopardus tilcayo, preservando a designação utilizada há gerações pelas comunidades locais.",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-19T14:38:16+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/warren-comanda-na-aroeira-portugueses-lutam-pela-subida_d1766440",
-      "editorial_score": 10.19,
+      "link": "https://www.rtp.pt/noticias/mundo/leopardus-tilcayo-descoberto-um-novo-felino-na-bolivia_n1766381",
+      "editorial_score": 10.69,
       "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Angola Celebra 13 Acordos Com Omã Avaliados em Mais de 1,4 MM$ - diarioeconomico.co.mz",
+      "summary": "Angola Celebra 13 Acordos Com Omã Avaliados em Mais de 1,4 MM$ diarioeconomico.co.mz",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
+      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-19T15:20:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmRyanJ3TUZHaW0xMjNiZjF6OUFEek5Jb0RuaUdLTnMtdEFEOXRvb0wyeEdiRjdOUnExWnUtenFXN1FqX2cwUXV0djJ1VUFocXctNUhTX205WV95LWxNQ1FheVZId01ldnYzQWxTeUs4UjliMVlrQlBRVDJiMVI4bW9BcWxJUEVFTjJNN1ZiNVo1bkM2WXZLMmpQM2NmNUVzN09Bdlc1RUVFc0ZaYlNWQVRXdUtjQ0FvZHdN?oc=5",
+      "editorial_score": 9.83,
+      "source_tier": "C"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Forças militares de Moçambique, Tanzânia e Ruanda continuam dedicadas no combate ao terrorismo em Cabo Delgado e arredores - Integrity Magazine",
-      "summary": "Forças militares de Moçambique, Tanzânia e Ruanda continuam dedicadas no combate ao terrorismo em Cabo Delgado e arredores Integrity Magazine",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "Integrity Magazine",
-      "published": "2026-09-19T12:12:29+00:00",
-      "age_hours": 0.6,
+      "title": "Moçambique necessita de 4 MM$ para projecto de abastecimento de água e saneamento - MZNews",
+      "summary": "Moçambique necessita de 4 MM$ para projecto de abastecimento de água e saneamento MZNews",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "MZNews",
+      "published": "2026-09-19T15:11:42+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rXy1uZ2V6bUM5bnNBRVdrN2hHb1NlbjZHOVdwTExFRTVRTXJibFVieTJqTDdLdDlpY3Jaako5VG9lamlfNUw2bjE4ZTM2clA5QU9UWm4tQ3gtUQ?oc=5",
-      "editorial_score": 9.88,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM0l2SHhBNEZxQkxwTlAxdGV0ZVp6TkxrdWw0aXU3akFLR05GX2VXbGFMWVo5U1hiWkV5UUdJQ2ZJMDNXcWhpMXN5OFV0STJOdjE5SXhhcm43OE9mQmxPU203aUxlR3BoeWp4MzVnZjJkVTBqVG5sajNacUFGbFZYWEVWMGgyTGhXdy04SjllZzN1YzNEQmlHSTZHbTFaWmMxZ1JXZw?oc=5",
+      "editorial_score": 9.81,
       "source_tier": "C"
     },
     {
@@ -60,16 +77,50 @@
       "tags": [
         "Economia"
       ],
-      "title": "Eleições parlamentares em curso na Rússia. Moscovo queixa-se de ataques a sistema online",
-      "summary": "O correspondente da RTP em Moscovo, Evgueny Mouravitch, descreve “falhas momentâneas” num sistema que “está a ser sobrecarregado”.",
+      "title": "Quanto podem valer as mexidas do Governo no IRS?",
+      "summary": "As taxas de IRS até ao sexto escalão descem.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-19T13:56:47+00:00",
+      "age_hours": 2.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/economia/quanto-podem-valer-as-mexidas-do-governo-no-irs_v1766479",
+      "editorial_score": 9.54,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Metade da população coloca medicamentos fora de prazo no lixo comum",
+      "summary": "É uma das práticas que mais poluem os solos e as águas.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-19T13:51:47+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/pais/metade-da-populacao-coloca-medicamentos-fora-de-prazo-no-lixo-comum_v1766477",
+      "editorial_score": 9.52,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Putin invoca Europa como ameaça crescente",
+      "summary": "Em momento de eleições parlamentares, Vladimir Putin diz à Rússia que a ameaça europeia está a crescer.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T12:01:38+00:00",
-      "age_hours": 0.7,
+      "published": "2026-09-19T13:48:47+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/eleicoes-parlamentares-em-curso-na-russia-moscovo-queixa-se-de-ataques-a-sistema-online_n1766465",
-      "editorial_score": 9.85,
+      "link": "https://www.rtp.pt/noticias/mundo/putin-invoca-europa-como-ameaca-crescente_v1766476",
+      "editorial_score": 9.52,
       "source_tier": "A"
     },
     {
@@ -77,102 +128,51 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Carta para atrair jovens? Cartaxo Alves minimiza \"pequenas ofertas\" e prefere retenção de militares",
-      "summary": "\"Quem quiser servir o seu país, quem quiser ter uma vida com um propósito, aí sim encontrará nas Forças Armadas algo superior a ele mesmo\", sustenta o chefe do Estado-Maior-General das Forças Armadas.",
+      "title": "Trump sanciona lei de guerra contra a Rússia, ameaça choque econômico global e tenta chantagear acordo na Ucrânia!! - plantaobrasil.net",
+      "summary": "Trump sanciona lei de guerra contra a Rússia, ameaça choque econômico global e tenta chantagear acordo na Ucrânia!! plantaobrasil.net",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-19T09:04:17+00:00",
-      "age_hours": 3.7,
+      "source": "plantaobrasil.net",
+      "published": "2026-09-19T14:15:00+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/carta-para-atrair-jovens-cartaxo-alves-minimiza-pequenas-ofertas-e-prefere-retencao-de-militares_n1766453",
-      "editorial_score": 9.23,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Arábia Saudita ativa alerta aéreo em Riade pela primeira vez desde agravamento do conflito no Iémen",
-      "summary": "Fortes explosões foram reportadas hoje em Riade, após as autoridades sauditas terem emitido um alerta aéreo pela primeira vez na capital do país desde o escalar do conflito contra rebeldes Huthis pró-iranianos no Iémen.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T08:45:11+00:00",
-      "age_hours": 4.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/arabia-saudita-ativa-alerta-aereo-em-riade-pela-primeira-vez-desde-agravamento-do-conflito-no-iemen_n1766438",
-      "editorial_score": 9.17,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RS3gxWFZNQ0NkbW9rMWcyZHR6TGExendhbDlRcURveVZleEZzRG0yT3Uya1JMU0pXeG5NVUVWdHQ0dW9HRmtwNFJqWXBxNmZYeDZWclc4RlBYckFOaWc?oc=5",
+      "editorial_score": 7.6,
+      "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
         "Segurança"
       ],
-      "title": "PAIGC repudia resolução do Comando Militar sobre mudança de sedes partidárias",
-      "summary": "O Partido Africano da Independência da Guiné e Cabo Verde (PAIGC) repudiou \"veementemente\" a resolução do Comando Militar que determina a mudança das sedes partidárias situadas a menos de 500 metros de órgãos de soberania.",
+      "title": "Espionagem. MI5 admite ter mentido em tribunal para proteger espião neonazi",
+      "summary": "É a primeira vez que o serviço de segurança interna e contraespionagem admite que foram contadas mentiras aos tribunais. Em causa está a defesa de um espião neonazi cujos crimes foram revelados pela BBC. O agente X, como ficou conhecido, usava a função de informador do MI5 para cometer abusos impunemente.",
       "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-18T10:43:03+00:00",
-      "age_hours": 26.0,
+      "published": "2026-09-18T14:33:19+00:00",
+      "age_hours": 25.6,
       "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/paigc-repudia-resolucao-do-comando-militar-sobre-mudanca-de-sedes-partidarias_n1766257",
-      "editorial_score": 8.44,
+      "link": "https://www.rtp.pt/noticias/mundo/espionagem-mi5-admite-ter-mentido-em-tribunal-para-proteger-espiao-neonazi_n1766290",
+      "editorial_score": 7.45,
       "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moody’s rebaixa nota de Moçambique para Caa3 por risco de reestruturação - Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "summary": "Moody’s rebaixa nota de Moçambique para Caa3 por risco de reestruturação Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "published": "2026-09-18T20:53:00+00:00",
-      "age_hours": 15.9,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc2hKT25jMms3bkY4UW1Vd2FqLUZneDNFN191OFdWU3hyS1cxVUctdlktZVBmQjFZaEprWjlNbGVFTVc3YUxabUphSjBlNTF5bFRmM3FwX0hIbm9FQWJHZC12YWV5U1ZkSVRzN2RWRkYtelB4NnVqaWttWGN1ZGVJY21kTjM3UXF1SGV4N3pwaXQ0U1ZrOWI3dUE5c0J6MVBtU2J4RG1nV1M3dGtwTHhPM3hyam5UY3JKdGZVSEU1Y3lXcjA?oc=5",
-      "editorial_score": 7.69,
-      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "IA"
       ],
-      "title": "Troca no comando da Solinftec sinaliza aposta em Inteligência Artificial - bra1.com.br",
-      "summary": "Troca no comando da Solinftec sinaliza aposta em Inteligência Artificial bra1.com.br",
+      "title": "A Semana na Imprensa - Inteligência Artificial pode dominar a internet? Especialistas divergem sobre os riscos - rfi.fr",
+      "summary": "A Semana na Imprensa - Inteligência Artificial pode dominar a internet? Especialistas divergem sobre os riscos rfi.fr",
       "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
       "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "bra1.com.br",
-      "published": "2026-09-19T10:42:00+00:00",
-      "age_hours": 2.1,
+      "source": "rfi.fr",
+      "published": "2026-09-19T14:06:52+00:00",
+      "age_hours": 2.0,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGlkc1JOQzZyNmlaUUEtQjkybjA3QnlNSm9reWVyaTlhWFRaTm5pWUw0Znd4SnNNV2ZzVm1ieC1pOEhCOVhMY0RuWG1HeDFlMWQxZUNqbk5OZjhlaU5jX2pBWFlTZERZZ2lXNW1RZ2xjTUxfZFV4Z0ExSEpkVk9ldk1kbHVON1dGanVyNmRnLV9Xak1wYW9NTlZ5MTlJdDloeEJjb1ozVEZfanRhZmFUUnAtLXdJNThl?oc=5",
-      "editorial_score": 6.56,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZERuTmM2RUNzanJybXdrTVJvOUtrY0c2Z2ZhbVlCRW1EMkRTVHRnLXgzSVg3U2tpV2JLMFB6NU5TNFp0WjdwOXNsM3FxbW1ydENZbXM3VFlmX3NJNlpZaldfRVdzQWFuZURmc3c5a2FzV1dJLUd3SGdzcW5odW9IcDNmSlRwUUpadkhRSGNLWG9yUGRSQzJLQjMxTXhHX1AxTDh3OW1SSS1lNjd5MFJxcVNzQ2FSY3hWb1Jrc09vUld5c2RhLS1GcWFjb09sQnBYaVMyaHF0UDktWVZWVFUteVNkRGp1R2c?oc=5",
+      "editorial_score": 6.58,
       "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Russos vão às urnas em eleições que deverão dar vitória ao partido de Putin",
-      "summary": "Estas são as primeiras eleições parlamentares desde que a Rússia lançou a sua ofensiva em grande escala contra a Ucrânia, em fevereiro de 2022.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-18T09:53:49+00:00",
-      "age_hours": 26.9,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/russos-vao-as-urnas-em-eleicoes-que-deverao-dar-vitoria-ao-partido-de-putin_n1766252",
-      "editorial_score": 6.41,
-      "source_tier": "A"
     }
   ],
   "watch": [
