@@ -1,9 +1,94 @@
 {
-  "updated_at": "2026-09-19T19:08:11.053988+00:00",
+  "updated_at": "2026-09-19T22:36:42.233675+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "64.º Open de Portugal at PGA Aroeira. Ex-campeão do Mundo Marc Warren aproxima-se do título",
+      "summary": "O escocês Marc Warren, antigo campeão do mundo de golfe, consolidou a liderança do 64.º Open de Portugal após a terceira volta, somando 191 pancadas (-22) e mantendo uma vantagem de três pancadas sobre o dinamarquês Sebastian Friedrichsen (-19). Warren assinou duas voltas consecutivas de 63 pancadas e segue como principal favorito à vitória no torneio disputado no PGA Aroeira Lisboa.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-19T21:46:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/64o-open-de-portugal-at-pga-aroeira-ex-campeao-do-mundo-marc-warren-aproxima-se-do-titulo_d1766557",
+      "editorial_score": 10.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "\"Deixem-se ficar\", presidente da Associação de Fundos de Investimento pede calma aos investidores perante aumento das taxas de juro e da inflação",
+      "summary": "A crise no Médio Oriente para já não está a ter impacto no investimento a longo prazo nos fundos de investimento.",
+      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-19T21:19:06+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/conversa-capital/deixem-se-ficar-presidente-da-associacao-de-fundos-de-investimento-pede-calma-aos-investidores-perante-aumento-das-taxas-de-juro-e-da-inflacao_v1766126",
+      "editorial_score": 10.73,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Legislativas na Rússia. Moscovo fala em vários ciberataques",
+      "summary": "Com quatro anos de guerra e uma fase de hostilidades intensas, os russos estão a votar para as legislativas.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-19T20:35:47+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/legislativas-na-russia-moscovo-fala-em-varios-ciberataques_v1766542",
+      "editorial_score": 10.58,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Trump anunciou acordo com Gronelândia e Dinamarca",
+      "summary": "Donald Trump anunciou um acordo que garante para sempre e em exclusivo aos Estados Unidos o controlo da segurança da Gronelândia.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-19T20:31:47+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/trump-anunciou-acordo-com-gronelandia-e-dinamarca_v1766541",
+      "editorial_score": 10.56,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Sociedade civil alerta para aumento da insegurança em Moçambique - MZNews",
+      "summary": "Sociedade civil alerta para aumento da insegurança em Moçambique MZNews",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "MZNews",
+      "published": "2026-09-19T16:27:32+00:00",
+      "age_hours": 6.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVBNaGtERnktcU9vWGpjR0RCTG1kU0FxODlZLVk0TVk3U3BnVDlSaC1GdTBHLWVEZUtkUC1kajgzekEwSnhzdHJ2ZW1EaWVMREZQRWRuX2Z2bVk1eDcwcFh6ZFFmRUk2c0dHaFNsVjI0bTJ1bFZTNmJPRXZWNjN1d0FscG9oRU40VzR2d3REQQ?oc=5",
+      "editorial_score": 9.71,
+      "source_tier": "C"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -15,44 +100,27 @@
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "O.Económico",
       "published": "2026-09-19T15:57:59+00:00",
-      "age_hours": 3.2,
+      "age_hours": 6.6,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWVHdTVTYlM2Q0FYeGtPRzh3RG1RUmQ0Zm92QjR6RlItN0I5dGgwdW9kYzFuVElvMmhLS2JwMDVjbktnOGpFTVI5WldMUldyOVR2eW4zdGlPbWhJdnhKVFlmOG5QSGhSREtTZDVhVVlvdS05djJHNmZSenNsQ2Q1UnZPSE9fQjg1Q2tHbnBGakJ4NnpSTXhQcndWMllOV1J0MXlnMmVidVdKc3Y5M19VeXdUMDBwRWh4MTJDUW1YcHE?oc=5",
-      "editorial_score": 10.33,
+      "editorial_score": 9.62,
       "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Leopardus tilcayo. Descoberto um novo felino na Bolívia",
-      "summary": "Um pequeno felino que vive nas florestas nubladas dos Yungas bolivianos foi identificado como uma nova espécie para a ciência. O animal recebeu o nome científico Leopardus tilcayo, preservando a designação utilizada há gerações pelas comunidades locais.",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T14:38:16+00:00",
-      "age_hours": 4.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/leopardus-tilcayo-descoberto-um-novo-felino-na-bolivia_n1766381",
-      "editorial_score": 10.06,
-      "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "AfD enche praça de Schwerin no encerramento de campanha eleitoral",
-      "summary": "Mais de um milhar de apoiantes da Alternativa para a Alemanha (AfD) encheram hoje a praça principal no centro histórico de Schwerin, no comício de encerramento das eleições estaduais de domingo em Mecklemburgo-Pomerânia Ocidental.",
+      "title": "Centeno critica Marcelo por ter dado posse a um Governo sem apoio parlamentar",
+      "summary": "Mário Centeno critica Marcelo Rebelo de Sousa por ter dado posse ao Governo de Luís Montenegro por não ter apoio parlamentar.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T17:18:18+00:00",
-      "age_hours": 1.8,
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-19T20:20:47+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/afd-enche-praca-de-schwerin-no-encerramento-de-campanha-eleitoral_n1766500",
-      "editorial_score": 9.62,
+      "link": "https://www.rtp.pt/noticias/politica/centeno-critica-marcelo-por-ter-dado-posse-a-um-governo-sem-apoio-parlamentar_v1766537",
+      "editorial_score": 9.52,
       "source_tier": "A"
     },
     {
@@ -66,62 +134,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-19T15:20:00+00:00",
-      "age_hours": 3.8,
+      "age_hours": 7.3,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmRyanJ3TUZHaW0xMjNiZjF6OUFEek5Jb0RuaUdLTnMtdEFEOXRvb0wyeEdiRjdOUnExWnUtenFXN1FqX2cwUXV0djJ1VUFocXctNUhTX205WV95LWxNQ1FheVZId01ldnYzQWxTeUs4UjliMVlrQlBRVDJiMVI4bW9BcWxJUEVFTjJNN1ZiNVo1bkM2WXZLMmpQM2NmNUVzN09Bdlc1RUVFc0ZaYlNWQVRXdUtjQ0FvZHdN?oc=5",
-      "editorial_score": 9.21,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique necessita de 4 MM$ para projecto de abastecimento de água e saneamento - MZNews",
-      "summary": "Moçambique necessita de 4 MM$ para projecto de abastecimento de água e saneamento MZNews",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "MZNews",
-      "published": "2026-09-19T15:11:42+00:00",
-      "age_hours": 3.9,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM0l2SHhBNEZxQkxwTlAxdGV0ZVp6TkxrdWw0aXU3akFLR05GX2VXbGFMWVo5U1hiWkV5UUdJQ2ZJMDNXcWhpMXN5OFV0STJOdjE5SXhhcm43OE9mQmxPU203aUxlR3BoeWp4MzVnZjJkVTBqVG5sajNacUFGbFZYWEVWMGgyTGhXdy04SjllZzN1YzNEQmlHSTZHbTFaWmMxZ1JXZw?oc=5",
-      "editorial_score": 9.19,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "Salário de até R$ 10 mil e muito mais: programas de estágio e trainee abrem 10,4 mil vagas de emprego; veja a lista - A Tribuna",
-      "summary": "Salário de até R$ 10 mil e muito mais: programas de estágio e trainee abrem 10,4 mil vagas de emprego; veja a lista A Tribuna",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "A Tribuna",
-      "published": "2026-09-19T17:16:00+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYVgtb1V5dzNjeHNmVG8xWnlGTElETmRCb0JPN3hzQ0JZWUoxU2NidHpHYjViRmhpSVpUSmZQdS1wbm1ybGJob3JHZzlZLTZTNzF3MWk1dEZTVlBiUjNOejFYdlM2M3U5OEVqQ2FGbGMydGY3MFplWmIyS1g4UFBuTHhCVXJBazcwRGt4aWE4clVSeEx4ZVBabWtkbEMtVlJQeThnNkVPYlJKS1U4SHY3Y0pwQ3dsMjRhTU1SLVNwTzFQWHBJT3lodks1QnpOMlh0R2lMT2ItTGRTQlU1SXdhZnNRX09sNDZsUXg1cTA2ejJ6OFhIRUkzNDFyTmJNRmtDLWVQLUl0Y0Q?oc=5",
-      "editorial_score": 8.6,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "EDM programa cortes de energia em oito províncias no Domingo - Integrity Magazine",
-      "summary": "EDM programa cortes de energia em oito províncias no Domingo Integrity Magazine",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Integrity Magazine",
-      "published": "2026-09-19T18:35:24+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44N216ZmowRE5MRnpxLUlPT2N6c1dHQ0RWMHVwYmttV1p5UHVwM1FMVFhCa1FXemp0aVk4aThueGdZVDZYMlJMZUN0QmlOaWVOS3hkbXZ5cTJzdw?oc=5",
-      "editorial_score": 7.9,
+      "editorial_score": 8.48,
       "source_tier": "C"
     },
     {
@@ -129,33 +145,33 @@
       "tags": [
         "Economia"
       ],
-      "title": "Ucrânia: dois mortos em Sumy, ataques contra infraestruturas logísticas em Kiev",
-      "summary": "Volodymyr Zelensky deuncia \"ataque desumano\" da Rússia em Summy que atingiu edíficio residencial. \"Pode haver pessoas presas nos escombros\", admite.",
+      "title": "Africanos cumprem agenda de negócios e turismo em Salvador - News BA",
+      "summary": "Africanos cumprem agenda de negócios e turismo em Salvador News BA",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-18T18:15:06+00:00",
-      "age_hours": 24.9,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/ucrania-dois-mortos-em-sumy-ataques-contra-infraestruturas-logisticas-em-kiev_n1766364",
-      "editorial_score": 7.47,
-      "source_tier": "A"
+      "source": "News BA",
+      "published": "2026-09-19T15:52:37+00:00",
+      "age_hours": 6.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXy0yN2lSUmNISXFsVk56elJNVWcyQmdlN002UkJabUZfQmVCS1JFSTMxSk9OOV9Sd1dGa0pOcEZlV3FWM1M4bTZKcG5OMlJvQVR3NkRoN1lSTVFJNG1FQk0yR0s0S0JUSmxUWDdjZTljSUVwSF9UVmFDQlJiSVNSS2N1R1RJWUxGQmVybUgxMVo1WjUwVm0w?oc=5",
+      "editorial_score": 7.6,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "IA"
       ],
-      "title": "Trump sanciona lei de guerra contra a Rússia, ameaça choque econômico global e tenta chantagear acordo na Ucrânia!! - plantaobrasil.net",
-      "summary": "Trump sanciona lei de guerra contra a Rússia, ameaça choque econômico global e tenta chantagear acordo na Ucrânia!! plantaobrasil.net",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "plantaobrasil.net",
-      "published": "2026-09-19T14:15:00+00:00",
-      "age_hours": 4.9,
+      "title": "Trump cria enquete para mudar termo inteligência artificial: 'IA é impreciso e pouco elegante' - oglobo.globo.com",
+      "summary": "Trump cria enquete para mudar termo inteligência artificial: 'IA é impreciso e pouco elegante' oglobo.globo.com",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "oglobo.globo.com",
+      "published": "2026-09-19T20:23:52+00:00",
+      "age_hours": 2.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RS3gxWFZNQ0NkbW9rMWcyZHR6TGExendhbDlRcURveVZleEZzRG0yT3Uya1JMU0pXeG5NVUVWdHQ0dW9HRmtwNFJqWXBxNmZYeDZWclc4RlBYckFOaWc?oc=5",
-      "editorial_score": 6.98,
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS0N1b2ppdm1mcThBX2pGaXJiMlVNeTZIbHFRX1gyNnhQODJxTERYN2U1d3JtZ1JTTHM0SDY0Mks5XzJfQTBHb1pLUUUyR2hqQk9UQ21KMDNpWWdBMVFzTDBNZzBqU1lwU0VyaEFjNERST0JxVkRzczB3aFMxYUhpdzhySlVUSGZzRWJPbmptSmVxUnd3QzIwWEt2amhvZDJDRDZNNk5JU0tOU3RzV05aalF2aHk5NV92Qnc0S0Itd21qUkpiQmN5Vm56ZEhndVR3MjN4dnYtRURMdUJkT1BYRGcxQnhrczZOaWVFWUtRSUlfMnPSAYICQVVfeXFMT25kaURfMGtLZF8wMk4zZmFQUkdjNDdUbnlHaVdFQkIzZnltY0pvU01mX0xoOG9zZjZDNjRfOERxVkQ4ckFzMm1RSVVMS0REajkzUk0zX1htQ3lvay0wckhzRVh4bFZhYzZnNFg5OVVsSzB0TlY3YnlaN2d1ZEMzMWNCQm5rM0pVbXZ1X2FTRXptaEZrRTFvbDhhVkR2VGJTaVo0QjV4TmFWRGRMd2ZvUmlQRThRWjNFVlYyR1N5OEdoUHlWSnp1cGp6QVlJOENUR3NLNVQwUWJlT0hMRjBhZDZvUi1XYW1JdV9RRkZRN0pDUnJYUHNRV21rOVZCdms0amJB?oc=5",
+      "editorial_score": 6.54,
       "source_tier": "C"
     }
   ],
@@ -177,7 +193,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 5,
+    "Mundo": 6,
     "África": 2,
     "Moçambique": 2
   },
