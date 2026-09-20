@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:36:46.768770+00:00",
+  "updated_at": "2026-09-20T09:34:59.187834+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,156 +7,86 @@
     {
       "section": "Mundo",
       "tags": [
-        "IA",
-        "Segurança"
+        "Energia"
       ],
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "why": "Technology is reshaping productivity, regulation and business models.",
-      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
+      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+      "summary": "An oil refinery was also hit in the Russian capital and flights were suspended at two airports.",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "BBC World",
-      "published": "2026-09-19T21:01:56+00:00",
-      "age_hours": 1.6,
+      "published": "2026-09-20T08:41:36+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 12.67,
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 10.81,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Energia"
       ],
-      "title": "Canadians warm to EU ‘associate membership’ proposal",
-      "summary": "From work and study to trade, Canadians see new possibilities in closer ties with the European Union.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-19T19:53:55+00:00",
-      "age_hours": 2.7,
+      "title": "Russia: Ukrainian drone strike on Moscow kills 2",
+      "summary": "An oil refinery was hit in one of the largest attacks so far on the Russian capital, as the country holds a parliamentary election. Meanwhile, at least four people were killed in Russian strikes in Ukraine's Kyiv region.",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "DW English",
+      "published": "2026-09-20T08:37:00+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/19/canadians-warm-to-eu-associate-membership-proposal?traffic_source=rss",
-      "editorial_score": 11.44,
+      "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 10.79,
       "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-      "summary": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-19T20:13:56+00:00",
-      "age_hours": 2.4,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
-      "editorial_score": 10.5,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-      "summary": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-19T20:03:23+00:00",
-      "age_hours": 2.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-      "editorial_score": 10.46,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Tanzania’s power boom now depends on the grid - Business Insider Africa",
-      "summary": "Tanzania’s power boom now depends on the grid Business Insider Africa",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Business Insider Africa",
-      "published": "2026-09-19T20:44:15+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV3hOaW9CZTU1SDJEUGpaUjlIVEU1aUdJaEh5VlRpcFhkT3phcDVZNHNtcVBxUDhnUm9PdGtKVG5CQW9INEJ2b0JhVWFoeEFTQnBMMzNuV0pvYm9aWGNYamZCa2lVZXUwX3FHNnFrQW42dFhwZVhIT3NMYXVaZHpXSmJYazRDRy02em5nbTByMl9pbG9MbldMOGcza041djNBWlM0?oc=5",
-      "editorial_score": 9.6,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Africa must strengthen cross-border communication to boost trade, fintech growth – AMA - Ghana News Agency",
-      "summary": "Africa must strengthen cross-border communication to boost trade, fintech growth – AMA Ghana News Agency",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Ghana News Agency",
-      "published": "2026-09-19T20:21:07+00:00",
-      "age_hours": 2.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVdfakhCSi1RTHlSNmIxWjZwc1p6VXg2X3FMUmFuVUVlTlBpcE9EYmx1T1YwWUdTbm0ySVhxWXd6OUl3Q3JubkwxSjRkVHhicTQ5ektnakc2dGNUZEpaQk9xakpXMHhQQlRoRVVUYXlDUmZKRFd0OVlVQWVHZDJnSDlrNlRmam9rYTYwYWxpUTI1bWllSWpOM3c1ZHhOMFhwbEpXVlRtN3Nrd3oySzlSeg?oc=5",
-      "editorial_score": 9.52,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mozambique Families Turn Social Protection Into Jobs, Food Security and Climate Resilience - Devdiscourse",
-      "summary": "Mozambique Families Turn Social Protection Into Jobs, Food Security and Climate Resilience Devdiscourse",
-      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
-      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
-      "source": "Devdiscourse",
-      "published": "2026-09-19T06:51:19+00:00",
-      "age_hours": 15.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc2lPQ244SmJramMwSC1SOUVWT0kyOVRlYk9tSm0yOG9oZk5KV3l6TUpubGFqTnpscEVUNWo5emQwaHV3NmFMcDJuVXN5ekdVclB6WDJIdTRWWVdDbzFXSUg0OGgyUXpxMmlkQ1BpTnpqTHlfNmx3aG9HYTBRc09SOU9RVmhwVnNiSVcwcEItYVJuT0VpdUMzMlZ0MW1CWXM0SGNIeWxicDVWMjFRaE5OS3BXT2N4Mlp6LXNMb3RyWG43Q3M2QjJBNzdJN0JwTEtHeEktem1VTDNTZnlON2tsRdIB4AFBVV95cUxNc2lPQ244SmJramMwSC1SOUVWT0kyOVRlYk9tSm0yOG9oZk5KV3l6TUpubGFqTnpscEVUNWo5emQwaHV3NmFMcDJuVXN5ekdVclB6WDJIdTRWWVdDbzFXSUg0OGgyUXpxMmlkQ1BpTnpqTHlfNmx3aG9HYTBRc09SOU9RVmhwVnNiSVcwcEItYVJuT0VpdUMzMlZ0MW1CWXM0SGNIeWxicDVWMjFRaE5OS3BXT2N4Mlp6LXNMb3RyWG43Q3M2QjJBNzdJN0JwTEtHeEktem1VTDNTZnlON2tsRQ?oc=5",
-      "editorial_score": 8.71,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "South Africa 10-Year Bond Yield Edges Higher To 8.83% - MarketForces Africa",
-      "summary": "South Africa 10-Year Bond Yield Edges Higher To 8.83% MarketForces Africa",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "MarketForces Africa",
-      "published": "2026-09-19T20:18:04+00:00",
-      "age_hours": 2.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlYzV3A1VHAyY2dIcXg1VkN5MER1dE5WeTNfQlJhdnRQRnhLeDB4Q3NQMVhvbzVId1RidUpYbVhkRnJjTkxzdE9IMTNzZnJ4Nk1MdWRHWXJ4dTJCdTFnNmQ4em0yS05PLVppUUxZQ082SzdiZzZ2TXlZNzVuX05GYXZtTEI2dw?oc=5",
-      "editorial_score": 8.52,
-      "source_tier": "C"
     },
     {
       "section": "Moçambique",
       "tags": [
         "Economia"
       ],
-      "title": "Data governance and digital trust identified as drivers of business competitiveness in Mozambique - Tech Review Africa",
-      "summary": "Data governance and digital trust identified as drivers of business competitiveness in Mozambique Tech Review Africa",
+      "title": "TotalEnergies faces legal scrutiny over Mozambique attack response - tradersunion.com",
+      "summary": "TotalEnergies faces legal scrutiny over Mozambique attack response tradersunion.com",
       "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
       "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
-      "source": "Tech Review Africa",
-      "published": "2026-09-19T06:20:35+00:00",
-      "age_hours": 16.3,
+      "source": "tradersunion.com",
+      "published": "2026-09-20T04:24:15+00:00",
+      "age_hours": 5.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZGtWSnJJY290Qk1WYzFJQ1BLTG1MMjFZYzEzd1g5aG1PcGNQN2ZBbHZ3WnU5Rl9XUVkyRDVxUk9qY0NrYVRvWXIwMG44bHBCZXowNG1GMlpTQi01OWFubzdvRmlaQTg0SnItWWtOYnNITm8tclNxeC1LZzktMDBWX05PRzRaamx1Sm84bHlRcWZVREtRMFA2UjZLUzJ5Y3hQdXJ2VlRKbldMakx2dmtVVWg4N3dOdzl2WGhuX0tieS1kaUVwTFNJclJFVV9tNXVoWEE?oc=5",
-      "editorial_score": 7.6,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXB3OWh4RE5DXzBZYnVfUW93cDZld0lJcjhlenNiUFNqRkxOMXZVeXZhRkE2NXlsd2NlMm9BTVJjb2JnZDdTR2MxTkNWbGllMFUwYWEzUnp2ekpocElZLUVzUzRQWVZKeTIzQWtYUlZlT2Jtd1ZuTzJvYk8tbFhrOVRUemtMQmx6dS1HZUJLVURjS09qWTV2S2ctVkIwYWs?oc=5",
+      "editorial_score": 9.92,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "R420,000 job scam exposes ugly side of South Africa’s unemployment crisis - IOL",
+      "summary": "R420,000 job scam exposes ugly side of South Africa’s unemployment crisis IOL",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "IOL",
+      "published": "2026-09-20T08:35:18+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQejNWUjVqTWJXb2dPbDFzSEdMT01VWkR5X2QzV3daNjBJa0dJQUhZbEkzN19xMUIwQjVNSlhvMFZkczRWQlFGRUpKOFVQNVZVdmhIdU5QWG9HbXhvYWd3TmxSNkhjUmt6b1I0SXkwZ0VVMDlfcDNKR2RHNmZZd0c1eUktQmdJMk9BODlzbmh5bFUwNXlReHMybFBmTWxPYXYwalRYaFZJeDFaeFdhM3VlX3VxcG4yUXBCMGNBWlNzTk5VSTh2RXpNeG1OQXh3Zw?oc=5",
+      "editorial_score": 9.79,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "What South Africa’s economic headlines told us this week - Cape Times",
+      "summary": "What South Africa’s economic headlines told us this week Cape Times",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "Cape Times",
+      "published": "2026-09-20T08:28:45+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OTk5kb2V1aERuQkFYSVVUNGFidzJHVFdRVzhKdExENi04V3RkVUFNUnJ2ZzBDSGVhZkVRSElLajN2MXNjR3R3djhDMmNBUnItUFlkaG1jRXBaSEFDVHpLNktlVG9VNlBweVY4?oc=5",
+      "editorial_score": 9.77,
       "source_tier": "C"
     },
     {
@@ -164,17 +94,68 @@
       "tags": [
         "Economia"
       ],
-      "title": "Trump-Xi Showdown Casts a Shadow Over the Global Economy - Bloomberg.com",
-      "summary": "Trump-Xi Showdown Casts a Shadow Over the Global Economy Bloomberg.com",
+      "title": "Trump-Xi showdown casts a shadow over the global economy - BusinessLine",
+      "summary": "Trump-Xi showdown casts a shadow over the global economy BusinessLine",
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Bloomberg.com",
-      "published": "2026-09-19T20:00:00+00:00",
-      "age_hours": 2.6,
+      "source": "BusinessLine",
+      "published": "2026-09-20T08:46:17+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVUJfNVhNNWFzZllHa2x4bFJva2tSdDB6MU9Bd1hKYWxxM3o1S0VudFdkOXhlbkZla2hvcTl0cVJtdmpyR3hkM29rWll1OVpVVmJIX3R0dThxQmEwM1E3RkFEdEVGeE9UZGxtdlcwa1JOVVBmQTQ4TVMxZ1gxQVRia0lFSkdlMElqckluSkFISFVGNWJLcHpqY054RFhUTU5JQno5enFSTjh6aFZuMUNrX0QyVFhkaTA?oc=5",
-      "editorial_score": 7.46,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWMtTnc4Q2tFV1NqTkF1UDJYZDJhN0tMUGFBdURXNFd6X1VJOE1aVFBqeXlQdktvQWtpd0xsTXNyZXEway1uQ1F5SWRwS0Nocy1PWTBPb0t4Vm4zWFEtNlVGNGUySHh5ZzVUbVZ3a2RjQTdBVW5RbWxNRXVyU1V1WHZ1cVdtUW9JVlQ4RVIxZ0FaaWxMenVwY3dGZXhFVzNUTWNkTnFFWEtOU1RkR2NsWHNOUFlEeER1dEZfUzAybUl5d9IByAFBVV95cUxPZW8yWnAyZjQxWk12TlpsdHpweW81WktJZUVta1NmaDh1aEdKeHI4S01QYl9BOW5Pb2pEOWlwdzFraWJFbm52OXpnYVlGTE92SVlHU0RLaHAzWU9NZ00yWFlRamh1dUZxOFozVzRpZmRJN3F0Mk56U2lmTDIxTDVLMjZadGdPcWVRMGpMNmhseWxyaHdWbHMwYzlFNWtNdUc5V3haZ0NiY2RpNEsxU2tIb1I5UEVzNmxmM0JNOGdoWU9nYWUyNW1oQQ?oc=5",
+      "editorial_score": 8.83,
       "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Trump and sons invest heavily in AI economy as he resists calls for slowdown - The Washington Post",
+      "summary": "Trump and sons invest heavily in AI economy as he resists calls for slowdown The Washington Post",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "The Washington Post",
+      "published": "2026-09-20T09:02:09+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLURDOVB2MENaVU53R2RPWkxhVlQ1bkZkUVYyME1ZMEYtY0duUzVPMVR5ay1sMjd0VmQya1JmTE54TGw1RXZHWW4tRC0yY3JSRHBZUjlfSkRHSUdkQTQ0ODdUcGRjd051aHhZbGVUMDVsLTZJMXNUNEs3YXJZNFR0VWIzdm13Tk1MeGFXc0ZNX3JyU19zU2JNQmNWczRaMmlKcWhNckpsWi1SNms1ZmVTUjk5NXBrR05FSVA0?oc=5",
+      "editorial_score": 7.9,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "US, China to discuss AI, trade, and rare earths ahead of Trump-Xi summit - The News International",
+      "summary": "US, China to discuss AI, trade, and rare earths ahead of Trump-Xi summit The News International",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "The News International",
+      "published": "2026-09-20T08:49:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGVweG5ITGdtX0p4NzJoYnl1Q2pRZWJfcDFSN1VYajFSbS14bk1hbUEyUVNsNk9lNEdWM2hIZ21jUGpXRjkxQlJmcFJYOW5kQnNPTTV4T1A2VnZfaHBRVnhSRVF5Rng2TEJIY0RMR0s3SW51R3cxUWxZNmpOUGNBaHNYakIxUGYtdHVrTUhiTkMtWkt5c1VrVVNBb2pCQUdpMEtUeXJYZjUxVkhUSEZsONIBrAFBVV95cUxNdmVNU2ZyZnhxUmQ5STU5VVNoUXBNSXNaUHU0NGlxLU80cnJQZkFrRWRXZEVrcy00U2JqdGtSUnhyRmI0RDdHZW9zWlBaVldGMmJhRzF5dzdodVp5SUhyNVl5U1l1c0hJWS0zTzduUWRRTW41WHBHNUdDalhPRDVnbE9oSkpHS1QtVEdyV21kcGpyQnhkQ093UjR3Qm5pbTAyOVVySUc1bHBkYW9k?oc=5",
+      "editorial_score": 7.83,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mecklenburg-Western Pomerania: SPD seeks to fend off AfD",
+      "summary": "For nearly three decades, the Social Democrats have governed Germany's northeastern state. If they can fend off the AfD, the result may boost the fortunes of the German government's junior coalition partner.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "DW English",
+      "published": "2026-09-19T06:46:00+00:00",
+      "age_hours": 26.8,
+      "within_24h": false,
+      "link": "https://www.dw.com/en/mecklenburg-western-pomerania-spd-seeks-to-fend-off-afd/a-79330234?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 6.41,
+      "source_tier": "A"
     }
   ],
   "watch": [
@@ -196,7 +177,7 @@
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
     "Mundo": 5,
-    "África": 3,
+    "África": 2,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:36:42.233675+00:00",
+  "updated_at": "2026-09-20T09:34:53.515383+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -9,16 +9,33 @@
       "tags": [
         "Segurança"
       ],
-      "title": "64.º Open de Portugal at PGA Aroeira. Ex-campeão do Mundo Marc Warren aproxima-se do título",
-      "summary": "O escocês Marc Warren, antigo campeão do mundo de golfe, consolidou a liderança do 64.º Open de Portugal após a terceira volta, somando 191 pancadas (-22) e mantendo uma vantagem de três pancadas sobre o dinamarquês Sebastian Friedrichsen (-19). Warren assinou duas voltas consecutivas de 63 pancadas e segue como principal favorito à vitória no torneio disputado no PGA Aroeira Lisboa.",
+      "title": "Uma pessoa morreu em tiroteio no Bairro da Serafina em Lisboa",
+      "summary": "Uma pessoa morreu num tiroteio no Bairro da Serafina, em Lisboa, disse à agência Lusa fonte da Polícia de Segurança Pública.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-19T21:46:00+00:00",
-      "age_hours": 0.8,
+      "published": "2026-09-20T08:09:49+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/64o-open-de-portugal-at-pga-aroeira-ex-campeao-do-mundo-marc-warren-aproxima-se-do-titulo_d1766557",
-      "editorial_score": 10.83,
+      "link": "https://www.rtp.pt/noticias/pais/uma-pessoa-morreu-em-tiroteio-no-bairro-da-serafina-em-lisboa_n1766565",
+      "editorial_score": 10.71,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Marc Warren luta na Aroeira pelo terceiro título do Challenge Tour",
+      "summary": "O golfista escocês Marc Warren é o principal candidato à vitória no Open de Portugal, que termina hoje no PGA Aroeira 1, em Almada, onde os portugueses Tomás Gouveia e Tomás Bessa vão tentar ascender ao `top 10`.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-20T07:52:06+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/marc-warren-luta-na-aroeira-pelo-terceiro-titulo-do-challenge-tour_d1766583",
+      "editorial_score": 10.65,
       "source_tier": "A"
     },
     {
@@ -26,50 +43,50 @@
       "tags": [
         "Economia"
       ],
-      "title": "\"Deixem-se ficar\", presidente da Associação de Fundos de Investimento pede calma aos investidores perante aumento das taxas de juro e da inflação",
-      "summary": "A crise no Médio Oriente para já não está a ter impacto no investimento a longo prazo nos fundos de investimento.",
+      "title": "Dois Estados alemães vão a votos com extrema-direita a subir",
+      "summary": "Os eleitores dos Estados alemães de Berlim e Mecklemburgo-Pomerânia Ocidental votam hoje para decidir os próximos parlamentos estaduais, numas eleições que deverão ficar marcadas pela subida da Alternativa para a Alemanha (AfD, extrema-direita).",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-20T07:57:42+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/dois-estados-alemaes-vao-a-votos-com-extrema-direita-a-subir_n1766580",
+      "editorial_score": 9.67,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo defende que BCE deve \"atuar com cuidado\" na resposta à inflação",
+      "summary": "O ministro das Finanças defende que o Banco Central Europeu (BCE) deve atuar \"com cuidado\" face às pressões sobre os preços, considerando a situação diferente da crise inflacionista de 2022 por resultar de um choque da oferta.",
       "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
       "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-19T21:19:06+00:00",
-      "age_hours": 1.3,
+      "published": "2026-09-20T07:44:36+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/conversa-capital/deixem-se-ficar-presidente-da-associacao-de-fundos-de-investimento-pede-calma-aos-investidores-perante-aumento-das-taxas-de-juro-e-da-inflacao_v1766126",
-      "editorial_score": 10.73,
+      "link": "https://www.rtp.pt/noticias/economia/governo-defende-que-bce-deve-atuar-com-cuidado-na-resposta-a-inflacao_n1766584",
+      "editorial_score": 9.62,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Legislativas na Rússia. Moscovo fala em vários ciberataques",
-      "summary": "Com quatro anos de guerra e uma fase de hostilidades intensas, os russos estão a votar para as legislativas.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T20:35:47+00:00",
-      "age_hours": 2.0,
+      "title": "Governo estima que Portugal continuará a ter \"excedente reduzido\" no próximo ano",
+      "summary": "O Governo prevê que as contas públicas portuguesas continuem a registar um \"saldo positivo reduzido\" em 2027, porém inferior ao excedente de 0,7% do Produto Interno Bruto (PIB) alcançado em 2025, indica o ministro das Finanças à Lusa.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-20T07:44:22+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/legislativas-na-russia-moscovo-fala-em-varios-ciberataques_v1766542",
-      "editorial_score": 10.58,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Trump anunciou acordo com Gronelândia e Dinamarca",
-      "summary": "Donald Trump anunciou um acordo que garante para sempre e em exclusivo aos Estados Unidos o controlo da segurança da Gronelândia.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T20:31:47+00:00",
-      "age_hours": 2.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/trump-anunciou-acordo-com-gronelandia-e-dinamarca_v1766541",
-      "editorial_score": 10.56,
+      "link": "https://www.rtp.pt/noticias/economia/governo-estima-que-portugal-continuara-a-ter-excedente-reduzido-no-proximo-ano_n1766585",
+      "editorial_score": 9.62,
       "source_tier": "A"
     },
     {
@@ -82,11 +99,11 @@
       "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "MZNews",
-      "published": "2026-09-19T16:27:32+00:00",
-      "age_hours": 6.2,
+      "published": "2026-09-19T16:30:44+00:00",
+      "age_hours": 17.1,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVBNaGtERnktcU9vWGpjR0RCTG1kU0FxODlZLVk0TVk3U3BnVDlSaC1GdTBHLWVEZUtkUC1kajgzekEwSnhzdHJ2ZW1EaWVMREZQRWRuX2Z2bVk1eDcwcFh6ZFFmRUk2c0dHaFNsVjI0bTJ1bFZTNmJPRXZWNjN1d0FscG9oRU40VzR2d3REQQ?oc=5",
-      "editorial_score": 9.71,
+      "editorial_score": 7.44,
       "source_tier": "C"
     },
     {
@@ -100,28 +117,29 @@
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "O.Económico",
       "published": "2026-09-19T15:57:59+00:00",
-      "age_hours": 6.6,
+      "age_hours": 17.6,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWVHdTVTYlM2Q0FYeGtPRzh3RG1RUmQ0Zm92QjR6RlItN0I5dGgwdW9kYzFuVElvMmhLS2JwMDVjbktnOGpFTVI5WldMUldyOVR2eW4zdGlPbWhJdnhKVFlmOG5QSGhSREtTZDVhVVlvdS05djJHNmZSenNsQ2Q1UnZPSE9fQjg1Q2tHbnBGakJ4NnpSTXhQcndWMllOV1J0MXlnMmVidVdKc3Y5M19VeXdUMDBwRWh4MTJDUW1YcHE?oc=5",
-      "editorial_score": 9.62,
+      "editorial_score": 7.33,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
+        "IA",
         "Economia"
       ],
-      "title": "Centeno critica Marcelo por ter dado posse a um Governo sem apoio parlamentar",
-      "summary": "Mário Centeno critica Marcelo Rebelo de Sousa por ter dado posse ao Governo de Luís Montenegro por não ter apoio parlamentar.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-19T20:20:47+00:00",
-      "age_hours": 2.3,
+      "title": "Ilhabela oferece curso gratuito e presencial de Inteligência Artificial aplicada para negócios - PortalR3",
+      "summary": "Ilhabela oferece curso gratuito e presencial de Inteligência Artificial aplicada para negócios PortalR3",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "PortalR3",
+      "published": "2026-09-20T08:47:02+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/politica/centeno-critica-marcelo-por-ter-dado-posse-a-um-governo-sem-apoio-parlamentar_v1766537",
-      "editorial_score": 9.52,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0FHeU5BVzN6QjFEQndBZk00UUZwTUNOUVlDUzZHelJxT0NUWk5oY3FvYjE5OWl6SW1Za2o4UEdmSXhIcjY2RGpZaHZXVGVtU29zWnA4V0s4NEIyU1E3czBpaFhqRS1YeGFyYXZ2Z0JGUy1HVmRNRGpxMHpuZ24yUnF1VjNtSWxsV1JCaGRjWk9zT2FZM0h0QzJPLWo3VXRuZWZJUUxwQ0l2V0hMZlloZW1uVzNyUTlZV3dnNktxYUFuWmlJX2tYZ1lETmxmUQ?oc=5",
+      "editorial_score": 6.83,
+      "source_tier": "C"
     },
     {
       "section": "África",
@@ -134,10 +152,10 @@
       "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-19T15:20:00+00:00",
-      "age_hours": 7.3,
+      "age_hours": 18.2,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmRyanJ3TUZHaW0xMjNiZjF6OUFEek5Jb0RuaUdLTnMtdEFEOXRvb0wyeEdiRjdOUnExWnUtenFXN1FqX2cwUXV0djJ1VUFocXctNUhTX205WV95LWxNQ1FheVZId01ldnYzQWxTeUs4UjliMVlrQlBRVDJiMVI4bW9BcWxJUEVFTjJNN1ZiNVo1bkM2WXZLMmpQM2NmNUVzN09Bdlc1RUVFc0ZaYlNWQVRXdUtjQ0FvZHdN?oc=5",
-      "editorial_score": 8.48,
+      "editorial_score": 6.21,
       "source_tier": "C"
     },
     {
@@ -151,27 +169,10 @@
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "News BA",
       "published": "2026-09-19T15:52:37+00:00",
-      "age_hours": 6.7,
+      "age_hours": 17.7,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXy0yN2lSUmNISXFsVk56elJNVWcyQmdlN002UkJabUZfQmVCS1JFSTMxSk9OOV9Sd1dGa0pOcEZlV3FWM1M4bTZKcG5OMlJvQVR3NkRoN1lSTVFJNG1FQk0yR0s0S0JUSmxUWDdjZTljSUVwSF9UVmFDQlJiSVNSS2N1R1RJWUxGQmVybUgxMVo1WjUwVm0w?oc=5",
-      "editorial_score": 7.6,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Trump cria enquete para mudar termo inteligência artificial: 'IA é impreciso e pouco elegante' - oglobo.globo.com",
-      "summary": "Trump cria enquete para mudar termo inteligência artificial: 'IA é impreciso e pouco elegante' oglobo.globo.com",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "oglobo.globo.com",
-      "published": "2026-09-19T20:23:52+00:00",
-      "age_hours": 2.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPS0N1b2ppdm1mcThBX2pGaXJiMlVNeTZIbHFRX1gyNnhQODJxTERYN2U1d3JtZ1JTTHM0SDY0Mks5XzJfQTBHb1pLUUUyR2hqQk9UQ21KMDNpWWdBMVFzTDBNZzBqU1lwU0VyaEFjNERST0JxVkRzczB3aFMxYUhpdzhySlVUSGZzRWJPbmptSmVxUnd3QzIwWEt2amhvZDJDRDZNNk5JU0tOU3RzV05aalF2aHk5NV92Qnc0S0Itd21qUkpiQmN5Vm56ZEhndVR3MjN4dnYtRURMdUJkT1BYRGcxQnhrczZOaWVFWUtRSUlfMnPSAYICQVVfeXFMT25kaURfMGtLZF8wMk4zZmFQUkdjNDdUbnlHaVdFQkIzZnltY0pvU01mX0xoOG9zZjZDNjRfOERxVkQ4ckFzMm1RSVVMS0REajkzUk0zX1htQ3lvay0wckhzRVh4bFZhYzZnNFg5OVVsSzB0TlY3YnlaN2d1ZEMzMWNCQm5rM0pVbXZ1X2FTRXptaEZrRTFvbDhhVkR2VGJTaVo0QjV4TmFWRGRMd2ZvUmlQRThRWjNFVlYyR1N5OEdoUHlWSnp1cGp6QVlJOENUR3NLNVQwUWJlT0hMRjBhZDZvUi1XYW1JdV9RRkZRN0pDUnJYUHNRV21rOVZCdms0amJB?oc=5",
-      "editorial_score": 6.54,
+      "editorial_score": 5.31,
       "source_tier": "C"
     }
   ],
