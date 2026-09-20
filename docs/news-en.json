@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T13:17:59.316637+00:00",
+  "updated_at": "2026-09-20T16:33:09.799890+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,19 +7,123 @@
     {
       "section": "África",
       "tags": [
+        "Energia",
         "Economia",
         "Segurança"
       ],
-      "title": "Towards meaningful benefit-sharing in natural resource use in Africa - Business and Human Rights Centre",
-      "summary": "Towards meaningful benefit-sharing in natural resource use in Africa Business and Human Rights Centre",
+      "title": "UAE-Africa trade tops $107b as investments near $150b: Anwar Gargash - Gulf News",
+      "summary": "UAE-Africa trade tops $107b as investments near $150b: Anwar Gargash Gulf News",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Gulf News",
+      "published": "2026-09-20T16:26:02+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZE9OTmgwWF9Jbmk5OXJsYk9Bd1VGTEgyZ0gwaTdQcVk0WndXSW43ejkwMHNJOUtnVDE4eXVtVjlqX2hJdF9ab0VNZTViMVZfbTJMTUgyWkVaZG9TQVQxM2hCLWtTa1hEMGN4MTNaWXh3R19OQ0VFSG5rN3lmcF9WcFhiTkRvRzZDeEdUb1poZFpqSHNaZW9yNjlNbmdOUUhidVU0R0NweXNMR3RJU2RXaHZiONIBxgFBVV95cUxNaDNURmhScnZaYnJfc0tvY3VZZVoycU91dzZxNFp1MUpXNVBMMUZIMWNycVpaZ1VOWFdZclpqZ1FOb080dkhGVFJfREJnenp1ck1Zc1JaUGh0bXlKby1EQ21JZ24taHpCWnViMWgtbEVTeDJKdE92dUxPSkNFSHhpNW9CY0FEYXlhZE1fcS13UUt0LV9VZERSeExjT2VBYWhFNVlCSE1SY1U3YUdQNnNpOXZvTUxRSWVtSDlyTl9la1lrMG5EUWc?oc=5",
+      "editorial_score": 12.98,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Iran war revives U.S. energy bet in Mozambique despite Islamic State threat - Washington Times",
+      "summary": "Iran war revives U.S. energy bet in Mozambique despite Islamic State threat Washington Times",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Washington Times",
+      "published": "2026-09-20T14:45:03+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkhnMkExTVRJUmZVblJCZGxNeUJKbG91aFRWMGVqVHZ6SHNhX21mZEw1dXB3VHlvMDhFUFlpS01INUlNMkU5bGQ5blBkOHVnX1A0eTYxb0FueDNJb0dTSVRMOTFNb1o5UkNjSHFDanRRRlpRU3g1cWxBWERZcnQwWVlQR0VjbTZ3S1htTGhIY3pHOVdRVng3ZW1zbFQ3UGRyNW1JZzgtRWtycnZESDRuTlU0bw?oc=5",
+      "editorial_score": 11.62,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "UN chief calls for permanent Security Council seats for Africa — Anadolu Agency - UA.NEWS",
+      "summary": "UN chief calls for permanent Security Council seats for Africa — Anadolu Agency UA.NEWS",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Business and Human Rights Centre",
-      "published": "2026-09-20T10:11:18+00:00",
-      "age_hours": 3.1,
+      "source": "UA.NEWS",
+      "published": "2026-09-20T16:23:28+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQW96aWpsZ0JVSFM1VVJJbWgydkZvVzlsRl9IMVBFQ1dwZ0VseXBnSEJNRWFYY0JQSjNfeUxMeWxSY1c2clhIc3lsRWtTYU1BT2lVNXJxTm9EUnZQTzBxT3pwcHIxbWt1V3JkS2plejZDMlBud2d3azNjT2FETHB2N25FS25xYnp0NlNLeER0bjlTNmxxV3pRS19jNWlYT1dsZWJha2RGMnl1anFObnprSjZZbk83ZEVzQUpfLXFsdk1CeFBaZkE?oc=5",
-      "editorial_score": 10.35,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFdCblJ2MXVtcHVld3cwalRwckIycmZsenZ5eXNIOHYwMERPdTJsUk01dkRiZjFaMVVnaERTLXdNQk5pV1NDeW0yTnRmT21RcWVvRDhsbl9YZlZLbG9ZZEMzbURNVGJRVllmVTdKRTdhdERrSWJqWGFSQVBvbFNiRm1CNmN6QnZYbjZCQ2M0dmlaX2d3bWs1ZG1EcmVzOFJmRWVUR1RJM3doZw?oc=5",
+      "editorial_score": 9.96,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "UN chief calls for global financial reform, permanent Security Council seats for Africa - Anadolu Ajansı",
+      "summary": "UN chief calls for global financial reform, permanent Security Council seats for Africa Anadolu Ajansı",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Anadolu Ajansı",
+      "published": "2026-09-20T16:05:04+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOejBWTlFobTZFdlVFVDY5MlNjbC12Snd1VGdQQzJVcThkb0tSZnBBNHNrWk51NlFSV1dQT3JqWG1QdHdpZHM5Skt4RXhiMjZYNDI5d3lpWTFfakkycGR6d2c2RFlZMjRZUnk1T2ZqdEhpYWpUeHFrc24tNXd4NUtRU0J0TVhra3FvNFhpM2xtZXVuQ2ZqZzhOVGFCUlRjd2VjajV2UWU4ck5FbTNsVkxieDgtLXptTUNCRHFHTjdPdGZKQTA2Uk9J?oc=5",
+      "editorial_score": 9.9,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+      "summary": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-20T15:57:48+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+      "editorial_score": 9.88,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Trump says monumental arch in Washington, DC will also be military complex",
+      "summary": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-20T15:16:38+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+      "editorial_score": 9.73,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Popoola: Next Frontier for Africa’s Capital Markets Is Capital From Within - THISDAYLIVE",
+      "summary": "Popoola: Next Frontier for Africa’s Capital Markets Is Capital From Within THISDAYLIVE",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "THISDAYLIVE",
+      "published": "2026-09-20T15:30:57+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd09yVG1IWU5SOExJUmE5NGhJaVA2VkpWN3BkYmF3bjVkS3lLTWtGRmFyUFlNNEdYWEpmU0wxNmd3OF9EQ3h3LXc3OVVkYVNlUU0xaks0bktSckJiUjZRQjA2X2pKbWo2cUs3UEhEY3dUVXFDdHBzbnJ6bURHQ2NHOXJCeFhGLXlZQ3JtSnBRR1hhbGZQd3hrSlNtX0NJVmNfWWNlZHg5Y04zcG80Slp5VFpR?oc=5",
+      "editorial_score": 8.79,
       "source_tier": "C"
     },
     {
@@ -33,10 +137,10 @@
       "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
       "source": "Traders Union",
       "published": "2026-09-20T04:24:15+00:00",
-      "age_hours": 8.9,
+      "age_hours": 12.1,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXB3OWh4RE5DXzBZYnVfUW93cDZld0lJcjhlenNiUFNqRkxOMXZVeXZhRkE2NXlsd2NlMm9BTVJjb2JnZDdTR2MxTkNWbGllMFUwYWEzUnp2ekpocElZLUVzUzRQWVZKeTIzQWtYUlZlT2Jtd1ZuTzJvYk8tbFhrOVRUemtMQmx6dS1HZUJLVURjS09qWTV2S2ctVkIwYWs?oc=5",
-      "editorial_score": 9.15,
+      "editorial_score": 8.48,
       "source_tier": "C"
     },
     {
@@ -44,85 +148,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "US, China trade teams set to huddle in New York to discuss AI, Iran - Business Standard",
-      "summary": "US, China trade teams set to huddle in New York to discuss AI, Iran Business Standard",
+      "title": "How will China's Pinglu Canal chart new economic tides for ASEAN - Xinhua",
+      "summary": "How will China's Pinglu Canal chart new economic tides for ASEAN Xinhua",
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Business Standard",
-      "published": "2026-09-20T13:08:08+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbm02M3lLMElyTTFKVXFfRTNNNDdXT1JwQVJiMGNHN2ppbGdOM1NwMzR3MHg1ZWJISmxWMUtZYkdYdnljYmhBYzA5eHNwUEdSSG1idkFtZHc3Z2NxancteDRWZXlFZDJ6OEU2YzFxR1VnRENTbjA5dm9TQmVyZ2xpRDlGb0FOa3p6ZGtuRU51TFpfNkVjbU5Zc2hfbGFINEhiamNUbmZNbWdlZG1MZ08waDJDdkxrc1ZkcTg5T1RXbzd0VF8zOXFCNzBR0gHPAUFVX3lxTE5iQkZiTk5NVEM0Z0Q1ZG5ZWTcybWdmR1VVQmJ2TFd2ODVuTVp6dlp3X3JCaEljYWhlb21nWVdPZl9zaUdkSE1MM25GZkVDbFZST1QzRnc3UG8wZXhndDg2OTdNbnJsay1GbTZaSGhWZ0w2ZmZ5UWJwdXJzbnBtWXlPZXNuMzRIajVZY0xtWnFJVzhDTzdNRGxKbHFYTmN2cm9VQVlQLV85RUZ4S3pabFgtUVVoeERBRFQ2bFpZbW9obG4wcWkzMDZMV3NJSTU1VQ?oc=5",
-      "editorial_score": 8.96,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "Renaissance explains why its fighting hard in Nigeria’s energy front - Business News Nigeria",
-      "summary": "Renaissance explains why its fighting hard in Nigeria’s energy front Business News Nigeria",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Business News Nigeria",
-      "published": "2026-09-20T12:30:37+00:00",
+      "source": "Xinhua",
+      "published": "2026-09-20T15:47:46+00:00",
       "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOekQ5aC1JbG5lNHRRb2FKTUgzNE5ISWYxckVoa3d4T19BdGg3REJHVnJKY2ZYZHUwVlFtazBQS2NrRFd0YkdNWXZoNUNzQW9HM1k1ZllCbEJhZGNWSno5d3hVZlI2c04xM3hELWF3TDBHQ1plc28zX05ta0g2YXRESjNIQ2g3VGNzUUtkZkpQMVBBWHNqd1Y2MnNtZ2FoSThvUVptOWhoVzBWbzZTOVF4X2tVcWk5ZkF6RGc4YVRCeDBmT18zM2JaaGRDNkNubC1TZm04N1hTOUhnTmtaZGc?oc=5",
-      "editorial_score": 8.83,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "‘There’s a whipsaw nature to it’: how we’ve covered Donald Trump’s tumultuous trade wars - The Guardian",
-      "summary": "‘There’s a whipsaw nature to it’: how we’ve covered Donald Trump’s tumultuous trade wars The Guardian",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "The Guardian",
-      "published": "2026-09-20T12:01:00+00:00",
-      "age_hours": 1.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHp3ODVoaFdKd2xzSGpOWm9tRV9TNkNPNDIxeDNyaUlwRzYtMmFMWFZkbC1yTG93b2JjX3l6ZllHM0gySC1lUzlMeThDd3dadVZnQjIwb00yYnh5LTRhRmFpajZlb011OHRDY1Nxa1ZwdHA0OWd1VlVuSWU0bm92LW1seFBfZTV1NFZqNWNiRm9uNk4yRTNSUU1RRlFtZERJUURGR1RPSnRMUmF6aXhiOFZpanpUU3k1czVGMVBJZHd4SzlrVVFkSFk4cHJJZw?oc=5",
-      "editorial_score": 8.73,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "ANALYSIS: Canada eyes Europe and Asia to diversify trade links, says Gateway Forum keynote speaker Duncan Wood - Rio Grande Guardian",
-      "summary": "ANALYSIS: Canada eyes Europe and Asia to diversify trade links, says Gateway Forum keynote speaker Duncan Wood Rio Grande Guardian",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Rio Grande Guardian",
-      "published": "2026-09-20T13:01:25+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTdPUVRiNW1ZTk1xeV9JMVNrSHpKdFBkYXg3U2dRSHVPSm5GeG9NT0lVMkM5QWE0Nl9xUTlhVjlZQjJWU3lIeE5MNktCVWszV2NocXRMa1J6TzgtMDdCdWx6eC1qMzl3SjZDdDJTemFpLXZKM2lEcHhuRktGNzJObkxFc2NYTDUxeDJYT0hUa01sdjBkc2xGRDhXTE5fc1RQbFE2R1FBeURUZ0tBVUoxOFViSkFmeXhxMEhPY1FGc2QtaGppVlo0aTRQVE82V25uWi1TN29TQQ?oc=5",
-      "editorial_score": 7.94,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "China elevates Li Chenggang to nation’s top international trade role - South China Morning Post",
-      "summary": "China elevates Li Chenggang to nation’s top international trade role South China Morning Post",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "South China Morning Post",
-      "published": "2026-09-20T12:31:23+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUVdITzVQSklIbW5ZODNpVUdwX0VnWmYzVzE3OGpDZ1FGZXRER3laeVQ2NVBJVUlmYXh4QmtGak1Na2tWQ0VGbkkzU3Z5N0lfU3R2NVBjajFCeEx2Qm5ET05JX3htekFTQ1FodkhWNGFvRHRmanNYYlpyRVNrOW85NGVkU2JaUVNkVXJxYkkwZjNfWVJRaEcwTFpGQ1BqYndwUXhlY1h2d1FuRHlwNmdxQkRKdVhpcko0RmFR0gG7AUFVX3lxTE5ZTmhXZFZfT3lGRUFSYi1tX05ZTWpqelk1OTRVaGF0NVJYU2s3UldTUkxNcDRXeXo0Y2xBd210YWlPWHRZMVFpZ3VNRGRvSnl3RlotNkVxaTlzcjV2OFBVZkYzNGxMSVRjdnFUNUUzU1ZhV2h1Ml81cGE0MUVGTHR4MGk5UllKel95UlFrX3FvTVlfTEVUbDNiVmpDQlBOczlVSmNoc2lPcS1NMzVHVUQ2TkdRMG1uVTc4Nlk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FVHlhX2ZqQlV4S1lmdlpsMzdTNWZkaHo4RGY3eHJ6aDAwTUozekJZcUFUX1dCc3JMeTBnRUpPZERqR1h3YnpkZWtmXzRWUFZMWG9UWTlhWTdoMENlRUFWeXV6MFBacTZ0UmF1bm5sc19zVWpQeElpOEhYYkE?oc=5",
       "editorial_score": 7.83,
       "source_tier": "C"
     },
@@ -136,46 +170,12 @@
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
       "source": "The Washington Post",
-      "published": "2026-09-20T12:31:03+00:00",
-      "age_hours": 0.8,
+      "published": "2026-09-20T15:33:11+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLURDOVB2MENaVU53R2RPWkxhVlQ1bkZkUVYyME1ZMEYtY0duUzVPMVR5ay1sMjd0VmQya1JmTE54TGw1RXZHWW4tRC0yY3JSRHBZUjlfSkRHSUdkQTQ0ODdUcGRjd051aHhZbGVUMDVsLTZJMXNUNEs3YXJZNFR0VWIzdm13Tk1MeGFXc0ZNX3JyU19zU2JNQmNWczRaMmlKcWhNckpsWi1SNms1ZmVTUjk5NXBrR05FSVA0?oc=5",
-      "editorial_score": 7.83,
+      "editorial_score": 7.79,
       "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "China is chasing SpaceX and setting its sights on the global space economy - MarketWatch",
-      "summary": "China is chasing SpaceX and setting its sights on the global space economy MarketWatch",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "MarketWatch",
-      "published": "2026-09-20T12:00:00+00:00",
-      "age_hours": 1.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlUzNzRWZW1fWlRFdXlvUUt5a0ZYNjY1NjZBMFVhUUczZmh6SUhLVXUxWUlOQTM0a1hFLVI3Q2VzN05kaFpKN0ZnVHJUcDVNMkRmOGxhU2xab1NoWDl3ODhBaEx5UmllUWFSd1dQbndtZ2VsaXdMc0dVdE05WGNIdjM3SEpiYm5mSmN2c3BHd2hOUW5HVjdBcEh4LVJTVndJYVhLdXhuMGVwMnQwU1ZseEQ2Mlc5M2Nh?oc=5",
-      "editorial_score": 7.73,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Oktoberfest 2026: Everything you need to know",
-      "summary": "This year, AI will be used to manage overcrowded situations. Find all the numbers surrounding the fest — including the price of water!",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "DW English",
-      "published": "2026-09-19T09:40:00+00:00",
-      "age_hours": 27.6,
-      "within_24h": false,
-      "link": "https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 6.39,
-      "source_tier": "A"
     }
   ],
   "watch": [
@@ -196,8 +196,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
-    "África": 2,
+    "Mundo": 4,
+    "África": 4,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",

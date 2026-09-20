@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T13:17:53.506020+00:00",
+  "updated_at": "2026-09-20T16:33:03.774023+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,19 +7,55 @@
     {
       "section": "Mundo",
       "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Economia do Irão contrai 10% após o início da guerra",
+      "summary": "A economia iraniana contraiu 10,1% no primeiro trimestre do ano persa, entre março e maio, em comparação com o mesmo período do ano passado, em plena guerra iniciada pelos Estados Unidos há quase sete meses, foi hoje revelado.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-20T14:48:45+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/economia/economia-do-irao-contrai-10-apos-o-inicio-da-guerra_n1766622",
+      "editorial_score": 11.65,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Energia"
       ],
-      "title": "PS pede audição urgente de Fernando Alexandre sobre alunos sem vagas nas escolas",
-      "summary": "O PS pediu hoje a audição parlamentar urgente do ministro da Educação para dar explicações sobre os alunos sem vagas nas escolas, considerando que esta é uma \"situação grave\" e que os responsáveis políticos \"têm de ser responsabilizados\".",
+      "title": "Ventura pede a Montenegro que esclareça se há governantes com ações da REN",
+      "summary": "O presidente do Chega fala em suspeitas de luvas e quer saber que comissões foram pagas e a quem.",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-20T12:57:32+00:00",
-      "age_hours": 0.3,
+      "published": "2026-09-20T14:09:47+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/politica/ps-pede-audicao-urgente-de-fernando-alexandre-sobre-alunos-sem-vagas-nas-escolas_n1766604",
-      "editorial_score": 10.94,
+      "link": "https://www.rtp.pt/noticias/politica/ventura-pede-a-montenegro-que-esclareca-se-ha-governantes-com-acoes-da-ren_v1766616",
+      "editorial_score": 10.5,
       "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Angola Prepara Fórum Para Debater Diplomacia Económica e Integração Regional - diarioeconomico.co.mz",
+      "summary": "Angola Prepara Fórum Para Debater Diplomacia Económica e Integração Regional diarioeconomico.co.mz",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-20T10:30:00+00:00",
+      "age_hours": 6.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLUpyZVZMT1RTOWxEM0R6eVpRZVdwZjB2R3NvQm96MEpPb2RHNGJqcXFDaGNVSHhLcnZWNk1fVmtjYzB3R0hOaklhUFg4QnNiaGx6M0FtdGhONWp1Y2JDTjhLUFRxbnRPZDlHMm84MVM2MmJKbjlYZXlTLXhtd3VCSHlNY2I2bE9pblk0Wm1CaEpVSXZQcDg3Q0dIRWZPWnBLY0tnTmNFUE5zdkpHNDdiQ19oN1VvOE50R3Q0WUYwUTI2dlRrSWt2QVcxbTcySzVf?oc=5",
+      "editorial_score": 9.73,
+      "source_tier": "C"
     },
     {
       "section": "Moçambique",
@@ -32,10 +68,10 @@
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "jornalnoticias.co.mz",
       "published": "2026-09-20T09:25:07+00:00",
-      "age_hours": 3.9,
+      "age_hours": 7.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUFvZjlsYS1MVnRBYzdKZHZIWmN2bXFaSExXTTFNVHBqaVRQTjBXZGlickVIM3QwQXlxV2g5SGJfTUFaOWU3QmJacFk0WHpHRDJtc2ZTX3lwZC1wTzFwZmZXUlJoaENyNldBczNURTN6MGg1dnl5ZUg4NlFGcWRfc2podm9uMHFYQVB2VUhObV94cURKbTVCbGtuckJKSjZSUHNnd3FzVlh0S1hXWnk5eTZkQ2hGckRsV1pNaWdmbVJqNm9td21QcExlQQ?oc=5",
-      "editorial_score": 10.19,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHNSYlZUMnkwZnVwY3l1aElYLVlycVpzNktPbVEtbFR6bkhtSXZDalZGUXFZa3NpZTkxdDJ3c0d2aFpDUE9OY0xveVVwdnlFUTV2WUpud1N2aTI5enFheXExVUo1a2lqczI0WmtFN1l6c1VhYzdObDJOR3BxZzMzN18zOUVWNTJ1NVFVVWdpeHBsU0poaUZFdlEtWnNGcVdqNmg0SXBGSWlBRjNJM0pNWUNCdlpkV1hCd3E0QklYZWhjMnZmbGc?oc=5",
+      "editorial_score": 9.52,
       "source_tier": "C"
     },
     {
@@ -43,135 +79,86 @@
       "tags": [
         "Economia"
       ],
-      "title": "Governo de Moçambique prevê proibição de sacos plásticos finos até 2027 - Правда.Ру",
-      "summary": "Governo de Moçambique prevê proibição de sacos plásticos finos até 2027 Правда.Ру",
+      "title": "Governo de Moçambique prevê proibição de sacos plásticos finos até 2027 - port.pravda.ru",
+      "summary": "Governo de Moçambique prevê proibição de sacos plásticos finos até 2027 port.pravda.ru",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "Правда.Ру",
+      "source": "port.pravda.ru",
       "published": "2026-09-20T11:48:00+00:00",
-      "age_hours": 1.5,
+      "age_hours": 4.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4cU5DME5NeDFZa1J6NWlDcHRDZFJsczNScU5IMlFLSlcxMGJ4WDlhOVlSbzBsbFh4UU4taFFIaExuUDNHOW1lRWpKT2NOdWxrVlhjc3BrTzhtY2FybGdZWHF1Y0RjNUVxTS1xMU52T21heEpmUE85RGtncDJzRHc?oc=5",
-      "editorial_score": 9.69,
+      "editorial_score": 9.0,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Poupança europeia financia expansão da IA nos EUA enquanto Europa enfrenta falta de investimentos no setor - Jornal Grande Bahia",
-      "summary": "Poupança europeia financia expansão da IA nos EUA enquanto Europa enfrenta falta de investimentos no setor Jornal Grande Bahia",
-      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
-      "source": "Jornal Grande Bahia",
-      "published": "2026-09-20T11:30:15+00:00",
-      "age_hours": 1.8,
+      "title": "Economia do Irão contrai 10% após o início da guerra - Jornal de Negócios",
+      "summary": "Economia do Irão contrai 10% após o início da guerra Jornal de Negócios",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "Jornal de Negócios",
+      "published": "2026-09-20T15:01:42+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjJkcDRlaHNKc29qVUlMTUJiUUZmRlZIeXhyMHhWOEFzanRWQVZsU3pGY0x2TXNPZU1FbW9oVDRseWV6ZTBvZlRWODROaThoS0dwNUVLM1V6NXdpSHUwWVE0UGE4ODhIN2VQTVNRU2szeXZlNW5ISzlOVkd6cngtNExWbFEtUTR5Z3VqeXZVVGhET1pmSE9EYlRveDNoTTl1aElNZ2hSM3N3NXl1aWlaR01WaE1lVkpKU0poV090dDJQQmFvT0xfQ3A4NWV3cDVOQU16Zng0UFp4cGZzbFVROVdB?oc=5",
-      "editorial_score": 7.62,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTldWa0d2cDNqR2stMkZVYjYtLWhwdzRSUTh0UTVLRjZqR0c0NkNob21OVEFLeTBIanNnaU9yei1NMlJ2Qjhlb2hxM3ByWm9EMG1zbHZFdy1aajJjTVRYRFpDN1dqR0NnLXRMR1FmQnh0REtxa25LZjF5OWF4eTFjckMyVFJsOGllNXRPdFNzYWhsUGlqVC0tV2JnZ1QtLWk2cGfSAZwBQVVfeXFMTnV3NlBiYklIYllmc0lhcV9DeTNzZVlIVS1rY2hfZlJfT1FXU1IzVEJ5c0NYeWpRQVpSdjBxRUtyZmJlTUVNQzBfRm9ubDVxdXlhRzlDZTlXeDN5N3QtVjIzZnlLWFpCRzl3V1MyLUdlY0VYUWJZUmxhd0R4NkphR2pwU1NtcmRRS1o0QTFhQ1o3NkZjdllzV0FPMWZO?oc=5",
+      "editorial_score": 8.69,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Economia",
+        "Segurança"
       ],
-      "title": "China nomeia Li Chenggang como seu principal negociador de comércio internacional - O GLOBO",
-      "summary": "China nomeia Li Chenggang como seu principal negociador de comércio internacional O GLOBO",
-      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
-      "source": "O GLOBO",
-      "published": "2026-09-20T12:19:05+00:00",
-      "age_hours": 1.0,
+      "title": "Alemanha prepara hospitais para cenário de guerra com a Rússia - Jornal de Negócios",
+      "summary": "Alemanha prepara hospitais para cenário de guerra com a Rússia Jornal de Negócios",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "Jornal de Negócios",
+      "published": "2026-09-20T14:00:50+00:00",
+      "age_hours": 2.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWDVram9oT1ZUTGpsbEZJMVFHMUxPTmNsbVY4bDFFUXRaWV8zYno3LVIzMmVlSHAzNzRlWjJyMldSZEk2d0poak52WlpONVRGNExmbWp0MU9tcFh3V3RTdDl3dXdKaV9KOGtwOWQyQVBGVUV1YXpRMU9PMk9QQmU1Z2k4d0xxcXJiTVRldTNTTHkxNE5qMEhGX0t1aDFJSkZpc1AwOXlMZnM3N0Vqd0FXa01FOFlXUHpmRUZwZ0NUQVpaaWxsenJWYUg1NU0yb3FXa2U3NG1EMNIB5gFBVV95cUxQRS1UV1ZENVd1ZnRZZm9sd2tyN3o5R2xzZXh6RFl3ck5KeEhKYUxBYnlUb3BWc1NwbDdFYkJIRzV1dExOVEc3QXRpLUJXb1BfY0x2d0UxNWFLSWJGNmxncDJabkNJNzhKdUM2RjBDYzlPY283bk5mWlBjV2Nsa29ZQlF1V2VPT2l0VGlGWHcyNElNSDBXVjV3Tk93UVFuZy1IS2tlcHNOc0V0NWJfdHJENzZIZHNucFdQS3c0VnRvZkZRdk83NE5Sa2hCM0VrZmVYQnk4VkIybVZMMHdxVFdPRXNrcHR1UQ?oc=5",
-      "editorial_score": 6.79,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Corpo se cita esta segunda-feira com Murtra para tratar a situação das telecos e da inteligência artificial - Demócrata",
-      "summary": "Corpo se cita esta segunda-feira com Murtra para tratar a situação das telecos e da inteligência artificial Demócrata",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "Demócrata",
-      "published": "2026-09-20T12:18:43+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTkRoZHlhYUEzS1JDbUloZ2N3V2NhbVozZmltMG9WOFkxeUxTLVNTNjg0SDNiTW9la1BYNW1ad244aTA0V3Z5cEdzRTRBSkZkUkx3SGhWeXRJRXlUYzl3TW90dTV5SElia3RJNDBVbkswbjdMa2FjZGVwNy16dlktcV9xOG9hRlJkUlY1MkZ4RXJMOWJNYWNUakVCV1hpdFk4cGtrUkhCZWNFMnFXTm9xY1p6VXhpdXdlWWNYVXFIMzVTZ1RLQlpkUWJBT0J0UG4zNmxzeFc0em9NOVMtT1HSAeMBQVVfeXFMTWZPLU90aXl4a0lGRG9XQnEwQXdYY1dCN2VVdk5wanM0emttb1J0VVlFeTYxclhMYzVSS2t5dWZpRDFPcTFuUThGWUwxb3JGS1V1NHZaUEFOZkdzbkZCd3R5VWVBWHFKNjdCLVpFdy1LYmlmeW5CaTNWQnR2MTFIcFZkb21NandiYUN1b1pESnNSNG1aOW1JQ2pjek5FelAzQjRsb0lxaDJkX2xSVDNZM1U2cWR1aEZpNThhUm9GN2REY3g4RGo4VEc2OXJNUEtfaTlaNmVNam5QQVBGX09sQ2ZZMU0?oc=5",
-      "editorial_score": 6.79,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "A inteligência artificial pode mesmo exterminar o futuro? - O GLOBO",
-      "summary": "A inteligência artificial pode mesmo exterminar o futuro? O GLOBO",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "O GLOBO",
-      "published": "2026-09-20T11:52:21+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNzNzV08wS3RMMm1jblhyWUhNSEE5b1ctNTIyQ3hUWEpFZXpSaW9ES0VqSk5nb1FhQTgtLXQ2dUxnZHp6dFRPdUFkYkZKUWZ0WWZDY01xTEljbEI1RlN6M3h0bXVXcGVnd3QzM0NsMEFKOXBFc1NZcWZNZ3h4T2E4LVpUanhDRTB5aFFNY2E3Z0NBbjJFSDhYN1JoeHZxNGFKb3oyTkZDSmY1aFZWclhORDIzZXpqVmtoSlJ3aVJTNWY5aVJz0gHTAUFVX3lxTFBYUndSRXRpM1c1R2FNNDNJN0NwREUwdTM5NkxvQnBZZXM2QWRFSzBqYW94OWwyWjRLMm5POUZfZjA2RTd4Wjd4bHdlS1FEQ3FmUVlsMURuTXVLZ013VDFaNWFFWlFOMVRrVGlfekgtRmIyVWlaaVVzcEFTMS1jWUktLVdacWhkRU1tRjR5TlFFYklYNVFOUGk5TGdNcnRBOW5zZEhpbnQ0dmtpb3FRVG5GRnJ0MzFNTmxlem00c2g1SlM5Z0gySVZFeWRES0J2bmhZU1U?oc=5",
-      "editorial_score": 6.71,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Por que Singapura se tornou a terra prometida para os gigantes mundiais da inteligência artificial? - Vietnam.vn",
-      "summary": "Por que Singapura se tornou a terra prometida para os gigantes mundiais da inteligência artificial? Vietnam.vn",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "Vietnam.vn",
-      "published": "2026-09-20T11:17:07+00:00",
-      "age_hours": 2.0,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXpmc0F0UVE0MkhFcVVzYzZ4QXpwZjVUMHE1VGR6a0llMkZtYzhqNXFRLUxkdFZqaEVCS3I1bURBOFRIRGRfM1BVZkN6MnRVSkxqWnZPd2s5bC0yeEZmeTdLT3hWYkUzVkxFRE1UbU1sVmtLcWdBQmxwOEhQWGNuSmZYR2lheDdFSExwUlIwUlZlTkRVWFZCMVZTTDVacEdxeG81TFF0MDJGSjQ?oc=5",
-      "editorial_score": 6.58,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjZnNmxJUXI0bmdkZE9pODNTQklkdGMtNTNyNVoxaWRvUGtfQjM3bGZIcHF4S3YyUkZYUDJENEpqSUk1ZUJ3THprYUFYX1pOa1lhc040VUJpX3k2bXg1V3ZGa0VjUDRaT0R0ekdXTzVmeHk4VkJ1TVk5VzFmZUFrb3NzM3drTk1neW8wcVJGN0ZlRUZUaEQzd2xsX1FNOERWbDJqRWJEZTBmSGEyMnFjVQ?oc=5",
+      "editorial_score": 7.48,
       "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Eleições parlamentares em curso na Rússia. Moscovo queixa-se de ataques a sistema online",
-      "summary": "O correspondente da RTP em Moscovo, Evgueny Mouravitch, descreve “falhas momentâneas” num sistema que “está a ser sobrecarregado”.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "title": "Leopardus tilcayo. Descoberto um novo felino na Bolívia",
+      "summary": "Um pequeno felino que vive nas florestas nubladas dos Yungas bolivianos foi identificado como uma nova espécie para a ciência. O animal recebeu o nome científico Leopardus tilcayo, preservando a designação utilizada há gerações pelas comunidades locais.",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T12:01:38+00:00",
-      "age_hours": 25.3,
+      "published": "2026-09-19T14:38:16+00:00",
+      "age_hours": 25.9,
       "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-parlamentares-em-curso-na-russia-moscovo-queixa-se-de-ataques-a-sistema-online_n1766465",
-      "editorial_score": 6.46,
+      "link": "https://www.rtp.pt/noticias/mundo/leopardus-tilcayo-descoberto-um-novo-felino-na-bolivia_n1766381",
+      "editorial_score": 7.44,
       "source_tier": "A"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Africanos cumprem agenda de negócios e turismo em Salvador - News BA",
-      "summary": "Africanos cumprem agenda de negócios e turismo em Salvador News BA",
+      "title": "Tarifas, combustível e juros apertam empresas nos EUA - SpaceMoney",
+      "summary": "Tarifas, combustível e juros apertam empresas nos EUA SpaceMoney",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "News BA",
-      "published": "2026-09-19T15:52:37+00:00",
-      "age_hours": 21.4,
+      "source": "SpaceMoney",
+      "published": "2026-09-20T13:48:52+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXy0yN2lSUmNISXFsVk56elJNVWcyQmdlN002UkJabUZfQmVCS1JFSTMxSk9OOV9Sd1dGa0pOcEZlV3FWM1M4bTZKcG5OMlJvQVR3NkRoN1lSTVFJNG1FQk0yR0s0S0JUSmxUWDdjZTljSUVwSF9UVmFDQlJiSVNSS2N1R1RJWUxGQmVybUgxMVo1WjUwVm0w?oc=5",
-      "editorial_score": 4.54,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTgyRlZEY2h0di1XYkRpXy00a1ZFc1JqYnJ2LU5Cb3JVY3o5MG1pSG5EalNGZmRMS244RXZPR2l6U29CZVltMV9WeG5NbUY1bVh4Uk5pSTlDQ2dmYjVnOFZKZXF2ZE0tVlhJb3BQOWV1ZE1NNkJ4NDYxcVZjRFVuSVkwNHBCMUxHRnYxTHJiUTV1cVJ6dnpN?oc=5",
+      "editorial_score": 6.44,
       "source_tier": "C"
     }
   ],
@@ -193,7 +180,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
+    "Mundo": 5,
     "África": 2,
     "Moçambique": 2
   },
