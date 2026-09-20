@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T09:34:53.515383+00:00",
+  "updated_at": "2026-09-20T13:17:53.506020+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,138 +7,137 @@
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Uma pessoa morreu em tiroteio no Bairro da Serafina em Lisboa",
-      "summary": "Uma pessoa morreu num tiroteio no Bairro da Serafina, em Lisboa, disse à agência Lusa fonte da Polícia de Segurança Pública.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "title": "PS pede audição urgente de Fernando Alexandre sobre alunos sem vagas nas escolas",
+      "summary": "O PS pediu hoje a audição parlamentar urgente do ministro da Educação para dar explicações sobre os alunos sem vagas nas escolas, considerando que esta é uma \"situação grave\" e que os responsáveis políticos \"têm de ser responsabilizados\".",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-20T08:09:49+00:00",
-      "age_hours": 1.4,
+      "published": "2026-09-20T12:57:32+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/uma-pessoa-morreu-em-tiroteio-no-bairro-da-serafina-em-lisboa_n1766565",
-      "editorial_score": 10.71,
+      "link": "https://www.rtp.pt/noticias/politica/ps-pede-audicao-urgente-de-fernando-alexandre-sobre-alunos-sem-vagas-nas-escolas_n1766604",
+      "editorial_score": 10.94,
       "source_tier": "A"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Marc Warren luta na Aroeira pelo terceiro título do Challenge Tour",
-      "summary": "O golfista escocês Marc Warren é o principal candidato à vitória no Open de Portugal, que termina hoje no PGA Aroeira 1, em Almada, onde os portugueses Tomás Gouveia e Tomás Bessa vão tentar ascender ao `top 10`.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-20T07:52:06+00:00",
-      "age_hours": 1.7,
+      "title": "Moçambique procura experiência do Brasil para impulsionar a exploração de petróleo e gás - jornalnoticias.co.mz",
+      "summary": "Moçambique procura experiência do Brasil para impulsionar a exploração de petróleo e gás jornalnoticias.co.mz",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "jornalnoticias.co.mz",
+      "published": "2026-09-20T09:25:07+00:00",
+      "age_hours": 3.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/marc-warren-luta-na-aroeira-pelo-terceiro-titulo-do-challenge-tour_d1766583",
-      "editorial_score": 10.65,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUFvZjlsYS1MVnRBYzdKZHZIWmN2bXFaSExXTTFNVHBqaVRQTjBXZGlickVIM3QwQXlxV2g5SGJfTUFaOWU3QmJacFk0WHpHRDJtc2ZTX3lwZC1wTzFwZmZXUlJoaENyNldBczNURTN6MGg1dnl5ZUg4NlFGcWRfc2podm9uMHFYQVB2VUhObV94cURKbTVCbGtuckJKSjZSUHNnd3FzVlh0S1hXWnk5eTZkQ2hGckRsV1pNaWdmbVJqNm9td21QcExlQQ?oc=5",
+      "editorial_score": 10.19,
+      "source_tier": "C"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
         "Economia"
       ],
-      "title": "Dois Estados alemães vão a votos com extrema-direita a subir",
-      "summary": "Os eleitores dos Estados alemães de Berlim e Mecklemburgo-Pomerânia Ocidental votam hoje para decidir os próximos parlamentos estaduais, numas eleições que deverão ficar marcadas pela subida da Alternativa para a Alemanha (AfD, extrema-direita).",
+      "title": "Governo de Moçambique prevê proibição de sacos plásticos finos até 2027 - Правда.Ру",
+      "summary": "Governo de Moçambique prevê proibição de sacos plásticos finos até 2027 Правда.Ру",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-20T07:57:42+00:00",
-      "age_hours": 1.6,
+      "source": "Правда.Ру",
+      "published": "2026-09-20T11:48:00+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/dois-estados-alemaes-vao-a-votos-com-extrema-direita-a-subir_n1766580",
-      "editorial_score": 9.67,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4cU5DME5NeDFZa1J6NWlDcHRDZFJsczNScU5IMlFLSlcxMGJ4WDlhOVlSbzBsbFh4UU4taFFIaExuUDNHOW1lRWpKT2NOdWxrVlhjc3BrTzhtY2FybGdZWHF1Y0RjNUVxTS1xMU52T21heEpmUE85RGtncDJzRHc?oc=5",
+      "editorial_score": 9.69,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Governo defende que BCE deve \"atuar com cuidado\" na resposta à inflação",
-      "summary": "O ministro das Finanças defende que o Banco Central Europeu (BCE) deve atuar \"com cuidado\" face às pressões sobre os preços, considerando a situação diferente da crise inflacionista de 2022 por resultar de um choque da oferta.",
+      "title": "Poupança europeia financia expansão da IA nos EUA enquanto Europa enfrenta falta de investimentos no setor - Jornal Grande Bahia",
+      "summary": "Poupança europeia financia expansão da IA nos EUA enquanto Europa enfrenta falta de investimentos no setor Jornal Grande Bahia",
       "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
       "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-20T07:44:36+00:00",
+      "source": "Jornal Grande Bahia",
+      "published": "2026-09-20T11:30:15+00:00",
       "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/governo-defende-que-bce-deve-atuar-com-cuidado-na-resposta-a-inflacao_n1766584",
-      "editorial_score": 9.62,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo estima que Portugal continuará a ter \"excedente reduzido\" no próximo ano",
-      "summary": "O Governo prevê que as contas públicas portuguesas continuem a registar um \"saldo positivo reduzido\" em 2027, porém inferior ao excedente de 0,7% do Produto Interno Bruto (PIB) alcançado em 2025, indica o ministro das Finanças à Lusa.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-20T07:44:22+00:00",
-      "age_hours": 1.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/governo-estima-que-portugal-continuara-a-ter-excedente-reduzido-no-proximo-ano_n1766585",
-      "editorial_score": 9.62,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Sociedade civil alerta para aumento da insegurança em Moçambique - MZNews",
-      "summary": "Sociedade civil alerta para aumento da insegurança em Moçambique MZNews",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "MZNews",
-      "published": "2026-09-19T16:30:44+00:00",
-      "age_hours": 17.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVBNaGtERnktcU9vWGpjR0RCTG1kU0FxODlZLVk0TVk3U3BnVDlSaC1GdTBHLWVEZUtkUC1kajgzekEwSnhzdHJ2ZW1EaWVMREZQRWRuX2Z2bVk1eDcwcFh6ZFFmRUk2c0dHaFNsVjI0bTJ1bFZTNmJPRXZWNjN1d0FscG9oRU40VzR2d3REQQ?oc=5",
-      "editorial_score": 7.44,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique Perdeu Uma Década de Transformação Económica — E 1,2 Milhão de Empregos Mais Produtivos - O.Económico",
-      "summary": "Moçambique Perdeu Uma Década de Transformação Económica — E 1,2 Milhão de Empregos Mais Produtivos O.Económico",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "O.Económico",
-      "published": "2026-09-19T15:57:59+00:00",
-      "age_hours": 17.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWVHdTVTYlM2Q0FYeGtPRzh3RG1RUmQ0Zm92QjR6RlItN0I5dGgwdW9kYzFuVElvMmhLS2JwMDVjbktnOGpFTVI5WldMUldyOVR2eW4zdGlPbWhJdnhKVFlmOG5QSGhSREtTZDVhVVlvdS05djJHNmZSenNsQ2Q1UnZPSE9fQjg1Q2tHbnBGakJ4NnpSTXhQcndWMllOV1J0MXlnMmVidVdKc3Y5M19VeXdUMDBwRWh4MTJDUW1YcHE?oc=5",
-      "editorial_score": 7.33,
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdjJkcDRlaHNKc29qVUlMTUJiUUZmRlZIeXhyMHhWOEFzanRWQVZsU3pGY0x2TXNPZU1FbW9oVDRseWV6ZTBvZlRWODROaThoS0dwNUVLM1V6NXdpSHUwWVE0UGE4ODhIN2VQTVNRU2szeXZlNW5ISzlOVkd6cngtNExWbFEtUTR5Z3VqeXZVVGhET1pmSE9EYlRveDNoTTl1aElNZ2hSM3N3NXl1aWlaR01WaE1lVkpKU0poV090dDJQQmFvT0xfQ3A4NWV3cDVOQU16Zng0UFp4cGZzbFVROVdB?oc=5",
+      "editorial_score": 7.62,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA",
         "Economia"
       ],
-      "title": "Ilhabela oferece curso gratuito e presencial de Inteligência Artificial aplicada para negócios - PortalR3",
-      "summary": "Ilhabela oferece curso gratuito e presencial de Inteligência Artificial aplicada para negócios PortalR3",
+      "title": "China nomeia Li Chenggang como seu principal negociador de comércio internacional - O GLOBO",
+      "summary": "China nomeia Li Chenggang como seu principal negociador de comércio internacional O GLOBO",
+      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
+      "source": "O GLOBO",
+      "published": "2026-09-20T12:19:05+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWDVram9oT1ZUTGpsbEZJMVFHMUxPTmNsbVY4bDFFUXRaWV8zYno3LVIzMmVlSHAzNzRlWjJyMldSZEk2d0poak52WlpONVRGNExmbWp0MU9tcFh3V3RTdDl3dXdKaV9KOGtwOWQyQVBGVUV1YXpRMU9PMk9QQmU1Z2k4d0xxcXJiTVRldTNTTHkxNE5qMEhGX0t1aDFJSkZpc1AwOXlMZnM3N0Vqd0FXa01FOFlXUHpmRUZwZ0NUQVpaaWxsenJWYUg1NU0yb3FXa2U3NG1EMNIB5gFBVV95cUxQRS1UV1ZENVd1ZnRZZm9sd2tyN3o5R2xzZXh6RFl3ck5KeEhKYUxBYnlUb3BWc1NwbDdFYkJIRzV1dExOVEc3QXRpLUJXb1BfY0x2d0UxNWFLSWJGNmxncDJabkNJNzhKdUM2RjBDYzlPY283bk5mWlBjV2Nsa29ZQlF1V2VPT2l0VGlGWHcyNElNSDBXVjV3Tk93UVFuZy1IS2tlcHNOc0V0NWJfdHJENzZIZHNucFdQS3c0VnRvZkZRdk83NE5Sa2hCM0VrZmVYQnk4VkIybVZMMHdxVFdPRXNrcHR1UQ?oc=5",
+      "editorial_score": 6.79,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Corpo se cita esta segunda-feira com Murtra para tratar a situação das telecos e da inteligência artificial - Demócrata",
+      "summary": "Corpo se cita esta segunda-feira com Murtra para tratar a situação das telecos e da inteligência artificial Demócrata",
       "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
       "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "PortalR3",
-      "published": "2026-09-20T08:47:02+00:00",
-      "age_hours": 0.8,
+      "source": "Demócrata",
+      "published": "2026-09-20T12:18:43+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0FHeU5BVzN6QjFEQndBZk00UUZwTUNOUVlDUzZHelJxT0NUWk5oY3FvYjE5OWl6SW1Za2o4UEdmSXhIcjY2RGpZaHZXVGVtU29zWnA4V0s4NEIyU1E3czBpaFhqRS1YeGFyYXZ2Z0JGUy1HVmRNRGpxMHpuZ24yUnF1VjNtSWxsV1JCaGRjWk9zT2FZM0h0QzJPLWo3VXRuZWZJUUxwQ0l2V0hMZlloZW1uVzNyUTlZV3dnNktxYUFuWmlJX2tYZ1lETmxmUQ?oc=5",
-      "editorial_score": 6.83,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTkRoZHlhYUEzS1JDbUloZ2N3V2NhbVozZmltMG9WOFkxeUxTLVNTNjg0SDNiTW9la1BYNW1ad244aTA0V3Z5cEdzRTRBSkZkUkx3SGhWeXRJRXlUYzl3TW90dTV5SElia3RJNDBVbkswbjdMa2FjZGVwNy16dlktcV9xOG9hRlJkUlY1MkZ4RXJMOWJNYWNUakVCV1hpdFk4cGtrUkhCZWNFMnFXTm9xY1p6VXhpdXdlWWNYVXFIMzVTZ1RLQlpkUWJBT0J0UG4zNmxzeFc0em9NOVMtT1HSAeMBQVVfeXFMTWZPLU90aXl4a0lGRG9XQnEwQXdYY1dCN2VVdk5wanM0emttb1J0VVlFeTYxclhMYzVSS2t5dWZpRDFPcTFuUThGWUwxb3JGS1V1NHZaUEFOZkdzbkZCd3R5VWVBWHFKNjdCLVpFdy1LYmlmeW5CaTNWQnR2MTFIcFZkb21NandiYUN1b1pESnNSNG1aOW1JQ2pjek5FelAzQjRsb0lxaDJkX2xSVDNZM1U2cWR1aEZpNThhUm9GN2REY3g4RGo4VEc2OXJNUEtfaTlaNmVNam5QQVBGX09sQ2ZZMU0?oc=5",
+      "editorial_score": 6.79,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "A inteligência artificial pode mesmo exterminar o futuro? - O GLOBO",
+      "summary": "A inteligência artificial pode mesmo exterminar o futuro? O GLOBO",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "O GLOBO",
+      "published": "2026-09-20T11:52:21+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNzNzV08wS3RMMm1jblhyWUhNSEE5b1ctNTIyQ3hUWEpFZXpSaW9ES0VqSk5nb1FhQTgtLXQ2dUxnZHp6dFRPdUFkYkZKUWZ0WWZDY01xTEljbEI1RlN6M3h0bXVXcGVnd3QzM0NsMEFKOXBFc1NZcWZNZ3h4T2E4LVpUanhDRTB5aFFNY2E3Z0NBbjJFSDhYN1JoeHZxNGFKb3oyTkZDSmY1aFZWclhORDIzZXpqVmtoSlJ3aVJTNWY5aVJz0gHTAUFVX3lxTFBYUndSRXRpM1c1R2FNNDNJN0NwREUwdTM5NkxvQnBZZXM2QWRFSzBqYW94OWwyWjRLMm5POUZfZjA2RTd4Wjd4bHdlS1FEQ3FmUVlsMURuTXVLZ013VDFaNWFFWlFOMVRrVGlfekgtRmIyVWlaaVVzcEFTMS1jWUktLVdacWhkRU1tRjR5TlFFYklYNVFOUGk5TGdNcnRBOW5zZEhpbnQ0dmtpb3FRVG5GRnJ0MzFNTmxlem00c2g1SlM5Z0gySVZFeWRES0J2bmhZU1U?oc=5",
+      "editorial_score": 6.71,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Por que Singapura se tornou a terra prometida para os gigantes mundiais da inteligência artificial? - Vietnam.vn",
+      "summary": "Por que Singapura se tornou a terra prometida para os gigantes mundiais da inteligência artificial? Vietnam.vn",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "Vietnam.vn",
+      "published": "2026-09-20T11:17:07+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWXpmc0F0UVE0MkhFcVVzYzZ4QXpwZjVUMHE1VGR6a0llMkZtYzhqNXFRLUxkdFZqaEVCS3I1bURBOFRIRGRfM1BVZkN6MnRVSkxqWnZPd2s5bC0yeEZmeTdLT3hWYkUzVkxFRE1UbU1sVmtLcWdBQmxwOEhQWGNuSmZYR2lheDdFSExwUlIwUlZlTkRVWFZCMVZTTDVacEdxeG81TFF0MDJGSjQ?oc=5",
+      "editorial_score": 6.58,
       "source_tier": "C"
     },
     {
@@ -146,17 +145,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Angola Celebra 13 Acordos Com Omã Avaliados em Mais de 1,4 MM$ - diarioeconomico.co.mz",
-      "summary": "Angola Celebra 13 Acordos Com Omã Avaliados em Mais de 1,4 MM$ diarioeconomico.co.mz",
-      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
-      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-19T15:20:00+00:00",
-      "age_hours": 18.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmRyanJ3TUZHaW0xMjNiZjF6OUFEek5Jb0RuaUdLTnMtdEFEOXRvb0wyeEdiRjdOUnExWnUtenFXN1FqX2cwUXV0djJ1VUFocXctNUhTX205WV95LWxNQ1FheVZId01ldnYzQWxTeUs4UjliMVlrQlBRVDJiMVI4bW9BcWxJUEVFTjJNN1ZiNVo1bkM2WXZLMmpQM2NmNUVzN09Bdlc1RUVFc0ZaYlNWQVRXdUtjQ0FvZHdN?oc=5",
-      "editorial_score": 6.21,
-      "source_tier": "C"
+      "title": "Eleições parlamentares em curso na Rússia. Moscovo queixa-se de ataques a sistema online",
+      "summary": "O correspondente da RTP em Moscovo, Evgueny Mouravitch, descreve “falhas momentâneas” num sistema que “está a ser sobrecarregado”.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-19T12:01:38+00:00",
+      "age_hours": 25.3,
+      "within_24h": false,
+      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-parlamentares-em-curso-na-russia-moscovo-queixa-se-de-ataques-a-sistema-online_n1766465",
+      "editorial_score": 6.46,
+      "source_tier": "A"
     },
     {
       "section": "África",
@@ -169,10 +168,10 @@
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "News BA",
       "published": "2026-09-19T15:52:37+00:00",
-      "age_hours": 17.7,
+      "age_hours": 21.4,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNXy0yN2lSUmNISXFsVk56elJNVWcyQmdlN002UkJabUZfQmVCS1JFSTMxSk9OOV9Sd1dGa0pOcEZlV3FWM1M4bTZKcG5OMlJvQVR3NkRoN1lSTVFJNG1FQk0yR0s0S0JUSmxUWDdjZTljSUVwSF9UVmFDQlJiSVNSS2N1R1RJWUxGQmVybUgxMVo1WjUwVm0w?oc=5",
-      "editorial_score": 5.31,
+      "editorial_score": 4.54,
       "source_tier": "C"
     }
   ],

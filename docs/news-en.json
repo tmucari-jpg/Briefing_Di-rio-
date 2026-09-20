@@ -1,92 +1,42 @@
 {
-  "updated_at": "2026-09-20T09:34:59.187834+00:00",
+  "updated_at": "2026-09-20T13:17:59.316637+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "Energia"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
-      "summary": "An oil refinery was also hit in the Russian capital and flights were suspended at two airports.",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "BBC World",
-      "published": "2026-09-20T08:41:36+00:00",
-      "age_hours": 0.9,
+      "title": "Towards meaningful benefit-sharing in natural resource use in Africa - Business and Human Rights Centre",
+      "summary": "Towards meaningful benefit-sharing in natural resource use in Africa Business and Human Rights Centre",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Business and Human Rights Centre",
+      "published": "2026-09-20T10:11:18+00:00",
+      "age_hours": 3.1,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 10.81,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Russia: Ukrainian drone strike on Moscow kills 2",
-      "summary": "An oil refinery was hit in one of the largest attacks so far on the Russian capital, as the country holds a parliamentary election. Meanwhile, at least four people were killed in Russian strikes in Ukraine's Kyiv region.",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "DW English",
-      "published": "2026-09-20T08:37:00+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 10.79,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQW96aWpsZ0JVSFM1VVJJbWgydkZvVzlsRl9IMVBFQ1dwZ0VseXBnSEJNRWFYY0JQSjNfeUxMeWxSY1c2clhIc3lsRWtTYU1BT2lVNXJxTm9EUnZQTzBxT3pwcHIxbWt1V3JkS2plejZDMlBud2d3azNjT2FETHB2N25FS25xYnp0NlNLeER0bjlTNmxxV3pRS19jNWlYT1dsZWJha2RGMnl1anFObnprSjZZbk83ZEVzQUpfLXFsdk1CeFBaZkE?oc=5",
+      "editorial_score": 10.35,
+      "source_tier": "C"
     },
     {
       "section": "Moçambique",
       "tags": [
         "Economia"
       ],
-      "title": "TotalEnergies faces legal scrutiny over Mozambique attack response - tradersunion.com",
-      "summary": "TotalEnergies faces legal scrutiny over Mozambique attack response tradersunion.com",
+      "title": "TotalEnergies faces legal scrutiny over Mozambique attack response - Traders Union",
+      "summary": "TotalEnergies faces legal scrutiny over Mozambique attack response Traders Union",
       "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
       "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
-      "source": "tradersunion.com",
+      "source": "Traders Union",
       "published": "2026-09-20T04:24:15+00:00",
-      "age_hours": 5.2,
+      "age_hours": 8.9,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXB3OWh4RE5DXzBZYnVfUW93cDZld0lJcjhlenNiUFNqRkxOMXZVeXZhRkE2NXlsd2NlMm9BTVJjb2JnZDdTR2MxTkNWbGllMFUwYWEzUnp2ekpocElZLUVzUzRQWVZKeTIzQWtYUlZlT2Jtd1ZuTzJvYk8tbFhrOVRUemtMQmx6dS1HZUJLVURjS09qWTV2S2ctVkIwYWs?oc=5",
-      "editorial_score": 9.92,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "R420,000 job scam exposes ugly side of South Africa’s unemployment crisis - IOL",
-      "summary": "R420,000 job scam exposes ugly side of South Africa’s unemployment crisis IOL",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "IOL",
-      "published": "2026-09-20T08:35:18+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQejNWUjVqTWJXb2dPbDFzSEdMT01VWkR5X2QzV3daNjBJa0dJQUhZbEkzN19xMUIwQjVNSlhvMFZkczRWQlFGRUpKOFVQNVZVdmhIdU5QWG9HbXhvYWd3TmxSNkhjUmt6b1I0SXkwZ0VVMDlfcDNKR2RHNmZZd0c1eUktQmdJMk9BODlzbmh5bFUwNXlReHMybFBmTWxPYXYwalRYaFZJeDFaeFdhM3VlX3VxcG4yUXBCMGNBWlNzTk5VSTh2RXpNeG1OQXh3Zw?oc=5",
-      "editorial_score": 9.79,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "What South Africa’s economic headlines told us this week - Cape Times",
-      "summary": "What South Africa’s economic headlines told us this week Cape Times",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Cape Times",
-      "published": "2026-09-20T08:28:45+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OTk5kb2V1aERuQkFYSVVUNGFidzJHVFdRVzhKdExENi04V3RkVUFNUnJ2ZzBDSGVhZkVRSElLajN2MXNjR3R3djhDMmNBUnItUFlkaG1jRXBaSEFDVHpLNktlVG9VNlBweVY4?oc=5",
-      "editorial_score": 9.77,
+      "editorial_score": 9.15,
       "source_tier": "C"
     },
     {
@@ -94,16 +44,86 @@
       "tags": [
         "Economia"
       ],
-      "title": "Trump-Xi showdown casts a shadow over the global economy - BusinessLine",
-      "summary": "Trump-Xi showdown casts a shadow over the global economy BusinessLine",
+      "title": "US, China trade teams set to huddle in New York to discuss AI, Iran - Business Standard",
+      "summary": "US, China trade teams set to huddle in New York to discuss AI, Iran Business Standard",
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "BusinessLine",
-      "published": "2026-09-20T08:46:17+00:00",
+      "source": "Business Standard",
+      "published": "2026-09-20T13:08:08+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbm02M3lLMElyTTFKVXFfRTNNNDdXT1JwQVJiMGNHN2ppbGdOM1NwMzR3MHg1ZWJISmxWMUtZYkdYdnljYmhBYzA5eHNwUEdSSG1idkFtZHc3Z2NxancteDRWZXlFZDJ6OEU2YzFxR1VnRENTbjA5dm9TQmVyZ2xpRDlGb0FOa3p6ZGtuRU51TFpfNkVjbU5Zc2hfbGFINEhiamNUbmZNbWdlZG1MZ08waDJDdkxrc1ZkcTg5T1RXbzd0VF8zOXFCNzBR0gHPAUFVX3lxTE5iQkZiTk5NVEM0Z0Q1ZG5ZWTcybWdmR1VVQmJ2TFd2ODVuTVp6dlp3X3JCaEljYWhlb21nWVdPZl9zaUdkSE1MM25GZkVDbFZST1QzRnc3UG8wZXhndDg2OTdNbnJsay1GbTZaSGhWZ0w2ZmZ5UWJwdXJzbnBtWXlPZXNuMzRIajVZY0xtWnFJVzhDTzdNRGxKbHFYTmN2cm9VQVlQLV85RUZ4S3pabFgtUVVoeERBRFQ2bFpZbW9obG4wcWkzMDZMV3NJSTU1VQ?oc=5",
+      "editorial_score": 8.96,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Renaissance explains why its fighting hard in Nigeria’s energy front - Business News Nigeria",
+      "summary": "Renaissance explains why its fighting hard in Nigeria’s energy front Business News Nigeria",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Business News Nigeria",
+      "published": "2026-09-20T12:30:37+00:00",
       "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQWMtTnc4Q2tFV1NqTkF1UDJYZDJhN0tMUGFBdURXNFd6X1VJOE1aVFBqeXlQdktvQWtpd0xsTXNyZXEway1uQ1F5SWRwS0Nocy1PWTBPb0t4Vm4zWFEtNlVGNGUySHh5ZzVUbVZ3a2RjQTdBVW5RbWxNRXVyU1V1WHZ1cVdtUW9JVlQ4RVIxZ0FaaWxMenVwY3dGZXhFVzNUTWNkTnFFWEtOU1RkR2NsWHNOUFlEeER1dEZfUzAybUl5d9IByAFBVV95cUxPZW8yWnAyZjQxWk12TlpsdHpweW81WktJZUVta1NmaDh1aEdKeHI4S01QYl9BOW5Pb2pEOWlwdzFraWJFbm52OXpnYVlGTE92SVlHU0RLaHAzWU9NZ00yWFlRamh1dUZxOFozVzRpZmRJN3F0Mk56U2lmTDIxTDVLMjZadGdPcWVRMGpMNmhseWxyaHdWbHMwYzlFNWtNdUc5V3haZ0NiY2RpNEsxU2tIb1I5UEVzNmxmM0JNOGdoWU9nYWUyNW1oQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOekQ5aC1JbG5lNHRRb2FKTUgzNE5ISWYxckVoa3d4T19BdGg3REJHVnJKY2ZYZHUwVlFtazBQS2NrRFd0YkdNWXZoNUNzQW9HM1k1ZllCbEJhZGNWSno5d3hVZlI2c04xM3hELWF3TDBHQ1plc28zX05ta0g2YXRESjNIQ2g3VGNzUUtkZkpQMVBBWHNqd1Y2MnNtZ2FoSThvUVptOWhoVzBWbzZTOVF4X2tVcWk5ZkF6RGc4YVRCeDBmT18zM2JaaGRDNkNubC1TZm04N1hTOUhnTmtaZGc?oc=5",
       "editorial_score": 8.83,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "‘There’s a whipsaw nature to it’: how we’ve covered Donald Trump’s tumultuous trade wars - The Guardian",
+      "summary": "‘There’s a whipsaw nature to it’: how we’ve covered Donald Trump’s tumultuous trade wars The Guardian",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "The Guardian",
+      "published": "2026-09-20T12:01:00+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHp3ODVoaFdKd2xzSGpOWm9tRV9TNkNPNDIxeDNyaUlwRzYtMmFMWFZkbC1yTG93b2JjX3l6ZllHM0gySC1lUzlMeThDd3dadVZnQjIwb00yYnh5LTRhRmFpajZlb011OHRDY1Nxa1ZwdHA0OWd1VlVuSWU0bm92LW1seFBfZTV1NFZqNWNiRm9uNk4yRTNSUU1RRlFtZERJUURGR1RPSnRMUmF6aXhiOFZpanpUU3k1czVGMVBJZHd4SzlrVVFkSFk4cHJJZw?oc=5",
+      "editorial_score": 8.73,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "ANALYSIS: Canada eyes Europe and Asia to diversify trade links, says Gateway Forum keynote speaker Duncan Wood - Rio Grande Guardian",
+      "summary": "ANALYSIS: Canada eyes Europe and Asia to diversify trade links, says Gateway Forum keynote speaker Duncan Wood Rio Grande Guardian",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "Rio Grande Guardian",
+      "published": "2026-09-20T13:01:25+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTdPUVRiNW1ZTk1xeV9JMVNrSHpKdFBkYXg3U2dRSHVPSm5GeG9NT0lVMkM5QWE0Nl9xUTlhVjlZQjJWU3lIeE5MNktCVWszV2NocXRMa1J6TzgtMDdCdWx6eC1qMzl3SjZDdDJTemFpLXZKM2lEcHhuRktGNzJObkxFc2NYTDUxeDJYT0hUa01sdjBkc2xGRDhXTE5fc1RQbFE2R1FBeURUZ0tBVUoxOFViSkFmeXhxMEhPY1FGc2QtaGppVlo0aTRQVE82V25uWi1TN29TQQ?oc=5",
+      "editorial_score": 7.94,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "China elevates Li Chenggang to nation’s top international trade role - South China Morning Post",
+      "summary": "China elevates Li Chenggang to nation’s top international trade role South China Morning Post",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "South China Morning Post",
+      "published": "2026-09-20T12:31:23+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUVdITzVQSklIbW5ZODNpVUdwX0VnWmYzVzE3OGpDZ1FGZXRER3laeVQ2NVBJVUlmYXh4QmtGak1Na2tWQ0VGbkkzU3Z5N0lfU3R2NVBjajFCeEx2Qm5ET05JX3htekFTQ1FodkhWNGFvRHRmanNYYlpyRVNrOW85NGVkU2JaUVNkVXJxYkkwZjNfWVJRaEcwTFpGQ1BqYndwUXhlY1h2d1FuRHlwNmdxQkRKdVhpcko0RmFR0gG7AUFVX3lxTE5ZTmhXZFZfT3lGRUFSYi1tX05ZTWpqelk1OTRVaGF0NVJYU2s3UldTUkxNcDRXeXo0Y2xBd210YWlPWHRZMVFpZ3VNRGRvSnl3RlotNkVxaTlzcjV2OFBVZkYzNGxMSVRjdnFUNUUzU1ZhV2h1Ml81cGE0MUVGTHR4MGk5UllKel95UlFrX3FvTVlfTEVUbDNiVmpDQlBOczlVSmNoc2lPcS1NMzVHVUQ2TkdRMG1uVTc4Nlk?oc=5",
+      "editorial_score": 7.83,
       "source_tier": "C"
     },
     {
@@ -116,11 +136,11 @@
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
       "source": "The Washington Post",
-      "published": "2026-09-20T09:02:09+00:00",
-      "age_hours": 0.5,
+      "published": "2026-09-20T12:31:03+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLURDOVB2MENaVU53R2RPWkxhVlQ1bkZkUVYyME1ZMEYtY0duUzVPMVR5ay1sMjd0VmQya1JmTE54TGw1RXZHWW4tRC0yY3JSRHBZUjlfSkRHSUdkQTQ0ODdUcGRjd051aHhZbGVUMDVsLTZJMXNUNEs3YXJZNFR0VWIzdm13Tk1MeGFXc0ZNX3JyU19zU2JNQmNWczRaMmlKcWhNckpsWi1SNms1ZmVTUjk5NXBrR05FSVA0?oc=5",
-      "editorial_score": 7.9,
+      "editorial_score": 7.83,
       "source_tier": "C"
     },
     {
@@ -128,16 +148,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "US, China to discuss AI, trade, and rare earths ahead of Trump-Xi summit - The News International",
-      "summary": "US, China to discuss AI, trade, and rare earths ahead of Trump-Xi summit The News International",
+      "title": "China is chasing SpaceX and setting its sights on the global space economy - MarketWatch",
+      "summary": "China is chasing SpaceX and setting its sights on the global space economy MarketWatch",
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "The News International",
-      "published": "2026-09-20T08:49:00+00:00",
-      "age_hours": 0.8,
+      "source": "MarketWatch",
+      "published": "2026-09-20T12:00:00+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGVweG5ITGdtX0p4NzJoYnl1Q2pRZWJfcDFSN1VYajFSbS14bk1hbUEyUVNsNk9lNEdWM2hIZ21jUGpXRjkxQlJmcFJYOW5kQnNPTTV4T1A2VnZfaHBRVnhSRVF5Rng2TEJIY0RMR0s3SW51R3cxUWxZNmpOUGNBaHNYakIxUGYtdHVrTUhiTkMtWkt5c1VrVVNBb2pCQUdpMEtUeXJYZjUxVkhUSEZsONIBrAFBVV95cUxNdmVNU2ZyZnhxUmQ5STU5VVNoUXBNSXNaUHU0NGlxLU80cnJQZkFrRWRXZEVrcy00U2JqdGtSUnhyRmI0RDdHZW9zWlBaVldGMmJhRzF5dzdodVp5SUhyNVl5U1l1c0hJWS0zTzduUWRRTW41WHBHNUdDalhPRDVnbE9oSkpHS1QtVEdyV21kcGpyQnhkQ093UjR3Qm5pbTAyOVVySUc1bHBkYW9k?oc=5",
-      "editorial_score": 7.83,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlUzNzRWZW1fWlRFdXlvUUt5a0ZYNjY1NjZBMFVhUUczZmh6SUhLVXUxWUlOQTM0a1hFLVI3Q2VzN05kaFpKN0ZnVHJUcDVNMkRmOGxhU2xab1NoWDl3ODhBaEx5UmllUWFSd1dQbndtZ2VsaXdMc0dVdE05WGNIdjM3SEpiYm5mSmN2c3BHd2hOUW5HVjdBcEh4LVJTVndJYVhLdXhuMGVwMnQwU1ZseEQ2Mlc5M2Nh?oc=5",
+      "editorial_score": 7.73,
       "source_tier": "C"
     },
     {
@@ -145,16 +165,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "Mecklenburg-Western Pomerania: SPD seeks to fend off AfD",
-      "summary": "For nearly three decades, the Social Democrats have governed Germany's northeastern state. If they can fend off the AfD, the result may boost the fortunes of the German government's junior coalition partner.",
+      "title": "Oktoberfest 2026: Everything you need to know",
+      "summary": "This year, AI will be used to manage overcrowded situations. Find all the numbers surrounding the fest — including the price of water!",
       "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "DW English",
-      "published": "2026-09-19T06:46:00+00:00",
-      "age_hours": 26.8,
+      "published": "2026-09-19T09:40:00+00:00",
+      "age_hours": 27.6,
       "within_24h": false,
-      "link": "https://www.dw.com/en/mecklenburg-western-pomerania-spd-seeks-to-fend-off-afd/a-79330234?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 6.41,
+      "link": "https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 6.39,
       "source_tier": "A"
     }
   ],
@@ -176,7 +196,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 5,
+    "Mundo": 6,
     "África": 2,
     "Moçambique": 2
   },

@@ -1,20 +1,33 @@
 {
-  "updated_at": "2026-09-20T09:35:04.022911+00:00",
+  "updated_at": "2026-09-20T13:18:03.475120+00:00",
   "language": "pt",
   "window_days": 7,
   "items": [
     {
       "section": "Moçambique",
       "category": "Energia/LNG",
-      "title": "Leopardus tilcayo. Descoberto um novo felino na Bolívia",
-      "summary": "Um pequeno felino que vive nas florestas nubladas dos Yungas bolivianos foi identificado como uma nova espécie para a ciência. O animal recebeu o nome científico Leopardus tilcayo, preservando a designação utilizada há gerações pelas comunidades locais.",
+      "title": "PS pede audição urgente de Fernando Alexandre sobre alunos sem vagas nas escolas",
+      "summary": "O PS pediu hoje a audição parlamentar urgente do ministro da Educação para dar explicações sobre os alunos sem vagas nas escolas, considerando que esta é uma \"situação grave\" e que os responsáveis políticos \"têm de ser responsabilizados\".",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
-      "source": "RTP Mundo",
-      "published": "2026-09-19T14:38:16+00:00",
-      "age_hours": 18.9,
-      "link": "https://www.rtp.pt/noticias/mundo/leopardus-tilcayo-descoberto-um-novo-felino-na-bolivia_n1766381",
+      "source": "RTP Últimas",
+      "published": "2026-09-20T12:57:32+00:00",
+      "age_hours": 0.3,
+      "link": "https://www.rtp.pt/noticias/politica/ps-pede-audicao-urgente-de-fernando-alexandre-sobre-alunos-sem-vagas-nas-escolas_n1766604",
       "score": 4
+    },
+    {
+      "section": "Moçambique",
+      "category": "Regulação & decretos",
+      "title": "Moçambique procura experiência brasileira para impulsionar exploração de hidrocarbonetos - O País - A verdade como notícia",
+      "summary": "Moçambique procura experiência brasileira para impulsionar exploração de hidrocarbonetos O País - A verdade como notícia",
+      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
+      "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
+      "source": "Google News",
+      "published": "2026-09-20T12:50:53+00:00",
+      "age_hours": 0.5,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcTd6MXRPak9MMjh2TVpRUTJucS1QSVRaZEx0ajByY1ZJMDJhSS1oTUxCREVQQ1Q2bEVjNkVFWWtRckxiOVRvRjJkWDJ5UFFfRklleG5PRXpRSEFJU000WUFTS0lfMUw5UV9uLVVDWTE1c3BCdVlwOE90SUp4WVdNN3l6X2VlUjN4b29PcldoVTNoeGlaMkhwUUxKSFV5U1ZveWNCaXRlcWd1VjZ0TXc?oc=5",
+      "score": 9
     },
     {
       "section": "Moçambique",
@@ -25,7 +38,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Club of Mozambique",
       "published": "2026-09-18T17:18:25+00:00",
-      "age_hours": 40.3,
+      "age_hours": 44.0,
       "link": "https://clubofmozambique.com/news/just-in-imf-staff-mission-to-mozambique-unabridged/",
       "score": 6
     },
@@ -38,7 +51,7 @@
       "action": "Confirmar elegibilidade, montante, prazo e documentos exigidos pela entidade financiadora.",
       "source": "Club of Mozambique",
       "published": "2026-09-18T15:04:11+00:00",
-      "age_hours": 42.5,
+      "age_hours": 46.2,
       "link": "https://clubofmozambique.com/news/just-in-foundations-laid-for-imf-agreement-mozambique-government-says/",
       "score": 6
     },
@@ -51,7 +64,7 @@
       "action": "Verificar entidade recrutadora, requisitos, localização e prazo de candidatura.",
       "source": "Club of Mozambique",
       "published": "2026-09-18T10:23:22+00:00",
-      "age_hours": 47.2,
+      "age_hours": 50.9,
       "link": "https://clubofmozambique.com/news/undp-new-cooperation-programme-for-mozambique-aims-to-reduce-poverty-create-jobs-by-2030/",
       "score": 9
     },
@@ -64,7 +77,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-18T10:12:46+00:00",
-      "age_hours": 47.4,
+      "age_hours": 51.1,
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3cGl6b0ZJWW1wZUM0ZVdGVkNXa09pVGxHZ1dQMFBZYXdPa3lFbnJKeDYtU2x1VVNBVFNFLU82bnpmVVItcnZKWFY4SEJWZENEVEhSVFpSZ1o4aE9LZldaUXh3ZWFXdGJzWkE?oc=5",
       "score": 8
     },
@@ -77,7 +90,7 @@
       "action": "Verificar entidade recrutadora, requisitos, localização e prazo de candidatura.",
       "source": "Club of Mozambique",
       "published": "2026-09-18T08:20:52+00:00",
-      "age_hours": 49.2,
+      "age_hours": 53.0,
       "link": "https://clubofmozambique.com/news/minister-muhate-wants-to-see-approved-investments-implemented/",
       "score": 9
     },
@@ -90,7 +103,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-17T14:00:00+00:00",
-      "age_hours": 67.6,
+      "age_hours": 71.3,
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQm5nc284TDZTcXlyNFpOaWpkdW9USzk4Rks4aWdZV0t2SldoQ01kQUxsSEZEeGU3Y1pMQlF0QjVsMDRWRGxGV2hSRGJqWWQxYnZmMk9PdlROTW1nTENNYmljdTZOdDVMdXRJbTY0UWphTDRqT1dvNHp3SVRkQnJuNWVWWmYxVW16cFVZRGNLSmNTV0dwNmk3QmVyOU9maGlEWXdhWHVIQXliZzFZVmtkQWtFaDNiZw?oc=5",
       "score": 8
     },
@@ -103,7 +116,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-17T13:49:58+00:00",
-      "age_hours": 67.8,
+      "age_hours": 71.5,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONFlvcmp5eGRuQkZCTGxyWnlVZG9ueEVWaldtazlqWHhQenRnUUs4YjEteGtuTTNFcGUtR1lWUGZBZjFpMzhVNmtVUUFxb2JOSW5TMklqTGtiRmpzODF2VVN6a19mNExIUU1zN0NFRUpiUkdqZHpMd2FxOVFsdzlDakM0dTkyc1EzWS1TMnY2SkZiTmF2S05oVU91MU5ONGNSS1VNOEZJemIzU2Q2V01HR3NSMUg3QUZjMnlNa0U2YXdPRUFMalp3dnNXNA?oc=5",
       "score": 8
     },
@@ -116,34 +129,21 @@
       "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
       "source": "Google News",
       "published": "2026-09-17T13:48:00+00:00",
-      "age_hours": 67.8,
+      "age_hours": 71.5,
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1URmp3RXJramxyTURRb0tDSk5pRUpMUGREcmt4UmxBYjFhTElqLWxtaGZkU2NUU0xPbTVpb0JYa3E4WDFzZFhoQzFVZHhaMm1NN2V0bWtFNU1zbTJrcFZaOVZXYnltaV9RbWR5UjFtRVFIUzFnTW1n?oc=5",
       "score": 9
     },
     {
       "section": "Moçambique",
       "category": "Investimentos",
-      "title": "Moçambique estima em 350 ME investimento necessário para mitigar efeitos do El Niño - Lusa",
-      "summary": "Moçambique estima em 350 ME investimento necessário para mitigar efeitos do El Niño Lusa",
+      "title": "Moçambique estima em 350 ME investimento necessário para mitigar efeitos do El Niño - lusa.pt",
+      "summary": "Moçambique estima em 350 ME investimento necessário para mitigar efeitos do El Niño lusa.pt",
       "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-17T13:45:00+00:00",
-      "age_hours": 67.8,
+      "age_hours": 71.6,
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPREgwTkNSNXVSZW5BREVYeGhmcDYxUXN1Y1FCc3hVdzUxUWR5WWxsQjBIUmdMU3daeEdSMDhXdTdiUmNIaG5FbEZRUmw2WFNsbVgtYVc3dV9kMDdVRFIwVUxSSEhDTkRuMVhWZGROXzNNbE4xNlRBdmtaUmwzc2lfZlBpcDZMT3QtYVhINFJLa3hieUpzZUowcF9MZGQtdnU1RHFqSHM1VjI3YVhmOUpOY2VPNThLTUc0c2tzaFBDcmZoX0s3NmNsTm9VWFBaOVJEcjJGZnVDMWY0RDN5bE9mSzNmZ09ocGNiQU5ZbA?oc=5",
-      "score": 8
-    },
-    {
-      "section": "Moçambique",
-      "category": "Investimentos",
-      "title": "Moçambique Quer Reduzir Perdas Pós-Colheita E Medir Melhor O Retorno Dos Investimentos Na Segurança Alimentar - O.Económico",
-      "summary": "Moçambique Quer Reduzir Perdas Pós-Colheita E Medir Melhor O Retorno Dos Investimentos Na Segurança Alimentar O.Económico",
-      "why": "Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.",
-      "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
-      "source": "Google News",
-      "published": "2026-09-17T08:12:35+00:00",
-      "age_hours": 73.4,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkp6d0JKSGhMMTFHM01nUW9oeWZsSUd1RkMtYUh6SDBENXlURS02Qk1Xc1RKMGpRVWtfdnhrRXYtSk9BUFZDZHF6X1lZSFBmMU93RDhIN1Y4bGJka2hUWFlJYWxyeUtseDRVOGxLMXdHYVh6dlVwZHpBN0p1R1BMYWVaY0ZXdXRZVjVwT3RBYTZRVzdMQTRRWDRSOHlfNWdzaTRrdll6cnRMWHRzMUZUUXZMZ3pkWWRma1JvcEQ5OWhNUFBURnU2R08yVk5mUlBGMno0?oc=5",
       "score": 8
     },
     {
@@ -155,7 +155,7 @@
       "action": "Verificar requisitos, prazo e documentação antes de preparar uma proposta.",
       "source": "Google News",
       "published": "2026-09-17T07:05:44+00:00",
-      "age_hours": 74.5,
+      "age_hours": 78.2,
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNUHFyY2ZnWGI5TVNSaWdLX2hHSERSclVzMlVJWk9qMGNZU1ZqaTRFYndEX0o5Rm1HckxtTzh2c3FJRURGdEs0S0Zub0xEQ0ZPOXZ3dGhaMzBXaTloclZkbkVUcjlMVDFGaVhBN2FxODFEajVuaTZBajlvZ3VBSVBVOVZ5UlBUOVJyeEdvT0hGczlkZjA4Z29xZlFPWW5pY05YeGY2SF8zSkJlZ2pOdmVJYnp2aUMwLXFCaDFQOHpVMm10VWluYmMzSG9wV1B3bk5zam9EXzNpUzZwMV9rNDV1T2F3SGFQUWlFQnBaUVBuVlBCNE5hSWk5SjBTSV9rbVZzdkNwOVNlbW5UNEd6TFYxSUZNWk9DbHJLTTZOTncyMk9qbFZ6cVVLTmFLMA?oc=5",
       "score": 8
     },
@@ -168,7 +168,7 @@
       "action": "Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.",
       "source": "Google News",
       "published": "2026-09-16T11:44:56+00:00",
-      "age_hours": 93.8,
+      "age_hours": 97.6,
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuSlNSM183LW9pSU5BbE5wU3FiWGdBVVR3UGt1MTRKc0FYSmI1NUFtSElSc2RYcWR5WWFBX01RZTFvbHU5UmNtZi1jTERWaGEteUZZVjZZc3ROdUFCVGJSRVRwbzJFRnRWbnFacTE4Y19yTWwzWEJuZHctNzlGVEU?oc=5",
       "score": 9
     },
@@ -181,7 +181,7 @@
       "action": "Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.",
       "source": "Google News",
       "published": "2026-09-16T09:30:00+00:00",
-      "age_hours": 96.1,
+      "age_hours": 99.8,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWM0NVYtckJ5WUtkMlROX2dDRFBKLUpDdWE3alM5ZjdqWjNYa3k0QmMzdlRETVVFenJJbHhZZ0NmcDFwRkt3Y3FaVUZ0cmtvZGliWC1mYUppUTM0ZS1wV0JOQkJDVGtYODVfV1FXVFM4bjRXcnA0RVI2ZjVyQXBhbEVRSUhmZFBNQzRreFJnU21fVms2WDNpWDVsdjlhZ0w0Yk1hVDh5T09na2VkaXhTMWtqUENUUW94eUNZaEc2a0lmZERsY1NwQXFVcw?oc=5",
       "score": 8
     },
@@ -194,7 +194,7 @@
       "action": "Avaliar aplicação prática, fornecedores, competências necessárias e impacto na produtividade.",
       "source": "Google News",
       "published": "2026-09-15T09:25:53+00:00",
-      "age_hours": 120.2,
+      "age_hours": 123.9,
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3htbThvcXk0MGV1dUNhclZRcldQLWx2NHFRejVpOEZJRnVSUlRiT29TNlNpVklhVGVHdkpmaWRHajd2TXNSWTc2R05OWE1LRW0wS196cG5JTXFoSUJHRzc5bkhLdkxZZi1VWmtzeWRqZVRlbkhmaG5rbW9mWjJFSzVEZUJkUHA3N0lTLXJkR2FwTnlQTWxFR1VsOHpMZk1sWnZFOXhBSTdGaW1OTnNGS0ZrUzFXeXkyNUpqd2JrZw?oc=5",
       "score": 5
     }
