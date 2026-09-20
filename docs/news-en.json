@@ -1,27 +1,42 @@
 {
-  "updated_at": "2026-09-20T16:33:09.799890+00:00",
+  "updated_at": "2026-09-20T22:53:27.521926+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
-        "Energia",
-        "Economia",
+        "Economia"
+      ],
+      "title": "Canada, France agree to closer ties in defense, economy",
+      "summary": "Amid strained relations with the US, French President Emmanuel Macron and Canadian Prime Minister Mark Carney announced closer economic and defense ties.",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "DW English",
+      "published": "2026-09-20T21:29:00+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 10.71,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Segurança"
       ],
-      "title": "UAE-Africa trade tops $107b as investments near $150b: Anwar Gargash - Gulf News",
-      "summary": "UAE-Africa trade tops $107b as investments near $150b: Anwar Gargash Gulf News",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Gulf News",
-      "published": "2026-09-20T16:26:02+00:00",
-      "age_hours": 0.1,
+      "title": "Qatar PM urges Gulf security framework with Iran",
+      "summary": "Qatar’s PM says, the Gulf won't be the same unless there's a framework ensuring no one is a threat to each other.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-20T21:00:15+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZE9OTmgwWF9Jbmk5OXJsYk9Bd1VGTEgyZ0gwaTdQcVk0WndXSW43ejkwMHNJOUtnVDE4eXVtVjlqX2hJdF9ab0VNZTViMVZfbTJMTUgyWkVaZG9TQVQxM2hCLWtTa1hEMGN4MTNaWXh3R19OQ0VFSG5rN3lmcF9WcFhiTkRvRzZDeEdUb1poZFpqSHNaZW9yNjlNbmdOUUhidVU0R0NweXNMR3RJU2RXaHZiONIBxgFBVV95cUxNaDNURmhScnZaYnJfc0tvY3VZZVoycU91dzZxNFp1MUpXNVBMMUZIMWNycVpaZ1VOWFdZclpqZ1FOb080dkhGVFJfREJnenp1ck1Zc1JaUGh0bXlKby1EQ21JZ24taHpCWnViMWgtbEVTeDJKdE92dUxPSkNFSHhpNW9CY0FEYXlhZE1fcS13UUt0LV9VZERSeExjT2VBYWhFNVlCSE1SY1U3YUdQNnNpOXZvTUxRSWVtSDlyTl9la1lrMG5EUWc?oc=5",
-      "editorial_score": 12.98,
-      "source_tier": "C"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
+      "editorial_score": 10.6,
+      "source_tier": "A"
     },
     {
       "section": "Moçambique",
@@ -35,112 +50,61 @@
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "Washington Times",
       "published": "2026-09-20T14:45:03+00:00",
-      "age_hours": 1.8,
+      "age_hours": 8.1,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkhnMkExTVRJUmZVblJCZGxNeUJKbG91aFRWMGVqVHZ6SHNhX21mZEw1dXB3VHlvMDhFUFlpS01INUlNMkU5bGQ5blBkOHVnX1A0eTYxb0FueDNJb0dTSVRMOTFNb1o5UkNjSHFDanRRRlpRU3g1cWxBWERZcnQwWVlQR0VjbTZ3S1htTGhIY3pHOVdRVng3ZW1zbFQ3UGRyNW1JZzgtRWtycnZESDRuTlU0bw?oc=5",
-      "editorial_score": 11.62,
+      "editorial_score": 10.31,
       "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "UN chief calls for permanent Security Council seats for Africa — Anadolu Agency - UA.NEWS",
-      "summary": "UN chief calls for permanent Security Council seats for Africa — Anadolu Agency UA.NEWS",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "UA.NEWS",
-      "published": "2026-09-20T16:23:28+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFdCblJ2MXVtcHVld3cwalRwckIycmZsenZ5eXNIOHYwMERPdTJsUk01dkRiZjFaMVVnaERTLXdNQk5pV1NDeW0yTnRmT21RcWVvRDhsbl9YZlZLbG9ZZEMzbURNVGJRVllmVTdKRTdhdERrSWJqWGFSQVBvbFNiRm1CNmN6QnZYbjZCQ2M0dmlaX2d3bWs1ZG1EcmVzOFJmRWVUR1RJM3doZw?oc=5",
-      "editorial_score": 9.96,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "UN chief calls for global financial reform, permanent Security Council seats for Africa - Anadolu Ajansı",
-      "summary": "UN chief calls for global financial reform, permanent Security Council seats for Africa Anadolu Ajansı",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Anadolu Ajansı",
-      "published": "2026-09-20T16:05:04+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOejBWTlFobTZFdlVFVDY5MlNjbC12Snd1VGdQQzJVcThkb0tSZnBBNHNrWk51NlFSV1dQT3JqWG1QdHdpZHM5Skt4RXhiMjZYNDI5d3lpWTFfakkycGR6d2c2RFlZMjRZUnk1T2ZqdEhpYWpUeHFrc24tNXd4NUtRU0J0TVhra3FvNFhpM2xtZXVuQ2ZqZzhOVGFCUlRjd2VjajV2UWU4ck5FbTNsVkxieDgtLXptTUNCRHFHTjdPdGZKQTA2Uk9J?oc=5",
-      "editorial_score": 9.9,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
-      "summary": "Huawei faces a landmark US trial, accused of theft, fraud and sanctions violations in a high-stakes legal battle.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-20T15:57:48+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
-      "editorial_score": 9.88,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Trump says monumental arch in Washington, DC will also be military complex",
-      "summary": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-20T15:16:38+00:00",
-      "age_hours": 1.3,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
-      "editorial_score": 9.73,
-      "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Popoola: Next Frontier for Africa’s Capital Markets Is Capital From Within - THISDAYLIVE",
-      "summary": "Popoola: Next Frontier for Africa’s Capital Markets Is Capital From Within THISDAYLIVE",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "THISDAYLIVE",
-      "published": "2026-09-20T15:30:57+00:00",
-      "age_hours": 1.0,
+      "title": "Datatec in South Africa bets on AI infrastructure — Daily Maverick - UA.NEWS",
+      "summary": "Datatec in South Africa bets on AI infrastructure — Daily Maverick UA.NEWS",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "UA.NEWS",
+      "published": "2026-09-20T22:12:58+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd09yVG1IWU5SOExJUmE5NGhJaVA2VkpWN3BkYmF3bjVkS3lLTWtGRmFyUFlNNEdYWEpmU0wxNmd3OF9EQ3h3LXc3OVVkYVNlUU0xaks0bktSckJiUjZRQjA2X2pKbWo2cUs3UEhEY3dUVXFDdHBzbnJ6bURHQ2NHOXJCeFhGLXlZQ3JtSnBRR1hhbGZQd3hrSlNtX0NJVmNfWWNlZHg5Y04zcG80Slp5VFpR?oc=5",
-      "editorial_score": 8.79,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORng2Y2NXcEwzTG1HMVpzUnRQZEJIRmhLbmUwVDNKWFg4Nlg5MjNyRzZpcmFidEVPOUo5Qy1OWEg1TmNYSTdpMjJ0TlRVVWV3aEZ6MXRnX3RPOFVyTXVfZG53MTFKZTRZV1drLS1lU2NidFF0ajltR011YlZVUTF6TUZNaXJ1ZmNxUGxWajJYV1JwUQ?oc=5",
+      "editorial_score": 9.85,
       "source_tier": "C"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "TotalEnergies faces legal scrutiny over Mozambique attack response - Traders Union",
-      "summary": "TotalEnergies faces legal scrutiny over Mozambique attack response Traders Union",
-      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
-      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
-      "source": "Traders Union",
-      "published": "2026-09-20T04:24:15+00:00",
-      "age_hours": 12.1,
+      "title": "Mozambique LNG Project Plans Coconut Biodiesel Plant In Cabo Delgado - Trendsnafrica",
+      "summary": "Mozambique LNG Project Plans Coconut Biodiesel Plant In Cabo Delgado Trendsnafrica",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Trendsnafrica",
+      "published": "2026-09-20T17:15:23+00:00",
+      "age_hours": 5.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSXB3OWh4RE5DXzBZYnVfUW93cDZld0lJcjhlenNiUFNqRkxOMXZVeXZhRkE2NXlsd2NlMm9BTVJjb2JnZDdTR2MxTkNWbGllMFUwYWEzUnp2ekpocElZLUVzUzRQWVZKeTIzQWtYUlZlT2Jtd1ZuTzJvYk8tbFhrOVRUemtMQmx6dS1HZUJLVURjS09qWTV2S2ctVkIwYWs?oc=5",
-      "editorial_score": 8.48,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVloclpMMEI5Y2RpNkxwTDI0dGwzVlZJN2ZjUVRFS3d1a0t0SGZob20tYW9XZVBieUVuNWdnWGxWanJ2S3QzQkZaVmRaaHlaYVlwZ0J6RTNVX0lrbTlTU2dUTXJNMGtoZlhmaGpWb1p2N3p5WTIzSXI3dTZTa0JTRktuWEEtMGRjMFlOTmNFOXlVN2dBODBDcDc3WdIBowFBVV95cUxNYmJ6akRZb0tUdTVEMGVFemR6TzRRenpMcE5feXI5b1JpdzJ5bHBidG5EUXVRSXpJOHhmeGRrVUdmQi1KQV9QR2JleHRlQlpVWEMxUHhra0tGcDBHM190enNnZDNjLTZIeHdNa205bnVISjE1MVVveTVtbzhreVBHMlJHNUdQd0U1TFhZTXpYQnN6YXRqY2RpUHI2bkFzSEQ2Qjlj?oc=5",
+      "editorial_score": 9.83,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "For real security, Africa must construct its own defence - newafricanmagazine.com",
+      "summary": "For real security, Africa must construct its own defence newafricanmagazine.com",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "newafricanmagazine.com",
+      "published": "2026-09-20T21:48:35+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9heFNLZzExQzRad3BUSVQxWFFMNlBFaDdSWV9rWFBmMndHTTFvampzaVI2cHdTclJrRjNMSy12MGdOXzNJb3lZMTZ2RUczX0lFUkZXV3ZqbHg?oc=5",
+      "editorial_score": 9.77,
       "source_tier": "C"
     },
     {
@@ -148,16 +112,33 @@
       "tags": [
         "Economia"
       ],
-      "title": "How will China's Pinglu Canal chart new economic tides for ASEAN - Xinhua",
-      "summary": "How will China's Pinglu Canal chart new economic tides for ASEAN Xinhua",
+      "title": "German state elections deal a blow to Chancellor Friedrich Merz",
+      "summary": "Elections in Berlin and Mecklenburg-Western Pomerania have dealt the CDU a historic defeat while the AfD saw a massive gain. The pressure on Germany's unpopular chancellor is mounting.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "DW English",
+      "published": "2026-09-20T21:20:00+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 9.67,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Exclusive | ‘Trade is never free’: former WTO chief Pascal Lamy on the EU’s China challenge - South China Morning Post",
+      "summary": "Exclusive | ‘Trade is never free’: former WTO chief Pascal Lamy on the EU’s China challenge South China Morning Post",
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Xinhua",
-      "published": "2026-09-20T15:47:46+00:00",
-      "age_hours": 0.8,
+      "source": "South China Morning Post",
+      "published": "2026-09-20T22:00:11+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FVHlhX2ZqQlV4S1lmdlpsMzdTNWZkaHo4RGY3eHJ6aDAwTUozekJZcUFUX1dCc3JMeTBnRUpPZERqR1h3YnpkZWtmXzRWUFZMWG9UWTlhWTdoMENlRUFWeXV6MFBacTZ0UmF1bm5sc19zVWpQeElpOEhYYkE?oc=5",
-      "editorial_score": 7.83,
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUUJuTXZkWGJUZHV4cnN5c1A1MW1LcF9LS1o2bHAtYWtCLUVxeTFQSDJLYVZIYmpOVVJRdGNKU0VJODRPN0NlNnNJdmFKQkg4SUFRMTJUd2pMTFd0MWFGUzN5ME5scElkVlFRRlJHckxlM3FKZ2tTcUFxdWVRd1R0YW1JazdQb0w2a2FLX0V1aVJxWjB3UEpUVVZiQU5DeEFhejVrU3N0MkVqTmlNOVJKS3FJQkp5Zm50TERPb1BTRWFia3BiWmZ0V1dYRmVwbzFqV1dQVtIB1AFBVV95cUxPTHNoMkxOYzNFc0wwVGVVVlljNXhhQzBBV21qUkRWV2l6eDRXU09ieVB3REFLUl9uZnRfMmptbFhmWTU2Y0VEOFJVQmgxY1hBOFk5U0JERTc5ODExcmVrOHR6VlU4UmM3VTdQUk83MW9Hb1AwWHd2eXM2cFhFY3hHbWpSVU5nMGpUdVNYVFduTnhZcUVkdV8yR2JtZG1jVU44N1hTZnBud2s5QjVfc0J5QnlEZ0hDZVBpMlJfZjN5RWZ1M01oYnRTc2lwWW1xcUlVcEppTg?oc=5",
+      "editorial_score": 7.81,
       "source_tier": "C"
     },
     {
@@ -165,16 +146,33 @@
       "tags": [
         "Economia"
       ],
-      "title": "Trump and sons invest heavily in AI economy as he resists calls for slowdown - The Washington Post",
-      "summary": "Trump and sons invest heavily in AI economy as he resists calls for slowdown The Washington Post",
+      "title": "U.S.-NEW YORK-IMF CHIEF-WORLD ECONOMY-RISK - Big News Network.com",
+      "summary": "U.S.-NEW YORK-IMF CHIEF-WORLD ECONOMY-RISK Big News Network.com",
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "The Washington Post",
-      "published": "2026-09-20T15:33:11+00:00",
-      "age_hours": 1.0,
+      "source": "Big News Network.com",
+      "published": "2026-09-20T21:45:00+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLURDOVB2MENaVU53R2RPWkxhVlQ1bkZkUVYyME1ZMEYtY0duUzVPMVR5ay1sMjd0VmQya1JmTE54TGw1RXZHWW4tRC0yY3JSRHBZUjlfSkRHSUdkQTQ0ODdUcGRjd051aHhZbGVUMDVsLTZJMXNUNEs3YXJZNFR0VWIzdm13Tk1MeGFXc0ZNX3JyU19zU2JNQmNWczRaMmlKcWhNckpsWi1SNms1ZmVTUjk5NXBrR05FSVA0?oc=5",
-      "editorial_score": 7.79,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjI5a2JOcmZ6UHFOSGNrNEVOWXdGODRrbEpTWHFpTEVSMm9ETndvWEVJazZRRkVpR0JDSDlaM19NY1RBa0tHQ2pkSklBVll4YUR2Vk9RcU1JVjc5cDlGbVhZNWFRT0ZyRXBXWm1Hb01wMHVCNGxwa2lkTmZxSWZYVW5ENHdqdWNOcHFXcFNiaw?oc=5",
+      "editorial_score": 7.77,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Qatar Non-Hydrocarbon Sector Hits 70% of GDP: QCB Governor on Growth, LNG and AI - News and Statistics - IndexBox",
+      "summary": "Qatar Non-Hydrocarbon Sector Hits 70% of GDP: QCB Governor on Growth, LNG and AI - News and Statistics IndexBox",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "IndexBox",
+      "published": "2026-09-20T21:40:42+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0JnUzJheHFGdlRjbUtJRlN3cUl4MWY5WFI4QURGQndOaDFxUXk4YXkxMl83cWFUVEZmakwzRWItdWprTkUwOW03ZjVoV2FKTUNVLXZPelZHdHhyY25HTVlNb240VmYwNExPVHc4aWNrcDhXUFZua2VITFlYV3hGWEdET05MQjNKZ3hkalM1M2NuQUt1VFVQQ01YVWs?oc=5",
+      "editorial_score": 7.75,
       "source_tier": "C"
     }
   ],
@@ -196,8 +194,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 4,
+    "Mundo": 6,
+    "África": 2,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",

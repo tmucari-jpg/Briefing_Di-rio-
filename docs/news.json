@@ -1,43 +1,77 @@
 {
-  "updated_at": "2026-09-20T16:33:03.774023+00:00",
+  "updated_at": "2026-09-20T22:53:20.543104+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Moçambique procura experiência do Brasil para impulsionar a exploração de petróleo e gás - Rádio Moçambique",
+      "summary": "Moçambique procura experiência do Brasil para impulsionar a exploração de petróleo e gás Rádio Moçambique",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "Rádio Moçambique",
+      "published": "2026-09-20T20:30:12+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0ZlaEhsUmF0czlNM0xicHh6WkdQMEUtTzFWLU04UlVzVkJKVHhtcnpEVlU4cHNyOWRndFdnVEZWOG5yOUExSXBJUFowdTI2OUtrcVpfY203c1hTRng0THlNY2dCM2owaEZaSXQ1T2ZtWEFwQXV0eDJUbjlpb2xPdXdiVjVpZTlwVzZOVHVZT2pTRFZIRHRMaktzbm9WUUNMbDNreUhkc012c0NSQk9n?oc=5",
+      "editorial_score": 10.5,
+      "source_tier": "C"
+    },
+    {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Economia do Irão contrai 10% após o início da guerra",
-      "summary": "A economia iraniana contraiu 10,1% no primeiro trimestre do ano persa, entre março e maio, em comparação com o mesmo período do ano passado, em plena guerra iniciada pelos Estados Unidos há quase sete meses, foi hoje revelado.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-20T14:48:45+00:00",
-      "age_hours": 1.7,
+      "title": "Partido de Putin apontado como vencedor nas eleições legislativas",
+      "summary": "Sem surpresas, o partido de Vladimir Putin, Rússia Unida, é apontado como o vencedor das eleições legislativas, com 57,5% dos votos.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-20T20:07:31+00:00",
+      "age_hours": 2.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/economia-do-irao-contrai-10-apos-o-inicio-da-guerra_n1766622",
-      "editorial_score": 11.65,
+      "link": "https://www.rtp.pt/noticias/mundo/partido-de-putin-apontado-como-vencedor-nas-eleicoes-legislativas_n1766671",
+      "editorial_score": 9.42,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Ventura pede a Montenegro que esclareça se há governantes com ações da REN",
-      "summary": "O presidente do Chega fala em suspeitas de luvas e quer saber que comissões foram pagas e a quem.",
+      "title": "Ricardo Melo Gouveia foi 51º no BMW PGA Championship conquistado por J.J. Spaun",
+      "summary": "O golfista português Ricardo Melo Gouveia terminou hoje na 51.ª posição o BMW PGA Championship, do DP World Tour, que decorreu em Virginia Water, em Inglaterra, e foi conquistado pelo norte-americano J.J. Spaun.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-20T17:52:08+00:00",
+      "age_hours": 5.0,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/outras-modalidades/ricardo-melo-gouveia-foi-51o-no-bmw-pga-championship-conquistado-por-jj-spaun_d1766652",
+      "editorial_score": 8.96,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Gastos com IA superam investimento imobiliário enquanto hyperscalers se aproximam de US$ 1 trilhão por ano - Notícias e Estatísticas - IndexBox",
+      "summary": "Gastos com IA superam investimento imobiliário enquanto hyperscalers se aproximam de US$ 1 trilhão por ano - Notícias e Estatísticas IndexBox",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-20T14:09:47+00:00",
-      "age_hours": 2.4,
+      "source": "IndexBox",
+      "published": "2026-09-20T21:30:46+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/politica/ventura-pede-a-montenegro-que-esclareca-se-ha-governantes-com-acoes-da-ren_v1766616",
-      "editorial_score": 10.5,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWNLWF9vTUV1c3cyOE5GRVJEbkNiRllBamVLZGthUUdxYldrb3A2TjVubTlCRnBtcElZRHRUR09HM2FQNzlpTTNuTEU2N0lid3JnaC1Obk85cW5QQ1VkRm5odjVTcmNEVFlSREF5dl83OHp0SzBFdk5qTHZHR0xYUl82RlVpV0t2czZNQ09aS3RsSElfQ0ExWGJpdnhFN3FBcm9CS0NLaG9Xc0t1YmE0Zmo3X205Zw?oc=5",
+      "editorial_score": 8.71,
+      "source_tier": "C"
     },
     {
       "section": "África",
@@ -51,97 +85,27 @@
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-20T10:30:00+00:00",
-      "age_hours": 6.1,
+      "age_hours": 12.4,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLUpyZVZMT1RTOWxEM0R6eVpRZVdwZjB2R3NvQm96MEpPb2RHNGJqcXFDaGNVSHhLcnZWNk1fVmtjYzB3R0hOaklhUFg4QnNiaGx6M0FtdGhONWp1Y2JDTjhLUFRxbnRPZDlHMm84MVM2MmJKbjlYZXlTLXhtd3VCSHlNY2I2bE9pblk0Wm1CaEpVSXZQcDg3Q0dIRWZPWnBLY0tnTmNFUE5zdkpHNDdiQ19oN1VvOE50R3Q0WUYwUTI2dlRrSWt2QVcxbTcySzVf?oc=5",
-      "editorial_score": 9.73,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Moçambique procura experiência do Brasil para impulsionar a exploração de petróleo e gás - jornalnoticias.co.mz",
-      "summary": "Moçambique procura experiência do Brasil para impulsionar a exploração de petróleo e gás jornalnoticias.co.mz",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "jornalnoticias.co.mz",
-      "published": "2026-09-20T09:25:07+00:00",
-      "age_hours": 7.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWHNSYlZUMnkwZnVwY3l1aElYLVlycVpzNktPbVEtbFR6bkhtSXZDalZGUXFZa3NpZTkxdDJ3c0d2aFpDUE9OY0xveVVwdnlFUTV2WUpud1N2aTI5enFheXExVUo1a2lqczI0WmtFN1l6c1VhYzdObDJOR3BxZzMzN18zOUVWNTJ1NVFVVWdpeHBsU0poaUZFdlEtWnNGcVdqNmg0SXBGSWlBRjNJM0pNWUNCdlpkV1hCd3E0QklYZWhjMnZmbGc?oc=5",
-      "editorial_score": 9.52,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo de Moçambique prevê proibição de sacos plásticos finos até 2027 - port.pravda.ru",
-      "summary": "Governo de Moçambique prevê proibição de sacos plásticos finos até 2027 port.pravda.ru",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "port.pravda.ru",
-      "published": "2026-09-20T11:48:00+00:00",
-      "age_hours": 4.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4cU5DME5NeDFZa1J6NWlDcHRDZFJsczNScU5IMlFLSlcxMGJ4WDlhOVlSbzBsbFh4UU4taFFIaExuUDNHOW1lRWpKT2NOdWxrVlhjc3BrTzhtY2FybGdZWHF1Y0RjNUVxTS1xMU52T21heEpmUE85RGtncDJzRHc?oc=5",
-      "editorial_score": 9.0,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Economia do Irão contrai 10% após o início da guerra - Jornal de Negócios",
-      "summary": "Economia do Irão contrai 10% após o início da guerra Jornal de Negócios",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "Jornal de Negócios",
-      "published": "2026-09-20T15:01:42+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTldWa0d2cDNqR2stMkZVYjYtLWhwdzRSUTh0UTVLRjZqR0c0NkNob21OVEFLeTBIanNnaU9yei1NMlJ2Qjhlb2hxM3ByWm9EMG1zbHZFdy1aajJjTVRYRFpDN1dqR0NnLXRMR1FmQnh0REtxa25LZjF5OWF4eTFjckMyVFJsOGllNXRPdFNzYWhsUGlqVC0tV2JnZ1QtLWk2cGfSAZwBQVVfeXFMTnV3NlBiYklIYllmc0lhcV9DeTNzZVlIVS1rY2hfZlJfT1FXU1IzVEJ5c0NYeWpRQVpSdjBxRUtyZmJlTUVNQzBfRm9ubDVxdXlhRzlDZTlXeDN5N3QtVjIzZnlLWFpCRzl3V1MyLUdlY0VYUWJZUmxhd0R4NkphR2pwU1NtcmRRS1o0QTFhQ1o3NkZjdllzV0FPMWZO?oc=5",
-      "editorial_score": 8.69,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Alemanha prepara hospitais para cenário de guerra com a Rússia - Jornal de Negócios",
-      "summary": "Alemanha prepara hospitais para cenário de guerra com a Rússia Jornal de Negócios",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "Jornal de Negócios",
-      "published": "2026-09-20T14:00:50+00:00",
-      "age_hours": 2.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWjZnNmxJUXI0bmdkZE9pODNTQklkdGMtNTNyNVoxaWRvUGtfQjM3bGZIcHF4S3YyUkZYUDJENEpqSUk1ZUJ3THprYUFYX1pOa1lhc040VUJpX3k2bXg1V3ZGa0VjUDRaT0R0ekdXTzVmeHk4VkJ1TVk5VzFmZUFrb3NzM3drTk1neW8wcVJGN0ZlRUZUaEQzd2xsX1FNOERWbDJqRWJEZTBmSGEyMnFjVQ?oc=5",
-      "editorial_score": 7.48,
+      "editorial_score": 8.42,
       "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "Leopardus tilcayo. Descoberto um novo felino na Bolívia",
-      "summary": "Um pequeno felino que vive nas florestas nubladas dos Yungas bolivianos foi identificado como uma nova espécie para a ciência. O animal recebeu o nome científico Leopardus tilcayo, preservando a designação utilizada há gerações pelas comunidades locais.",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "title": "Legislativas na Rússia. Moscovo fala em vários ciberataques",
+      "summary": "Com quatro anos de guerra e uma fase de hostilidades intensas, os russos estão a votar para as legislativas.",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T14:38:16+00:00",
-      "age_hours": 25.9,
+      "published": "2026-09-19T20:35:47+00:00",
+      "age_hours": 26.3,
       "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/leopardus-tilcayo-descoberto-um-novo-felino-na-bolivia_n1766381",
-      "editorial_score": 7.44,
+      "link": "https://www.rtp.pt/noticias/mundo/legislativas-na-russia-moscovo-fala-em-varios-ciberataques_v1766542",
+      "editorial_score": 7.43,
       "source_tier": "A"
     },
     {
@@ -149,16 +113,33 @@
       "tags": [
         "Economia"
       ],
-      "title": "Tarifas, combustível e juros apertam empresas nos EUA - SpaceMoney",
-      "summary": "Tarifas, combustível e juros apertam empresas nos EUA SpaceMoney",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "title": "Treasuries curtos viram aposta contra a inflação nos EUA - SpaceMoney",
+      "summary": "Treasuries curtos viram aposta contra a inflação nos EUA SpaceMoney",
+      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
       "source": "SpaceMoney",
-      "published": "2026-09-20T13:48:52+00:00",
-      "age_hours": 2.7,
+      "published": "2026-09-20T21:19:02+00:00",
+      "age_hours": 1.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTgyRlZEY2h0di1XYkRpXy00a1ZFc1JqYnJ2LU5Cb3JVY3o5MG1pSG5EalNGZmRMS244RXZPR2l6U29CZVltMV9WeG5NbUY1bVh4Uk5pSTlDQ2dmYjVnOFZKZXF2ZE0tVlhJb3BQOWV1ZE1NNkJ4NDYxcVZjRFVuSVkwNHBCMUxHRnYxTHJiUTV1cVJ6dnpN?oc=5",
-      "editorial_score": 6.44,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzNjUF9KZEloSkVWb0VIMlEyUnIxM0xpblVXcWRoM28xZmpJMWVxeDV6U2RXVFpWZkl2Y1hVS2VHVC01SjVJRXgtOHJPLUR2dGJRVXJ3V3k0eU1lYXVFdGZnTnJiMmtYRERXa0RtcjdSWXliOWg1OXJWdFFhek82STRhTVB3ZXFlT0lPUllMd2w0WEZUZlo5VFBXcFo?oc=5",
+      "editorial_score": 6.67,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Nampula: ministro da Economia quer sector privado mais robusto e competitivo - aimnews.org",
+      "summary": "Nampula: ministro da Economia quer sector privado mais robusto e competitivo aimnews.org",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "aimnews.org",
+      "published": "2026-09-20T11:49:56+00:00",
+      "age_hours": 11.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUndKNWFvLWpQS2N3RE9TQUlDWFZ0M1h4OWRLd0NoVXVMQ2FWamR1MVFrWEs5ZDhPb0duZmptU1pIRXFGcndILVJxZG9oRkhrUTJSMFFRME9Zd1hhMlowUG5HT0JZdnFCU3p3UmJCYzllY0F4OG9LSU5ZQU83WUQ1akJLYmFhLVJWb2s2ZW1VZkstb3ZKdDRuNnFPU1BVZzRpTkJaMWo2Q2htNEU?oc=5",
+      "editorial_score": 5.69,
       "source_tier": "C"
     }
   ],
@@ -180,7 +161,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 5,
+    "Mundo": 4,
     "África": 2,
     "Moçambique": 2
   },
