@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T20:46:02.086767+00:00",
+  "updated_at": "2026-09-21T23:46:55.464845+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,18 +7,53 @@
     {
       "section": "Mundo",
       "tags": [
+        "Energia"
+      ],
+      "title": "Portugal tem por estes dias os combustíveis mais caros de sempre",
+      "summary": "Os preços do gasóleo e da gasolina voltaram a disparar e bateram recordes absolutos. O mais estranho é que, apesar dos preços altos, o consumo aumentou, o que levou a ministra do Ambiente a apelar aos portugueses para que poupem no consumo de energia.",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-21T21:07:47+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/economia/portugal-tem-por-estes-dias-os-combustiveis-mais-caros-de-sempre_v1766873",
+      "editorial_score": 11.44,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
         "Segurança"
       ],
-      "title": "Washington, Copenhaga e Nuuk assinam acordo sobre Gronelândia na terça-feira em Nova Iorque",
-      "summary": "A Dinamarca, a Gronelândia e os Estados Unidos vão assinar na terça-feira um acordo sobre a segurança do território autónomo do Ártico, garantindo a supervisão da NATO.",
+      "title": "Crise climática é questão de segurança diz MNE britânico",
+      "summary": "O ministro britânico dos Negócios Estrangeiros, Ed Miliband, defendeu hoje que a crise climática mundial é uma questão de segurança, que deve ser abordada pelos generais e primeiros-ministros, e não apenas pelos ativistas ambientais.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-21T20:00:34+00:00",
-      "age_hours": 0.8,
+      "published": "2026-09-21T22:10:07+00:00",
+      "age_hours": 1.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/washington-copenhaga-e-nuuk-assinam-acordo-sobre-gronelandia-na-terca-feira-em-nova-iorque_n1766862",
-      "editorial_score": 10.83,
+      "link": "https://www.rtp.pt/noticias/mundo/crise-climatica-e-questao-de-seguranca-diz-mne-britanico_n1766865",
+      "editorial_score": 10.67,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Ministra da Saúde promete soluções para as urgências",
+      "summary": "O Governo anunciou que até ao final de novembro divulgará a reorganização das urgências na Região de Lisboa e Vale do Tejo. A ministra da Saúde prometeu soluções para as urgências até final do ano e revelou que as soluções passam também pela lei dos médicos tarefeiros.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-21T21:14:47+00:00",
+      "age_hours": 2.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/politica/ministra-da-saude-promete-solucoes-para-as-urgencias_v1766876",
+      "editorial_score": 9.48,
       "source_tier": "A"
     },
     {
@@ -31,28 +66,28 @@
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "Carta de Moçambique",
-      "published": "2026-09-21T16:26:58+00:00",
-      "age_hours": 4.3,
+      "published": "2026-09-21T16:31:06+00:00",
+      "age_hours": 7.3,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWpuaU04bXlzT3VtWV9tS0JqOURsQ0s5OHJnbTZHS1hobmpsdTMwaWJvbGtFbVdwMFNna05ENGFOTFNuMWtKbkI3ejRzeUxmUklZVC1zSS1yWURyZnNOMTJCY1VqUVJYRnNKTnV1SEhHWklyczJ4VHBTcVFnVkZySFBWaGxwNFpkc1hRV24zZ21FdGJ3VU1ab3hBeVNJTTIwaHc?oc=5",
-      "editorial_score": 10.1,
+      "editorial_score": 9.48,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Economia"
       ],
-      "title": "Grupo de 22 países quer manter apertado e em mãos humanas o controlo da IA",
-      "summary": "A criação de um órgão de supervisão global e a necessidade de manter a Inteligência Artificial (IA) \"sob direção, supervisão e controlo humanos\" são duas das diretivas que constam de um documento publicado pelo site Politico esta segunda-feira e que foi para já subscrito por 22 países. Uma das ideias que vêm sendo defendidas em várias instâncias - o abrandamento do desenvolvimento da IA - cai no entanto nesta carta.",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "title": "Partido de Vladimir Putin venceu as eleições na Rússia",
+      "summary": "O Rússia Unida mantém a maioria constitucional no parlamento, onde não haverá bancadas de oposição.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-21T20:45:20+00:00",
-      "age_hours": 0.0,
+      "published": "2026-09-21T21:12:47+00:00",
+      "age_hours": 2.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/grupo-de-22-paises-quer-manter-apertado-e-em-maos-humanas-o-controlo-da-ia_n1766863",
-      "editorial_score": 10.0,
+      "link": "https://www.rtp.pt/noticias/mundo/partido-de-vladimir-putin-venceu-as-eleicoes-na-russia_v1766875",
+      "editorial_score": 9.46,
       "source_tier": "A"
     },
     {
@@ -60,16 +95,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "Última Assembleia Geral de Guterres na ONU junta líderes mundiais em Nova Iorque",
-      "summary": "Chefes de Estado e de Governo de 193 países reúnem-se na sede da ONU, em Nova Iorque, entre 22 e 28 de setembro, onde vão discutir os desafios globais que consideram prioritários. A sessão anual do debate geral conta com a presença do primeiro-ministro português, Luís Montenegro, que viaja para os Estados Unidos na terça-feira.",
+      "title": "Extrema-direita continua a crescer na Alemanha",
+      "summary": "As eleições regionais na Alemanha confirmaram a tendência de mudança no mapa político do país. Os nacionalistas venceram em Mecklemburgo-Pomerânia Ocidental e os socialistas radicais em Berlim. O partido do chanceler alemão sofreu uma forte derrota nos dois Estados.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-21T20:26:33+00:00",
-      "age_hours": 0.3,
+      "published": "2026-09-21T21:04:47+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/ultima-assembleia-geral-de-guterres-na-onu-junta-lideres-mundiais-em-nova-iorque_n1766860",
-      "editorial_score": 9.94,
+      "link": "https://www.rtp.pt/noticias/mundo/extrema-direita-continua-a-crescer-na-alemanha_v1766872",
+      "editorial_score": 9.44,
       "source_tier": "A"
     },
     {
@@ -83,45 +118,10 @@
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-21T14:30:00+00:00",
-      "age_hours": 6.3,
+      "age_hours": 9.3,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXhZbzlYOGp6TWZqQkZWZWxtYl9oZWd4cE5yY09IbTQ4QVRLNGpzQjJiUk5TZTlobHVIX0hXWEFNeUc1c25ZTGpjam9mSlQwaS1LcmhQUFl1Nm1pdUdSR1Y1YUhNSkNJVmNkNUdmQlBkTHFseXp1S2p3YXo5d2UtOWd5ei04RGpYeC1qQkdlTVRQS0l3Ty1ELVdnQXZHV0FKMlVzdDl3Q3hyQ0VRc0pYRlNyam5ZZmZ6YWNha213WEYwd0R0SjE1N2lJRFNGajJ2cFFmQWNwN0xlU1JPbUFZ?oc=5",
-      "editorial_score": 9.69,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Kiev diz a Bruxelas que levantar sanções contra oligarcas russos é inaceitável",
-      "summary": "A Ucrânia considerou hoje ser \"inaceitável\" que a União Europeia (UE) retire dois oligarcas russos da lista de sanções económicas, considerando que essa decisão enviará \"um mau sinal à Rússia\".",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-21T17:37:40+00:00",
-      "age_hours": 3.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-diz-a-bruxelas-que-levantar-sancoes-contra-oligarcas-russos-e-inaceitavel_n1766835",
-      "editorial_score": 9.35,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "IA"
-      ],
-      "title": "Expansão da IA vai além da tecnologia: demanda por energia e produtividade ganham espaço - Valor Econômico",
-      "summary": "Expansão da IA vai além da tecnologia: demanda por energia e produtividade ganham espaço Valor Econômico",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Valor Econômico",
-      "published": "2026-09-21T20:12:01+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSWdvM2VMTkJLNGdCZjh2VGd0Q1NWdlVCYmZzT3JZZVY5eGdHNlN3aE9weGFFUHpLeDJxa1p0TS1zNHYzX1NmZ09NdFdRUG9JbFZxVFZsQlk2RzFtTzk3Z3BQankzRGl1UzIyZTM0VmNacEhVQUluSC1JMUg5d3NQTi1GQV9BUjRCWnpuVFJrNTFpUHVnV3BXREJRM1phOFk0Y2hlVzU1S2w5a1lVbW9pV2t0QzltZUpQMGEwSEpYMWhWVjdPNm5jcnRJdENmNExITDhTdmxHcmtvX1RndFUyeU1RT3ZqZXNKcDV2ZkQyWDlLSjNs0gGDAkFVX3lxTE5SaU9aT0R6SWJQcUhxZ0Ntd0kybW16akZlUDg0dUkyT21aUl9SQ2Y4eXJqNEhVMFFvQWNrOHh3WTFFb25rUTJyR3JYbWlZQW41aHVBWm0tdlBLU2kybDR5b3VtLURYWUlZNmdPel9oZU1kbFdWZkxqUWtQdW55U0JobUVNSTNZNGFFNFJQTTY2QXJmVHJXNjVwM2VzQ1pmWE4yRHVnVU01MDFqZnc4UlhmbTdSWTBMbHprWWVrWDN3dEFDMTNrczdtT0FKaEFveklGbFFpcWpBRkh3TWs3a2JkWTZfenJpNnRCTDdwVl93UWtDYkFPM2FPLWlCUUdlSnNMUXM?oc=5",
-      "editorial_score": 8.88,
+      "editorial_score": 9.06,
       "source_tier": "C"
     },
     {
@@ -135,10 +135,10 @@
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "Notícias ao Minuto",
       "published": "2026-09-21T20:15:38+00:00",
-      "age_hours": 0.5,
+      "age_hours": 3.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlVOcmhRWlZYWUNxaG52cmhpRnpwaFhRaGZUZlV3WHl1UVRnMWp0OHo4OEs4UW5fNDNtU0ZpdHpCclRZRUdyQlh3WHM0WlJ1N18zUWZtdEp6UmFRUEtMckloVG0xY0Q0V3pUaGhvanVoRzhzdzhiR1dmRTBPMWs2YzhYdlQ0blppeTFyQTdTM2UyWF8xVHpyV1pSNzZ5YTJDTVdJQTRUM0ZWbkZpTTI5Ui04ZVR5Zw?oc=5",
-      "editorial_score": 7.9,
+      "editorial_score": 7.27,
       "source_tier": "C"
     },
     {
@@ -152,10 +152,27 @@
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "Demócrata",
       "published": "2026-09-21T18:18:44+00:00",
-      "age_hours": 2.5,
+      "age_hours": 5.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTktPbU4zanhrTG9UUFZnaXdxWGcybkdObzlxSmw3NXRQSnhmenRmX0RGM2RJekNuQWxJQk4tV0YzeVZtZWZPdFRFajdpMkVqOG10Q3hSdGNfd0lFdkNjc1FNX2xXcnJINmpCY1VIT0JqTmhyUlBiVXlRR2xDVWVVZVZRVUt6UnQ4VjlScjNTWVZraGYyc3RzeW1nMmhnZlNIbkxaODQxb1g1dzAycEhLbXVHREI2MmQ5V0Q4b2FVNFUxOFdjYzc4WVp1dVDSAdIBQVVfeXFMT1RaaWhBVGZ2M1Q0Z1pDRU85Nmw2T1A0X2s1emEyQXcyQlFDQ25YaUtBZUJyVnc3aFg2UmpQd2kwRl93RVhoV1ljeEZtWG5iTFlXUFNqTWhmR1ZmREdPOU80TGEwd0x6X1N3bk40ZFhWYTVXQVNkek02SmIydzJqZzlMY2ZRRktSY0MyOHRTTHR4ZHUxS3M3SmVMMi1VaDVkajcyVV9SemZKUl9YXzk1Unpvd1FQd1gtcEZCdTNRU3NEYVhWVlFjRDBDUUh5eFF0bllR?oc=5",
-      "editorial_score": 7.48,
+      "editorial_score": 6.85,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Inteligência artificial avança, mas só 1 em 5 projetos dá ROI, diz Gartner - suno.com.br",
+      "summary": "Inteligência artificial avança, mas só 1 em 5 projetos dá ROI, diz Gartner suno.com.br",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "suno.com.br",
+      "published": "2026-09-21T22:11:00+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXhRRXVmM0RTUE5oMXA2d1ZpQXpkeVVodXo2dUNDVXRRRWdhM2F6T0lQeXZISXEwTVIyeE5Yc3pXTlB4R2h2YUVFNThWTmk5blB0N1ROSXRMWGFpVFVJNHFlV0Z4Rm80QVA1WFNvbUlUUnBzdkljZ3ZkNmcwX3dMU05sNE01cWNS0gGOAUFVX3lxTE9QRkpfMXNubFpvRmhfcGQ0aVl5aUh4SGxxdXFKZGVvcGEteE12YW9fbERJQUV0dDgxcFJVckotS0NUaVFwa2hnOThHTm5DMFVWZ090T2dwOEdpTFpCUkZ6QzI3T0t6Z2xQb0V4SkU4VVNJOW1tb0IyY0g1SGpsYjlSZUtBU19ZSEhMMXBHc2c?oc=5",
+      "editorial_score": 6.67,
       "source_tier": "C"
     }
   ],
@@ -177,7 +194,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 5,
+    "Mundo": 6,
     "África": 2,
     "Moçambique": 2
   },

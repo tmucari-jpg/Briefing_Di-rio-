@@ -1,27 +1,9 @@
 {
-  "updated_at": "2026-09-21T20:46:07.712611+00:00",
+  "updated_at": "2026-09-21T23:47:03.687356+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
-      "summary": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-21T19:10:52+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
-      "editorial_score": 11.67,
-      "source_tier": "A"
-    },
     {
       "section": "Moçambique",
       "tags": [
@@ -33,78 +15,45 @@
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "Upstream Online",
       "published": "2026-09-21T17:16:00+00:00",
-      "age_hours": 3.5,
+      "age_hours": 6.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTDRTZVQ5N2dNSDFWakZmWldRUzctdFlsTXB6RE9hb3poUGs0elVCa0p0WFhEbzV4NVAxSG5ZNnFBTDlTUjF3T2RHYXJuVzVtb3l5Z3IydjFJR3BlQkVUTzlOTzg0VnptVDhKSURvY01QMFZFb2hMYy1yWjJuWGdiU2RRaEFpbDF4X3VFWlJTUmdrckdUTXF5YmRjcVdWWGJGOVJIdkJRZDkxX25IZ00zVnp4eHB3QmVUM21fcnkxQTRQdjhLM0NJUC1SQXZYSHF1a080bkhXVWs?oc=5",
-      "editorial_score": 11.27,
+      "editorial_score": 10.65,
       "source_tier": "C"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
-      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "BBC World",
-      "published": "2026-09-21T20:26:41+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 10.94,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Putin’s party wins supermajority in Russia’s parliamentary vote",
-      "summary": "Victory of United Russia party strengthens Putin's hand even as the war with Ukraine grows more unpopular.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-21T20:17:39+00:00",
+      "title": "Nigeria to Host 10th Africa Energy Summit as SETI Deepens Focus on Industrial Capacity, Finance, Innovation - THISDAYLIVE",
+      "summary": "Nigeria to Host 10th Africa Energy Summit as SETI Deepens Focus on Industrial Capacity, Finance, Innovation THISDAYLIVE",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "THISDAYLIVE",
+      "published": "2026-09-21T23:18:00+00:00",
       "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
-      "editorial_score": 10.9,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbDJvTldvclJ4VXJQckhjT1dMeFlGcmV1SFlSWjg5Y29sU2hzNzZUY1E1WWt0ODZnRzAyYXUzU2gzOGkzU0hGRHRmcVhZNWJGU2VXZWZiV3F0QmJQZmVzTFNjeFBtOHBHOVVJLV9EN2szaFdWSVpyeC1iSUM2SUN6YmxmajFJem9DUXNDclNab3ZNYVIzUmoyRnNKWUxOZm1FTFJRNXYxRDdQbnlXZ3JhbnQ2aXZZUTAtQ0ZralR5NVdOSXhuTl96LVQ3Ty1Qbjc3bEszb1cwN1pBTDlZekE?oc=5",
+      "editorial_score": 9.9,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
+        "Economia",
         "Segurança"
       ],
-      "title": "FAA halts flights to major US East Coast airports amid outage",
-      "summary": "FAA halts East Coast flights due to equipment outage, affecting major US airports like JFK, Newark, and Philadelphia.",
+      "title": "Russia’s war on Ukrainian trade is a war on global food security - Samoa Observer",
+      "summary": "Russia’s war on Ukrainian trade is a war on global food security Samoa Observer",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-21T20:01:37+00:00",
-      "age_hours": 0.7,
+      "source": "Samoa Observer",
+      "published": "2026-09-21T23:10:58+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage?traffic_source=rss",
-      "editorial_score": 10.85,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Africa’s 3 biggest economies are at UNGA 2026, but their presidents are missing - Business Insider Africa",
-      "summary": "Africa’s 3 biggest economies are at UNGA 2026, but their presidents are missing Business Insider Africa",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Business Insider Africa",
-      "published": "2026-09-21T19:40:29+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVdINVhfbVFmTmE0UE1XbmlkUmI3MXlQdGpER213TGZCVWFJTFl3UDNJTlg4a1hNdk5HT1N0aGd3bkVLWWUxbDAwNUtVLXo0WElsSHVUaEFydUtxNmw4Sms4VWhkVDFrV00zRzl2ek9kbHZkUXRBaGVUWWVFTWo3WFFLMVo1YUkxYmQzUFVMYzdXcGJyeVU3dWo0bzEwbm9RTDJMWVFBU0dOWjlTRmNrZDhwQ2t0UTV3bGxiYm5fX2o0Y0NWQldRUTAtc2ZoRFU?oc=5",
-      "editorial_score": 10.77,
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42YjVsTTNKWEc0c1hpc0tsWWxsaXBORE1KOWpYR0N6Q0ZGdE5OejFZNzlSb1U3OVk2YjdBQVpydENueDdSQUpmYVYtcGtHdmw5SklQbU5hemc5X3VsWGJ3?oc=5",
+      "editorial_score": 9.88,
       "source_tier": "C"
     },
     {
@@ -112,50 +61,84 @@
       "tags": [
         "Economia"
       ],
-      "title": "Ruto at UNGA 81: Why Africa has trillions in savings but still struggles to finance its own infrastructure - Pulse Kenya",
-      "summary": "Ruto at UNGA 81: Why Africa has trillions in savings but still struggles to finance its own infrastructure Pulse Kenya",
+      "title": "South Africa Investigates Moriel Infrastructure Over Contractor Gradings and State Contracts - Head Topics",
+      "summary": "South Africa Investigates Moriel Infrastructure Over Contractor Gradings and State Contracts Head Topics",
       "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Pulse Kenya",
-      "published": "2026-09-21T19:31:20+00:00",
-      "age_hours": 1.2,
+      "source": "Head Topics",
+      "published": "2026-09-21T22:31:00+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSTdwQjFraTdhTDMtX0VsWWJoSzhvZVFscmJGOVlVb3lJZFBSd05sU014STJvY19sbGptbG5MdVVnTnN4cHhKNmhHYTZic0ZvdTVjMnN0S1l0RWREbTEwUTNhMkIxRmRmMjVCUC1tTWFBeE84b0dFMjFIX0RBbnVFVVZlSXdxcW0yMXpVemhwUjIzN1d3WGVZeDBaZ3BnaFlJOFd3SmhoaElodUZDRFVxU1o4N3NFQ09ZZXVHVTExOFRfZnBuTUhTSmhfWDVGWFM5Q1MtakUtakd5bllha1VCNGt3SHBzcS1PX2R3?oc=5",
-      "editorial_score": 9.75,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGhWUjhVWmlZSTVNcFhMdkRnUTJNblNWVjVUaUROaHFHdnB1OGo2R3p2R2JkSm0zTjhva1ZZNVo3LWhMLXBBSUVxN0N6T09SeHRBNTJKS0daSnE1MFI2TFNHNnF6dHpEbFNzaWpMbVBvZGdxZVFSLWpCZlRVSHBNMHBQSXdvZnRPUlM3dlRkUS1tbHRIQm5v?oc=5",
+      "editorial_score": 9.73,
       "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Dangote Refinery IPO reflects our long-term commitment to Africa’s industrial, economic transformation: Aliko Dangote - Peoples Gazette Nigeria",
-      "summary": "Dangote Refinery IPO reflects our long-term commitment to Africa’s industrial, economic transformation: Aliko Dangote Peoples Gazette Nigeria",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Peoples Gazette Nigeria",
-      "published": "2026-09-21T19:09:45+00:00",
-      "age_hours": 1.6,
+      "title": "How iStore ensures South Africa is a first wave country for new Apple hardware - htxt.co.za",
+      "summary": "How iStore ensures South Africa is a first wave country for new Apple hardware htxt.co.za",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "htxt.co.za",
+      "published": "2026-09-21T22:07:30+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb2J4eGVSNng2Yl9hRW5peWdiZkZGam1acmlpVVZGUHNMUWFjMXBoOV93SXZuMm9tRFRBcGhuNklFSDRHRU1NRUJ1V2V3RTFlaW9xbWxsT1I5NzdOZk5hRUUwRHg2UEY1bFJLVXJNeWUxRzBieEdlektBRWFTMkpFTlFqdEJFVW5wVWgzVjlueHdvaGdlSlg3NHpWeE1pVTlQQ3drSUduQjFtZGlyMm8wTE9jbThTV2xDZGI3TGtBY2RoMkhXMEt2dzZUSHR0YW9JdE5naw?oc=5",
-      "editorial_score": 9.67,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3VLUmhkSkNPTDhuM1JtZDRnYlRjQXc0WlFJUjMtWk83eElRU2thWDVITlJ5MDBWdzBaQ2RZVzJRem40bXdKOWFzdE5QbDBoNnJ4czFKeVZxb2c3U18xNG1hcXFoOFhPTWJmcnMxanFmcTlCeEVHenBjWmc3NFNPZ0kxR256M2NidGhWOHBuUEw0Z3Jkd2FUT09oVGFsYzZ4dUZFTldrSmVyQQ?oc=5",
+      "editorial_score": 9.65,
       "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
+        "IA"
+      ],
+      "title": "UK and South African institutions showcase expanding science and technology partnerships - Tech Review Africa",
+      "summary": "UK and South African institutions showcase expanding science and technology partnerships Tech Review Africa",
+      "why": "Technology is reshaping productivity, regulation and business models.",
+      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
+      "source": "Tech Review Africa",
+      "published": "2026-09-21T22:03:03+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR25OcTZPU2p5Zlo2YTkyWGEzMmc1NTFZdHRpUmVjS1pyVl9RazJwaDZKQWppX0xTR0tVZXdCcFRfNUNqblFhWjZYOHo5WGRCYVFFYkVfZW1VUW1LcG9XbUF4STBMdjY3SUR1a3FRbDBkMmZYQ2ZaRXRCamxHZDg3QW5lc0p1QVdrOUUxNF9zbVJpUUdTXzcyTW1yRHQ5Y21iQVFsZjhqb3otTERHWWdBWU1YS3NmVzAtOU80VktKRlI4WDhFRlE?oc=5",
+      "editorial_score": 9.65,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Economia"
       ],
-      "title": "Dangote-backed Sephaku seeks trade protection as SA probes cement dumping - Business News Nigeria",
-      "summary": "Dangote-backed Sephaku seeks trade protection as SA probes cement dumping Business News Nigeria",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Business News Nigeria",
-      "published": "2026-09-21T19:12:45+00:00",
-      "age_hours": 1.6,
+      "title": "Beijing, Washington hold candid exchanges during talks on economic and trade issues - China Daily Global Edition",
+      "summary": "Beijing, Washington hold candid exchanges during talks on economic and trade issues China Daily Global Edition",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "China Daily Global Edition",
+      "published": "2026-09-21T22:53:41+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObkJJa1JPNlNPUmFvU0ozVDlrajlxcnp4RWk4MXhtNzlOQXdick42cUZkYmRCWHNibklzV0FFb25ISUxDSjB1aEpiWkpDZHkwX3BSUkh1TVB3YU9iU2Vhb2VnSHdsSC14Q0c2d0xBUXdtRVdTMkdxbG1EUG1CQkY3UnZsWHB4SHVUcFRIUUZzVGdGWTVaMHY5QTctYV9NVHlqSjkxVTZCdDhRelBDc21oZTZrY1BaREVDNkdPWEY1R3Y1Mjh1ajUxOFZxSDVST1JReWFOS0lyang3NVhTb2JNT2FVcm9CUzRI?oc=5",
-      "editorial_score": 8.67,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDAxUWlNTlJzOE1aTVZBNnl4OWcya0lqYTMtTmJuZUs5NmQ5NmFJMy1EY3g1M0VZVUlvMWR3blpxTnBaejAzSEF2dGFJVDJlM2VJQjZyWi1OVC1WRUVKZ0RvWm15ekNaX3hwVmduR0hLMXk0aGxyTkJnMWxZajdISg?oc=5",
+      "editorial_score": 8.81,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "How Yemen’s Houthis could supercharge global trade disruptions - CBC",
+      "summary": "How Yemen’s Houthis could supercharge global trade disruptions CBC",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "CBC",
+      "published": "2026-09-21T23:15:00+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eVFqRWdXeFk2ZmEyd21IVFQ0TmhmR09kM0piYkhJbjBNc2VROHdTbkRvTER5bnpSbWZ5Q25oMWFBSVFmVnFZRGIyUzV6WUxaMEtsZWVhTS1yUQ?oc=5",
+      "editorial_score": 7.9,
       "source_tier": "C"
     },
     {
@@ -169,10 +152,27 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "Good News Network",
       "published": "2026-09-21T13:00:32+00:00",
-      "age_hours": 7.8,
+      "age_hours": 10.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWxtclJfQ2tHWW5XOFUwdXVCUkxZOEFrbU55U3ZlZXlVejltZmdTV21TQUpSTjhYWW9yLUE5bTdzYU1xWGZIWDVHNUZpc3ZoRlItLWE5T0E5VVVEdS05RXk3VGVHbGFRQVdXbWZzN2xKUE9qdkZBSVk5Q2RnV2haTUxMV0FRbXhaU0pvVjZDR1ktRlVFS3ZDMGRYNXR1bUw0ZDd2VGVwNWhUbGZaUnNFMHNEbnhvbFRCc0tDQ1pXYURLWmkxV0Q4eTkwSQ?oc=5",
-      "editorial_score": 8.38,
+      "editorial_score": 7.75,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "The US-China tech war has evolved since Xi and Trump last met. Who has the edge? - South China Morning Post",
+      "summary": "The US-China tech war has evolved since Xi and Trump last met. Who has the edge? South China Morning Post",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "South China Morning Post",
+      "published": "2026-09-21T22:00:06+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTlM5RVgtVzhURTl3NmYzdlpzT09LbGVhVEFiTk5veVo0VncteldxbUJUdS1BVHBRaVRpM3hsU3ZwMUJoSHl3UFB4aWNLdjF5WF9CS2UzNzRYd0FoblF3U0RZT1dob0VVaGQxSU5HWVV0bnRnSG1tWkRoaFlMMXRuM0tFUXhEYzVTNVVLcDlDYkRfVUFNbTVZYk1MZzZzR3VQLTQyNXUwaU8xUU10ZnpweGp3UzFldlZ2bmZEbWJXaEdwTzAxWWfSAcYBQVVfeXFMTXV5VzhoSlZpcEdpNXpnNVNibXFfTGowM2FmdnRBVE9NLTJWRFJuS2h3UHBWZDkwU0YwWm9IempCWUp5MXZ0a1BJT0MxTVd2ZjV1ektvVHpvc3B3VEVFRklPQjdRSzE2UVg1VUUyNVNSOG9tWkxvUk5DdTdrSmQ5RmZwLURVWE9OckFTNWsyN2VGNDNPX3Z3dmJuQjBVVXFZRkRmYmthLUtxS0pMSlZBaXUyMkxIc3NjNjBKMTJzNFlFU2lKbXl3?oc=5",
+      "editorial_score": 7.62,
       "source_tier": "C"
     }
   ],
