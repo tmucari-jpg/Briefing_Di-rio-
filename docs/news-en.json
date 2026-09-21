@@ -1,59 +1,24 @@
 {
-  "updated_at": "2026-09-21T15:27:50.910336+00:00",
+  "updated_at": "2026-09-21T18:21:06.285704+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "How an economic squeeze is changing everyday life and work for Iranians",
-      "summary": "Iran’s government is trying to change some work patterns to help save on fuel and energy amid struggles and shortages.",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-21T14:50:46+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/9/21/how-an-economic-squeeze-is-changing-everyday-life-and-work-for-iranians?traffic_source=rss",
-      "editorial_score": 11.88,
-      "source_tier": "A"
-    },
-    {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Mozambique: UN rapporteur assesses response to climate change",
-      "summary": "United Nations (UN) Special Rapporteur on human rights and climate change Elisa Morgera begins a visit to Mozambique today to assess the impacts of climate change and the country’s responses. The visit, which runs until 2 October, according to a statement issued by the UN today, aims to gather information on the effects of climate… Source",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-21T11:44:46+00:00",
-      "age_hours": 3.7,
+      "title": "Mozambique president calls for ‘brother country’ Brazil to spur oil and gas industry - Upstream Online",
+      "summary": "Mozambique president calls for ‘brother country’ Brazil to spur oil and gas industry Upstream Online",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Upstream Online",
+      "published": "2026-09-21T17:16:00+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-un-rapporteur-assesses-response-to-climate-change/",
-      "editorial_score": 11.23,
-      "source_tier": "B"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Afreximbank, ATDC Sign $500m Facility to Boost Intra-African Trade | - Business Post Nigeria",
-      "summary": "Afreximbank, ATDC Sign $500m Facility to Boost Intra-African Trade | Business Post Nigeria",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Business Post Nigeria",
-      "published": "2026-09-21T15:09:40+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbmNmWTd6WnhKWkU5WDVNNy1GZ3UxOU1rM0dZNkNKcmtMNHhMaUhqQlNmMHFrX0ZDa3NIbVNSNl9xVk5sMkFMME9VM0F1eTYwREVfVm0yNU5ETE1BeFlpVVFxcTEyNTdjdTBjRFhsSFJCOENlNlVjb1NOdFFQZk02S0d3MTZxU3lPb1lZRG1WSzRjLS1Ld3RmMGw4dw?oc=5",
-      "editorial_score": 10.94,
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTDRTZVQ5N2dNSDFWakZmWldRUzctdFlsTXB6RE9hb3poUGs0elVCa0p0WFhEbzV4NVAxSG5ZNnFBTDlTUjF3T2RHYXJuVzVtb3l5Z3IydjFJR3BlQkVUTzlOTzg0VnptVDhKSURvY01QMFZFb2hMYy1yWjJuWGdiU2RRaEFpbDF4X3VFWlJTUmdrckdUTXF5YmRjcVdWWGJGOVJIdkJRZDkxX25IZ00zVnp4eHB3QmVUM21fcnkxQTRQdjhLM0NJUC1SQXZYSHF1a080bkhXVWs?oc=5",
+      "editorial_score": 11.77,
       "source_tier": "C"
     },
     {
@@ -61,68 +26,85 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti",
+      "title": "Protesters march on Islamabad over soaring fuel prices",
+      "summary": "Pakistan’s Jamaat-e-Islami party has launched a protest march towards Islamabad over soaring fuel prices.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "BBC World",
-      "published": "2026-09-21T14:14:16+00:00",
-      "age_hours": 1.2,
+      "source": "Al Jazeera English",
+      "published": "2026-09-21T17:48:51+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 10.75,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
+      "editorial_score": 10.9,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Paramount settles with US states in step towards merger with Warner Bros",
+      "summary": "Ellison-led Paramount will avoid daily $7m fee if the $110bn Warner Bros merger closes by September 30.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-21T17:42:24+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss",
+      "editorial_score": 10.88,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "How is Europe dealing with ‘hybrid war’?",
+      "summary": "European leaders accuse Russia of hybrid warfare.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-21T17:12:32+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
+      "editorial_score": 10.77,
       "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
-        "IA"
+        "Economia"
       ],
-      "title": "Dangote Industries Plans Massive Cross-Border Pipeline Expansion Across Africa - Pipeline Technology Journal",
-      "summary": "Dangote Industries Plans Massive Cross-Border Pipeline Expansion Across Africa Pipeline Technology Journal",
-      "why": "Technology is reshaping productivity, regulation and business models.",
-      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
-      "source": "Pipeline Technology Journal",
-      "published": "2026-09-21T15:14:17+00:00",
-      "age_hours": 0.2,
+      "title": "Giveday: The missing infrastructure in Africa’s generosity - Blueprint Newspapers",
+      "summary": "Giveday: The missing infrastructure in Africa’s generosity Blueprint Newspapers",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "Blueprint Newspapers",
+      "published": "2026-09-21T17:55:48+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFZfZi1teDNuUXA5MWN6OEY5Mm55eTJtVVRVT0wyRzAzM2xVWDM3elhheUNkRXNhWWJCR3VoMVlEWUYybkFnZVJlWXZvT3FNNXpRMXJfZy1IVVhzYVUwM2JGSG5NZ0FPd0V0THc4a3NORnYzQnRldjhiQll4V1F3QnZENnhVakNaVkplUUROdVZNekdZQ0x5YXBtckJWekxPQk94NmNkYTBReDRjOFVvZ2Q1ak52Q0E?oc=5",
-      "editorial_score": 9.96,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZIMEVCMG1TTnBRSFdxUHpudEw2Q3k5VzJPeFUwVkt1d0tRaExFdkRZYlhTeHN3VEFjd25kc2ZNXzdaa29EQWVKYTlIaHpWdUpvb1JzWHpORzExNUxvZG52bWZqYkRqclNzSm9NTnF4MkdiQ05hc2hNRUlfM3FrSUJwNUI?oc=5",
+      "editorial_score": 9.92,
       "source_tier": "C"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "UNGA 81: Africa faces $247bn annual climate finance gap, Sahara Group urges fresh investment - The Sun Nigeria",
-      "summary": "UNGA 81: Africa faces $247bn annual climate finance gap, Sahara Group urges fresh investment The Sun Nigeria",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "The Sun Nigeria",
-      "published": "2026-09-21T15:11:15+00:00",
-      "age_hours": 0.3,
+      "title": "China expels two top ‘disloyal’ military leaders from Communist Party",
+      "summary": "China removes two top generals over corruption, disloyalty as part of an ongoing anti-corruption crackdown.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-21T16:56:30+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlNyUUJZZVBZZVNjT1dkODl1aFcxaWltWnJ4MUdMclYyT1M4N1dqTW5Mdmw0aERydENVb3JHRHhrWlhfS09FVlI0RUJuajRSd2xHZnhUX0k5V0ROS2dUTUNSd1ktX0FTaExxMmRtb3VSMmFJbEl0TnBFcklzV1JOb2dVM2xOTVZwc3JBZWJYVkhtZDhpNEE3OVVqYU1tV0J0RTZBNnVOTFE1YTlv?oc=5",
-      "editorial_score": 9.94,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "South Africa finds evidence of cement dumping from Mozambique, Vietnam - Business News Nigeria",
-      "summary": "South Africa finds evidence of cement dumping from Mozambique, Vietnam Business News Nigeria",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Business News Nigeria",
-      "published": "2026-09-21T14:48:44+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR1FfTzZrQXZ1TWRSbVprOXBmelBpckJsM2JOWHRneUtMemgwdnZISkxJd3laeGhvd1ItNmRBaGJ2aUZnR2VmemNwdnVzYjRMRmtIMWhVMW13N0dDb1RHZmRqM2NqU2JmQ0pMejR3NlVkcnhLaXFrWmFnaFNNNC0wN2taN1l2NFBTdF9abm15Ym5zRXFqM3FhTDh2d3VBZmpUOTR2Qnp3Z3JPZFV6a0VUWU5MeTg0ckNfYkl5NFgtaG13RTVWSWVwcU54dnpjMVFrU2JKVEZRVWNhNzF1N2h0OUNWdw?oc=5",
-      "editorial_score": 9.88,
-      "source_tier": "C"
+      "link": "https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss",
+      "editorial_score": 9.71,
+      "source_tier": "A"
     },
     {
       "section": "Mundo",
@@ -134,29 +116,29 @@
       "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "BBC World",
-      "published": "2026-09-21T14:26:29+00:00",
-      "age_hours": 1.0,
+      "published": "2026-09-21T16:54:56+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 9.79,
+      "editorial_score": 9.71,
       "source_tier": "A"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Is it a missile? Is it a drone? What’s the Pelican used by Ukraine?",
-      "summary": "The use of the Pelican has provoked interest among military analysts as to whether it is a tactical ballistic missile.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-21T14:19:46+00:00",
-      "age_hours": 1.1,
+      "title": "Dangote plans $10bn power investment across Nigeria, Africa - Vanguard News",
+      "summary": "Dangote plans $10bn power investment across Nigeria, Africa Vanguard News",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "Vanguard News",
+      "published": "2026-09-21T16:31:43+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/21/is-it-a-missile-is-it-a-drone-whats-the-pelican-used-by-ukraine?traffic_source=rss",
-      "editorial_score": 9.77,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFExU3c3RTk5dkxWVEVEX1ZZRTZETDZKbHBUM1M2ekh4OE5QMXc4YlBoU0dreWNtelNHUTRtdzlhNlBmODczY1d6bjNKTFVVMWlHZDI1SlRaTXVCR242Um05eWFtOXNYNDlSNjBaUjltUEprSGFteTI0UWhuTVNKOWd6YnE2QlFQTkNtMVdZYlRSakN4TzM0MktB0gGfAUFVX3lxTFA5V21pYW5nY0tYZS00NzEyc3NKQTRsZXVwMXVubXJJQnFKMG9qcW1GeWktaWNVNFRJMnRwZUI0eGI0WlJZNjdaUzFFUWxRai1pZFBnNzZRS2pVcEc2Y0lOekF2YnZ3MHkwd3c1N0ZZMU53WURtS2VIWDlYT2JiUHlRa0xyX01GT3lzbHl3dHJPV1Q1Z1VfUmN1VEFPd1p0RQ?oc=5",
+      "editorial_score": 9.62,
+      "source_tier": "C"
     },
     {
       "section": "Moçambique",
@@ -169,10 +151,27 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "Good News Network",
       "published": "2026-09-21T13:00:32+00:00",
-      "age_hours": 2.5,
+      "age_hours": 5.3,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWxtclJfQ2tHWW5XOFUwdXVCUkxZOEFrbU55U3ZlZXlVejltZmdTV21TQUpSTjhYWW9yLUE5bTdzYU1xWGZIWDVHNUZpc3ZoRlItLWE5T0E5VVVEdS05RXk3VGVHbGFRQVdXbWZzN2xKUE9qdkZBSVk5Q2RnV2haTUxMV0FRbXhaU0pvVjZDR1ktRlVFS3ZDMGRYNXR1bUw0ZDd2VGVwNWhUbGZaUnNFMHNEbnhvbFRCc0tDQ1pXYURLWmkxV0Q4eTkwSQ?oc=5",
-      "editorial_score": 9.48,
+      "editorial_score": 8.9,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA - The Globe and Mail",
+      "summary": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA The Globe and Mail",
+      "why": "Technology is reshaping productivity, regulation and business models.",
+      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
+      "source": "The Globe and Mail",
+      "published": "2026-09-21T16:54:02+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY1BQbGlfNmRaVU5zZUFhTzBTSGxtM1RsUWkwWktEbVJIYjB4eTRGTktTRFdFbE54SDgtR0xzQUNfdnVCNjdLbmxfRGFYbEp0dTlYWmxwUnAzeE9Kc0pmTkNZTE5nS3VTQ0lYTFhzYk9tRmlRY0JEZGxscmJYeDhfdWJhN1YzMkxVNzBjb2Y1c3hURDNtRTBCX2pYSVNtWnBkMXFDX3pVNU92aE1fMUZlOWxQOXIxYlA4MUIxOFNYcldIM1ZQaHJ6bFZVbU5fLWZlY3hxbWYzQTVxeFU?oc=5",
+      "editorial_score": 7.71,
       "source_tier": "C"
     }
   ],
@@ -194,8 +193,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 4,
+    "Mundo": 6,
+    "África": 2,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
