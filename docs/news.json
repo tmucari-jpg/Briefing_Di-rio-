@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T10:22:50.036230+00:00",
+  "updated_at": "2026-09-21T15:27:41.710778+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,35 +7,18 @@
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
-      ],
-      "title": "Putin e a guerra (também) psicológica contra os europeus",
-      "summary": "O líder russo \"joga\" com o medo como o grande aliado ao mesmo tempo que testa os países europeus. O caso mais recente é o do drone armado no aeroporto de Leipzig, que as autoridades alemãs atribuíram aos serviços de informação russos. Razões para os responsáveis de serviços de informação europeus alertarem que Moscovo prepara uma ação mais decisiva contra a NATO.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-21T10:19:00+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/putin-e-a-guerra-tambem-psicologica-contra-os-europeus_n1766745",
-      "editorial_score": 10.98,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
         "Energia"
       ],
-      "title": "IGAS quer taxas moderadoras à entrada dos hospitais para evitar fugas de cidadãos não residentes",
-      "summary": "A Inspeção Geral da Saúde quer que as Unidades Locais de Saúde imponham taxas moderadoras pagas à entrada dos hospitais e um sistema de check-out para evitar fugas a pagamentos por cidadãos não residentes.",
+      "title": "Governo apela a utilização cautelosa de energia hídrica",
+      "summary": "Numa altura em que o país enfrenta uma crise energética e os combustíveis atingem o valor mais alto de sempre, a ministra do Ambiente apela a uma \"utilização cautelosa da energia renovável hídrica\", Maria da Graça Carvalho destaca o papel da energia hidroelétrica na proteção do país face à subida do preço do gás.",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-21T09:53:30+00:00",
-      "age_hours": 0.5,
+      "published": "2026-09-21T13:52:44+00:00",
+      "age_hours": 1.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/igas-quer-taxas-moderadoras-a-entrada-dos-hospitais-para-evitar-fugas-de-cidadaos-nao-residentes_n1766760",
-      "editorial_score": 10.9,
+      "link": "https://www.rtp.pt/noticias/economia/governo-apela-a-utilizacao-cautelosa-de-energia-hidrica_n1766804",
+      "editorial_score": 11.67,
       "source_tier": "A"
     },
     {
@@ -43,33 +26,121 @@
       "tags": [
         "Economia"
       ],
-      "title": "Maputo: Município Recolhe Apenas 60% do Lixo Produzido Diariamente - diarioeconomico.co.mz",
-      "summary": "Maputo: Município Recolhe Apenas 60% do Lixo Produzido Diariamente diarioeconomico.co.mz",
+      "title": "Relatora da ONU Está em Moçambique Para Avaliar Impactos Das Alterações Climáticas - diarioeconomico.co.mz",
+      "summary": "Relatora da ONU Está em Moçambique Para Avaliar Impactos Das Alterações Climáticas diarioeconomico.co.mz",
       "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "diarioeconomico.co.mz",
-      "published": "2026-09-21T09:40:00+00:00",
-      "age_hours": 0.7,
+      "published": "2026-09-21T14:30:00+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0ZrZTRmSmJSdzBRYkI0MDU2Q3luUHdkOWFMczFoWndSQW5wYmhJUE5xWnozN3N1OG5QWUZCeV9Ib2g3SHNSeXU3bHYxNEdlYk5JUVZ2dDJoYXRWUjdxdFpfZ3BMX3BSc3RZakRnTzZZaS1sVm1IekY5YnlaTFJkTTZtekh2ajJIWWJ6M0Q0ZVNteVd4b3ZqNkgzbHdRSGJabHBtM1Z6Mi0yNlIxTzJJNTEwTkEtdVRoenRiQjQ4REs4VlF2LXdz?oc=5",
-      "editorial_score": 10.85,
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXhZbzlYOGp6TWZqQkZWZWxtYl9oZWd4cE5yY09IbTQ4QVRLNGpzQjJiUk5TZTlobHVIX0hXWEFNeUc1c25ZTGpjam9mSlQwaS1LcmhQUFl1Nm1pdUdSR1Y1YUhNSkNJVmNkNUdmQlBkTHFseXp1S2p3YXo5d2UtOWd5ei04RGpYeC1qQkdlTVRQS0l3Ty1ELVdnQXZHV0FKMlVzdDl3Q3hyQ0VRc0pYRlNyam5ZZmZ6YWNha213WEYwd0R0SjE1N2lJRFNGajJ2cFFmQWNwN0xlU1JPbUFZ?oc=5",
+      "editorial_score": 10.79,
       "source_tier": "C"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "Presidente Daniel Chapo discursa no Fórum de Petróleo e Gás 2026 - Rádio Moçambique",
-      "summary": "Presidente Daniel Chapo discursa no Fórum de Petróleo e Gás 2026 Rádio Moçambique",
+      "title": "Moçambique: Defesa garante segurança da população após ataque terrorista em Marrupa - RFI",
+      "summary": "Moçambique: Defesa garante segurança da população após ataque terrorista em Marrupa RFI",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "RFI",
+      "published": "2026-09-21T13:51:16+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV3l1MzNwWUlrRWI1T2lvdnpybi1UTXU3NENuUEJRSnBxTHVvX2taMFYxc0RUSVk3S3ZpSGlzVkE0X3l3UVBBejlRck0xM1lRQXc4X3ZPRTc3MUplY1VYQUtKS3lxeENzdDN2NFhpN0ZuWUwtalEyYlhMeUVwWFcyRV9hMThOcjBTX3M3bDVmVEZzbDViRmRzRkNkb1k4RDJjYUtYTHNhM01pTFkwYWxCNGlxajI0RHFJbEdTdnhicnJYeVRvVHlfd3V4UGkzdkFhTUxER3V2QUIxU3Z4N2FYZURReXZCdWE4UEF4Rk9sb282NTVXa2ow?oc=5",
+      "editorial_score": 10.67,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "CNN, MS NOW e Politico avançam com ação judicial após serem excluídos da Casa Branca",
+      "summary": "Os três órgãos de comunicação notificaram o Governo norte-americano de que iriam interpor uma ação no Tribunal Distrital dos Estados Unidos para o Distrito de Columbia.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-21T15:21:39+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/cnn-ms-now-e-politico-avancam-com-acao-judicial-apos-serem-excluidos-da-casa-branca_n1766823",
+      "editorial_score": 9.98,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Sérvia. Humorista satírico faz apelo a Portugal",
+      "summary": "A um mês das eleições legislativas na Sérvia, a liberdade de expressão e de imprensa é um tema que preocupa os cidadãos. Depois de 13 anos de emissão na televisão Nova S, o programa satírico mais popular da televisão sérvia \"24 minutos\" deixou de ser emitido.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-21T14:08:47+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/servia-humorista-satirico-faz-apelo-a-portugal_v1766816",
+      "editorial_score": 9.73,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Partido de Putin confirmou maioria na Duma",
+      "summary": "O partido Rússia Unida, do presidente Vladimir Putin, confirmou a maioria na Duma. O parlamento fica assim ainda mais alinhado com o Kremlin, com destaque para a campanha militar na Ucrânia.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-21T13:51:47+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/partido-de-putin-confirmou-maioria-na-duma_v1766811",
+      "editorial_score": 9.67,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Órigo Energia Projeta Economia De R$ 4,5 Milhões Com IA No Atendimento Ao Cliente - cenarioenergia.com.br",
+      "summary": "Órigo Energia Projeta Economia De R$ 4,5 Milhões Com IA No Atendimento Ao Cliente cenarioenergia.com.br",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Rádio Moçambique",
-      "published": "2026-09-21T08:31:35+00:00",
-      "age_hours": 1.9,
+      "source": "cenarioenergia.com.br",
+      "published": "2026-09-21T13:52:02+00:00",
+      "age_hours": 1.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0xqSFBxWktlZGJrbEdUOWhnbDF3QmMwNUNyY0NGWTYtNFdaZEE3NUpudV80SThTdGdYdk9xTXZXUUNBc0puUUVJQzVyOVVoMXF6ZGZOc0RqRElkQWJrMGJidlZpTTJyYldsblBfMG92X0hhQTNuQ1d3NFBKd3lOR0FEREVUV2RhTEgzLVhtUQ?oc=5",
-      "editorial_score": 10.6,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0h1SzhicXBvUGVyVkgzQ0h0a0c1WDk1bmU3c3kzREpIbHdtcDNWUWVUSUk1eFhRWUdUU1c4aXc2R2M5ZXFNN200bjVzelVwT1ZfSzdTUmtYbElHRFctbjdPY0kxdVQtYV9oamxLWmQ2SHlnZjlraFc0UG85RG9sZGRUaW42dC1GM1RpTlduelI5LXBra3ZjTV9XZGZ5WFByLVQ0X3dlTG44bU5CMVhZSFpLcWtFNlpId09ia0V3?oc=5",
+      "editorial_score": 8.67,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Avanço de assistentes de inteligência artificial abre janela para investimento em segurança digital; veja opções - Money Times",
+      "summary": "Avanço de assistentes de inteligência artificial abre janela para investimento em segurança digital; veja opções Money Times",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "Money Times",
+      "published": "2026-09-21T13:49:00+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObUhCVDBndzlBWlIwRWNkemxnSjNldEpHUS1GbXVNMzhBT1NXNkpEbHhZZmpQeEJDcEpaNG5jV1NHSWZlRHV1bDJ2RllMSmZfaENiVTB2THNSa2JuOHBTWkVNcGhLN2ZXZ3dEbEdETHZ5Y3piUjlXVlBjQ0pITU11TFdvazllVXJpM0U2RE12ODYzSzBNN2JRODFsOUJaNnF0QkJJOExNeEJHempyQ2V1bWh0TElsZGE2ZndMdExNVUdmQm16b2JCOUFn?oc=5",
+      "editorial_score": 8.67,
       "source_tier": "C"
     },
     {
@@ -84,44 +155,10 @@
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-21T06:45:00+00:00",
-      "age_hours": 3.6,
+      "age_hours": 8.7,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU3ZIOUFPQzIzWnc0eFUtV1ZFS1A2ZWpQeHJPeEp0R0o2ZlRxX0w1QW4wQzJRRFNjUGk5MUIxSjNfSk5wbDJZM2RnMHJGSFVZX2NUSlRwS3dOV2Jud1J1YWVHWVlMZFpTQ3JqQkJBVWNHUmhIYjJXMTVjVDFOSWd4bUprdnZvNmd4VExZMWQ0LTY2RGszWjJKTlZWRG1jb0tqNkoyaGhTbERlalBHTnhjTkhLY3hnODFwX2stZ1JwaDhHaFFYdzJHTjJnWUdvOGNZV05sOQ?oc=5",
-      "editorial_score": 8.25,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "EUA: China Confirma Visita de Xi Jinping a Convite de Donald Trump - diarioeconomico.co.mz",
-      "summary": "EUA: China Confirma Visita de Xi Jinping a Convite de Donald Trump diarioeconomico.co.mz",
-      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-21T10:00:56+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3FjWEpuSERRbl81aE1OMjB5dldMNzI4WmdDc204aURicU1Ja2VULTlUQlJXVnFkdUQ0SHhXeUc0TEFVMlAxTWp6WHVlMFdVQWpQUzdLZ2JLVTFRRGhlS0tuT2tKLWwyZDdVcmEtdHgyY2JmTEdUdzRGWWNRWkJxbE9HbkNzREhLZXppM1FWai1PWVJXa1dNcHJNay1GTUl3NmJucDlicC1kVzFRSVpaYzNQcEZSQzV3OHlTR2hn?oc=5",
-      "editorial_score": 7.92,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Petróleo: Trump volta a meter água na fervura depois de se ter \"divertido\" a lançar gasolina para a fogueira - Novo Jornal",
-      "summary": "Petróleo: Trump volta a meter água na fervura depois de se ter \"divertido\" a lançar gasolina para a fogueira Novo Jornal",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Novo Jornal",
-      "published": "2026-09-21T09:08:30+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc3dwcUQzWnpsSWxkazIxNDNNOGlVY2lBTWY4UVEyckwyTGt0YlFyaHBWRVNyY3Q0RUhKeHo3bHZld1V2aEx2TUtiZURqSUNsS3pxXy0yakNLanZPb215b0gxRmJwSjc2UFVkYlk3ekJBY1ZaMXlVRDRwb2FxMkY4Vjk1TEZENmt1eU1yUmdBS2h0X3RwN3JwOFVocUFpQkRpUDFqNnE4Y2hwTVp1eTBYVHJxN09ubFpwNEwwaU1QaTZDcVZRSjI4Tll5X21CckJGT2RlUTJmbmJ3THpZdlNrUk9KM0hsMnVJbkJIYnItdlVJcXM?oc=5",
-      "editorial_score": 7.75,
+      "editorial_score": 7.19,
       "source_tier": "C"
     },
     {
@@ -129,33 +166,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "Cyril Ramaphosa anuncia eleições locais na África do Sul para 4 de Novembro - jornaldeangola.ao",
-      "summary": "Cyril Ramaphosa anuncia eleições locais na África do Sul para 4 de Novembro jornaldeangola.ao",
+      "title": "Cyril Ramaphosa anuncia eleições locais na África do Sul para 4 de Novembro - Jornal de Angola",
+      "summary": "Cyril Ramaphosa anuncia eleições locais na África do Sul para 4 de Novembro Jornal de Angola",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "jornaldeangola.ao",
+      "source": "Jornal de Angola",
       "published": "2026-09-21T03:59:57+00:00",
-      "age_hours": 6.4,
+      "age_hours": 11.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRmRNOEtqSUhLZ25nSlZTV1RuSnZsX0ZERnBYY0xiSTVvNGxKOEVyVW5Bb0V3ZGNERS1yMVMwU3pMdUZRNE5fLXlkMlJaSmhYVTZNdjl4Y0EyNmRDMUo0T0xQUl9maWRHeUoxTk1Fbw?oc=5",
-      "editorial_score": 7.67,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Sánchez lança o Plano IA360 e convocará os agentes sociais para um grande pacto nacional sobre inteligência artificial - Demócrata",
-      "summary": "Sánchez lança o Plano IA360 e convocará os agentes sociais para um grande pacto nacional sobre inteligência artificial Demócrata",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "Demócrata",
-      "published": "2026-09-21T08:47:16+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOE9rNFA3ckJWQlItUEdReFVsWGNyWjc1TGI0UFpOZlVCaUxRSDRUZ0NUbHlSdF9fdU1WVHlzNThqV1dwSVpLVnhEQVBjTlVObS13bHFNR3BpVlhEaFNoSGsyQjhLcEp5NjloZXpUWHcxcnpGeVNESGtYWXNMVTJleWNFaHV1bkpJUzE0MVNGc210NWJwazV6SmNyT3Jwa0VWOU52WVdxWjJfVWloMl9zMkUyeEJYMFRrek1UQnNNY182OEZfcjVObngyeDg0NDM5Y3piVnJiQVdtdEVyZ3czSUUxdlBmajM2R04zYtIB8gFBVV95cUxNNVhpd0F4elM0VzVvb1BMYTg3SzdNYVZtY0xxQkFhM0ZYclBoVU5seGQ3NGw0TGNMMzczRDhUcXpDdFBMaHZvaXI4WGFpYTJBU0p0cGUzZjR1WldqSEFUZzF5T3ZQM0doZ1V2UWNLdkUwSVBpN2k1SVVldXJwTzNuRV9ERHBiZkRlUWg3TEJRd284OFdMODZPMUlsTzhIZjFqeWF4MlRwNlVuWlpqdFA3dnk5cEE0Ti1VVEZSbDJnZHlhU3g3ZUtKVTJDZFE1RTNfaGtXNVFaZjZ6V1ZWam9HYkNsV0tyajZuMkhCNTI3cUd3QQ?oc=5",
-      "editorial_score": 6.67,
+      "editorial_score": 6.6,
       "source_tier": "C"
     }
   ],
@@ -177,7 +197,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 5,
+    "Mundo": 6,
     "África": 2,
     "Moçambique": 2
   },
