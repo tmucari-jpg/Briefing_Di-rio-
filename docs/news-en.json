@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-09-21T18:21:06.285704+00:00",
+  "updated_at": "2026-09-21T20:46:07.712611+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
+      "summary": "Republican support for Trump dips to 73 percent, down from 82 percent, as war and inflation concerns dominate polls.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-21T19:10:52+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
+      "editorial_score": 11.67,
+      "source_tier": "A"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -15,10 +33,10 @@
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "Upstream Online",
       "published": "2026-09-21T17:16:00+00:00",
-      "age_hours": 1.1,
+      "age_hours": 3.5,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTDRTZVQ5N2dNSDFWakZmWldRUzctdFlsTXB6RE9hb3poUGs0elVCa0p0WFhEbzV4NVAxSG5ZNnFBTDlTUjF3T2RHYXJuVzVtb3l5Z3IydjFJR3BlQkVUTzlOTzg0VnptVDhKSURvY01QMFZFb2hMYy1yWjJuWGdiU2RRaEFpbDF4X3VFWlJTUmdrckdUTXF5YmRjcVdWWGJGOVJIdkJRZDkxX25IZ00zVnp4eHB3QmVUM21fcnkxQTRQdjhLM0NJUC1SQXZYSHF1a080bkhXVWs?oc=5",
-      "editorial_score": 11.77,
+      "editorial_score": 11.27,
       "source_tier": "C"
     },
     {
@@ -26,15 +44,32 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Protesters march on Islamabad over soaring fuel prices",
-      "summary": "Pakistan’s Jamaat-e-Islami party has launched a protest march towards Islamabad over soaring fuel prices.",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "BBC World",
+      "published": "2026-09-21T20:26:41+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 10.94,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Putin’s party wins supermajority in Russia’s parliamentary vote",
+      "summary": "Victory of United Russia party strengthens Putin's hand even as the war with Ukraine grows more unpopular.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "Al Jazeera English",
-      "published": "2026-09-21T17:48:51+00:00",
+      "published": "2026-09-21T20:17:39+00:00",
       "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
       "editorial_score": 10.9,
       "source_tier": "A"
     },
@@ -43,33 +78,16 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Paramount settles with US states in step towards merger with Warner Bros",
-      "summary": "Ellison-led Paramount will avoid daily $7m fee if the $110bn Warner Bros merger closes by September 30.",
+      "title": "FAA halts flights to major US East Coast airports amid outage",
+      "summary": "FAA halts East Coast flights due to equipment outage, affecting major US airports like JFK, Newark, and Philadelphia.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "Al Jazeera English",
-      "published": "2026-09-21T17:42:24+00:00",
-      "age_hours": 0.6,
+      "published": "2026-09-21T20:01:37+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss",
-      "editorial_score": 10.88,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "How is Europe dealing with ‘hybrid war’?",
-      "summary": "European leaders accuse Russia of hybrid warfare.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-21T17:12:32+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
-      "editorial_score": 10.77,
+      "link": "https://www.aljazeera.com/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage?traffic_source=rss",
+      "editorial_score": 10.85,
       "source_tier": "A"
     },
     {
@@ -77,67 +95,67 @@
       "tags": [
         "Economia"
       ],
-      "title": "Giveday: The missing infrastructure in Africa’s generosity - Blueprint Newspapers",
-      "summary": "Giveday: The missing infrastructure in Africa’s generosity Blueprint Newspapers",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Blueprint Newspapers",
-      "published": "2026-09-21T17:55:48+00:00",
-      "age_hours": 0.4,
+      "title": "Africa’s 3 biggest economies are at UNGA 2026, but their presidents are missing - Business Insider Africa",
+      "summary": "Africa’s 3 biggest economies are at UNGA 2026, but their presidents are missing Business Insider Africa",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "Business Insider Africa",
+      "published": "2026-09-21T19:40:29+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZIMEVCMG1TTnBRSFdxUHpudEw2Q3k5VzJPeFUwVkt1d0tRaExFdkRZYlhTeHN3VEFjd25kc2ZNXzdaa29EQWVKYTlIaHpWdUpvb1JzWHpORzExNUxvZG52bWZqYkRqclNzSm9NTnF4MkdiQ05hc2hNRUlfM3FrSUJwNUI?oc=5",
-      "editorial_score": 9.92,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMVdINVhfbVFmTmE0UE1XbmlkUmI3MXlQdGpER213TGZCVWFJTFl3UDNJTlg4a1hNdk5HT1N0aGd3bkVLWWUxbDAwNUtVLXo0WElsSHVUaEFydUtxNmw4Sms4VWhkVDFrV00zRzl2ek9kbHZkUXRBaGVUWWVFTWo3WFFLMVo1YUkxYmQzUFVMYzdXcGJyeVU3dWo0bzEwbm9RTDJMWVFBU0dOWjlTRmNrZDhwQ2t0UTV3bGxiYm5fX2o0Y0NWQldRUTAtc2ZoRFU?oc=5",
+      "editorial_score": 10.77,
       "source_tier": "C"
     },
     {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "China expels two top ‘disloyal’ military leaders from Communist Party",
-      "summary": "China removes two top generals over corruption, disloyalty as part of an ongoing anti-corruption crackdown.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-21T16:56:30+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss",
-      "editorial_score": 9.71,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
-      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "title": "Ruto at UNGA 81: Why Africa has trillions in savings but still struggles to finance its own infrastructure - Pulse Kenya",
+      "summary": "Ruto at UNGA 81: Why Africa has trillions in savings but still struggles to finance its own infrastructure Pulse Kenya",
       "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "BBC World",
-      "published": "2026-09-21T16:54:56+00:00",
-      "age_hours": 1.4,
+      "source": "Pulse Kenya",
+      "published": "2026-09-21T19:31:20+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 9.71,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSTdwQjFraTdhTDMtX0VsWWJoSzhvZVFscmJGOVlVb3lJZFBSd05sU014STJvY19sbGptbG5MdVVnTnN4cHhKNmhHYTZic0ZvdTVjMnN0S1l0RWREbTEwUTNhMkIxRmRmMjVCUC1tTWFBeE84b0dFMjFIX0RBbnVFVVZlSXdxcW0yMXpVemhwUjIzN1d3WGVZeDBaZ3BnaFlJOFd3SmhoaElodUZDRFVxU1o4N3NFQ09ZZXVHVTExOFRfZnBuTUhTSmhfWDVGWFM5Q1MtakUtakd5bllha1VCNGt3SHBzcS1PX2R3?oc=5",
+      "editorial_score": 9.75,
+      "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Dangote plans $10bn power investment across Nigeria, Africa - Vanguard News",
-      "summary": "Dangote plans $10bn power investment across Nigeria, Africa Vanguard News",
+      "title": "Dangote Refinery IPO reflects our long-term commitment to Africa’s industrial, economic transformation: Aliko Dangote - Peoples Gazette Nigeria",
+      "summary": "Dangote Refinery IPO reflects our long-term commitment to Africa’s industrial, economic transformation: Aliko Dangote Peoples Gazette Nigeria",
       "why": "The story helps explain economic and trade trends relevant to Africa.",
       "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Vanguard News",
-      "published": "2026-09-21T16:31:43+00:00",
-      "age_hours": 1.8,
+      "source": "Peoples Gazette Nigeria",
+      "published": "2026-09-21T19:09:45+00:00",
+      "age_hours": 1.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFExU3c3RTk5dkxWVEVEX1ZZRTZETDZKbHBUM1M2ekh4OE5QMXc4YlBoU0dreWNtelNHUTRtdzlhNlBmODczY1d6bjNKTFVVMWlHZDI1SlRaTXVCR242Um05eWFtOXNYNDlSNjBaUjltUEprSGFteTI0UWhuTVNKOWd6YnE2QlFQTkNtMVdZYlRSakN4TzM0MktB0gGfAUFVX3lxTFA5V21pYW5nY0tYZS00NzEyc3NKQTRsZXVwMXVubXJJQnFKMG9qcW1GeWktaWNVNFRJMnRwZUI0eGI0WlJZNjdaUzFFUWxRai1pZFBnNzZRS2pVcEc2Y0lOekF2YnZ3MHkwd3c1N0ZZMU53WURtS2VIWDlYT2JiUHlRa0xyX01GT3lzbHl3dHJPV1Q1Z1VfUmN1VEFPd1p0RQ?oc=5",
-      "editorial_score": 9.62,
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb2J4eGVSNng2Yl9hRW5peWdiZkZGam1acmlpVVZGUHNMUWFjMXBoOV93SXZuMm9tRFRBcGhuNklFSDRHRU1NRUJ1V2V3RTFlaW9xbWxsT1I5NzdOZk5hRUUwRHg2UEY1bFJLVXJNeWUxRzBieEdlektBRWFTMkpFTlFqdEJFVW5wVWgzVjlueHdvaGdlSlg3NHpWeE1pVTlQQ3drSUduQjFtZGlyMm8wTE9jbThTV2xDZGI3TGtBY2RoMkhXMEt2dzZUSHR0YW9JdE5naw?oc=5",
+      "editorial_score": 9.67,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Dangote-backed Sephaku seeks trade protection as SA probes cement dumping - Business News Nigeria",
+      "summary": "Dangote-backed Sephaku seeks trade protection as SA probes cement dumping Business News Nigeria",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "Business News Nigeria",
+      "published": "2026-09-21T19:12:45+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObkJJa1JPNlNPUmFvU0ozVDlrajlxcnp4RWk4MXhtNzlOQXdick42cUZkYmRCWHNibklzV0FFb25ISUxDSjB1aEpiWkpDZHkwX3BSUkh1TVB3YU9iU2Vhb2VnSHdsSC14Q0c2d0xBUXdtRVdTMkdxbG1EUG1CQkY3UnZsWHB4SHVUcFRIUUZzVGdGWTVaMHY5QTctYV9NVHlqSjkxVTZCdDhRelBDc21oZTZrY1BaREVDNkdPWEY1R3Y1Mjh1ajUxOFZxSDVST1JReWFOS0lyang3NVhTb2JNT2FVcm9CUzRI?oc=5",
+      "editorial_score": 8.67,
       "source_tier": "C"
     },
     {
@@ -151,27 +169,10 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "Good News Network",
       "published": "2026-09-21T13:00:32+00:00",
-      "age_hours": 5.3,
+      "age_hours": 7.8,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWxtclJfQ2tHWW5XOFUwdXVCUkxZOEFrbU55U3ZlZXlVejltZmdTV21TQUpSTjhYWW9yLUE5bTdzYU1xWGZIWDVHNUZpc3ZoRlItLWE5T0E5VVVEdS05RXk3VGVHbGFRQVdXbWZzN2xKUE9qdkZBSVk5Q2RnV2haTUxMV0FRbXhaU0pvVjZDR1ktRlVFS3ZDMGRYNXR1bUw0ZDd2VGVwNWhUbGZaUnNFMHNEbnhvbFRCc0tDQ1pXYURLWmkxV0Q4eTkwSQ?oc=5",
-      "editorial_score": 8.9,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA - The Globe and Mail",
-      "summary": "Better Artificial Intelligence Stock: Arm Holdings vs. NVIDIA The Globe and Mail",
-      "why": "Technology is reshaping productivity, regulation and business models.",
-      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
-      "source": "The Globe and Mail",
-      "published": "2026-09-21T16:54:02+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY1BQbGlfNmRaVU5zZUFhTzBTSGxtM1RsUWkwWktEbVJIYjB4eTRGTktTRFdFbE54SDgtR0xzQUNfdnVCNjdLbmxfRGFYbEp0dTlYWmxwUnAzeE9Kc0pmTkNZTE5nS3VTQ0lYTFhzYk9tRmlRY0JEZGxscmJYeDhfdWJhN1YzMkxVNzBjb2Y1c3hURDNtRTBCX2pYSVNtWnBkMXFDX3pVNU92aE1fMUZlOWxQOXIxYlA4MUIxOFNYcldIM1ZQaHJ6bFZVbU5fLWZlY3hxbWYzQTVxeFU?oc=5",
-      "editorial_score": 7.71,
+      "editorial_score": 8.38,
       "source_tier": "C"
     }
   ],
@@ -193,8 +194,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
-    "África": 2,
+    "Mundo": 4,
+    "África": 4,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",

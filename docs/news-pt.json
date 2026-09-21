@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:20:59.874558+00:00",
+  "updated_at": "2026-09-21T20:46:02.086767+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,18 +7,18 @@
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "\"Falta passar do papel à prática\" na ferrovia. Hitachi Rail pede \"previsibilidade\" no setor",
-      "summary": "Portugal atravessa uma \"boa fase\" na ferrovia com vários investimentos em curso, aponta o diretor-executivo da Hitachi Rail em entrevista à RTP Antena 1, mas defende que é precisa previsibilidade perante os projetos que as empresas no setor têm em mãos.",
-      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-21T16:47:20+00:00",
-      "age_hours": 1.6,
+      "title": "Washington, Copenhaga e Nuuk assinam acordo sobre Gronelândia na terça-feira em Nova Iorque",
+      "summary": "A Dinamarca, a Gronelândia e os Estados Unidos vão assinar na terça-feira um acordo sobre a segurança do território autónomo do Ártico, garantindo a supervisão da NATO.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-21T20:00:34+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/falta-passar-do-papel-a-pratica-na-ferrovia-hitachi-rail-pede-previsibilidade-no-setor_n1766825",
-      "editorial_score": 10.67,
+      "link": "https://www.rtp.pt/noticias/mundo/washington-copenhaga-e-nuuk-assinam-acordo-sobre-gronelandia-na-terca-feira-em-nova-iorque_n1766862",
+      "editorial_score": 10.83,
       "source_tier": "A"
     },
     {
@@ -32,11 +32,45 @@
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "Carta de Moçambique",
       "published": "2026-09-21T16:26:58+00:00",
-      "age_hours": 1.9,
+      "age_hours": 4.3,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWpuaU04bXlzT3VtWV9tS0JqOURsQ0s5OHJnbTZHS1hobmpsdTMwaWJvbGtFbVdwMFNna05ENGFOTFNuMWtKbkI3ejRzeUxmUklZVC1zSS1yWURyZnNOMTJCY1VqUVJYRnNKTnV1SEhHWklyczJ4VHBTcVFnVkZySFBWaGxwNFpkc1hRV24zZ21FdGJ3VU1ab3hBeVNJTTIwaHc?oc=5",
-      "editorial_score": 10.6,
+      "editorial_score": 10.1,
       "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Grupo de 22 países quer manter apertado e em mãos humanas o controlo da IA",
+      "summary": "A criação de um órgão de supervisão global e a necessidade de manter a Inteligência Artificial (IA) \"sob direção, supervisão e controlo humanos\" são duas das diretivas que constam de um documento publicado pelo site Politico esta segunda-feira e que foi para já subscrito por 22 países. Uma das ideias que vêm sendo defendidas em várias instâncias - o abrandamento do desenvolvimento da IA - cai no entanto nesta carta.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-21T20:45:20+00:00",
+      "age_hours": 0.0,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/grupo-de-22-paises-quer-manter-apertado-e-em-maos-humanas-o-controlo-da-ia_n1766863",
+      "editorial_score": 10.0,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Última Assembleia Geral de Guterres na ONU junta líderes mundiais em Nova Iorque",
+      "summary": "Chefes de Estado e de Governo de 193 países reúnem-se na sede da ONU, em Nova Iorque, entre 22 e 28 de setembro, onde vão discutir os desafios globais que consideram prioritários. A sessão anual do debate geral conta com a presença do primeiro-ministro português, Luís Montenegro, que viaja para os Estados Unidos na terça-feira.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-21T20:26:33+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/ultima-assembleia-geral-de-guterres-na-onu-junta-lideres-mundiais-em-nova-iorque_n1766860",
+      "editorial_score": 9.94,
+      "source_tier": "A"
     },
     {
       "section": "Moçambique",
@@ -49,10 +83,10 @@
       "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
       "source": "diarioeconomico.co.mz",
       "published": "2026-09-21T14:30:00+00:00",
-      "age_hours": 3.8,
+      "age_hours": 6.3,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXhZbzlYOGp6TWZqQkZWZWxtYl9oZWd4cE5yY09IbTQ4QVRLNGpzQjJiUk5TZTlobHVIX0hXWEFNeUc1c25ZTGpjam9mSlQwaS1LcmhQUFl1Nm1pdUdSR1Y1YUhNSkNJVmNkNUdmQlBkTHFseXp1S2p3YXo5d2UtOWd5ei04RGpYeC1qQkdlTVRQS0l3Ty1ELVdnQXZHV0FKMlVzdDl3Q3hyQ0VRc0pYRlNyam5ZZmZ6YWNha213WEYwd0R0SjE1N2lJRFNGajJ2cFFmQWNwN0xlU1JPbUFZ?oc=5",
-      "editorial_score": 10.21,
+      "editorial_score": 9.69,
       "source_tier": "C"
     },
     {
@@ -66,45 +100,11 @@
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "RTP Notícias — Mundo",
       "published": "2026-09-21T17:37:40+00:00",
-      "age_hours": 0.7,
+      "age_hours": 3.1,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-diz-a-bruxelas-que-levantar-sancoes-contra-oligarcas-russos-e-inaceitavel_n1766835",
-      "editorial_score": 9.85,
+      "editorial_score": 9.35,
       "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Turismo e diplomacia económica ganham destaque no Fórum Económico de Angola - SAPO",
-      "summary": "Turismo e diplomacia económica ganham destaque no Fórum Económico de Angola SAPO",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "SAPO",
-      "published": "2026-09-21T16:32:09+00:00",
-      "age_hours": 1.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOUJBeFpmUUVPa3lOOFhpWHUxY1lnMHQ1bHhzb0pTeDZ3LXZhX2oyZ3RaQ2owdjAtWkwwTHZ2VEx0NjV5WFRUUTVsalpWbnNpeUwyX3ZidlZNSnZzUVkzcDhid0lvdXRCTkI4YWxIQk55VnRGQzd3a1NrZTc1bVIzVDZlRnVWVGN2WWV6eXNKLUZsZWR1RmRGUzFfQ3NSVmpVc2QzQjZpbHI0V3F2X2pWTmdXOUVfWDh0R1NkVm9SS0o?oc=5",
-      "editorial_score": 9.62,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Um sistema solar de R$ 18 mil parece um gasto alto, mas pode se pagar em poucos anos e reduzir a conta em até R$ 5 mil por ano - olhardigital.com.br",
-      "summary": "Um sistema solar de R$ 18 mil parece um gasto alto, mas pode se pagar em poucos anos e reduzir a conta em até R$ 5 mil por ano olhardigital.com.br",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "olhardigital.com.br",
-      "published": "2026-09-21T17:37:00+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMHM5UmNlaU42b0FvaTllVmU3RF9ZRWJkRXF1bzFubDJzX3hKNzBadGhyMVhlSkwzUEZBOVRBT2gwMmd3Z1NCYkNXMVFyWFZJVlJyQVZORUE3MlZ0TGpSTUZEbEVrUnUtc19jQlhLYVV6RjRjbnZEb0FDRU9XZmxlbXRodWlqUjB4Y2JHenFhWW9rVUdhd2tRWVlTQlhUcE5WRFJqVkhUbDRIVVFGN0xyTy1udnA0ei1qeEJpZnp5d0FTY0pSdFJxbktiM3lZRGRMakY3cDJjSndDTTNzTW55U280LWZpcHlWeFkzODduYV9kdl95cGc2ZlNsMVZBMk85UVRIQTlMQQ?oc=5",
-      "editorial_score": 7.85,
-      "source_tier": "C"
     },
     {
       "section": "Mundo",
@@ -112,16 +112,16 @@
         "Energia",
         "IA"
       ],
-      "title": "Webinar debate aplicação da inteligência artificial na prática jurídica - Fundação Getulio Vargas",
-      "summary": "Webinar debate aplicação da inteligência artificial na prática jurídica Fundação Getulio Vargas",
+      "title": "Expansão da IA vai além da tecnologia: demanda por energia e produtividade ganham espaço - Valor Econômico",
+      "summary": "Expansão da IA vai além da tecnologia: demanda por energia e produtividade ganham espaço Valor Econômico",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Fundação Getulio Vargas",
-      "published": "2026-09-21T17:29:13+00:00",
-      "age_hours": 0.9,
+      "source": "Valor Econômico",
+      "published": "2026-09-21T20:12:01+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1ZLdV9VT2xHb1ZVT2JPZGhWMTNYbmZ4SDlqcUExM1NYZExCbll1UFQ1eXYwQjViQVBGSjhDYWdPVWNhNzNMbm90dGsxVU9WaVhHeDU2eGpnbUpQby1vZ3lzdVZDUWZXbV9IclVIb256RjRoNjlMR1BQSUxiQjVwWWtLX2xfdGk0a1NkU0dUQW12RHkzUUlCa1RXOGZrOUFCVnVIQg?oc=5",
-      "editorial_score": 7.81,
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSWdvM2VMTkJLNGdCZjh2VGd0Q1NWdlVCYmZzT3JZZVY5eGdHNlN3aE9weGFFUHpLeDJxa1p0TS1zNHYzX1NmZ09NdFdRUG9JbFZxVFZsQlk2RzFtTzk3Z3BQankzRGl1UzIyZTM0VmNacEhVQUluSC1JMUg5d3NQTi1GQV9BUjRCWnpuVFJrNTFpUHVnV3BXREJRM1phOFk0Y2hlVzU1S2w5a1lVbW9pV2t0QzltZUpQMGEwSEpYMWhWVjdPNm5jcnRJdENmNExITDhTdmxHcmtvX1RndFUyeU1RT3ZqZXNKcDV2ZkQyWDlLSjNs0gGDAkFVX3lxTE5SaU9aT0R6SWJQcUhxZ0Ntd0kybW16akZlUDg0dUkyT21aUl9SQ2Y4eXJqNEhVMFFvQWNrOHh3WTFFb25rUTJyR3JYbWlZQW41aHVBWm0tdlBLU2kybDR5b3VtLURYWUlZNmdPel9oZU1kbFdWZkxqUWtQdW55U0JobUVNSTNZNGFFNFJQTTY2QXJmVHJXNjVwM2VzQ1pmWE4yRHVnVU01MDFqZnc4UlhmbTdSWTBMbHprWWVrWDN3dEFDMTNrczdtT0FKaEFveklGbFFpcWpBRkh3TWs3a2JkWTZfenJpNnRCTDdwVl93UWtDYkFPM2FPLWlCUUdlSnNMUXM?oc=5",
+      "editorial_score": 8.88,
       "source_tier": "C"
     },
     {
@@ -129,50 +129,33 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Moçambique: Defesa garante segurança da população após ataque terrorista em Marrupa - RFI",
-      "summary": "Moçambique: Defesa garante segurança da população após ataque terrorista em Marrupa RFI",
+      "title": "Guterres preocupado com agravamento da situação de segurança na Etiópia - Notícias ao Minuto",
+      "summary": "Guterres preocupado com agravamento da situação de segurança na Etiópia Notícias ao Minuto",
       "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "RFI",
-      "published": "2026-09-21T13:51:16+00:00",
-      "age_hours": 4.5,
+      "source": "Notícias ao Minuto",
+      "published": "2026-09-21T20:15:38+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPV3l1MzNwWUlrRWI1T2lvdnpybi1UTXU3NENuUEJRSnBxTHVvX2taMFYxc0RUSVk3S3ZpSGlzVkE0X3l3UVBBejlRck0xM1lRQXc4X3ZPRTc3MUplY1VYQUtKS3lxeENzdDN2NFhpN0ZuWUwtalEyYlhMeUVwWFcyRV9hMThOcjBTX3M3bDVmVEZzbDViRmRzRkNkb1k4RDJjYUtYTHNhM01pTFkwYWxCNGlxajI0RHFJbEdTdnhicnJYeVRvVHlfd3V4UGkzdkFhTUxER3V2QUIxU3Z4N2FYZURReXZCdWE4UEF4Rk9sb282NTVXa2ow?oc=5",
-      "editorial_score": 7.06,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlVOcmhRWlZYWUNxaG52cmhpRnpwaFhRaGZUZlV3WHl1UVRnMWp0OHo4OEs4UW5fNDNtU0ZpdHpCclRZRUdyQlh3WHM0WlJ1N18zUWZtdEp6UmFRUEtMckloVG0xY0Q0V3pUaGhvanVoRzhzdzhiR1dmRTBPMWs2YzhYdlQ0blppeTFyQTdTM2UyWF8xVHpyV1pSNzZ5YTJDTVdJQTRUM0ZWbkZpTTI5Ui04ZVR5Zw?oc=5",
+      "editorial_score": 7.9,
       "source_tier": "C"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "IA"
+        "Segurança"
       ],
-      "title": "Instituto Oyá e SOMAS firmam parceria e lançam iniciativa de inteligência artificial para jovens de escolas públicas - ESG Inside",
-      "summary": "Instituto Oyá e SOMAS firmam parceria e lançam iniciativa de inteligência artificial para jovens de escolas públicas ESG Inside",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "ESG Inside",
-      "published": "2026-09-21T17:11:56+00:00",
-      "age_hours": 1.2,
+      "title": "Guterres alerta da persistente insegurança na Etiópia e da nova coalizão opositora armada - Demócrata",
+      "summary": "Guterres alerta da persistente insegurança na Etiópia e da nova coalizão opositora armada Demócrata",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "Demócrata",
+      "published": "2026-09-21T18:18:44+00:00",
+      "age_hours": 2.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUWpRY0UwRldWZm9rOTlaaE5KUEhPWFpnWVFTS0JHWm9iYnZUVlhLRi1JUEVkemE2QXhQNkRpaXY3Rk5yT1U3NDVzbHNwS1BPODVRazZkdUNsY2ZyNkVwbVlEVEp1SjI3MHg2TE9TclFyVVFmbk9uUEhJRC00MmxaSUtLZjBDb2Z1TVVDZXdJNlg5SDVlcXV6bGUzU1VXN293ZjVyaWMyY0l2QUZMN2J3UExBT0J2a3M1aE15RmRNbXRFQWZxajlCLUtrQlAxNVl3OEpBZ0JIcG9FUEZoc3lMVFplbHFTdG4xbFBn?oc=5",
-      "editorial_score": 6.75,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "EUA e China abrem diálogo sobre riscos de IA e avançam em canal para comércio - Agência Brasil China",
-      "summary": "EUA e China abrem diálogo sobre riscos de IA e avançam em canal para comércio Agência Brasil China",
-      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
-      "source": "Agência Brasil China",
-      "published": "2026-09-21T16:48:22+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rYnprSWFQeUpjZFJrZUJiOS1qWDRTR1drOXJGeFk5anpydU51S05NcThxb2Q5MndkWlZpaThmV3kwWkZERG1Dc3hlREtNMFhaQkZfUld3a05LNVR1NTlRLWhPZS1GaERLM3lDQXp2STFOc1E?oc=5",
-      "editorial_score": 6.69,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTktPbU4zanhrTG9UUFZnaXdxWGcybkdObzlxSmw3NXRQSnhmenRmX0RGM2RJekNuQWxJQk4tV0YzeVZtZWZPdFRFajdpMkVqOG10Q3hSdGNfd0lFdkNjc1FNX2xXcnJINmpCY1VIT0JqTmhyUlBiVXlRR2xDVWVVZVZRVUt6UnQ4VjlScjNTWVZraGYyc3RzeW1nMmhnZlNIbkxaODQxb1g1dzAycEhLbXVHREI2MmQ5V0Q4b2FVNFUxOFdjYzc4WVp1dVDSAdIBQVVfeXFMT1RaaWhBVGZ2M1Q0Z1pDRU85Nmw2T1A0X2s1emEyQXcyQlFDQ25YaUtBZUJyVnc3aFg2UmpQd2kwRl93RVhoV1ljeEZtWG5iTFlXUFNqTWhmR1ZmREdPOU80TGEwd0x6X1N3bk40ZFhWYTVXQVNkek02SmIydzJqZzlMY2ZRRktSY0MyOHRTTHR4ZHUxS3M3SmVMMi1VaDVkajcyVV9SemZKUl9YXzk1Unpvd1FQd1gtcEZCdTNRU3NEYVhWVlFjRDBDUUh5eFF0bllR?oc=5",
+      "editorial_score": 7.48,
       "source_tier": "C"
     }
   ],
@@ -194,7 +177,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
+    "Mundo": 5,
     "África": 2,
     "Moçambique": 2
   },
