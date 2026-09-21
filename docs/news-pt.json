@@ -1,145 +1,161 @@
 {
-  "updated_at": "2026-09-20T22:53:20.543104+00:00",
+  "updated_at": "2026-09-21T10:22:50.036230+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Putin e a guerra (também) psicológica contra os europeus",
+      "summary": "O líder russo \"joga\" com o medo como o grande aliado ao mesmo tempo que testa os países europeus. O caso mais recente é o do drone armado no aeroporto de Leipzig, que as autoridades alemãs atribuíram aos serviços de informação russos. Razões para os responsáveis de serviços de informação europeus alertarem que Moscovo prepara uma ação mais decisiva contra a NATO.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-21T10:19:00+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/putin-e-a-guerra-tambem-psicologica-contra-os-europeus_n1766745",
+      "editorial_score": 10.98,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "IGAS quer taxas moderadoras à entrada dos hospitais para evitar fugas de cidadãos não residentes",
+      "summary": "A Inspeção Geral da Saúde quer que as Unidades Locais de Saúde imponham taxas moderadoras pagas à entrada dos hospitais e um sistema de check-out para evitar fugas a pagamentos por cidadãos não residentes.",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-21T09:53:30+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/pais/igas-quer-taxas-moderadoras-a-entrada-dos-hospitais-para-evitar-fugas-de-cidadaos-nao-residentes_n1766760",
+      "editorial_score": 10.9,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Maputo: Município Recolhe Apenas 60% do Lixo Produzido Diariamente - diarioeconomico.co.mz",
+      "summary": "Maputo: Município Recolhe Apenas 60% do Lixo Produzido Diariamente diarioeconomico.co.mz",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-21T09:40:00+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS0ZrZTRmSmJSdzBRYkI0MDU2Q3luUHdkOWFMczFoWndSQW5wYmhJUE5xWnozN3N1OG5QWUZCeV9Ib2g3SHNSeXU3bHYxNEdlYk5JUVZ2dDJoYXRWUjdxdFpfZ3BMX3BSc3RZakRnTzZZaS1sVm1IekY5YnlaTFJkTTZtekh2ajJIWWJ6M0Q0ZVNteVd4b3ZqNkgzbHdRSGJabHBtM1Z6Mi0yNlIxTzJJNTEwTkEtdVRoenRiQjQ4REs4VlF2LXdz?oc=5",
+      "editorial_score": 10.85,
+      "source_tier": "C"
+    },
+    {
       "section": "Moçambique",
       "tags": [
         "Energia"
       ],
-      "title": "Moçambique procura experiência do Brasil para impulsionar a exploração de petróleo e gás - Rádio Moçambique",
-      "summary": "Moçambique procura experiência do Brasil para impulsionar a exploração de petróleo e gás Rádio Moçambique",
+      "title": "Presidente Daniel Chapo discursa no Fórum de Petróleo e Gás 2026 - Rádio Moçambique",
+      "summary": "Presidente Daniel Chapo discursa no Fórum de Petróleo e Gás 2026 Rádio Moçambique",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "Rádio Moçambique",
-      "published": "2026-09-20T20:30:12+00:00",
-      "age_hours": 2.4,
+      "published": "2026-09-21T08:31:35+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0ZlaEhsUmF0czlNM0xicHh6WkdQMEUtTzFWLU04UlVzVkJKVHhtcnpEVlU4cHNyOWRndFdnVEZWOG5yOUExSXBJUFowdTI2OUtrcVpfY203c1hTRng0THlNY2dCM2owaEZaSXQ1T2ZtWEFwQXV0eDJUbjlpb2xPdXdiVjVpZTlwVzZOVHVZT2pTRFZIRHRMaktzbm9WUUNMbDNreUhkc012c0NSQk9n?oc=5",
-      "editorial_score": 10.5,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0xqSFBxWktlZGJrbEdUOWhnbDF3QmMwNUNyY0NGWTYtNFdaZEE3NUpudV80SThTdGdYdk9xTXZXUUNBc0puUUVJQzVyOVVoMXF6ZGZOc0RqRElkQWJrMGJidlZpTTJyYldsblBfMG92X0hhQTNuQ1d3NFBKd3lOR0FEREVUV2RhTEgzLVhtUQ?oc=5",
+      "editorial_score": 10.6,
       "source_tier": "C"
     },
     {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Partido de Putin apontado como vencedor nas eleições legislativas",
-      "summary": "Sem surpresas, o partido de Vladimir Putin, Rússia Unida, é apontado como o vencedor das eleições legislativas, com 57,5% dos votos.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-20T20:07:31+00:00",
-      "age_hours": 2.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/partido-de-putin-apontado-como-vencedor-nas-eleicoes-legislativas_n1766671",
-      "editorial_score": 9.42,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Ricardo Melo Gouveia foi 51º no BMW PGA Championship conquistado por J.J. Spaun",
-      "summary": "O golfista português Ricardo Melo Gouveia terminou hoje na 51.ª posição o BMW PGA Championship, do DP World Tour, que decorreu em Virginia Water, em Inglaterra, e foi conquistado pelo norte-americano J.J. Spaun.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-20T17:52:08+00:00",
-      "age_hours": 5.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/outras-modalidades/ricardo-melo-gouveia-foi-51o-no-bmw-pga-championship-conquistado-por-jj-spaun_d1766652",
-      "editorial_score": 8.96,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
         "Energia",
         "Economia"
       ],
-      "title": "Gastos com IA superam investimento imobiliário enquanto hyperscalers se aproximam de US$ 1 trilhão por ano - Notícias e Estatísticas - IndexBox",
-      "summary": "Gastos com IA superam investimento imobiliário enquanto hyperscalers se aproximam de US$ 1 trilhão por ano - Notícias e Estatísticas IndexBox",
+      "title": "Moçambique e Brasil Reforçam Cooperação Para Impulsionar Exploração de Petróleo e Gás - diarioeconomico.co.mz",
+      "summary": "Moçambique e Brasil Reforçam Cooperação Para Impulsionar Exploração de Petróleo e Gás diarioeconomico.co.mz",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "IndexBox",
-      "published": "2026-09-20T21:30:46+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWNLWF9vTUV1c3cyOE5GRVJEbkNiRllBamVLZGthUUdxYldrb3A2TjVubTlCRnBtcElZRHRUR09HM2FQNzlpTTNuTEU2N0lid3JnaC1Obk85cW5QQ1VkRm5odjVTcmNEVFlSREF5dl83OHp0SzBFdk5qTHZHR0xYUl82RlVpV0t2czZNQ09aS3RsSElfQ0ExWGJpdnhFN3FBcm9CS0NLaG9Xc0t1YmE0Zmo3X205Zw?oc=5",
-      "editorial_score": 8.71,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Angola Prepara Fórum Para Debater Diplomacia Económica e Integração Regional - diarioeconomico.co.mz",
-      "summary": "Angola Prepara Fórum Para Debater Diplomacia Económica e Integração Regional diarioeconomico.co.mz",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "diarioeconomico.co.mz",
-      "published": "2026-09-20T10:30:00+00:00",
-      "age_hours": 12.4,
+      "published": "2026-09-21T06:45:00+00:00",
+      "age_hours": 3.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLUpyZVZMT1RTOWxEM0R6eVpRZVdwZjB2R3NvQm96MEpPb2RHNGJqcXFDaGNVSHhLcnZWNk1fVmtjYzB3R0hOaklhUFg4QnNiaGx6M0FtdGhONWp1Y2JDTjhLUFRxbnRPZDlHMm84MVM2MmJKbjlYZXlTLXhtd3VCSHlNY2I2bE9pblk0Wm1CaEpVSXZQcDg3Q0dIRWZPWnBLY0tnTmNFUE5zdkpHNDdiQ19oN1VvOE50R3Q0WUYwUTI2dlRrSWt2QVcxbTcySzVf?oc=5",
-      "editorial_score": 8.42,
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU3ZIOUFPQzIzWnc0eFUtV1ZFS1A2ZWpQeHJPeEp0R0o2ZlRxX0w1QW4wQzJRRFNjUGk5MUIxSjNfSk5wbDJZM2RnMHJGSFVZX2NUSlRwS3dOV2Jud1J1YWVHWVlMZFpTQ3JqQkJBVWNHUmhIYjJXMTVjVDFOSWd4bUprdnZvNmd4VExZMWQ0LTY2RGszWjJKTlZWRG1jb0tqNkoyaGhTbERlalBHTnhjTkhLY3hnODFwX2stZ1JwaDhHaFFYdzJHTjJnWUdvOGNZV05sOQ?oc=5",
+      "editorial_score": 8.25,
       "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Legislativas na Rússia. Moscovo fala em vários ciberataques",
-      "summary": "Com quatro anos de guerra e uma fase de hostilidades intensas, os russos estão a votar para as legislativas.",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-19T20:35:47+00:00",
-      "age_hours": 26.3,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/legislativas-na-russia-moscovo-fala-em-varios-ciberataques_v1766542",
-      "editorial_score": 7.43,
-      "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Treasuries curtos viram aposta contra a inflação nos EUA - SpaceMoney",
-      "summary": "Treasuries curtos viram aposta contra a inflação nos EUA SpaceMoney",
+      "title": "EUA: China Confirma Visita de Xi Jinping a Convite de Donald Trump - diarioeconomico.co.mz",
+      "summary": "EUA: China Confirma Visita de Xi Jinping a Convite de Donald Trump diarioeconomico.co.mz",
       "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
       "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
-      "source": "SpaceMoney",
-      "published": "2026-09-20T21:19:02+00:00",
-      "age_hours": 1.6,
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-21T10:00:56+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYzNjUF9KZEloSkVWb0VIMlEyUnIxM0xpblVXcWRoM28xZmpJMWVxeDV6U2RXVFpWZkl2Y1hVS2VHVC01SjVJRXgtOHJPLUR2dGJRVXJ3V3k0eU1lYXVFdGZnTnJiMmtYRERXa0RtcjdSWXliOWg1OXJWdFFhek82STRhTVB3ZXFlT0lPUllMd2w0WEZUZlo5VFBXcFo?oc=5",
-      "editorial_score": 6.67,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR3FjWEpuSERRbl81aE1OMjB5dldMNzI4WmdDc204aURicU1Ja2VULTlUQlJXVnFkdUQ0SHhXeUc0TEFVMlAxTWp6WHVlMFdVQWpQUzdLZ2JLVTFRRGhlS0tuT2tKLWwyZDdVcmEtdHgyY2JmTEdUdzRGWWNRWkJxbE9HbkNzREhLZXppM1FWai1PWVJXa1dNcHJNay1GTUl3NmJucDlicC1kVzFRSVpaYzNQcEZSQzV3OHlTR2hn?oc=5",
+      "editorial_score": 7.92,
       "source_tier": "C"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Petróleo: Trump volta a meter água na fervura depois de se ter \"divertido\" a lançar gasolina para a fogueira - Novo Jornal",
+      "summary": "Petróleo: Trump volta a meter água na fervura depois de se ter \"divertido\" a lançar gasolina para a fogueira Novo Jornal",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "Novo Jornal",
+      "published": "2026-09-21T09:08:30+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc3dwcUQzWnpsSWxkazIxNDNNOGlVY2lBTWY4UVEyckwyTGt0YlFyaHBWRVNyY3Q0RUhKeHo3bHZld1V2aEx2TUtiZURqSUNsS3pxXy0yakNLanZPb215b0gxRmJwSjc2UFVkYlk3ekJBY1ZaMXlVRDRwb2FxMkY4Vjk1TEZENmt1eU1yUmdBS2h0X3RwN3JwOFVocUFpQkRpUDFqNnE4Y2hwTVp1eTBYVHJxN09ubFpwNEwwaU1QaTZDcVZRSjI4Tll5X21CckJGT2RlUTJmbmJ3THpZdlNrUk9KM0hsMnVJbkJIYnItdlVJcXM?oc=5",
+      "editorial_score": 7.75,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Nampula: ministro da Economia quer sector privado mais robusto e competitivo - aimnews.org",
-      "summary": "Nampula: ministro da Economia quer sector privado mais robusto e competitivo aimnews.org",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "aimnews.org",
-      "published": "2026-09-20T11:49:56+00:00",
-      "age_hours": 11.1,
+      "title": "Cyril Ramaphosa anuncia eleições locais na África do Sul para 4 de Novembro - jornaldeangola.ao",
+      "summary": "Cyril Ramaphosa anuncia eleições locais na África do Sul para 4 de Novembro jornaldeangola.ao",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "jornaldeangola.ao",
+      "published": "2026-09-21T03:59:57+00:00",
+      "age_hours": 6.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUndKNWFvLWpQS2N3RE9TQUlDWFZ0M1h4OWRLd0NoVXVMQ2FWamR1MVFrWEs5ZDhPb0duZmptU1pIRXFGcndILVJxZG9oRkhrUTJSMFFRME9Zd1hhMlowUG5HT0JZdnFCU3p3UmJCYzllY0F4OG9LSU5ZQU83WUQ1akJLYmFhLVJWb2s2ZW1VZkstb3ZKdDRuNnFPU1BVZzRpTkJaMWo2Q2htNEU?oc=5",
-      "editorial_score": 5.69,
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IRmRNOEtqSUhLZ25nSlZTV1RuSnZsX0ZERnBYY0xiSTVvNGxKOEVyVW5Bb0V3ZGNERS1yMVMwU3pMdUZRNE5fLXlkMlJaSmhYVTZNdjl4Y0EyNmRDMUo0T0xQUl9maWRHeUoxTk1Fbw?oc=5",
+      "editorial_score": 7.67,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Sánchez lança o Plano IA360 e convocará os agentes sociais para um grande pacto nacional sobre inteligência artificial - Demócrata",
+      "summary": "Sánchez lança o Plano IA360 e convocará os agentes sociais para um grande pacto nacional sobre inteligência artificial Demócrata",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "Demócrata",
+      "published": "2026-09-21T08:47:16+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOE9rNFA3ckJWQlItUEdReFVsWGNyWjc1TGI0UFpOZlVCaUxRSDRUZ0NUbHlSdF9fdU1WVHlzNThqV1dwSVpLVnhEQVBjTlVObS13bHFNR3BpVlhEaFNoSGsyQjhLcEp5NjloZXpUWHcxcnpGeVNESGtYWXNMVTJleWNFaHV1bkpJUzE0MVNGc210NWJwazV6SmNyT3Jwa0VWOU52WVdxWjJfVWloMl9zMkUyeEJYMFRrek1UQnNNY182OEZfcjVObngyeDg0NDM5Y3piVnJiQVdtdEVyZ3czSUUxdlBmajM2R04zYtIB8gFBVV95cUxNNVhpd0F4elM0VzVvb1BMYTg3SzdNYVZtY0xxQkFhM0ZYclBoVU5seGQ3NGw0TGNMMzczRDhUcXpDdFBMaHZvaXI4WGFpYTJBU0p0cGUzZjR1WldqSEFUZzF5T3ZQM0doZ1V2UWNLdkUwSVBpN2k1SVVldXJwTzNuRV9ERHBiZkRlUWg3TEJRd284OFdMODZPMUlsTzhIZjFqeWF4MlRwNlVuWlpqdFA3dnk5cEE0Ti1VVEZSbDJnZHlhU3g3ZUtKVTJDZFE1RTNfaGtXNVFaZjZ6V1ZWam9HYkNsV0tyajZuMkhCNTI3cUd3QQ?oc=5",
+      "editorial_score": 6.67,
       "source_tier": "C"
     }
   ],
@@ -161,7 +177,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
+    "Mundo": 5,
     "África": 2,
     "Moçambique": 2
   },

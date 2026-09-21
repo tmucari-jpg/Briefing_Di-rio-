@@ -1,110 +1,144 @@
 {
-  "updated_at": "2026-09-20T22:53:27.521926+00:00",
+  "updated_at": "2026-09-21T10:22:55.185312+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
         "Economia"
       ],
-      "title": "Canada, France agree to closer ties in defense, economy",
-      "summary": "Amid strained relations with the US, French President Emmanuel Macron and Canadian Prime Minister Mark Carney announced closer economic and defense ties.",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "DW English",
-      "published": "2026-09-20T21:29:00+00:00",
+      "title": "Mozambique to launch PRO-MULHER fund for women’s economic empowerment",
+      "summary": "Mozambique will create a Fund for Women’s Economic Empowerment (PRO-MULHER), providing subsidised-interest financing to support small businesses led by women, with criteria such as poverty, the female population and financial inclusion given priority. The creation of PRO-MULHER is set out in Resolution No. 71/2026 of the Council of Ministers, issued this month and obtained by… Source",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-21T09:00:24+00:00",
       "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 10.71,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Qatar PM urges Gulf security framework with Iran",
-      "summary": "Qatar’s PM says, the Gulf won't be the same unless there's a framework ensuring no one is a threat to each other.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-20T21:00:15+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
-      "editorial_score": 10.6,
-      "source_tier": "A"
+      "link": "https://clubofmozambique.com/news/mozambique-to-launch-pro-mulher-fund-for-womens-economic-empowerment/",
+      "editorial_score": 13.71,
+      "source_tier": "B"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
+        "Economia"
+      ],
+      "title": "Emirates signs MoU with Mozambique’s ANDITUR to support international tourism growth",
+      "summary": "Emirates and Mozambique’s National Tourism and Investment Development Agency, Public Fund (ANDITUR FP), signed a Memorandum of Understanding at the 2026 Arabian Travel Market to support the growth of international tourism in Mozambique. The agreement will allow the partners to explore opportunities to promote Mozambique as an attractive destination for international travellers, leveraging Emirates’ extensive… Source",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-21T10:04:04+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/emirates-signs-mou-with-mozambiques-anditur-to-support-international-tourism-growth/",
+      "editorial_score": 12.94,
+      "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Segurança"
       ],
-      "title": "Iran war revives U.S. energy bet in Mozambique despite Islamic State threat - Washington Times",
-      "summary": "Iran war revives U.S. energy bet in Mozambique despite Islamic State threat Washington Times",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Washington Times",
-      "published": "2026-09-20T14:45:03+00:00",
-      "age_hours": 8.1,
+      "title": "A simple guide to the Yemen conflict",
+      "summary": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-21T10:01:30+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkhnMkExTVRJUmZVblJCZGxNeUJKbG91aFRWMGVqVHZ6SHNhX21mZEw1dXB3VHlvMDhFUFlpS01INUlNMkU5bGQ5blBkOHVnX1A0eTYxb0FueDNJb0dTSVRMOTFNb1o5UkNjSHFDanRRRlpRU3g1cWxBWERZcnQwWVlQR0VjbTZ3S1htTGhIY3pHOVdRVng3ZW1zbFQ3UGRyNW1JZzgtRWtycnZESDRuTlU0bw?oc=5",
-      "editorial_score": 10.31,
+      "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
+      "editorial_score": 10.92,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
+      "summary": "Despite having rarely been more secure, public concerns about security continue to dominate the election.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-21T09:54:05+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023?traffic_source=rss",
+      "editorial_score": 10.9,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "IA"
+      ],
+      "title": "Airtel Africa Foundation Supports 20 Ugandan Students With Technology Fellowships - TechAfrica News",
+      "summary": "Airtel Africa Foundation Supports 20 Ugandan Students With Technology Fellowships TechAfrica News",
+      "why": "Technology is reshaping productivity, regulation and business models.",
+      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
+      "source": "TechAfrica News",
+      "published": "2026-09-21T10:03:51+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnlVTk1EeTl1R0FfMTBqeVM3Slg1NU1RcGNIekJJS3ZMMW1VOWhEekVIeWhRTGZRaDdJbmJJbGtuRzRkMEFQN092Qk9iNjNrLTVVbkpfdkhITW9wNXBDbWt4WndVS3NVOFgyMl9EcGthNzVYR2UzTnNsU1UxRkVTYjdEd1BkZXVZR25tcEM4T2xQMzR1VHhnQncyc3JSTGZCZ1FpbW84MDY4dXFvTVRkTWJWOGZqOG9pcjl6Ug?oc=5",
+      "editorial_score": 9.94,
       "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Inside a camp for Yemeni refugees who have fled to Djibouti",
+      "summary": "Fighting on Yemen's west coast has prompted thousands of people to flee by boat across the Bab al-Mandab Strait.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "BBC World",
+      "published": "2026-09-21T10:00:31+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/videos/c6z0z2nne11vo?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 9.92,
+      "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Datatec in South Africa bets on AI infrastructure — Daily Maverick - UA.NEWS",
-      "summary": "Datatec in South Africa bets on AI infrastructure — Daily Maverick UA.NEWS",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "UA.NEWS",
-      "published": "2026-09-20T22:12:58+00:00",
+      "title": "Stepping up switchgear manufacturing in South Africa - African Mining Market",
+      "summary": "Stepping up switchgear manufacturing in South Africa African Mining Market",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "African Mining Market",
+      "published": "2026-09-21T09:42:21+00:00",
       "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORng2Y2NXcEwzTG1HMVpzUnRQZEJIRmhLbmUwVDNKWFg4Nlg5MjNyRzZpcmFidEVPOUo5Qy1OWEg1TmNYSTdpMjJ0TlRVVWV3aEZ6MXRnX3RPOFVyTXVfZG53MTFKZTRZV1drLS1lU2NidFF0ajltR011YlZVUTF6TUZNaXJ1ZmNxUGxWajJYV1JwUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVm5pdEYwVlF0VHB4aVBNVndtUXkwYTd0cTN6MzlWR0luN0Z1NWgyQ0RVZzlFaXpWUWJOTk1hUkNzWWxjTThZOXBVVGJEZmNTS3pqaEJCS0hZNUtTOU5XclRtUi1FNjc0bHJxRkpEeTFweVBUeDZjQWQ0YUVOQnJUVE90SGp3Zk1vLXF3NUNELXZ6bnhTdHc?oc=5",
       "editorial_score": 9.85,
       "source_tier": "C"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Energia"
-      ],
-      "title": "Mozambique LNG Project Plans Coconut Biodiesel Plant In Cabo Delgado - Trendsnafrica",
-      "summary": "Mozambique LNG Project Plans Coconut Biodiesel Plant In Cabo Delgado Trendsnafrica",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Trendsnafrica",
-      "published": "2026-09-20T17:15:23+00:00",
-      "age_hours": 5.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVloclpMMEI5Y2RpNkxwTDI0dGwzVlZJN2ZjUVRFS3d1a0t0SGZob20tYW9XZVBieUVuNWdnWGxWanJ2S3QzQkZaVmRaaHlaYVlwZ0J6RTNVX0lrbTlTU2dUTXJNMGtoZlhmaGpWb1p2N3p5WTIzSXI3dTZTa0JTRktuWEEtMGRjMFlOTmNFOXlVN2dBODBDcDc3WdIBowFBVV95cUxNYmJ6akRZb0tUdTVEMGVFemR6TzRRenpMcE5feXI5b1JpdzJ5bHBidG5EUXVRSXpJOHhmeGRrVUdmQi1KQV9QR2JleHRlQlpVWEMxUHhra0tGcDBHM190enNnZDNjLTZIeHdNa205bnVISjE1MVVveTVtbzhreVBHMlJHNUdQd0U1TFhZTXpYQnN6YXRqY2RpUHI2bkFzSEQ2Qjlj?oc=5",
-      "editorial_score": 9.83,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
+        "Economia",
         "Segurança"
       ],
-      "title": "For real security, Africa must construct its own defence - newafricanmagazine.com",
-      "summary": "For real security, Africa must construct its own defence newafricanmagazine.com",
+      "title": "How cannabis can help Canada win the trade war - The Globe and Mail",
+      "summary": "How cannabis can help Canada win the trade war The Globe and Mail",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "newafricanmagazine.com",
-      "published": "2026-09-20T21:48:35+00:00",
-      "age_hours": 1.1,
+      "source": "The Globe and Mail",
+      "published": "2026-09-21T10:00:00+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9heFNLZzExQzRad3BUSVQxWFFMNlBFaDdSWV9rWFBmMndHTTFvampzaVI2cHdTclJrRjNMSy12MGdOXzNJb3lZMTZ2RUczX0lFUkZXV3ZqbHg?oc=5",
-      "editorial_score": 9.77,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUDBOMHVSbmNPeGxFS0poSzhrWjdTeGk3aXlJLUt2ZXdYZjVwcG1mWjJSd2dFNU1haDNhcHpCUXh1U1B6S1VrZkduNjU5VGFKOTFhSFRGUnFuSjI5WXpOdERnMGZMLTZyZ2t0WU5mY0NQWjdJUGl2SG9BWGdzVUI0cUlrSVBVbi1kT09idnFidzdZV2VxNC1CQjB4cGI?oc=5",
+      "editorial_score": 8.92,
       "source_tier": "C"
     },
     {
@@ -112,33 +146,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "German state elections deal a blow to Chancellor Friedrich Merz",
-      "summary": "Elections in Berlin and Mecklenburg-Western Pomerania have dealt the CDU a historic defeat while the AfD saw a massive gain. The pressure on Germany's unpopular chancellor is mounting.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "DW English",
-      "published": "2026-09-20T21:20:00+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 9.67,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Exclusive | ‘Trade is never free’: former WTO chief Pascal Lamy on the EU’s China challenge - South China Morning Post",
-      "summary": "Exclusive | ‘Trade is never free’: former WTO chief Pascal Lamy on the EU’s China challenge South China Morning Post",
+      "title": "The Week Ahead in International Trade: Significant Trump meetings for Burnham and Xi - export.org.uk",
+      "summary": "The Week Ahead in International Trade: Significant Trump meetings for Burnham and Xi export.org.uk",
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "South China Morning Post",
-      "published": "2026-09-20T22:00:11+00:00",
-      "age_hours": 0.9,
+      "source": "export.org.uk",
+      "published": "2026-09-21T10:15:34+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUUJuTXZkWGJUZHV4cnN5c1A1MW1LcF9LS1o2bHAtYWtCLUVxeTFQSDJLYVZIYmpOVVJRdGNKU0VJODRPN0NlNnNJdmFKQkg4SUFRMTJUd2pMTFd0MWFGUzN5ME5scElkVlFRRlJHckxlM3FKZ2tTcUFxdWVRd1R0YW1JazdQb0w2a2FLX0V1aVJxWjB3UEpUVVZiQU5DeEFhejVrU3N0MkVqTmlNOVJKS3FJQkp5Zm50TERPb1BTRWFia3BiWmZ0V1dYRmVwbzFqV1dQVtIB1AFBVV95cUxPTHNoMkxOYzNFc0wwVGVVVlljNXhhQzBBV21qUkRWV2l6eDRXU09ieVB3REFLUl9uZnRfMmptbFhmWTU2Y0VEOFJVQmgxY1hBOFk5U0JERTc5ODExcmVrOHR6VlU4UmM3VTdQUk83MW9Hb1AwWHd2eXM2cFhFY3hHbWpSVU5nMGpUdVNYVFduTnhZcUVkdV8yR2JtZG1jVU44N1hTZnBud2s5QjVfc0J5QnlEZ0hDZVBpMlJfZjN5RWZ1M01oYnRTc2lwWW1xcUlVcEppTg?oc=5",
-      "editorial_score": 7.81,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHM2WUZjMTBaVWZQZDM4SjFRQUE2dy1WMldBWHprQmVKb0NsQ1hQUS1CUVV5THNfR1ZzRFRWMzh3VllZMURtNmZSYWFvdkZTSWRmNWRBWFZDZWhobDB6M3VDZkluaHcwclBTbkROLTc3NFNJT3lNTGtTazNyNnpfVk5JYktFZGdadmtfV05tX3RCTGlxUzRHREs4MERCdzJxT2JaSUlmOHNkUTladDJza0ExOFJZTExBRDJaT0JNd2g1UnBVQTRCYXdB?oc=5",
+      "editorial_score": 7.98,
       "source_tier": "C"
     },
     {
@@ -146,33 +163,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "U.S.-NEW YORK-IMF CHIEF-WORLD ECONOMY-RISK - Big News Network.com",
-      "summary": "U.S.-NEW YORK-IMF CHIEF-WORLD ECONOMY-RISK Big News Network.com",
+      "title": "China is trying to corner the global economy - The Spectator",
+      "summary": "China is trying to corner the global economy The Spectator",
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Big News Network.com",
-      "published": "2026-09-20T21:45:00+00:00",
-      "age_hours": 1.1,
+      "source": "The Spectator",
+      "published": "2026-09-21T09:56:40+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYjI5a2JOcmZ6UHFOSGNrNEVOWXdGODRrbEpTWHFpTEVSMm9ETndvWEVJazZRRkVpR0JDSDlaM19NY1RBa0tHQ2pkSklBVll4YUR2Vk9RcU1JVjc5cDlGbVhZNWFRT0ZyRXBXWm1Hb01wMHVCNGxwa2lkTmZxSWZYVW5ENHdqdWNOcHFXcFNiaw?oc=5",
-      "editorial_score": 7.77,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Qatar Non-Hydrocarbon Sector Hits 70% of GDP: QCB Governor on Growth, LNG and AI - News and Statistics - IndexBox",
-      "summary": "Qatar Non-Hydrocarbon Sector Hits 70% of GDP: QCB Governor on Growth, LNG and AI - News and Statistics IndexBox",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "IndexBox",
-      "published": "2026-09-20T21:40:42+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc0JnUzJheHFGdlRjbUtJRlN3cUl4MWY5WFI4QURGQndOaDFxUXk4YXkxMl83cWFUVEZmakwzRWItdWprTkUwOW03ZjVoV2FKTUNVLXZPelZHdHhyY25HTVlNb240VmYwNExPVHc4aWNrcDhXUFZua2VITFlYV3hGWEdET05MQjNKZ3hkalM1M2NuQUt1VFVQQ01YVWs?oc=5",
-      "editorial_score": 7.75,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUVjUmRuTnQwaXdlVkM3ZnZxZ1BuX1UydndXZzRqTjNCOHpGMzZ0cDBxdE4tcV9GeUZDZVJJQV9VekF0MHE5a1BxLWplWVdRZmd2OEpMenN5Tmx1UWhRLXpFUXo3VlNOTlBDbG1HMjFSRXhuVElYU1NMZEVuZjlhbg?oc=5",
+      "editorial_score": 7.92,
       "source_tier": "C"
     }
   ],
