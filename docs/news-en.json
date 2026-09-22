@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-09-22T09:36:48.537922+00:00",
+  "updated_at": "2026-09-22T10:53:27.405760+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA",
+      "summary": "The Russian army targeted economic infrastructure in Ukraine, while Ukraine struck an oil refinery. This comes ahead of the UN General Assembly, where President Volodymyr Zelenskyy is due to meet Trump on the sidelines.",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "DW English",
+      "published": "2026-09-22T10:07:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 13.83,
+      "source_tier": "A"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -15,45 +33,46 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "CLUB OF MOZAMBIQUE",
       "published": "2026-09-22T09:14:35+00:00",
-      "age_hours": 0.4,
+      "age_hours": 1.6,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZW5UWUNlN2hxNHZXMnJtVU43b1o3TTlYMmxSNzkzQzlER3ZKREFxbWVyTXpKZk45WHV0NVU1a3ZWNlA5NHNsc3hyOEd4ME9yUU0wVUJsd3pKekdPbWwxei1ESnVqZklvdVQwaEpOdzZYYzhIUUpNVmhwNDdMdjc5elJLWVA0d1lNWEJlUnczZkViV25PRi1sN3BXMmEzMHVBcEtDanhSd2Rhd2JF?oc=5",
-      "editorial_score": 11.92,
+      "editorial_score": 11.67,
       "source_tier": "B"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation",
-      "summary": "Nearly 100 people have died in recent days in the scramble for gold, whose value has grown in a shattered economy.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-22T08:54:10+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss",
-      "editorial_score": 11.85,
-      "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Dangote to scale back interest in steel for $10 billion power investment across Africa - Businessfront",
-      "summary": "Dangote to scale back interest in steel for $10 billion power investment across Africa Businessfront",
+      "title": "U.S. DFC plans investment in WIOCC Group - Africa Business Communities",
+      "summary": "U.S. DFC plans investment in WIOCC Group Africa Business Communities",
       "why": "The story helps explain economic and trade trends relevant to Africa.",
       "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Businessfront",
-      "published": "2026-09-22T08:51:47+00:00",
-      "age_hours": 0.7,
+      "source": "Africa Business Communities",
+      "published": "2026-09-22T10:24:15+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUV3SUthS2N6WF9TUEtOQ2RyZjBIWk9OT2hTS013Q3FEYjUyb3loSFJ4OFNBLUJuYVhJZERwLW51MVFJQ1Blb1NEYzduNU5GZmpTNWMtYTJUZzR2OVVTdHM5RFZIakozUTVLWXNoYUU5dUUwanhGTXI3Um56R3dzR1U5S2ZlSjQ?oc=5",
-      "editorial_score": 10.85,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTm1oblRHeXM1Z3JpU0x5ZWVBMXRRVzZFREVvaEVCNm1OMzFJYngwaGNzYXFpc2NJeDFhbEg0ZlFvZHhXZFVzSk9VS3FVTzZNMjBGNDlzbHEyUVlNdjZMVm1ZME8wNlBhajdRRHVfS295WTVhSEh4TUp6c19sbFZGb2xpOEM0dm9uSGxxWmdB?oc=5",
+      "editorial_score": 10.9,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "President Trump to address the UN General Assembly on wars, energy, economy - WBAL-TV",
+      "summary": "President Trump to address the UN General Assembly on wars, energy, economy WBAL-TV",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "WBAL-TV",
+      "published": "2026-09-22T10:46:00+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd3RxeS1uenRzYUdYT25IdHUtb28zMjM1SkMwTGVhOEtnU3lQZkIzdkp4V2FYOXJ2MlU5eUo3WnY2cFRZVl9KUk03SHZjY2NhSkNXQXd2OW9OOW9MRGstM3JnVHBvT1dEQ1NHS1Q5VE8wSF85czhyOE5uMHNTRjdSMlZaR20zMFhxZTVUSU51WExiQm5kVm9Tc2p4TQ?oc=5",
+      "editorial_score": 9.98,
       "source_tier": "C"
     },
     {
@@ -61,16 +80,16 @@
       "tags": [
         "Energia"
       ],
-      "title": "South Africa: Zululand LNG terminal awaits offtakers - African Energy",
-      "summary": "South Africa: Zululand LNG terminal awaits offtakers African Energy",
+      "title": "Navitas forges ahead in South Africa as it wraps up offshore acquisition - Offshore-Energy.biz",
+      "summary": "Navitas forges ahead in South Africa as it wraps up offshore acquisition Offshore-Energy.biz",
       "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "African Energy",
-      "published": "2026-09-22T08:50:11+00:00",
-      "age_hours": 0.8,
+      "source": "Offshore-Energy.biz",
+      "published": "2026-09-22T10:50:09+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMF9mLXd2SkhXVmVtTUZlX1Y2M19aX0hxSURCRDE0OUx2VVVQRHZqY1hxOXVERGZxbjVsOTdSS19LTXVtYS0tUkUyZnpIUDNNclExTUwxZF9hYlloQ1NjZldSOUowckplM2ZoSW1XVUlhdDctVVJoRWN6WV9XSGxwQUR1T3pJZXhJQUJQVkdJQ2J3NlNkWFJCSmNXdWh2eVVzODdv?oc=5",
-      "editorial_score": 10.83,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOTZWWnN5a2dJd2tyWjhCblpFUjBPNUZSR0RrU1hkR1ZoQTE5alNoTFFqSEpqX1Z0R0NONmtEYnk3emxBd09NclJkNEtHNV82dDd4SXpWVUlMZml5VjgzaDNrQ1lUS3hMeU5YejdLYWJFMGloMlNxRWx0VHpPdEhCQ181LWFKLURXX2hKY25sVE56RTk1Q3BmQ2NHNjlESTBVaHhYVWVfaWs?oc=5",
+      "editorial_score": 9.98,
       "source_tier": "C"
     },
     {
@@ -78,16 +97,33 @@
       "tags": [
         "Economia"
       ],
-      "title": "Eskom achieves 490 days without load shedding in South Africa - Businessfront",
-      "summary": "Eskom achieves 490 days without load shedding in South Africa Businessfront",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Businessfront",
-      "published": "2026-09-22T09:02:10+00:00",
-      "age_hours": 0.6,
+      "title": "Guterres demands Africa’s minerals create jobs, backs permanent UN seats - Peoples Gazette Nigeria",
+      "summary": "Guterres demands Africa’s minerals create jobs, backs permanent UN seats Peoples Gazette Nigeria",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "Peoples Gazette Nigeria",
+      "published": "2026-09-22T10:35:44+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNGlHYlpSSXp2TW5jbmpzU1VyM3Fnd0xCcXUxcmxuZ2NNeUtnTUdtRGNKdG9ncnhMTDk1YjgtS0ZwNFZHMnhoVk54LVM1U19wQVZiU1VIRDlyYjRTSjFzQXN4M0hNMEo4UU5jNXZLazQ2bzdvZUViWWlfa0tud01CMHdRZXVRY1E?oc=5",
-      "editorial_score": 9.88,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbEdSbUNlUFlzVFYzek5YNXpUREdvLU5IM0pxWnRZV21Sem91azk5S1cyNFAwNksxZngtSUt1OVYwSUQxOF90YmdEWmdieEtzNU1abmJtay1UZW9maHFTeUFNYmVNWmx3d3NCeFRMLUM4SklZWFE2UTdNS1Ffd1ZKeGNFeV90MlVZazhPZE1qRzBuaTZOdDlrVU93?oc=5",
+      "editorial_score": 9.94,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "EQS-News: WIOCC Group Welcomes U.S. International Development Finance Corporation (DFC) as Investor Alongside AFC and Vision Invest to Accelerate Digital Infrastructure Expansion Across Africa - boerse.de - boerse.de",
+      "summary": "EQS-News: WIOCC Group Welcomes U.S. International Development Finance Corporation (DFC) as Investor Alongside AFC and Vision Invest to Accelerate Digital Infrastructure Expansion Across Africa - boerse.de boerse.de",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "boerse.de",
+      "published": "2026-09-22T10:30:00+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVldKY2NTRGdpeXpacUFaOGxTVU1xaldncUNTQU12b2ZwSGtoS1FQTGVmN21wellZOF9RRFFybzNRSTRsTnZuQ3lKTERoeWdGWGJtdHg2cHJ1cTByenl1THBlTmZTeWJsVnRNWVhNazZkTTAtTDhXQ0R1NjB0Mm5XYktZWlFRWXkxQldseXRVdTVuRmkybVhhdUc4amZST0hDN3Zwc04yWU1oQzlQQnZlUzh4bWdqbnU0ZFAxaXZXNTZPS1daOHZ5T2NPYzd4QVhoY2xtdlVmcklCWWVKZ2RQWnNnc1NlQ2dtY3BqS01OWUhZLUVWeUlUYzNnQUc5SXhqbEtueTNyM2VkT3J5YTZmWEFLZFhJZksySzRUd0xzcVhNV2ozcGg4UzRQV0RMS2ZyRm4xMVhOakNmUGVOSEZtY3IxQ3lQV3FfR0thZVBjY9IB1AJBVV95cUxOY3Znd3c0eVFPRzdic1BQMGdPenpDbWt4aWVHekJXbW9ESzRwUUlfUzh6WjFfXzZHMWh5c2U2SHBFUUlkSjFsZmR5bHpndUFFT1p0dUlyMktvSWJzNVFPeHF4YXRwNlRMM3lzRHgtcGplY3RZQUpxVG5Kcy1McW1YTVpCRDJoZWkxbkp4MkZ2RTVmbG4zWVRTS0dpa1Rwb01WY0FwaG1wVl8tdzd5VXZvMHRSb2VhR2E3aExubmF3UUVzYVh3VzdsNV9Fdk5MQWtJS3RkR1ZmNWZHQkstUmR2TnpsLTl6RDZ4dEc1ZFlJNGtzcHZGR0hROUZQbFllQkJ6dWlrVFJtek9CTnpIVUkwTkVjd3JaeEg0SThlaDZqWjg2QmNqNGNjLVNuTC1QNUs4YWxSVV9sYWFGekFoZzgwZWZGSFRDRUN0Zl8wd3ZfNmpuX19a?oc=5",
+      "editorial_score": 9.92,
       "source_tier": "C"
     },
     {
@@ -101,80 +137,46 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "streamlinefeed.co.ke",
       "published": "2026-09-22T07:59:41+00:00",
-      "age_hours": 1.6,
+      "age_hours": 2.9,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjdlc2F5V25NdVoweDJTdTRCSm5YYlpPUERxNDBpZlo0Zmp2ejRnaUN1bnFIU3EyWlZiRWo0bk8zUGJaM0ZiT3l4RWlXZUFuTUIwNnRZN2VXT05iTmxrSE9feklSaFpyV002ZGZYWjBVUkJNZW9rY0Fvd2x5Yzc2VW5WajlLWUdqbTJiYzRoZlZlWVhEWnRqcHR5dWpqZFU?oc=5",
-      "editorial_score": 9.67,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Can Kenya keep hired goons out of its 2027 election? - ISS Africa",
-      "summary": "Can Kenya keep hired goons out of its 2027 election? ISS Africa",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "ISS Africa",
-      "published": "2026-09-22T09:23:07+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdEpPZV9kbHNEYTRGS2E5b0tETUc5czJ4REZDSzR5dE9xVUpET001aF81OHItV1RhYm1NX0YzRjBwU20yVS12TGpiSWxWams1NU5UZkFZbWdIUzFhMnNjRlVsQmdYZTAya01RMHo5MUxjdFhDWDRIU1FoQURjTXVLSHlDWVFzdFFPTTFn?oc=5",
-      "editorial_score": 8.96,
+      "editorial_score": 9.4,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
+        "IA",
         "Segurança"
       ],
-      "title": "Beyond Free Trade and Protectionism: Towards a New Pro-Worker Trade Policy - Social Europe",
-      "summary": "Beyond Free Trade and Protectionism: Towards a New Pro-Worker Trade Policy Social Europe",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Social Europe",
-      "published": "2026-09-22T08:47:22+00:00",
+      "title": "Beam Global Signs LOI to Acquire European Drone Technology Company, Expanding into Vertically Integrated Drone and AI Software Manufacturing - Quiver Quantitative",
+      "summary": "Beam Global Signs LOI to Acquire European Drone Technology Company, Expanding into Vertically Integrated Drone and AI Software Manufacturing Quiver Quantitative",
+      "why": "Technology is reshaping productivity, regulation and business models.",
+      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
+      "source": "Quiver Quantitative",
+      "published": "2026-09-22T10:10:00+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeTV2SUNOXzFIVWVsbUxYV21oaDRKdm9oTWh5Z0pudzRxYnhDd3JzMXM0dTVpdHlPNzhoODdMY0htN2NucnpXNTZNV1JOVWVlanZrSW9feGFBTUlLTl9YMEhKOXplc0pHeWpDTFBSejQxVXFXRTFPc3lZUnBkdXpvb2NEV1gxVmx3c2lPM3oyUU1yQjhKcVRxMTRjc29MMG4tUkF1cEdyRE56cGtWeEJBOVZjNzNaTzVKendvZkpLbFlNaUcxdENhcDNNbEtNWUo3SGN6UkZnM0tHMkdMLUlYaVFlQnpQc1YwYXRDV2lUMjVsX1RVM19XeHJhTXZ5QW5KU0hvX3JR?oc=5",
+      "editorial_score": 8.85,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "title": "Michele Bullock questions artificial intelligence’s productivity boost, warns of potential bubble an ... - Mix Vale",
+      "summary": "Michele Bullock questions artificial intelligence’s productivity boost, warns of potential bubble an ... Mix Vale",
+      "why": "Technology is reshaping productivity, regulation and business models.",
+      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
+      "source": "Mix Vale",
+      "published": "2026-09-22T10:02:45+00:00",
       "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnBhT0p2akZWaFptWmlNNjBnOUpTRTlJNFFyTmt2emx4SkkzVWhtNGdYVE0xX042MWtCd0NvRkxQLTNQblRpSkMtcElRZWlfOWNfVEtmbUNMd3ZnREhBcVdTVGh1VUhINUxWa3RJWnVHZGpQR0ctX0V0cWNWSUI4cTc2ZVZxakltWTZBcDNZTkR5Q1RuUi1ESTJXdTVkd01lOXdn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZzZmUldjYVd2VGNrX2Z3ZHVCWlpTd3RJSmFFa1htbFB5dzdNcjc5WmhjQjJMdnZHbmhfOEI2QUtQeFRDaVVHWlJIMzg1a3psbi1wWmtIamRtR043cmVkZl8wY29wSS15YWszdVhVZGRhLU9FX3NpWTdURUJwcHQtWmN6TzBlanduRHlWcEpPRzBNZnhmVjZuTEhqT0VKaDdOaDZIbGgyNnp5aXE4bDlHQ203SEtpZV9fXzkxMHVqbkFHR3ZMM3d1ZEFEdldNN0k0WnBKWjhrX0xPNFpnaGZqVmRRVXVTX21pRGo00gHrAUFVX3lxTE9nNmZSV2NhV3ZUY2tfZndkdUJaWlN3dElKYUVrWG1sUHl3N01yNzlaaGNCMkx2dkduaF84QjZBS1B4VENpVUdaUkgzODVremxuLXBaa0hqZG1HTjdyZWRmXzBjb3BJLXlhazN1WFVkZGEtT0Vfc2lZN1RFQnBwdC1aY3pPMGVqd25EeVZwSk9HME1meGZWNm5MSGpPRUpoN05oNkhsaDI2enlpcThsOUdDbTdIS2llX19fOTEwdWpuQUdHdkwzd3VkQUR2V003STRacEpaOGtfTE80WmdoZmpWZFFVdVNfbWlEajQ?oc=5",
       "editorial_score": 8.83,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump - bastillepost.com",
-      "summary": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump bastillepost.com",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "bastillepost.com",
-      "published": "2026-09-22T09:15:19+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN0wxNU0yNzAwY3YwdGVkQ1I2TnMwUmtOeklORnhJTjZFdTRHVThHTWNWUnY2OE0xVVdCZWpkTXVaUm4tRmNjaDRqMFVXNEpIaUx2MHJ6dElFQVJnSFAxekhoTlVocGhPVEhhNDFISTNuT2RualRidlBCS1JKdzJaejhhTG0xaUJRcmdLR1gwNUFUQkduTWRLMXQyaTJuU1ZlRzBFcWk1Qm1rbDVWSHRIcXhOcDN1NUZzWE1TQ1VfTjlJYjBNS1E?oc=5",
-      "editorial_score": 7.92,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Qatar Airways CEO: Iran Conflict Is Airline’s Biggest Challenge in Over 30 Years - Global Trade Magazine",
-      "summary": "Qatar Airways CEO: Iran Conflict Is Airline’s Biggest Challenge in Over 30 Years Global Trade Magazine",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Global Trade Magazine",
-      "published": "2026-09-22T09:11:26+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWU1d0dYZkU2LW9zamxnejdCb21PenduQXgxeHZqNUVjMkhyUE0zZnZvVzAwX3dxVm5STC1yQUNmbTI5N0VaM3pHWEg0am5wVTF6NXVkMVhnUGZZSHRUX0FUd2lucGlCcVZ3djI5akYzWGNaV0h4bkZzdndaQnlLNklfMEtRN1VWMzJmR2J2TGVxSFBudjdqZVFMVG9xcjVOQlVnSG91M2lXYnBXcmRB?oc=5",
-      "editorial_score": 7.92,
       "source_tier": "C"
     }
   ],
