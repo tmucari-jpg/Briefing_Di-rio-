@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T23:47:03.687356+00:00",
+  "updated_at": "2026-09-22T09:36:48.537922+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,18 +7,53 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Mozambique president calls for ‘brother country’ Brazil to spur oil and gas industry - Upstream Online",
-      "summary": "Mozambique president calls for ‘brother country’ Brazil to spur oil and gas industry Upstream Online",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Upstream Online",
-      "published": "2026-09-21T17:16:00+00:00",
-      "age_hours": 6.5,
+      "title": "Missão Empresarial ao Botswana e Fórum de Negócios Botswana–Moçambique - CLUB OF MOZAMBIQUE",
+      "summary": "Missão Empresarial ao Botswana e Fórum de Negócios Botswana–Moçambique CLUB OF MOZAMBIQUE",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "CLUB OF MOZAMBIQUE",
+      "published": "2026-09-22T09:14:35+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTDRTZVQ5N2dNSDFWakZmWldRUzctdFlsTXB6RE9hb3poUGs0elVCa0p0WFhEbzV4NVAxSG5ZNnFBTDlTUjF3T2RHYXJuVzVtb3l5Z3IydjFJR3BlQkVUTzlOTzg0VnptVDhKSURvY01QMFZFb2hMYy1yWjJuWGdiU2RRaEFpbDF4X3VFWlJTUmdrckdUTXF5YmRjcVdWWGJGOVJIdkJRZDkxX25IZ00zVnp4eHB3QmVUM21fcnkxQTRQdjhLM0NJUC1SQXZYSHF1a080bkhXVWs?oc=5",
-      "editorial_score": 10.65,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZW5UWUNlN2hxNHZXMnJtVU43b1o3TTlYMmxSNzkzQzlER3ZKREFxbWVyTXpKZk45WHV0NVU1a3ZWNlA5NHNsc3hyOEd4ME9yUU0wVUJsd3pKekdPbWwxei1ESnVqZklvdVQwaEpOdzZYYzhIUUpNVmhwNDdMdjc5elJLWVA0d1lNWEJlUnczZkViV25PRi1sN3BXMmEzMHVBcEtDanhSd2Rhd2JF?oc=5",
+      "editorial_score": 11.92,
+      "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "‘Deadly hazards’: Behind Sudan gold mine collapse, a wartime desperation",
+      "summary": "Nearly 100 people have died in recent days in the scramble for gold, whose value has grown in a shattered economy.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-22T08:54:10+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/22/deadly-hazards-behind-sudan-gold-mine-collapse-a-wartime-desperation?traffic_source=rss",
+      "editorial_score": 11.85,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Dangote to scale back interest in steel for $10 billion power investment across Africa - Businessfront",
+      "summary": "Dangote to scale back interest in steel for $10 billion power investment across Africa Businessfront",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "Businessfront",
+      "published": "2026-09-22T08:51:47+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUV3SUthS2N6WF9TUEtOQ2RyZjBIWk9OT2hTS013Q3FEYjUyb3loSFJ4OFNBLUJuYVhJZERwLW51MVFJQ1Blb1NEYzduNU5GZmpTNWMtYTJUZzR2OVVTdHM5RFZIakozUTVLWXNoYUU5dUUwanhGTXI3Um56R3dzR1U5S2ZlSjQ?oc=5",
+      "editorial_score": 10.85,
       "source_tier": "C"
     },
     {
@@ -26,16 +61,67 @@
       "tags": [
         "Energia"
       ],
-      "title": "Nigeria to Host 10th Africa Energy Summit as SETI Deepens Focus on Industrial Capacity, Finance, Innovation - THISDAYLIVE",
-      "summary": "Nigeria to Host 10th Africa Energy Summit as SETI Deepens Focus on Industrial Capacity, Finance, Innovation THISDAYLIVE",
+      "title": "South Africa: Zululand LNG terminal awaits offtakers - African Energy",
+      "summary": "South Africa: Zululand LNG terminal awaits offtakers African Energy",
       "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
       "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "THISDAYLIVE",
-      "published": "2026-09-21T23:18:00+00:00",
-      "age_hours": 0.5,
+      "source": "African Energy",
+      "published": "2026-09-22T08:50:11+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbDJvTldvclJ4VXJQckhjT1dMeFlGcmV1SFlSWjg5Y29sU2hzNzZUY1E1WWt0ODZnRzAyYXUzU2gzOGkzU0hGRHRmcVhZNWJGU2VXZWZiV3F0QmJQZmVzTFNjeFBtOHBHOVVJLV9EN2szaFdWSVpyeC1iSUM2SUN6YmxmajFJem9DUXNDclNab3ZNYVIzUmoyRnNKWUxOZm1FTFJRNXYxRDdQbnlXZ3JhbnQ2aXZZUTAtQ0ZralR5NVdOSXhuTl96LVQ3Ty1Qbjc3bEszb1cwN1pBTDlZekE?oc=5",
-      "editorial_score": 9.9,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMF9mLXd2SkhXVmVtTUZlX1Y2M19aX0hxSURCRDE0OUx2VVVQRHZqY1hxOXVERGZxbjVsOTdSS19LTXVtYS0tUkUyZnpIUDNNclExTUwxZF9hYlloQ1NjZldSOUowckplM2ZoSW1XVUlhdDctVVJoRWN6WV9XSGxwQUR1T3pJZXhJQUJQVkdJQ2J3NlNkWFJCSmNXdWh2eVVzODdv?oc=5",
+      "editorial_score": 10.83,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Eskom achieves 490 days without load shedding in South Africa - Businessfront",
+      "summary": "Eskom achieves 490 days without load shedding in South Africa Businessfront",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "Businessfront",
+      "published": "2026-09-22T09:02:10+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNGlHYlpSSXp2TW5jbmpzU1VyM3Fnd0xCcXUxcmxuZ2NNeUtnTUdtRGNKdG9ncnhMTDk1YjgtS0ZwNFZHMnhoVk54LVM1U19wQVZiU1VIRDlyYjRTSjFzQXN4M0hNMEo4UU5jNXZLazQ2bzdvZUViWWlfa0tud01CMHdRZXVRY1E?oc=5",
+      "editorial_score": 9.88,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique Supreme Court Considers Live Broadcast of Venâncio Mondlane's Post-Election Protest Trial - streamlinefeed.co.ke",
+      "summary": "Mozambique Supreme Court Considers Live Broadcast of Venâncio Mondlane's Post-Election Protest Trial streamlinefeed.co.ke",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "streamlinefeed.co.ke",
+      "published": "2026-09-22T07:59:41+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjdlc2F5V25NdVoweDJTdTRCSm5YYlpPUERxNDBpZlo0Zmp2ejRnaUN1bnFIU3EyWlZiRWo0bk8zUGJaM0ZiT3l4RWlXZUFuTUIwNnRZN2VXT05iTmxrSE9feklSaFpyV002ZGZYWjBVUkJNZW9rY0Fvd2x5Yzc2VW5WajlLWUdqbTJiYzRoZlZlWVhEWnRqcHR5dWpqZFU?oc=5",
+      "editorial_score": 9.67,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Can Kenya keep hired goons out of its 2027 election? - ISS Africa",
+      "summary": "Can Kenya keep hired goons out of its 2027 election? ISS Africa",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "ISS Africa",
+      "published": "2026-09-22T09:23:07+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdEpPZV9kbHNEYTRGS2E5b0tETUc5czJ4REZDSzR5dE9xVUpET001aF81OHItV1RhYm1NX0YzRjBwU20yVS12TGpiSWxWams1NU5UZkFZbWdIUzFhMnNjRlVsQmdYZTAya01RMHo5MUxjdFhDWDRIU1FoQURjTXVLSHlDWVFzdFFPTTFn?oc=5",
+      "editorial_score": 8.96,
       "source_tier": "C"
     },
     {
@@ -44,67 +130,16 @@
         "Economia",
         "Segurança"
       ],
-      "title": "Russia’s war on Ukrainian trade is a war on global food security - Samoa Observer",
-      "summary": "Russia’s war on Ukrainian trade is a war on global food security Samoa Observer",
+      "title": "Beyond Free Trade and Protectionism: Towards a New Pro-Worker Trade Policy - Social Europe",
+      "summary": "Beyond Free Trade and Protectionism: Towards a New Pro-Worker Trade Policy Social Europe",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Samoa Observer",
-      "published": "2026-09-21T23:10:58+00:00",
-      "age_hours": 0.6,
+      "source": "Social Europe",
+      "published": "2026-09-22T08:47:22+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42YjVsTTNKWEc0c1hpc0tsWWxsaXBORE1KOWpYR0N6Q0ZGdE5OejFZNzlSb1U3OVk2YjdBQVpydENueDdSQUpmYVYtcGtHdmw5SklQbU5hemc5X3VsWGJ3?oc=5",
-      "editorial_score": 9.88,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "South Africa Investigates Moriel Infrastructure Over Contractor Gradings and State Contracts - Head Topics",
-      "summary": "South Africa Investigates Moriel Infrastructure Over Contractor Gradings and State Contracts Head Topics",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Head Topics",
-      "published": "2026-09-21T22:31:00+00:00",
-      "age_hours": 1.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZGhWUjhVWmlZSTVNcFhMdkRnUTJNblNWVjVUaUROaHFHdnB1OGo2R3p2R2JkSm0zTjhva1ZZNVo3LWhMLXBBSUVxN0N6T09SeHRBNTJKS0daSnE1MFI2TFNHNnF6dHpEbFNzaWpMbVBvZGdxZVFSLWpCZlRVSHBNMHBQSXdvZnRPUlM3dlRkUS1tbHRIQm5v?oc=5",
-      "editorial_score": 9.73,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "How iStore ensures South Africa is a first wave country for new Apple hardware - htxt.co.za",
-      "summary": "How iStore ensures South Africa is a first wave country for new Apple hardware htxt.co.za",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "htxt.co.za",
-      "published": "2026-09-21T22:07:30+00:00",
-      "age_hours": 1.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3VLUmhkSkNPTDhuM1JtZDRnYlRjQXc0WlFJUjMtWk83eElRU2thWDVITlJ5MDBWdzBaQ2RZVzJRem40bXdKOWFzdE5QbDBoNnJ4czFKeVZxb2c3U18xNG1hcXFoOFhPTWJmcnMxanFmcTlCeEVHenBjWmc3NFNPZ0kxR256M2NidGhWOHBuUEw0Z3Jkd2FUT09oVGFsYzZ4dUZFTldrSmVyQQ?oc=5",
-      "editorial_score": 9.65,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "IA"
-      ],
-      "title": "UK and South African institutions showcase expanding science and technology partnerships - Tech Review Africa",
-      "summary": "UK and South African institutions showcase expanding science and technology partnerships Tech Review Africa",
-      "why": "Technology is reshaping productivity, regulation and business models.",
-      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
-      "source": "Tech Review Africa",
-      "published": "2026-09-21T22:03:03+00:00",
-      "age_hours": 1.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR25OcTZPU2p5Zlo2YTkyWGEzMmc1NTFZdHRpUmVjS1pyVl9RazJwaDZKQWppX0xTR0tVZXdCcFRfNUNqblFhWjZYOHo5WGRCYVFFYkVfZW1VUW1LcG9XbUF4STBMdjY3SUR1a3FRbDBkMmZYQ2ZaRXRCamxHZDg3QW5lc0p1QVdrOUUxNF9zbVJpUUdTXzcyTW1yRHQ5Y21iQVFsZjhqb3otTERHWWdBWU1YS3NmVzAtOU80VktKRlI4WDhFRlE?oc=5",
-      "editorial_score": 9.65,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnBhT0p2akZWaFptWmlNNjBnOUpTRTlJNFFyTmt2emx4SkkzVWhtNGdYVE0xX042MWtCd0NvRkxQLTNQblRpSkMtcElRZWlfOWNfVEtmbUNMd3ZnREhBcVdTVGh1VUhINUxWa3RJWnVHZGpQR0ctX0V0cWNWSUI4cTc2ZVZxakltWTZBcDNZTkR5Q1RuUi1ESTJXdTVkd01lOXdn?oc=5",
+      "editorial_score": 8.83,
       "source_tier": "C"
     },
     {
@@ -112,67 +147,34 @@
       "tags": [
         "Economia"
       ],
-      "title": "Beijing, Washington hold candid exchanges during talks on economic and trade issues - China Daily Global Edition",
-      "summary": "Beijing, Washington hold candid exchanges during talks on economic and trade issues China Daily Global Edition",
+      "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump - bastillepost.com",
+      "summary": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump bastillepost.com",
       "why": "The story helps track the direction of the global economy and investment decisions.",
       "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "China Daily Global Edition",
-      "published": "2026-09-21T22:53:41+00:00",
-      "age_hours": 0.9,
+      "source": "bastillepost.com",
+      "published": "2026-09-22T09:15:19+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTDAxUWlNTlJzOE1aTVZBNnl4OWcya0lqYTMtTmJuZUs5NmQ5NmFJMy1EY3g1M0VZVUlvMWR3blpxTnBaejAzSEF2dGFJVDJlM2VJQjZyWi1OVC1WRUVKZ0RvWm15ekNaX3hwVmduR0hLMXk0aGxyTkJnMWxZajdISg?oc=5",
-      "editorial_score": 8.81,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN0wxNU0yNzAwY3YwdGVkQ1I2TnMwUmtOeklORnhJTjZFdTRHVThHTWNWUnY2OE0xVVdCZWpkTXVaUm4tRmNjaDRqMFVXNEpIaUx2MHJ6dElFQVJnSFAxekhoTlVocGhPVEhhNDFISTNuT2RualRidlBCS1JKdzJaejhhTG0xaUJRcmdLR1gwNUFUQkduTWRLMXQyaTJuU1ZlRzBFcWk1Qm1rbDVWSHRIcXhOcDN1NUZzWE1TQ1VfTjlJYjBNS1E?oc=5",
+      "editorial_score": 7.92,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
-      ],
-      "title": "How Yemen’s Houthis could supercharge global trade disruptions - CBC",
-      "summary": "How Yemen’s Houthis could supercharge global trade disruptions CBC",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "CBC",
-      "published": "2026-09-21T23:15:00+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eVFqRWdXeFk2ZmEyd21IVFQ0TmhmR09kM0piYkhJbjBNc2VROHdTbkRvTER5bnpSbWZ5Q25oMWFBSVFmVnFZRGIyUzV6WUxaMEtsZWVhTS1yUQ?oc=5",
-      "editorial_score": 7.9,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Korean Drone Rescue Program Helps Mozambique Achieve Zero Fatalities During Worst Flood in Decades - Good News Network",
-      "summary": "Korean Drone Rescue Program Helps Mozambique Achieve Zero Fatalities During Worst Flood in Decades Good News Network",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Good News Network",
-      "published": "2026-09-21T13:00:32+00:00",
-      "age_hours": 10.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWxtclJfQ2tHWW5XOFUwdXVCUkxZOEFrbU55U3ZlZXlVejltZmdTV21TQUpSTjhYWW9yLUE5bTdzYU1xWGZIWDVHNUZpc3ZoRlItLWE5T0E5VVVEdS05RXk3VGVHbGFRQVdXbWZzN2xKUE9qdkZBSVk5Q2RnV2haTUxMV0FRbXhaU0pvVjZDR1ktRlVFS3ZDMGRYNXR1bUw0ZDd2VGVwNWhUbGZaUnNFMHNEbnhvbFRCc0tDQ1pXYURLWmkxV0Q4eTkwSQ?oc=5",
-      "editorial_score": 7.75,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
+        "Economia",
         "Segurança"
       ],
-      "title": "The US-China tech war has evolved since Xi and Trump last met. Who has the edge? - South China Morning Post",
-      "summary": "The US-China tech war has evolved since Xi and Trump last met. Who has the edge? South China Morning Post",
+      "title": "Qatar Airways CEO: Iran Conflict Is Airline’s Biggest Challenge in Over 30 Years - Global Trade Magazine",
+      "summary": "Qatar Airways CEO: Iran Conflict Is Airline’s Biggest Challenge in Over 30 Years Global Trade Magazine",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "South China Morning Post",
-      "published": "2026-09-21T22:00:06+00:00",
-      "age_hours": 1.8,
+      "source": "Global Trade Magazine",
+      "published": "2026-09-22T09:11:26+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTlM5RVgtVzhURTl3NmYzdlpzT09LbGVhVEFiTk5veVo0VncteldxbUJUdS1BVHBRaVRpM3hsU3ZwMUJoSHl3UFB4aWNLdjF5WF9CS2UzNzRYd0FoblF3U0RZT1dob0VVaGQxSU5HWVV0bnRnSG1tWkRoaFlMMXRuM0tFUXhEYzVTNVVLcDlDYkRfVUFNbTVZYk1MZzZzR3VQLTQyNXUwaU8xUU10ZnpweGp3UzFldlZ2bmZEbWJXaEdwTzAxWWfSAcYBQVVfeXFMTXV5VzhoSlZpcEdpNXpnNVNibXFfTGowM2FmdnRBVE9NLTJWRFJuS2h3UHBWZDkwU0YwWm9IempCWUp5MXZ0a1BJT0MxTVd2ZjV1ektvVHpvc3B3VEVFRklPQjdRSzE2UVg1VUUyNVNSOG9tWkxvUk5DdTdrSmQ5RmZwLURVWE9OckFTNWsyN2VGNDNPX3Z3dmJuQjBVVXFZRkRmYmthLUtxS0pMSlZBaXUyMkxIc3NjNjBKMTJzNFlFU2lKbXl3?oc=5",
-      "editorial_score": 7.62,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWU1d0dYZkU2LW9zamxnejdCb21PenduQXgxeHZqNUVjMkhyUE0zZnZvVzAwX3dxVm5STC1yQUNmbTI5N0VaM3pHWEg0am5wVTF6NXVkMVhnUGZZSHRUX0FUd2lucGlCcVZ3djI5akYzWGNaV0h4bkZzdndaQnlLNklfMEtRN1VWMzJmR2J2TGVxSFBudjdqZVFMVG9xcjVOQlVnSG91M2lXYnBXcmRB?oc=5",
+      "editorial_score": 7.92,
       "source_tier": "C"
     }
   ],

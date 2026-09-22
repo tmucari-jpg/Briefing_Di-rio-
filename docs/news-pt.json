@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T23:46:55.464845+00:00",
+  "updated_at": "2026-09-22T09:36:43.616920+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,36 +7,19 @@
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
-      ],
-      "title": "Portugal tem por estes dias os combustíveis mais caros de sempre",
-      "summary": "Os preços do gasóleo e da gasolina voltaram a disparar e bateram recordes absolutos. O mais estranho é que, apesar dos preços altos, o consumo aumentou, o que levou a ministra do Ambiente a apelar aos portugueses para que poupem no consumo de energia.",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-21T21:07:47+00:00",
-      "age_hours": 2.7,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/portugal-tem-por-estes-dias-os-combustiveis-mais-caros-de-sempre_v1766873",
-      "editorial_score": 11.44,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
+        "Energia",
         "Segurança"
       ],
-      "title": "Crise climática é questão de segurança diz MNE britânico",
-      "summary": "O ministro britânico dos Negócios Estrangeiros, Ed Miliband, defendeu hoje que a crise climática mundial é uma questão de segurança, que deve ser abordada pelos generais e primeiros-ministros, e não apenas pelos ativistas ambientais.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "title": "Petróleo. Trump vai pressionar Zelensky na ONU",
+      "summary": "O presidente dos Estados Unidos da América quer um cessar-fogo no setor energético na guerra da Ucrânia. Numa altura em que os preços médios do gasóleo nos Estados Unidos atingiram na segunda-feira um recorde. A subida dos preços é um fator negativo para o Partido Republicano nas eleições intercalares nos EUA que se realizam em novembro.",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-21T22:10:07+00:00",
-      "age_hours": 1.6,
+      "published": "2026-09-22T09:19:10+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/crise-climatica-e-questao-de-seguranca-diz-mne-britanico_n1766865",
-      "editorial_score": 10.67,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/petroleo-trump-vai-pressionar-zelensky-na-onu_n1766931",
+      "editorial_score": 11.94,
       "source_tier": "A"
     },
     {
@@ -44,16 +27,50 @@
       "tags": [
         "Economia"
       ],
-      "title": "Ministra da Saúde promete soluções para as urgências",
-      "summary": "O Governo anunciou que até ao final de novembro divulgará a reorganização das urgências na Região de Lisboa e Vale do Tejo. A ministra da Saúde prometeu soluções para as urgências até final do ano e revelou que as soluções passam também pela lei dos médicos tarefeiros.",
+      "title": "G7 pede que Irão deixe de apoiar e armar os Houthis do Iémen",
+      "summary": "O Irão deve \"parar de apoiar e fornecer armas\" aos Houthis no Iémen, afirmaram os ministros dos Negócios Estrangeiros das Nações do G7 num comunicado conjunto antes da Assembleia Geral das Nações Unidas.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-21T21:14:47+00:00",
-      "age_hours": 2.5,
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-22T09:00:14+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/politica/ministra-da-saude-promete-solucoes-para-as-urgencias_v1766876",
-      "editorial_score": 9.48,
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/g7-pede-que-irao-deixe-de-apoiar-e-armar-os-houthis-do-iemen_n1766933",
+      "editorial_score": 9.88,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Líder da Coreia do Sul defende congelamento do programa nuclear de Pyongyang",
+      "summary": "O Presidente da Coreia do Sul disse que os Estados Unidos devem trabalhar para congelar o programa nuclear do Norte, em vez de procurar a sua eliminação imediata, em troca do alívio das sanções.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-22T08:32:50+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/lider-da-coreia-do-sul-defende-congelamento-do-programa-nuclear-de-pyongyang_n1766910",
+      "editorial_score": 9.77,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Alibaba lança novo chip de IA três vezes mais potente que modelo anterior",
+      "summary": "A tecnológica chinesa Alibaba apresentou hoje um novo chip de inteligência artificial (IA), que classificou como o \"mais potente\" da China, numa altura em que as restrições norte-americanas aceleram o desenvolvimento de alternativas domésticas.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-22T08:19:52+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/economia/alibaba-lanca-novo-chip-de-ia-tres-vezes-mais-potente-que-modelo-anterior_n1766915",
+      "editorial_score": 9.73,
       "source_tier": "A"
     },
     {
@@ -61,67 +78,68 @@
       "tags": [
         "Energia"
       ],
-      "title": "Chapo à procura de capital para a nova fase do gás em Moçambique - Carta de Moçambique",
-      "summary": "Chapo à procura de capital para a nova fase do gás em Moçambique Carta de Moçambique",
+      "title": "Moçambique e Brasil articulam nova cooperação estratégica no setor de petróleo e gás no Rio de Janeiro - Правда.Ру",
+      "summary": "Moçambique e Brasil articulam nova cooperação estratégica no setor de petróleo e gás no Rio de Janeiro Правда.Ру",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Carta de Moçambique",
-      "published": "2026-09-21T16:31:06+00:00",
-      "age_hours": 7.3,
+      "source": "Правда.Ру",
+      "published": "2026-09-22T01:29:00+00:00",
+      "age_hours": 8.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWpuaU04bXlzT3VtWV9tS0JqOURsQ0s5OHJnbTZHS1hobmpsdTMwaWJvbGtFbVdwMFNna05ENGFOTFNuMWtKbkI3ejRzeUxmUklZVC1zSS1yWURyZnNOMTJCY1VqUVJYRnNKTnV1SEhHWklyczJ4VHBTcVFnVkZySFBWaGxwNFpkc1hRV24zZ21FdGJ3VU1ab3hBeVNJTTIwaHc?oc=5",
-      "editorial_score": 9.48,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tZUdSUjdHWHNRY2Q0V1R5aWhxM21scnNaRXY2cDlabXFJTUN6bllwakJmQ3l3dkp2YTNTREwyaV9ka1VEY0Ftbk5RSmlYZ2JLQU1zUldmaGttczhQaThZcHpLbFUyUF9CWXEzWHhmaHhEUGIwdng5WXVsNE9sZw?oc=5",
+      "editorial_score": 9.31,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Universidade Eduardo Mondlane e Governo da Suécia de mãos dadas - Rádio Moçambique",
+      "summary": "Universidade Eduardo Mondlane e Governo da Suécia de mãos dadas Rádio Moçambique",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "Rádio Moçambique",
+      "published": "2026-09-22T06:12:30+00:00",
+      "age_hours": 3.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkNCSFVmODRIb1liQkFSdjlPS0dSRk1Eek9mRW42VDVpWEFtcU1TbUkzUV9yRzZINDBWQ0dveEdGVXk5MTZSbEltM2s1QzJnY25IMHdmWjFJa1dfZXZ1QVF5U2RFSXpEdkN1WllvNzhVMmxfYXNUUjBRWTE2NUowNzY0OGhrdy1ZTnFpTHBB?oc=5",
+      "editorial_score": 9.29,
       "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
+        "IA",
         "Economia"
       ],
-      "title": "Partido de Vladimir Putin venceu as eleições na Rússia",
-      "summary": "O Rússia Unida mantém a maioria constitucional no parlamento, onde não haverá bancadas de oposição.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-21T21:12:47+00:00",
-      "age_hours": 2.6,
+      "title": "Rally da Inteligência Artificial Leva Ásia ao Verde. Europa Aponta Para Ganhos - diarioeconomico.co.mz",
+      "summary": "Rally da Inteligência Artificial Leva Ásia ao Verde. Europa Aponta Para Ganhos diarioeconomico.co.mz",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-22T08:10:00+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/partido-de-vladimir-putin-venceu-as-eleicoes-na-russia_v1766875",
-      "editorial_score": 9.46,
-      "source_tier": "A"
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdWdWQW9uZS1yb0ZpLVdJdGREbGI3bU5SUkwzUGdqOE15aGEtVEZfLVVkYmRkd1dxbjdsMExualk4U05CaXJyOVVzU0c1dlU5TXpnTGo1V1V5MDNGc011TTlTOUp1Y25ZU2FSUjhvMVY3VVlLWTAxUWZFTzBxb0d0OEJpR2U1aFRlZ2ptNmNTbzMwekZhLUtwWTFrN0hqT2Fjbkl5N1FPWmhObC1MZlltUG03NGhMUkVKRWdnRTE3R2xobkFJTkdWVWFiSUFEY2lNVUlJbUpQTkc3RWRBdl9yVTRRZHY?oc=5",
+      "editorial_score": 7.71,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "IA"
       ],
-      "title": "Extrema-direita continua a crescer na Alemanha",
-      "summary": "As eleições regionais na Alemanha confirmaram a tendência de mudança no mapa político do país. Os nacionalistas venceram em Mecklemburgo-Pomerânia Ocidental e os socialistas radicais em Berlim. O partido do chanceler alemão sofreu uma forte derrota nos dois Estados.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-21T21:04:47+00:00",
-      "age_hours": 2.7,
+      "title": "As PMEs asiáticas estão a intensificar o uso de tecnologia e inteligência artificial nos pagamentos. - Vietnam.vn",
+      "summary": "As PMEs asiáticas estão a intensificar o uso de tecnologia e inteligência artificial nos pagamentos. Vietnam.vn",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "Vietnam.vn",
+      "published": "2026-09-22T08:05:58+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/extrema-direita-continua-a-crescer-na-alemanha_v1766872",
-      "editorial_score": 9.44,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Relatora da ONU Está em Moçambique Para Avaliar Impactos Das Alterações Climáticas - diarioeconomico.co.mz",
-      "summary": "Relatora da ONU Está em Moçambique Para Avaliar Impactos Das Alterações Climáticas diarioeconomico.co.mz",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-21T14:30:00+00:00",
-      "age_hours": 9.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZXhZbzlYOGp6TWZqQkZWZWxtYl9oZWd4cE5yY09IbTQ4QVRLNGpzQjJiUk5TZTlobHVIX0hXWEFNeUc1c25ZTGpjam9mSlQwaS1LcmhQUFl1Nm1pdUdSR1Y1YUhNSkNJVmNkNUdmQlBkTHFseXp1S2p3YXo5d2UtOWd5ei04RGpYeC1qQkdlTVRQS0l3Ty1ELVdnQXZHV0FKMlVzdDl3Q3hyQ0VRc0pYRlNyam5ZZmZ6YWNha213WEYwd0R0SjE1N2lJRFNGajJ2cFFmQWNwN0xlU1JPbUFZ?oc=5",
-      "editorial_score": 9.06,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeG1vYmN1MlBQUDd6d0EyajQ3RE9SbnNWa0tvNDMzbDIycDMyelAySHo3ZUY2RWMzT0tkUzg5OUkxRTVlYzFyNENKM2NXWFY5My1tM21HMUtNUE5JOU45MDByRUJMLU1NdU8yWkRFNGlRUmlZUExZWDVPNHgzWS01SEl6dElUUERuZXFJMUlyRjdnVjRDT296UFhuVQ?oc=5",
+      "editorial_score": 7.69,
       "source_tier": "C"
     },
     {
@@ -135,10 +153,10 @@
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "Notícias ao Minuto",
       "published": "2026-09-21T20:15:38+00:00",
-      "age_hours": 3.5,
+      "age_hours": 13.4,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlVOcmhRWlZYWUNxaG52cmhpRnpwaFhRaGZUZlV3WHl1UVRnMWp0OHo4OEs4UW5fNDNtU0ZpdHpCclRZRUdyQlh3WHM0WlJ1N18zUWZtdEp6UmFRUEtMckloVG0xY0Q0V3pUaGhvanVoRzhzdzhiR1dmRTBPMWs2YzhYdlQ0blppeTFyQTdTM2UyWF8xVHpyV1pSNzZ5YTJDTVdJQTRUM0ZWbkZpTTI5Ui04ZVR5Zw?oc=5",
-      "editorial_score": 7.27,
+      "editorial_score": 5.21,
       "source_tier": "C"
     },
     {
@@ -152,27 +170,10 @@
       "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
       "source": "Demócrata",
       "published": "2026-09-21T18:18:44+00:00",
-      "age_hours": 5.5,
+      "age_hours": 15.3,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTktPbU4zanhrTG9UUFZnaXdxWGcybkdObzlxSmw3NXRQSnhmenRmX0RGM2RJekNuQWxJQk4tV0YzeVZtZWZPdFRFajdpMkVqOG10Q3hSdGNfd0lFdkNjc1FNX2xXcnJINmpCY1VIT0JqTmhyUlBiVXlRR2xDVWVVZVZRVUt6UnQ4VjlScjNTWVZraGYyc3RzeW1nMmhnZlNIbkxaODQxb1g1dzAycEhLbXVHREI2MmQ5V0Q4b2FVNFUxOFdjYzc4WVp1dVDSAdIBQVVfeXFMT1RaaWhBVGZ2M1Q0Z1pDRU85Nmw2T1A0X2s1emEyQXcyQlFDQ25YaUtBZUJyVnc3aFg2UmpQd2kwRl93RVhoV1ljeEZtWG5iTFlXUFNqTWhmR1ZmREdPOU80TGEwd0x6X1N3bk40ZFhWYTVXQVNkek02SmIydzJqZzlMY2ZRRktSY0MyOHRTTHR4ZHUxS3M3SmVMMi1VaDVkajcyVV9SemZKUl9YXzk1Unpvd1FQd1gtcEZCdTNRU3NEYVhWVlFjRDBDUUh5eFF0bllR?oc=5",
-      "editorial_score": 6.85,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Inteligência artificial avança, mas só 1 em 5 projetos dá ROI, diz Gartner - suno.com.br",
-      "summary": "Inteligência artificial avança, mas só 1 em 5 projetos dá ROI, diz Gartner suno.com.br",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "suno.com.br",
-      "published": "2026-09-21T22:11:00+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXhRRXVmM0RTUE5oMXA2d1ZpQXpkeVVodXo2dUNDVXRRRWdhM2F6T0lQeXZISXEwTVIyeE5Yc3pXTlB4R2h2YUVFNThWTmk5blB0N1ROSXRMWGFpVFVJNHFlV0Z4Rm80QVA1WFNvbUlUUnBzdkljZ3ZkNmcwX3dMU05sNE01cWNS0gGOAUFVX3lxTE9QRkpfMXNubFpvRmhfcGQ0aVl5aUh4SGxxdXFKZGVvcGEteE12YW9fbERJQUV0dDgxcFJVckotS0NUaVFwa2hnOThHTm5DMFVWZ090T2dwOEdpTFpCUkZ6QzI3T0t6Z2xQb0V4SkU4VVNJOW1tb0IyY0g1SGpsYjlSZUtBU19ZSEhMMXBHc2c?oc=5",
-      "editorial_score": 6.67,
+      "editorial_score": 4.81,
       "source_tier": "C"
     }
   ],
