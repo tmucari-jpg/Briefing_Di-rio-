@@ -7,74 +7,374 @@ on:
       - 'scripts/editorial_quality.py'
       - 'scripts/update_opportunities.py'
       - '.github/workflows/update.yml'
+
   workflow_dispatch:
+
   schedule:
-    # 07:00, 11:00, 15:00, 19:00 e 23:00 em Africa/Maputo (UTC+2)
-    - cron: '0 5 * * *'
-    - cron: '0 9 * * *'
-    - cron: '0 13 * * *'
-    - cron: '0 17 * * *'
-    - cron: '0 21 * * *'
+    # Horário de Moçambique:
+    # 05:00, 07:00, 09:00, 11:00, 13:00,
+    # 15:00, 17:00, 19:00, 21:00 e 23:00
+    #
+    # O GitHub Actions utiliza UTC.
+    - cron: '0 3,5,7,9,11,13,15,17,19,21 * * *'
 
 permissions:
   contents: write
 
 jobs:
   update:
+    name: Atualizar Briefing Diário
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Obter repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+          cache: 'pip'
+
       - name: Instalar dependências
         run: pip install feedparser
-      - name: Actualizar briefing
+
+      - name: Atualizar notícias
         env:
           TZ: Africa/Maputo
         run: python scripts/update_news.py
-      - name: Curadoria e qualidade editorial
+
+      - name: Executar curadoria e qualidade editorial
+        env:
+          TZ: Africa/Maputo
         run: python scripts/editorial_quality.py
-      - name: Gerar radar semanal de oportunidades
+
+      - name: Atualizar radar de oportunidades
         env:
           TZ: Africa/Maputo
         run: python scripts/update_opportunities.py
-      - name: Validar briefing final
+
+      - name: Validar notícias e oportunidades
         run: |
           python - <<'PY'
           import json
-          for f in ('docs/news-pt.json','docs/news-en.json'):
-              d=json.load(open(f,encoding='utf-8'))
-              n=len(d.get('items',[]))
-              c=d.get('section_counts',{})
-              assert n >= 8, f'{f}: menos de 8 notícias'
-              assert c.get('Mundo',0) >= 4, f'{f}: Mundo insuficiente'
-              assert c.get('África',0) >= 2, f'{f}: África insuficiente'
-              assert c.get('Moçambique',0) >= 2, f'{f}: Moçambique insuficiente'
-              assert len({x.get('title','').strip().lower() for x in d['items']}) == n, f'{f}: títulos duplicados'
-              for x in d['items']:
-                  for k in ('title','summary','why','impact','source','link','published','editorial_score','source_tier'):
-                      assert x.get(k), f'{f}: campo ausente {k}'
-                  assert x['source_tier'] in ('A','B','C')
-              print(f'{f}: {n} notícias · {c}')
-          for f in ('docs/opportunities-pt.json','docs/opportunities-en.json'):
-              d=json.load(open(f,encoding='utf-8'))
-              assert isinstance(d.get('items'), list), f'{f}: items inválidos'
-              for x in d['items']:
-                  for k in ('title','summary','category','source','link','published'):
-                      assert x.get(k), f'{f}: campo ausente {k}'
-              print(f'{f}: {len(d["items"])} oportunidades')
+          from pathlib import Path
+
+          ficheiros_noticias = (
+              'docs/news-pt.json',
+              'docs/news-en.json',
+          )
+
+          for ficheiro in ficheiros_noticias:
+              caminho = Path(ficheiro)
+
+              assert caminho.exists(), (
+                  f'{ficheiro}: ficheiro não encontrado'
+              )
+
+              dados = json.loads(
+                  caminho.read_text(encoding='utf-8')
+              )
+
+              noticias = dados.get('items', [])
+              quantidade = len(noticias)
+              contagens = dados.get('section_counts', {})
+
+              assert isinstance(noticias, list), (
+                  f'{ficheiro}: formato de notícias inválido'
+              )
+
+              assert quantidade >= 10, (
+                  f'{ficheiro}: foram encontradas apenas '
+                  f'{quantidade} notícias. O mínimo é 10.'
+              )
+
+              assert contagens.get('Mundo', 0) >= 4, (
+                  f'{ficheiro}: são necessárias pelo menos '
+                  '4 notícias da secção Mundo'
+              )
+
+              assert contagens.get('África', 0) >= 2, (
+                  f'{ficheiro}: são necessárias pelo menos '
+                  '2 notícias da secção África'
+              )
+
+              assert contagens.get('Moçambique', 0) >= 2, (
+                  f'{ficheiro}: são necessárias pelo menos '
+                  '2 notícias da secção Moçambique'
+              )
+
+              titulos = [
+                  noticia.get('title', '').strip().lower()
+                  for noticia in noticias
+              ]
+
+              assert all(titulos), (
+                  f'{ficheiro}: existem notícias sem título'
+              )
+
+              assert len(set(titulos)) == quantidade, (
+                  f'{ficheiro}: existem títulos duplicados'
+              )
+
+              campos_obrigatorios = (
+                  'title',
+                  'summary',
+                  'why',
+                  'impact',
+                  'source',
+                  'link',
+                  'published',
+                  'editorial_score',
+                  'source_tier',
+              )
+
+              for indice, noticia in enumerate(noticias, start=1):
+                  for campo in campos_obrigatorios:
+                      assert noticia.get(campo), (
+                          f'{ficheiro}: notícia {indice} '
+                          f'sem o campo {campo}'
+                      )
+
+                  assert noticia['source_tier'] in ('A', 'B', 'C'), (
+                      f'{ficheiro}: classificação da fonte inválida '
+                      f'na notícia {indice}'
+                  )
+
+                  link = noticia.get('link', '')
+
+                  assert link.startswith(('http://', 'https://')), (
+                      f'{ficheiro}: link inválido '
+                      f'na notícia {indice}'
+                  )
+
+              print(
+                  f'{ficheiro}: {quantidade} notícias válidas '
+                  f'· {contagens}'
+              )
+
+          ficheiros_oportunidades = (
+              'docs/opportunities-pt.json',
+              'docs/opportunities-en.json',
+          )
+
+          for ficheiro in ficheiros_oportunidades:
+              caminho = Path(ficheiro)
+
+              assert caminho.exists(), (
+                  f'{ficheiro}: ficheiro não encontrado'
+              )
+
+              dados = json.loads(
+                  caminho.read_text(encoding='utf-8')
+              )
+
+              oportunidades = dados.get('items', [])
+
+              assert isinstance(oportunidades, list), (
+                  f'{ficheiro}: formato de oportunidades inválido'
+              )
+
+              campos_obrigatorios = (
+                  'title',
+                  'summary',
+                  'category',
+                  'source',
+                  'link',
+                  'published',
+              )
+
+              for indice, oportunidade in enumerate(
+                  oportunidades,
+                  start=1,
+              ):
+                  for campo in campos_obrigatorios:
+                      assert oportunidade.get(campo), (
+                          f'{ficheiro}: oportunidade {indice} '
+                          f'sem o campo {campo}'
+                      )
+
+              print(
+                  f'{ficheiro}: '
+                  f'{len(oportunidades)} oportunidades válidas'
+              )
           PY
-      - name: Commit notícias e oportunidades
+
+      - name: Guardar notícias e oportunidades
         run: |
           git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add docs/news.json docs/news-pt.json docs/news-en.json docs/opportunities-pt.json docs/opportunities-en.json
+          git config user.email \
+            '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add \
+            docs/news.json \
+            docs/news-pt.json \
+            docs/news-en.json \
+            docs/opportunities-pt.json \
+            docs/opportunities-en.json
+
           if git diff --cached --quiet; then
-            echo 'Sem alterações.'
+            echo 'Não foram encontradas alterações.'
           else
-            git commit -m 'chore: actualizar briefing e radar de oportunidades'
+            git commit \
+              -m 'chore: atualizar briefing e radar de oportunidades'
+
             git push
           fi
 
-# Notícias: cinco actualizações por dia. Oportunidades: janela móvel de 7 dias, regenerada em cada actualização.
+      - name: Registar atividade dos agentes no painel
+        if: always()
+        continue-on-error: true
+        env:
+          SUPABASE_AGENT_SECRET: ${{ secrets.SUPABASE_AGENT_SECRET }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError, URLError
+
+          supabase_url = (
+              'https://jteamrgobvvwqwwyuqik.supabase.co'
+          )
+
+          secret = os.environ.get(
+              'SUPABASE_AGENT_SECRET',
+              '',
+          ).strip()
+
+          if not secret:
+              print(
+                  'SUPABASE_AGENT_SECRET não está configurado. '
+                  'O registo dos agentes foi ignorado.'
+              )
+              raise SystemExit(0)
+
+          def contar_items(caminho):
+              try:
+                  dados = json.loads(
+                      Path(caminho).read_text(
+                          encoding='utf-8'
+                      )
+                  )
+
+                  return len(dados.get('items', []))
+
+              except Exception as erro:
+                  print(
+                      f'Não foi possível ler {caminho}: {erro}'
+                  )
+                  return 0
+
+          estado = os.environ.get(
+              'JOB_STATUS',
+              'unknown',
+          )
+
+          sucesso = estado == 'success'
+
+          acao = (
+              'Atualização concluída'
+              if sucesso
+              else 'Execução com falha'
+          )
+
+          noticias_pt = contar_items(
+              'docs/news-pt.json'
+          )
+
+          noticias_en = contar_items(
+              'docs/news-en.json'
+          )
+
+          oportunidades_pt = contar_items(
+              'docs/opportunities-pt.json'
+          )
+
+          oportunidades_en = contar_items(
+              'docs/opportunities-en.json'
+          )
+
+          registos = [
+              {
+                  'agent': 'Agente Editorial',
+                  'action': acao,
+                  'detail': (
+                      f'{noticias_pt} notícias em português e '
+                      f'{noticias_en} notícias em inglês '
+                      f'processadas. Estado: {estado}.'
+                  ),
+              },
+              {
+                  'agent': 'Radar de Oportunidades',
+                  'action': acao,
+                  'detail': (
+                      f'{oportunidades_pt} oportunidades em '
+                      f'português e {oportunidades_en} '
+                      f'oportunidades em inglês processadas. '
+                      f'Estado: {estado}.'
+                  ),
+              },
+          ]
+
+          endpoint = (
+              f'{supabase_url}/rest/v1/agent_activity'
+          )
+
+          pedido = Request(
+              endpoint,
+              data=json.dumps(
+                  registos,
+                  ensure_ascii=False,
+              ).encode('utf-8'),
+              method='POST',
+              headers={
+                  'apikey': secret,
+                  'Content-Type': 'application/json',
+                  'Prefer': 'return=minimal',
+                  'User-Agent': 'Briefing-Diario-Agent/1.0',
+              },
+          )
+
+          try:
+              with urlopen(
+                  pedido,
+                  timeout=30,
+              ) as resposta:
+                  print(
+                      'Atividade dos agentes registada: '
+                      f'HTTP {resposta.status}'
+                  )
+
+          except HTTPError as erro:
+              resposta_erro = erro.read().decode(
+                  'utf-8',
+                  errors='replace',
+              )
+
+              print(
+                  'Erro ao registar atividade: '
+                  f'HTTP {erro.code} — {resposta_erro}'
+              )
+
+              raise
+
+          except URLError as erro:
+              print(
+                  'Erro de ligação ao Supabase: '
+                  f'{erro.reason}'
+              )
+
+              raise
+          PY
+
+# Configuração:
+# - Dez atualizações automáticas por dia.
+# - Pelo menos dez notícias em cada edição.
+# - Conteúdo em português e inglês.
+# - Notícias de Moçambique, África e Mundo.
+# - Radar de oportunidades com janela móvel de sete dias.
+# - Atividade dos agentes registada no painel administrativo.
