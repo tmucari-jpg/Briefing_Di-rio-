@@ -14,8 +14,6 @@ on:
     # Horário de Moçambique:
     # 05:00, 07:00, 09:00, 11:00, 13:00,
     # 15:00, 17:00, 19:00, 21:00 e 23:00
-    #
-    # O GitHub Actions utiliza UTC.
     - cron: '0 3,5,7,9,11,13,15,17,19,21 * * *'
 
 permissions:
@@ -35,7 +33,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-          cache: 'pip'
 
       - name: Instalar dependências
         run: pip install feedparser
@@ -219,7 +216,6 @@ jobs:
           else
             git commit \
               -m 'chore: atualizar briefing e radar de oportunidades'
-
             git push
           fi
 
@@ -256,44 +252,26 @@ jobs:
           def contar_items(caminho):
               try:
                   dados = json.loads(
-                      Path(caminho).read_text(
-                          encoding='utf-8'
-                      )
+                      Path(caminho).read_text(encoding='utf-8')
                   )
-
                   return len(dados.get('items', []))
-
               except Exception as erro:
-                  print(
-                      f'Não foi possível ler {caminho}: {erro}'
-                  )
+                  print(f'Erro ao ler {caminho}: {erro}')
                   return 0
 
-          estado = os.environ.get(
-              'JOB_STATUS',
-              'unknown',
-          )
-
-          sucesso = estado == 'success'
+          estado = os.environ.get('JOB_STATUS', 'unknown')
 
           acao = (
               'Atualização concluída'
-              if sucesso
+              if estado == 'success'
               else 'Execução com falha'
           )
 
-          noticias_pt = contar_items(
-              'docs/news-pt.json'
-          )
-
-          noticias_en = contar_items(
-              'docs/news-en.json'
-          )
-
+          noticias_pt = contar_items('docs/news-pt.json')
+          noticias_en = contar_items('docs/news-en.json')
           oportunidades_pt = contar_items(
               'docs/opportunities-pt.json'
           )
-
           oportunidades_en = contar_items(
               'docs/opportunities-en.json'
           )
@@ -320,12 +298,11 @@ jobs:
               },
           ]
 
-          endpoint = (
-              f'{supabase_url}/rest/v1/agent_activity'
-          )
-
           pedido = Request(
-              endpoint,
+              (
+                  f'{supabase_url}'
+                  '/rest/v1/agent_activity'
+              ),
               data=json.dumps(
                   registos,
                   ensure_ascii=False,
@@ -340,41 +317,32 @@ jobs:
           )
 
           try:
-              with urlopen(
-                  pedido,
-                  timeout=30,
-              ) as resposta:
+              with urlopen(pedido, timeout=30) as resposta:
                   print(
                       'Atividade dos agentes registada: '
                       f'HTTP {resposta.status}'
                   )
 
           except HTTPError as erro:
-              resposta_erro = erro.read().decode(
+              mensagem = erro.read().decode(
                   'utf-8',
                   errors='replace',
               )
-
               print(
-                  'Erro ao registar atividade: '
-                  f'HTTP {erro.code} — {resposta_erro}'
+                  f'Erro HTTP {erro.code}: {mensagem}'
               )
-
               raise
 
           except URLError as erro:
               print(
-                  'Erro de ligação ao Supabase: '
-                  f'{erro.reason}'
+                  f'Erro de ligação ao Supabase: {erro.reason}'
               )
-
               raise
           PY
 
-# Configuração:
-# - Dez atualizações automáticas por dia.
-# - Pelo menos dez notícias em cada edição.
-# - Conteúdo em português e inglês.
-# - Notícias de Moçambique, África e Mundo.
-# - Radar de oportunidades com janela móvel de sete dias.
-# - Atividade dos agentes registada no painel administrativo.
+# Dez atualizações automáticas por dia.
+# Pelo menos dez notícias em cada edição.
+# Conteúdo em português e inglês.
+# Notícias de Moçambique, África e Mundo.
+# Radar de oportunidades com janela móvel de sete dias.
+# Atividade dos agentes registada no painel administrativo.
