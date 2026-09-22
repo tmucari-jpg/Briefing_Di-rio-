@@ -1,0 +1,21 @@
+{
+  "name": "Briefing Diário — Mundo África Moçambique",
+  "short_name": "Briefing Diário",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#0b6b4f",
+  "lang": "pt-PT",
+  "description": "Briefing diário de notícias do Mundo, África e Moçambique.",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

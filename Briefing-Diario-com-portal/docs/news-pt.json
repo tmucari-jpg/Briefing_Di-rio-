@@ -1,0 +1,207 @@
+{
+  "updated_at": "2026-09-22T10:53:22.169792+00:00",
+  "language": "pt",
+  "window_hours": 24,
+  "fallback_hours": 72,
+  "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Petróleo. Trump vai pressionar Zelensky na ONU",
+      "summary": "O presidente dos Estados Unidos da América quer um cessar-fogo no setor energético na guerra da Ucrânia. Numa altura em que os preços médios do gasóleo nos Estados Unidos atingiram na segunda-feira um recorde. A subida dos preços é um fator negativo para o Partido Republicano nas eleições intercalares nos EUA que se realizam em novembro.",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-22T09:19:10+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/petroleo-trump-vai-pressionar-zelensky-na-onu_n1766931",
+      "editorial_score": 11.67,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "GALP pede estabilidade fiscal ao Governo português",
+      "summary": "O co-presidente executivo da GALP pede estabilidade fiscal ao Governo português. É a reação crítica à proposta de criação de uma sobretaxa extraordinária sobre os lucros no setor petrolífero.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-22T09:55:47+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/economia/galp-pede-estabilidade-fiscal-ao-governo-portugues_v1766940",
+      "editorial_score": 9.79,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "G7 pede que Irão deixe de apoiar e armar os Houthis do Iémen",
+      "summary": "O Irão deve \"parar de apoiar e fornecer armas\" aos Houthis no Iémen, afirmaram os ministros dos Negócios Estrangeiros das Nações do G7 num comunicado conjunto antes da Assembleia Geral das Nações Unidas.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-22T09:00:14+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/g7-pede-que-irao-deixe-de-apoiar-e-armar-os-houthis-do-iemen_n1766933",
+      "editorial_score": 9.6,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Líder da Coreia do Sul defende congelamento do programa nuclear de Pyongyang",
+      "summary": "O Presidente da Coreia do Sul disse que os Estados Unidos devem trabalhar para congelar o programa nuclear do Norte, em vez de procurar a sua eliminação imediata, em troca do alívio das sanções.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-22T08:32:50+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/lider-da-coreia-do-sul-defende-congelamento-do-programa-nuclear-de-pyongyang_n1766910",
+      "editorial_score": 9.52,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Alibaba lança novo chip de IA três vezes mais potente que modelo anterior",
+      "summary": "A tecnológica chinesa Alibaba apresentou hoje um novo chip de inteligência artificial (IA), que classificou como o \"mais potente\" da China, numa altura em que as restrições norte-americanas aceleram o desenvolvimento de alternativas domésticas.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-22T08:19:52+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/economia/alibaba-lanca-novo-chip-de-ia-tres-vezes-mais-potente-que-modelo-anterior_n1766915",
+      "editorial_score": 9.46,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Moçambique e Brasil articulam nova cooperação estratégica no setor de petróleo e gás no Rio de Janeiro - Правда.Ру",
+      "summary": "Moçambique e Brasil articulam nova cooperação estratégica no setor de petróleo e gás no Rio de Janeiro Правда.Ру",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "Правда.Ру",
+      "published": "2026-09-22T01:29:00+00:00",
+      "age_hours": 9.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tZUdSUjdHWHNRY2Q0V1R5aWhxM21scnNaRXY2cDlabXFJTUN6bllwakJmQ3l3dkp2YTNTREwyaV9ka1VEY0Ftbk5RSmlYZ2JLQU1zUldmaGttczhQaThZcHpLbFUyUF9CWXEzWHhmaHhEUGIwdng5WXVsNE9sZw?oc=5",
+      "editorial_score": 9.04,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Universidade Eduardo Mondlane e Governo da Suécia de mãos dadas - Rádio Moçambique",
+      "summary": "Universidade Eduardo Mondlane e Governo da Suécia de mãos dadas Rádio Moçambique",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "Rádio Moçambique",
+      "published": "2026-09-22T06:12:30+00:00",
+      "age_hours": 4.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkNCSFVmODRIb1liQkFSdjlPS0dSRk1Eek9mRW42VDVpWEFtcU1TbUkzUV9yRzZINDBWQ0dveEdGVXk5MTZSbEltM2s1QzJnY25IMHdmWjFJa1dfZXZ1QVF5U2RFSXpEdkN1WllvNzhVMmxfYXNUUjBRWTE2NUowNzY0OGhrdy1ZTnFpTHBB?oc=5",
+      "editorial_score": 9.02,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "Rally da Inteligência Artificial Leva Ásia ao Verde. Europa Aponta Para Ganhos - diarioeconomico.co.mz",
+      "summary": "Rally da Inteligência Artificial Leva Ásia ao Verde. Europa Aponta Para Ganhos diarioeconomico.co.mz",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-22T08:10:00+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdWdWQW9uZS1yb0ZpLVdJdGREbGI3bU5SUkwzUGdqOE15aGEtVEZfLVVkYmRkd1dxbjdsMExualk4U05CaXJyOVVzU0c1dlU5TXpnTGo1V1V5MDNGc011TTlTOUp1Y25ZU2FSUjhvMVY3VVlLWTAxUWZFTzBxb0d0OEJpR2U1aFRlZ2ptNmNTbzMwekZhLUtwWTFrN0hqT2Fjbkl5N1FPWmhObC1MZlltUG03NGhMUkVKRWdnRTE3R2xobkFJTkdWVWFiSUFEY2lNVUlJbUpQTkc3RWRBdl9yVTRRZHY?oc=5",
+      "editorial_score": 7.44,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Guterres preocupado com agravamento da situação de segurança na Etiópia - Notícias ao Minuto",
+      "summary": "Guterres preocupado com agravamento da situação de segurança na Etiópia Notícias ao Minuto",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "Notícias ao Minuto",
+      "published": "2026-09-21T20:15:38+00:00",
+      "age_hours": 14.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZlVOcmhRWlZYWUNxaG52cmhpRnpwaFhRaGZUZlV3WHl1UVRnMWp0OHo4OEs4UW5fNDNtU0ZpdHpCclRZRUdyQlh3WHM0WlJ1N18zUWZtdEp6UmFRUEtMckloVG0xY0Q0V3pUaGhvanVoRzhzdzhiR1dmRTBPMWs2YzhYdlQ0blppeTFyQTdTM2UyWF8xVHpyV1pSNzZ5YTJDTVdJQTRUM0ZWbkZpTTI5Ui04ZVR5Zw?oc=5",
+      "editorial_score": 4.96,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Guterres alerta da persistente insegurança na Etiópia e da nova coalizão opositora armada - Demócrata",
+      "summary": "Guterres alerta da persistente insegurança na Etiópia e da nova coalizão opositora armada Demócrata",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
+      "source": "Demócrata",
+      "published": "2026-09-21T18:18:44+00:00",
+      "age_hours": 16.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTktPbU4zanhrTG9UUFZnaXdxWGcybkdObzlxSmw3NXRQSnhmenRmX0RGM2RJekNuQWxJQk4tV0YzeVZtZWZPdFRFajdpMkVqOG10Q3hSdGNfd0lFdkNjc1FNX2xXcnJINmpCY1VIT0JqTmhyUlBiVXlRR2xDVWVVZVZRVUt6UnQ4VjlScjNTWVZraGYyc3RzeW1nMmhnZlNIbkxaODQxb1g1dzAycEhLbXVHREI2MmQ5V0Q4b2FVNFUxOFdjYzc4WVp1dVDSAdIBQVVfeXFMT1RaaWhBVGZ2M1Q0Z1pDRU85Nmw2T1A0X2s1emEyQXcyQlFDQ25YaUtBZUJyVnc3aFg2UmpQd2kwRl93RVhoV1ljeEZtWG5iTFlXUFNqTWhmR1ZmREdPOU80TGEwd0x6X1N3bk40ZFhWYTVXQVNkek02SmIydzJqZzlMY2ZRRktSY0MyOHRTTHR4ZHUxS3M3SmVMMi1VaDVkajcyVV9SemZKUl9YXzk1Unpvd1FQd1gtcEZCdTNRU3NEYVhWVlFjRDBDUUh5eFF0bllR?oc=5",
+      "editorial_score": 4.54,
+      "source_tier": "C"
+    }
+  ],
+  "watch": [
+    "Energia e LNG",
+    "Economia e investimento",
+    "Geopolítica e segurança",
+    "Tecnologia e IA"
+  ],
+  "risks": [
+    "Choques geopolíticos",
+    "Volatilidade económica",
+    "Risco de informação não verificada"
+  ],
+  "opportunities": [
+    "Energia e fornecedores",
+    "Tecnologia e IA",
+    "Emprego, negócios e investimento"
+  ],
+  "generator": "GitHub Actions · Briefing Diário",
+  "section_counts": {
+    "Mundo": 6,
+    "África": 2,
+    "Moçambique": 2
+  },
+  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
+  "briefing_intro": {
+    "pt": "Bom dia. Este é o Briefing Diário. Hoje, vale a pena acompanhar primeiro os temas com maior impacto potencial em geopolítica, economia, energia, tecnologia e Moçambique.",
+    "en": "Good morning. This is the Daily Briefing. Today, focus first on the stories with the strongest potential relevance to geopolitics, the economy, energy, technology and Mozambique."
+  }
+}
