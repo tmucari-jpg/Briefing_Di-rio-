@@ -23,10 +23,14 @@ export default function LoginForm() {
       if (signInError) throw signInError;
       router.replace("/");
       router.refresh();
-    } catch {
-      setError("Email ou palavra-passe incorretos.");
-    } finally {
-      setBusy(false);
+    } catch (err) {
+  setError(
+    err instanceof Error
+      ? `Erro de acesso: ${err.message}`
+      : "Erro de acesso desconhecido.",
+  );
+}
+    setBusy(false);
     }
   }
 
