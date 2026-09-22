@@ -1,0 +1,411 @@
+name: Briefing Diário — Atualizar notícias
+
+on:
+  push:
+    paths:
+      - 'scripts/update_news.py'
+      - 'scripts/editorial_quality.py'
+      - 'scripts/update_opportunities.py'
+      - '.github/workflows/update.yml'
+
+  workflow_dispatch:
+
+  schedule:
+    # Horário de Moçambique:
+    # 05:00, 07:00, 09:00, 11:00, 13:00,
+    # 15:00, 17:00, 19:00, 21:00 e 23:00
+    - cron: '0 3,5,7,9,11,13,15,17,19,21 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Atualizar Briefing Diário
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Instalar dependências
+        run: pip install feedparser
+
+      - name: Atualizar notícias
+        env:
+          TZ: Africa/Maputo
+        run: python scripts/update_news.py
+
+      - name: Executar curadoria e qualidade editorial
+        env:
+          TZ: Africa/Maputo
+        run: python scripts/editorial_quality.py
+
+      - name: Atualizar radar de oportunidades
+        env:
+          TZ: Africa/Maputo
+        run: python scripts/update_opportunities.py
+
+      - name: Validar notícias e oportunidades
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          ficheiros_noticias = (
+              'docs/news-pt.json',
+              'docs/news-en.json',
+          )
+
+          for ficheiro in ficheiros_noticias:
+              caminho = Path(ficheiro)
+
+              assert caminho.exists(), (
+                  f'{ficheiro}: ficheiro não encontrado'
+              )
+
+              dados = json.loads(
+                  caminho.read_text(encoding='utf-8')
+              )
+
+              noticias = dados.get('items', [])
+              quantidade = len(noticias)
+              contagens = dados.get('section_counts', {})
+
+              assert isinstance(noticias, list), (
+                  f'{ficheiro}: formato de notícias inválido'
+              )
+
+              assert quantidade >= 10, (
+                  f'{ficheiro}: foram encontradas apenas '
+                  f'{quantidade} notícias. O mínimo é 10.'
+              )
+
+              assert contagens.get('Mundo', 0) >= 4, (
+                  f'{ficheiro}: são necessárias pelo menos '
+                  '4 notícias da secção Mundo'
+              )
+
+              assert contagens.get('África', 0) >= 2, (
+                  f'{ficheiro}: são necessárias pelo menos '
+                  '2 notícias da secção África'
+              )
+
+              assert contagens.get('Moçambique', 0) >= 2, (
+                  f'{ficheiro}: são necessárias pelo menos '
+                  '2 notícias da secção Moçambique'
+              )
+
+              titulos = [
+                  noticia.get('title', '').strip().lower()
+                  for noticia in noticias
+              ]
+
+              assert all(titulos), (
+                  f'{ficheiro}: existem notícias sem título'
+              )
+
+              assert len(set(titulos)) == quantidade, (
+                  f'{ficheiro}: existem títulos duplicados'
+              )
+
+              campos_obrigatorios = (
+                  'title',
+                  'summary',
+                  'why',
+                  'impact',
+                  'source',
+                  'link',
+                  'published',
+                  'editorial_score',
+                  'source_tier',
+              )
+
+              for indice, noticia in enumerate(noticias, start=1):
+                  for campo in campos_obrigatorios:
+                      assert noticia.get(campo), (
+                          f'{ficheiro}: notícia {indice} '
+                          f'sem o campo {campo}'
+                      )
+
+                  assert noticia['source_tier'] in ('A', 'B', 'C'), (
+                      f'{ficheiro}: classificação da fonte inválida '
+                      f'na notícia {indice}'
+                  )
+
+                  link = noticia.get('link', '')
+
+                  assert link.startswith(('http://', 'https://')), (
+                      f'{ficheiro}: link inválido '
+                      f'na notícia {indice}'
+                  )
+
+              print(
+                  f'{ficheiro}: {quantidade} notícias válidas '
+                  f'· {contagens}'
+              )
+
+          ficheiros_oportunidades = (
+              'docs/opportunities-pt.json',
+              'docs/opportunities-en.json',
+          )
+
+          for ficheiro in ficheiros_oportunidades:
+              caminho = Path(ficheiro)
+
+              assert caminho.exists(), (
+                  f'{ficheiro}: ficheiro não encontrado'
+              )
+
+              dados = json.loads(
+                  caminho.read_text(encoding='utf-8')
+              )
+
+              oportunidades = dados.get('items', [])
+
+              assert isinstance(oportunidades, list), (
+                  f'{ficheiro}: formato de oportunidades inválido'
+              )
+
+              campos_obrigatorios = (
+                  'title',
+                  'summary',
+                  'category',
+                  'source',
+                  'link',
+                  'published',
+              )
+
+              for indice, oportunidade in enumerate(
+                  oportunidades,
+                  start=1,
+              ):
+                  for campo in campos_obrigatorios:
+                      assert oportunidade.get(campo), (
+                          f'{ficheiro}: oportunidade {indice} '
+                          f'sem o campo {campo}'
+                      )
+
+              print(
+                  f'{ficheiro}: '
+                  f'{len(oportunidades)} oportunidades válidas'
+              )
+          PY
+
+      - name: Publicar edição protegida no Supabase
+        env:
+          SUPABASE_AGENT_SECRET: ${{ secrets.SUPABASE_AGENT_SECRET }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          from zoneinfo import ZoneInfo
+
+          secret = os.environ.get('SUPABASE_AGENT_SECRET', '').strip()
+          if not secret:
+              raise SystemExit('SUPABASE_AGENT_SECRET não configurado.')
+
+          edition_date = datetime.now(
+              ZoneInfo('Africa/Maputo')
+          ).date().isoformat()
+
+          rows = []
+          for language in ('pt', 'en'):
+              news = json.loads(
+                  Path(f'docs/news-{language}.json').read_text(
+                      encoding='utf-8'
+                  )
+              )
+              opportunities = json.loads(
+                  Path(
+                      f'docs/opportunities-{language}.json'
+                  ).read_text(encoding='utf-8')
+              )
+              news['opportunities'] = opportunities.get('items', [])
+              rows.append({
+                  'language': language,
+                  'edition_date': edition_date,
+                  'payload': news,
+                  'published_at': datetime.now(timezone.utc).isoformat(),
+              })
+
+          request = Request(
+              (
+                  'https://jteamrgobvvwqwwyuqik.supabase.co'
+                  '/rest/v1/briefings'
+                  '?on_conflict=language,edition_date'
+              ),
+              data=json.dumps(rows, ensure_ascii=False).encode('utf-8'),
+              method='POST',
+              headers={
+                  'apikey': secret,
+                  'Content-Type': 'application/json',
+                  'Prefer': 'resolution=merge-duplicates,return=minimal',
+                  'User-Agent': 'Briefing-Diario-Agent/1.0',
+              },
+          )
+
+          with urlopen(request, timeout=30) as response:
+              print(
+                  'Edição protegida publicada: '
+                  f'HTTP {response.status}'
+              )
+          PY
+
+      - name: Guardar notícias e oportunidades
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email \
+            '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add \
+            docs/news.json \
+            docs/news-pt.json \
+            docs/news-en.json \
+            docs/opportunities-pt.json \
+            docs/opportunities-en.json
+
+          if git diff --cached --quiet; then
+            echo 'Não foram encontradas alterações.'
+          else
+            git commit \
+              -m 'chore: atualizar briefing e radar de oportunidades'
+            git push
+          fi
+
+      - name: Registar atividade dos agentes no painel
+        if: always()
+        continue-on-error: true
+        env:
+          SUPABASE_AGENT_SECRET: ${{ secrets.SUPABASE_AGENT_SECRET }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError, URLError
+
+          supabase_url = (
+              'https://jteamrgobvvwqwwyuqik.supabase.co'
+          )
+
+          secret = os.environ.get(
+              'SUPABASE_AGENT_SECRET',
+              '',
+          ).strip()
+
+          if not secret:
+              print(
+                  'SUPABASE_AGENT_SECRET não está configurado. '
+                  'O registo dos agentes foi ignorado.'
+              )
+              raise SystemExit(0)
+
+          def contar_items(caminho):
+              try:
+                  dados = json.loads(
+                      Path(caminho).read_text(encoding='utf-8')
+                  )
+                  return len(dados.get('items', []))
+              except Exception as erro:
+                  print(f'Erro ao ler {caminho}: {erro}')
+                  return 0
+
+          estado = os.environ.get('JOB_STATUS', 'unknown')
+
+          acao = (
+              'Atualização concluída'
+              if estado == 'success'
+              else 'Execução com falha'
+          )
+
+          noticias_pt = contar_items('docs/news-pt.json')
+          noticias_en = contar_items('docs/news-en.json')
+          oportunidades_pt = contar_items(
+              'docs/opportunities-pt.json'
+          )
+          oportunidades_en = contar_items(
+              'docs/opportunities-en.json'
+          )
+
+          registos = [
+              {
+                  'agent': 'Agente Editorial',
+                  'action': acao,
+                  'detail': (
+                      f'{noticias_pt} notícias em português e '
+                      f'{noticias_en} notícias em inglês '
+                      f'processadas. Estado: {estado}.'
+                  ),
+              },
+              {
+                  'agent': 'Radar de Oportunidades',
+                  'action': acao,
+                  'detail': (
+                      f'{oportunidades_pt} oportunidades em '
+                      f'português e {oportunidades_en} '
+                      f'oportunidades em inglês processadas. '
+                      f'Estado: {estado}.'
+                  ),
+              },
+          ]
+
+          pedido = Request(
+              (
+                  f'{supabase_url}'
+                  '/rest/v1/agent_activity'
+              ),
+              data=json.dumps(
+                  registos,
+                  ensure_ascii=False,
+              ).encode('utf-8'),
+              method='POST',
+              headers={
+                  'apikey': secret,
+                  'Content-Type': 'application/json',
+                  'Prefer': 'return=minimal',
+                  'User-Agent': 'Briefing-Diario-Agent/1.0',
+              },
+          )
+
+          try:
+              with urlopen(pedido, timeout=30) as resposta:
+                  print(
+                      'Atividade dos agentes registada: '
+                      f'HTTP {resposta.status}'
+                  )
+
+          except HTTPError as erro:
+              mensagem = erro.read().decode(
+                  'utf-8',
+                  errors='replace',
+              )
+              print(
+                  f'Erro HTTP {erro.code}: {mensagem}'
+              )
+              raise
+
+          except URLError as erro:
+              print(
+                  f'Erro de ligação ao Supabase: {erro.reason}'
+              )
+              raise
+          PY
+
+# Dez atualizações automáticas por dia.
+# Pelo menos dez notícias em cada edição.
+# Conteúdo em português e inglês.
+# Notícias de Moçambique, África e Mundo.
+# Radar de oportunidades com janela móvel de sete dias.
+# Atividade dos agentes registada no painel administrativo.
