@@ -8,7 +8,7 @@ import feedparser
 
 PRIMARY_HOURS=24
 FALLBACK_HOURS=72
-MIN_NEWS=8
+MIN_NEWS=10
 TARGET={'Mundo':4,'África':2,'Moçambique':2}
 
 RSS_PT={
@@ -80,7 +80,7 @@ def parse(url,sec,source,hours,pt=True):
     f=feedparser.parse(raw); out=[]; now=datetime.now(timezone.utc)
     for i in f.entries:
         title,desc=clean(i.get('title')),clean(i.get('summary') or i.get('description')); d=dt(i)
-        if not title or not d or d>now.replace(microsecond=0) or age(d)>hours or not relevant(sec,title,desc,source): continue
+        if not title or len(desc)<40 or not d or d>now.replace(microsecond=0) or age(d)>hours or not relevant(sec,title,desc,source): continue
         if pt and not likely_portuguese(title,desc): continue
         w,im=context(sec,title+' '+desc); actual_source=source
         try: actual_source=clean(i.get('source',{}).get('title') or source)
@@ -108,9 +108,8 @@ def build(lang):
         for q in queries[s]:
             try:add(by[s],seen,google(s,q,PRIMARY_HOURS,pt))
             except Exception as e: print('google',s,type(e).__name__,str(e)[:160])
-    if any(len(by[s])<TARGET[s] for s in TARGET):
+    if any(len(by[s])<TARGET[s] for s in TARGET) or sum(len(x) for x in by.values())<14:
         for s in TARGET:
-            if len(by[s])>=TARGET[s]: continue
             for src,u in feeds[s]:
                 try:add(by[s],seen,parse(u,s,src,FALLBACK_HOURS,pt))
                 except Exception as e: print('fallback feed',src,s,type(e).__name__,str(e)[:160])
@@ -121,9 +120,9 @@ def build(lang):
     if missing: raise SystemExit(f'Atualização {lang} rejeitada: secções insuficientes {missing}. Não publicar briefing incompleto.')
     selected=[]
     for s,n in TARGET.items(): selected+=sorted(by[s],key=lambda x:x['published'],reverse=True)[:n]
-    pool=sorted([x for s in by for x in by[s] if x not in selected],key=lambda x:x['published'],reverse=True); selected+=pool[:max(0,10-len(selected))]
+    pool=sorted([x for s in by for x in by[s] if x not in selected],key=lambda x:x['published'],reverse=True); selected+=pool[:max(0,14-len(selected))]
     if len(selected)<MIN_NEWS: raise SystemExit(f'Atualização {lang} insuficiente: {len(selected)} notícias.')
-    selected=sorted(selected[:10],key=lambda x:x['published'],reverse=True)
+    selected=sorted(selected[:14],key=lambda x:x['published'],reverse=True)
     p={'updated_at':datetime.now(timezone.utc).isoformat(),'language':lang,'window_hours':24,'fallback_hours':72,'items':selected,'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança','Tecnologia e IA'],'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento'],'generator':'GitHub Actions · Briefing Diário','section_counts':{s:sum(x['section']==s for x in selected) for s in TARGET}}
     Path(f'docs/news-{lang}.json').write_text(json.dumps(p,ensure_ascii=False,indent=2),encoding='utf-8'); return p
 

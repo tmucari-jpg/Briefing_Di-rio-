@@ -4,7 +4,7 @@ from difflib import SequenceMatcher
 from pathlib import Path
 
 TARGET={'Mundo':4,'África':2,'Moçambique':2}
-MIN_NEWS=8
+MIN_NEWS=10
 SOURCE_SCORE={
     'RTP Notícias':5,'RTP':5,'DW Português':5,'DW English':5,
     'BBC World':5,'BBC Africa':5,'BBC':5,'Al Jazeera English':5,
