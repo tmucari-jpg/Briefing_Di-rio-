@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T18:30:56.826143+00:00",
+  "updated_at": "2026-09-23T05:43:02.813832+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -16,10 +16,10 @@
       "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
       "source": "Club of Mozambique",
       "published": "2026-09-22T14:40:37+00:00",
-      "age_hours": 3.8,
+      "age_hours": 15.0,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-wage-bill-and-debt-servicing-could-absorb-96-of-tax-revenue-in-2027/",
-      "editorial_score": 13.21,
+      "editorial_score": 10.88,
       "source_tier": "B"
     },
     {
@@ -27,33 +27,16 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Lula warns against foreign interference, defends Brazil’s sovereignty at UN",
-      "summary": "Lula’s remarks come as Trump asserts US power in Latin America in his own UN address.",
+      "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+      "summary": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "Al Jazeera English",
-      "published": "2026-09-22T17:51:07+00:00",
-      "age_hours": 0.7,
+      "published": "2026-09-23T04:42:15+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
-      "editorial_score": 10.85,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Sudan’s historical famine echoes through latest hunger crisis",
-      "summary": "Sudan’s war-driven famine revives memories of past famines as war drives displacement and food shortages.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-22T17:45:55+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
-      "editorial_score": 10.85,
+      "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
+      "editorial_score": 10.79,
       "source_tier": "A"
     },
     {
@@ -61,33 +44,121 @@
       "tags": [
         "Economia"
       ],
-      "title": "How Kenya's Ruto and Uganda's Museveni Are Reshaping East Africa's Fuel Trade | Firstpost Africa - Firstpost",
-      "summary": "How Kenya's Ruto and Uganda's Museveni Are Reshaping East Africa's Fuel Trade | Firstpost Africa Firstpost",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Firstpost",
-      "published": "2026-09-22T18:09:01+00:00",
-      "age_hours": 0.4,
+      "title": "Is South Africa preparing young people for the jobs that exist? - The Media Online",
+      "summary": "Is South Africa preparing young people for the jobs that exist? The Media Online",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "The Media Online",
+      "published": "2026-09-23T05:15:33+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOWN2ZEp2eHdfSEVneE50R3pWcW9iY1Y3YWxVU3hFZWV4NkU2WTVPbk8yMHc2TjFCVDlRX2Jvd3UzakZGR0diRkd0VU9ZTW5zajJYMDVVaDkyUW81Sm5seWxyQlczb2VCQmp1cEhmd01sQUhxdXZOLXB0c0U5ak10RmdUOTFwcVJJaGxTSTBLbUEyS1VxMEhLQTJPMmZXR0ZwV1hXYmpSUngybWhpNXQzQXhwUjlxYncyQUQ4VldYMTRRS0ZmSXd3Q29SUFF3QVFsa2psNmFtNUgyRDZaUl94a0x2VGlWRkctaXFOQTZHMNIB7wFBVV95cUxQOWN2ZEp2eHdfSEVneE50R3pWcW9iY1Y3YWxVU3hFZWV4NkU2WTVPbk8yMHc2TjFCVDlRX2Jvd3UzakZGR0diRkd0VU9ZTW5zajJYMDVVaDkyUW81Sm5seWxyQlczb2VCQmp1cEhmd01sQUhxdXZOLXB0c0U5ak10RmdUOTFwcVJJaGxTSTBLbUEyS1VxMEhLQTJPMmZXR0ZwV1hXYmpSUngybWhpNXQzQXhwUjlxYncyQUQ4VldYMTRRS0ZmSXd3Q29SUFF3QVFsa2psNmFtNUgyRDZaUl94a0x2VGlWRkctaXFOQTZHMA?oc=5",
-      "editorial_score": 9.92,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb29oZ0pFQ0ZPRjRiVzUzSUVFaGZDLUlEa1pVc1AtZzBTUDd3aVQ2UzVaUkRKUXhCaGNJeGRJT0g2QUpibFRTNFFnX2t0U19tSjNLQ0lKSnVDcjZIMFM1SkhmXzhJQVE3bmt1cXlDa1pmdWhUU3FrLWJzNFk1QTR0UlVWcXg4TUhNdUpDN214TFVLMzdoXzdwUjFzY1FsTnJLcHc?oc=5",
+      "editorial_score": 9.9,
       "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Diplomatic Divide Threatens Sahel Security - Africa Defense Forum",
-      "summary": "Diplomatic Divide Threatens Sahel Security Africa Defense Forum",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Africa Defense Forum",
-      "published": "2026-09-22T17:19:28+00:00",
+      "title": "Maelgwyn South Africa laboratory: Building a platform for strategic growth - Mining Review Africa",
+      "summary": "Maelgwyn South Africa laboratory: Building a platform for strategic growth Mining Review Africa",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "Mining Review Africa",
+      "published": "2026-09-23T04:30:49+00:00",
       "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXFoNnRLZXFhZG5BRmsxV3BYc2l5NEhwTGxXSHRERUZZUi1HWkVEMHRZazNXaFBwV2ZsZm1vTTJocmZuX2hwWkRMZ1JYa0RTRWdfajUtQkRKWTRSRkw1Q2lXSnJ2eHktTklJVmR2XzZjZTZ5djNLS1Q1RU80cDdIMzJn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkI1OG9OcnZHZlp4TnVFSVE1R3VhUE1Fc0s2V1RBVGN1X3g0aWgzYmMyM21pd1JTZGh2WmZfMHRrQVVqYV8tSm5qWmxqXzdSN0twckVzWFlqYk4yRnlrVHZPdkRpbzI2VnNOLVZLQVdRa1poOGMtdS13cmZMcWsxVzVwWl94LTFCMDY4UWZZeFZYY2NmYXNlSGJnSG5MUXJZbmZwelhsMXVkeWZSaTFHeTBDM2lVa3RYYmdYMdIBxAFBVV95cUxONHpMM0RwQ1djaTRjQmQ0WXY4V1FkLTVpMnBac0ZDVXA3OEt3eGNLaDhnWG5ia2VTY3l5Y3daaXFobVBMX2JjR2xsQWtkTlBKYVY4U3lHdU5pN3lhQ3FOVUd5dFA4di1JS3ZmMjVSNlRpcm9Ya3pWd1E1S2JUbzNwbFdkcFNxM1NwdkV6bm8td1BfcW42bG82aFJOWTh2Qi1MendBNkFTa1plLVRydVNhamZ6T3phOG1EQXVINDdZZHRPR0pt?oc=5",
       "editorial_score": 9.75,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "AI Boom Drives Demand For Power, Digital Infrastructure In Africa, Middle East - Head Topics",
+      "summary": "AI Boom Drives Demand For Power, Digital Infrastructure In Africa, Middle East Head Topics",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "Head Topics",
+      "published": "2026-09-23T03:47:00+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMGE3ZFk3R1VYeUNzbmc2ajdXV255VzZpT0pWOGY4SkJRNlk0VzlubWxpUmJnVWxzNEZ4ZlRUenFURTJ3UWJ6TFBMWERyNnhxNzYwM3BUOWp5eGhreHlwMzVqVnFaM19MUGdLN1VnRVVaRkFZeWp3cDdHMzVTVlR6YVBXZXFXR0QxUDRlYVE2eE50WWxEZjhPaU9FUE9Mdw?oc=5",
+      "editorial_score": 9.6,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "AI Boom Drives Demand For Power, Digital Infrastructure In Africa, Middle East – Industry Stakeholders - LEADERSHIP Newspapers",
+      "summary": "AI Boom Drives Demand For Power, Digital Infrastructure In Africa, Middle East – Industry Stakeholders LEADERSHIP Newspapers",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "LEADERSHIP Newspapers",
+      "published": "2026-09-23T03:39:41+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSXJVejE5WHRCZEdzZTRHemhvaEhjd0JQajNXNW9tWUhpMmltQ202bXp4OGM5SEpXMDQ3eUlIRzBPNy1tb2FOeFFCTnhfaGIta2IwcGNyUGR5N3RIenJOamNib1hkUkstaG5vMWlBNmlZY0JDYzAzWF9sM0NJcXM5dFk0cE9uQXNiWUp3clhackM2YkpKVElrdGFlVDNPV1M5b0JHNXY4SEZIR3NPYWMxMm9lWWtMTzY1NWFRLXh3?oc=5",
+      "editorial_score": 9.56,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "India, US discuss boosting AI economy through energy, digital infrastructure at UNGA - The Economic Times",
+      "summary": "India, US discuss boosting AI economy through energy, digital infrastructure at UNGA The Economic Times",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "The Economic Times",
+      "published": "2026-09-23T03:00:00+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaWhwQlB3cS1FQ3lrYy04QmVBdm1qMkk3d0lwVjVfREpIbmp0VTA0NklYSGZ4M253NWRrMTFiSFVPVmFkRVdLLWt3QU1xcVdfbmwyWjFQWVcxTGxNUmJzNUJibHhrLTdsVkVZNHluN0tISUdwRzdKRjB4VjJVRHJ1U2FvSDdRZjV5S2VPYVNDS24wcWEzX2hSZjRsYzhzel94dGs1QUNtTl9ib2dZSjR0R2VzeHU1WDF6UkhtZk85LWFVYnV2d01oWWZpbVdaNDVyc2NldUt2ZTNWUlR1dDlnOE1UdGZBZ9IB5gFBVV95cUxNaWhwQlB3cS1FQ3lrYy04QmVBdm1qMkk3d0lwVjVfREpIbmp0VTA0NklYSGZ4M253NWRrMTFiSFVPVmFkRVdLLWt3QU1xcVdfbmwyWjFQWVcxTGxNUmJzNUJibHhrLTdsVkVZNHluN0tISUdwRzdKRjB4VjJVRHJ1U2FvSDdRZjV5S2VPYVNDS24wcWEzX2hSZjRsYzhzel94dGs1QUNtTl9ib2dZSjR0R2VzeHU1WDF6UkhtZk85LWFVYnV2d01oWWZpbVdaNDVyc2NldUt2ZTNWUlR1dDlnOE1UdGZBZw?oc=5",
+      "editorial_score": 9.44,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "Hong Kong energised as global investment hub for green technology - South China Morning Post",
+      "summary": "Hong Kong energised as global investment hub for green technology South China Morning Post",
+      "why": "Technology is reshaping productivity, regulation and business models.",
+      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
+      "source": "South China Morning Post",
+      "published": "2026-09-23T04:00:06+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY0lrNTU5RkJUS0xCZzR0OWtLRXF1YUtGc0VZaUFsNk1KYVk3YmljZng4Z2JQVkVVYU5uZW90UHd2eVBpcHllWkFlZGlrblNNQWU3REJjWDFDZjlIVjZJOUdkZGJodFdmM2tCVFkwM25rTWdXaTZ3bjNDd1RrVUF1YkxDRm81QkQybU1GYzB4Yzl3YkZncUEwTUpCWnVjcFh0aUFpZjMydHcyaEtQWHliUjJnaWk2WmVLSEJubUFmTTkyWjYtVk9zc3lYbjUwWjBBaGNwQkFQZXgtUQ?oc=5",
+      "editorial_score": 8.65,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "The Houthis' war economy is part of Yemen's problems - thenationalnews.com",
+      "summary": "The Houthis' war economy is part of Yemen's problems thenationalnews.com",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "thenationalnews.com",
+      "published": "2026-09-23T03:22:30+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTll6d1hjV2RURmFuOGtQc3JCY2JyZjhTS0ZBT3BNaW5GV2ZBTGw4SkJJZnBxR1Y5dzc5V3dXSHNvMDRlc1dSRWMteGtNR3dtZ1pWR3Q3TjQxN05XdElWZ05SNzhQOVlTc2MxR3gwbjZIOThSYWk1d2d3dG51ZEtDcmVxQ2VRM3BjMk0zWmRRWQ?oc=5",
+      "editorial_score": 8.52,
       "source_tier": "C"
     },
     {
@@ -101,79 +172,10 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "Channel Africa",
       "published": "2026-09-22T14:51:41+00:00",
-      "age_hours": 3.7,
+      "age_hours": 14.9,
       "within_24h": true,
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPME1yenRUd25sQTdZTU92YmhOanRkQ3dDZDd1TTJhRV9TeWlTRVZCdlRiM3lmYlRjVWtnbzJueXhwYWZEVjkyWTJpN3F5dTNickNZMEoyMDJFeS1aWmEzYlFWMDNhWkZZaE9HcElrS09LbkVhSEV4ejB1ZDFvN1RNUFlqWE95emVHMkRXYjNGRXpxNXo2QmM4SnJoOVlfVkEyRnJTMW80WnlxOUZyZjBvLWo3MA?oc=5",
-      "editorial_score": 9.23,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "WTO chief warns Trump tariff war risks 7% global GDP hit - Yahoo",
-      "summary": "WTO chief warns Trump tariff war risks 7% global GDP hit Yahoo",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Yahoo",
-      "published": "2026-09-22T18:20:33+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2ZWN0JBTXdnaXFhQ1l3aWd6ejNLMmU0R0pZMWZHT3FPR1JnMU5nZTFWMkhKVnBBekVoT1NoQkxEcDR2Z2hHNm0tdmh2SWVKdmdpQ0g3V01HNmkzQ3VzYkxJY19LbGh1TlVmdmtyUS1RRDhDZnRpenR5MUtDRFlIUGpBeC1NSEY3VS1nUnlvZGtwdw?oc=5",
-      "editorial_score": 7.96,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "'US shouldn't punish India, global markets over Russian oil': JPMorgan chief Jamie Dimon | India News - hindustantimes.com",
-      "summary": "'US shouldn't punish India, global markets over Russian oil': JPMorgan chief Jamie Dimon | India News hindustantimes.com",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "hindustantimes.com",
-      "published": "2026-09-22T17:15:20+00:00",
-      "age_hours": 1.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNR09TczRNTXlPRnJwdDF3RWYzSVNIX0pHMmlDVDNKdzJzYVVSbEcteTM2TndqUjI5eXRDTng5blRkOUlOSmVqUDZTc0FfLW5Sb2xjNTNETFotcHo0cHJndW40bU9fYVlmTzgwbk9GLU16YXIwM2JQVzM1ampTQVgzS2ZGZllVT215YUtqeUJJM3BkQzFKUlpDLTBjRmk4VHhxQnNHVjNNREJwYS1iTTBBa2hQZkl3aHZTU09QMVA0MkVjeEcxUWViVXNtVlZDT29ZM1JXRlY0NjdCMkNERkZwR1lxNGxYVzFKdHlRRXhpdHpwckN3TWVhSnhxbFdxUDhzYTF5NkVFNEYtektHSkHSAZMCQVVfeXFMT1BPdDBHcWZORkFZS3N5OGJZeEwtX2ZESWdMSVRZMm5naHVrUWVjOGNIN3I5Y1RNNGZjQ2E0Q0hRZGZ3Z2lkLS1BRnlHb2pNZG5lRS1GSE9zLTVRSUw3azFGTWdkZGp3eU1HV0VfcWVCTjZXcWRlUGl4YzJ1S0JQT0E0aGk2N1lJZGVSS1VMLXhvS0dFM3hMX0hKWlh3QlFfenFyUXBuWk9rODh6eTdqLXNzYVU1SWNFaGJuMk9Hbk5OVEVFNW1XSkRLWld3LXdacnNTeXdLbmpKX2dGR3FXSHpGa3ZLcnBHeUhhOGFJcWkyc3AtYW5YQUFDU1BKOVlxYllKWmVlUlNSM0ZqSnVkd085b2s?oc=5",
-      "editorial_score": 7.73,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Fed’s Barkin says US economy firming but inflation risks persist - Investing.com",
-      "summary": "Fed’s Barkin says US economy firming but inflation risks persist Investing.com",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Investing.com",
-      "published": "2026-09-22T17:10:53+00:00",
-      "age_hours": 1.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSU1XeGpqd3ZNTWVmbjdaTnRsR1ZybWg5UHhKUHBtZWlvZTZXTGJTNXVsVTJTU1hvUTdURUlwWm9KOXM4ZVhhU0o1bGo5R212eFp3NXhBaTdOY3N2U1YtYUhlc29WSGE3Z0FReXhhNF8teXBFMkV0dk9mcjd6Mmd2bHRaWVRHdmRBVDRYQ291dUJBQk5mRFc0d3RLeWtJbmo3LU5aLXItOV9LdzVVMDVnS0lNSEpSUQ?oc=5",
-      "editorial_score": 7.73,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "OPINION: China-US dialogue offers hope for a more stable global economy - Capital FM Africa",
-      "summary": "OPINION: China-US dialogue offers hope for a more stable global economy Capital FM Africa",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
-      "source": "Capital FM Africa",
-      "published": "2026-09-22T16:58:11+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2E3TTlKWEFHaUI2amlnNmF4UUhYX1lwbTdiQVhNQk1Td0dONGZ6MXFfU3VSUVB5akR0dDlEc202VlFrakhMd3d4RzV6TzM3Ylc1Rk5EUkRjcVdreENHSFdaYmVfd0RJT2lsT0lONV9Pemh4OTB3OHNiSzI3MDB0cXluRHFtOU5SSUFYb0VjZGhFRjdPMUJEWmwwQWQ?oc=5",
-      "editorial_score": 7.69,
+      "editorial_score": 6.9,
       "source_tier": "C"
     }
   ],
@@ -195,8 +197,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
-    "África": 2,
+    "Mundo": 4,
+    "África": 4,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",

@@ -1,24 +1,42 @@
 {
-  "updated_at": "2026-09-22T18:30:49.968227+00:00",
+  "updated_at": "2026-09-23T05:42:57.134911+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Autoridade Tributária de Moçambique — Reconstrução do Edifício da Direcção de Área Fiscal, Serviços Provinciais Das Alfândegas e Delegação da Inhambane - diarioeconomico.co.mz",
+      "summary": "Autoridade Tributária de Moçambique — Reconstrução do Edifício da Direcção de Área Fiscal, Serviços Provinciais Das Alfândegas e Delegação da Inhambane diarioeconomico.co.mz",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-23T04:20:53+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQQ0ZXQnNMRl9TV1VONFVuXzU0cEE3d2JCTzVHV2cxTm9DUHdKR0NNODEwc3BBNVYxczlIdHlIbTkxNS0ydkhwd3Mxb1pOSDlTbnhCS09qaGUzdDZLeG9GbkFTSjc0TE5FOFhXd1AyMHdJVGNNcTlEbjlrUEphTUh1N1M2QVd2WVhnMGV4YXRkTnhqZTNERnlRa3hvc1BIWTJZQ2pVa2lkUlVJZVhpOExKQ0FqSzhTTGF4d2tyQkRoVmZtOU9DLUVUQzBYRzZIaDlGR1BxN0VNSHh5LU81TXlSdlRnSzZlZTdZWUJZWEpMVENoQlE0Tmp1R19JNXA3SkkzYzlEUWVuVkwzT2xlUmVFMnN3dWhXSk1xQjR4amdDbkl2NFJFb0JzS3d2ZFZUdkgyQW5Scmd6YUY?oc=5",
+      "editorial_score": 11.71,
+      "source_tier": "C"
+    },
+    {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Acordo sobre território ártico assinado hoje em Nova Iorque",
-      "summary": "Os líderes dos Estados Unidos, Dinamarca e Gronelândia assinaram hoje em Nova Iorque um acordo sobre o território autónomo dinamarquês, que visa reforçar a segurança comum na região do Ártico.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-22T17:57:49+00:00",
-      "age_hours": 0.5,
+      "title": "PM assegura nos EUA que Portugal vai ter excedente este ano e crescer acima da média europeia",
+      "summary": "O primeiro-ministro assegurou hoje, na bolsa de Nova Iorque, que Portugal vai ter um novo excedente orçamental este ano e que o país vai continuar a crescer acima da média europeia, apelando a mais investimento dos Estados Unidos.",
+      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
+      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-22T22:53:52+00:00",
+      "age_hours": 6.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/acordo-sobre-territorio-artico-assinado-hoje-em-nova-iorque_n1767058",
-      "editorial_score": 10.9,
+      "link": "https://www.rtp.pt/noticias/politica/pm-assegura-nos-eua-que-portugal-vai-ter-excedente-este-ano-e-crescer-acima-da-media-europeia_n1767116",
+      "editorial_score": 9.58,
       "source_tier": "A"
     },
     {
@@ -26,69 +44,103 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Lula: \"Somos reféns do imobilismo do Conselho de Segurança que não cumpre o seu papel\"",
-      "summary": "O chefe de Estado, que vai a eleições no próximo mês de outubro, afirmou que o atual contexto da ONU mostra que a sua \"capacidade de proteger os mais vulneráveis, nunca foi tão pequena\".",
+      "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses",
+      "summary": "O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. Lula da Silva, Donald Trump e Emmanuel Macron também falaram. O debate de alto nível termina no dia 28.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-22T17:40:10+00:00",
-      "age_hours": 0.8,
+      "published": "2026-09-22T21:42:32+00:00",
+      "age_hours": 8.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/lula-somos-refens-do-imobilismo-do-conselho-de-seguranca-que-nao-cumpre-o-seu-papel_n1767061",
-      "editorial_score": 10.83,
+      "link": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964",
+      "editorial_score": 9.33,
       "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Kiev considera \"vergonhosa e injustificável\" retirada de sanções a oligarcas russos",
+      "summary": "O ministro dos Negócios Estrangeiros ucraniano, Andriy Sybiga, classificou hoje como \"vergonhosa e injustificável\" a decisão da União Europeia (UE) de retirar sanções contra dois oligarcas russos acusados de cumplicidade com a invasão da Ucrânia.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-22T22:15:11+00:00",
+      "age_hours": 7.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-considera-vergonhosa-e-injustificavel-retirada-de-sancoes-a-oligarcas-russos_n1767088",
+      "editorial_score": 8.44,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "PR angolano alerta que dívida excessiva está a limitar investimento produtivo em África - forbesafricalusofona.com",
+      "summary": "PR angolano alerta que dívida excessiva está a limitar investimento produtivo em África forbesafricalusofona.com",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
+      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "forbesafricalusofona.com",
+      "published": "2026-09-22T21:27:20+00:00",
+      "age_hours": 8.3,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVBhSDdrUFVEckp0R05YYmttX0EzSmVRazB5QmRkWENDNWlVQ1ZFZXNwS3pwa2N6ZFZ0UU9VX2oya2thakZTZHIxYXlXeElGVUItWG5pbURoZEc1Sy04ZUhRZl9nWnZSTHVqOHNTQ19NQzhpUldHQ3YwTlpxclRMVVpUQjg0ZTlUZVJFM2l1b0dzb2RmUzJrSDdoeGZJNzc2SzV1ekd6a2xndGZka1Bzc0dUX2c4c0JqVkVNdTNn?oc=5",
+      "editorial_score": 8.27,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique: Governo quer reduzir atendimento presencial com digitalização dos serviços públicos - e-global.pt",
+      "summary": "Moçambique: Governo quer reduzir atendimento presencial com digitalização dos serviços públicos e-global.pt",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "e-global.pt",
+      "published": "2026-09-22T20:28:48+00:00",
+      "age_hours": 9.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOamRDSU9aRWxnR2hGWmw5ZGNxNUdlMm1OVDh4TlJEbjFmV182UnNOQXUyQlcwUjdUdXJnMy00S19kSVlyVnRSWDIyd2VJUUwyd1VhbmNLSWVXSWZXbFZfa0p5Zm8tenJzRlNJNmJMX04xYnFVRm5XMFVHUWVWazQzSDl5VFRMczZuZk9fTW5yNTNaNW4zZ3RYWDZhUnpDT1dhTHlFQ0oxbmVTYnR2UHg2R2NtUDNqRTBWVTBiSE1LWk50ZzFKYWJOb0gzSkVVMENpRU5tOWVUVGFkdXpFNlN4LXpYSdIB4wFBVV95cUxOamRDSU9aRWxnR2hGWmw5ZGNxNUdlMm1OVDh4TlJEbjFmV182UnNOQXUyQlcwUjdUdXJnMy00S19kSVlyVnRSWDIyd2VJUUwyd1VhbmNLSWVXSWZXbFZfa0p5Zm8tenJzRlNJNmJMX04xYnFVRm5XMFVHUWVWazQzSDl5VFRMczZuZk9fTW5yNTNaNW4zZ3RYWDZhUnpDT1dhTHlFQ0oxbmVTYnR2UHg2R2NtUDNqRTBWVTBiSE1LWk50ZzFKYWJOb0gzSkVVMENpRU5tOWVUVGFkdXpFNlN4LXpYSQ?oc=5",
+      "editorial_score": 8.08,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
         "IA",
-        "Segurança"
+        "Economia"
       ],
-      "title": "PR defende uso civil e militar de tecnologias desenvolvidas em Portugal durante visita ao REPMUS",
-      "summary": "O Presidente da República, António José Seguro, defendeu hoje, em Troia, o desenvolvimento de tecnologias que possam ter aplicação na defesa e na sociedade civil, contribuindo, simultaneamente, para a defesa do país e para a criação de riqueza.",
+      "title": "Da mineração à inteligência artificial: empresário brasileiro aposta em tecnologia como nova frente de negócios - Estadão Blue Studio",
+      "summary": "Da mineração à inteligência artificial: empresário brasileiro aposta em tecnologia como nova frente de negócios Estadão Blue Studio",
       "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
       "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-22T17:33:07+00:00",
-      "age_hours": 1.0,
+      "source": "Estadão Blue Studio",
+      "published": "2026-09-22T23:59:45+00:00",
+      "age_hours": 5.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/pais/pr-defende-uso-civil-e-militar-de-tecnologias-desenvolvidas-em-portugal-durante-visita-ao-repmus_n1767016",
-      "editorial_score": 10.79,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "BAD Apoia Moçambique na Validação da Estratégia Climática Para 2035 - diarioeconomico.co.mz",
-      "summary": "BAD Apoia Moçambique na Validação da Estratégia Climática Para 2035 diarioeconomico.co.mz",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-22T15:45:00+00:00",
-      "age_hours": 2.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTFBieFBuUkYtcXhNTkZKVW1jVkNrNGpTZC1DODdrZzVMcEUtNkJHM0VmN2gxR3dWUTd4SWJ6NHFGUVd0QlBxM2dxQVhKeTNDSjFPZE9hZWdOdjBwM1dxNmpaVl9QRnFIQVJEWEpJNmNFRk5ZN3B5U2JLR09BcTBrMjZETzlWUVZ0NGtNYmltWmhEVXJWYVpkM3hkYWVYTDBYUXJKbXZLWjlyeG8zbkktdHJkRHZwN3hTOXBGOGpzaXBHQmJhQkRrdXRLOA?oc=5",
-      "editorial_score": 10.42,
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQRGg5QVZBTXc3VGhHMGE5S0VoTE8yLTJ6VG1yUlVlMVREbmRWS3pTV3l4Um4xbnotTFVUT3VjVjFEME51Ylhwc1V1SEtXVzRBZHU2dEpKZTJseERzUUVWU2lVTTliZmRiOG5kQTFtVVRHcVpSeDVuUllGVmIzUEtHa1dPbzB0LTNVZHNaRHQxSE1rMFU4MjJwNW16OVo4ZGxSS3J6dGZpNXdYdHZLVHI1U1ZxUGZpREdPRUZ2YmFfNHJDcHV0SGFoSVJHMmhuS2g5eXhMRHpmbjNlU0Z4dXMtVVZMdXNjVmZJQVlJOTRNbllDTDg5MG0waTB6TXh6WUxWak9UaVd4OE9zQWtsX0U3ejBwRHE3SE1oX0E?oc=5",
+      "editorial_score": 7.81,
       "source_tier": "C"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Energia"
       ],
-      "title": "Moçambique e Angola Reforçam Cooperação em Segurança e Migração - diarioeconomico.co.mz",
-      "summary": "Moçambique e Angola Reforçam Cooperação em Segurança e Migração diarioeconomico.co.mz",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-22T14:35:00+00:00",
-      "age_hours": 3.9,
+      "title": "Implementação de projetos de energia, projetos-chave no setor energético. - Vietnam.vn",
+      "summary": "Implementação de projetos de energia, projetos-chave no setor energético. Vietnam.vn",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "Vietnam.vn",
+      "published": "2026-09-23T04:17:06+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0IwdzN3M0ZQb21xVjVQQkVFU3Rfd3p3NDRFci14blU4OGpmTVFoMkhqRjNFX25JcHpxZWhIbE03eEliV0dWdEZSSlQzd2F2dFRrTVpoZzBTd09nRjBvWEFiZks0aGdaeG1xSkFxQm9rd2tEVDk2UDYtRmhUclNRRlk0UHRBdEQwMlAzWE9teU14OG0yc0VKQ3NDZjhJY200NEc5YldKYTRBWWMyMkVTOVVqNzFYSjdVOWdXblVpVThEYnBPQkE?oc=5",
-      "editorial_score": 10.19,
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3NUcG9qMW5KYm51Um10RDctRXJ1VmxOck1DVWhOc1R2Rktwc0RueHotbURjQl85cmx6NlJwVW9qbGJxZW1iVUFWRXhzazhCdkgzdHlTVjVFbml1clFyWXQ4bEVkenNvQnpBX0Z5MGlreHlHc0hHb3VsWndBdTBVOVoxUXZJRmRWOE03WUZ0Y3hYcEtO?oc=5",
+      "editorial_score": 7.71,
       "source_tier": "C"
     },
     {
@@ -96,67 +148,16 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Delegação cubana abandona AG das Nações Unidas após Trump anunciar mudança de poder em Havana",
-      "summary": "O presidente norte-americano revelou ainda que está em estreita negociação com Rússia e Ucrânia e que esse conflito será resolvido mais cedo do que se pensa.",
+      "title": "Sam Altman, da OpenAI, e Dario Amodei, da Anthropic, participam de reunião do Conselho de Segurança da ONU - O GLOBO",
+      "summary": "Sam Altman, da OpenAI, e Dario Amodei, da Anthropic, participam de reunião do Conselho de Segurança da ONU O GLOBO",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-22T17:26:48+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/delegacao-cubana-abandona-ag-das-nacoes-unidas-apos-trump-anunciar-mudanca-de-poder-em-havana_v1767057",
-      "editorial_score": 9.77,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Forças militares dos EUA regressam às operações da NATO na fronteira com a Rússia",
-      "summary": "A Lituânia oficializou, esta terça-feira, o regresso das tropas norte-americanas. Os últimos soldados dos Estados Unidos em ação militar no país abandonaram o território em junho, tendo sido a primeira vez, em vários anos de presença norte-americana nos bálticos, que a missão foi interrompida.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-22T17:17:12+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/forcas-militares-dos-eua-regressam-as-operacoes-da-nato-na-fronteira-com-a-russia_n1767035",
-      "editorial_score": 9.75,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo de Moçambique quer acelerar transformação digital dos serviços públicos até 2029 - SAPO",
-      "summary": "Governo de Moçambique quer acelerar transformação digital dos serviços públicos até 2029 SAPO",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "SAPO",
-      "published": "2026-09-22T15:51:39+00:00",
+      "source": "O GLOBO",
+      "published": "2026-09-23T03:00:00+00:00",
       "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3hrZHpURnh3UmdCNEZlMTNqS2tKNHQ5dnFIdS1GcDJhdU9FS1YzcEFSbXNfSHM0V3Z4WENTNWdBZUlSRTNyWEhhbGhHMTF5aThyNDhacEhieXQyR19kcnU5ekVJVW4tYy1YbTZNcXdfQm9MRExvU25OZmxmSTFYdXdwZ3BXWHdvWVdpZVNYYjFhbkg5U2pXRWtzUmRNeWRzYlpXMS1Jb1N4Wjk1eEhiUGR1cWxXcVpFSGhKdGtTWmc2aFN5N1VldWp6ZnltZ2RBLWc?oc=5",
-      "editorial_score": 9.44,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "A nova fase da corrida da inteligência artificial - Estadão",
-      "summary": "A nova fase da corrida da inteligência artificial Estadão",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "Estadão",
-      "published": "2026-09-22T18:00:00+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVUJYN2JRX0ZzS1RsdlJnaVJnMmdScDFuc2RYUmRXQ25uVk96LTBNV3MyZlZCNEFmcDBuZzk4aXhaU1ZuWmZqaVBNdmJBcE5NX0tVU0lTVU8tS0VoVHc5UVkzajFyQzY2UjN6dkNuSTk1dGI5VjVNTTNBTE11SC04cFh3ck1sanZIbTBfdjQ5RDBqTjN6b3Y1SWNxQ1hjX21ZWnBfOFZKaGtkeWFIWjdj0gG0AUFVX3lxTFBmTV83dUNSREI2VFBjcVRoTF9hblVDM1lxcEhWUEtqYzduMVZzeVAxRTYwbG9Da3ZKeGxvWHpMQVJKc3NoSWxGbTZDa2RLcGdoSDF2RDdjUEd3eG9zWlQyWlM4WG10N1MtY3BfeXlUSjNEVm10TldNSVdJZkw1dV85SEZYdmdKaHVXVWtkeDlCYWU5bDFRLV93Z2pmN1h6b1BlLUdEelVYN1RpRjdlSE9hbXJYMQ?oc=5",
-      "editorial_score": 6.9,
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWDBIVzJxVktpNHQ0bjhNVjRTdDdKVm1sLVFyZ2RBZG0zekZlVWtLc3VtWFloaUFFUTQ1ZDRXOHVFU3dlSFJrbEo1eFNkQ3ZrZmV3bnF6Z1I4OTJ4UEZjdUtHLTBrOElURUVlcFJuWVJTSFRGWDhXY0Fmb2lBTnp0MWFPaDhEeGJKUVlNdk80XzMxdjN5UjdISU9TbU5heXlEX1BJT29WVDdseVd0WE5NNm5UMUNQSm9vWmtZdXc3Y1pWSVdFTXhFc1pFUmFnZnVSd2c3MWJTQmNqTXBrb1dEZk1CTHE5MkZwaE1pbl9wSEt2azMxZ1hrS1RYVnNSRmduNUHSAZACQVVfeXFMT1hxdHU0UXdadzk1WTJ6UDNUNzNjdWt2ZGFrczNwbVJpb2lFaXpBV3c1SnJ2MENYazRQQWtyVHgxdEk0Unpza3RBd21OOUY1X1VucUNBcWNMZnB4M0lNLWNwem5HS3VZSGticTh1Z1ZwYUh1NVFwM0ZtRDE4cGtMM21ucEVwd0dmRVRvUnhxbDJkU2U3MDRFcWU3cTZPcFZRMkVMdHlvTEQ0X0g0ekVFc3AwSDRTMEZia1VPbk0zZmYyZ0NqYWtrcHhUU012Rkpzd1E0QmlkSjNISzNFOWdKRHAxcVpRaDJYTDFLN1E1Ri0xQUpHRVRjNzlSbkVQTTZSUWJRR2Q1RC1zM1gxcG1vd0k?oc=5",
+      "editorial_score": 7.44,
       "source_tier": "C"
     },
     {
@@ -164,16 +165,16 @@
       "tags": [
         "Economia"
       ],
-      "title": "Namíbia: TotalEnergies Ganha Contrato de Fornecimento de Combustíveis Até Janeiro de 2027 - diarioeconomico.co.mz",
-      "summary": "Namíbia: TotalEnergies Ganha Contrato de Fornecimento de Combustíveis Até Janeiro de 2027 diarioeconomico.co.mz",
-      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
-      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-22T07:30:00+00:00",
-      "age_hours": 11.0,
+      "title": "EUA receberão até 17.500 sul-africanos brancos adicionais como refugiados - UOL Notícias",
+      "summary": "EUA receberão até 17.500 sul-africanos brancos adicionais como refugiados UOL Notícias",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "UOL Notícias",
+      "published": "2026-09-22T21:52:30+00:00",
+      "age_hours": 7.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTExCWEltYWlOeG1sVWhfTndSZ0JVdERtQjY0V2pUbm4tY2tGaGRWMUhPUGVhVWtIYWhjWWR1OVhSU1hMM2xjdTZVWEprbHBnOEJSbkJtTFMyQ3lYME1rWHp0UkU1M0tDaURfcklLZXBGTU1hazFTemlEUkpSMzkzSnBXanFvbzdjcE1BWVp1S1lFeXBid3dwZVFRaDQ1SWlxRXFJYnU3MUp5UVI1eC0tQlR0YjBkbkcyQUN0d0RUQm8tMklaUVFOVlJ2NXhLb28tVEd5NW9LQ1dTZHl6X0s4RA?oc=5",
-      "editorial_score": 5.71,
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaG1oM3AySTdzeWliem1wWXlZTTRlaFRKeTMzMmhPMFNxVXJoLWlUWDh3emhyb0NIbHZ3dTNzdXc5cDdhZGZuY1o0UTh2anJ6MTlKZzcycVlGSUxjLXNWUDlLUmJZTEV3eG9nNkFzX1BhSXJkODkzNDh5S0RDMW9veTBFbm1rczdQQU5lRXZtSFpPUEJqTlJINjBQcnRQX2F1cWhrQzNCdDFOQnZnM3g0NmE4YUZaR3YzNjkyQTMzVEpfZWNXREJpbW1oM0o3bnpYYkV2VFJNeTc0X1U?oc=5",
+      "editorial_score": 7.38,
       "source_tier": "C"
     }
   ],
