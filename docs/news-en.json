@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T12:36:34.921119+00:00",
+  "updated_at": "2026-09-23T17:44:50.262968+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -9,155 +9,118 @@
       "tags": [
         "Economia"
       ],
-      "title": "Mozambique: Maputo Municipality launches drainage construction",
-      "summary": "The Maputo Municipality has launched the construction work of infrastructures aimed at mitigating floods, improve sanitation and mobility in the neighborhoods of Chamanculo, Xipamanine and Malanga. Known as Priority Works P9A – Phase 1, the initiative falls under the Maputo Urban Transformation Project (PTUM), which budgeted at about 100 million US dollars disbursed by the… Source",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "title": "Eni Rovuma Basin presents its 3rd Local Sustainability Report, celebrating 20 years of activity in Mozambique",
+      "summary": "The report marks two decades of Eni’s presence in Mozambique, highlighting the company’s contribution to the country’s economic and social development and reaffirming its long-term commitment to creating shared value and fostering inclusive growth. Eni presented today its Local Sustainability Report, “20 Years of Eni in Mozambique: Juntos Crescemos 2025”, during the Stakeholders Engagement Forum… Source",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
       "source": "Club of Mozambique",
-      "published": "2026-09-23T10:11:24+00:00",
-      "age_hours": 2.4,
+      "published": "2026-09-23T15:04:08+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-maputo-municipality-launches-drainage-construction/",
-      "editorial_score": 12.5,
+      "link": "https://clubofmozambique.com/news/eni-rovuma-basin-presents-its-3rd-local-sustainability-report-celebrating-20-years-of-activity-in-mozambique/",
+      "editorial_score": 12.44,
       "source_tier": "B"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
         "Segurança"
       ],
-      "title": "As Xi meets Trump, who’s winning their trade war?",
-      "summary": "Trade war has been central to Trump's presidency, but it didn't slash US deficits. Meanwhile, China recorded a surplus.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-23T12:20:40+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/features/2026/9/23/as-xi-meets-trump-whos-winning-their-trade-war?traffic_source=rss",
-      "editorial_score": 11.94,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "South Africa and Singapore Discuss Future Economies, Jobs and Skills at SAFWS 2026 - INDiplomacy",
-      "summary": "South Africa and Singapore Discuss Future Economies, Jobs and Skills at SAFWS 2026 INDiplomacy",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "INDiplomacy",
-      "published": "2026-09-23T12:18:47+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXRtci1KUWFhdG1hM3pIUktkTlY2bVN2ZTVzNEk1X1loU2tIbUJBTUhtS3U5b1NLNnAxRUQ2TDBRT0FFVXVIdFJqTk1TRjdaQ1JKVmlUY3BaOWRJMy15R1I5YjZnckVjc3gydDFOTm5nZEhHQXBvdUpsTUNueGhvNU1PNW9XLXNsLXdKYnNTamJHbzJBZUVaeTdBUGxQdUZfWVJGTFBJM2Z5MGppaEtJdDV2M0pac0VC?oc=5",
-      "editorial_score": 11.94,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
-      "summary": "The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon.",
+      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "summary": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
       "source": "BBC World",
-      "published": "2026-09-23T12:24:02+00:00",
-      "age_hours": 0.2,
+      "published": "2026-09-23T17:40:59+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 10.96,
+      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 10.98,
       "source_tier": "A"
     },
     {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "World Bank Group Africa Jobs 2026: Apply for Digital Health, Country Officer and Economist Roles - Global South Opportunities",
-      "summary": "World Bank Group Africa Jobs 2026: Apply for Digital Health, Country Officer and Economist Roles Global South Opportunities",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Global South Opportunities",
-      "published": "2026-09-23T12:00:55+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53U1JYQ0xYcWJfRmVDYVNXakdGYzh3RlZ5cVAwN0x1ZU5mcnIzc0pmekJCdC1EUUxTc3RST0V3UG5PX2FoV2pVT1J6c3NORUo3VTBaUjRqcmZwYl9oYmxSYWJlNTliUnJsTW5tdFVB?oc=5",
-      "editorial_score": 10.88,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Segurança"
       ],
-      "title": "South Africa Focus Week Features “Light Awakens Harmony” Art Exhibition in Singapore - INDiplomacy",
-      "summary": "South Africa Focus Week Features “Light Awakens Harmony” Art Exhibition in Singapore INDiplomacy",
+      "title": "Ethiopia faces renewed war as armed groups launch offensive",
+      "summary": "There are fears of a renewed war in Ethiopia after seven armed groups formed an alliance to overthrow the government.",
       "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
       "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "INDiplomacy",
-      "published": "2026-09-23T12:29:12+00:00",
-      "age_hours": 0.1,
+      "source": "Al Jazeera English",
+      "published": "2026-09-23T17:10:33+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTVOSm4zOVpQUFV6eG1tcjJjOEoyMUhyb1I0SEtYTmFDbjByMFFrNEFkRkduOTZ1OVlSVll2Y1RNS3VrVTRZYWFRY2Zjd2VZX2FLdll3bWdtNVdlbFFlcHZ3RVlwZjZOQ1FXSkw5MTlHYUxkcWZiYTAxLXAzbGlkRXNFc3NJeU5jN1ZaZkpHOFRNdmdVNmg2WU5VVlR6WEczekVVZVBsNU93bXNDUG9uemwwZmFqSmdKWXc?oc=5",
-      "editorial_score": 9.98,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Economia"
-      ],
-      "title": "Ghana: #PresidentMahamaUNGA81: Engages world leaders on trade, Artificial Intelligence (AI), and economic turnaround - Zawya",
-      "summary": "Ghana: #PresidentMahamaUNGA81: Engages world leaders on trade, Artificial Intelligence (AI), and economic turnaround Zawya",
-      "why": "Technology is reshaping productivity, regulation and business models.",
-      "impact": "It may create demand for digital skills and new business opportunities while increasing pressure to adapt to regulation.",
-      "source": "Zawya",
-      "published": "2026-09-23T12:13:00+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOHE4RTJoQnljMjJhR0lqcEJ3bnFmUEk2THBjUUpDM2Z1cUdsOTdsZUhIeUVSb053SXNGcGZaZllNb3VKUHlsU3pDVmU1czY5QVJLYnA5dUJPUGc1XzRLdU4zVzNETWR6Z3ZseVNHczVrT1FabmNWRDVKWTgyMFgzNVczV0RNNmxHM0JLUERscTlJYnhKenBvUWY1Y0tiLWxwZlJ5a2d3XzVuZ25BZ1l5d2ZvVFdWREFPWS00NVNTcFJ1OFhmMi1VdDlIbndCZkQ2M01IMllYQU96clA0SGVzcHZiSjJsbG56U3VTOHRwd2JCN0EyaVBObko3MnlwUEZGVnloOFgyWGdzUQ?oc=5",
-      "editorial_score": 9.92,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Apply for the Competition Tribunal South Africa Internship 2026: Paid 12-Month Economics Opportunity in Pretoria - Global South Opportunities",
-      "summary": "Apply for the Competition Tribunal South Africa Internship 2026: Paid 12-Month Economics Opportunity in Pretoria Global South Opportunities",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Global South Opportunities",
-      "published": "2026-09-23T12:09:58+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PNWJmV2tlQWdVZmVEbGJ4NzEwcEVXY1hHVlZoTkFOb084aU1MUFBrdHhPcXQ2a19xVWRvM2RCRHgwTDVmNTJQWnJaOHJ4Y1N4ODAyX0pSQXVEdkpvQ045UjV6QmlHdHNOZk9lUGh4am1VaTJO?oc=5",
-      "editorial_score": 9.92,
-      "source_tier": "C"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-26-ethiopia-armed-groups-sv-mp4?traffic_source=rss",
+      "editorial_score": 10.88,
+      "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Ethiopia: Fighting resumes in Tigray",
-      "summary": "Rebels in northern Ethiopia have seized regional airports and engaged government troops in Afar and Amhara. Observers fear deadly clashes could expand after rebels announced a new anti-government alliance.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "DW English",
-      "published": "2026-09-23T12:06:00+00:00",
-      "age_hours": 0.5,
+      "title": "US open to extending China trade truce, or bigger deal, Bessent says after meeting with He - Reuters",
+      "summary": "US open to extending China trade truce, or bigger deal, Bessent says after meeting with He Reuters",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "Reuters",
+      "published": "2026-09-23T16:54:00+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.dw.com/en/ethiopia-fighting-resumes-in-tigray/a-79394192?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 9.9,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTnhVVmVJN29ISDRHWjZ5eW5ON2VoSnJvM1plbXoyUTdxX1lNUzRxVmJMMTR1dHlRVzJEVmoyMm9UeDdXZjdPOWs2VmhsZjNrRV8ydXFLcFJsWXUxeG5YWjFQVVNoZ1pFV1B0TTdPWVBTdTRfcl83dTVvQ2VNSkpjcW5MZnZOTV9KeWRXNS1zV0JsNUVTMXpuU2dDdXN6YmxVWWVhTVNUdWpxSnNYaV9UQzEyU2VTWGFfNUNxM2g4NFo4emtJTk5VVnhYSFVHZw?oc=5",
+      "editorial_score": 10.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "BBC World",
+      "published": "2026-09-23T16:53:37+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 10.81,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Syria’s al-Sharaa warns Israeli attacks endanger delicate post-war recovery",
+      "summary": "President Ahmed al-Sharaa calls for Israeli withdrawal, condemning its attacks as Syria emerges from civil war.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-23T16:44:01+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/23/syrias-al-sharaa-warns-israeli-attacks-endanger-delicate-post-war-recovery?traffic_source=rss",
+      "editorial_score": 10.79,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
+      "summary": "In court, Miriam Haley said the assault had a \"devastating effect on my life and sense of security that may never go away\".",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "BBC World",
+      "published": "2026-09-23T16:40:19+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 10.77,
       "source_tier": "A"
     },
     {
@@ -165,16 +128,50 @@
       "tags": [
         "Economia"
       ],
-      "title": "Mozambique’s climate finance strategy faces a creditworthiness test as innovative funding moves into focus - Africa Sustainability Matters",
-      "summary": "Mozambique’s climate finance strategy faces a creditworthiness test as innovative funding moves into focus Africa Sustainability Matters",
+      "title": "AM Best Upgrades Issuer Credit Rating of Fidelidade Moçambique – Companhia de Seguros, S.A. - Business Wire",
+      "summary": "AM Best Upgrades Issuer Credit Rating of Fidelidade Moçambique – Companhia de Seguros, S.A. Business Wire",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
+      "source": "Business Wire",
+      "published": "2026-09-23T16:10:00+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdzJFTm5QRUhfVUVUWDBVdWlMOTFLSnFHcWpEVDFnWDFSRnNJUVl2ZTFTN0R6WFZmc3JTM2hFZmNnTWE1eUo1QklRUzJqOFc2VXpRZDRjSGNfTEhvaVlIU1dVbFJ3d1FvVlU1eUVjRG45WEdsSjAxbjdPVHA4TThxVHVpMGJFaFI3Q05USDNaNWpSekVJd0VpeDlPTTNRM1NWcTVFdFlnNnFldG53NHBRV3JMSmtHMTNwSE5lMTh5TGU5eWJmV1QzbDI3aFpJNEJmLVY4ejAzeVBXQU9y?oc=5",
+      "editorial_score": 10.67,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Seychelles and APRM Discuss Africa Ratings, Investment and Digital Governance - State House Seychelles",
+      "summary": "Seychelles and APRM Discuss Africa Ratings, Investment and Digital Governance State House Seychelles",
+      "why": "The story helps explain economic and trade trends relevant to Africa.",
+      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
+      "source": "State House Seychelles",
+      "published": "2026-09-23T16:36:06+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMElrVWRSRU1EOEduZ3hRY1RlZnA1V0h3RmhkVWUxemI2SnlQR2pORzRlNEpqY08tTC1iblY5OW9vSmp0dGE5eXNnamFvMmN3QXRHdWRmZVd6alJPMDNCUzdGdTB0dUpuNHB3RFFWd3FHLU9NTEt6ZHNvb1puX3hsR2dUMGlpdTFHdTB3RGdxZlphZ01YOWdneXRlUWUzaGtNa0JvS0tLcFNYblFBT3ZPMnRR?oc=5",
+      "editorial_score": 9.77,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "What South Africa’s major parties are promising voters in the 2026 local elections - Africa Check",
+      "summary": "What South Africa’s major parties are promising voters in the 2026 local elections Africa Check",
       "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Africa Sustainability Matters",
-      "published": "2026-09-23T10:06:33+00:00",
-      "age_hours": 2.5,
+      "source": "Africa Check",
+      "published": "2026-09-23T16:51:34+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbExrSlhWTkV1cmhXUTUzQUY3aVhqakdsZTduc0IyTXVadTZYSmU5RmJ2ckszVU5YaDluMUkyMXBMczJiY3RQamlCV3F6SzMyZ2l3c1JHeFM0NUhzaWhBdU15OEc0T3J1X1BZdlVMcDh1MFZ1c2c2RzBOclNPbEN0dUo3Zy0tYklBLU9qSkc5eEtzcHVibjE1ZDd5UkRQNjB5MUQ3MVo0RHlNOGpuN1dHN2NoajZuSklXOVJvaVA4a2ZRZDRvOVduSWV4b1E5RkkxTlFXZ284MnNTX3VRdGFv?oc=5",
-      "editorial_score": 9.48,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEM2emw1SWlqSW9XLXJ0ek9kc2l2Q3MzQTh3QVVqTmE1MXB0VVRPSkR4VEtoVlhadkJzLXRIYml6S1Vfdlo2TUlrTnhtVXJuSEN3MTI1a2hQNmF3dVZMaS0zdlg0c0pDcjhTVkFiVTJWNkJodEFVbkxJLWhST0hDRUxSN1hUTTdLNjE2VXgxRllWWllUSkVXTmVMZGZkZVduV0xIZGlqMkVwTUxuSzFKWUdfcHR5QQ?oc=5",
+      "editorial_score": 8.81,
       "source_tier": "C"
     }
   ],
@@ -196,8 +193,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 4,
+    "Mundo": 6,
+    "África": 2,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T12:36:29.657207+00:00",
+  "updated_at": "2026-09-23T17:44:44.922948+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,19 +7,18 @@
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
-        "Segurança"
+        "Energia"
       ],
-      "title": "Gaza. Mulheres e raparigas com \"riscos crescentes de violência baseada no género\"",
-      "summary": "Meninas obrigadas a casarem com os homens que as violaram. Pais que casam as filhas menores para poder alimentar outros filhos. Estes são alguns casos relatados Fundo das Nações Unidas para a População (UNFPA, sigla em inglês). A crise prolongada em Gaza, devastada pela guerra, \"criou condições em que as mulheres e as raparigas enfrentam riscos crescentes de violência baseada no género\", lê-se no mais recente relatório.",
+      "title": "Ministro acusa Carneiro de ignorar problemas e PS diz que Governo desvalorizou falta de vagas",
+      "summary": "O ministro da Educação acusou hoje o secretário-geral do PS de não perceber ou ignorar a dimensão dos problemas no setor, enquanto os socialistas responderam que, apesar das matrículas fora de prazo serem normais, este ano \"ninguém quis saber\".",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T10:39:02+00:00",
-      "age_hours": 2.0,
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-23T17:34:33+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/gaza-mulheres-e-raparigas-com-riscos-crescentes-de-violencia-baseada-no-genero_n1767169",
-      "editorial_score": 11.58,
+      "link": "https://www.rtp.pt/noticias/pais/ministro-acusa-carneiro-de-ignorar-problemas-e-ps-diz-que-governo-desvalorizou-falta-de-vagas_n1767278",
+      "editorial_score": 10.96,
       "source_tier": "A"
     },
     {
@@ -27,135 +26,135 @@
       "tags": [
         "Segurança"
       ],
-      "title": "PM britânico anuncia agência para travar \"maré venenosa\" da desinformação",
-      "summary": "O futuro Centro Nacional de Defesa da Informação pretende combater campanhas lançadas por potências estrangeiras, numa missão que reunirá serviços de informações, forças de segurança e empresas de redes sociais no Reino Unido com o objetivo de ajudar as comunidades e impedir a criação de uma narrativa \"distorcida e falsa\" sobre o território britânico.",
+      "title": "OSCE lamenta ausência de convite para observar intercalares",
+      "summary": "A Organização para a Segurança e Cooperação na Europa (OSCE) lamentou hoje não ter sido convidada pelos Estados Unidos para observar as eleições intercalares de novembro.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T11:01:23+00:00",
+      "published": "2026-09-23T16:57:43+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/osce-lamenta-ausencia-de-convite-para-observar-intercalares_n1767285",
+      "editorial_score": 10.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "\"Isto é um absurdo\". Montenegro pede \"sentido de responsabilidade\" para pôr fim à guerra no Médio Oriente",
+      "summary": "O chefe de Governo criticou os que \"não têm a capacidade de superar este bloqueio ao desenvolvimento global\".",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-23T16:09:42+00:00",
       "age_hours": 1.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/pm-britanico-anuncia-agencia-para-travar-mare-venenosa-da-desinformacao_n1767195",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/isto-e-um-absurdo-montenegro-pede-sentido-de-responsabilidade-para-por-fim-a-guerra-no-medio-oriente_n1767275",
       "editorial_score": 10.67,
       "source_tier": "A"
     },
     {
+      "section": "Moçambique",
+      "tags": [
+        "IA"
+      ],
+      "title": "Moçambique e Brasil actualizam cooperação naval com foco na formação e transferência de tecnologia - Integrity Magazine",
+      "summary": "Moçambique e Brasil actualizam cooperação naval com foco na formação e transferência de tecnologia Integrity Magazine",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "Integrity Magazine",
+      "published": "2026-09-23T14:59:30+00:00",
+      "age_hours": 2.8,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OUWVTdHF3ZXRuU09jT0lzcE00a3l0S0xLdWVfYVc4VGZSZ2RtWndaYkRoUjl0VFREWDVlUWd1b2dVaXdnV0tWR0RLZ0VyRHM1eHRrYzlsc2tGZw?oc=5",
+      "editorial_score": 10.42,
+      "source_tier": "C"
+    },
+    {
       "section": "Mundo",
       "tags": [
         "Segurança"
       ],
-      "title": "Acordo ou \"aniquilação\"? Diplomacias de Irão e Estados Unidos em diálogo na sede da ONU",
-      "summary": "O presidente do Irão dirige-se nas próximas horas à Assembleia Geral das Nações Unidas, em Nova Iorque. Masoud Pezeshkian comprometeu-se já a “defender com firmeza” a posição da República Islâmica diante da ofensiva de israelitas e norte-americanos.",
+      "title": "MP pede condenação de três militares da Marinha por violação de segredo de Estado",
+      "summary": "O Ministério Público (MP) pediu hoje a condenação dos três militares da Marinha acusados do crime de violação de segredo de Estado no caso do Navio da República Portuguesa (NRP) Mondego.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T09:23:48+00:00",
-      "age_hours": 3.2,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/acordo-ou-aniquilacao-diplomacias-de-irao-e-estados-unidos-em-dialogo-na-sede-da-onu_n1767185",
-      "editorial_score": 10.33,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "FDEL já aplicou 824.6 milhões de Meticais e criou 42 mil empregos - Carta de Moçambique",
-      "summary": "FDEL já aplicou 824.6 milhões de Meticais e criou 42 mil empregos Carta de Moçambique",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "Carta de Moçambique",
-      "published": "2026-09-23T08:33:14+00:00",
-      "age_hours": 4.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkFPS2F1bk5CY0ZwS1EwNUllUlhPMi12YnJva1FEaVRNaXZFNjBhWDlWXzJkVWlvOVFOSUVWNFBqblpaTHk0d1o1T1RYS3FXZUl5R3hUMEtGajNfSHNqWDI0TTNJMmRUZXc3ZDJDcnRwemJZeXBLemM3Z3VtZ0NGMmMwRFFuTTlmdlVYZUNIaE5SV2xRbzFfQm04X3FwbnBhRVFlcUF2RmdwRkZyakZrRUdR?oc=5",
-      "editorial_score": 10.15,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Marroquinos vão às urnas após tentativas de migração em massa e protestos fatais",
-      "summary": "O próximo Governo de Marrocos vai enfrentar pressão para dar resposta às preocupações da população, operando a par de uma monarquia com poder de decisão em assuntos estratégicos.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T11:49:04+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/marroquinos-vao-as-urnas-apos-tentativas-de-migracao-em-massa-e-protestos-fatais_n1767207",
-      "editorial_score": 9.83,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo rejeita causalidade entre apoios aos jovens e subida de preço das casas",
-      "summary": "O Governo rejeita haver uma causalidade entre os apoios aos jovens para a compra da primeira habitação e o aumento do preço das casas, assunto que discutiu esta semana com o FMI, disse hoje o ministro das Finanças.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-23T11:37:29+00:00",
-      "age_hours": 1.0,
+      "published": "2026-09-23T16:49:39+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/governo-rejeita-causalidade-entre-apoios-aos-jovens-e-subida-de-preco-das-casas_n1767202",
-      "editorial_score": 9.79,
+      "link": "https://www.rtp.pt/noticias/pais/mp-pede-condenacao-de-tres-militares-da-marinha-por-violacao-de-segredo-de-estado_n1767267",
+      "editorial_score": 9.81,
       "source_tier": "A"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Contaminação da água em Topuito: MDM exige intervenção do Governo - Carta de Moçambique",
-      "summary": "Contaminação da água em Topuito: MDM exige intervenção do Governo Carta de Moçambique",
+      "title": "Petrobras fecha acordo de cooperação na área de petróleo em Moçambique - BM&C",
+      "summary": "Petrobras fecha acordo de cooperação na área de petróleo em Moçambique BM&C",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "Carta de Moçambique",
-      "published": "2026-09-23T10:58:51+00:00",
-      "age_hours": 1.6,
+      "source": "BM&C",
+      "published": "2026-09-23T16:32:17+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGJFRmtuTGkyRVJMUFZUY1dKSW1hUUtGUml0OC1IbHhaa0dvSlBMNk1tZjhhU2tHcGpLaWRMa3pfNG9yRE9KeVFZdUhrNFFtYUlkUFlsMDZiSVN5eUZRRG9vVm9fSHBJeUtaX25XLWRWX2Y3VUhEYTNYMkpGT2RMa0ZxejZPUXVCUXdmQmxrdE5LY3V3c3RtMDI3cU5vUktNMEhz?oc=5",
-      "editorial_score": 9.67,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEZHYUtRclpDaXhIVmY3amlVbmxHVVRBZE9FSkhCNlhsVHh3LVNvdjZYMWNoTkdFbE1MLUhZR2dmejcwTVdzWkpHTDNKZWVuUzVSZ0l2SzF3Tl8wN0t5RHQ3MkRlQUZzeWsxTGQwTjh5eXd5YUkxT0RkT2NoSXEzM01ieDRORzJoUEFPQW1tcnJZWkJfMWYxV1hRV28ySk0yZ053Z1gwdGx6UEgzV2l2b05OeVE?oc=5",
+      "editorial_score": 9.75,
       "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "IA oferece soluções de eficiência energética, mas é ela mesmo um super consumidor",
-      "summary": "Apesar das opiniões do uso da Inteligência Artificial (IA) ser dual, esta aparece em destaque no relatório que a OCDE divulgou esta quarta-feira. De acordo com o relatório a IA está a emergir como uma das principais ferramentas para mitigar o impacto económico da crise energética global.",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T10:52:21+00:00",
-      "age_hours": 1.7,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/ia-oferece-solucoes-de-eficiencia-energetica-mas-e-ela-mesmo-um-super-consumidor_n1767197",
-      "editorial_score": 9.65,
-      "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
         "Energia"
       ],
-      "title": "Moçambique procura parcerias brasileiras para desenvolver sector de petróleo e gás - SAPO",
-      "summary": "Moçambique procura parcerias brasileiras para desenvolver sector de petróleo e gás SAPO",
+      "title": "Petrobras firma acordo para ampliar cooperação no setor de petróleo e gás em Moçambique - clicrdc.com.br",
+      "summary": "Petrobras firma acordo para ampliar cooperação no setor de petróleo e gás em Moçambique clicrdc.com.br",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "clicrdc.com.br",
+      "published": "2026-09-23T17:35:15+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYmdSMTJFMGc1eTlHbzkyRndsVmlDUkVlaTFMdlNBOFRwSG1KMXVHc1dOclBBb0ZGZDE4Y3NSVW5Dc2EtVzZqRDhXQUtpTUxlMURELTJkZEpQTl9CRGtnZDRIYVVvbENkUzRGTWNEOFk0UmswMHMtaFN1eVZxMHVLOWpQLTJxQllvcTFHWTRFUElxSl85anpiY2oyd2F0M1l3eDE4aUhwU2s1RHJkY0U3Y3dIdjI5QTRyejZGYk5aQXdlZ0k?oc=5",
+      "editorial_score": 7.96,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Petrobras assina acordo de cooperação em Moçambique para petróleo e gás - boca.com.br",
+      "summary": "Petrobras assina acordo de cooperação em Moçambique para petróleo e gás boca.com.br",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "boca.com.br",
+      "published": "2026-09-23T16:34:08+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10TE1VcGFCOEJ5SUZna3hSRS1fQ1drTkhOZEZRcGZFRHFBdFN1ZkFRaVRIOXN6OTFhNEtuN3pfWXR1eUd3REhVVXdDTHM5dFNLYnZUbW4zclpPNGxBZV94UjFsUmxRZFBta09iekZoM1pheFVLN3c?oc=5",
+      "editorial_score": 7.75,
+      "source_tier": "C"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Moçambique prevê crescimento de 9,5% em 2029 impulsionado pelos grandes projectos de gás - SAPO",
+      "summary": "Moçambique prevê crescimento de 9,5% em 2029 impulsionado pelos grandes projectos de gás SAPO",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
       "source": "SAPO",
-      "published": "2026-09-23T12:32:44+00:00",
-      "age_hours": 0.1,
+      "published": "2026-09-23T16:33:40+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlUxenUxMWU1U29MY19TMmh6bUZiVW5JTWZEV0pQd0pGdy1RYnFpd2JSLVlmT1o3ZW1vR3dYekx6dmtBR0ZNOVNNb2p5cnhYLXJjbUFvcXRkRUt4cFZNdDgxRG1JdFkyUjdmbnFqZzZ2aFNQR0tvOEYxWGN1UFE5bVhzSkt1MkFJaEtLWnZnS21uSUVvcUN4dEdmQlFlY3BmUnVOblBpZmFLZmphQmJDRjMtdDZWdl8xS19PWVpGN01kV0d1amZVOExR?oc=5",
-      "editorial_score": 7.98,
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbnE3SHA1YVI0WHRSdUo4MDk2c3o0N2FHYnNfd1h2N0FtSW51MWFMS2xLT2g2ZmF3dm1nMExFaktockZKYlJ1Y1VvbkhwRGJWa1plZFhnQ0pRYWsxYXBPVUxVeEoyalQybjdIOFF0R1NmYmQ3UHk5Tk11ZkhYb0xvU1dtMFlxdXljcVI5QTVKcUxCQS00dHV6LURyVGg3d3kxa1lxRGMxdDdVOVJTNVE4VUVXb1dxQk9FdlFxUUVqazBQUmFhdTF4Y2hMQXA3U2JF?oc=5",
+      "editorial_score": 7.75,
       "source_tier": "C"
     },
     {
@@ -163,16 +162,16 @@
       "tags": [
         "Energia"
       ],
-      "title": "Refinaria de Dangote: o projeto de US$ 20 bi que quer mudar o petróleo da Nigéria - Exame",
-      "summary": "Refinaria de Dangote: o projeto de US$ 20 bi que quer mudar o petróleo da Nigéria Exame",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "Exame",
-      "published": "2026-09-23T10:03:20+00:00",
-      "age_hours": 2.6,
+      "title": "Petrobras firma acordo estratégico para petróleo e gás em Moçambique - - Portal Cambé",
+      "summary": "Petrobras firma acordo estratégico para petróleo e gás em Moçambique - Portal Cambé",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "Portal Cambé",
+      "published": "2026-09-23T15:25:26+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQendrRjdhVjlibGl6LW92VDBNRWk4Mm1wRm1iV0FmaHpjRWo1V25HbWtRcGJPR3hXcUJycnBzWUVDVkVTRm55cHB2cHNKZzFnVjdsdnNtNGxkQ2RsdFBudkdXOEdUUENhTWJfaVdVT3c1SUlORGxyRjZ5ekE4TXVmdnQtMHozSF9qc21rM1BfdFZnTElocEJ0OWZ5OHdaWlcycHhOTkxpUQ?oc=5",
-      "editorial_score": 6.46,
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1seEM5a2YyWW5TZ005QXlUdndWTDJmQlpEckdCNVNhd015eWFwdkZLbm1zYVdxem9CTXFFYzFQYm9jb3FwREV1RG9Eekw3RE41cFpEazU1LS1oaV96NlRSVkRTRFdsQQ?oc=5",
+      "editorial_score": 7.52,
       "source_tier": "C"
     }
   ],
@@ -194,8 +193,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
-    "África": 2,
+    "Mundo": 4,
+    "África": 4,
     "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
