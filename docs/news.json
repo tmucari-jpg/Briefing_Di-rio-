@@ -1,25 +1,76 @@
 {
-  "updated_at": "2026-09-23T05:42:57.134911+00:00",
+  "updated_at": "2026-09-23T12:36:29.657207+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
   "items": [
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
         "Energia",
-        "Economia"
+        "Segurança"
       ],
-      "title": "Autoridade Tributária de Moçambique — Reconstrução do Edifício da Direcção de Área Fiscal, Serviços Provinciais Das Alfândegas e Delegação da Inhambane - diarioeconomico.co.mz",
-      "summary": "Autoridade Tributária de Moçambique — Reconstrução do Edifício da Direcção de Área Fiscal, Serviços Provinciais Das Alfândegas e Delegação da Inhambane diarioeconomico.co.mz",
+      "title": "Gaza. Mulheres e raparigas com \"riscos crescentes de violência baseada no género\"",
+      "summary": "Meninas obrigadas a casarem com os homens que as violaram. Pais que casam as filhas menores para poder alimentar outros filhos. Estes são alguns casos relatados Fundo das Nações Unidas para a População (UNFPA, sigla em inglês). A crise prolongada em Gaza, devastada pela guerra, \"criou condições em que as mulheres e as raparigas enfrentam riscos crescentes de violência baseada no género\", lê-se no mais recente relatório.",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-23T04:20:53+00:00",
-      "age_hours": 1.4,
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-23T10:39:02+00:00",
+      "age_hours": 2.0,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQQ0ZXQnNMRl9TV1VONFVuXzU0cEE3d2JCTzVHV2cxTm9DUHdKR0NNODEwc3BBNVYxczlIdHlIbTkxNS0ydkhwd3Mxb1pOSDlTbnhCS09qaGUzdDZLeG9GbkFTSjc0TE5FOFhXd1AyMHdJVGNNcTlEbjlrUEphTUh1N1M2QVd2WVhnMGV4YXRkTnhqZTNERnlRa3hvc1BIWTJZQ2pVa2lkUlVJZVhpOExKQ0FqSzhTTGF4d2tyQkRoVmZtOU9DLUVUQzBYRzZIaDlGR1BxN0VNSHh5LU81TXlSdlRnSzZlZTdZWUJZWEpMVENoQlE0Tmp1R19JNXA3SkkzYzlEUWVuVkwzT2xlUmVFMnN3dWhXSk1xQjR4amdDbkl2NFJFb0JzS3d2ZFZUdkgyQW5Scmd6YUY?oc=5",
-      "editorial_score": 11.71,
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/gaza-mulheres-e-raparigas-com-riscos-crescentes-de-violencia-baseada-no-genero_n1767169",
+      "editorial_score": 11.58,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "PM britânico anuncia agência para travar \"maré venenosa\" da desinformação",
+      "summary": "O futuro Centro Nacional de Defesa da Informação pretende combater campanhas lançadas por potências estrangeiras, numa missão que reunirá serviços de informações, forças de segurança e empresas de redes sociais no Reino Unido com o objetivo de ajudar as comunidades e impedir a criação de uma narrativa \"distorcida e falsa\" sobre o território britânico.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-23T11:01:23+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/pm-britanico-anuncia-agencia-para-travar-mare-venenosa-da-desinformacao_n1767195",
+      "editorial_score": 10.67,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Acordo ou \"aniquilação\"? Diplomacias de Irão e Estados Unidos em diálogo na sede da ONU",
+      "summary": "O presidente do Irão dirige-se nas próximas horas à Assembleia Geral das Nações Unidas, em Nova Iorque. Masoud Pezeshkian comprometeu-se já a “defender com firmeza” a posição da República Islâmica diante da ofensiva de israelitas e norte-americanos.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-23T09:23:48+00:00",
+      "age_hours": 3.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/acordo-ou-aniquilacao-diplomacias-de-irao-e-estados-unidos-em-dialogo-na-sede-da-onu_n1767185",
+      "editorial_score": 10.33,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "FDEL já aplicou 824.6 milhões de Meticais e criou 42 mil empregos - Carta de Moçambique",
+      "summary": "FDEL já aplicou 824.6 milhões de Meticais e criou 42 mil empregos Carta de Moçambique",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "Carta de Moçambique",
+      "published": "2026-09-23T08:33:14+00:00",
+      "age_hours": 4.1,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkFPS2F1bk5CY0ZwS1EwNUllUlhPMi12YnJva1FEaVRNaXZFNjBhWDlWXzJkVWlvOVFOSUVWNFBqblpaTHk0d1o1T1RYS3FXZUl5R3hUMEtGajNfSHNqWDI0TTNJMmRUZXc3ZDJDcnRwemJZeXBLemM3Z3VtZ0NGMmMwRFFuTTlmdlVYZUNIaE5SV2xRbzFfQm04X3FwbnBhRVFlcUF2RmdwRkZyakZrRUdR?oc=5",
+      "editorial_score": 10.15,
       "source_tier": "C"
     },
     {
@@ -27,154 +78,101 @@
       "tags": [
         "Economia"
       ],
-      "title": "PM assegura nos EUA que Portugal vai ter excedente este ano e crescer acima da média europeia",
-      "summary": "O primeiro-ministro assegurou hoje, na bolsa de Nova Iorque, que Portugal vai ter um novo excedente orçamental este ano e que o país vai continuar a crescer acima da média europeia, apelando a mais investimento dos Estados Unidos.",
-      "why": "A notícia ajuda a acompanhar a direção da economia global e das decisões de investimento.",
-      "impact": "Pode refletir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.",
+      "title": "Marroquinos vão às urnas após tentativas de migração em massa e protestos fatais",
+      "summary": "O próximo Governo de Marrocos vai enfrentar pressão para dar resposta às preocupações da população, operando a par de uma monarquia com poder de decisão em assuntos estratégicos.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-23T11:49:04+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/marroquinos-vao-as-urnas-apos-tentativas-de-migracao-em-massa-e-protestos-fatais_n1767207",
+      "editorial_score": 9.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo rejeita causalidade entre apoios aos jovens e subida de preço das casas",
+      "summary": "O Governo rejeita haver uma causalidade entre os apoios aos jovens para a compra da primeira habitação e o aumento do preço das casas, assunto que discutiu esta semana com o FMI, disse hoje o ministro das Finanças.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Últimas",
-      "published": "2026-09-22T22:53:52+00:00",
-      "age_hours": 6.8,
+      "published": "2026-09-23T11:37:29+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/politica/pm-assegura-nos-eua-que-portugal-vai-ter-excedente-este-ano-e-crescer-acima-da-media-europeia_n1767116",
-      "editorial_score": 9.58,
+      "link": "https://www.rtp.pt/noticias/economia/governo-rejeita-causalidade-entre-apoios-aos-jovens-e-subida-de-preco-das-casas_n1767202",
+      "editorial_score": 9.79,
       "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Contaminação da água em Topuito: MDM exige intervenção do Governo - Carta de Moçambique",
+      "summary": "Contaminação da água em Topuito: MDM exige intervenção do Governo Carta de Moçambique",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "source": "Carta de Moçambique",
+      "published": "2026-09-23T10:58:51+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGJFRmtuTGkyRVJMUFZUY1dKSW1hUUtGUml0OC1IbHhaa0dvSlBMNk1tZjhhU2tHcGpLaWRMa3pfNG9yRE9KeVFZdUhrNFFtYUlkUFlsMDZiSVN5eUZRRG9vVm9fSHBJeUtaX25XLWRWX2Y3VUhEYTNYMkpGT2RMa0ZxejZPUXVCUXdmQmxrdE5LY3V3c3RtMDI3cU5vUktNMEhz?oc=5",
+      "editorial_score": 9.67,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "IA"
       ],
-      "title": "Reunião Trump-Zelensky. Ucrânia aponta fim da guerra para os próximos meses",
-      "summary": "O debate da Assembleia-Geral da ONU arrancou esta terça-feira em Nova Iorque com o discurso de António Guterres, o último que faz neste evento anual enquanto líder das Nações Unidas. Lula da Silva, Donald Trump e Emmanuel Macron também falaram. O debate de alto nível termina no dia 28.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "title": "IA oferece soluções de eficiência energética, mas é ela mesmo um super consumidor",
+      "summary": "Apesar das opiniões do uso da Inteligência Artificial (IA) ser dual, esta aparece em destaque no relatório que a OCDE divulgou esta quarta-feira. De acordo com o relatório a IA está a emergir como uma das principais ferramentas para mitigar o impacto económico da crise energética global.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-22T21:42:32+00:00",
-      "age_hours": 8.0,
+      "published": "2026-09-23T10:52:21+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/reuniao-trump-zelensky-ucrania-aponta-fim-da-guerra-para-os-proximos-meses_e1766964",
-      "editorial_score": 9.33,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Kiev considera \"vergonhosa e injustificável\" retirada de sanções a oligarcas russos",
-      "summary": "O ministro dos Negócios Estrangeiros ucraniano, Andriy Sybiga, classificou hoje como \"vergonhosa e injustificável\" a decisão da União Europeia (UE) de retirar sanções contra dois oligarcas russos acusados de cumplicidade com a invasão da Ucrânia.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-22T22:15:11+00:00",
-      "age_hours": 7.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-considera-vergonhosa-e-injustificavel-retirada-de-sancoes-a-oligarcas-russos_n1767088",
-      "editorial_score": 8.44,
+      "link": "https://www.rtp.pt/noticias/economia/ia-oferece-solucoes-de-eficiencia-energetica-mas-e-ela-mesmo-um-super-consumidor_n1767197",
+      "editorial_score": 9.65,
       "source_tier": "A"
     },
     {
       "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "PR angolano alerta que dívida excessiva está a limitar investimento produtivo em África - forbesafricalusofona.com",
-      "summary": "PR angolano alerta que dívida excessiva está a limitar investimento produtivo em África forbesafricalusofona.com",
-      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
-      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
-      "source": "forbesafricalusofona.com",
-      "published": "2026-09-22T21:27:20+00:00",
-      "age_hours": 8.3,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVBhSDdrUFVEckp0R05YYmttX0EzSmVRazB5QmRkWENDNWlVQ1ZFZXNwS3pwa2N6ZFZ0UU9VX2oya2thakZTZHIxYXlXeElGVUItWG5pbURoZEc1Sy04ZUhRZl9nWnZSTHVqOHNTQ19NQzhpUldHQ3YwTlpxclRMVVpUQjg0ZTlUZVJFM2l1b0dzb2RmUzJrSDdoeGZJNzc2SzV1ekd6a2xndGZka1Bzc0dUX2c4c0JqVkVNdTNn?oc=5",
-      "editorial_score": 8.27,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique: Governo quer reduzir atendimento presencial com digitalização dos serviços públicos - e-global.pt",
-      "summary": "Moçambique: Governo quer reduzir atendimento presencial com digitalização dos serviços públicos e-global.pt",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "e-global.pt",
-      "published": "2026-09-22T20:28:48+00:00",
-      "age_hours": 9.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOamRDSU9aRWxnR2hGWmw5ZGNxNUdlMm1OVDh4TlJEbjFmV182UnNOQXUyQlcwUjdUdXJnMy00S19kSVlyVnRSWDIyd2VJUUwyd1VhbmNLSWVXSWZXbFZfa0p5Zm8tenJzRlNJNmJMX04xYnFVRm5XMFVHUWVWazQzSDl5VFRMczZuZk9fTW5yNTNaNW4zZ3RYWDZhUnpDT1dhTHlFQ0oxbmVTYnR2UHg2R2NtUDNqRTBWVTBiSE1LWk50ZzFKYWJOb0gzSkVVMENpRU5tOWVUVGFkdXpFNlN4LXpYSdIB4wFBVV95cUxOamRDSU9aRWxnR2hGWmw5ZGNxNUdlMm1OVDh4TlJEbjFmV182UnNOQXUyQlcwUjdUdXJnMy00S19kSVlyVnRSWDIyd2VJUUwyd1VhbmNLSWVXSWZXbFZfa0p5Zm8tenJzRlNJNmJMX04xYnFVRm5XMFVHUWVWazQzSDl5VFRMczZuZk9fTW5yNTNaNW4zZ3RYWDZhUnpDT1dhTHlFQ0oxbmVTYnR2UHg2R2NtUDNqRTBWVTBiSE1LWk50ZzFKYWJOb0gzSkVVMENpRU5tOWVUVGFkdXpFNlN4LXpYSQ?oc=5",
-      "editorial_score": 8.08,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Economia"
-      ],
-      "title": "Da mineração à inteligência artificial: empresário brasileiro aposta em tecnologia como nova frente de negócios - Estadão Blue Studio",
-      "summary": "Da mineração à inteligência artificial: empresário brasileiro aposta em tecnologia como nova frente de negócios Estadão Blue Studio",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "Estadão Blue Studio",
-      "published": "2026-09-22T23:59:45+00:00",
-      "age_hours": 5.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQRGg5QVZBTXc3VGhHMGE5S0VoTE8yLTJ6VG1yUlVlMVREbmRWS3pTV3l4Um4xbnotTFVUT3VjVjFEME51Ylhwc1V1SEtXVzRBZHU2dEpKZTJseERzUUVWU2lVTTliZmRiOG5kQTFtVVRHcVpSeDVuUllGVmIzUEtHa1dPbzB0LTNVZHNaRHQxSE1rMFU4MjJwNW16OVo4ZGxSS3J6dGZpNXdYdHZLVHI1U1ZxUGZpREdPRUZ2YmFfNHJDcHV0SGFoSVJHMmhuS2g5eXhMRHpmbjNlU0Z4dXMtVVZMdXNjVmZJQVlJOTRNbllDTDg5MG0waTB6TXh6WUxWak9UaVd4OE9zQWtsX0U3ejBwRHE3SE1oX0E?oc=5",
-      "editorial_score": 7.81,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
       "tags": [
         "Energia"
       ],
-      "title": "Implementação de projetos de energia, projetos-chave no setor energético. - Vietnam.vn",
-      "summary": "Implementação de projetos de energia, projetos-chave no setor energético. Vietnam.vn",
+      "title": "Moçambique procura parcerias brasileiras para desenvolver sector de petróleo e gás - SAPO",
+      "summary": "Moçambique procura parcerias brasileiras para desenvolver sector de petróleo e gás SAPO",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Vietnam.vn",
-      "published": "2026-09-23T04:17:06+00:00",
-      "age_hours": 1.4,
+      "source": "SAPO",
+      "published": "2026-09-23T12:32:44+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3NUcG9qMW5KYm51Um10RDctRXJ1VmxOck1DVWhOc1R2Rktwc0RueHotbURjQl85cmx6NlJwVW9qbGJxZW1iVUFWRXhzazhCdkgzdHlTVjVFbml1clFyWXQ4bEVkenNvQnpBX0Z5MGlreHlHc0hHb3VsWndBdTBVOVoxUXZJRmRWOE03WUZ0Y3hYcEtO?oc=5",
-      "editorial_score": 7.71,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Sam Altman, da OpenAI, e Dario Amodei, da Anthropic, participam de reunião do Conselho de Segurança da ONU - O GLOBO",
-      "summary": "Sam Altman, da OpenAI, e Dario Amodei, da Anthropic, participam de reunião do Conselho de Segurança da ONU O GLOBO",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "O GLOBO",
-      "published": "2026-09-23T03:00:00+00:00",
-      "age_hours": 2.7,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWDBIVzJxVktpNHQ0bjhNVjRTdDdKVm1sLVFyZ2RBZG0zekZlVWtLc3VtWFloaUFFUTQ1ZDRXOHVFU3dlSFJrbEo1eFNkQ3ZrZmV3bnF6Z1I4OTJ4UEZjdUtHLTBrOElURUVlcFJuWVJTSFRGWDhXY0Fmb2lBTnp0MWFPaDhEeGJKUVlNdk80XzMxdjN5UjdISU9TbU5heXlEX1BJT29WVDdseVd0WE5NNm5UMUNQSm9vWmtZdXc3Y1pWSVdFTXhFc1pFUmFnZnVSd2c3MWJTQmNqTXBrb1dEZk1CTHE5MkZwaE1pbl9wSEt2azMxZ1hrS1RYVnNSRmduNUHSAZACQVVfeXFMT1hxdHU0UXdadzk1WTJ6UDNUNzNjdWt2ZGFrczNwbVJpb2lFaXpBV3c1SnJ2MENYazRQQWtyVHgxdEk0Unpza3RBd21OOUY1X1VucUNBcWNMZnB4M0lNLWNwem5HS3VZSGticTh1Z1ZwYUh1NVFwM0ZtRDE4cGtMM21ucEVwd0dmRVRvUnhxbDJkU2U3MDRFcWU3cTZPcFZRMkVMdHlvTEQ0X0g0ekVFc3AwSDRTMEZia1VPbk0zZmYyZ0NqYWtrcHhUU012Rkpzd1E0QmlkSjNISzNFOWdKRHAxcVpRaDJYTDFLN1E1Ri0xQUpHRVRjNzlSbkVQTTZSUWJRR2Q1RC1zM1gxcG1vd0k?oc=5",
-      "editorial_score": 7.44,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlUxenUxMWU1U29MY19TMmh6bUZiVW5JTWZEV0pQd0pGdy1RYnFpd2JSLVlmT1o3ZW1vR3dYekx6dmtBR0ZNOVNNb2p5cnhYLXJjbUFvcXRkRUt4cFZNdDgxRG1JdFkyUjdmbnFqZzZ2aFNQR0tvOEYxWGN1UFE5bVhzSkt1MkFJaEtLWnZnS21uSUVvcUN4dEdmQlFlY3BmUnVOblBpZmFLZmphQmJDRjMtdDZWdl8xS19PWVpGN01kV0d1amZVOExR?oc=5",
+      "editorial_score": 7.98,
       "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "EUA receberão até 17.500 sul-africanos brancos adicionais como refugiados - UOL Notícias",
-      "summary": "EUA receberão até 17.500 sul-africanos brancos adicionais como refugiados UOL Notícias",
+      "title": "Refinaria de Dangote: o projeto de US$ 20 bi que quer mudar o petróleo da Nigéria - Exame",
+      "summary": "Refinaria de Dangote: o projeto de US$ 20 bi que quer mudar o petróleo da Nigéria Exame",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
-      "source": "UOL Notícias",
-      "published": "2026-09-22T21:52:30+00:00",
-      "age_hours": 7.8,
+      "source": "Exame",
+      "published": "2026-09-23T10:03:20+00:00",
+      "age_hours": 2.6,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaG1oM3AySTdzeWliem1wWXlZTTRlaFRKeTMzMmhPMFNxVXJoLWlUWDh3emhyb0NIbHZ3dTNzdXc5cDdhZGZuY1o0UTh2anJ6MTlKZzcycVlGSUxjLXNWUDlLUmJZTEV3eG9nNkFzX1BhSXJkODkzNDh5S0RDMW9veTBFbm1rczdQQU5lRXZtSFpPUEJqTlJINjBQcnRQX2F1cWhrQzNCdDFOQnZnM3g0NmE4YUZaR3YzNjkyQTMzVEpfZWNXREJpbW1oM0o3bnpYYkV2VFJNeTc0X1U?oc=5",
-      "editorial_score": 7.38,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQendrRjdhVjlibGl6LW92VDBNRWk4Mm1wRm1iV0FmaHpjRWo1V25HbWtRcGJPR3hXcUJycnBzWUVDVkVTRm55cHB2cHNKZzFnVjdsdnNtNGxkQ2RsdFBudkdXOEdUUENhTWJfaVdVT3c1SUlORGxyRjZ5ekE4TXVmdnQtMHozSF9qc21rM1BfdFZnTElocEJ0OWZ5OHdaWlcycHhOTkxpUQ?oc=5",
+      "editorial_score": 6.46,
       "source_tier": "C"
     }
   ],
