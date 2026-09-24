@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-09-24T09:28:52.568839+00:00",
+  "updated_at": "2026-09-24T11:02:39.684652+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 168,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "CFA Reconhece Três Novos Profissionais em Moçambique",
+      "summary": "O número de profissionais moçambicanos com certificação Chartered Financial Analyst (CFA) triplicou, passando de três para nove, segundo dados apresentados na primeira CFA Charter Award Ceremony realizada no País. O […] The post CFA Reconhece Três Novos Profissionais em Moçambique appeared first on Diário Económico .",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afectar comércio, circulação, cadeias de abastecimento, investimento e percepção de risco.",
+      "source": "Diário Económico",
+      "published": "2026-09-24T10:30:00+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/09/24/desenvolvimento-2/cfa-reconhece-tres-novos-profissionais-em-mocambique/",
+      "original_source": true,
+      "editorial_score": 12.9,
+      "source_tier": "B"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo lança coligação estratégica para financiar electrificação fora da rede até 2030",
+      "summary": "O Presidente da República, Daniel Francisco Chapo, anunciou em Nova Iorque, a intenção do Governo de criar uma coligação estratégica de financiamento destinada à electrificação fora da rede em Moçambique. O projecto, apresentado durante uma Mesa Redonda de Alto Nível, visa mobilizar recursos, reduzir riscos e transformar uma carteira de empreendimentos em investimentos financiáveis, de […] The post Governo lança coligação estratégica para financiar electrificação fora da rede até 2030 first appeared on O País - A verdade como notícia .",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode reflectir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "O País",
+      "published": "2026-09-24T09:32:38+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://opais.co.mz/governo-lanca-coligacao-estrategica-para-financiar-electrificacao-fora-da-rede-ate-2030/",
+      "original_source": true,
+      "editorial_score": 12.69,
+      "source_tier": "B"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -15,67 +51,66 @@
       "impact": "Pode afectar comércio, circulação, cadeias de abastecimento, investimento e percepção de risco.",
       "source": "O País",
       "published": "2026-09-24T09:01:08+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://opais.co.mz/presidente-da-republica-faz-balanco-positivo-da-participacao-de-mocambique-na-81-a-sessao-da-assembleia-geral-da-onu/",
-      "original_source": true,
-      "editorial_score": 11.92,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Maputo: EUA Oferecem Alimentação Escolar a 170 Mil Crianças",
-      "summary": "O Governo dos Estados Unidos da América (EUA) está a fornecer refeições escolares a 170 mil crianças de 245 escolas primárias da província de Maputo, numa iniciativa que coloca a […] The post Maputo: EUA Oferecem Alimentação Escolar a 170 Mil Crianças appeared first on Diário Económico .",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
-      "source": "Diário Económico",
-      "published": "2026-09-24T08:15:00+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/09/24/desenvolvimento-2/maputo-eua-oferecem-alimentacao-escolar-a-170-mil-criancas/",
-      "original_source": true,
-      "editorial_score": 11.75,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique quer criar Coligação Estratégica de Financiamento da Electrificação Fora da Rede",
-      "summary": "Nova Iorque, 24 Set (AIM) – O Governo de Moçambique anunciou a intenção de criar uma Coligação Estratégica",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
-      "source": "AIM News",
-      "published": "2026-09-24T07:27:55+00:00",
       "age_hours": 2.0,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/09/24/mocambique-quer-criar-coligacao-estrategica-de-financiamento-da-electrificacao-fora-da-rede/",
+      "link": "https://opais.co.mz/presidente-da-republica-faz-balanco-positivo-da-participacao-de-mocambique-na-81-a-sessao-da-assembleia-geral-da-onu/",
       "original_source": true,
       "editorial_score": 11.58,
       "source_tier": "B"
     },
     {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Grupos armados no Tigray declaram \"guerra total\" contra a Etópia",
+      "summary": "O vice-presidente das autoridades rebeldes da região etíope do Tigray, Amanuel Assefa, disse hoje à Agência France Presse (AFP) que os grupos armados estão \"em guerra total\" contra o Governo da Etiópia.",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afectar comércio, circulação, cadeias de abastecimento, investimento e percepção de risco.",
+      "source": "RTP Notícias",
+      "published": "2026-09-24T09:32:24+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/grupos-armados-no-tigray-declaram-guerra-total-contra-a-etopia_n1767427",
+      "original_source": true,
+      "editorial_score": 10.69,
+      "source_tier": "A"
+    },
+    {
       "section": "Moçambique",
       "tags": [
-        "Energia",
-        "Economia"
+        "Segurança"
       ],
-      "title": "ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República",
-      "summary": "O Presidente da República, Daniel Francisco Chapo, e o Vice-Presidente da ExxonMobil Corporation e Presidente da ExxonMobil Upstream, Dan Ammann, reuniram-se esta quarta-feira, em Nova Iorque, para uma avaliação detalhada do progresso do projecto Rovuma LNG. A multinacional norte-americana indicou, no final do encontro, estar próxima da adopção da Decisão Final de Investimento para a […] The post ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República first appeared on O País - A verdade como notícia .",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afectar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "O País",
-      "published": "2026-09-24T08:13:44+00:00",
-      "age_hours": 1.2,
+      "title": "PR Pede Apoio Internacional “Mais Previsível e Coordenado” Contra o Terrorismo",
+      "summary": "O Presidente da República (PR), Daniel Chapo, pediu, na 81.ª Assembleia-Geral das Nações Unidas (ONU), um apoio internacional “mais previsível e coordenado” para consolidar a segurança, a estabilização, a reconstrução […] The post PR Pede Apoio Internacional “Mais Previsível e Coordenado” Contra o Terrorismo appeared first on Diário Económico .",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afectar comércio, circulação, cadeias de abastecimento, investimento e percepção de risco.",
+      "source": "Diário Económico",
+      "published": "2026-09-24T10:19:04+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://opais.co.mz/exxonmobil-perto-de-adoptar-decisao-final-de-investimento-apos-encontro-com-o-presidente-da-republica/",
+      "link": "https://www.diarioeconomico.co.mz/2026/09/24/desenvolvimento-2/pr-pede-apoio-internacional-mais-previsivel-e-coordenado-contra-o-terrorismo/",
       "original_source": true,
-      "editorial_score": 10.75,
+      "editorial_score": 9.85,
       "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Agente de Inteligência Artificial violou site do Governo australiano",
+      "summary": "O primeiro-ministro da Austrália revelou que o programa desenvolvido pela empresa OpenAI se \"infiltrou\" num portal de estatísticas que continha dados privados do sistema público de saúde do país. Anthony Albanese acrescentou que \"outros três sistemas podem ter sido afetados\", mas não deu detalhes. A Austrália criou uma equipa para averiguar se houve violação da lei.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "RTP Notícias",
+      "published": "2026-09-24T09:55:59+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/agente-de-inteligencia-artificial-violou-site-do-governo-australiano_n1767410",
+      "original_source": true,
+      "editorial_score": 9.77,
+      "source_tier": "A"
     },
     {
       "section": "África",
@@ -86,31 +121,13 @@
       "summary": "O Partido da Autenticidade e Modernidade (PAM), membro da atual coligação governamental tripartida em Marrocos, venceu as eleições legislativas realizadas na quarta-feira, de acordo com os primeiros resultados provisórios.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
+      "source": "RTP Notícias",
       "published": "2026-09-24T09:12:33+00:00",
-      "age_hours": 0.3,
+      "age_hours": 1.8,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/partido-da-coligacao-do-governo-vence-eleicoes-legislativas-em-marrocos_n1767417",
       "original_source": true,
-      "editorial_score": 9.94,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Partido da coligação no poder lidera resultados eleitorais provisórios em Marrocos",
-      "summary": "O Partido Autenticidade e Modernidade (PAM), que faz parte da atual coligação governamental, conquistou o maior número de lugares nas eleições parlamentares de Marrocos, segundo os resultados provisórios anunciados hoje pelo Ministério do Interior.",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-24T07:37:34+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/partido-da-coligacao-no-poder-lidera-resultados-eleitorais-provisorios-em-marrocos_n1767395",
-      "original_source": true,
-      "editorial_score": 9.6,
+      "editorial_score": 9.62,
       "source_tier": "A"
     },
     {
@@ -118,72 +135,54 @@
       "tags": [
         "Economia"
       ],
-      "title": "Rubio diz que venda de armas a Taiwan depende das necessidades de defesa dos EUA",
-      "summary": "O secretário de Estado norte-americano, Marco Rubio, afirmou que as vendas de armas a Taiwan dependem das necessidades militares dos Estados Unidos, numa altura em que permanece incerta a aprovação de um pacote de armamento para Taipé.",
+      "title": "Multidões celebram o Dia Nacional saudita com bandeiras e desfile militar",
+      "summary": "Multidões assinalam o Dia Nacional saudita em Riade com bandeiras, atuações tradicionais e desfile militar, numa altura de tensões regionais",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afectar preços, cadeias de abastecimento, comércio e percepção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-24T07:37:12+00:00",
+      "source": "Euronews Português",
+      "published": "2026-09-24T09:53:57+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/video/2026/09/24/multidoes-celebram-o-dia-nacional-saudita-com-bandeiras-e-desfile-militar",
+      "original_source": true,
+      "editorial_score": 6.77,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "EUA admitem oito tentativas de suicídio em porta-aviões em missão sem precedentes no Médio Oriente",
+      "summary": "Em agosto, as famílias dos militares e os legisladores deram o alarme relativamente a relatos de tentativas de suicídio e outros problemas graves de saúde mental, escassez de alimentos e más condições de higiene.",
+      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
+      "impact": "Pode afectar preços, cadeias de abastecimento, comércio e percepção de risco para investidores.",
+      "source": "Euronews Português",
+      "published": "2026-09-24T09:09:16+00:00",
       "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/rubio-diz-que-venda-de-armas-a-taiwan-depende-das-necessidades-de-defesa-dos-eua_n1767394",
+      "link": "https://pt.euronews.com/2026/09/24/eua-admitem-oito-tentativas-de-suicidio-em-porta-avioes-em-missao-sem-precedentes-no-medio",
       "original_source": true,
-      "editorial_score": 9.6,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Primeiro-ministro de Espanha discursa na ONU contra políticas de governos \"reacionários\"",
-      "summary": "O primeiro-ministro de Espanha, Pedro Sánchez, discursou na Assembleia Geral da ONU contra uma série de políticas implementadas por governos que descreveu como \"reacionários\" e garantiu que Madrid \"não se vai calar\".",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-24T07:24:55+00:00",
-      "age_hours": 2.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/primeiro-ministro-de-espanha-discursa-na-onu-contra-politicas-de-governos-reacionarios_n1767375",
-      "original_source": true,
-      "editorial_score": 9.56,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Presidente da Venezuela promete eleições no \"momento certo\" na estreia na ONU",
-      "summary": "A Presidente interina da Venezuela, ao fazer o primeiro discurso na Assembleia Geral da ONU desde que assumiu o poder, prometeu realizar eleições e afirmou que o povo do país determinará o \"momento certo\".",
-      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-24T07:23:09+00:00",
-      "age_hours": 2.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/presidente-da-venezuela-promete-eleicoes-no-momento-certo-na-estreia-na-onu_n1767373",
-      "original_source": true,
-      "editorial_score": 9.56,
-      "source_tier": "A"
+      "editorial_score": 6.6,
+      "source_tier": "C"
     },
     {
       "section": "África",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Recomeçou a guerra no Tigray na região norte da Etiópia",
-      "summary": "Na região norte da Etiópia, o conflito entre os rebeldes do Tigray e as tropas federais, que estava interrompido desde 2022, voltou a escalar. Uma guerra que matou cerca de 500 mil pessoas e atirou para a pobreza milhões.",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afectar comércio, circulação, cadeias de abastecimento, investimento e percepção de risco.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T14:28:47+00:00",
-      "age_hours": 19.0,
+      "title": "Marrocos elege novo parlamento entre esperança e receios com custo de vida",
+      "summary": "Expectativas e receios sobre emprego, salários, serviços públicos e custo de vida marcam as legislativas em Marrocos, numa altura em que o país se prepara para o Mundial 2030.",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
+      "impact": "Pode afectar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "Euronews Português",
+      "published": "2026-09-23T18:05:01+00:00",
+      "age_hours": 17.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/recomecou-a-guerra-no-tigray-na-regiao-norte-da-etiopia_n1767260",
+      "link": "https://pt.euronews.com/2026/09/23/marrocos-elege-novo-parlamento-entre-esperanca-e-receios-com-custo-de-vida",
       "original_source": true,
-      "editorial_score": 7.04,
-      "source_tier": "A"
+      "editorial_score": 4.46,
+      "source_tier": "C"
     }
   ],
   "watch": [

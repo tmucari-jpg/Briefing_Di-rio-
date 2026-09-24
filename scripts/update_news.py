@@ -1,129 +1,151 @@
-import html, json, re, unicodedata
+import html, json, re, shutil, subprocess, unicodedata
 from datetime import datetime, timezone
+from difflib import SequenceMatcher
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import urlencode
 from urllib.request import Request, urlopen
+
 import feedparser
 
-PRIMARY_HOURS=24
-FALLBACK_HOURS=72
-MIN_NEWS=10
-TARGET={'Mundo':4,'África':2,'Moçambique':2}
+PRIMARY_HOURS = 24
+FALLBACK_HOURS = 168
+TARGET = {'Moçambique': 4, 'África': 3, 'Mundo': 3}
+MAX_PER_SOURCE = 2
+FEED_CACHE = {}
 
-RSS_PT={
- 'Mundo':[('RTP Notícias — Mundo','https://www.rtp.pt/noticias/rss/mundo'),('RTP Notícias — Últimas','https://www.rtp.pt/noticias/rss')],
- 'África':[('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html'),('RTP Notícias — Mundo','https://www.rtp.pt/noticias/rss/mundo')],
- 'Moçambique':[('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html'),('RTP Notícias — Últimas','https://www.rtp.pt/noticias/rss')]
+RSS_PT = {
+    'Moçambique': [('Diário Económico','https://www.diarioeconomico.co.mz/feed/'),('O País','https://opais.co.mz/feed/'),('AIM News','https://aimnews.org/feed/'),('Jornal Notícias','https://jornalnoticias.co.mz/feed/'),('Checka','https://checka.co.mz/feed/'),('Club of Mozambique','https://clubofmozambique.com/feed/')],
+    'África': [('ONU News','https://news.un.org/feed/subscribe/pt/news/all/rss.xml'),('Euronews Português','https://pt.euronews.com/rss?level=theme&name=news'),('O País','https://opais.co.mz/feed/'),('RTP Notícias','https://www.rtp.pt/noticias/rss/mundo'),('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html')],
+    'Mundo': [('ONU News','https://news.un.org/feed/subscribe/pt/news/all/rss.xml'),('Euronews Português','https://pt.euronews.com/rss?level=theme&name=news'),('RTP Notícias','https://www.rtp.pt/noticias/rss/mundo'),('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html')],
 }
-RSS_EN={
- 'Mundo':[('BBC World','https://feeds.bbci.co.uk/news/world/rss.xml'),('DW English','https://rss.dw.com/rdf/rss-en-all'),('Al Jazeera English','https://www.aljazeera.com/xml/rss/all.xml')],
- 'África':[('BBC Africa','https://feeds.bbci.co.uk/news/world/africa/rss.xml'),('Le Monde Africa','https://www.lemonde.fr/en/africa/rss_full.xml'),('DW English','https://rss.dw.com/rdf/rss-en-all')],
- 'Moçambique':[('Club of Mozambique','https://clubofmozambique.com/feed/'),('Le Monde Mozambique','https://www.lemonde.fr/en/mozambique/rss_full.xml'),('DW English','https://rss.dw.com/rdf/rss-en-all')]
+RSS_EN = {
+    'Moçambique': [('Club of Mozambique','https://clubofmozambique.com/feed/'),('AIM News','https://aimnews.org/feed/'),('Le Monde Mozambique','https://www.lemonde.fr/en/mozambique/rss_full.xml')],
+    'África': [('BBC Africa','https://feeds.bbci.co.uk/news/world/africa/rss.xml'),('Al Jazeera English','https://www.aljazeera.com/xml/rss/all.xml'),('DW English','https://rss.dw.com/rdf/rss-en-all')],
+    'Mundo': [('BBC World','https://feeds.bbci.co.uk/news/world/rss.xml'),('DW English','https://rss.dw.com/rdf/rss-en-all'),('Al Jazeera English','https://www.aljazeera.com/xml/rss/all.xml')],
 }
 
-THEMES=['energy','energia','lng','gás','gas','oil','petróleo','petroleo','econom','economia','investment','investimento','business','negócios','negocios','trade','comércio','comercio','market','mercado','artificial intelligence','inteligência artificial','technology','tecnologia','security','segurança','conflito','conflict','war','guerra','military','militar','sanction','sanções','infrastructure','infraestrutura','jobs','emprego','employment','mining','mineração','climate','drought','flood','water','água','interest rate','inflation','inflação','tariff','tarifas','election','eleição','eleições','governo','government','diplomacia','diplomacy','refugiados','refugees']
-GLOBAL=['china','united states','europe','european union','russia','ukraine','middle east','israel','iran','saudi','yemen','india','japan','south korea','nato','opec','world bank','imf','onu','trump','putin']
-AFRICA=['africa','african','africano','africana','africanos','africanas','moçambique','mozambique','south africa','angola','tanzania','tanzânia','malawi','zambia','zâmbia','zimbabwe','zimbabué','kenya','quénia','nigeria','nigéria','ghana','ethiopia','etiópia','congo','rwanda','ruanda','uganda','somalia','somália','sudan','sudão','egypt','egito','algeria','argélia','morocco','marrocos','senegal','namibia','namíbia','botswana','eswatini','lesotho','lesoto']
-MOZ=['moçambique','mozambique','maputo','cabo delgado','cabo delgado province','pemba','niassa','nampula','beira','nacala','tete','inhambane','gaza','manica','zambézia','zambezia','rovuma','quelimane','matola']
-BAD=['futebol','football','sport','sports','cinema','filme','movie','novela','música','music','horóscopo','horoscope','receita','recipe','moda','fashion','reality show','influencer','casamento','namoro','documentário','documentary','entretenimento','entertainment','turtles','turtle','half-marathon']
-EN_WORDS=[' the ',' and ',' of ',' to ',' for ',' with ',' says ',' from ',' are ',' is ',' ai regulation ',' africa\'s ']
+THEMES = ['energy','energia','lng','gás','gas','oil','petróleo','petroleo','fuel','combustível','combustivel','econom','investment','investimento','business','negócios','trade','comércio','market','mercado','artificial intelligence','inteligência artificial','technology','tecnologia','security','segurança','conflito','conflict','war','guerra','military','militar','sanction','sanções','infrastructure','infraestrutura','jobs','emprego','employment','mining','mineração','climate','drought','flood','water','água','interest rate','inflation','inflação','tariff','tarifas','election','eleição','eleições','governo','government','diplomacia','diplomacy','refugiados','refugees']
+AFRICA = ['africa','áfrica','african','south africa','áfrica do sul','angola','tanzania','tanzânia','malawi','zambia','zâmbia','zimbabwe','zimbabué','kenya','quénia','nigeria','nigéria','ghana','ethiopia','etiópia','congo','rwanda','ruanda','uganda','somalia','somália','sudan','sudão','egypt','egipto','morocco','marrocos','senegal','namibia','namíbia','botswana','eswatini','lesotho','cabo verde']
+MOZ = ['moçambique','mozambique','maputo','chapo','cabo delgado','pemba','niassa','nampula','nacala','tete','beira','inhambane','gaza','manica','zambézia','zambezia','rovuma','quelimane','matola']
+BAD = ['futebol','football','sport','sports','uefa','fifa','cinema','filme','movie','novela','música','music','horóscopo','horoscope','receita','recipe','moda','fashion','entretenimento','entertainment','concurso público','solicitação de propostas','manifestação de interesse','consulta pública','tender','procurement']
+EN_WORDS = [' the ',' and ',' of ',' to ',' for ',' with ',' says ',' from ',' are ',' is ',' africa\'s ']
 
-def clean(s): return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',s or ''))).strip()
-def norm(s): return re.sub(r'[^a-z0-9]','',unicodedata.normalize('NFKD',s.lower()).encode('ascii','ignore').decode())
-def dt(item):
-    for k in ('published_parsed','updated_parsed'):
-        v=item.get(k)
-        if v:
-            try:return datetime(*v[:6],tzinfo=timezone.utc)
-            except:pass
-    for k in ('published','updated'):
+def clean(value): return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',value or ''))).strip()
+def norm(value):
+    value=unicodedata.normalize('NFKD',value.lower()).encode('ascii','ignore').decode()
+    return re.sub(r'\s+',' ',re.sub(r'[^a-z0-9 ]',' ',value)).strip()
+def published_at(item):
+    for key in ('published_parsed','updated_parsed'):
+        value=item.get(key)
+        if value:
+            try: return datetime(*value[:6],tzinfo=timezone.utc)
+            except Exception: pass
+    for key in ('published','updated'):
         try:
-            x=parsedate_to_datetime(item.get(k,'')); return x.astimezone(timezone.utc) if x.tzinfo else x.replace(tzinfo=timezone.utc)
-        except:pass
+            value=parsedate_to_datetime(item.get(key,''))
+            return value.astimezone(timezone.utc) if value.tzinfo else value.replace(tzinfo=timezone.utc)
+        except Exception: pass
     return None
-def age(d): return (datetime.now(timezone.utc)-d).total_seconds()/3600 if d else 99999
-def likely_portuguese(title,desc): return not any(x in (' '+title+' '+desc+' ').lower() for x in EN_WORDS)
-def relevant(sec,title,desc,source=''):
-    t=(title+' '+desc).lower()
-    if any(x in t for x in BAD): return False
-    if not any(x in t for x in THEMES): return False
-    if source=='Google News':
-        if sec=='Mundo': return any(x in t for x in GLOBAL) or any(x in t for x in ['lng','gás','gas','energia','artificial intelligence','inteligência artificial','guerra','war','sanctions','sanções','tariffs','tarifas','inflation','inflação'])
-        if sec=='África': return any(x in t for x in AFRICA)
-        return any(x in t for x in MOZ)
-    return True
-def tags(t):
-    t=t.lower(); o=[]
-    if any(x in t for x in ['energy','energia','lng','gás','gas','oil','petróleo','petroleo']): o.append('Energia')
-    if any(x in t for x in ['artificial intelligence','inteligência artificial','technology','tecnologia']): o.append('IA')
-    if any(x in t for x in ['econom','investment','investimento','business','negócios','negocios','trade','comércio','comercio','market','mercado','inflation','inflação','employment','emprego']): o.append('Economia')
-    if any(x in t for x in ['security','segurança','conflict','conflito','war','guerra','military','militar','sanction','sanções','diplomacia','diplomacy']): o.append('Segurança')
-    return o or ['Economia']
-def context(sec,t):
-    t=t.lower()
-    if any(x in t for x in ['lng','gás','gas','oil','energy','energia']):
-        if sec=='Moçambique': return 'O tema pode ter ligação direta com a posição de Moçambique no setor energético e com decisões de investimento na região.','Pode afetar projetos de gás, fornecedores locais, custos de energia, receitas e oportunidades de negócio.'
-        return 'Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.','Pode influenciar preços de energia, investimento, fornecedores e cadeias de abastecimento.'
-    if any(x in t for x in ['artificial intelligence','inteligência artificial','technology','tecnologia']): return 'A evolução tecnológica está a mudar produtividade, regulação e modelos de negócio.','Pode criar procura por competências digitais e novas oportunidades, mas também aumentar a pressão por adaptação e regulação.'
-    if any(x in t for x in ['war','guerra','conflict','conflito','security','segurança','military','militar','sanction','sanções','diplomacia','diplomacy']):
-        if sec in ('África','Moçambique'): return 'A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.','Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.'
-        return 'A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.','Pode afetar preços, cadeias de abastecimento, comércio regional e perceção de risco para investidores.'
-    if any(x in t for x in ['econom','investment','investimento','business','negócios','negocios','trade','comércio','comercio','market','mercado','inflation','inflação','employment','emprego']):
-        if sec=='Moçambique': return 'A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.','Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.'
-        if sec=='África': return 'A notícia ajuda a perceber tendências económicas e comerciais relevantes para a região.','Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.'
-        return 'A notícia ajuda a perceber a direção da economia e das decisões de investimento.','Pode refletir-se em preços, acesso a capital, procura por fornecedores e oportunidades de negócio.'
-    return 'A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.','O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.'
-def parse(url,sec,source,hours,pt=True):
-    req=Request(url,headers={'User-Agent':'Mozilla/5.0 BriefingDiario/14','Accept':'application/rss+xml, application/xml, text/xml, */*'})
-    with urlopen(req,timeout=30) as r: raw=r.read()
-    f=feedparser.parse(raw); out=[]; now=datetime.now(timezone.utc)
-    for i in f.entries:
-        title,desc=clean(i.get('title')),clean(i.get('summary') or i.get('description')); d=dt(i)
-        if not title or len(desc)<40 or not d or d>now.replace(microsecond=0) or age(d)>hours or not relevant(sec,title,desc,source): continue
-        if pt and not likely_portuguese(title,desc): continue
-        w,im=context(sec,title+' '+desc); actual_source=source
-        try: actual_source=clean(i.get('source',{}).get('title') or source)
-        except: pass
-        out.append({'section':sec,'tags':tags(title+' '+desc),'title':title,'summary':desc[:700],'why':w,'impact':im,'source':actual_source,'published':d.isoformat(),'age_hours':round(max(0,age(d)),1),'within_24h':age(d)<=24,'link':i.get('link','')})
-    return out
-def google(sec,q,hours,pt=True):
-    cfg={'hl':'pt-PT','gl':'MZ','ceid':'MZ:pt-PT'} if pt else {'hl':'en-US','gl':'US','ceid':'US:en'}
-    u='https://news.google.com/rss/search?'+urlencode({'q':q,'hl':cfg['hl'],'gl':cfg['gl'],'ceid':cfg['ceid']})
-    return parse(u,sec,'Google News',hours,pt)
-def add(dst,seen,items):
-    for x in sorted(items,key=lambda z:z['published'],reverse=True):
-        k=norm(x['title'])
-        if k and k not in seen: seen.add(k); dst.append(x)
-def build(lang):
-    pt=lang=='pt'; feeds=RSS_PT if pt else RSS_EN; by={s:[] for s in TARGET}; seen=set()
-    if pt:
-        queries={'Mundo':['geopolítica OR guerra OR sanções OR energia OR LNG OR inteligência artificial economia investimento when:1d','economia global OR tecnologia OR comércio OR mercados when:1d'],'África':['(África OR Angola OR Tanzânia OR África do Sul OR Quénia OR Nigéria OR Etiópia) (energia OR investimento OR economia OR segurança OR comércio OR tecnologia OR eleições) when:1d','(África OR Angola OR Tanzânia OR África do Sul OR Malawi OR Zâmbia) (LNG OR gás OR mineração OR infraestrutura OR empregos OR diplomacia) when:1d'],'Moçambique':['(Moçambique OR Maputo OR Cabo Delgado OR Pemba OR Nampula OR Beira) (energia OR LNG OR gás OR investimento OR economia OR segurança OR empregos OR mineração OR infraestrutura) when:1d','(Moçambique OR Mozambique) (comércio OR negócios OR tecnologia OR diplomacia OR governo OR empresas) when:1d']}
+def age_hours(value): return (datetime.now(timezone.utc)-value).total_seconds()/3600 if value else 99999
+def language_ok(title,summary,pt):
+    score=sum(marker in f' {title} {summary} '.lower() for marker in EN_WORDS)
+    return score<2 if pt else score>=2
+def relevant(section,title,summary):
+    text=f'{title} {summary}'.lower()
+    if any(term in text for term in BAD) or not any(term in text for term in THEMES): return False
+    if section=='Moçambique': return any(term in text for term in MOZ)
+    if section=='África': return not any(term in text for term in MOZ) and any(term in text for term in AFRICA)
+    return not any(term in text for term in MOZ) and not any(term in text for term in AFRICA)
+def tags(text):
+    text=text.lower(); result=[]
+    if any(x in text for x in ['energy','energia','lng','gás','gas','oil','petróleo','fuel','combustível']): result.append('Energia')
+    if any(x in text for x in ['artificial intelligence','inteligência artificial','technology','tecnologia']): result.append('IA')
+    if any(x in text for x in ['econom','investment','investimento','business','negócios','trade','comércio','market','inflation','emprego']): result.append('Economia')
+    if any(x in text for x in ['security','segurança','conflict','conflito','war','guerra','sanction','sanções','diplomacia']): result.append('Segurança')
+    return result or ['Economia']
+def context(section,text):
+    text=text.lower()
+    if any(x in text for x in ['lng','gás','gas','oil','energy','energia','fuel','combustível']):
+        if section=='Moçambique': return 'O tema pode ter ligação directa com a posição de Moçambique no sector energético e com decisões de investimento na região.','Pode afectar projectos, fornecedores locais, custos de energia, receitas e oportunidades de negócio.'
+        return 'Energia e investimento são temas estratégicos para a região e podem alterar decisões de empresas e governos.','Pode influenciar preços, investimento, fornecedores e cadeias de abastecimento.'
+    if any(x in text for x in ['artificial intelligence','inteligência artificial','technology','tecnologia']): return 'A evolução tecnológica está a mudar a produtividade, a regulação e os modelos de negócio.','Pode criar procura por competências digitais e novas oportunidades, mas também aumentar a pressão por adaptação.'
+    if any(x in text for x in ['war','guerra','conflict','conflito','security','segurança','sanction','sanções','diplomacia']): return 'A evolução da segurança e da diplomacia pode alterar riscos e decisões.','Pode afectar o comércio, a circulação, as cadeias de abastecimento, o investimento e a percepção de risco.'
+    if any(x in text for x in ['econom','investment','investimento','business','trade','comércio','market','inflation','emprego']): return 'A notícia ajuda a acompanhar condições económicas e comerciais relevantes.','Pode reflectir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores.'
+    return 'A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.','O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.'
+def duplicate(key,seen):
+    for other in seen:
+        left,right=set(key.split()),set(other.split())
+        overlap=len(left & right)/max(1,min(len(left),len(right)))
+        if key==other or SequenceMatcher(None,key,other).ratio()>=.82 or overlap>=.80: return True
+    return False
+def parse(url,section,source,hours,pt):
+    if url in FEED_CACHE:
+        raw=FEED_CACHE[url]
+        if raw is None: return []
     else:
-        queries={'Mundo':['geopolitics OR war OR sanctions OR energy OR LNG OR artificial intelligence economy investment when:1d','global economy OR technology OR trade OR markets when:1d'],'África':['(Africa OR Angola OR Tanzania OR South Africa OR Kenya OR Nigeria OR Ethiopia) (energy OR investment OR economy OR security OR trade OR technology OR elections) when:1d','(Africa OR Angola OR Tanzania OR South Africa OR Malawi OR Zambia) (LNG OR gas OR mining OR infrastructure OR jobs OR diplomacy) when:1d'],'Moçambique':['(Mozambique OR Maputo OR Cabo Delgado OR Pemba OR Nampula OR Beira) (energy OR LNG OR gas OR investment OR economy OR security OR jobs OR mining OR infrastructure) when:1d','(Mozambique) (trade OR business OR technology OR diplomacy OR government OR companies) when:1d']}
-    for s in TARGET:
-        for src,u in feeds[s]:
-            try:add(by[s],seen,parse(u,s,src,PRIMARY_HOURS,pt))
-            except Exception as e: print('feed',src,s,type(e).__name__,str(e)[:160])
-        for q in queries[s]:
-            try:add(by[s],seen,google(s,q,PRIMARY_HOURS,pt))
-            except Exception as e: print('google',s,type(e).__name__,str(e)[:160])
-    if any(len(by[s])<TARGET[s] for s in TARGET) or sum(len(x) for x in by.values())<14:
-        for s in TARGET:
-            for src,u in feeds[s]:
-                try:add(by[s],seen,parse(u,s,src,FALLBACK_HOURS,pt))
-                except Exception as e: print('fallback feed',src,s,type(e).__name__,str(e)[:160])
-            for q in queries[s]:
-                try:add(by[s],seen,google(s,q,FALLBACK_HOURS,pt))
-                except Exception as e: print('fallback google',s,type(e).__name__,str(e)[:160])
-    missing={s:TARGET[s]-len(by[s]) for s in TARGET if len(by[s])<TARGET[s]}
-    if missing: raise SystemExit(f'Atualização {lang} rejeitada: secções insuficientes {missing}. Não publicar briefing incompleto.')
+        request=Request(url,headers={'User-Agent':'Mozilla/5.0 BriefingDiario/16','Accept':'application/rss+xml, application/xml, text/xml, */*'})
+        if shutil.which('curl'):
+            result=subprocess.run(
+                ['curl','-fsSL','--max-time','12','-A','Mozilla/5.0 BriefingDiario/17',url],
+                capture_output=True,check=False
+            )
+            raw=result.stdout if result.returncode == 0 else b''
+        else:
+            raw=b''
+        if not raw:
+            try:
+                with urlopen(request,timeout=10) as response: raw=response.read()
+            except Exception:
+                FEED_CACHE[url]=None
+                raise
+        FEED_CACHE[url]=raw
+    feed=feedparser.parse(raw); output=[]; now=datetime.now(timezone.utc)
+    for entry in feed.entries:
+        title=clean(entry.get('title')); summary=clean(entry.get('summary') or entry.get('description')); published=published_at(entry)
+        if not title or len(summary)<40 or not published or published>now or age_hours(published)>hours: continue
+        if not relevant(section,title,summary) or not language_ok(title,summary,pt): continue
+        link=entry.get('link','').strip()
+        if not link.startswith(('http://','https://')) or 'news.google.com' in link.lower(): continue
+        why,impact=context(section,f'{title} {summary}')
+        output.append({'section':section,'tags':tags(f'{title} {summary}'),'title':title,'summary':summary[:700],'why':why,'impact':impact,'source':source,'published':published.isoformat(),'age_hours':round(max(0,age_hours(published)),1),'within_24h':age_hours(published)<=24,'link':link,'original_source':True})
+    return output
+def add(destination,seen,items):
+    for item in sorted(items,key=lambda value:value['published'],reverse=True):
+        key=norm(item['title'])
+        if key and not duplicate(key,seen): seen.add(key); destination.append(item)
+def build(language):
+    pt=language=='pt'; feeds=RSS_PT if pt else RSS_EN; grouped={section:[] for section in TARGET}; seen=set()
+    for section in TARGET:
+        for source,url in feeds[section]:
+            try: add(grouped[section],seen,parse(url,section,source,PRIMARY_HOURS,pt))
+            except Exception as error: print('feed',source,section,type(error).__name__,str(error)[:160])
+    if any(len(grouped[section])<TARGET[section] for section in TARGET):
+        for section in TARGET:
+            for source,url in feeds[section]:
+                try: add(grouped[section],seen,parse(url,section,source,FALLBACK_HOURS,pt))
+                except Exception as error: print('fallback',source,section,type(error).__name__,str(error)[:160])
+    missing={section:TARGET[section]-len(grouped[section]) for section in TARGET if len(grouped[section])<TARGET[section]}
+    if missing: raise SystemExit(f'Actualização {language} rejeitada: secções insuficientes {missing}.')
     selected=[]
-    for s,n in TARGET.items(): selected+=sorted(by[s],key=lambda x:x['published'],reverse=True)[:n]
-    pool=sorted([x for s in by for x in by[s] if x not in selected],key=lambda x:x['published'],reverse=True); selected+=pool[:max(0,14-len(selected))]
-    if len(selected)<MIN_NEWS: raise SystemExit(f'Atualização {lang} insuficiente: {len(selected)} notícias.')
-    selected=sorted(selected[:14],key=lambda x:x['published'],reverse=True)
-    p={'updated_at':datetime.now(timezone.utc).isoformat(),'language':lang,'window_hours':24,'fallback_hours':72,'items':selected,'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança','Tecnologia e IA'],'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento'],'generator':'GitHub Actions · Briefing Diário','section_counts':{s:sum(x['section']==s for x in selected) for s in TARGET}}
-    Path(f'docs/news-{lang}.json').write_text(json.dumps(p,ensure_ascii=False,indent=2),encoding='utf-8'); return p
+    for section,amount in TARGET.items():
+        chosen=[]; counts={}
+        for item in sorted(grouped[section],key=lambda value:value['published'],reverse=True):
+            if counts.get(item['source'],0)>=MAX_PER_SOURCE: continue
+            chosen.append(item); counts[item['source']]=counts.get(item['source'],0)+1
+            if len(chosen)==amount: break
+        for item in grouped[section]:
+            if len(chosen)==amount: break
+            if item not in chosen: chosen.append(item)
+        distinct_sources={item['source'] for item in chosen}
+        if len(distinct_sources)<2:
+            raise SystemExit(f'Actualização {language} rejeitada: {section} tem apenas {len(distinct_sources)} fonte distinta.')
+        selected.extend(chosen)
+    selected=sorted(selected,key=lambda value:value['published'],reverse=True)
+    payload={'updated_at':datetime.now(timezone.utc).isoformat(),'language':language,'window_hours':24,'fallback_hours':FALLBACK_HOURS,'items':selected,'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança','Tecnologia e IA'],'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento'],'generator':'GitHub Actions · Briefing Diário','section_counts':{section:sum(item['section']==section for item in selected) for section in TARGET}}
+    Path(f'docs/news-{language}.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
+    return payload
 
-pt=build('pt'); en=build('en'); Path('docs/news.json').write_text(json.dumps(pt,ensure_ascii=False,indent=2),encoding='utf-8'); print('PT',pt['section_counts'],len(pt['items']),'EN',en['section_counts'],len(en['items']))
+if __name__ == '__main__':
+    pt=build('pt'); en=build('en')
+    Path('docs/news.json').write_text(json.dumps(pt,ensure_ascii=False,indent=2),encoding='utf-8')
+    print('PT',pt['section_counts'],len(pt['items']),'EN',en['section_counts'],len(en['items']))
