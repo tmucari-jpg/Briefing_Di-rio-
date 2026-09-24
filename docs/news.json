@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:38:43.439403+00:00",
+  "updated_at": "2026-09-24T14:42:06.552432+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 96,
@@ -15,29 +15,11 @@
       "impact": "No caso de «Há 81 anos que humanidade escolheu a cooperação em vez de guerra – Chapo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM News",
       "published": "2026-09-24T14:14:24+00:00",
-      "age_hours": 0.4,
+      "age_hours": 0.5,
       "within_24h": true,
       "link": "https://aimnews.org/2026/09/24/ha-81-anos-que-humanidade-escolheu-a-cooperacao-em-vez-de-guerra-chapo/",
       "original_source": true,
-      "editorial_score": 12.92,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "IA"
-      ],
-      "title": "DOM JOÃO CARLOS: O jornalista deve ser “construtor de pontes”",
-      "summary": "O Arcebispo de Maputo, Dom João Carlos, refere que com o advento das tecnologias de comunicação e informação, do mundo digital, o… O conteúdo DOM JOÃO CARLOS: O jornalista deve ser “construtor de pontes” aparece primeiro em Jornal Notícias .",
-      "why": "«DOM JOÃO CARLOS: O jornalista deve ser “construtor de pontes”» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «DOM JOÃO CARLOS: O jornalista deve ser “construtor de pontes”», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-09-24T12:43:52+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://jornalnoticias.co.mz/destaque/dom-joao-carlos-o-jornalista-deve-ser-construtor-de-pontes/",
-      "original_source": true,
-      "editorial_score": 12.6,
+      "editorial_score": 12.9,
       "source_tier": "B"
     },
     {
@@ -51,29 +33,11 @@
       "impact": "No caso de «CFA Reconhece Três Novos Profissionais em Moçambique», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-09-24T10:30:00+00:00",
-      "age_hours": 4.1,
+      "age_hours": 4.2,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/09/24/desenvolvimento-2/cfa-reconhece-tres-novos-profissionais-em-mocambique/",
       "original_source": true,
-      "editorial_score": 12.15,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo lança coligação estratégica para financiar electrificação fora da rede até 2030",
-      "summary": "O Presidente da República, Daniel Francisco Chapo, anunciou em Nova Iorque, a intenção do Governo de criar uma coligação estratégica de financiamento destinada à electrificação fora da rede em Moçambique. O projecto, apresentado durante uma Mesa Redonda de Alto Nível, visa mobilizar recursos, reduzir riscos e transformar uma carteira de empreendimentos em investimentos financiáveis, de […] The post Governo lança coligação estratégica para financiar electrificação fora da rede até 2030 first appeared on O País - A verdade como notícia .",
-      "why": "«Governo lança coligação estratégica para financiar electrificação fora da rede até 2030» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Governo lança coligação estratégica para financiar electrificação fora da rede até 2030», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "O País",
-      "published": "2026-09-24T09:32:38+00:00",
-      "age_hours": 5.1,
-      "within_24h": true,
-      "link": "https://opais.co.mz/governo-lanca-coligacao-estrategica-para-financiar-electrificacao-fora-da-rede-ate-2030/",
-      "original_source": true,
-      "editorial_score": 11.94,
+      "editorial_score": 12.12,
       "source_tier": "B"
     },
     {
@@ -87,11 +51,11 @@
       "impact": "No caso de «IPEME e Clube de Petróleo reforçam apoio às PMEs no sector energético», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
       "published": "2026-09-24T13:37:55+00:00",
-      "age_hours": 1.0,
+      "age_hours": 1.1,
       "within_24h": true,
       "link": "https://opais.co.mz/ipeme-e-clube-de-petroleo-reforcam-apoio-as-pmes-no-sector-energetico/",
       "original_source": true,
-      "editorial_score": 11.79,
+      "editorial_score": 11.77,
       "source_tier": "B"
     },
     {
@@ -105,11 +69,11 @@
       "impact": "No caso de «Ministro da Economia pede aos portugueses para evitar consumir combustíveis sempre que possível», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "RTP Notícias",
       "published": "2026-09-24T14:18:25+00:00",
-      "age_hours": 0.3,
+      "age_hours": 0.4,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/economia/ministro-da-economia-pede-aos-portugueses-para-evitar-consumir-combustiveis-sempre-que-possivel_n1767488",
       "original_source": true,
-      "editorial_score": 10.94,
+      "editorial_score": 10.92,
       "source_tier": "A"
     },
     {
@@ -123,11 +87,11 @@
       "impact": "No caso de «Visita do papa a Paris obriga a operação de segurança com 15 mil agentes», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
       "published": "2026-09-24T13:35:48+00:00",
-      "age_hours": 1.0,
+      "age_hours": 1.1,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/visita-do-papa-a-paris-obriga-a-operacao-de-seguranca-com-15-mil-agentes_v1767473",
       "original_source": true,
-      "editorial_score": 10.79,
+      "editorial_score": 10.77,
       "source_tier": "A"
     },
     {
@@ -141,11 +105,11 @@
       "impact": "No caso de «Grupos armados no Tigray declaram \"guerra total\" contra a Etópia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-09-24T09:32:24+00:00",
-      "age_hours": 5.1,
+      "age_hours": 5.2,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/grupos-armados-no-tigray-declaram-guerra-total-contra-a-etopia_n1767427",
       "original_source": true,
-      "editorial_score": 9.94,
+      "editorial_score": 9.92,
       "source_tier": "A"
     },
     {
@@ -170,6 +134,25 @@
     {
       "section": "Moçambique",
       "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República",
+      "summary": "O Presidente da República, Daniel Francisco Chapo, e o Vice-Presidente da ExxonMobil Corporation e Presidente da ExxonMobil Upstream, Dan Ammann, reuniram-se esta quarta-feira, em Nova Iorque, para uma avaliação detalhada do progresso do projecto Rovuma LNG. A multinacional norte-americana indicou, no final do encontro, estar próxima da adopção da Decisão Final de Investimento para a […] The post ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República first appeared on O País - A verdade como notícia .",
+      "why": "«ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-09-24T08:13:44+00:00",
+      "age_hours": 6.5,
+      "within_24h": true,
+      "link": "https://opais.co.mz/exxonmobil-perto-de-adoptar-decisao-final-de-investimento-apos-encontro-com-o-presidente-da-republica/",
+      "original_source": true,
+      "editorial_score": 9.65,
+      "source_tier": "B"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
         "Segurança"
       ],
       "title": "PR Pede Apoio Internacional “Mais Previsível e Coordenado” Contra o Terrorismo",
@@ -178,48 +161,12 @@
       "impact": "No caso de «PR Pede Apoio Internacional “Mais Previsível e Coordenado” Contra o Terrorismo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-09-24T10:19:04+00:00",
-      "age_hours": 4.3,
+      "age_hours": 4.4,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/09/24/desenvolvimento-2/pr-pede-apoio-internacional-mais-previsivel-e-coordenado-contra-o-terrorismo/",
       "original_source": true,
-      "editorial_score": 9.1,
+      "editorial_score": 9.08,
       "source_tier": "B"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Partido da coligação do Governo vence eleições legislativas em Marrocos",
-      "summary": "O Partido da Autenticidade e Modernidade (PAM), membro da atual coligação governamental tripartida em Marrocos, venceu as eleições legislativas realizadas na quarta-feira, de acordo com os primeiros resultados provisórios.",
-      "why": "«Partido da coligação do Governo vence eleições legislativas em Marrocos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Partido da coligação do Governo vence eleições legislativas em Marrocos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "RTP Notícias",
-      "published": "2026-09-24T09:12:33+00:00",
-      "age_hours": 5.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/partido-da-coligacao-do-governo-vence-eleicoes-legislativas-em-marrocos_n1767417",
-      "original_source": true,
-      "editorial_score": 8.88,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Partido da coligação no poder lidera resultados eleitorais provisórios em Marrocos",
-      "summary": "O Partido Autenticidade e Modernidade (PAM), que faz parte da atual coligação governamental, conquistou o maior número de lugares nas eleições parlamentares de Marrocos, segundo os resultados provisórios anunciados hoje pelo Ministério do Interior.",
-      "why": "«Partido da coligação no poder lidera resultados eleitorais provisórios em Marrocos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Partido da coligação no poder lidera resultados eleitorais provisórios em Marrocos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "RTP Notícias",
-      "published": "2026-09-24T07:37:34+00:00",
-      "age_hours": 7.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/partido-da-coligacao-no-poder-lidera-resultados-eleitorais-provisorios-em-marrocos_n1767395",
-      "original_source": true,
-      "editorial_score": 8.54,
-      "source_tier": "A"
     },
     {
       "section": "África",
@@ -232,29 +179,11 @@
       "impact": "No caso de «Angola ressalta papel como mediadora da paz na África», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "ONU News",
       "published": "2026-09-22T12:00:00+00:00",
-      "age_hours": 50.6,
+      "age_hours": 50.7,
       "within_24h": false,
       "link": "https://news.un.org/feed/view/pt/story/2026/09/1854428",
       "original_source": true,
       "editorial_score": 6.67,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Entenda: 5 ameaças existenciais causadas pelo aumento do nível do mar",
-      "summary": "Avanço dos oceanos é provocado pelas mudanças climáticas; elevação das águas atingiu nível recorde em 2024; impactos globais incluem escassez de água potável, aumento da migração, países com perda total de território, prejuízos econômicos e ameaças de saúde pública.",
-      "why": "«Entenda: 5 ameaças existenciais causadas pelo aumento do nível do mar» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Entenda: 5 ameaças existenciais causadas pelo aumento do nível do mar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "ONU News",
-      "published": "2026-09-24T12:00:00+00:00",
-      "age_hours": 2.6,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854417",
-      "original_source": true,
-      "editorial_score": 6.46,
       "source_tier": "C"
     },
     {
@@ -268,11 +197,11 @@
       "impact": "No caso de «Multidões celebram o Dia Nacional saudita com bandeiras e desfile militar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-09-24T09:53:57+00:00",
-      "age_hours": 4.7,
+      "age_hours": 4.8,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/09/24/multidoes-celebram-o-dia-nacional-saudita-com-bandeiras-e-desfile-militar",
       "original_source": true,
-      "editorial_score": 6.02,
+      "editorial_score": 6.0,
       "source_tier": "C"
     },
     {
@@ -294,21 +223,21 @@
       "source_tier": "C"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Etiópia: rebeldes do Tigray tomam aeroporto e enfrentam forças federais",
-      "summary": "As forças da TPLF assumiram o controlo do aeroporto de Mekelle e enfrentaram tropas federais em dois pontos na região de Afar. A Ethiopian Airlines suspendeu voos para três aeroportos do Tigray, num aparente colapso do Acordo de Pretória, que pôs fim à guerra de 2020-2022",
-      "why": "«Etiópia: rebeldes do Tigray tomam aeroporto e enfrentam forças federais» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Etiópia: rebeldes do Tigray tomam aeroporto e enfrentam forças federais», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "title": "México enfrenta ondas fortes com a passagem do furacão Polo",
+      "summary": "À medida que o furacão Polo enfraquece para categoria 4, moradores de Lázaro Cárdenas e militares preparam-se para mais danos, reforçando o paredão marítimo de Playa Azul contra a forte rebentação",
+      "why": "«México enfrenta ondas fortes com a passagem do furacão Polo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «México enfrenta ondas fortes com a passagem do furacão Polo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-09-23T11:05:19+00:00",
-      "age_hours": 27.6,
-      "within_24h": false,
-      "link": "https://pt.euronews.com/2026/09/23/etiopia-rebeldes-do-tigray-tomam-aeroporto-e-enfrentam-forcas-federais",
+      "published": "2026-09-24T07:21:14+00:00",
+      "age_hours": 7.3,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/video/2026/09/24/mexico-enfrenta-ondas-fortes-com-a-passagem-do-furacao-polo",
       "original_source": true,
-      "editorial_score": 4.39,
+      "editorial_score": 5.48,
       "source_tier": "C"
     },
     {
@@ -348,8 +277,8 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Moçambique": 6,
-    "África": 6,
+    "Moçambique": 5,
+    "África": 3,
     "Mundo": 6
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte original + deduplicação + validação geográfica.",

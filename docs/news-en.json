@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:38:44.739106+00:00",
+  "updated_at": "2026-09-24T14:42:08.500589+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 96,
@@ -15,11 +15,11 @@
       "impact": "For «Mozambique’s ENH and Brazil’s Petrobras sign MoU to strengthen strategic partnership in oil and gas», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T13:26:27+00:00",
-      "age_hours": 1.2,
+      "age_hours": 1.3,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambiques-enh-and-brazils-petrobras-sign-mou-to-strengthen-strategic-partnership-in-oil-and-gas/",
       "original_source": true,
-      "editorial_score": 13.75,
+      "editorial_score": 13.73,
       "source_tier": "B"
     },
     {
@@ -52,30 +52,12 @@
       "impact": "For «BCI and HeartSeed launch ‘Lanches Solidários’ on Mozambique Island to help keep children in school», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T14:07:41+00:00",
-      "age_hours": 0.5,
+      "age_hours": 0.6,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/bci-and-heartseed-launch-lanches-solidarios-on-mozambique-island-to-help-keep-children-in-school/",
       "original_source": true,
-      "editorial_score": 12.9,
+      "editorial_score": 12.88,
       "source_tier": "B"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "How the Tigray war could spill across the Horn of Africa",
-      "summary": "Fighting has resumed in Ethiopia's Tigray region. In an interview with DW, Horn of Africa expert Martin Plaut warns of possible regional spillover.",
-      "why": "«How the Tigray war could spill across the Horn of Africa» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «How the Tigray war could spill across the Horn of Africa», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-09-24T13:59:00+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/how-the-tigray-war-could-spill-across-the-horn-of-africa/a-79410333?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "editorial_score": 12.85,
-      "source_tier": "A"
     },
     {
       "section": "Moçambique",
@@ -88,11 +70,11 @@
       "impact": "For «Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T13:13:36+00:00",
-      "age_hours": 1.4,
+      "age_hours": 1.5,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-seeks-private-investor-for-vehicle-assembly-plant-invites-expressions-of-interest/",
       "original_source": true,
-      "editorial_score": 12.71,
+      "editorial_score": 12.69,
       "source_tier": "B"
     },
     {
@@ -106,11 +88,11 @@
       "impact": "For «EU delegation meets new governor of Bank of Mozambique», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T11:12:16+00:00",
-      "age_hours": 3.4,
+      "age_hours": 3.5,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/eu-delegation-meets-new-governor-of-bank-of-mozambique/",
       "original_source": true,
-      "editorial_score": 12.29,
+      "editorial_score": 12.27,
       "source_tier": "B"
     },
     {
@@ -125,11 +107,11 @@
       "impact": "For «Israel offers cash to firms hit by trade ban; Europe dithers on new rules», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "Al Jazeera English",
       "published": "2026-09-24T13:42:05+00:00",
-      "age_hours": 0.9,
+      "age_hours": 1.0,
       "within_24h": true,
       "link": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
       "original_source": true,
-      "editorial_score": 11.81,
+      "editorial_score": 11.79,
       "source_tier": "A"
     },
     {
@@ -143,11 +125,11 @@
       "impact": "For «US-China talks on trade, AI between Trump, Xi beckon», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "DW English",
       "published": "2026-09-24T13:37:00+00:00",
-      "age_hours": 1.0,
+      "age_hours": 1.1,
       "within_24h": true,
       "link": "https://www.dw.com/en/us-china-talks-on-trade-ai-between-trump-xi-beckon/live-79404511?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "editorial_score": 11.79,
+      "editorial_score": 11.77,
       "source_tier": "A"
     },
     {
@@ -197,11 +179,11 @@
       "impact": "For «Has China received US F-35 parts by diverting an Australian shipment?», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
       "source": "Al Jazeera English",
       "published": "2026-09-24T13:36:22+00:00",
-      "age_hours": 1.0,
+      "age_hours": 1.1,
       "within_24h": true,
       "link": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
       "original_source": true,
-      "editorial_score": 10.79,
+      "editorial_score": 10.77,
       "source_tier": "A"
     },
     {
@@ -215,11 +197,11 @@
       "impact": "For «EU to condemn war in Ukraine at G20 even if Putin attends», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "DW English",
       "published": "2026-09-24T13:30:00+00:00",
-      "age_hours": 1.1,
+      "age_hours": 1.2,
       "within_24h": true,
       "link": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "editorial_score": 10.77,
+      "editorial_score": 10.75,
       "source_tier": "A"
     },
     {
@@ -251,11 +233,11 @@
       "impact": "For «Ethiopia's army says it has repelled attacks in first comment on fresh fighting», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-09-24T12:49:32+00:00",
-      "age_hours": 1.8,
+      "age_hours": 1.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "editorial_score": 10.62,
+      "editorial_score": 10.6,
       "source_tier": "A"
     },
     {
@@ -269,11 +251,11 @@
       "impact": "For «Belgium and Rwanda are talking again. Is DR Congo any closer to peace?», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "Al Jazeera English",
       "published": "2026-09-24T11:44:00+00:00",
-      "age_hours": 2.9,
+      "age_hours": 3.0,
       "within_24h": true,
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss",
       "original_source": true,
-      "editorial_score": 10.4,
+      "editorial_score": 10.38,
       "source_tier": "A"
     },
     {
@@ -305,11 +287,11 @@
       "impact": "For «Fighting widens across Ethiopia as Tigray clashes escalate», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "Al Jazeera English",
       "published": "2026-09-24T12:25:20+00:00",
-      "age_hours": 2.2,
+      "age_hours": 2.3,
       "within_24h": true,
       "link": "https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate?traffic_source=rss",
       "original_source": true,
-      "editorial_score": 9.54,
+      "editorial_score": 9.52,
       "source_tier": "A"
     },
     {
@@ -323,11 +305,29 @@
       "impact": "For «South Sudan's president dissolves government ahead of country's first elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-09-24T10:21:06+00:00",
-      "age_hours": 4.3,
+      "age_hours": 4.4,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "editorial_score": 9.1,
+      "editorial_score": 9.08,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Morocco: Center-right PAM leads in parliamentary election",
+      "summary": "PAM is part of Morocco's outgoing ruling coalition and was founded by an adviser to the king. The moderate Islamist Justice and Development Party surged amid increasing voter apathy.",
+      "why": "«Morocco: Center-right PAM leads in parliamentary election» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Morocco: Center-right PAM leads in parliamentary election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "source": "DW English",
+      "published": "2026-09-24T08:42:00+00:00",
+      "age_hours": 6.0,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/morocco-center-right-pam-leads-in-parliamentary-election/a-79407710?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "editorial_score": 8.75,
       "source_tier": "A"
     }
   ],
