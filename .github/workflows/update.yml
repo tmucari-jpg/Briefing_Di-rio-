@@ -1,4 +1,4 @@
-name: Briefing Diário — Atualizar notícias
+name: Briefing Diário — Actualizar notícias
 
 on:
   push:
@@ -21,7 +21,7 @@ permissions:
 
 jobs:
   update:
-    name: Atualizar Briefing Diário
+    name: Actualizar Briefing Diário
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
@@ -37,7 +37,7 @@ jobs:
       - name: Instalar dependências
         run: pip install feedparser
 
-      - name: Atualizar notícias
+      - name: Actualizar notícias
         env:
           TZ: Africa/Maputo
         run: python scripts/update_news.py
@@ -47,7 +47,7 @@ jobs:
           TZ: Africa/Maputo
         run: python scripts/editorial_quality.py
 
-      - name: Atualizar radar de oportunidades
+      - name: Actualizar radar de oportunidades
         env:
           TZ: Africa/Maputo
         run: python scripts/update_opportunities.py
@@ -82,24 +82,24 @@ jobs:
                   f'{ficheiro}: formato de notícias inválido'
               )
 
-              assert quantidade >= 10, (
-                  f'{ficheiro}: foram encontradas apenas '
-                  f'{quantidade} notícias. O mínimo é 10.'
+              assert quantidade == 10, (
+                  f'{ficheiro}: foram encontradas '
+                  f'{quantidade} notícias. São exigidas exactamente 10.'
               )
 
-              assert contagens.get('Mundo', 0) >= 4, (
-                  f'{ficheiro}: são necessárias pelo menos '
-                  '4 notícias da secção Mundo'
+              assert contagens.get('Moçambique', 0) == 4, (
+                  f'{ficheiro}: são exigidas exactamente '
+                  '4 notícias da secção Moçambique'
               )
 
-              assert contagens.get('África', 0) >= 2, (
-                  f'{ficheiro}: são necessárias pelo menos '
-                  '2 notícias da secção África'
+              assert contagens.get('África', 0) == 3, (
+                  f'{ficheiro}: são exigidas exactamente '
+                  '3 notícias da secção África'
               )
 
-              assert contagens.get('Moçambique', 0) >= 2, (
-                  f'{ficheiro}: são necessárias pelo menos '
-                  '2 notícias da secção Moçambique'
+              assert contagens.get('Mundo', 0) == 3, (
+                  f'{ficheiro}: são exigidas exactamente '
+                  '3 notícias da secção Mundo'
               )
 
               titulos = [
@@ -146,6 +146,16 @@ jobs:
                       f'na notícia {indice}'
                   )
 
+                  assert 'news.google.com' not in link.lower(), (
+                      f'{ficheiro}: notícia {indice} aponta para '
+                      'o Google News em vez da fonte original'
+                  )
+
+                  assert noticia.get('original_source') is True, (
+                      f'{ficheiro}: fonte original não validada '
+                      f'na notícia {indice}'
+                  )
+
               print(
                   f'{ficheiro}: {quantidade} notícias válidas '
                   f'· {contagens}'
@@ -173,6 +183,15 @@ jobs:
                   f'{ficheiro}: formato de oportunidades inválido'
               )
 
+              titulos = [
+                  oportunidade.get('title', '').strip().lower()
+                  for oportunidade in oportunidades
+              ]
+
+              assert len(titulos) == len(set(titulos)), (
+                  f'{ficheiro}: existem oportunidades duplicadas'
+              )
+
               campos_obrigatorios = (
                   'title',
                   'summary',
@@ -180,6 +199,13 @@ jobs:
                   'source',
                   'link',
                   'published',
+                  'section',
+                  'entity',
+                  'deadline',
+                  'eligibility',
+                  'action',
+                  'verification_status',
+                  'actionability_score',
               )
 
               for indice, oportunidade in enumerate(
@@ -191,6 +217,19 @@ jobs:
                           f'{ficheiro}: oportunidade {indice} '
                           f'sem o campo {campo}'
                       )
+
+                  link = oportunidade.get('link', '')
+                  assert link.startswith(('http://', 'https://')), (
+                      f'{ficheiro}: link inválido na oportunidade {indice}'
+                  )
+                  assert 'news.google.com' not in link.lower(), (
+                      f'{ficheiro}: oportunidade {indice} aponta para '
+                      'o Google News em vez da fonte original'
+                  )
+                  assert oportunidade.get('original_source') is True, (
+                      f'{ficheiro}: fonte original não validada '
+                      f'na oportunidade {indice}'
+                  )
 
               print(
                   f'{ficheiro}: '
@@ -278,11 +317,11 @@ jobs:
             echo 'Não foram encontradas alterações.'
           else
             git commit \
-              -m 'chore: atualizar briefing e radar de oportunidades'
+              -m 'chore: actualizar briefing e radar de oportunidades'
             git push
           fi
 
-      - name: Registar atividade dos agentes no painel
+      - name: Registar actividade dos agentes no painel
         if: always()
         continue-on-error: true
         env:
@@ -382,7 +421,7 @@ jobs:
           try:
               with urlopen(pedido, timeout=30) as resposta:
                   print(
-                      'Atividade dos agentes registada: '
+                      'Actividade dos agentes registada: '
                       f'HTTP {resposta.status}'
                   )
 
@@ -408,4 +447,4 @@ jobs:
 # Conteúdo em português e inglês.
 # Notícias de Moçambique, África e Mundo.
 # Radar de oportunidades com janela móvel de sete dias.
-# Atividade dos agentes registada no painel administrativo.
+# Actividade dos agentes registada no painel administrativo.
