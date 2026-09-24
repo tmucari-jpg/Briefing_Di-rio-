@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:42:06.552432+00:00",
+  "updated_at": "2026-09-24T18:51:24.227117+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 96,
@@ -7,37 +7,20 @@
     {
       "section": "Moçambique",
       "tags": [
+        "Economia",
         "Segurança"
       ],
-      "title": "Há 81 anos que humanidade escolheu a cooperação em vez de guerra – Chapo",
-      "summary": "Maputo, 24 Set (AIM) – O Presidente moçambicano, Daniel Chapo, disse que há 81 anos, perante a devastação",
-      "why": "«Há 81 anos que humanidade escolheu a cooperação em vez de guerra – Chapo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Há 81 anos que humanidade escolheu a cooperação em vez de guerra – Chapo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM News",
-      "published": "2026-09-24T14:14:24+00:00",
-      "age_hours": 0.5,
+      "title": "Persiste venda informal nas avenidas da Cidade de Maputo",
+      "summary": "Persiste a venda informal em avenidas consideradas protocolares na Cidade de Maputo. Entretanto, alguns pontos antes dominados pelo comércio informal estão a ser policiados para evitar que os “informais” voltem a ocupar. A Avenida 24 de Julho, no entroncamento com a Guerra Popular, cidade de Maputo, anda diferente, principalmente nas primeiras horas. Quem por lá […] The post Persiste venda informal nas avenidas da Cidade de Maputo first appeared on O País - A verdade como notícia .",
+      "why": "«Persiste venda informal nas avenidas da Cidade de Maputo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Persiste venda informal nas avenidas da Cidade de Maputo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "O País",
+      "published": "2026-09-24T17:22:14+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/09/24/ha-81-anos-que-humanidade-escolheu-a-cooperacao-em-vez-de-guerra-chapo/",
+      "link": "https://opais.co.mz/persiste-venda-informal-nas-avenidas-da-cidade-de-maputo/",
       "original_source": true,
-      "editorial_score": 12.9,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "CFA Reconhece Três Novos Profissionais em Moçambique",
-      "summary": "O número de profissionais moçambicanos com certificação Chartered Financial Analyst (CFA) triplicou, passando de três para nove, segundo dados apresentados na primeira CFA Charter Award Ceremony realizada no País. O […] The post CFA Reconhece Três Novos Profissionais em Moçambique appeared first on Diário Económico .",
-      "why": "«CFA Reconhece Três Novos Profissionais em Moçambique» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «CFA Reconhece Três Novos Profissionais em Moçambique», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-09-24T10:30:00+00:00",
-      "age_hours": 4.2,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/09/24/desenvolvimento-2/cfa-reconhece-tres-novos-profissionais-em-mocambique/",
-      "original_source": true,
-      "editorial_score": 12.12,
+      "editorial_score": 12.69,
       "source_tier": "B"
     },
     {
@@ -45,17 +28,35 @@
       "tags": [
         "Energia"
       ],
-      "title": "IPEME e Clube de Petróleo reforçam apoio às PMEs no sector energético",
-      "summary": "O Clube de Petróleo e o Instituto para a Promoção das Pequenas e Médias Empresas (IPEME) passam a trabalhar em conjunto para impulsionar o sector energético nacional. As duas instituições formalizaram, nesta quinta-feira, em Maputo, um acordo de cooperação para o fortalecimento das Pequenas e Médias Empresas (PME´s), com enfoque na facilitação do seu acesso […] The post IPEME e Clube de Petróleo reforçam apoio às PMEs no sector energético first appeared on O País - A verdade como notícia .",
-      "why": "«IPEME e Clube de Petróleo reforçam apoio às PMEs no sector energético» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «IPEME e Clube de Petróleo reforçam apoio às PMEs no sector energético», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-09-24T13:37:55+00:00",
-      "age_hours": 1.1,
+      "title": "Área 4: AT e Eni Alinham Procedimentos Aduaneiros",
+      "summary": "A Autoridade Tributária de Moçambique (AT) e a petrolífera italiana Eni harmonizaram os procedimentos aduaneiros aplicáveis às operações de petróleo e gás na Área 4 da bacia do Rovuma, com […] The post Área 4: AT e Eni Alinham Procedimentos Aduaneiros appeared first on Diário Económico .",
+      "why": "«Área 4: AT e Eni Alinham Procedimentos Aduaneiros» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Área 4: AT e Eni Alinham Procedimentos Aduaneiros», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-09-24T13:45:00+00:00",
+      "age_hours": 5.1,
       "within_24h": true,
-      "link": "https://opais.co.mz/ipeme-e-clube-de-petroleo-reforcam-apoio-as-pmes-no-sector-energetico/",
+      "link": "https://www.diarioeconomico.co.mz/2026/09/24/oilgas/area-4-at-e-eni-alinham-procedimentos-aduaneiros/",
       "original_source": true,
-      "editorial_score": 11.77,
+      "editorial_score": 11.94,
+      "source_tier": "B"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo e parceiros lançam quarta fase do Programa de Boa Governação Financeira",
+      "summary": "Maputo, 24 Set (AIM) – O Governo moçambicano e parceiros de cooperação lançaram hoje (24), em Maputo, a",
+      "why": "«Governo e parceiros lançam quarta fase do Programa de Boa Governação Financeira» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo e parceiros lançam quarta fase do Programa de Boa Governação Financeira», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM News",
+      "published": "2026-09-24T15:37:36+00:00",
+      "age_hours": 3.2,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/09/24/governo-e-parceiros-lancam-quarta-fase-do-programa-de-boa-governacao-financeira/",
+      "original_source": true,
+      "editorial_score": 11.33,
       "source_tier": "B"
     },
     {
@@ -69,29 +70,65 @@
       "impact": "No caso de «Ministro da Economia pede aos portugueses para evitar consumir combustíveis sempre que possível», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "RTP Notícias",
       "published": "2026-09-24T14:18:25+00:00",
-      "age_hours": 0.4,
+      "age_hours": 4.5,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/economia/ministro-da-economia-pede-aos-portugueses-para-evitar-consumir-combustiveis-sempre-que-possivel_n1767488",
       "original_source": true,
-      "editorial_score": 10.92,
+      "editorial_score": 10.06,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Visita do papa a Paris obriga a operação de segurança com 15 mil agentes",
-      "summary": "O sumo pontífice da Igreja Católica viaja para Paris esta sexta-feira. Leão XIV vai estar em França até segunda-feira com medidas de segurança reforçada, que envolvem 15 mil agentes.",
-      "why": "«Visita do papa a Paris obriga a operação de segurança com 15 mil agentes» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Visita do papa a Paris obriga a operação de segurança com 15 mil agentes», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Governo de Meloni aprova decreto que limita número de estrangeiros por sala de aula",
+      "summary": "O Governo italiano de direita radical, liderado por Giorgia Meloni, aprovou hoje o decreto-lei que limita o número máximo de alunos estrangeiros por sala de aula e introduz a proibição da burca e do `hijab` nas instituições de ensino.",
+      "why": "«Governo de Meloni aprova decreto que limita número de estrangeiros por sala de aula» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo de Meloni aprova decreto que limita número de estrangeiros por sala de aula», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-09-24T13:35:48+00:00",
-      "age_hours": 1.1,
+      "published": "2026-09-24T18:47:00+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/visita-do-papa-a-paris-obriga-a-operacao-de-seguranca-com-15-mil-agentes_v1767473",
+      "link": "https://www.rtp.pt/noticias/mundo/governo-de-meloni-aprova-decreto-que-limita-numero-de-estrangeiros-por-sala-de-aula_n1767538",
       "original_source": true,
-      "editorial_score": 10.77,
+      "editorial_score": 9.98,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Cerca de 5 mil pessoas passam a ter acesso à energia eléctrica em Marara",
+      "summary": "Cerca de cinco mil pessoas passaram a ter acesso à energia eléctrica no distrito de Marara, em Tete, após a inauguração de uma linha de média tensão na comunidade de Nhambalale. A infra-estrutura, com uma extensão de cerca de 18 quilómetros e capacidade de 33 quilovolts, foi inaugurada na terça-feira pela Secretária de Estado na […] The post Cerca de 5 mil pessoas passam a ter acesso à energia eléctrica em Marara first appeared on O País - A verdade como notícia .",
+      "why": "«Cerca de 5 mil pessoas passam a ter acesso à energia eléctrica em Marara» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Cerca de 5 mil pessoas passam a ter acesso à energia eléctrica em Marara», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-09-24T18:24:05+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://opais.co.mz/cerca-de-5-mil-pessoas-passam-a-ter-acesso-a-energia-electrica-em-marara/",
+      "original_source": true,
+      "editorial_score": 9.9,
+      "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Trump e Xi Jinping discutem IA e outros \"temas quentes\" em Washington",
+      "summary": "Donald Trump recebeu o presidente chinês, Xi Jinping, que faz a sua primeira visita oficial à Casa Branca desde 2015. Num discurso inicial, os líderes saudaram a relação de \"amizade verdadeiramente fantástica\" que mantêm e mostraram-se empenhados em debater \"temas quentes\", entre os quais o desenvolvimento da inteligência artificial.",
+      "why": "«Trump e Xi Jinping discutem IA e outros \"temas quentes\" em Washington» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Trump e Xi Jinping discutem IA e outros \"temas quentes\" em Washington», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-09-24T17:19:35+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/trump-e-xi-jinping-discutem-ia-e-outros-temas-quentes-em-washington_n1767518",
+      "original_source": true,
+      "editorial_score": 9.69,
       "source_tier": "A"
     },
     {
@@ -105,68 +142,30 @@
       "impact": "No caso de «Grupos armados no Tigray declaram \"guerra total\" contra a Etópia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-09-24T09:32:24+00:00",
-      "age_hours": 5.2,
+      "age_hours": 9.3,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/grupos-armados-no-tigray-declaram-guerra-total-contra-a-etopia_n1767427",
       "original_source": true,
-      "editorial_score": 9.92,
+      "editorial_score": 9.06,
       "source_tier": "A"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "title": "\"Calendário exigente\". Seguro renovou convite a Leão XIV para visitar Portugal",
-      "summary": "O presidente português e o papa estiveram reunidos cerca de 45 minutos e falaram dos conflitos globais, da Inteligência Artificial e da possibilidade de uma visita de Leão XIV a Portugal no próximo ano.",
-      "why": "«\"Calendário exigente\". Seguro renovou convite a Leão XIV para visitar Portugal» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «\"Calendário exigente\". Seguro renovou convite a Leão XIV para visitar Portugal», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-09-24T13:58:48+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/calendario-exigente-seguro-renovou-convite-a-leao-xiv-para-visitar-portugal_n1767478",
-      "original_source": true,
-      "editorial_score": 9.85,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
         "Economia"
       ],
-      "title": "ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República",
-      "summary": "O Presidente da República, Daniel Francisco Chapo, e o Vice-Presidente da ExxonMobil Corporation e Presidente da ExxonMobil Upstream, Dan Ammann, reuniram-se esta quarta-feira, em Nova Iorque, para uma avaliação detalhada do progresso do projecto Rovuma LNG. A multinacional norte-americana indicou, no final do encontro, estar próxima da adopção da Decisão Final de Investimento para a […] The post ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República first appeared on O País - A verdade como notícia .",
-      "why": "«ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-09-24T08:13:44+00:00",
-      "age_hours": 6.5,
+      "title": "Partido da coligação do Governo vence eleições legislativas em Marrocos",
+      "summary": "O Partido da Autenticidade e Modernidade (PAM), membro da atual coligação governamental tripartida em Marrocos, venceu as eleições legislativas realizadas na quarta-feira, de acordo com os primeiros resultados provisórios.",
+      "why": "«Partido da coligação do Governo vence eleições legislativas em Marrocos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Partido da coligação do Governo vence eleições legislativas em Marrocos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "source": "RTP Notícias",
+      "published": "2026-09-24T09:12:33+00:00",
+      "age_hours": 9.6,
       "within_24h": true,
-      "link": "https://opais.co.mz/exxonmobil-perto-de-adoptar-decisao-final-de-investimento-apos-encontro-com-o-presidente-da-republica/",
+      "link": "https://www.rtp.pt/noticias/mundo/partido-da-coligacao-do-governo-vence-eleicoes-legislativas-em-marrocos_n1767417",
       "original_source": true,
-      "editorial_score": 9.65,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "PR Pede Apoio Internacional “Mais Previsível e Coordenado” Contra o Terrorismo",
-      "summary": "O Presidente da República (PR), Daniel Chapo, pediu, na 81.ª Assembleia-Geral das Nações Unidas (ONU), um apoio internacional “mais previsível e coordenado” para consolidar a segurança, a estabilização, a reconstrução […] The post PR Pede Apoio Internacional “Mais Previsível e Coordenado” Contra o Terrorismo appeared first on Diário Económico .",
-      "why": "«PR Pede Apoio Internacional “Mais Previsível e Coordenado” Contra o Terrorismo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «PR Pede Apoio Internacional “Mais Previsível e Coordenado” Contra o Terrorismo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-09-24T10:19:04+00:00",
-      "age_hours": 4.4,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/09/24/desenvolvimento-2/pr-pede-apoio-internacional-mais-previsivel-e-coordenado-contra-o-terrorismo/",
-      "original_source": true,
-      "editorial_score": 9.08,
-      "source_tier": "B"
+      "editorial_score": 8.0,
+      "source_tier": "A"
     },
     {
       "section": "África",
@@ -179,11 +178,29 @@
       "impact": "No caso de «Angola ressalta papel como mediadora da paz na África», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "ONU News",
       "published": "2026-09-22T12:00:00+00:00",
-      "age_hours": 50.7,
+      "age_hours": 54.9,
       "within_24h": false,
       "link": "https://news.un.org/feed/view/pt/story/2026/09/1854428",
       "original_source": true,
-      "editorial_score": 6.67,
+      "editorial_score": 6.53,
+      "source_tier": "C"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Entenda: 5 ameaças existenciais causadas pelo aumento do nível do mar",
+      "summary": "Avanço dos oceanos é provocado pelas mudanças climáticas; elevação das águas atingiu nível recorde em 2024; impactos globais incluem escassez de água potável, aumento da migração, países com perda total de território, prejuízos econômicos e ameaças de saúde pública.",
+      "why": "«Entenda: 5 ameaças existenciais causadas pelo aumento do nível do mar» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Entenda: 5 ameaças existenciais causadas pelo aumento do nível do mar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "ONU News",
+      "published": "2026-09-24T12:00:00+00:00",
+      "age_hours": 6.9,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/09/1854417",
+      "original_source": true,
+      "editorial_score": 5.56,
       "source_tier": "C"
     },
     {
@@ -197,11 +214,11 @@
       "impact": "No caso de «Multidões celebram o Dia Nacional saudita com bandeiras e desfile militar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-09-24T09:53:57+00:00",
-      "age_hours": 4.8,
+      "age_hours": 9.0,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/09/24/multidoes-celebram-o-dia-nacional-saudita-com-bandeiras-e-desfile-militar",
       "original_source": true,
-      "editorial_score": 6.0,
+      "editorial_score": 5.12,
       "source_tier": "C"
     },
     {
@@ -215,47 +232,11 @@
       "impact": "No caso de «EUA admitem oito tentativas de suicídio em porta-aviões em missão sem precedentes no Médio Oriente», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-09-24T09:09:16+00:00",
-      "age_hours": 5.5,
+      "age_hours": 9.7,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/09/24/eua-admitem-oito-tentativas-de-suicidio-em-porta-avioes-em-missao-sem-precedentes-no-medio",
       "original_source": true,
-      "editorial_score": 5.85,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "México enfrenta ondas fortes com a passagem do furacão Polo",
-      "summary": "À medida que o furacão Polo enfraquece para categoria 4, moradores de Lázaro Cárdenas e militares preparam-se para mais danos, reforçando o paredão marítimo de Playa Azul contra a forte rebentação",
-      "why": "«México enfrenta ondas fortes com a passagem do furacão Polo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «México enfrenta ondas fortes com a passagem do furacão Polo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-09-24T07:21:14+00:00",
-      "age_hours": 7.3,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/09/24/mexico-enfrenta-ondas-fortes-com-a-passagem-do-furacao-polo",
-      "original_source": true,
-      "editorial_score": 5.48,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Marrocos elege novo parlamento entre esperança e receios com custo de vida",
-      "summary": "Expectativas e receios sobre emprego, salários, serviços públicos e custo de vida marcam as legislativas em Marrocos, numa altura em que o país se prepara para o Mundial 2030.",
-      "why": "«Marrocos elege novo parlamento entre esperança e receios com custo de vida» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
-      "impact": "No caso de «Marrocos elege novo parlamento entre esperança e receios com custo de vida», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Euronews Português",
-      "published": "2026-09-23T18:05:01+00:00",
-      "age_hours": 20.6,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/09/23/marrocos-elege-novo-parlamento-entre-esperanca-e-receios-com-custo-de-vida",
-      "original_source": true,
-      "editorial_score": 3.71,
+      "editorial_score": 4.98,
       "source_tier": "C"
     }
   ],
@@ -277,7 +258,7 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Moçambique": 5,
+    "Moçambique": 4,
     "África": 3,
     "Mundo": 6
   },

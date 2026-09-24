@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:42:08.500589+00:00",
+  "updated_at": "2026-09-24T18:51:25.930164+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 96,
@@ -15,11 +15,11 @@
       "impact": "For «Mozambique’s ENH and Brazil’s Petrobras sign MoU to strengthen strategic partnership in oil and gas», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T13:26:27+00:00",
-      "age_hours": 1.3,
+      "age_hours": 5.4,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambiques-enh-and-brazils-petrobras-sign-mou-to-strengthen-strategic-partnership-in-oil-and-gas/",
       "original_source": true,
-      "editorial_score": 13.73,
+      "editorial_score": 12.88,
       "source_tier": "B"
     },
     {
@@ -34,11 +34,11 @@
       "impact": "For «Mozambique is moving towards the creation of a Strategic Coalition for Financing Off-Grid Electrification», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T12:23:38+00:00",
-      "age_hours": 2.3,
+      "age_hours": 6.5,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-is-moving-towards-the-creation-of-a-strategic-coalition-for-financing-off-grid-electrification/",
       "original_source": true,
-      "editorial_score": 13.52,
+      "editorial_score": 12.65,
       "source_tier": "B"
     },
     {
@@ -52,12 +52,31 @@
       "impact": "For «BCI and HeartSeed launch ‘Lanches Solidários’ on Mozambique Island to help keep children in school», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T14:07:41+00:00",
-      "age_hours": 0.6,
+      "age_hours": 4.7,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/bci-and-heartseed-launch-lanches-solidarios-on-mozambique-island-to-help-keep-children-in-school/",
       "original_source": true,
-      "editorial_score": 12.88,
+      "editorial_score": 12.02,
       "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "US and China presidents discuss cooperation, trade and AI risks",
+      "summary": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
+      "why": "«US and China presidents discuss cooperation, trade and AI risks» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «US and China presidents discuss cooperation, trade and AI risks», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-24T18:19:01+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks?traffic_source=rss",
+      "original_source": true,
+      "editorial_score": 11.9,
+      "source_tier": "A"
     },
     {
       "section": "Moçambique",
@@ -70,12 +89,50 @@
       "impact": "For «Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T13:13:36+00:00",
-      "age_hours": 1.5,
+      "age_hours": 5.6,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-seeks-private-investor-for-vehicle-assembly-plant-invites-expressions-of-interest/",
       "original_source": true,
-      "editorial_score": 12.69,
+      "editorial_score": 11.83,
       "source_tier": "B"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Collapsing currency and inflation leave families struggling in Sudan",
+      "summary": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.",
+      "why": "«Collapsing currency and inflation leave families struggling in Sudan» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Collapsing currency and inflation leave families struggling in Sudan», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-24T17:03:55+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
+      "original_source": true,
+      "editorial_score": 11.62,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "After several difficult years, economists now expect German economy to grow",
+      "summary": "Germany's economy is growing again, but recovery remains on shaky ground. High government spending is keeping the economy afloat, while energy prices, a shortage of skilled workers and debt continue to weigh on it.",
+      "why": "«After several difficult years, economists now expect German economy to grow» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «After several difficult years, economists now expect German economy to grow», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-09-24T17:04:00+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "editorial_score": 11.62,
+      "source_tier": "A"
     },
     {
       "section": "Moçambique",
@@ -88,48 +145,83 @@
       "impact": "For «EU delegation meets new governor of Bank of Mozambique», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T11:12:16+00:00",
-      "age_hours": 3.5,
+      "age_hours": 7.7,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/eu-delegation-meets-new-governor-of-bank-of-mozambique/",
       "original_source": true,
-      "editorial_score": 12.27,
+      "editorial_score": 11.4,
       "source_tier": "B"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "Economia",
         "Segurança"
       ],
-      "title": "Israel offers cash to firms hit by trade ban; Europe dithers on new rules",
-      "summary": "Israel hopes to redirect goods from illegal Israeli settlements towards markets in Asia and South America.",
-      "why": "«Israel offers cash to firms hit by trade ban; Europe dithers on new rules» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Israel offers cash to firms hit by trade ban; Europe dithers on new rules», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T13:42:05+00:00",
-      "age_hours": 1.0,
+      "title": "Ethiopia's military says it killed hundreds of TPLF rebels",
+      "summary": "The TPLF fought against against the Ethiopian military from 2020 to 2022 in a conflict that saw hundreds of thousands of civilians killed. A resumption of fighting has sparked fears of another brutal war.",
+      "why": "«Ethiopia's military says it killed hundreds of TPLF rebels» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Ethiopia's military says it killed hundreds of TPLF rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "DW English",
+      "published": "2026-09-24T18:37:00+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/24/israel-offers-cash-to-firms-hit-by-trade-ban-europe-dithers-on-new-rules?traffic_source=rss",
+      "link": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "editorial_score": 11.79,
+      "editorial_score": 10.96,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Ethiopian army says 272 Tigrayan fighters killed in Amhara",
+      "summary": "Tigray People’s Liberation Front says in a 'situation of full-blown war' with Ethiopia's government.",
+      "why": "«Ethiopian army says 272 Tigrayan fighters killed in Amhara» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Ethiopian army says 272 Tigrayan fighters killed in Amhara», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-24T18:19:03+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/24/ethiopian-army-says-272-tigrayan-fighters-killed-as-conflict-escalates?traffic_source=rss",
+      "original_source": true,
+      "editorial_score": 10.9,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
+      "summary": "Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019.",
+      "why": "«Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction» matters because it may change energy and investment decisions affecting África.",
+      "impact": "For «Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-24T18:13:32+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
+      "original_source": true,
+      "editorial_score": 10.88,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "US-China talks on trade, AI between Trump, Xi beckon",
-      "summary": "The presidents of the world's two largest economies are in Washington for what Donald Trump has billed a \"big day.\" Bilateral trade, AI and geopolitics are all on the menu. Follow DW for the latest.",
-      "why": "«US-China talks on trade, AI between Trump, Xi beckon» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «US-China talks on trade, AI between Trump, Xi beckon», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "DW English",
-      "published": "2026-09-24T13:37:00+00:00",
+      "title": "Iranian-American group sues Trump over war",
+      "summary": "Plaintiffs have families in Iran who have been harmed by the US war, they say.",
+      "why": "«Iranian-American group sues Trump over war» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Iranian-American group sues Trump over war», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-24T17:45:52+00:00",
       "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://www.dw.com/en/us-china-talks-on-trade-ai-between-trump-xi-beckon/live-79404511?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss",
       "original_source": true,
-      "editorial_score": 11.77,
+      "editorial_score": 10.77,
       "source_tier": "A"
     },
     {
@@ -143,11 +235,11 @@
       "impact": "For «Private sector crucial for diversification of economy – Chapo», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "AIM News",
       "published": "2026-09-24T07:45:42+00:00",
-      "age_hours": 6.9,
+      "age_hours": 11.1,
       "within_24h": true,
       "link": "https://aimnews.org/2026/09/24/private-sector-crucial-for-diversification-of-economy-chapo/",
       "original_source": true,
-      "editorial_score": 11.56,
+      "editorial_score": 10.69,
       "source_tier": "B"
     },
     {
@@ -155,35 +247,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?",
-      "summary": "US secretary of state's warning comes after he and Trump met the Iraqi PM on the sidelines of the UNGA.",
-      "why": "«Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Rubio warns of Iraq ‘Balkanisation’: Is that a real threat?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "title": "Jerusalem Daily: Ben-Gvir sets out bid to become defence minister",
+      "summary": "In October elections, Israel’s national security minister Itamar Ben-Gvir is hoping to become defence minister.",
+      "why": "«Jerusalem Daily: Ben-Gvir sets out bid to become defence minister» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Jerusalem Daily: Ben-Gvir sets out bid to become defence minister», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-09-24T14:04:43+00:00",
-      "age_hours": 0.6,
+      "published": "2026-09-24T17:08:50+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/jerusalem-daily-ben-gvir-sets-out-bid-to-become-defence-minister?traffic_source=rss",
       "original_source": true,
-      "editorial_score": 10.88,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Has China received US F-35 parts by diverting an Australian shipment?",
-      "summary": "Australia and US investigate F-35 parts mistakenly sent to Hong Kong amid concerns over sensitive military technology.",
-      "why": "«Has China received US F-35 parts by diverting an Australian shipment?» points to a concrete change in the adoption, regulation or use of technology.",
-      "impact": "For «Has China received US F-35 parts by diverting an Australian shipment?», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T13:36:22+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/24/has-china-received-us-f-35-parts-by-diverting-an-australian-shipment?traffic_source=rss",
-      "original_source": true,
-      "editorial_score": 10.77,
+      "editorial_score": 10.65,
       "source_tier": "A"
     },
     {
@@ -191,35 +265,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "EU to condemn war in Ukraine at G20 even if Putin attends",
-      "summary": "Russian President Vladimir Putin has been invited to the G20 summit in Miami by the United States. Multiple members of the group have called for Moscow's exclusion over its invasion of Ukraine.",
-      "why": "«EU to condemn war in Ukraine at G20 even if Putin attends» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «EU to condemn war in Ukraine at G20 even if Putin attends», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-09-24T13:30:00+00:00",
-      "age_hours": 1.2,
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
+      "why": "«Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-09-24T16:00:29+00:00",
+      "age_hours": 2.8,
       "within_24h": true,
-      "link": "https://www.dw.com/en/eu-to-condemn-war-in-ukraine-at-g20-even-if-putin-attends/a-79413317?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "editorial_score": 10.75,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "AI systems shifted their answers toward both left- and right-leaning users in a study. Could sycophantic chatbots deepen political divides?",
-      "summary": "A study shows chatbots mirror users' politics, part of a broader tendency known as AI sycophancy. Researchers fear this could deepen polarization.",
-      "why": "«AI systems shifted their answers toward both left- and right-leaning users in a study. Could sycophantic…» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «AI systems shifted their answers toward both left- and right-leaning users in a study. Could sycophantic…», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-09-24T13:10:00+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/ai-systems-shifted-their-answers-toward-both-left-and-right-leaning-users-in-a-study-could-sycophantic-chatbots-deepen-political-divides/a-79377894?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "editorial_score": 10.69,
+      "editorial_score": 10.42,
       "source_tier": "A"
     },
     {
@@ -232,66 +288,30 @@
       "why": "«Ethiopia's army says it has repelled attacks in first comment on fresh fighting» deserves attention because it may change political, diplomatic or security risks.",
       "impact": "For «Ethiopia's army says it has repelled attacks in first comment on fresh fighting», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
-      "published": "2026-09-24T12:49:32+00:00",
-      "age_hours": 1.9,
+      "published": "2026-09-24T15:37:45+00:00",
+      "age_hours": 3.2,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "editorial_score": 10.6,
+      "editorial_score": 10.33,
       "source_tier": "A"
     },
     {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Belgium and Rwanda are talking again. Is DR Congo any closer to peace?",
-      "summary": "Belgium and Rwanda have restored diplomatic relations after an 18-month rupture over the war in eastern DR Congo.",
-      "why": "«Belgium and Rwanda are talking again. Is DR Congo any closer to peace?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Belgium and Rwanda are talking again. Is DR Congo any closer to peace?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T11:44:00+00:00",
-      "age_hours": 3.0,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/belgium-and-rwanda-are-talking-again-is-dr-congo-any-closer-to-peace?traffic_source=rss",
-      "original_source": true,
-      "editorial_score": 10.38,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Morocco’s elections: Fragmentation, disengagement and PJD’s major comeback",
-      "summary": "PAM leads as the PJD quadruples its seats and turnout hits its second-lowest level under King Mohammed VI.",
-      "why": "«Morocco’s elections: Fragmentation, disengagement and PJD’s major comeback» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Morocco’s elections: Fragmentation, disengagement and PJD’s major comeback», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T12:41:15+00:00",
-      "age_hours": 2.0,
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "why": "«Rogue OpenAI agent 'infiltrated' Australian government website in world first» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Rogue OpenAI agent 'infiltrated' Australian government website in world first», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-09-24T15:42:07+00:00",
+      "age_hours": 3.2,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/24/moroccos-elections-fragmentation-disengagement-and-pjds-major-return?traffic_source=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "editorial_score": 9.58,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Fighting widens across Ethiopia as Tigray clashes escalate",
-      "summary": "Armed groups clashed with government forces across northern Ethiopia as fears mount of regional spillover.",
-      "why": "«Fighting widens across Ethiopia as Tigray clashes escalate» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Fighting widens across Ethiopia as Tigray clashes escalate», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T12:25:20+00:00",
-      "age_hours": 2.3,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/24/fighting-widens-across-ethiopia-as-tigray-clashes-escalate?traffic_source=rss",
-      "original_source": true,
-      "editorial_score": 9.52,
+      "editorial_score": 9.33,
       "source_tier": "A"
     },
     {
@@ -305,29 +325,11 @@
       "impact": "For «South Sudan's president dissolves government ahead of country's first elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-09-24T10:21:06+00:00",
-      "age_hours": 4.4,
+      "age_hours": 8.5,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "editorial_score": 9.08,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Morocco: Center-right PAM leads in parliamentary election",
-      "summary": "PAM is part of Morocco's outgoing ruling coalition and was founded by an adviser to the king. The moderate Islamist Justice and Development Party surged amid increasing voter apathy.",
-      "why": "«Morocco: Center-right PAM leads in parliamentary election» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Morocco: Center-right PAM leads in parliamentary election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "DW English",
-      "published": "2026-09-24T08:42:00+00:00",
-      "age_hours": 6.0,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/morocco-center-right-pam-leads-in-parliamentary-election/a-79407710?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "editorial_score": 8.75,
+      "editorial_score": 8.23,
       "source_tier": "A"
     }
   ],
