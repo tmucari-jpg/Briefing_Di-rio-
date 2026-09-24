@@ -1,217 +1,106 @@
 import html, json, re, unicodedata
 from datetime import datetime, timezone
+from difflib import SequenceMatcher
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import urlencode
 from urllib.request import Request, urlopen
+
 import feedparser
 
-WINDOW_HOURS = 7 * 24
-MIN_ITEMS = 8
-
-CATEGORIES = {
-    'Concursos': ['concurso público', 'tender', 'procurement', 'licitação', 'concurso', 'bid'],
-    'Investimentos': ['investimento', 'investment', 'investidor', 'investors', 'capital', 'project finance'],
-    'Novos projectos': ['novo projeto', 'novo projecto', 'new project', 'projecto', 'project', 'development'],
-    'Empregos estratégicos': ['emprego', 'jobs', 'hiring', 'recrutamento', 'vacancy', 'vacancies', 'career'],
-    'Financiamento': ['financiamento', 'finance', 'funding', 'grant', 'subvenção', 'loan', 'crédito'],
-    'Energia/LNG': ['energia', 'energy', 'LNG', 'gás', 'gas', 'oil', 'petróleo', 'renewable'],
-    'Tecnologia': ['tecnologia', 'technology', 'AI', 'artificial intelligence', 'digital', 'data centre'],
-    'Procurement': ['procurement', 'supplier', 'fornecedor', 'tender', 'bid', 'compras'],
-    'Expansão de empresas': ['expansão', 'expansion', 'new plant', 'factory', 'branch', 'market entry', 'opens'],
-    'Regulação & decretos': ['decreto', 'decree', 'regulamento', 'regulation', 'lei', 'law', 'gazette', 'boletim'],
+WINDOW_HOURS=7*24
+MAX_ITEMS=12
+MAX_PER_SOURCE=5
+SOURCES={
+ 'pt':[('Diário Económico — Concursos','https://www.diarioeconomico.co.mz/category/concursos-publicos/feed/'),('Diário Económico','https://www.diarioeconomico.co.mz/feed/'),('O País','https://opais.co.mz/feed/'),('Club of Mozambique','https://clubofmozambique.com/feed/'),('RTP Notícias — Mundo','https://www.rtp.pt/noticias/rss/mundo'),('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html')],
+ 'en':[('Club of Mozambique','https://clubofmozambique.com/feed/'),('AIM News','https://aimnews.org/feed/'),('BBC Africa','https://feeds.bbci.co.uk/news/world/africa/rss.xml')],
 }
+MOZ=('moçambique','mozambique','maputo','matola','cabo delgado','pemba','nampula','nacala','tete','beira','inhambane','gaza','manica','zambézia','zambezia','niassa','rovuma','quelimane')
+AFRICA=('africa','áfrica','african','angola','tanzania','tanzânia','south africa','áfrica do sul','malawi','zambia','zâmbia','zimbabwe','zimbabué','kenya','quénia','nigeria','nigéria','ghana','ethiopia','etiópia','congo','rwanda','ruanda','uganda','somalia','somália','sudan','sudão','egypt','egipto','morocco','marrocos','senegal','namibia','namíbia','botswana','eswatini','lesotho','cabo verde')
+CATEGORIES={
+ 'Concursos':('concurso público','public tender','call for proposals','invitation to bid','request for proposal','request for quotation','licitação','concurso','tender'),
+ 'Procurement':('procurement','supplier registration','supplier opportunity','fornecedor','fornecimento','aquisição de bens','aquisição de serviços'),
+ 'Financiamento':('call for applications','applications open','candidaturas abertas','grant programme','grant program','subvenção','fundo disponível','funding opportunity','linha de crédito'),
+ 'Empregos estratégicos':('vaga','vagas','vacancy','vacancies','recrutamento','recruitment','hiring','job opening'),
+ 'Expansão de empresas':('nova fábrica','new factory','new plant','entrada no mercado','market entry','abre filial','opens branch','expansão de operações','expansion of operations'),
+ 'Energia/LNG':('concessão','concession','licença de exploração','exploration licence','offtake agreement','power purchase agreement','project award','adjudicação'),
+ 'Tecnologia':('digital challenge','innovation challenge','aceleradora','accelerator programme','startup competition','tech grant','hackathon'),
+ 'Regulação & decretos':('entra em vigor','takes effect','novo regulamento','new regulation','novo decreto','new decree','licenciamento obrigatório','mandatory licensing'),
+ 'Novos projectos':('lança projecto','launches project','project approved','project awarded','construção aprovada','construction approved'),
+ 'Investimentos':('procura investidores','seeks investors','investment call','investment opportunity','parceria público-privada','public-private partnership'),
+}
+NEGATIVE=('dívida pública','public debt','massa salarial','wage bill','alerta','warning','opinião','opinion','editorial','eleições','elections','guerra','war','conflito','conflict','mortes','deaths','galeria','gallery','football','futebol')
 
-QUERIES_PT = [
-    '(Moçambique OR Maputo OR Matola) (concurso OR licitação OR procurement OR tender) when:7d',
-    '(Moçambique OR Maputo) (investimento OR projecto OR projeto OR expansão OR fábrica OR indústria) when:7d',
-    '(Moçambique OR Maputo) (financiamento OR grant OR crédito OR fundo OR investimento) when:7d',
-    '(Moçambique OR Cabo Delgado OR Nampula OR Tete) (energia OR LNG OR gás OR mineração) when:7d',
-    '(Moçambique OR Maputo) (tecnologia OR inteligência artificial OR digital OR data center) when:7d',
-    '(Moçambique OR Maputo) (emprego OR recrutamento OR vagas OR hiring) when:7d',
-    '(Moçambique OR Maputo) (decreto OR regulamento OR lei OR regulação OR Boletim da República) when:7d',
-    '(África OR Angola OR Tanzânia OR África do Sul) (investment OR project OR expansion OR procurement OR energy OR LNG) when:7d',
-]
+def clean(value): return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',value or ''))).strip()
+def norm(value):
+ value=unicodedata.normalize('NFKD',value.lower()).encode('ascii','ignore').decode()
+ return re.sub(r'[^a-z0-9 ]',' ',value)
+def published_at(item):
+ for key in ('published_parsed','updated_parsed'):
+  value=item.get(key)
+  if value:
+   try:return datetime(*value[:6],tzinfo=timezone.utc)
+   except Exception:pass
+ for key in ('published','updated'):
+  try:
+   value=parsedate_to_datetime(item.get(key,'')); return value.astimezone(timezone.utc) if value.tzinfo else value.replace(tzinfo=timezone.utc)
+  except Exception:pass
+ return None
+def age(value): return (datetime.now(timezone.utc)-value).total_seconds()/3600 if value else 99999
+def region(text):
+ text=text.lower()
+ if any(term in text for term in MOZ):return 'Moçambique'
+ if any(term in text for term in AFRICA):return 'África'
+ return 'Mundo'
+def category(text):
+ text=text.lower()
+ for name,signals in CATEGORIES.items():
+  if any(signal in text for signal in signals):return name
+ return None
+def deadline(text,language):
+ for pattern in (r'(?:prazo|até|deadline|closes?|closing date)\s*[:\-]?\s*((?:\d{1,2}[\-/]\d{1,2}[\-/]\d{2,4})|(?:\d{1,2}\s+(?:de\s+)?[A-Za-zÀ-ÿ]+\s+(?:de\s+)?\d{4}))',r'((?:\d{1,2}\s+(?:de\s+)?[A-Za-zÀ-ÿ]+\s+(?:de\s+)?\d{4}))'):
+  match=re.search(pattern,text,re.I)
+  if match:return match.group(1).strip()
+ return 'Confirmar na fonte original' if language=='pt' else 'Confirm in the original source'
+def action(name,language):
+ if language=='en':
+  return {'Concursos':'Check the specifications, deadline and required documents before preparing a bid.','Procurement':'Check supplier requirements and register interest with the contracting entity.','Financiamento':'Confirm eligibility, available amount, deadline and application documents.','Empregos estratégicos':'Confirm the employer, location, requirements and application deadline.','Regulação & decretos':'Read the official text and assess changes to licences, costs or obligations.'}.get(name,'Confirm the responsible entity, requirements and next milestone in the original source.')
+ return {'Concursos':'Confirmar o caderno de encargos, o prazo e os documentos antes de preparar a proposta.','Procurement':'Confirmar os requisitos de fornecedor e manifestar interesse junto da entidade contratante.','Financiamento':'Confirmar a elegibilidade, o montante disponível, o prazo e os documentos de candidatura.','Empregos estratégicos':'Confirmar a entidade empregadora, a localização, os requisitos e o prazo de candidatura.','Regulação & decretos':'Ler o texto oficial e avaliar alterações a licenças, custos ou obrigações.'}.get(name,'Confirmar a entidade responsável, os requisitos e o próximo marco na fonte original.')
+def make_item(title,summary,source,published,link,language):
+ text=f'{title} {summary}'; name=category(text)
+ if not name or any(term in text.lower() for term in NEGATIVE):return None
+ if not link.startswith(('http://','https://')) or 'news.google.com' in link.lower():return None
+ location=region(text)
+ if location=='Mundo' and source in ('Diário Económico — Concursos','Diário Económico','O País','Jornal Notícias'):location='Moçambique'
+ score=(4 if location=='Moçambique' else 2 if location=='África' else 1)+(3 if name in ('Concursos','Procurement','Financiamento','Empregos estratégicos') else 2)
+ fallback='Confirmar na fonte original' if language=='pt' else 'Confirm in the original source'
+ return {'section':location,'category':name,'title':title,'summary':summary[:650],'entity':source,'deadline':deadline(text,language),'eligibility':fallback,'why':'O sinal contém uma acção, candidatura, contratação ou alteração concreta que merece verificação.' if language=='pt' else 'The signal contains a concrete application, contracting or regulatory action that should be verified.','action':action(name,language),'source':source,'published':published.isoformat(),'age_hours':round(max(0,age(published)),1),'link':link,'original_source':True,'verification_status':fallback,'actionability_score':score}
+def parse(source,url,language):
+ request=Request(url,headers={'User-Agent':'Mozilla/5.0 BriefingDiario/16','Accept':'application/rss+xml, application/xml, text/xml, */*'})
+ with urlopen(request,timeout=25) as response: feed=feedparser.parse(response.read())
+ output=[]
+ for entry in feed.entries:
+  title=clean(entry.get('title')); summary=clean(entry.get('summary') or entry.get('description')); published=published_at(entry)
+  if not title or len(summary)<40 or not published or age(published)<0 or age(published)>WINDOW_HOURS:continue
+  item=make_item(title,summary,source,published,entry.get('link','').strip(),language)
+  if item:output.append(item)
+ return output
+def duplicate(candidate,selected):
+ title=norm(candidate['title'])
+ return any(SequenceMatcher(None,title,norm(item['title'])).ratio()>=.76 for item in selected)
+def build(language):
+ items=[]
+ for source,url in SOURCES[language]:
+  try:items.extend(parse(source,url,language))
+  except Exception as error:print('feed',source,type(error).__name__,str(error)[:160])
+ items.sort(key=lambda item:(item['actionability_score'],-item['age_hours']),reverse=True)
+ selected=[]; counts={}
+ for item in items:
+  if counts.get(item['source'],0)>=MAX_PER_SOURCE or duplicate(item,selected):continue
+  selected.append(item); counts[item['source']]=counts.get(item['source'],0)+1
+  if len(selected)==MAX_ITEMS:break
+ selected.sort(key=lambda item:item['published'],reverse=True)
+ return {'updated_at':datetime.now(timezone.utc).isoformat(),'language':language,'window_days':7,'items':selected,'categories':list(CATEGORIES),'note':'Radar editorial: apenas sinais accionáveis com ligação directa. Confirme sempre os requisitos na fonte original.' if language=='pt' else 'Editorial radar: only actionable signals with direct links. Always confirm requirements in the original source.','generator':'GitHub Actions · Radar de Oportunidades'}
 
-QUERIES_EN = [
-    '(Mozambique OR Maputo) (tender OR procurement OR bid) when:7d',
-    '(Mozambique OR Maputo) (investment OR project OR expansion OR factory OR industry) when:7d',
-    '(Mozambique OR Maputo) (funding OR grant OR finance OR credit) when:7d',
-    '(Mozambique OR Cabo Delgado OR Nampula OR Tete) (energy OR LNG OR gas OR mining) when:7d',
-    '(Mozambique OR Maputo) (technology OR AI OR digital OR data centre) when:7d',
-    '(Mozambique OR Maputo) (jobs OR hiring OR recruitment OR vacancies) when:7d',
-    '(Mozambique OR Maputo) (decree OR regulation OR law OR gazette) when:7d',
-    '(Africa OR Angola OR Tanzania OR South Africa) (investment OR project OR expansion OR procurement OR energy OR LNG) when:7d',
-]
-
-PT_SOURCES = [
-    ('RTP Últimas', 'https://www.rtp.pt/noticias/rss'),
-    ('RTP Mundo', 'https://www.rtp.pt/noticias/rss/mundo'),
-    ('DW Português', 'https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html'),
-    ('Club of Mozambique', 'https://clubofmozambique.com/feed/'),
-]
-EN_SOURCES = [
-    ('BBC World', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
-    ('BBC Africa', 'https://feeds.bbci.co.uk/news/world/africa/rss.xml'),
-    ('DW English', 'https://rss.dw.com/rdf/rss-en-all'),
-    ('Club of Mozambique', 'https://clubofmozambique.com/feed/'),
-]
-
-
-def clean(s):
-    return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', s or ''))).strip()
-
-
-def norm(s):
-    return re.sub(r'[^a-z0-9]', '', unicodedata.normalize('NFKD', s.lower()).encode('ascii', 'ignore').decode())
-
-
-def dt(item):
-    for k in ('published_parsed', 'updated_parsed'):
-        v = item.get(k)
-        if v:
-            try:
-                return datetime(*v[:6], tzinfo=timezone.utc)
-            except Exception:
-                pass
-    for k in ('published', 'updated'):
-        try:
-            x = parsedate_to_datetime(item.get(k, ''))
-            return x.astimezone(timezone.utc) if x.tzinfo else x.replace(tzinfo=timezone.utc)
-        except Exception:
-            pass
-    return None
-
-
-def age_hours(d):
-    return (datetime.now(timezone.utc) - d).total_seconds() / 3600 if d else 99999
-
-
-def category(title, desc):
-    t = (title + ' ' + desc).lower()
-    # Specific categories first to avoid generic business terms swallowing them.
-    order = ['Regulação & decretos', 'Concursos', 'Procurement', 'Energia/LNG', 'Empregos estratégicos', 'Financiamento', 'Tecnologia', 'Expansão de empresas', 'Novos projectos', 'Investimentos']
-    for c in order:
-        if any(k in t for k in CATEGORIES[c]):
-            return c
-    return None
-
-
-def score(title, desc, source):
-    t = (title + ' ' + desc).lower()
-    s = 0
-    if any(k in t for k in ['moçambique', 'mozambique', 'maputo', 'cabo delgado', 'nampula', 'tete']): s += 5
-    if any(k in t for k in ['tender', 'procurement', 'concurso', 'licitação', 'funding', 'grant', 'investment', 'investimento']): s += 3
-    if any(k in t for k in ['decreto', 'decree', 'regulamento', 'regulation', 'lei', 'law', 'gazette']): s += 4
-    if any(k in t for k in ['lng', 'energia', 'energy', 'gás', 'gas', 'mineração', 'mining']): s += 3
-    if source.lower() in ('club of mozambique', 'rtp últimas', 'rtp mundo', 'dw português', 'bbc africa'): s += 1
-    return s
-
-
-def make_item(sec, title, desc, source, published, link):
-    c = category(title, desc)
-    if not c:
-        return None
-    t = (title + ' ' + desc).lower()
-    if c == 'Concursos' or c == 'Procurement':
-        action = 'Verificar requisitos, prazo e documentação antes de preparar uma proposta.'
-    elif c == 'Empregos estratégicos':
-        action = 'Verificar entidade recrutadora, requisitos, localização e prazo de candidatura.'
-    elif c == 'Regulação & decretos':
-        action = 'Confirmar o texto oficial e avaliar se altera obrigações, licenças, custos ou processos da empresa.'
-    elif c in ('Investimentos', 'Novos projectos', 'Expansão de empresas', 'Energia/LNG'):
-        action = 'Mapear empresas envolvidas, fornecedores necessários e próximos marcos do projecto.'
-    elif c == 'Financiamento':
-        action = 'Confirmar elegibilidade, montante, prazo e documentos exigidos pela entidade financiadora.'
-    elif c == 'Tecnologia':
-        action = 'Avaliar aplicação prática, fornecedores, competências necessárias e impacto na produtividade.'
-    else:
-        action = 'Avaliar relevância comercial e próximos passos.'
-    return {
-        'section': sec,
-        'category': c,
-        'title': title,
-        'summary': desc[:600],
-        'why': 'Pode representar uma oportunidade concreta de negócio, candidatura, fornecimento, emprego ou adaptação regulatória.',
-        'action': action,
-        'source': source,
-        'published': published.isoformat(),
-        'age_hours': round(max(0, age_hours(published)), 1),
-        'link': link,
-        'score': score(title, desc, source),
-    }
-
-
-def parse_feed(url, source, hours, sec):
-    req = Request(url, headers={'User-Agent': 'Mozilla/5.0 BriefingDiario/15', 'Accept': 'application/rss+xml, application/xml, text/xml, */*'})
-    with urlopen(req, timeout=30) as r:
-        raw = r.read()
-    f = feedparser.parse(raw)
-    out = []
-    for i in f.entries:
-        title = clean(i.get('title'))
-        desc = clean(i.get('summary') or i.get('description'))
-        d = dt(i)
-        if not title or not d or age_hours(d) < 0 or age_hours(d) > hours:
-            continue
-        x = make_item(sec, title, desc, source, d, i.get('link', ''))
-        if x:
-            out.append(x)
-    return out
-
-
-def google(q, pt=True):
-    cfg = {'hl': 'pt-PT', 'gl': 'MZ', 'ceid': 'MZ:pt-PT'} if pt else {'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'}
-    u = 'https://news.google.com/rss/search?' + urlencode({'q': q, 'hl': cfg['hl'], 'gl': cfg['gl'], 'ceid': cfg['ceid']})
-    return parse_feed(u, 'Google News', WINDOW_HOURS, 'Moçambique')
-
-
-def build(lang):
-    pt = lang == 'pt'
-    sources = PT_SOURCES if pt else EN_SOURCES
-    queries = QUERIES_PT if pt else QUERIES_EN
-    items, seen = [], set()
-    for source, url in sources:
-        try:
-            for x in parse_feed(url, source, WINDOW_HOURS, 'Moçambique'):
-                k = norm(x['title'])
-                if k and k not in seen:
-                    seen.add(k); items.append(x)
-        except Exception as e:
-            print('feed', source, type(e).__name__, str(e)[:160])
-    for q in queries:
-        try:
-            for x in google(q, pt):
-                k = norm(x['title'])
-                if k and k not in seen:
-                    seen.add(k); items.append(x)
-        except Exception as e:
-            print('google', type(e).__name__, str(e)[:160])
-    items.sort(key=lambda x: (x['score'], -x['age_hours']), reverse=True)
-    # Keep a compact, useful weekly radar with category diversity.
-    selected = []
-    used = set()
-    for c in CATEGORIES:
-        choices = [x for x in items if x['category'] == c]
-        if choices:
-            selected.append(max(choices, key=lambda x: (x['score'], -x['age_hours'])))
-            used.add(norm(selected[-1]['title']))
-    for x in items:
-        if len(selected) >= 15: break
-        if norm(x['title']) not in used:
-            selected.append(x); used.add(norm(x['title']))
-    selected = sorted(selected[:15], key=lambda x: x['published'], reverse=True)
-    return {
-        'updated_at': datetime.now(timezone.utc).isoformat(),
-        'language': lang,
-        'window_days': 7,
-        'items': selected,
-        'categories': list(CATEGORIES),
-        'note': 'Radar editorial: confirmar sempre o documento, concurso, vaga ou oportunidade na fonte original antes de agir.',
-        'generator': 'GitHub Actions · Radar de Oportunidades',
-    }
-
-
-Path('docs/opportunities-pt.json').write_text(json.dumps(build('pt'), ensure_ascii=False, indent=2), encoding='utf-8')
-Path('docs/opportunities-en.json').write_text(json.dumps(build('en'), ensure_ascii=False, indent=2), encoding='utf-8')
+Path('docs/opportunities-pt.json').write_text(json.dumps(build('pt'),ensure_ascii=False,indent=2),encoding='utf-8')
+Path('docs/opportunities-en.json').write_text(json.dumps(build('en'),ensure_ascii=False,indent=2),encoding='utf-8')
 print('Radar de oportunidades actualizado.')
