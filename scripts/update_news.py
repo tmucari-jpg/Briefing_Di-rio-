@@ -142,10 +142,15 @@ def build(language):
         selected.extend(chosen)
     selected=sorted(selected,key=lambda value:value['published'],reverse=True)
     payload={'updated_at':datetime.now(timezone.utc).isoformat(),'language':language,'window_hours':24,'fallback_hours':FALLBACK_HOURS,'items':selected,'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança','Tecnologia e IA'],'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento'],'generator':'GitHub Actions · Briefing Diário','section_counts':{section:sum(item['section']==section for item in selected) for section in TARGET}}
-    Path(f'docs/news-{language}.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
     return payload
 
 if __name__ == '__main__':
-    pt=build('pt'); en=build('en')
+    try:
+        pt=build('pt'); en=build('en')
+    except SystemExit as error:
+        print(f'AVISO: {error} Mantida a última edição válida.')
+        raise SystemExit(0)
+    Path('docs/news-pt.json').write_text(json.dumps(pt,ensure_ascii=False,indent=2),encoding='utf-8')
+    Path('docs/news-en.json').write_text(json.dumps(en,ensure_ascii=False,indent=2),encoding='utf-8')
     Path('docs/news.json').write_text(json.dumps(pt,ensure_ascii=False,indent=2),encoding='utf-8')
     print('PT',pt['section_counts'],len(pt['items']),'EN',en['section_counts'],len(en['items']))
