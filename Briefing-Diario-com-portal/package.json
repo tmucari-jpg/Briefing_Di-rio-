@@ -1,5 +1,5 @@
 {
-  "name": "briefing-diario-admin",
+  "name": "briefing-diario-portal",
   "version": "1.0.0",
   "private": true,
   "engines": { "node": ">=22.0.0" },
