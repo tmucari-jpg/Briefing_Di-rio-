@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T22:06:21.809608+00:00",
+  "updated_at": "2026-09-24T08:12:37.088094+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -7,69 +7,122 @@
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "As major powers act unilaterally, experts say UN faces crisis in New York",
-      "summary": "Experts warn the UN faces crises of funding, relevance, and Security Council gridlock.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-23T19:54:24+00:00",
-      "age_hours": 2.2,
+      "title": "German research institutes double economic growth forecasts for 2026 to 1.3%",
+      "summary": "German research institutes have increased their prognosis for the country's economic growth to 1.3% in 2026",
+      "why": "The story helps track the direction of the global economy and investment decisions.",
+      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "source": "DW English",
+      "published": "2026-09-24T08:11:00+00:00",
+      "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/23/as-major-powers-act-unilaterally-experts-say-un-faces-crisis-in-new-york?traffic_source=rss",
-      "editorial_score": 11.54,
+      "link": "https://www.dw.com/en/german-research-institutes-double-economic-growth-forecasts-for-2026-to-1-3/a-78168080?maca=en-rss-en-all-1573-rdf",
+      "editorial_score": 11.0,
       "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Oil extends gains on little sign of progress in US-Iran talks",
+      "summary": "Iran reviews US response to peace proposals, senior Iranian official says Bessent says US and China extend trade truce by two months US crude inventories rise by 3 million barrels, EIA says Oil prices extended gains on Thursday after climbing 4% in the previous session ‌as diplomatic talks between the United States and Iran showed… Source",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-24T07:19:27+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/oil-extends-gains-on-little-sign-of-progress-in-us-iran-talks/",
+      "editorial_score": 10.81,
+      "source_tier": "B"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "ZAWYA: Central Energy Fund needs over $489mln to drop South Africa’s dependence on imported fuels - TradingView",
+      "summary": "ZAWYA: Central Energy Fund needs over $489mln to drop South Africa’s dependence on imported fuels TradingView",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
+      "source": "TradingView",
+      "published": "2026-09-24T07:47:23+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNlJfdEk1ZUtUNTJHRE93eTBCSDRlMjVhS21ycTZSbmRfWEpEZGtOd1czMUg0X3ZsbnZfSFZWMGVYel8wSkRBcjdEVGl0M3o3UFpHeWR3MVJLZS1LTTVVZW1BSE5jWFEzSTBQMldNQ0dvWE1zWW81WWtEeXFtUmstRkxjbkJzdzdJVjVqV2tfZlNkRzU4UkFBX0tVUUhQWWVmLTFybmFsSHFXYnNndG5WWnN5cHJPNWh2eTB6dHREenpiZjdLaVVkbmNaRnJNWTdwNE1xbEhvTzMtQnNhNnZMMnkzN0p5b0pBNDRSZVFHYjVUYXNLeFNyWjN4djlsWUti?oc=5",
+      "editorial_score": 9.92,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
       "tags": [
+        "Economia"
+      ],
+      "title": "Monarchy-aligned PAM leads in Morocco election provisional results",
+      "summary": "Authenticity and Modernity Party (PAM) took 97 out of 395 seats in parliament, as turnout falls to 38 percent.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-24T07:41:35+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/24/monarchy-aligned-pam-leads-in-morocco-election-provisional-results?traffic_source=rss",
+      "editorial_score": 9.9,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia",
         "Segurança"
       ],
-      "title": "Federal judge delays ruling on White House media ban",
-      "summary": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "title": "South Africa raises interest rate, citing Iran war price shocks",
+      "summary": "SARB raises policy rate to 7.25% Inflation at 4.4% last month vs 3% target Bank sees inflation exceeding 5% this year Governor calls 25 bps ​hike proportionate South Africa’s central bank raised interest ‌rates for the second time this year on Wednesday, saying the Iran war had triggered “large and sustained” price shocks and tighter… Source",
+      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
+      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-24T07:15:46+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/south-africa-raises-interest-rate-citing-iran-war-price-shocks/",
+      "editorial_score": 9.81,
+      "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "BBC World",
-      "published": "2026-09-23T21:53:38+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 10.96,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
-      "summary": "Travel disruptions intensify as Iranian airlines lose access to airspace, pushing civilians towards costly land routes.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-23T21:05:36+00:00",
+      "published": "2026-09-24T07:10:58+00:00",
       "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
-      "editorial_score": 10.79,
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "editorial_score": 9.79,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
-      "summary": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "title": "Gaza watches Israel’s elections with fear and antipathy",
+      "summary": "Palestinians are following the campaign, but few feel next month's vote will make their lives any better.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "Al Jazeera English",
-      "published": "2026-09-23T20:37:18+00:00",
-      "age_hours": 1.5,
+      "published": "2026-09-24T07:07:02+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
-      "editorial_score": 10.69,
+      "link": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss",
+      "editorial_score": 9.77,
       "source_tier": "A"
     },
     {
@@ -77,101 +130,50 @@
       "tags": [
         "Economia"
       ],
-      "title": "TotalEnergies agrees $1.8bn Africa infrastructure deal - africabusinesscommunities.com",
-      "summary": "TotalEnergies agrees $1.8bn Africa infrastructure deal africabusinesscommunities.com",
+      "title": "Africa’s only globally accredited gold refinery looks to Ghana after South African output leaves it half empty - Business Insider Africa",
+      "summary": "Africa’s only globally accredited gold refinery looks to Ghana after South African output leaves it half empty Business Insider Africa",
       "why": "The story helps explain economic and trade trends relevant to Africa.",
       "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "africabusinesscommunities.com",
-      "published": "2026-09-23T20:26:35+00:00",
-      "age_hours": 1.7,
+      "source": "Business Insider Africa",
+      "published": "2026-09-24T07:05:45+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHZ2bVU3UjlUekUzUGRqMHloUmxKVjNxZGtKbmVjRzliaFVGcVRmcTUxY3JycVRzVC1Cc0x6WmVpQ3VEVXMzNmRVZkhTYk0teVlSSTZVUGpIM3dYcHdGcklBZS1FWWlXMXB4Zi1ZOFMxdFhUWVVheXIzdmVlaE1kSDZWaXFSRmNTVVBJR0Q4V0VMOXdhZTlHSEoxWkNqTGVwVDItZllZOA?oc=5",
-      "editorial_score": 10.65,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Petrobras and Mozambique’s ENH sign oil and gas deal - Upstream Online",
-      "summary": "Petrobras and Mozambique’s ENH sign oil and gas deal Upstream Online",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Upstream Online",
-      "published": "2026-09-23T15:33:12+00:00",
-      "age_hours": 6.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWx5TEtmNTlhTkR4S2lYU2lTSnNQY3JMUmhWZWJXTFM3aTIxSmNjNDVmUzVuOFZUUWtXTFlGMUxfQWRYaFpGa1pjb18tZWxWOXZuazhfZXNOU3NtdUx3Y0FyMmU0V0s5X0l6cnlCYXpackRSQ1pGZzgwNk5vSEZnWDd6RVB0X3ZKSXJ2VVlqcF9nUGc2Ylo3UFFQdnZLRmlRcW9XbGVsdHJsZw?oc=5",
-      "editorial_score": 10.62,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Building East Africa’s energy skills pipeline requires firm commitment - Mining Weekly",
-      "summary": "Building East Africa’s energy skills pipeline requires firm commitment Mining Weekly",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Mining Weekly",
-      "published": "2026-09-23T19:54:24+00:00",
-      "age_hours": 2.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPXy1nWmtMOFAtV2NPbkR0Ym52cnQ4Nmwta1BJTUxQZXBsZm54Mjh4bXNWNDZNdnhvVV9hUXQtQ0oyMnRsM1pFQ1Q5ZlFEc3pMWFZ0QlgwWEtyLWRGaWFWMS1Yam5yWEN4NHdKblhiZEY5Z3RXT0FHVXpNR2RNQ19RdHAxRDNLejNmVU4xM01NWGZSZGlfX0Mza0dLOVowU3hZZDVuQmwyZFpDZEVoR3hvbkxndWJZRGdGdlRHaVdiRGF4SVJOX3pDN3lNcnpXcS1UWV9UQmJaN1AtbFFURTAwRWc5bld0RlRMYlFoREZsWmo1NVBuN1J4YUtJUQ?oc=5",
-      "editorial_score": 10.54,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
-      "summary": "Ukrainian president urges world leaders to keep choking Russia's revenues to impede its war efforts.",
-      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
-      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-23T19:31:12+00:00",
-      "age_hours": 2.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss",
-      "editorial_score": 10.46,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "AM Best Upgrades Issuer Credit Rating of Fidelidade Moçambique – Companhia de Seguros, S.A. - Business Wire",
-      "summary": "AM Best Upgrades Issuer Credit Rating of Fidelidade Moçambique – Companhia de Seguros, S.A. Business Wire",
-      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
-      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
-      "source": "Business Wire",
-      "published": "2026-09-23T16:10:00+00:00",
-      "age_hours": 5.9,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdzJFTm5QRUhfVUVUWDBVdWlMOTFLSnFHcWpEVDFnWDFSRnNJUVl2ZTFTN0R6WFZmc3JTM2hFZmNnTWE1eUo1QklRUzJqOFc2VXpRZDRjSGNfTEhvaVlIU1dVbFJ3d1FvVlU1eUVjRG45WEdsSjAxbjdPVHA4TThxVHVpMGJFaFI3Q05USDNaNWpSekVJd0VpeDlPTTNRM1NWcTVFdFlnNnFldG53NHBRV3JMSmtHMTNwSE5lMTh5TGU5eWJmV1QzbDI3aFpJNEJmLVY4ejAzeVBXQU9y?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdUVCVjEyZXhtZnJHSmloUE1GOS0xdUM1QzhSaFFzRExpRU5PaUZ2VHo4a09hNDN3WU9DUktWM0NjRS1KcEpJZWZUaThxZ01FTkxlU1ZyY25hVENjaFlrSGJvQ19BM05RNWRnRWloWkliQ2RfbGktV044cXhCN09PbkVORXgxUXFvdk1vQzlhM2wzMlR6TzV4QlZRWG5LYlp4R1VEMGtyM0oyLUZaY3NzRVlnOUZHLWJpeG0zRVl3bnlWTnlFSW5vRkxGVEpEM2VCb09jVA?oc=5",
       "editorial_score": 9.77,
       "source_tier": "C"
     },
     {
-      "section": "África",
+      "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "‘Clearly Hurting Our Economy’: South Africa Raises Interest Rate; Expert Cautious Of Stagnant Growth - forbesafrica.com",
-      "summary": "‘Clearly Hurting Our Economy’: South Africa Raises Interest Rate; Expert Cautious Of Stagnant Growth forbesafrica.com",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "forbesafrica.com",
-      "published": "2026-09-23T20:23:27+00:00",
-      "age_hours": 1.7,
+      "title": "Ethiopian Airlines suspends flights to Tigray region after takeover of Mekelle airport",
+      "summary": "Tigrayan forces seized the main airport in Ethiopia’s northern Tigray region on Wednesday, three local sources said, and Ethiopian Airlines suspended flights to the region, in the latest escalation to raise fears of a new war. The move follows months of deteriorating relations between the federal government and the Tigray People’s Liberation Front (TPLF), the… Source",
+      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
+      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-24T07:06:19+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMHJhYkMtNVFMQWtPS2hISUFmYXVQRjZ4TW00amx4cDRGMmliTTY0VXFWTjAtQktOMFBSUjRZV0NrRlZzWEZwVHA1WFNVZEtZcnpNOGlMQm1VZEQzMUFXcXlkeHJpYzliQ1FmX2NWTi0weDJocFJEUGxTRG00dUthNkl4a2w3UnpNOFF6dzR3cGxPVElzOFpMNHVrNUV2ME5PVUppQ0w3RkZoRzdwVFpOQmdNVU5ILTU1aVpUOFRXT3d1UTNKZVVIUXRNOUUtdXlRSWJsNG1pc1d6WVhWUk1nTkFGUVd0VUFY?oc=5",
-      "editorial_score": 9.65,
+      "link": "https://clubofmozambique.com/news/ethiopian-airlines-suspends-flights-to-tigray-region-after-takeover-of-mekelle-airport/",
+      "editorial_score": 9.77,
+      "source_tier": "B"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "NEW: Mozambique declares solidarity with Zimbabwe at United Nations, calls for immediate lifting of sanctions - Herald.co.zw",
+      "summary": "NEW: Mozambique declares solidarity with Zimbabwe at United Nations, calls for immediate lifting of sanctions Herald.co.zw",
+      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
+      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
+      "source": "Herald.co.zw",
+      "published": "2026-09-24T07:02:44+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHp1ZVV0U0l1VW12cWZ1UDlTcVFRNG9BMUtlYmJjU0tHaFVCSU1lX3JGeG5rUFFaR2hQRGxSWHctMTQyVUNhTDFLWHJPekZseWRVU1lid3pQSnhKcUJWODFTN2d4aUtBRmNhZkE4R1BiR2EtVC1pcm9lSjhBcDRxejFUbWRZNDZXZEttVk9BOHZhd0tQLVNkTFA1V3V2dWQ3ZGE1dkh3Zm0yZXBWal9OOWMzUDZZTWhlQ01oMHVLaFoyMmVRNUl3NndfTEo4TFVSSWo1Mzhn?oc=5",
+      "editorial_score": 9.75,
       "source_tier": "C"
     }
   ],
@@ -193,9 +195,9 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 5,
-    "África": 3,
-    "Moçambique": 2
+    "Mundo": 4,
+    "África": 2,
+    "Moçambique": 4
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
   "briefing_intro": {

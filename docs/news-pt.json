@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T22:06:16.707325+00:00",
+  "updated_at": "2026-09-24T08:12:31.855338+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 72,
@@ -9,102 +9,86 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Condições meteorológicas extremas consideradas como a principal ameaça à segurança alimentar da Europa",
-      "summary": "Uma nova pesquisa do Eurobarómetro mostra um amplo apoio público à agricultura europeia, aos agricultores e às áreas rurais.",
+      "title": "Flávio Bolsonaro promete integrar Brasil no Escudo das Américas se vencer eleições",
+      "summary": "O candidato presidencial Flávio Bolsonaro, filho do ex-presidente Jair Bolsonaro, prometeu que integrará o Brasil no Escudo das Américas --- uma iniciativa de segurança impulsionada pelos Estados Unidos (EUA) --- caso vença as eleições de outubro.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T21:06:16+00:00",
-      "age_hours": 1.0,
+      "published": "2026-09-24T07:21:10+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/uniao-europeia/condicoes-meteorologicas-extremas-consideradas-como-a-principal-ameaca-a-seguranca-alimentar-da-europa_n1767306",
-      "editorial_score": 10.79,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Petrobras assina acordo de cooperação em petróleo e gás com Moçambique - Rede Onda Digital",
-      "summary": "Petrobras assina acordo de cooperação em petróleo e gás com Moçambique Rede Onda Digital",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Rede Onda Digital",
-      "published": "2026-09-23T20:31:00+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4ycHJwSHVWeTRxTmFia0R4ckprcUVTMzd5RHh6Z2dyby03NExybHl6b3haM0VfWWw0cHc0RU9yZ2s5aU05SDJ6SlRRemhCZUxScGVKd0llWG1wb3hlWDVTQ3JPbFJ1bzc5TEY2ZEl3QmJyRDA?oc=5",
-      "editorial_score": 10.67,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Petrobras fecha acordo de cooperação em petróleo e gás com Moçambique - Poder360",
-      "summary": "Petrobras fecha acordo de cooperação em petróleo e gás com Moçambique Poder360",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Poder360",
-      "published": "2026-09-23T19:40:50+00:00",
-      "age_hours": 2.4,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHh2TXRZazc1MF8tcjhIX1lHUGYyS3E3SmRWam1IdWoxakFJcnY5RmxkMGRabmx0ZTZfaXl5bmt5WV9wX0tMeDRHLUJlWDhEN05YRnY1S2ZEbjlPT3hKZEVwcHJpQ2FmUGl3UzNZTU5mMThMUk1XRXZuR0pJN0ZJUmZQOG9KenFET055ZGVjTHhqSllZOWZwRHpoVDl1WFJOVFlkRG8zZV80MnRueFZpVk93?oc=5",
-      "editorial_score": 10.5,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "ONU adverte para nova e perigosa fase da guerra",
-      "summary": "A ONU alertou hoje que a guerra na Ucrânia está a entrar numa \"nova e perigosa fase da guerra\", com a intensificação dos ataques, o aumento das baixas civis e o risco de um alastramento regional crescente.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T18:51:00+00:00",
-      "age_hours": 3.3,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/onu-adverte-para-nova-e-perigosa-fase-da-guerra_n1767294",
-      "editorial_score": 10.31,
+      "link": "https://www.rtp.pt/noticias/mundo/flavio-bolsonaro-promete-integrar-brasil-no-escudo-das-americas-se-vencer-eleicoes_n1767370",
+      "editorial_score": 10.81,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
         "Segurança"
       ],
-      "title": "Lavrov garante na ONU que Rússia \"não vai interromper\" a guerra",
-      "summary": "A Rússia \"não vai interromper\" a sua guerra com a Ucrânia, garantiu hoje o ministro dos Negócios Estrangeiros russo, Sergei Lavrov, acusando a Europa de estar a tentar sabotar os esforços de paz.",
+      "title": "Primeiro-ministro discursa perante Assembleia Geral das Nações Unidas",
+      "summary": "O primeiro-ministro discursa hoje perante a 81.ª Assembleia Geral das Nações Unidas (ONU), em Nova Iorque, a poucos meses de Portugal regressar ao Conselho de Segurança da ONU como membro não-permanente.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T18:37:51+00:00",
-      "age_hours": 3.5,
+      "published": "2026-09-24T07:06:13+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/lavrov-garante-na-onu-que-russia-nao-vai-interromper-a-guerra_n1767302",
-      "editorial_score": 10.27,
+      "link": "https://www.rtp.pt/noticias/mundo/primeiro-ministro-discursa-perante-assembleia-geral-das-nacoes-unidas_n1767381",
+      "editorial_score": 10.77,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "title": "Visita a Washington. Xi Jinping quer ver China e EUA como \"parceiros e não rivais\"",
+      "summary": "As conversações entre os dois líderes deverão resultar numa prorrogação da trégua comercial e tocar ainda em temas como a Inteligência Artificial ou a guerra no Irão.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-24T07:02:52+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/xi-jinping-diz-que-china-e-eua-devem-ser-parceiros-e-nao-rivais_n1767376",
+      "editorial_score": 10.75,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "title": "Xi Jinping diz que China e EUA devem ser \"parceiros e não rivais\"",
+      "summary": "As conversações entre os dois líderes deverão resultar numa prorrogação da trégua comercial e tocar ainda em temas como a Inteligência Artificial ou a guerra no Irão.",
+      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
+      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
+      "source": "RTP Notícias — Últimas",
+      "published": "2026-09-24T07:02:52+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/xi-jinping-diz-que-china-e-eua-devem-ser-parceiros-e-nao-rivais_n1767376",
+      "editorial_score": 10.75,
       "source_tier": "A"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Diplomacia económica de Chapo abre porta à entrada da Petrobras em Moçambique - Integrity Magazine",
-      "summary": "Diplomacia económica de Chapo abre porta à entrada da Petrobras em Moçambique Integrity Magazine",
-      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
-      "impact": "Pode afetar comércio, circulação, cadeias de abastecimento, investimento e perceção de risco.",
-      "source": "Integrity Magazine",
-      "published": "2026-09-23T18:30:30+00:00",
-      "age_hours": 3.6,
+      "title": "Direcção Provincial de Obras Públicas de Cabo Delgado - Obras de Construção Civil e Saneamento - diarioeconomico.co.mz",
+      "summary": "Direcção Provincial de Obras Públicas de Cabo Delgado - Obras de Construção Civil e Saneamento diarioeconomico.co.mz",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "diarioeconomico.co.mz",
+      "published": "2026-09-24T05:22:49+00:00",
+      "age_hours": 2.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMaWJKMElHUFlCdlBOUmhqR0JoNVlMamFJR0dtSmlpcnNKNTlrYW4yQWZFTmhfaU42TFZTLVJBZ1MtMXE5bkRWZGw3QnBNM0EtMWZCZHlHZXIzdw?oc=5",
-      "editorial_score": 10.25,
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTmFVU0lyeDdya3JHWXVseFBydTQ1Z0p1ZlZHdmdFeGpIZkt6aWRnZlI4ZWdXaFhYZWc2S0ZzVWZoYmh5VzM2T0haN1NmQzV2MldEWEFFLWlLX0I1Q29xb3JPTWphWWMta0FXQldEV1NpZzlTbE5wYkdjNzdsdmNZbENKdUFVYk1JRktraEtRdHhEUjFldEVFclRZbUFsYWJ0REtYSEM0QkQxUlBqcDBhU2RjYTNLQi1wQTRLblZBa041Qk9oMzMzanBtQ3lFOXpUVVhVMXZjUjJpVlg0YjctdjFWQ21JRWRzQnN6V0NR?oc=5",
+      "editorial_score": 10.42,
       "source_tier": "C"
     },
     {
@@ -112,51 +96,67 @@
       "tags": [
         "Economia"
       ],
-      "title": "EUA vão tentar acordo para travar ataques a instalações energéticas",
-      "summary": "O secretário de Estado norte-americano, Marco Rubio, afirmou hoje que Washington vai tentar alcançar um acordo para interromper os ataques contra infraestruturas energéticas na Ucrânia e na Rússia.",
+      "title": "Partido da coligação no poder lidera resultados eleitorais provisórios em Marrocos",
+      "summary": "O Partido Autenticidade e Modernidade (PAM), que faz parte da atual coligação governamental, conquistou o maior número de lugares nas eleições parlamentares de Marrocos, segundo os resultados provisórios anunciados hoje pelo Ministério do Interior.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
       "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Mundo",
-      "published": "2026-09-23T18:26:41+00:00",
-      "age_hours": 3.7,
+      "published": "2026-09-24T07:37:34+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/eua-vao-tentar-acordo-para-travar-ataques-a-instalacoes-energeticas_n1767291",
-      "editorial_score": 10.23,
+      "link": "https://www.rtp.pt/noticias/mundo/partido-da-coligacao-no-poder-lidera-resultados-eleitorais-provisorios-em-marrocos_n1767395",
+      "editorial_score": 9.88,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
         "Segurança"
       ],
-      "title": "Primeiro-ministro admite que economia portuguesa enfrenta \"realidade com duas faces\"",
-      "summary": "O primeiro-ministro admitiu hoje que a economia portuguesa vive hoje \"numa realidade com duas faces\", entre os bons resultados \"com um reconhecimento internacional elevadíssimo\" e o impacto do conflito no Médio Oriente na vida de pessoas e empresas.",
+      "title": "Rubio diz que venda de armas a Taiwan depende das necessidades de defesa dos EUA",
+      "summary": "O secretário de Estado norte-americano, Marco Rubio, afirmou que as vendas de armas a Taiwan dependem das necessidades militares dos Estados Unidos, numa altura em que permanece incerta a aprovação de um pacote de armamento para Taipé.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
       "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-23T18:20:36+00:00",
-      "age_hours": 3.8,
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-24T07:37:12+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/primeiro-ministro-admite-que-economia-portuguesa-enfrenta-realidade-com-duas-faces_n1767288",
-      "editorial_score": 10.21,
+      "link": "https://www.rtp.pt/noticias/mundo/rubio-diz-que-venda-de-armas-a-taiwan-depende-das-necessidades-de-defesa-dos-eua_n1767394",
+      "editorial_score": 9.88,
       "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Petrobras assina memorando para estudos e projetos de petróleo e gás em Moçambique - blogdovalente.com.br",
-      "summary": "Petrobras assina memorando para estudos e projetos de petróleo e gás em Moçambique blogdovalente.com.br",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "blogdovalente.com.br",
-      "published": "2026-09-23T18:00:59+00:00",
-      "age_hours": 4.1,
+      "title": "A reunião do Comitê Conjunto Vietnã-Tanzânia busca um novo impulso para o investimento. - Vietnam.vn",
+      "summary": "A reunião do Comitê Conjunto Vietnã-Tanzânia busca um novo impulso para o investimento. Vietnam.vn",
+      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
+      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
+      "source": "Vietnam.vn",
+      "published": "2026-09-24T06:26:26+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVlpROXBiTjRDbkNnaFB2Nk0zYWhnMTAyY2Z2WFBnWjNhTGJuTlNxR2VqSlZsUXNFci1Scnk1RGJ5WkprQWVRdFJteGhHbjdTSDdHdEJiUlVFOG9EWFZobV9zYzVkRW5fY1pQVWdSRC1UcWxGUUhoMEZtdUU1R1JqeVcwWTFseXNXVWMyQzBuM0h3dDd0Y1NTN1p6bEk2bjhSY3RvTG9wZ0xtMHlGazVoRTBMNFBjbGtTRFRSRk9DZ2U0dw?oc=5",
-      "editorial_score": 7.15,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3kycThjLXZKNXgyXzJsR05qXzlWMFMzOHY3QkFvLUZCM2VLX3BvekVfbDNGOWRKSUlmVXNQUU41U0hvYk5rX2VUN0dIRHhPd3VnQ2NpeFd5cFQ3czdGY01vT1BJcVVxZDhGWUpaYmlBdXVWZlk2QkpOUlFIQWRmUkM0TjlsMmZ3V1ZtcldfZFlmYzVtWkkxaw?oc=5",
+      "editorial_score": 9.62,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique defende multilateralismo e diz que África requer investimentos - news.un.org",
+      "summary": "Moçambique defende multilateralismo e diz que África requer investimentos news.un.org",
+      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
+      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
+      "source": "news.un.org",
+      "published": "2026-09-24T00:35:52+00:00",
+      "age_hours": 7.6,
+      "within_24h": true,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jUG52OS1YdERtcnhQckdGYkpxUFZtYVpuR0p1aDZseVlmTVlaYW45MVIwcUdaRVhyU3Z3QUFfU3pnZXhYRkNJTGVzNFRlUTVYS1BtUXktSQ?oc=5",
+      "editorial_score": 9.42,
       "source_tier": "C"
     },
     {
@@ -164,16 +164,16 @@
       "tags": [
         "Energia"
       ],
-      "title": "Petrobras firma acordo para ampliar cooperação no setor de petróleo e gás em Moçambique - ClicRDC",
-      "summary": "Petrobras firma acordo para ampliar cooperação no setor de petróleo e gás em Moçambique ClicRDC",
+      "title": "Petrobrás firma com estatal de Moçambique cooperação estratégica no setor de óleo e gás - Hora do Povo",
+      "summary": "Petrobrás firma com estatal de Moçambique cooperação estratégica no setor de óleo e gás Hora do Povo",
       "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
       "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "ClicRDC",
-      "published": "2026-09-23T17:35:15+00:00",
-      "age_hours": 4.5,
+      "source": "Hora do Povo",
+      "published": "2026-09-24T00:21:41+00:00",
+      "age_hours": 7.8,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYmdSMTJFMGc1eTlHbzkyRndsVmlDUkVlaTFMdlNBOFRwSG1KMXVHc1dOclBBb0ZGZDE4Y3NSVW5Dc2EtVzZqRDhXQUtpTUxlMURELTJkZEpQTl9CRGtnZDRIYVVvbENkUzRGTWNEOFk0UmswMHMtaFN1eVZxMHVLOWpQLTJxQllvcTFHWTRFUElxSl85anpiY2oyd2F0M1l3eDE4aUhwU2s1RHJkY0U3Y3dIdjI5QTRyejZGYk5aQXdlZ0k?oc=5",
-      "editorial_score": 7.06,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNelMzUzM2cWp6TFdpU0JySmt1TjB5VGxXT1RlQ2g4WUVYVVd1VE5xZnZMN19ER1hFVC1vZ2dEcVZYUXhhSmVONzlWbmNDX2RKOWlWb1hzdEZIRDZyWVFiS2dobEplcjlsT2ZMWWdQTzZfLWVEaWU5SC1JSEJweWRZTW1EeF85aHk0UTdfNXlsNXJLX2RBSFI4OVhYMmgtdmpXeVlFUlZGMXk1Qmh3eDczZ0hCTGk?oc=5",
+      "editorial_score": 6.38,
       "source_tier": "C"
     }
   ],
@@ -195,9 +195,9 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 5,
+    "Mundo": 6,
     "África": 2,
-    "Moçambique": 3
+    "Moçambique": 2
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
   "briefing_intro": {
