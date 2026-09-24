@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 
-TARGET={'Mundo':4,'África':2,'Moçambique':2}
+TARGET={'Moçambique':4,'África':3,'Mundo':3}
 MIN_NEWS=10
 SOURCE_SCORE={
     'RTP Notícias':5,'RTP':5,'DW Português':5,'DW English':5,
