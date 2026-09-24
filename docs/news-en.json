@@ -44,42 +44,6 @@
       "source_tier": "A"
     },
     {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Private sector crucial for diversification of economy – Chapo",
-      "summary": "Maputo, 24 Sep (AIM) – Mozambican President Daniel Chapo has reaffirmed that the private sector plays a crucial",
-      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
-      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
-      "source": "AIM News",
-      "published": "2026-09-24T07:45:42+00:00",
-      "age_hours": 1.7,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/09/24/private-sector-crucial-for-diversification-of-economy-chapo/",
-      "original_source": true,
-      "editorial_score": 12.65,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Incidents related to armed conflict increased by 10 percent",
-      "summary": "Maputo, 24 Sep (AIM) – The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) estimates that",
-      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
-      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
-      "source": "AIM News",
-      "published": "2026-09-24T07:06:11+00:00",
-      "age_hours": 2.4,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/09/24/incidents-related-to-armed-conflict-increased-by-10-percent/",
-      "original_source": true,
-      "editorial_score": 11.5,
-      "source_tier": "B"
-    },
-    {
       "section": "África",
       "tags": [
         "Energia",
@@ -97,6 +61,24 @@
       "original_source": true,
       "editorial_score": 11.0,
       "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Private sector crucial for diversification of economy – Chapo",
+      "summary": "Maputo, 24 Sep (AIM) – Mozambican President Daniel Chapo has reaffirmed that the private sector plays a crucial",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
+      "source": "AIM News",
+      "published": "2026-09-24T07:45:42+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/09/24/private-sector-crucial-for-diversification-of-economy-chapo/",
+      "original_source": true,
+      "editorial_score": 10.65,
+      "source_tier": "C"
     },
     {
       "section": "Mundo",
@@ -173,6 +155,24 @@
     {
       "section": "Moçambique",
       "tags": [
+        "Segurança"
+      ],
+      "title": "Incidents related to armed conflict increased by 10 percent",
+      "summary": "Maputo, 24 Sep (AIM) – The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) estimates that",
+      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
+      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
+      "source": "AIM News",
+      "published": "2026-09-24T07:06:11+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/09/24/incidents-related-to-armed-conflict-increased-by-10-percent/",
+      "original_source": true,
+      "editorial_score": 9.5,
+      "source_tier": "C"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
         "Economia"
       ],
       "title": "Eni Rovuma Basin presents its 3rd Local Sustainability Report, celebrating 20 years of activity in Mozambique",
@@ -211,7 +211,7 @@
     "África": 3,
     "Mundo": 3
   },
-  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte original + deduplicação + validação geográfica.",
+  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
   "briefing_intro": {
     "pt": "Bom dia. Este é o Briefing Diário. Hoje, vale a pena acompanhar primeiro os temas com maior impacto potencial em geopolítica, economia, energia, tecnologia e Moçambique.",
     "en": "Good morning. This is the Daily Briefing. Today, focus first on the stories with the strongest potential relevance to geopolitics, the economy, energy, technology and Mozambique."
