@@ -32,6 +32,14 @@ BAD = ['futebol','football','sport','sports','uefa','fifa','cinema','filme','mov
 EN_WORDS = [' the ',' and ',' of ',' to ',' for ',' with ',' says ',' from ',' are ',' is ',' has ',' have ',' will ',' after ',' over ',' into ',' africa\'s ']
 PT_WORDS = [' de ',' da ',' do ',' das ',' dos ',' para ',' com ',' que ',' uma ',' um ',' foi ',' será ',' estão ',' sobre ',' após ',' entre ',' país ',' governo ']
 STOPWORDS = set('a o as os de da do das dos e em no na nos nas por para com sem sobre entre que uma um uns umas ao aos à às se é foi são será após mais menos como seu sua seus suas the and of to for with from are is has have will after over into says new'.split())
+PLACE_MARKERS=('mocambique','maputo','cabo delgado','tigray','etiopia','marrocos','angola','tanzania','malawi','zambia','zimbabwe','quenia','nigeria','ghana','congo','ruanda','uganda','somalia','sudao','egipto','namibia','botswana','arabia saudita','medio oriente','estados unidos','eua','portugal','franca','paris')
+EVENT_GROUPS={
+ 'eleições':('eleicao','eleicoes','eleitoral','eleitorais','parlamento','partido'),
+ 'conflito':('guerra','conflito','rebeldes','forcas','armados','terrorismo','ataque'),
+ 'energia':('energia','energetico','combustivel','petroleo','gas','lng','electricidade','electrificacao'),
+ 'economia':('economia','investimento','inflacao','mercado','comercio','financiamento'),
+ 'tecnologia':('tecnologia','digital','inteligencia artificial','ia','telecomunicacoes'),
+}
 
 def clean(value): return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',value or ''))).strip()
 def norm(value):
@@ -88,13 +96,21 @@ def context(section,title,text,pt):
     return f'{subject} merece acompanhamento pelo possível efeito económico, institucional ou regional.',f'No caso de {subject}, o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em {section}.'
 def event_tokens(value):
     return {word for word in norm(value).split() if len(word)>=4 and word not in STOPWORDS}
+def event_profile(item):
+    text=norm(item['title']+' '+item['summary'])
+    places={place for place in PLACE_MARKERS if place in text}
+    groups={name for name,signals in EVENT_GROUPS.items() if any(signal in text for signal in signals)}
+    return places,groups
 def duplicate(candidate,seen):
     title=norm(candidate['title']); title_tokens=event_tokens(candidate['title']); body_tokens=event_tokens(candidate['title']+' '+candidate['summary'])
+    candidate_places,candidate_groups=event_profile(candidate)
     for other in seen:
         other_title=norm(other['title']); other_title_tokens=event_tokens(other['title']); other_body_tokens=event_tokens(other['title']+' '+other['summary'])
+        other_places,other_groups=event_profile(other)
         title_overlap=len(title_tokens & other_title_tokens)/max(1,min(len(title_tokens),len(other_title_tokens)))
         body_overlap=len(body_tokens & other_body_tokens)/max(1,min(len(body_tokens),len(other_body_tokens)))
-        if title==other_title or SequenceMatcher(None,title,other_title).ratio()>=.70 or title_overlap>=.60 or body_overlap>=.68: return True
+        same_event=bool(candidate_places & other_places) and bool(candidate_groups & other_groups)
+        if title==other_title or SequenceMatcher(None,title,other_title).ratio()>=.70 or title_overlap>=.60 or body_overlap>=.68 or same_event:return True
     return False
 def parse(url,section,source,hours,pt):
     if url in FEED_CACHE:

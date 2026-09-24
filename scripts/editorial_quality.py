@@ -7,6 +7,8 @@ MIN_TARGET={'Moçambique':4,'África':3,'Mundo':3}
 MAX_TARGET={'Moçambique':6,'África':6,'Mundo':6}
 MIN_NEWS=10
 STOPWORDS=set('a o as os de da do das dos e em no na nos nas por para com sem sobre entre que uma um uns umas ao aos à às se é foi são será após mais menos como seu sua seus suas the and of to for with from are is has have will after over into says new'.split())
+PLACE_MARKERS=('mocambique','maputo','cabo delgado','tigray','etiopia','marrocos','angola','tanzania','malawi','zambia','zimbabwe','quenia','nigeria','ghana','congo','ruanda','uganda','somalia','sudao','egipto','namibia','botswana','arabia saudita','medio oriente','estados unidos','eua','portugal','franca','paris')
+EVENT_GROUPS={'eleições':('eleicao','eleicoes','eleitoral','eleitorais','parlamento','partido'),'conflito':('guerra','conflito','rebeldes','forcas','armados','terrorismo','ataque'),'energia':('energia','energetico','combustivel','petroleo','gas','lng','electricidade','electrificacao'),'economia':('economia','investimento','inflacao','mercado','comercio','financiamento'),'tecnologia':('tecnologia','digital','inteligencia artificial','ia','telecomunicacoes')}
 SOURCE_SCORE={
     'RTP Notícias':5,'RTP':5,'DW Português':5,'DW English':5,
     'BBC World':5,'BBC Africa':5,'BBC':5,'Al Jazeera English':5,
@@ -58,13 +60,13 @@ def valid(x,lang):
 def dedupe(items):
     out=[]
     for x in sorted(items,key=lambda z:z.get('published',''),reverse=True):
-        a=norm(x.get('title','')); at={w for w in a.split() if len(w)>=4 and w not in STOPWORDS}; ab={w for w in norm(x.get('title','')+' '+x.get('summary','')).split() if len(w)>=4 and w not in STOPWORDS}
+        a=norm(x.get('title','')); full=norm(x.get('title','')+' '+x.get('summary','')); at={w for w in a.split() if len(w)>=4 and w not in STOPWORDS}; ab={w for w in full.split() if len(w)>=4 and w not in STOPWORDS}; ap={p for p in PLACE_MARKERS if p in full}; ag={n for n,s in EVENT_GROUPS.items() if any(v in full for v in s)}
         if not a: continue
         duplicate=False
         for y in out:
-            b=norm(y.get('title','')); bt={w for w in b.split() if len(w)>=4 and w not in STOPWORDS}; bb={w for w in norm(y.get('title','')+' '+y.get('summary','')).split() if len(w)>=4 and w not in STOPWORDS}
+            b=norm(y.get('title','')); other_full=norm(y.get('title','')+' '+y.get('summary','')); bt={w for w in b.split() if len(w)>=4 and w not in STOPWORDS}; bb={w for w in other_full.split() if len(w)>=4 and w not in STOPWORDS}; bp={p for p in PLACE_MARKERS if p in other_full}; bg={n for n,s in EVENT_GROUPS.items() if any(v in other_full for v in s)}
             title_overlap=len(at & bt)/max(1,min(len(at),len(bt))); body_overlap=len(ab & bb)/max(1,min(len(ab),len(bb)))
-            if a==b or SequenceMatcher(None,a,b).ratio()>=.70 or title_overlap>=.60 or body_overlap>=.68: duplicate=True; break
+            if a==b or SequenceMatcher(None,a,b).ratio()>=.70 or title_overlap>=.60 or body_overlap>=.68 or (ap & bp and ag & bg):duplicate=True; break
         if duplicate: continue
         out.append(x)
     return out
