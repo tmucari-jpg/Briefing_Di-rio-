@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-09-24T14:06:05.810308+00:00",
+  "updated_at": "2026-09-24T14:34:51.690258+00:00",
   "language": "en",
-  "window_days": 7,
+  "discovery_days": 365,
+  "fresh_without_deadline_days": 14,
   "items": [
     {
       "section": "Moçambique",
@@ -11,15 +12,15 @@
       "entity": "Club of Mozambique",
       "deadline": "Confirm in the original source",
       "eligibility": "Confirm in the original source",
-      "why": "The signal contains a concrete application, contracting or regulatory action that should be verified.",
-      "action": "Confirm the responsible entity, requirements and next milestone in the original source.",
+      "why": "The “Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest”, confirm the requirements and deadline, and prepare the requested documents.",
       "source": "Club of Mozambique",
       "published": "2026-09-24T13:13:36+00:00",
-      "age_hours": 0.9,
+      "age_hours": 1.4,
       "link": "https://clubofmozambique.com/news/mozambique-seeks-private-investor-for-vehicle-assembly-plant-invites-expressions-of-interest/",
       "original_source": true,
       "verification_status": "Confirm in the original source",
-      "actionability_score": 6
+      "actionability_score": 8
     }
   ],
   "categories": [
@@ -34,6 +35,6 @@
     "Novos projectos",
     "Investimentos"
   ],
-  "note": "Editorial radar: only actionable signals with direct links. Always confirm requirements in the original source.",
+  "note": "Editorial radar: opportunities with an identified deadline remain visible until that date; notices without a deadline remain visible for 14 days only.",
   "generator": "GitHub Actions · Radar de Oportunidades"
 }
