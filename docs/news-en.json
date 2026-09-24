@@ -1,63 +1,159 @@
 {
-  "updated_at": "2026-09-24T08:12:37.088094+00:00",
+  "updated_at": "2026-09-24T09:29:50.222976+00:00",
   "language": "en",
   "window_hours": 24,
-  "fallback_hours": 72,
+  "fallback_hours": 168,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Mozambique: Consultancy forecasts 30% metical devaluation in Q1 2027",
+      "summary": "The consultancy firm Oxford Economics forecasts a 30% devaluation of the metical in the first quarter of 2027, while warning that Moody’s recent downgrade of Mozambique’s credit rating reflects “a worrying situation” in public finances. “We are very pessimistic about the macroeconomic outlook for Mozambique, particularly with regard to public finances and monetary stability; the… Source",
+      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
+      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-24T08:16:39+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-consultancy-forecasts-30-metical-devaluation-in-q1-2027/",
+      "original_source": true,
+      "editorial_score": 13.75,
+      "source_tier": "B"
+    },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia",
+        "Economia",
+        "Segurança"
       ],
-      "title": "German research institutes double economic growth forecasts for 2026 to 1.3%",
-      "summary": "German research institutes have increased their prognosis for the country's economic growth to 1.3% in 2026",
-      "why": "The story helps track the direction of the global economy and investment decisions.",
-      "impact": "It may affect prices, access to capital, demand, suppliers and business opportunities.",
+      "title": "Germany: Economic institutes double growth forecast for 2026",
+      "summary": "Experts predict German GDP will double to 1.3% this year but warn of structural difficulties ahead. The picture is complicated, they say, especially because of uncertainty in the energy sector.",
+      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
+      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
       "source": "DW English",
       "published": "2026-09-24T08:11:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://www.dw.com/en/german-research-institutes-double-economic-growth-forecasts-for-2026-to-1-3/a-78168080?maca=en-rss-en-all-1573-rdf",
-      "editorial_score": 11.0,
+      "link": "https://www.dw.com/en/germany-economic-institutes-double-growth-forecast-for-2026/a-78168080?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "editorial_score": 12.73,
       "source_tier": "A"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
         "Economia"
       ],
-      "title": "Oil extends gains on little sign of progress in US-Iran talks",
-      "summary": "Iran reviews US response to peace proposals, senior Iranian official says Bessent says US and China extend trade truce by two months US crude inventories rise by 3 million barrels, EIA says Oil prices extended gains on Thursday after climbing 4% in the previous session ‌as diplomatic talks between the United States and Iran showed… Source",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-24T07:19:27+00:00",
-      "age_hours": 0.9,
+      "title": "Private sector crucial for diversification of economy – Chapo",
+      "summary": "Maputo, 24 Sep (AIM) – Mozambican President Daniel Chapo has reaffirmed that the private sector plays a crucial",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
+      "source": "AIM News",
+      "published": "2026-09-24T07:45:42+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/oil-extends-gains-on-little-sign-of-progress-in-us-iran-talks/",
-      "editorial_score": 10.81,
+      "link": "https://aimnews.org/2026/09/24/private-sector-crucial-for-diversification-of-economy-chapo/",
+      "original_source": true,
+      "editorial_score": 12.65,
+      "source_tier": "B"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Incidents related to armed conflict increased by 10 percent",
+      "summary": "Maputo, 24 Sep (AIM) – The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) estimates that",
+      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
+      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
+      "source": "AIM News",
+      "published": "2026-09-24T07:06:11+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/09/24/incidents-related-to-armed-conflict-increased-by-10-percent/",
+      "original_source": true,
+      "editorial_score": 11.5,
       "source_tier": "B"
     },
     {
       "section": "África",
       "tags": [
-        "Energia"
+        "Energia",
+        "Segurança"
       ],
-      "title": "ZAWYA: Central Energy Fund needs over $489mln to drop South Africa’s dependence on imported fuels - TradingView",
-      "summary": "ZAWYA: Central Energy Fund needs over $489mln to drop South Africa’s dependence on imported fuels TradingView",
-      "why": "Energy and investment are strategic issues that can influence government and business decisions in the region.",
-      "impact": "It may affect energy prices, investment decisions, suppliers and supply chains.",
-      "source": "TradingView",
-      "published": "2026-09-24T07:47:23+00:00",
-      "age_hours": 0.4,
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "why": "The development has geopolitical relevance and may change risk, trade and investment decisions.",
+      "impact": "It may affect prices, supply chains, trade and investor risk perceptions.",
+      "source": "BBC Africa",
+      "published": "2026-09-24T09:28:33+00:00",
+      "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNlJfdEk1ZUtUNTJHRE93eTBCSDRlMjVhS21ycTZSbmRfWEpEZGtOd1czMUg0X3ZsbnZfSFZWMGVYel8wSkRBcjdEVGl0M3o3UFpHeWR3MVJLZS1LTTVVZW1BSE5jWFEzSTBQMldNQ0dvWE1zWW81WWtEeXFtUmstRkxjbkJzdzdJVjVqV2tfZlNkRzU4UkFBX0tVUUhQWWVmLTFybmFsSHFXYnNndG5WWnN5cHJPNWh2eTB6dHREenpiZjdLaVVkbmNaRnJNWTdwNE1xbEhvTzMtQnNhNnZMMnkzN0p5b0pBNDRSZVFHYjVUYXNLeFNyWjN4djlsWUti?oc=5",
-      "editorial_score": 9.92,
-      "source_tier": "C"
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "editorial_score": 11.0,
+      "source_tier": "A"
     },
     {
       "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "‘Source of anxiety’: Pakistan cracks down before march to free Imran Khan",
+      "summary": "The government has blocked highways to the capital and set up container barriers in preparation for the PTI protest.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-24T09:12:42+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news-analysis/2026/9/24/source-of-anxiety-pakistan-cracks-down-before-march-to-free-imran-khan?traffic_source=rss",
+      "original_source": true,
+      "editorial_score": 9.94,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Morocco: Center-right PAM leads in parliamentary election",
+      "summary": "PAM is part of Morocco's outgoing ruling coalition and was founded by an adviser to the king. The moderate Islamist Justice and Development Party surged amid increasing voter apathy.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "DW English",
+      "published": "2026-09-24T08:42:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/morocco-center-right-pam-leads-in-parliamentary-election/a-79407710?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "editorial_score": 9.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Netanyahu takes UN stage with one eye on Israel’s election",
+      "summary": "As criticism of Israel intensifies, Israeli PM Netanyahu heads to the UN with his own political future in focus.",
+      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
+      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-24T08:40:45+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/24/netanyahus-un-speech-a-high-stakes-test-for-audiences-at-home?traffic_source=rss",
+      "original_source": true,
+      "editorial_score": 9.83,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
       "tags": [
         "Economia"
       ],
@@ -67,114 +163,30 @@
       "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
       "source": "Al Jazeera English",
       "published": "2026-09-24T07:41:35+00:00",
-      "age_hours": 0.5,
+      "age_hours": 1.8,
       "within_24h": true,
       "link": "https://www.aljazeera.com/news/2026/9/24/monarchy-aligned-pam-leads-in-morocco-election-provisional-results?traffic_source=rss",
-      "editorial_score": 9.9,
+      "original_source": true,
+      "editorial_score": 9.62,
       "source_tier": "A"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "South Africa raises interest rate, citing Iran war price shocks",
-      "summary": "SARB raises policy rate to 7.25% Inflation at 4.4% last month vs 3% target Bank sees inflation exceeding 5% this year Governor calls 25 bps ​hike proportionate South Africa’s central bank raised interest ‌rates for the second time this year on Wednesday, saying the Iran war had triggered “large and sustained” price shocks and tighter… Source",
-      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
-      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
+      "title": "Eni Rovuma Basin presents its 3rd Local Sustainability Report, celebrating 20 years of activity in Mozambique",
+      "summary": "The report marks two decades of Eni’s presence in Mozambique, highlighting the company’s contribution to the country’s economic and social development and reaffirming its long-term commitment to creating shared value and fostering inclusive growth. Eni presented today its Local Sustainability Report, “20 Years of Eni in Mozambique: Juntos Crescemos 2025”, during the Stakeholders Engagement Forum… Source",
+      "why": "The story helps track economic conditions that may influence businesses and households in Mozambique.",
+      "impact": "It may affect prices, demand, access to capital, hiring and opportunities for local suppliers.",
       "source": "Club of Mozambique",
-      "published": "2026-09-24T07:15:46+00:00",
-      "age_hours": 0.9,
+      "published": "2026-09-23T15:04:08+00:00",
+      "age_hours": 18.4,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/south-africa-raises-interest-rate-citing-iran-war-price-shocks/",
-      "editorial_score": 9.81,
+      "link": "https://clubofmozambique.com/news/eni-rovuma-basin-presents-its-3rd-local-sustainability-report-celebrating-20-years-of-activity-in-mozambique/",
+      "original_source": true,
+      "editorial_score": 9.17,
       "source_tier": "B"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "BBC World",
-      "published": "2026-09-24T07:10:58+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "editorial_score": 9.79,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Gaza watches Israel’s elections with fear and antipathy",
-      "summary": "Palestinians are following the campaign, but few feel next month's vote will make their lives any better.",
-      "why": "The story is worth following because of its potential economic, institutional or regional relevance.",
-      "impact": "Its concrete effect will depend on what happens next, but it may influence costs, business decisions or local opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T07:07:02+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss",
-      "editorial_score": 9.77,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Africa’s only globally accredited gold refinery looks to Ghana after South African output leaves it half empty - Business Insider Africa",
-      "summary": "Africa’s only globally accredited gold refinery looks to Ghana after South African output leaves it half empty Business Insider Africa",
-      "why": "The story helps explain economic and trade trends relevant to Africa.",
-      "impact": "It may affect regional trade, investment, employment, prices and opportunities for African businesses.",
-      "source": "Business Insider Africa",
-      "published": "2026-09-24T07:05:45+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdUVCVjEyZXhtZnJHSmloUE1GOS0xdUM1QzhSaFFzRExpRU5PaUZ2VHo4a09hNDN3WU9DUktWM0NjRS1KcEpJZWZUaThxZ01FTkxlU1ZyY25hVENjaFlrSGJvQ19BM05RNWRnRWloWkliQ2RfbGktV044cXhCN09PbkVORXgxUXFvdk1vQzlhM2wzMlR6TzV4QlZRWG5LYlp4R1VEMGtyM0oyLUZaY3NzRVlnOUZHLWJpeG0zRVl3bnlWTnlFSW5vRkxGVEpEM2VCb09jVA?oc=5",
-      "editorial_score": 9.77,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Ethiopian Airlines suspends flights to Tigray region after takeover of Mekelle airport",
-      "summary": "Tigrayan forces seized the main airport in Ethiopia’s northern Tigray region on Wednesday, three local sources said, and Ethiopian Airlines suspended flights to the region, in the latest escalation to raise fears of a new war. The move follows months of deteriorating relations between the federal government and the Tigray People’s Liberation Front (TPLF), the… Source",
-      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
-      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-24T07:06:19+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/ethiopian-airlines-suspends-flights-to-tigray-region-after-takeover-of-mekelle-airport/",
-      "editorial_score": 9.77,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "NEW: Mozambique declares solidarity with Zimbabwe at United Nations, calls for immediate lifting of sanctions - Herald.co.zw",
-      "summary": "NEW: Mozambique declares solidarity with Zimbabwe at United Nations, calls for immediate lifting of sanctions Herald.co.zw",
-      "why": "Developments in security and diplomacy can change risk levels and decisions across the region.",
-      "impact": "It may affect trade, movement, supply chains, investment and perceptions of risk.",
-      "source": "Herald.co.zw",
-      "published": "2026-09-24T07:02:44+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOHp1ZVV0U0l1VW12cWZ1UDlTcVFRNG9BMUtlYmJjU0tHaFVCSU1lX3JGeG5rUFFaR2hQRGxSWHctMTQyVUNhTDFLWHJPekZseWRVU1lid3pQSnhKcUJWODFTN2d4aUtBRmNhZkE4R1BiR2EtVC1pcm9lSjhBcDRxejFUbWRZNDZXZEttVk9BOHZhd0tQLVNkTFA1V3V2dWQ3ZGE1dkh3Zm0yZXBWal9OOWMzUDZZTWhlQ01oMHVLaFoyMmVRNUl3NndfTEo4TFVSSWo1Mzhn?oc=5",
-      "editorial_score": 9.75,
-      "source_tier": "C"
     }
   ],
   "watch": [
@@ -195,11 +207,11 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 4,
-    "África": 2,
-    "Moçambique": 4
+    "Moçambique": 4,
+    "África": 3,
+    "Mundo": 3
   },
-  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
+  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte original + deduplicação + validação geográfica.",
   "briefing_intro": {
     "pt": "Bom dia. Este é o Briefing Diário. Hoje, vale a pena acompanhar primeiro os temas com maior impacto potencial em geopolítica, economia, energia, tecnologia e Moçambique.",
     "en": "Good morning. This is the Daily Briefing. Today, focus first on the stories with the strongest potential relevance to geopolitics, the economy, energy, technology and Mozambique."

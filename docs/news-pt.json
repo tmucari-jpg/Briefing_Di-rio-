@@ -1,180 +1,189 @@
 {
-  "updated_at": "2026-09-24T08:12:31.855338+00:00",
+  "updated_at": "2026-09-24T09:28:52.568839+00:00",
   "language": "pt",
   "window_hours": 24,
-  "fallback_hours": 72,
+  "fallback_hours": 168,
   "items": [
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
         "Segurança"
       ],
-      "title": "Flávio Bolsonaro promete integrar Brasil no Escudo das Américas se vencer eleições",
-      "summary": "O candidato presidencial Flávio Bolsonaro, filho do ex-presidente Jair Bolsonaro, prometeu que integrará o Brasil no Escudo das Américas --- uma iniciativa de segurança impulsionada pelos Estados Unidos (EUA) --- caso vença as eleições de outubro.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-24T07:21:10+00:00",
-      "age_hours": 0.9,
+      "title": "Presidente da República faz balanço positivo da participação de Moçambique na 81.ª Sessão da Assembleia Geral da ONU",
+      "summary": "O Presidente da República, Daniel Francisco Chapo, afirmou esta quarta-feira, em Nova Iorque, que Moçambique continuará a pautar a sua actuação no plano internacional pela defesa intransigente do diálogo como via preferencial para a resolução de conflitos. No balanço da sua participação na 81.ª Sessão da Assembleia Geral das Nações Unidas (AGNU), o Chefe de […] The post Presidente da República faz balanço positivo da participação de Moçambique na 81.ª Sessão da Assembleia Geral da ONU first appeared on O País - A verdade como notícia .",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afectar comércio, circulação, cadeias de abastecimento, investimento e percepção de risco.",
+      "source": "O País",
+      "published": "2026-09-24T09:01:08+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/flavio-bolsonaro-promete-integrar-brasil-no-escudo-das-americas-se-vencer-eleicoes_n1767370",
-      "editorial_score": 10.81,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Primeiro-ministro discursa perante Assembleia Geral das Nações Unidas",
-      "summary": "O primeiro-ministro discursa hoje perante a 81.ª Assembleia Geral das Nações Unidas (ONU), em Nova Iorque, a poucos meses de Portugal regressar ao Conselho de Segurança da ONU como membro não-permanente.",
-      "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-24T07:06:13+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/primeiro-ministro-discursa-perante-assembleia-geral-das-nacoes-unidas_n1767381",
-      "editorial_score": 10.77,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "title": "Visita a Washington. Xi Jinping quer ver China e EUA como \"parceiros e não rivais\"",
-      "summary": "As conversações entre os dois líderes deverão resultar numa prorrogação da trégua comercial e tocar ainda em temas como a Inteligência Artificial ou a guerra no Irão.",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "RTP Notícias — Mundo",
-      "published": "2026-09-24T07:02:52+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/xi-jinping-diz-que-china-e-eua-devem-ser-parceiros-e-nao-rivais_n1767376",
-      "editorial_score": 10.75,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "title": "Xi Jinping diz que China e EUA devem ser \"parceiros e não rivais\"",
-      "summary": "As conversações entre os dois líderes deverão resultar numa prorrogação da trégua comercial e tocar ainda em temas como a Inteligência Artificial ou a guerra no Irão.",
-      "why": "A tecnologia está a transformar produtividade, regulação e modelos de negócio.",
-      "impact": "Pode criar procura por competências digitais e novas oportunidades, ao mesmo tempo que aumenta a pressão para adaptação e regulação.",
-      "source": "RTP Notícias — Últimas",
-      "published": "2026-09-24T07:02:52+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/xi-jinping-diz-que-china-e-eua-devem-ser-parceiros-e-nao-rivais_n1767376",
-      "editorial_score": 10.75,
-      "source_tier": "A"
+      "link": "https://opais.co.mz/presidente-da-republica-faz-balanco-positivo-da-participacao-de-mocambique-na-81-a-sessao-da-assembleia-geral-da-onu/",
+      "original_source": true,
+      "editorial_score": 11.92,
+      "source_tier": "B"
     },
     {
       "section": "Moçambique",
       "tags": [
         "Economia"
       ],
-      "title": "Direcção Provincial de Obras Públicas de Cabo Delgado - Obras de Construção Civil e Saneamento - diarioeconomico.co.mz",
-      "summary": "Direcção Provincial de Obras Públicas de Cabo Delgado - Obras de Construção Civil e Saneamento diarioeconomico.co.mz",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "diarioeconomico.co.mz",
-      "published": "2026-09-24T05:22:49+00:00",
-      "age_hours": 2.8,
+      "title": "Maputo: EUA Oferecem Alimentação Escolar a 170 Mil Crianças",
+      "summary": "O Governo dos Estados Unidos da América (EUA) está a fornecer refeições escolares a 170 mil crianças de 245 escolas primárias da província de Maputo, numa iniciativa que coloca a […] The post Maputo: EUA Oferecem Alimentação Escolar a 170 Mil Crianças appeared first on Diário Económico .",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
+      "source": "Diário Económico",
+      "published": "2026-09-24T08:15:00+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTmFVU0lyeDdya3JHWXVseFBydTQ1Z0p1ZlZHdmdFeGpIZkt6aWRnZlI4ZWdXaFhYZWc2S0ZzVWZoYmh5VzM2T0haN1NmQzV2MldEWEFFLWlLX0I1Q29xb3JPTWphWWMta0FXQldEV1NpZzlTbE5wYkdjNzdsdmNZbENKdUFVYk1JRktraEtRdHhEUjFldEVFclRZbUFsYWJ0REtYSEM0QkQxUlBqcDBhU2RjYTNLQi1wQTRLblZBa041Qk9oMzMzanBtQ3lFOXpUVVhVMXZjUjJpVlg0YjctdjFWQ21JRWRzQnN6V0NR?oc=5",
-      "editorial_score": 10.42,
-      "source_tier": "C"
+      "link": "https://www.diarioeconomico.co.mz/2026/09/24/desenvolvimento-2/maputo-eua-oferecem-alimentacao-escolar-a-170-mil-criancas/",
+      "original_source": true,
+      "editorial_score": 11.75,
+      "source_tier": "B"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique quer criar Coligação Estratégica de Financiamento da Electrificação Fora da Rede",
+      "summary": "Nova Iorque, 24 Set (AIM) – O Governo de Moçambique anunciou a intenção de criar uma Coligação Estratégica",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
+      "source": "AIM News",
+      "published": "2026-09-24T07:27:55+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/09/24/mocambique-quer-criar-coligacao-estrategica-de-financiamento-da-electrificacao-fora-da-rede/",
+      "original_source": true,
+      "editorial_score": 11.58,
+      "source_tier": "B"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República",
+      "summary": "O Presidente da República, Daniel Francisco Chapo, e o Vice-Presidente da ExxonMobil Corporation e Presidente da ExxonMobil Upstream, Dan Ammann, reuniram-se esta quarta-feira, em Nova Iorque, para uma avaliação detalhada do progresso do projecto Rovuma LNG. A multinacional norte-americana indicou, no final do encontro, estar próxima da adopção da Decisão Final de Investimento para a […] The post ExxonMobil perto de adoptar Decisão Final de Investimento após encontro com o Presidente da República first appeared on O País - A verdade como notícia .",
+      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
+      "impact": "Pode afectar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
+      "source": "O País",
+      "published": "2026-09-24T08:13:44+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://opais.co.mz/exxonmobil-perto-de-adoptar-decisao-final-de-investimento-apos-encontro-com-o-presidente-da-republica/",
+      "original_source": true,
+      "editorial_score": 10.75,
+      "source_tier": "B"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Partido da coligação do Governo vence eleições legislativas em Marrocos",
+      "summary": "O Partido da Autenticidade e Modernidade (PAM), membro da atual coligação governamental tripartida em Marrocos, venceu as eleições legislativas realizadas na quarta-feira, de acordo com os primeiros resultados provisórios.",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-24T09:12:33+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/partido-da-coligacao-do-governo-vence-eleicoes-legislativas-em-marrocos_n1767417",
+      "original_source": true,
+      "editorial_score": 9.94,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
       "tags": [
         "Economia"
       ],
       "title": "Partido da coligação no poder lidera resultados eleitorais provisórios em Marrocos",
       "summary": "O Partido Autenticidade e Modernidade (PAM), que faz parte da atual coligação governamental, conquistou o maior número de lugares nas eleições parlamentares de Marrocos, segundo os resultados provisórios anunciados hoje pelo Ministério do Interior.",
       "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
-      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afetar custos, decisões empresariais ou oportunidades locais.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
       "source": "RTP Notícias — Mundo",
       "published": "2026-09-24T07:37:34+00:00",
-      "age_hours": 0.6,
+      "age_hours": 1.9,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/partido-da-coligacao-no-poder-lidera-resultados-eleitorais-provisorios-em-marrocos_n1767395",
-      "editorial_score": 9.88,
+      "original_source": true,
+      "editorial_score": 9.6,
       "source_tier": "A"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
       "title": "Rubio diz que venda de armas a Taiwan depende das necessidades de defesa dos EUA",
       "summary": "O secretário de Estado norte-americano, Marco Rubio, afirmou que as vendas de armas a Taiwan dependem das necessidades militares dos Estados Unidos, numa altura em que permanece incerta a aprovação de um pacote de armamento para Taipé.",
       "why": "A evolução tem relevância geopolítica e pode alterar riscos, comércio e decisões de investimento.",
-      "impact": "Pode afetar preços, cadeias de abastecimento, comércio e perceção de risco para investidores.",
+      "impact": "Pode afectar preços, cadeias de abastecimento, comércio e percepção de risco para investidores.",
       "source": "RTP Notícias — Mundo",
       "published": "2026-09-24T07:37:12+00:00",
-      "age_hours": 0.6,
+      "age_hours": 1.9,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/rubio-diz-que-venda-de-armas-a-taiwan-depende-das-necessidades-de-defesa-dos-eua_n1767394",
-      "editorial_score": 9.88,
+      "original_source": true,
+      "editorial_score": 9.6,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Primeiro-ministro de Espanha discursa na ONU contra políticas de governos \"reacionários\"",
+      "summary": "O primeiro-ministro de Espanha, Pedro Sánchez, discursou na Assembleia Geral da ONU contra uma série de políticas implementadas por governos que descreveu como \"reacionários\" e garantiu que Madrid \"não se vai calar\".",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-24T07:24:55+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/primeiro-ministro-de-espanha-discursa-na-onu-contra-politicas-de-governos-reacionarios_n1767375",
+      "original_source": true,
+      "editorial_score": 9.56,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Presidente da Venezuela promete eleições no \"momento certo\" na estreia na ONU",
+      "summary": "A Presidente interina da Venezuela, ao fazer o primeiro discurso na Assembleia Geral da ONU desde que assumiu o poder, prometeu realizar eleições e afirmou que o povo do país determinará o \"momento certo\".",
+      "why": "A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.",
+      "impact": "O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-24T07:23:09+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/presidente-da-venezuela-promete-eleicoes-no-momento-certo-na-estreia-na-onu_n1767373",
+      "original_source": true,
+      "editorial_score": 9.56,
       "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "A reunião do Comitê Conjunto Vietnã-Tanzânia busca um novo impulso para o investimento. - Vietnam.vn",
-      "summary": "A reunião do Comitê Conjunto Vietnã-Tanzânia busca um novo impulso para o investimento. Vietnam.vn",
-      "why": "A notícia ajuda a perceber tendências económicas e comerciais relevantes para África.",
-      "impact": "Pode afetar comércio regional, investimento, emprego, preços e oportunidades para empresas africanas.",
-      "source": "Vietnam.vn",
-      "published": "2026-09-24T06:26:26+00:00",
-      "age_hours": 1.8,
+      "title": "Recomeçou a guerra no Tigray na região norte da Etiópia",
+      "summary": "Na região norte da Etiópia, o conflito entre os rebeldes do Tigray e as tropas federais, que estava interrompido desde 2022, voltou a escalar. Uma guerra que matou cerca de 500 mil pessoas e atirou para a pobreza milhões.",
+      "why": "A evolução da segurança e da diplomacia pode alterar riscos e decisões na região.",
+      "impact": "Pode afectar comércio, circulação, cadeias de abastecimento, investimento e percepção de risco.",
+      "source": "RTP Notícias — Mundo",
+      "published": "2026-09-23T14:28:47+00:00",
+      "age_hours": 19.0,
       "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3kycThjLXZKNXgyXzJsR05qXzlWMFMzOHY3QkFvLUZCM2VLX3BvekVfbDNGOWRKSUlmVXNQUU41U0hvYk5rX2VUN0dIRHhPd3VnQ2NpeFd5cFQ3czdGY01vT1BJcVVxZDhGWUpaYmlBdXVWZlk2QkpOUlFIQWRmUkM0TjlsMmZ3V1ZtcldfZFlmYzVtWkkxaw?oc=5",
-      "editorial_score": 9.62,
-      "source_tier": "C"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique defende multilateralismo e diz que África requer investimentos - news.un.org",
-      "summary": "Moçambique defende multilateralismo e diz que África requer investimentos news.un.org",
-      "why": "A notícia ajuda a acompanhar condições económicas que podem influenciar empresas e famílias em Moçambique.",
-      "impact": "Pode refletir-se em preços, procura, acesso a capital, contratação e oportunidades para fornecedores locais.",
-      "source": "news.un.org",
-      "published": "2026-09-24T00:35:52+00:00",
-      "age_hours": 7.6,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jUG52OS1YdERtcnhQckdGYkpxUFZtYVpuR0p1aDZseVlmTVlaYW45MVIwcUdaRVhyU3Z3QUFfU3pnZXhYRkNJTGVzNFRlUTVYS1BtUXktSQ?oc=5",
-      "editorial_score": 9.42,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Petrobrás firma com estatal de Moçambique cooperação estratégica no setor de óleo e gás - Hora do Povo",
-      "summary": "Petrobrás firma com estatal de Moçambique cooperação estratégica no setor de óleo e gás Hora do Povo",
-      "why": "Energia e investimento são temas estratégicos que podem influenciar decisões de governos e empresas na região.",
-      "impact": "Pode afetar preços de energia, decisões de investimento, fornecedores e cadeias de abastecimento.",
-      "source": "Hora do Povo",
-      "published": "2026-09-24T00:21:41+00:00",
-      "age_hours": 7.8,
-      "within_24h": true,
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNelMzUzM2cWp6TFdpU0JySmt1TjB5VGxXT1RlQ2g4WUVYVVd1VE5xZnZMN19ER1hFVC1vZ2dEcVZYUXhhSmVONzlWbmNDX2RKOWlWb1hzdEZIRDZyWVFiS2dobEplcjlsT2ZMWWdQTzZfLWVEaWU5SC1JSEJweWRZTW1EeF85aHk0UTdfNXlsNXJLX2RBSFI4OVhYMmgtdmpXeVlFUlZGMXk1Qmh3eDczZ0hCTGk?oc=5",
-      "editorial_score": 6.38,
-      "source_tier": "C"
+      "link": "https://www.rtp.pt/noticias/mundo/recomecou-a-guerra-no-tigray-na-regiao-norte-da-etiopia_n1767260",
+      "original_source": true,
+      "editorial_score": 7.04,
+      "source_tier": "A"
     }
   ],
   "watch": [
@@ -195,11 +204,11 @@
   ],
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
-    "Mundo": 6,
-    "África": 2,
-    "Moçambique": 2
+    "Moçambique": 4,
+    "África": 3,
+    "Mundo": 3
   },
-  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte + deduplicação + validação.",
+  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte original + deduplicação + validação geográfica.",
   "briefing_intro": {
     "pt": "Bom dia. Este é o Briefing Diário. Hoje, vale a pena acompanhar primeiro os temas com maior impacto potencial em geopolítica, economia, energia, tecnologia e Moçambique.",
     "en": "Good morning. This is the Daily Briefing. Today, focus first on the stories with the strongest potential relevance to geopolitics, the economy, energy, technology and Mozambique."
