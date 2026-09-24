@@ -16,8 +16,7 @@ const UI = {
     hero: 'Notícias essenciais para acompanhar', sub: 'Actualidade · contexto, impacto e oportunidades.',
     listen: '▶ Ouvir resumos', news: 'Notícias', install: '＋ Instalar', source: 'Ler notícia completa ↗',
     audio: '🔊 Ouvir', all: 'Todos', empty: 'Sem notícias neste filtro.', try: 'Experimente “Todos” ou outro tema.',
-    curation: 'Curadoria editorial', curationText: 'Relevância, actualidade, qualidade da fonte e diversidade editorial.',
-    risks: 'Riscos', risksHint: 'Abrir análise de riscos', opportunities: 'Oportunidades', opportunitiesHint: 'Abrir radar de oportunidades',
+    opportunities: 'Oportunidades', opportunitiesHint: 'Abrir radar de oportunidades',
     noOpportunities: 'Nenhuma oportunidade accionável publicada nesta edição.', openOpportunity: 'Consultar oportunidade ↗'
   },
   en: {
@@ -25,8 +24,7 @@ const UI = {
     hero: 'Essential stories to follow', sub: 'Latest developments · context, impact and opportunities.',
     listen: '▶ Listen to summaries', news: 'News', install: '＋ Install', source: 'Read full story ↗',
     audio: '🔊 Listen', all: 'All', empty: 'No news in this filter.', try: 'Try “All” or another filter.',
-    curation: 'Editorial curation', curationText: 'Relevance, recency, source quality and editorial diversity.',
-    risks: 'Risks', risksHint: 'Open risk analysis', opportunities: 'Opportunities', opportunitiesHint: 'Open opportunity radar',
+    opportunities: 'Opportunities', opportunitiesHint: 'Open opportunity radar',
     noOpportunities: 'No actionable opportunity was published in this edition.', openOpportunity: 'View opportunity ↗'
   }
 };
@@ -103,21 +101,9 @@ function renderInsights(payload) {
   const container = $('#summary');
   container.innerHTML = '';
 
-  const curation = document.createElement('div');
-  curation.className = 'insight';
-  curation.innerHTML = `<span class="insight-icon">📰</span><div><strong>${t('curation')}</strong><small>${t('curationText')}</small></div>`;
-  container.append(curation);
-
-  const risks = document.createElement('details');
-  risks.className = 'insight drawer risk-drawer';
-  risks.append(summaryHeading('⚠️', t('risks'), t('risksHint')));
-  const riskList = document.createElement('ul');
-  (payload.risks || []).forEach(item => { const li = document.createElement('li'); li.textContent = item; riskList.append(li); });
-  risks.append(riskList);
-  container.append(risks);
-
   const radar = document.createElement('details');
   radar.className = 'insight drawer opportunity-drawer';
+  radar.style.gridColumn = '1 / -1';
   radar.append(summaryHeading('🚀', t('opportunities'), t('opportunitiesHint')));
   const radarBody = document.createElement('div');
   radarBody.className = 'drawer-body';
