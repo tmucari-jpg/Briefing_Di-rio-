@@ -6,15 +6,15 @@ let lang = localStorage.getItem('briefingLang') || 'pt';
 if (!['pt', 'en'].includes(lang)) lang = 'pt';
 
 let deferredPrompt = null;
-const MAX_NEWS = 10;
+const MAX_NEWS = 20;
 const $ = selector => document.querySelector(selector);
 const $$ = selector => document.querySelectorAll(selector);
 
 const UI = {
   pt: {
     title: 'Mundo · África · Moçambique', updated: 'A carregar…', edition: 'EDIÇÃO DO DIA',
-    hero: '10 notícias relevantes para acompanhar', sub: 'Últimas 24 horas · contexto, impacto e oportunidades.',
-    listen: '▶ Ouvir briefing', news: 'Notícias', install: '＋ Instalar', source: 'Fonte original ↗',
+    hero: 'Notícias essenciais para acompanhar', sub: 'Actualidade · contexto, impacto e oportunidades.',
+    listen: '▶ Ouvir resumos', news: 'Notícias', install: '＋ Instalar', source: 'Ler notícia completa ↗',
     audio: '🔊 Ouvir', all: 'Todos', empty: 'Sem notícias neste filtro.', try: 'Experimente “Todos” ou outro tema.',
     curation: 'Curadoria editorial', curationText: 'Relevância, actualidade, qualidade da fonte e diversidade editorial.',
     risks: 'Riscos', risksHint: 'Abrir análise de riscos', opportunities: 'Oportunidades', opportunitiesHint: 'Abrir radar de oportunidades',
@@ -22,8 +22,8 @@ const UI = {
   },
   en: {
     title: 'World · Africa · Mozambique', updated: 'Loading…', edition: 'TODAY’S EDITION',
-    hero: '10 relevant stories to follow', sub: 'Last 24 hours · context, impact and opportunities.',
-    listen: '▶ Listen briefing', news: 'News', install: '＋ Install', source: 'Original source ↗',
+    hero: 'Essential stories to follow', sub: 'Latest developments · context, impact and opportunities.',
+    listen: '▶ Listen to summaries', news: 'News', install: '＋ Install', source: 'Read full story ↗',
     audio: '🔊 Listen', all: 'All', empty: 'No news in this filter.', try: 'Try “All” or another filter.',
     curation: 'Editorial curation', curationText: 'Relevance, recency, source quality and editorial diversity.',
     risks: 'Risks', risksHint: 'Open risk analysis', opportunities: 'Opportunities', opportunitiesHint: 'Open opportunity radar',
@@ -76,7 +76,7 @@ function render() {
     link.textContent = t('source');
     const audio = card.querySelector('.speak');
     audio.textContent = t('audio');
-    audio.onclick = () => speak(`${item.title || ''}. ${item.summary || ''}. ${item.why || ''}. ${item.impact || ''}`);
+    audio.onclick = () => speak(`${item.title || ''}. ${item.summary || ''}`);
     $('#news').append(card);
   });
 }
@@ -133,12 +133,14 @@ function renderInsights(payload) {
       category.textContent = item.category || item.section || t('opportunities');
       const title = document.createElement('strong');
       title.textContent = item.title || '';
+      const deadline = document.createElement('small');
+      deadline.textContent = `${lang === 'pt' ? 'Prazo' : 'Deadline'}: ${item.deadline || (lang === 'pt' ? 'Confirmar na fonte' : 'Confirm in source')}`;
       const link = document.createElement('a');
       link.href = item.link || '#';
       link.target = '_blank';
       link.rel = 'noopener';
       link.textContent = t('openOpportunity');
-      row.append(category, title, link);
+      row.append(category, title, deadline, link);
       radarBody.append(row);
     });
   }
@@ -208,7 +210,7 @@ function bind() {
     setActive('#topics', topic);
     render();
   });
-  $('#listenAll').onclick = () => speak(filteredItems().slice(0, MAX_NEWS).map(item => `${item.title || ''}. ${item.summary || ''}. ${item.why || ''}. ${item.impact || ''}`).join(' '));
+  $('#listenAll').onclick = () => speak(filteredItems().slice(0, MAX_NEWS).map(item => `${item.title || ''}. ${item.summary || ''}`).join(' '));
   $('#refresh').onclick = () => load(true);
   $('#install').onclick = () => {
     if (deferredPrompt) { deferredPrompt.prompt(); deferredPrompt = null; }

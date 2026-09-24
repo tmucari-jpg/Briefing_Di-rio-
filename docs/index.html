@@ -1,1 +1,55 @@
-<!doctype html><html lang="pt-MZ"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0b2c3d"><meta name="description" content="Briefing diário de notícias do Mundo, África e Moçambique."><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.json?v=4"><link rel="stylesheet" href="style.css?v=5"><title>Briefing Diário</title></head><body><main><header class="top"><div class="brand"><img class="brand-logo" src="logo.svg" alt="Briefing Diário"><div><h1 id="title">Mundo · África · Moçambique</h1><p id="updated">A carregar…</p></div></div><div class="top-actions"><button id="language" class="icon-btn">PT</button><button id="refresh" class="icon-btn" aria-label="Actualizar">↻</button><button id="install" class="icon-btn">＋ Instalar</button></div></header><nav id="sections" class="tabs"><button class="active" data-section="Mundo">Mundo</button><button data-section="África">África</button><button data-section="Moçambique">Moçambique</button></nav><div id="topics" class="tabs topics"><button class="active" data-topic="Todos">Todos</button><button data-topic="Energia">Energia</button><button data-topic="IA">IA</button><button data-topic="Economia">Economia</button><button data-topic="Segurança">Segurança</button></div><section class="hero"><div><span class="eyebrow" id="edition">EDIÇÃO DO DIA</span><h2 id="heroTitle">10 notícias relevantes para acompanhar</h2><p id="heroSub">Últimas 24 horas · contexto, impacto e oportunidades.</p></div><button id="listenAll">▶ Ouvir briefing</button></section><section id="summary" class="insights"></section><section><div class="section-head"><h2 id="newsTitle">Notícias</h2><span id="count"></span></div><div id="news"></div></section></main><template id="card"><article class="card"><div class="meta"></div><h3></h3><p class="summary"></p><div class="why"></div><div class="impact"></div><div class="actions"><button class="speak">🔊 Ouvir</button><a target="_blank" rel="noopener">Fonte ↗</a></div></article></template><script src="app.js?v=8"></script></body></html>
+<!doctype html>
+<html lang="pt-MZ">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b2c3d">
+  <meta name="description" content="Briefing diário de notícias do Mundo, África e Moçambique.">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.json?v=4">
+  <link rel="stylesheet" href="style.css?v=5">
+  <title>Briefing Diário</title>
+</head>
+<body>
+  <main>
+    <header class="top">
+      <div class="brand">
+        <img class="brand-logo" src="logo.svg" alt="Briefing Diário">
+        <div><h1 id="title">Mundo · África · Moçambique</h1><p id="updated">A carregar…</p></div>
+      </div>
+      <div class="top-actions">
+        <button id="language" class="icon-btn">PT</button>
+        <button id="refresh" class="icon-btn" aria-label="Actualizar">↻</button>
+        <button id="install" class="icon-btn">＋ Instalar</button>
+      </div>
+    </header>
+    <nav id="sections" class="tabs">
+      <button class="active" data-section="Mundo">Mundo</button>
+      <button data-section="África">África</button>
+      <button data-section="Moçambique">Moçambique</button>
+    </nav>
+    <div id="topics" class="tabs topics">
+      <button class="active" data-topic="Todos">Todos</button>
+      <button data-topic="Energia">Energia</button>
+      <button data-topic="IA">IA</button>
+      <button data-topic="Economia">Economia</button>
+      <button data-topic="Segurança">Segurança</button>
+    </div>
+    <section class="hero">
+      <div><span class="eyebrow" id="edition">EDIÇÃO DO DIA</span><h2 id="heroTitle">Notícias essenciais para acompanhar</h2><p id="heroSub">Actualidade · contexto, impacto e oportunidades.</p></div>
+      <button id="listenAll">▶ Ouvir resumos</button>
+    </section>
+    <section id="summary" class="insights"></section>
+    <section><div class="section-head"><h2 id="newsTitle">Notícias</h2><span id="count"></span></div><div id="news"></div></section>
+  </main>
+  <template id="card">
+    <article class="card">
+      <div class="meta"></div><h3></h3><p class="summary"></p><div class="why"></div><div class="impact"></div>
+      <div class="actions"><button class="speak">🔊 Ouvir resumo</button><a target="_blank" rel="noopener">Ler notícia completa ↗</a></div>
+    </article>
+  </template>
+  <script src="app.js?v=9"></script>
+</body>
+</html>

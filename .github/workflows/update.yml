@@ -82,24 +82,24 @@ jobs:
                   f'{ficheiro}: formato de notícias inválido'
               )
 
-              assert quantidade == 10, (
+              assert 10 <= quantidade <= 18, (
                   f'{ficheiro}: foram encontradas '
-                  f'{quantidade} notícias. São exigidas exactamente 10.'
+                  f'{quantidade} notícias. São exigidas entre 10 e 18.'
               )
 
-              assert contagens.get('Moçambique', 0) == 4, (
-                  f'{ficheiro}: são exigidas exactamente '
-                  '4 notícias da secção Moçambique'
+              assert 4 <= contagens.get('Moçambique', 0) <= 6, (
+                  f'{ficheiro}: são exigidas entre '
+                  '4 e 6 notícias da secção Moçambique'
               )
 
-              assert contagens.get('África', 0) == 3, (
-                  f'{ficheiro}: são exigidas exactamente '
-                  '3 notícias da secção África'
+              assert 3 <= contagens.get('África', 0) <= 6, (
+                  f'{ficheiro}: são exigidas entre '
+                  '3 e 6 notícias da secção África'
               )
 
-              assert contagens.get('Mundo', 0) == 3, (
-                  f'{ficheiro}: são exigidas exactamente '
-                  '3 notícias da secção Mundo'
+              assert 3 <= contagens.get('Mundo', 0) <= 6, (
+                  f'{ficheiro}: são exigidas entre '
+                  '3 e 6 notícias da secção Mundo'
               )
 
               titulos = [
