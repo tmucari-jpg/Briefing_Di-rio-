@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T18:51:24.227117+00:00",
+  "updated_at": "2026-09-24T22:03:03.325140+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 96,
@@ -16,11 +16,11 @@
       "impact": "No caso de «Persiste venda informal nas avenidas da Cidade de Maputo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "O País",
       "published": "2026-09-24T17:22:14+00:00",
-      "age_hours": 1.5,
+      "age_hours": 4.7,
       "within_24h": true,
       "link": "https://opais.co.mz/persiste-venda-informal-nas-avenidas-da-cidade-de-maputo/",
       "original_source": true,
-      "editorial_score": 12.69,
+      "editorial_score": 12.02,
       "source_tier": "B"
     },
     {
@@ -34,11 +34,11 @@
       "impact": "No caso de «Área 4: AT e Eni Alinham Procedimentos Aduaneiros», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-09-24T13:45:00+00:00",
-      "age_hours": 5.1,
+      "age_hours": 8.3,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/09/24/oilgas/area-4-at-e-eni-alinham-procedimentos-aduaneiros/",
       "original_source": true,
-      "editorial_score": 11.94,
+      "editorial_score": 11.27,
       "source_tier": "B"
     },
     {
@@ -52,29 +52,29 @@
       "impact": "No caso de «Governo e parceiros lançam quarta fase do Programa de Boa Governação Financeira», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM News",
       "published": "2026-09-24T15:37:36+00:00",
-      "age_hours": 3.2,
+      "age_hours": 6.4,
       "within_24h": true,
       "link": "https://aimnews.org/2026/09/24/governo-e-parceiros-lancam-quarta-fase-do-programa-de-boa-governacao-financeira/",
       "original_source": true,
-      "editorial_score": 11.33,
+      "editorial_score": 10.67,
       "source_tier": "B"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Ministro da Economia pede aos portugueses para evitar consumir combustíveis sempre que possível",
-      "summary": "O ministro da Economia insiste em que os portugueses devem evitar o consumo de combustíveis sempre que possível. Um pedido de poupança num periodo em que existe cada vez mais escassez de produtos refinados no mercado abastecedor de combustiveis.",
-      "why": "«Ministro da Economia pede aos portugueses para evitar consumir combustíveis sempre que possível» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Ministro da Economia pede aos portugueses para evitar consumir combustíveis sempre que possível», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Xi aconselha prudência aos Estados Unidos no dossier Taiwan",
+      "summary": "O presidente da China está nos Estados Unidos para visita oficial de três dias. Um dos temas em discussão é a guerra das tarifas com tréguas até ao início do próximo ano. Xi Jinping aconselhou prudência aos Estados Unidos na questão de Taiwan.",
+      "why": "«Xi aconselha prudência aos Estados Unidos no dossier Taiwan» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Xi aconselha prudência aos Estados Unidos no dossier Taiwan», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-09-24T14:18:25+00:00",
-      "age_hours": 4.5,
+      "published": "2026-09-24T19:54:47+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/ministro-da-economia-pede-aos-portugueses-para-evitar-consumir-combustiveis-sempre-que-possivel_n1767488",
+      "link": "https://www.rtp.pt/noticias/mundo/xi-aconselha-prudencia-aos-estados-unidos-no-dossier-taiwan_v1767558",
       "original_source": true,
-      "editorial_score": 10.06,
+      "editorial_score": 10.56,
       "source_tier": "A"
     },
     {
@@ -82,17 +82,36 @@
       "tags": [
         "Economia"
       ],
-      "title": "Governo de Meloni aprova decreto que limita número de estrangeiros por sala de aula",
-      "summary": "O Governo italiano de direita radical, liderado por Giorgia Meloni, aprovou hoje o decreto-lei que limita o número máximo de alunos estrangeiros por sala de aula e introduz a proibição da burca e do `hijab` nas instituições de ensino.",
-      "why": "«Governo de Meloni aprova decreto que limita número de estrangeiros por sala de aula» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo de Meloni aprova decreto que limita número de estrangeiros por sala de aula», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Kiev fechou acordo \"muito importante\" para obter mais mísseis Patriot adiantou Zelensky",
+      "summary": "A Ucrânia fechou um acordo \"muito importante\" para obter mísseis intercetores para os sistemas antiaéreos Patriot, um recurso militar fundamental na defesa do território ucraniano contra os bombardeamentos russos, adiantou hoje o Presidente Volodymyr Zelensky.",
+      "why": "«Kiev fechou acordo \"muito importante\" para obter mais mísseis Patriot adiantou Zelensky» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Kiev fechou acordo \"muito importante\" para obter mais mísseis Patriot adiantou Zelensky», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-09-24T18:47:00+00:00",
+      "published": "2026-09-24T21:59:04+00:00",
       "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/governo-de-meloni-aprova-decreto-que-limita-numero-de-estrangeiros-por-sala-de-aula_n1767538",
+      "link": "https://www.rtp.pt/noticias/mundo/kiev-fechou-acordo-muito-importante-para-obter-mais-misseis-patriot-adiantou-zelensky_n1767576",
       "original_source": true,
       "editorial_score": 9.98,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "\"Crise energética afeta todos\". Montenegro apela ao fim de \"masoquismo coletivo\"",
+      "summary": "O primeiro-ministro discursou ao fim da tarde perante Assembleia-Geral das Nações Unidas, defendendo o fim dos conflitos mundiais e do \"masoquismo coletivo\" que está a causar a escalada dos preços dos combustíveis. Luís Montenegro propôs uma reflexão sobre o mecanismo de formação do preço internacional do petróleo.",
+      "why": "«\"Crise energética afeta todos\". Montenegro apela ao fim de \"masoquismo coletivo\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «\"Crise energética afeta todos\". Montenegro apela ao fim de \"masoquismo coletivo\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-09-24T20:17:22+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/economia/crise-energetica-afeta-todos-montenegro-apela-ao-fim-de-masoquismo-coletivo_n1767564",
+      "original_source": true,
+      "editorial_score": 9.62,
       "source_tier": "A"
     },
     {
@@ -106,30 +125,12 @@
       "impact": "No caso de «Cerca de 5 mil pessoas passam a ter acesso à energia eléctrica em Marara», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "O País",
       "published": "2026-09-24T18:24:05+00:00",
-      "age_hours": 0.5,
+      "age_hours": 3.6,
       "within_24h": true,
       "link": "https://opais.co.mz/cerca-de-5-mil-pessoas-passam-a-ter-acesso-a-energia-electrica-em-marara/",
       "original_source": true,
-      "editorial_score": 9.9,
+      "editorial_score": 9.25,
       "source_tier": "B"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Trump e Xi Jinping discutem IA e outros \"temas quentes\" em Washington",
-      "summary": "Donald Trump recebeu o presidente chinês, Xi Jinping, que faz a sua primeira visita oficial à Casa Branca desde 2015. Num discurso inicial, os líderes saudaram a relação de \"amizade verdadeiramente fantástica\" que mantêm e mostraram-se empenhados em debater \"temas quentes\", entre os quais o desenvolvimento da inteligência artificial.",
-      "why": "«Trump e Xi Jinping discutem IA e outros \"temas quentes\" em Washington» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Trump e Xi Jinping discutem IA e outros \"temas quentes\" em Washington», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-09-24T17:19:35+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/trump-e-xi-jinping-discutem-ia-e-outros-temas-quentes-em-washington_n1767518",
-      "original_source": true,
-      "editorial_score": 9.69,
-      "source_tier": "A"
     },
     {
       "section": "África",
@@ -142,11 +143,11 @@
       "impact": "No caso de «Grupos armados no Tigray declaram \"guerra total\" contra a Etópia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-09-24T09:32:24+00:00",
-      "age_hours": 9.3,
+      "age_hours": 12.5,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/grupos-armados-no-tigray-declaram-guerra-total-contra-a-etopia_n1767427",
       "original_source": true,
-      "editorial_score": 9.06,
+      "editorial_score": 8.4,
       "source_tier": "A"
     },
     {
@@ -160,11 +161,11 @@
       "impact": "No caso de «Partido da coligação do Governo vence eleições legislativas em Marrocos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "RTP Notícias",
       "published": "2026-09-24T09:12:33+00:00",
-      "age_hours": 9.6,
+      "age_hours": 12.8,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/partido-da-coligacao-do-governo-vence-eleicoes-legislativas-em-marrocos_n1767417",
       "original_source": true,
-      "editorial_score": 8.0,
+      "editorial_score": 7.33,
       "source_tier": "A"
     },
     {
@@ -178,11 +179,11 @@
       "impact": "No caso de «Angola ressalta papel como mediadora da paz na África», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "ONU News",
       "published": "2026-09-22T12:00:00+00:00",
-      "age_hours": 54.9,
+      "age_hours": 58.1,
       "within_24h": false,
       "link": "https://news.un.org/feed/view/pt/story/2026/09/1854428",
       "original_source": true,
-      "editorial_score": 6.53,
+      "editorial_score": 6.43,
       "source_tier": "C"
     },
     {
@@ -196,11 +197,11 @@
       "impact": "No caso de «Entenda: 5 ameaças existenciais causadas pelo aumento do nível do mar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "ONU News",
       "published": "2026-09-24T12:00:00+00:00",
-      "age_hours": 6.9,
+      "age_hours": 10.1,
       "within_24h": true,
       "link": "https://news.un.org/feed/view/pt/story/2026/09/1854417",
       "original_source": true,
-      "editorial_score": 5.56,
+      "editorial_score": 4.9,
       "source_tier": "C"
     },
     {
@@ -214,11 +215,11 @@
       "impact": "No caso de «Multidões celebram o Dia Nacional saudita com bandeiras e desfile militar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-09-24T09:53:57+00:00",
-      "age_hours": 9.0,
+      "age_hours": 12.2,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/09/24/multidoes-celebram-o-dia-nacional-saudita-com-bandeiras-e-desfile-militar",
       "original_source": true,
-      "editorial_score": 5.12,
+      "editorial_score": 4.46,
       "source_tier": "C"
     },
     {
@@ -232,11 +233,11 @@
       "impact": "No caso de «EUA admitem oito tentativas de suicídio em porta-aviões em missão sem precedentes no Médio Oriente», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-09-24T09:09:16+00:00",
-      "age_hours": 9.7,
+      "age_hours": 12.9,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/09/24/eua-admitem-oito-tentativas-de-suicidio-em-porta-avioes-em-missao-sem-precedentes-no-medio",
       "original_source": true,
-      "editorial_score": 4.98,
+      "editorial_score": 4.31,
       "source_tier": "C"
     }
   ],
