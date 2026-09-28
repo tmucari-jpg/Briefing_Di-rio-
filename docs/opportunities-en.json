@@ -1,28 +1,9 @@
 {
-  "updated_at": "2026-09-27T21:53:07.436196+00:00",
+  "updated_at": "2026-09-28T09:27:50.896120+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [
-    {
-      "section": "Moçambique",
-      "category": "Investimentos",
-      "title": "Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest",
-      "summary": "The automotive industry project aims to create skilled jobs and develop industrial competences. The Mozambican Government today set in motion the process of selecting a private investor to install and operate a vehicle assembly plant under a public-private partnership, initially providing for the production of buses and later expanding to other types of vehicles. The… Source",
-      "entity": "Club of Mozambique",
-      "deadline": "Confirm in the original source",
-      "eligibility": "Confirm in the original source",
-      "why": "The “Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
-      "action": "Open the original notice for “Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest”, confirm the requirements and deadline, and prepare the requested documents.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-24T13:13:36+00:00",
-      "age_hours": 80.7,
-      "link": "https://clubofmozambique.com/news/mozambique-seeks-private-investor-for-vehicle-assembly-plant-invites-expressions-of-interest/",
-      "original_source": true,
-      "verification_status": "Confirm in the original source",
-      "actionability_score": 8
-    }
-  ],
+  "items": [],
   "categories": [
     "Concursos",
     "Procurement",
