@@ -99,8 +99,7 @@ async function translateText(text, source, target) {
   if (!clean) return '';
   const key = `${source}:${target}:${clean}`;
   if (translationCache.has(key)) return translationCache.get(key);
-  const translated = [];
-  for (const chunk of translationChunks(clean)) {
+  const translated = await Promise.all(translationChunks(clean).map(async chunk => {
     const controller = new AbortController();
     const timeout = window.setTimeout(() => controller.abort(), 12000);
     try {
@@ -114,9 +113,9 @@ async function translateText(text, source, target) {
       if (!translatedText) throw new Error('Empty translation');
       const textarea = document.createElement('textarea');
       textarea.innerHTML = translatedText;
-      translated.push(textarea.value);
+      return textarea.value;
     } finally { window.clearTimeout(timeout); }
-  }
+  }));
   const result = translated.join(' ');
   translationCache.set(key, result);
   return result;
@@ -253,7 +252,7 @@ function render() {
       translate.disabled = true;
       translate.textContent = t('translating');
       try {
-        const target = lang === 'pt' ? 'en' : 'pt';
+        const target = lang === 'pt' ? 'en' : 'pt-PT';
         const [translatedTitle, translatedSummary] = await Promise.all([
           translateText(originalTitle, lang, target), translateText(originalSummary, lang, target)
         ]);
@@ -329,7 +328,7 @@ function renderInsights(payload) {
         translate.onclick = async () => {
           translate.disabled = true;
           try {
-            title.textContent = await translateText(originalTitle, item._language, lang === 'en' ? 'en' : 'pt');
+            title.textContent = await translateText(originalTitle, item._language, lang === 'en' ? 'en' : 'pt-PT');
             translate.remove();
           } catch (error) {
             translate.textContent = t('translationError');
