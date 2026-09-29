@@ -10,6 +10,7 @@ const isStandalone = () => window.matchMedia('(display-mode: standalone)').match
 let availableVoices = [];
 let speechSession = 0;
 let audioPlaying = false;
+const translationCache = new Map();
 const MAX_NEWS = 20;
 const $ = selector => document.querySelector(selector);
 const $$ = selector => document.querySelectorAll(selector);
@@ -22,7 +23,8 @@ const UI = {
     audio: '🔊 Ouvir', all: 'Todos', empty: 'Sem notícias neste filtro.', try: 'Experimente “Todos” ou outro tema.',
     opportunities: 'Oportunidades', opportunitiesHint: 'Abrir radar de oportunidades',
     noOpportunities: 'Nenhuma oportunidade accionável publicada nesta edição.', openOpportunity: 'Consultar oportunidade ↗',
-    stop: '■ Parar áudio'
+    stop: '■ Parar áudio', translate: '🌐 Traduzir para inglês', original: '↩ Ver original',
+    translating: 'A traduzir…', translationError: 'Não foi possível traduzir agora.'
   },
   en: {
     title: 'World · Africa · Mozambique', updated: 'Loading…', edition: 'TODAY’S EDITION',
@@ -31,7 +33,8 @@ const UI = {
     audio: '🔊 Listen', all: 'All', empty: 'No news in this filter.', try: 'Try “All” or another filter.',
     opportunities: 'Opportunities', opportunitiesHint: 'Open opportunity radar',
     noOpportunities: 'No actionable opportunity was published in this edition.', openOpportunity: 'View opportunity ↗',
-    stop: '■ Stop audio'
+    stop: '■ Stop audio', translate: '🌐 Translate to Portuguese', original: '↩ View original',
+    translating: 'Translating…', translationError: 'Translation is temporarily unavailable.'
   }
 };
 
@@ -71,6 +74,51 @@ function completeSummary(item) {
   if (item.detailed_summary) return item.detailed_summary;
   const parts = [item.summary, item.why, item.impact].map(part => String(part || '').trim()).filter(Boolean);
   return parts.filter((part, index) => parts.findIndex(other => normaliseSpeech(other).toLowerCase() === normaliseSpeech(part).toLowerCase()) === index).join(' ');
+}
+
+function translationChunks(text, limit = 650) {
+  const sentences = String(text || '').match(/[^.!?]+[.!?]+|[^.!?]+$/g) || [];
+  const chunks = [];
+  let current = '';
+  sentences.forEach(sentence => {
+    const clean = sentence.trim();
+    if (!clean) return;
+    if (current && `${current} ${clean}`.length > limit) { chunks.push(current); current = ''; }
+    if (clean.length <= limit) current = current ? `${current} ${clean}` : clean;
+    else {
+      if (current) { chunks.push(current); current = ''; }
+      for (let index = 0; index < clean.length; index += limit) chunks.push(clean.slice(index, index + limit));
+    }
+  });
+  if (current) chunks.push(current);
+  return chunks;
+}
+
+async function translateText(text, target) {
+  const clean = String(text || '').trim();
+  if (!clean) return '';
+  const key = `${target}:${clean}`;
+  if (translationCache.has(key)) return translationCache.get(key);
+  const translated = [];
+  for (const chunk of translationChunks(clean)) {
+    const controller = new AbortController();
+    const timeout = window.setTimeout(() => controller.abort(), 12000);
+    try {
+      const url = new URL('https://translate.googleapis.com/translate_a/single');
+      url.searchParams.set('client', 'gtx');
+      url.searchParams.set('sl', 'auto');
+      url.searchParams.set('tl', target);
+      url.searchParams.set('dt', 't');
+      url.searchParams.set('q', chunk);
+      const response = await fetch(url, { signal: controller.signal });
+      if (!response.ok) throw new Error(`Translation HTTP ${response.status}`);
+      const result = await response.json();
+      translated.push((result[0] || []).map(part => part[0] || '').join(''));
+    } finally { window.clearTimeout(timeout); }
+  }
+  const result = translated.join(' ');
+  translationCache.set(key, result);
+  return result;
 }
 
 function selectedVoice() {
@@ -171,9 +219,13 @@ function render() {
   }
   items.forEach(item => {
     const card = $('#card').content.cloneNode(true);
+    const originalTitle = item.title || '';
+    const originalSummary = completeSummary(item);
+    const heading = card.querySelector('h3');
+    const summary = card.querySelector('.summary');
     card.querySelector('.meta').textContent = `${item.source || 'Fonte'} · ${item.published || 'Hoje'} · ${item.source_tier || ''}`;
-    card.querySelector('h3').textContent = item.title || '';
-    card.querySelector('.summary').textContent = completeSummary(item);
+    heading.textContent = originalTitle;
+    summary.textContent = originalSummary;
     card.querySelector('.why').hidden = true;
     card.querySelector('.impact').hidden = true;
     const link = card.querySelector('a');
@@ -181,7 +233,40 @@ function render() {
     link.textContent = t('source');
     const audio = card.querySelector('.speak');
     audio.textContent = t('audio');
-    audio.onclick = () => speak(`${item.title || ''}. ${completeSummary(item)}`);
+    audio.onclick = () => speak(`${heading.textContent || ''}. ${summary.textContent || ''}`);
+    const actions = card.querySelector('.actions');
+    actions.style.gap = '8px';
+    actions.style.flexWrap = 'wrap';
+    const translate = document.createElement('button');
+    translate.className = 'translate';
+    translate.textContent = t('translate');
+    let showingTranslation = false;
+    translate.onclick = async () => {
+      if (showingTranslation) {
+        heading.textContent = originalTitle;
+        summary.textContent = originalSummary;
+        translate.textContent = t('translate');
+        showingTranslation = false;
+        return;
+      }
+      translate.disabled = true;
+      translate.textContent = t('translating');
+      try {
+        const target = lang === 'pt' ? 'en' : 'pt';
+        const [translatedTitle, translatedSummary] = await Promise.all([
+          translateText(originalTitle, target), translateText(originalSummary, target)
+        ]);
+        heading.textContent = translatedTitle;
+        summary.textContent = translatedSummary;
+        translate.textContent = t('original');
+        showingTranslation = true;
+      } catch (error) {
+        console.error('Translation:', error);
+        translate.textContent = t('translationError');
+        window.setTimeout(() => { translate.textContent = t('translate'); }, 2800);
+      } finally { translate.disabled = false; }
+    };
+    actions.insertBefore(translate, link);
     $('#news').append(card);
   });
 }
@@ -211,7 +296,8 @@ function renderInsights(payload) {
   const radar = document.createElement('details');
   radar.className = 'insight drawer opportunity-drawer';
   radar.style.gridColumn = '1 / -1';
-  radar.append(summaryHeading('🚀', t('opportunities'), t('opportunitiesHint')));
+  const radarHint = opportunities.length ? `${t('opportunitiesHint')} · ${opportunities.length}` : t('opportunitiesHint');
+  radar.append(summaryHeading('🚀', t('opportunities'), radarHint));
   const radarBody = document.createElement('div');
   radarBody.className = 'drawer-body';
   if (!opportunities.length) {
@@ -233,7 +319,25 @@ function renderInsights(payload) {
       link.target = '_blank';
       link.rel = 'noopener';
       link.textContent = t('openOpportunity');
-      row.append(category, title, deadline, link);
+      row.append(category, title, deadline);
+      if (item._language && item._language !== lang) {
+        const translate = document.createElement('button');
+        translate.className = 'opportunity-translate';
+        translate.textContent = lang === 'en' ? '🌐 Translate to English' : '🌐 Traduzir para português';
+        const originalTitle = title.textContent;
+        translate.onclick = async () => {
+          translate.disabled = true;
+          try {
+            title.textContent = await translateText(originalTitle, lang === 'en' ? 'en' : 'pt');
+            translate.remove();
+          } catch (error) {
+            translate.textContent = t('translationError');
+            translate.disabled = false;
+          }
+        };
+        row.append(translate);
+      }
+      row.append(link);
       radarBody.append(row);
     });
   }
@@ -251,7 +355,9 @@ function applyLanguage(payload = { risks: [] }) {
   $('#newsTitle').textContent = t('news');
   $('#install').textContent = isStandalone() ? (lang === 'pt' ? '✓ Aplicação' : '✓ App') : t('install');
   $('#install').disabled = isStandalone();
-  $('#language').textContent = lang === 'pt' ? 'PT' : 'EN';
+  $('#language').textContent = lang === 'pt' ? 'Fontes PT' : 'Sources EN';
+  $('#language').title = lang === 'pt' ? 'Mudar para fontes em inglês' : 'Switch to Portuguese sources';
+  $('#language').setAttribute('aria-label', $('#language').title);
   loadVoices();
   $$('#topics button').forEach(button => { if (button.dataset.topic === 'Todos') button.textContent = t('all'); });
   renderInsights(payload);
@@ -267,7 +373,7 @@ function showError() {
 async function fetchJson(file, force) {
   const url = new URL(file, location.href);
   url.searchParams.set('v', force ? Date.now() : 'live');
-  const response = await fetch(url.toString(), { cache: 'no-store' });
+  const response = await fetch(url.toString(), { cache: force ? 'no-store' : 'default' });
   if (!response.ok) throw new Error(`${file}: HTTP ${response.status}`);
   return response.json();
 }
@@ -275,14 +381,29 @@ async function fetchJson(file, force) {
 async function load(force = false) {
   try {
     const newsFile = lang === 'pt' ? 'news-pt.json' : 'news-en.json';
-    const opportunitiesFile = lang === 'pt' ? 'opportunities-pt.json' : 'opportunities-en.json';
-    let payload;
-    try { payload = await fetchJson(newsFile, force); }
-    catch (error) { if (lang !== 'pt') throw error; payload = await fetchJson('news.json', true); }
+    const newsPromise = fetchJson(newsFile, force).catch(error => {
+      if (lang !== 'pt') throw error;
+      return fetchJson('news.json', force);
+    });
+    const radarPromises = lang === 'pt'
+      ? [fetchJson('opportunities-pt.json', force).catch(() => ({ items: [] }))]
+      : [
+          fetchJson('opportunities-en.json', force).catch(() => ({ items: [] })),
+          fetchJson('opportunities-pt.json', force).catch(() => ({ items: [] }))
+        ];
+    const [payload, radarResults] = await Promise.all([newsPromise, Promise.all(radarPromises)]);
     if (!payload || !Array.isArray(payload.items)) throw new Error('invalid data');
-    const radar = await fetchJson(opportunitiesFile, force).catch(() => ({ items: [] }));
     data = payload.items;
-    opportunities = Array.isArray(radar.items) ? radar.items : [];
+    const seenOpportunities = new Set();
+    opportunities = radarResults.flatMap((radar, index) => {
+      const sourceLanguage = lang === 'pt' ? 'pt' : (index === 0 ? 'en' : 'pt');
+      return (Array.isArray(radar.items) ? radar.items : []).map(item => ({ ...item, _language: sourceLanguage }));
+    }).filter(item => {
+      const key = item.link || `${item.title || ''}:${item.deadline || ''}`;
+      if (seenOpportunities.has(key)) return false;
+      seenOpportunities.add(key);
+      return true;
+    });
     const updated = new Date(payload.updated_at);
     $('#updated').textContent = payload.updated_at ? `${lang === 'pt' ? 'Actualizado' : 'Updated'} ${isNaN(updated.getTime()) ? payload.updated_at : updated.toLocaleString(lang === 'pt' ? 'pt-MZ' : 'en-GB')}` : t('updated');
     applyLanguage(payload);
@@ -321,7 +442,7 @@ function bind() {
     alert(lang === 'pt' ? 'No Chrome, abra o menu ⋮ e escolha “Instalar aplicação”. Evite “Criar atalho”, pois esse abre no navegador.' : 'In Chrome, open the ⋮ menu and choose “Install app”. Avoid “Create shortcut”, which opens in the browser.');
   };
   $('#voice').onchange = () => localStorage.setItem('briefingVoiceLocale', $('#voice').value);
-  $('#language').onclick = () => { stopSpeaking(); lang = lang === 'pt' ? 'en' : 'pt'; localStorage.setItem('briefingLang', lang); load(true); };
+  $('#language').onclick = () => { stopSpeaking(); lang = lang === 'pt' ? 'en' : 'pt'; localStorage.setItem('briefingLang', lang); load(false); };
 }
 
 bind();

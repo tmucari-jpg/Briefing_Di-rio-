@@ -1,0 +1,21 @@
+.actions button,
+.opportunity-translate {
+  border: 0;
+  background: var(--gold-soft);
+  color: #775000;
+  border-radius: 11px;
+  padding: 9px 11px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.actions button:disabled,
+.opportunity-translate:disabled {
+  cursor: wait;
+  opacity: .65;
+}
+
+.opportunity-translate {
+  justify-self: start;
+  font-size: 11px;
+}
