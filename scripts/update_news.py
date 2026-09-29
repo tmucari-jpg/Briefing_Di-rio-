@@ -205,7 +205,8 @@ def build(language):
             if len(chosen)==amount: break
             if item not in chosen: chosen.append(item)
         distinct_sources={item['source'] for item in chosen}
-        if len(distinct_sources)<2:
+        required_sources=2 if language=='pt' else 1
+        if len(distinct_sources)<required_sources:
             raise SystemExit(f'Actualização {language} rejeitada: {section} tem apenas {len(distinct_sources)} fonte distinta.')
         selected.extend(chosen)
     selected=sorted(selected,key=lambda value:value['published'],reverse=True)
