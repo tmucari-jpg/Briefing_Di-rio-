@@ -48,7 +48,7 @@ def clean(value):
     value=re.sub(r'\bappeared first on\b.*$','',value,flags=re.I)
     return re.sub(r'\s+',' ',value).strip(' .[…')
 def localize_pt(value):
-    replacements=((r'\bprocurement\b','aquisições'),(r'\bbusiness\b','negócios'),(r'\bmarket\b','mercado'),(r'\binvestment\b','investimento'),(r'\bproject\b','projecto'),(r'\bservices\b','serviços'),(r'\bsupply\b','fornecimento'),(r'\bmanagement\b','gestão'),(r'\bsupport\b','apoio'),(r'\bdeadline\b','prazo'),(r'\bnew\b','novo'),(r'\band\b','e'))
+    replacements=((r'\bfake news\b','notícias falsas'),(r'\bchartered financial analyst\b','analista financeiro certificado'),(r'\bcfa charter award ceremony\b','cerimónia de atribuição da certificação CFA'),(r'\bprocurement\b','aquisições'),(r'\bbusiness\b','negócios'),(r'\bmarket\b','mercado'),(r'\binvestment\b','investimento'),(r'\bproject\b','projecto'),(r'\bservices\b','serviços'),(r'\bsupply\b','fornecimento'),(r'\bmanagement\b','gestão'),(r'\bsupport\b','apoio'),(r'\bdeadline\b','prazo'),(r'\bnew\b','novo'),(r'\band\b','e'))
     for pattern,replacement in replacements:value=re.sub(pattern,replacement,value,flags=re.I)
     return value
 def norm(value):

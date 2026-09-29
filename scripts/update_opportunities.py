@@ -21,7 +21,7 @@ MOZ=('moçambique','mozambique','maputo','matola','cabo delgado','pemba','nampul
 AFRICA=('africa','áfrica','african','angola','tanzania','tanzânia','south africa','áfrica do sul','malawi','zambia','zâmbia','zimbabwe','zimbabué','kenya','quénia','nigeria','nigéria','ghana','ethiopia','etiópia','congo','rwanda','ruanda','uganda','somalia','somália','sudan','sudão','egypt','egipto','morocco','marrocos','senegal','namibia','namíbia','botswana','eswatini','lesotho','cabo verde')
 CATEGORIES={
  'Concursos':('concurso público','public tender','call for proposals','invitation to bid','request for proposal','request for quotation','licitação','concurso','tender','expression of interest','manifestação de interesse'),
- 'Procurement':('procurement','supplier registration','supplier opportunity','fornecedor','fornecimento','aquisição de bens','aquisição de serviços'),
+ 'Aquisições':('procurement','supplier registration','supplier opportunity','fornecedor','fornecimento','aquisição de bens','aquisição de serviços'),
  'Financiamento':('call for applications','applications open','candidaturas abertas','grant programme','grant program','subvenção','fundo disponível','funding opportunity','linha de crédito'),
  'Empregos estratégicos':('vaga','vagas','vacancy','vacancies','recrutamento','recruitment','hiring','job opening'),
  'Expansão de empresas':('nova fábrica','new factory','new plant','entrada no mercado','market entry','abre filial','opens branch','expansão de operações','expansion of operations'),
@@ -42,7 +42,7 @@ def clean(value):
  value=re.sub(r'\bappeared first on\b.*$','',value,flags=re.I)
  return re.sub(r'\s+',' ',value).strip(' .[…')
 def localize_pt(value):
- for pattern,replacement in ((r'\bprocurement\b','aquisições'),(r'\bbusiness\b','negócios'),(r'\bmarket\b','mercado'),(r'\binvestment\b','investimento'),(r'\bproject\b','projecto'),(r'\bservices\b','serviços'),(r'\bsupply\b','fornecimento'),(r'\bmanagement\b','gestão'),(r'\bsupport\b','apoio'),(r'\bdeadline\b','prazo'),(r'\bnew\b','novo'),(r'\band\b','e')):value=re.sub(pattern,replacement,value,flags=re.I)
+ for pattern,replacement in ((r'\bfake news\b','notícias falsas'),(r'\bchartered financial analyst\b','analista financeiro certificado'),(r'\bcfa charter award ceremony\b','cerimónia de atribuição da certificação CFA'),(r'\bprocurement\b','aquisições'),(r'\bbusiness\b','negócios'),(r'\bmarket\b','mercado'),(r'\binvestment\b','investimento'),(r'\bproject\b','projecto'),(r'\bservices\b','serviços'),(r'\bsupply\b','fornecimento'),(r'\bmanagement\b','gestão'),(r'\bsupport\b','apoio'),(r'\bdeadline\b','prazo'),(r'\bnew\b','novo'),(r'\band\b','e')):value=re.sub(pattern,replacement,value,flags=re.I)
  return value
 def norm(value):
  value=unicodedata.normalize('NFKD',value.lower()).encode('ascii','ignore').decode()
@@ -105,7 +105,7 @@ def make_item(title,summary,source,published,link,language,fixed_deadline=None,e
  if not deadline_date and age_days(published)>FRESH_WITHOUT_DEADLINE_DAYS:return None
  location=region(text)
  if location=='Mundo' and source in ('Diário Económico — Concursos','Diário Económico','O País','Jornal Notícias','ExxonMobil Moçambique'):location='Moçambique'
- score=(5 if deadline_date else 2)+(4 if location=='Moçambique' else 2 if location=='África' else 1)+(3 if name in ('Concursos','Procurement','Financiamento','Empregos estratégicos') else 2)
+ score=(5 if deadline_date else 2)+(4 if location=='Moçambique' else 2 if location=='África' else 1)+(3 if name in ('Concursos','Aquisições','Financiamento','Empregos estratégicos') else 2)
  fallback='Confirmar na fonte original' if language=='pt' else 'Confirm in the original source'; short=clean(title)[:130]
  why=f'A oportunidade «{short}» tem entidade responsável, acção concreta e prazo que devem ser verificados antes da candidatura.' if language=='pt' else f'The “{short}” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.'
  return {'section':location,'category':name,'title':title,'summary':summary[:650],'entity':entity or source,'deadline':deadline_label,'eligibility':fallback,'why':why,'action':action(title,language),'source':source,'published':published.isoformat(),'age_hours':round(max(0,age_days(published)*24),1),'link':link,'original_source':True,'verification_status':fallback,'actionability_score':score}
