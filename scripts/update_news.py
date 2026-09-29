@@ -14,6 +14,7 @@ MIN_TARGET = {'Moçambique': 4, 'África': 3, 'Mundo': 3}
 DESIRED_TARGET = {'Moçambique': 6, 'África': 6, 'Mundo': 6}
 MAX_PER_SOURCE = 3
 FEED_CACHE = {}
+ARTICLE_CACHE = {}
 
 RSS_PT = {
     'Moçambique': [('Diário Económico','https://www.diarioeconomico.co.mz/feed/'),('O País','https://opais.co.mz/feed/'),('AIM Notícias','https://aimnews.org/feed/'),('Jornal Notícias','https://jornalnoticias.co.mz/feed/'),('Checka','https://checka.co.mz/feed/'),('Club of Mozambique','https://clubofmozambique.com/feed/')],
@@ -49,13 +50,9 @@ def clean(value):
     value=re.sub(r'\bfirst appeared on\b.*$','',value,flags=re.I)
     value=re.sub(r'\b(?:read|ler) more\b.*$','',value,flags=re.I)
     return re.sub(r'\s+',' ',value).strip(' .[…')
-def informative_summary(entry,limit=1100):
-    candidates=[clean(entry.get('summary')),clean(entry.get('description'))]
-    for content in entry.get('content',[]) or []:
-        if isinstance(content,dict):candidates.append(clean(content.get('value')))
-    candidates=[value for value in candidates if value]
-    if not candidates:return ''
-    value=max(candidates,key=len)
+def compact_summary(value,limit=1100):
+    value=clean(value)
+    if not value:return ''
     sentences=re.split(r'(?<=[.!?])\s+',value)
     selected=[]; size=0
     for sentence in sentences:
@@ -66,6 +63,54 @@ def informative_summary(entry,limit=1100):
     result=' '.join(selected) or value
     if len(result)>limit:result=result[:limit].rsplit(' ',1)[0].rstrip(' ,;:')+'…'
     return result
+def informative_summary(entry,limit=1100):
+    candidates=[clean(entry.get('summary')),clean(entry.get('description'))]
+    for content in entry.get('content',[]) or []:
+        if isinstance(content,dict):candidates.append(clean(content.get('value')))
+    candidates=[value for value in candidates if value]
+    if not candidates:return ''
+    return compact_summary(max(candidates,key=len),limit)
+def json_article_bodies(value):
+    output=[]
+    def visit(node):
+        if isinstance(node,dict):
+            body=node.get('articleBody')
+            if isinstance(body,str):output.append(body)
+            for child in node.values():visit(child)
+        elif isinstance(node,list):
+            for child in node:visit(child)
+    for block in re.findall(r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',value,flags=re.I|re.S):
+        try:visit(json.loads(html.unescape(block.strip())))
+        except Exception:pass
+    return output
+def article_summary(link,current,pt):
+    if len(current)>=500:return current
+    if link in ARTICLE_CACHE:return ARTICLE_CACHE[link] or current
+    raw=b''
+    if shutil.which('curl'):
+        result=subprocess.run(['curl','-fsSL','--max-time','10','--max-filesize','2500000','-A','Mozilla/5.0 BriefingDiario/18',link],capture_output=True,check=False)
+        raw=result.stdout if result.returncode==0 else b''
+    if not raw:
+        try:
+            request=Request(link,headers={'User-Agent':'Mozilla/5.0 BriefingDiario/18'})
+            with urlopen(request,timeout=8) as response:raw=response.read(2500000)
+        except Exception:pass
+    if not raw:ARTICLE_CACHE[link]=''; return current
+    page=raw.decode('utf-8','ignore'); candidates=[]
+    for tag in re.findall(r'<meta\b[^>]*>',page,flags=re.I):
+        if re.search(r'(?:name|property)=["\'](?:description|og:description|twitter:description)["\']',tag,flags=re.I):
+            match=re.search(r'content=["\'](.*?)["\']',tag,flags=re.I|re.S)
+            if match:candidates.append(match.group(1))
+    candidates.extend(json_article_bodies(page))
+    article_match=re.search(r'<article\b[^>]*>(.*?)</article>',page,flags=re.I|re.S)
+    if article_match:
+        paragraphs=[clean(value) for value in re.findall(r'<p\b[^>]*>(.*?)</p>',article_match.group(1),flags=re.I|re.S)]
+        candidates.append(' '.join(value for value in paragraphs if len(value)>=35))
+    candidates=[compact_summary(value) for value in candidates]
+    candidates=[value for value in candidates if len(value)>len(current)+80 and language_ok('',value,pt)]
+    enriched=max(candidates,key=len) if candidates else current
+    ARTICLE_CACHE[link]=enriched
+    return enriched
 def localize_pt(value):
     replacements=((r'\bfake news\b','notícias falsas'),(r'\bchartered financial analyst\b','analista financeiro certificado'),(r'\bcfa charter award ceremony\b','cerimónia de atribuição da certificação CFA'),(r'\bprocurement\b','aquisições'),(r'\bbusiness\b','negócios'),(r'\bmarket\b','mercado'),(r'\binvestment\b','investimento'),(r'\bproject\b','projecto'),(r'\bservices\b','serviços'),(r'\bsupply\b','fornecimento'),(r'\bmanagement\b','gestão'),(r'\bsupport\b','apoio'),(r'\bdeadline\b','prazo'),(r'\bnew\b','novo'),(r'\band\b','e'))
     for pattern,replacement in replacements:value=re.sub(pattern,replacement,value,flags=re.I)
@@ -229,6 +274,13 @@ def build(language):
             raise SystemExit(f'Actualização {language} rejeitada: {section} tem apenas {len(distinct_sources)} fonte distinta.')
         selected.extend(chosen)
     selected=sorted(selected,key=lambda value:value['published'],reverse=True)
+    for item in selected:
+        enriched=article_summary(item['link'],item['summary'],pt)
+        if len(enriched)>len(item['summary']):
+            if pt:enriched=localize_pt(enriched)
+            item['summary']=enriched
+            item['tags']=tags(f"{item['title']} {enriched}")
+            item['why'],item['impact']=context(item['section'],item['title'],f"{item['title']} {enriched}",pt)
     payload={'updated_at':datetime.now(timezone.utc).isoformat(),'language':language,'window_hours':24,'fallback_hours':FALLBACK_HOURS,'carry_forward_hours':CARRY_FORWARD_HOURS,'items':selected,'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança','Tecnologia e IA'],'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento'],'generator':'GitHub Actions · Briefing Diário','section_counts':{section:sum(item['section']==section for item in selected) for section in MIN_TARGET}}
     return payload
 
