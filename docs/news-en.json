@@ -1,298 +1,262 @@
 {
-  "updated_at": "2026-09-24T22:03:05.094088+00:00",
+  "updated_at": "2026-09-29T05:54:47.071041+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 96,
+  "carry_forward_hours": 168,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Mozambique recognised as the first-ever Gavi Leap Champion for health system reforms",
+      "summary": "Mozambique becomes the first recipient of Gavi’s Leap Champion recognition for its leadership in country ownership and sustained health investment. As the first country to implement unified vaccine budgets under the Gavi Leap, Mozambique is a standard bearer in the movement towards greater country sovereignty in global health. Dr Ussene Hilário Isse, Minister of Health… Source",
+      "why": "«Mozambique recognised as the first-ever Gavi Leap Champion for health system reforms» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Mozambique recognised as the first-ever Gavi Leap Champion for health system reforms», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-29T03:20:07+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-recognised-as-the-first-ever-gavi-leap-champion-for-health-system-reforms/",
+      "original_source": true,
+      "editorial_score": 13.46,
+      "source_tier": "B"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "EDM announces scheduled power cuts in parts of Maputo province on Wednesday",
+      "summary": "Electricidade de Moçambique (EDM) has announced a temporary power cut in parts of Maputo province on Wednesday, 30 September, due to scheduled preventive maintenance work on electrical infrastructure. The interruption will affect the Fomento and Matola G neighbourhoods, as well as part of Matola B, from 07:00 to 15:00, according to a notice issued by… Source",
+      "why": "«EDM announces scheduled power cuts in parts of Maputo province on Wednesday» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «EDM announces scheduled power cuts in parts of Maputo province on Wednesday», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-29T03:29:38+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/edm-announces-scheduled-power-cuts-in-parts-of-maputo-province-on-wednesday/",
+      "original_source": true,
+      "editorial_score": 12.5,
+      "source_tier": "B"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Botswana–Mozambique Business Forum advances bilateral trade and investment",
+      "summary": "Botswana Investment and Trade Centre (BITC), in collaboration with the Mozambique Investment Promotion Agency (APIEX), is hosting the Botswana–Mozambique Business Forum at Hotel 430 in Gaborone. The Forum provides a platform for businesses from both countries to explore trade and investment opportunities, strengthen commercial partnerships and identify potential joint ventures. The engagement is being held… Source",
+      "why": "«Botswana–Mozambique Business Forum advances bilateral trade and investment» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Botswana–Mozambique Business Forum advances bilateral trade and investment», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-28T13:53:14+00:00",
+      "age_hours": 16.0,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/botswana-mozambique-business-forum-advances-bilateral-trade-and-investment/",
+      "original_source": true,
+      "editorial_score": 11.67,
+      "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume",
+      "why": "«US ban on Canadian alcohol and dairy comes into effect as trade war drags on» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «US ban on Canadian alcohol and dairy comes into effect as trade war drags on», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-09-29T04:10:33+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "editorial_score": 11.65,
+      "source_tier": "A"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Restoring the justice system in conflict-affected Cabo Delgado, Mozambique",
+      "summary": "For the first time since the 2021 attacks on Palma District, northern Mozambique, the district’s justice institutions are fully operational. On 29 July, a prosecutor was reallocated to Palma in an initiative supported by UN Human Rights (OHCHR), in coordination with Mozambique’s Attorney-General’s Office, restoring public prosecution services in one of the areas most severely… Source",
+      "why": "«Restoring the justice system in conflict-affected Cabo Delgado, Mozambique» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Restoring the justice system in conflict-affected Cabo Delgado, Mozambique», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-29T03:20:33+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/restoring-the-justice-system-in-conflict-affected-cabo-delgado-mozambique/",
+      "original_source": true,
+      "editorial_score": 11.46,
+      "source_tier": "B"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique: Debt and wages take all tax; IMF lifeboat; Frelimo for the long haul? — By Joseph Hanlon",
+      "summary": "All tax goes to wages and debt IMF lifeboat? Can Frelimo keep control for a decade? Public debt details __________________________________________________________________________ Wages and debt service will take 96% of government revenue next year The fiscal crisis in Mozambique was underlined by a report published on 18 September by the Ministry of Finance. In 2027, after paying… Source",
+      "why": "«Mozambique: Debt and wages take all tax; IMF lifeboat; Frelimo for the long haul? — By Joseph Hanlon» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Mozambique: Debt and wages take all tax; IMF lifeboat; Frelimo for the long haul? — By Joseph Hanlon», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-29T03:02:40+00:00",
+      "age_hours": 2.9,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-debt-and-wages-take-all-tax-imf-lifeboat-frelimo-for-the-long-haul-by-joseph-hanlon/",
+      "original_source": true,
+      "editorial_score": 11.4,
+      "source_tier": "B"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
+      "summary": "Top US and Saudi diplomats discuss cooperation on security challenges, including hostilities with Yemen's Houthis",
+      "why": "«Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-29T04:46:38+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss",
+      "original_source": true,
+      "editorial_score": 10.77,
+      "source_tier": "A"
+    },
     {
       "section": "Moçambique",
       "tags": [
         "Energia"
       ],
-      "title": "Mozambique’s ENH and Brazil’s Petrobras sign MoU to strengthen strategic partnership in oil and gas",
-      "summary": "The National Hydrocarbons Company of Mozambique (ENH, E.P.) and Brazil’s Petrobras signed a Memorandum of Understanding (MoU) on Tuesday, 22 September, aimed at creating a framework for strategic collaboration and identifying opportunities of mutual interest in the oil industry. The signing took place on the sidelines of ROG.e 2026, one of the world’s largest events… Source",
-      "why": "«Mozambique’s ENH and Brazil’s Petrobras sign MoU to strengthen strategic partnership in oil and gas» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Mozambique’s ENH and Brazil’s Petrobras sign MoU to strengthen strategic partnership in oil and gas», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "title": "Ports, energy and corridors could take Mozambique–Botswana ties to a new level as Chapo visits",
+      "summary": "President Daniel Chapo has just landed in Gaborone for a three-day State Visit to Botswana this Monday, 28 September, and will participate as Guest of Honour in celebrations marking the country’s 60th anniversary of independence; Botswana is seeking to expand its access to the Indian Ocean through Mozambique’s port and logistics infrastructure, including Maputo, Nacala… Source",
+      "why": "«Ports, energy and corridors could take Mozambique–Botswana ties to a new level as Chapo visits» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Ports, energy and corridors could take Mozambique–Botswana ties to a new level as Chapo visits», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-09-24T13:26:27+00:00",
-      "age_hours": 8.6,
+      "published": "2026-09-28T14:18:06+00:00",
+      "age_hours": 15.6,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambiques-enh-and-brazils-petrobras-sign-mou-to-strengthen-strategic-partnership-in-oil-and-gas/",
-      "original_source": true,
-      "editorial_score": 12.21,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Mozambique is moving towards the creation of a Strategic Coalition for Financing Off-Grid Electrification",
-      "summary": "The Government of Mozambique has announced its intention to create a Strategic Coalition for Off-Grid Electrification Financing, bringing together development finance institutions, climate and energy funds, development partners, foundations, and private investors. H.E. Daniel Chapo, President of the Republic of Mozambique, said: “Mozambique is putting energy at the heart of our development. Our goal is… Source",
-      "why": "«Mozambique is moving towards the creation of a Strategic Coalition for Financing Off-Grid Electrification» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Mozambique is moving towards the creation of a Strategic Coalition for Financing Off-Grid Electrification», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-24T12:23:38+00:00",
-      "age_hours": 9.7,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-is-moving-towards-the-creation-of-a-strategic-coalition-for-financing-off-grid-electrification/",
-      "original_source": true,
-      "editorial_score": 11.98,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "BCI and HeartSeed launch ‘Lanches Solidários’ on Mozambique Island to help keep children in school",
-      "summary": "Banco Comercial e de Investimentos (BCI), in partnership with the HeartSeed Association, launched the Solidarity School Meals Programme (Lanches Solidários) at Sanculo Complete Primary School on Mozambique Island. The initiative aims to help reduce school dropout and promote greater attendance and participation by children in classroom activities. Over the next three months, the programme will… Source",
-      "why": "«BCI and HeartSeed launch ‘Lanches Solidários’ on Mozambique Island to help keep children in school» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «BCI and HeartSeed launch ‘Lanches Solidários’ on Mozambique Island to help keep children in school», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-24T14:07:41+00:00",
-      "age_hours": 7.9,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/bci-and-heartseed-launch-lanches-solidarios-on-mozambique-island-to-help-keep-children-in-school/",
-      "original_source": true,
-      "editorial_score": 11.35,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest",
-      "summary": "The automotive industry project aims to create skilled jobs and develop industrial competences. The Mozambican Government today set in motion the process of selecting a private investor to install and operate a vehicle assembly plant under a public-private partnership, initially providing for the production of buses and later expanding to other types of vehicles. The… Source",
-      "why": "«Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Mozambique seeks private investor for vehicle assembly plant, invites expressions of interest», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-24T13:13:36+00:00",
-      "age_hours": 8.8,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-seeks-private-investor-for-vehicle-assembly-plant-invites-expressions-of-interest/",
-      "original_source": true,
-      "editorial_score": 11.17,
-      "source_tier": "B"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Collapsing currency and inflation leave families struggling in Sudan",
-      "summary": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.",
-      "why": "«Collapsing currency and inflation leave families struggling in Sudan» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Collapsing currency and inflation leave families struggling in Sudan», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T17:03:55+00:00",
-      "age_hours": 5.0,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss",
-      "original_source": true,
-      "editorial_score": 10.96,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "After several difficult years, economists now expect German economy to grow",
-      "summary": "Germany's economy is growing again, but recovery remains on shaky ground. High government spending is keeping the economy afloat, while energy prices, a shortage of skilled workers and debt continue to weigh on it.",
-      "why": "«After several difficult years, economists now expect German economy to grow» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «After several difficult years, economists now expect German economy to grow», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-09-24T17:04:00+00:00",
-      "age_hours": 5.0,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "editorial_score": 10.96,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Trump and Xi hold critical talks at White House summit",
-      "summary": "US President Donald Trump welcomed Chinese President Xi Jinping to Washington for talks on trade, AI, Taiwan and Iran.",
-      "why": "«Trump and Xi hold critical talks at White House summit» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «Trump and Xi hold critical talks at White House summit», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T21:41:40+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/trump-and-xi-hold-critical-talks-at-white-house-summit?traffic_source=rss",
-      "original_source": true,
-      "editorial_score": 10.92,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "EU delegation meets new governor of Bank of Mozambique",
-      "summary": "A mission from the European Union (EU) has met with Felisberto Navalha, governor of the Bank of Mozambique, the country’s regulator of the national financial system, in order to assess the current financial cooperation between Mozambique and the European bloc. The meeting takes place during a particularly challenging period for the Mozambican economy, placing a… Source",
-      "why": "«EU delegation meets new governor of Bank of Mozambique» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «EU delegation meets new governor of Bank of Mozambique», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Club of Mozambique",
-      "published": "2026-09-24T11:12:16+00:00",
-      "age_hours": 10.8,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/eu-delegation-meets-new-governor-of-bank-of-mozambique/",
+      "link": "https://clubofmozambique.com/news/ports-energy-and-corridors-could-take-mozambique-botswana-ties-to-a-new-level-as-chapo-visits/",
       "original_source": true,
       "editorial_score": 10.75,
       "source_tier": "B"
     },
     {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "What’s triggered the latest violence in Ethiopia?",
-      "summary": "Tigrayan forces say they are in a 'full-blown war' with the army.",
-      "why": "«What’s triggered the latest violence in Ethiopia?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «What’s triggered the latest violence in Ethiopia?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T19:34:53+00:00",
-      "age_hours": 2.5,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss",
-      "original_source": true,
-      "editorial_score": 10.48,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Ethiopia's military says it killed hundreds of TPLF rebels",
-      "summary": "The TPLF fought against against the Ethiopian military from 2020 to 2022 in a conflict that saw hundreds of thousands of civilians killed. A resumption of fighting has sparked fears of another brutal war.",
-      "why": "«Ethiopia's military says it killed hundreds of TPLF rebels» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Ethiopia's military says it killed hundreds of TPLF rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-09-24T18:37:00+00:00",
-      "age_hours": 3.4,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/ethiopia-s-military-says-it-killed-hundreds-of-tplf-rebels/a-79419173?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "editorial_score": 10.29,
-      "source_tier": "A"
-    },
-    {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Energia"
       ],
-      "title": "Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction",
-      "summary": "Madagascar will attempt to emulate their last shock win over the Super Eagles - a 2-0 victory at AFCON 2019.",
-      "why": "«Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction» matters because it may change energy and investment decisions affecting África.",
-      "impact": "For «Nigeria vs: Madagascar AFCON 2027 qualifier – preview, teams, prediction», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-09-24T18:13:32+00:00",
-      "age_hours": 3.8,
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped",
+      "why": "«Argentina threatens legal action against UK over Falkland Islands oil exploration» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Argentina threatens legal action against UK over Falkland Islands oil exploration», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-09-29T03:50:40+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/sports/2026/9/24/nigeria-vs-madagascar-afcon-2027-qualifier-preview-teams?traffic_source=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "editorial_score": 10.21,
+      "editorial_score": 10.56,
       "source_tier": "A"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Israel's Netanyahu holds secret meeting with UAE president",
+      "summary": "After confirming a rare meeting, Netanyahu's office has denied suggestions that the Israeli prime minister requested that Abu Dhabi deny reports that it had warned Israel about an impending Hamas attack in 2023",
+      "why": "«Israel's Netanyahu holds secret meeting with UAE president» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Israel's Netanyahu holds secret meeting with UAE president», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-09-29T01:11:00+00:00",
+      "age_hours": 4.7,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/israel-s-netanyahu-holds-secret-meeting-with-uae-president/a-79467271?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "editorial_score": 10.02,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Private sector crucial for diversification of economy – Chapo",
-      "summary": "Maputo, 24 Sep (AIM) – Mozambican President Daniel Chapo has reaffirmed that the private sector plays a crucial",
-      "why": "«Private sector crucial for diversification of economy – Chapo» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Private sector crucial for diversification of economy – Chapo», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "AIM News",
-      "published": "2026-09-24T07:45:42+00:00",
-      "age_hours": 14.3,
+      "title": "Ethiopian army claims to have taken Tigrayan stronghold",
+      "summary": "The Ethiopian military and allied militia claim to have overtaken the town of Alamata in the Tigray region",
+      "why": "«Ethiopian army claims to have taken Tigrayan stronghold» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Ethiopian army claims to have taken Tigrayan stronghold», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "source": "Al Jazeera English",
+      "published": "2026-09-29T04:37:21+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/09/24/private-sector-crucial-for-diversification-of-economy-chapo/",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/ethiopian-army-claims-to-have-taken-tigrayan-stronghold?traffic_source=rss",
       "original_source": true,
-      "editorial_score": 10.02,
-      "source_tier": "B"
+      "editorial_score": 9.73,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems",
+      "why": "«OpenAI scraps rollout of new model over safety concerns» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «OpenAI scraps rollout of new model over safety concerns», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-09-29T04:30:13+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "editorial_score": 9.71,
+      "source_tier": "A"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "France: Student protests over conditions at French high schools fuel political clashes",
+      "summary": "Over 160 people were arrested and dozens injured after student protests in France descended into violence. With a presidential election approaching, senior politicians are pointing fingers at each other",
+      "why": "«France: Student protests over conditions at French high schools fuel political clashes» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «France: Student protests over conditions at French high schools fuel political clashes», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-09-29T02:26:00+00:00",
+      "age_hours": 3.5,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/france-student-protests-over-conditions-at-french-high-schools-fuel-political-clashes/a-79467746?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "editorial_score": 9.27,
+      "source_tier": "A"
     },
     {
       "section": "África",
       "tags": [
         "Segurança"
       ],
-      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
-      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
-      "why": "«Ethiopia's army says it has repelled attacks in first comment on fresh fighting» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Ethiopia's army says it has repelled attacks in first comment on fresh fighting», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "BBC Africa",
-      "published": "2026-09-24T15:37:45+00:00",
-      "age_hours": 6.4,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "editorial_score": 9.67,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "New York sues Polymarket over allegations of illegal gambling operations",
-      "summary": "The lawsuit comes two months after the state filed a similar lawsuit against competitor Kalshi.",
-      "why": "«New York sues Polymarket over allegations of illegal gambling operations» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «New York sues Polymarket over allegations of illegal gambling operations», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "South Sudan calls for sanctions to be lifted at UNGA",
+      "summary": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted",
+      "why": "«South Sudan calls for sanctions to be lifted at UNGA» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «South Sudan calls for sanctions to be lifted at UNGA», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "Al Jazeera English",
-      "published": "2026-09-24T20:15:25+00:00",
-      "age_hours": 1.8,
+      "published": "2026-09-28T20:45:52+00:00",
+      "age_hours": 9.1,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/9/24/new-york-sues-polymarket-over-allegations-of-illegal-gambling-operations?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
       "original_source": true,
-      "editorial_score": 9.62,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-      "summary": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
-      "why": "«Four civilians killed in Pakistani strikes in Afghanistan, Taliban says» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Four civilians killed in Pakistani strikes in Afghanistan, Taliban says», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-09-24T19:02:36+00:00",
-      "age_hours": 3.0,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "editorial_score": 9.38,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?",
-      "summary": "The era of Russian presidents is coming to an end at the World Chess Federation (FIDE). Two Germans and one Kazakh are up for election. Among the issues at play are money, Kremlin influence, and unanswered questions.",
-      "why": "«Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Three-way battle for power in world chess: Who will be elected FIDE president in Samarkand?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-09-24T18:59:00+00:00",
-      "age_hours": 3.1,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/three-way-battle-for-power-in-world-chess-who-will-be-elected-fide-president-in-samarkand/a-79413301?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "editorial_score": 9.35,
+      "editorial_score": 8.1,
       "source_tier": "A"
     },
     {
@@ -300,17 +264,53 @@
       "tags": [
         "Economia"
       ],
-      "title": "South Sudan's president dissolves government ahead of country's first elections",
-      "summary": "South Sudan has not held elections since independence in 2011 - polls have twice been postponed.",
-      "why": "«South Sudan's president dissolves government ahead of country's first elections» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «South Sudan's president dissolves government ahead of country's first elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "title": "Why are Ethiopia's rebels joining forces?",
+      "summary": "Seven rebel groups from across Ethiopia have announced a new alliance against Prime Minister Abiy Ahmed's government",
+      "why": "«Why are Ethiopia's rebels joining forces?» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Why are Ethiopia's rebels joining forces?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
-      "published": "2026-09-24T10:21:06+00:00",
-      "age_hours": 11.7,
+      "published": "2026-09-28T13:21:11+00:00",
+      "age_hours": 16.6,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/videos/c6n45epzdgk8o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "editorial_score": 7.56,
+      "editorial_score": 6.54,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Salah out of Egypt game because of artificial turf",
+      "summary": "Egypt forward Mohamed Salah is left out of his nation's forthcoming match against South Sudan because it will be played on artificial turf",
+      "why": "«Salah out of Egypt game because of artificial turf» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Salah out of Egypt game because of artificial turf», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-09-26T12:57:14+00:00",
+      "age_hours": 65.0,
+      "within_24h": false,
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm1dllzgrdkro?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "editorial_score": 6.22,
+      "source_tier": "A"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Are Ethiopians marching back to war in Tigray?",
+      "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army",
+      "why": "«Are Ethiopians marching back to war in Tigray?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Are Ethiopians marching back to war in Tigray?», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-09-25T23:42:39+00:00",
+      "age_hours": 78.2,
+      "within_24h": false,
+      "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "editorial_score": 6.0,
       "source_tier": "A"
     }
   ],
@@ -333,8 +333,8 @@
   "generator": "GitHub Actions · Briefing Diário",
   "section_counts": {
     "Moçambique": 6,
-    "África": 6,
-    "Mundo": 5
+    "África": 5,
+    "Mundo": 6
   },
   "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte original + deduplicação + validação geográfica.",
   "briefing_intro": {
