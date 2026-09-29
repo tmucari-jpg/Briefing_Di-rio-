@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-09-29T06:37:04.952129+00:00",
+  "updated_at": "2026-09-29T09:32:43.521534+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Aquisições",
+      "title": "Mozambique: State Procurement Centre does not eliminate or replace UGEAs, Government clarifies",
+      "summary": "The Ministry of Finance clarified on Wednesday, 23 September, that the State Procurement Centre (Central de Aquisições do Estado, CAE), recently established by Decree No. 22/2026 of 8 June as part of the reform of public procurement, will not replace, let alone eliminate, the Procurement Management and Execution Units (Unidades Gestoras e Executoras de Aquisições,… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique: State Procurement Centre does not eliminate or replace UGEAs, Government clarifies” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique: State Procurement Centre does not eliminate or replace UGEAs, Government clarifies”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-09-29T06:41:49+00:00",
+      "age_hours": 2.8,
+      "link": "https://clubofmozambique.com/news/mozambique-state-procurement-centre-does-not-eliminate-or-replace-ugeas-government-clarifies/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 9
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",
