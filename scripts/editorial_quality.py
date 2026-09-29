@@ -110,12 +110,21 @@ def editorial_context(x,lang):
         return ('A notícia ajuda a acompanhar a direcção da economia global e das decisões de investimento.','Pode reflectir-se em preços, acesso a capital, procura, fornecedores e oportunidades de negócio.')
     return ('A notícia merece acompanhamento pelo potencial efeito económico, institucional ou regional.','O efeito concreto dependerá da evolução dos próximos dias, mas pode afectar custos, decisões empresariais ou oportunidades locais.')
 
+def detailed_summary(x):
+    parts=[x.get('summary','').strip(),x.get('why','').strip(),x.get('impact','').strip()]
+    output=[]; seen=set()
+    for part in parts:
+        key=norm(part)
+        if part and key not in seen:seen.add(key); output.append(part if part.endswith(('.','!','?','…')) else part+'.')
+    return ' '.join(output)
+
 def curate(d):
     lang=d.get('language','pt')
     items=dedupe([x for x in d.get('items',[]) if valid(x,lang)])
     for x in items:
         if not x.get('why') or not x.get('impact'):
             x['why'],x['impact']=editorial_context(x,lang)
+        x['detailed_summary']=detailed_summary(x)
         x['editorial_score']=round(source_score(x.get('source',''))+recency_score(x)+relevance_score(x),2)
         x['source_tier']='A' if source_score(x.get('source',''))>=5 else ('B' if source_score(x.get('source',''))>=4 else 'C')
     items.sort(key=lambda x:x['editorial_score'],reverse=True)

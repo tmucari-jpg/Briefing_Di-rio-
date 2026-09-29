@@ -46,7 +46,26 @@ def clean(value):
     value=html.unescape(re.sub(r'<[^>]+>',' ',value or ''))
     value=re.sub(r'\bThe post\b.*$','',value,flags=re.I)
     value=re.sub(r'\bappeared first on\b.*$','',value,flags=re.I)
+    value=re.sub(r'\bfirst appeared on\b.*$','',value,flags=re.I)
+    value=re.sub(r'\b(?:read|ler) more\b.*$','',value,flags=re.I)
     return re.sub(r'\s+',' ',value).strip(' .[…')
+def informative_summary(entry,limit=1100):
+    candidates=[clean(entry.get('summary')),clean(entry.get('description'))]
+    for content in entry.get('content',[]) or []:
+        if isinstance(content,dict):candidates.append(clean(content.get('value')))
+    candidates=[value for value in candidates if value]
+    if not candidates:return ''
+    value=max(candidates,key=len)
+    sentences=re.split(r'(?<=[.!?])\s+',value)
+    selected=[]; size=0
+    for sentence in sentences:
+        sentence=sentence.strip()
+        if not sentence:continue
+        if selected and (size+len(sentence)+1>limit or len(selected)>=6):break
+        selected.append(sentence); size+=len(sentence)+1
+    result=' '.join(selected) or value
+    if len(result)>limit:result=result[:limit].rsplit(' ',1)[0].rstrip(' ,;:')+'…'
+    return result
 def localize_pt(value):
     replacements=((r'\bfake news\b','notícias falsas'),(r'\bchartered financial analyst\b','analista financeiro certificado'),(r'\bcfa charter award ceremony\b','cerimónia de atribuição da certificação CFA'),(r'\bprocurement\b','aquisições'),(r'\bbusiness\b','negócios'),(r'\bmarket\b','mercado'),(r'\binvestment\b','investimento'),(r'\bproject\b','projecto'),(r'\bservices\b','serviços'),(r'\bsupply\b','fornecimento'),(r'\bmanagement\b','gestão'),(r'\bsupport\b','apoio'),(r'\bdeadline\b','prazo'),(r'\bnew\b','novo'),(r'\band\b','e'))
     for pattern,replacement in replacements:value=re.sub(pattern,replacement,value,flags=re.I)
@@ -145,14 +164,14 @@ def parse(url,section,source,hours,pt):
         FEED_CACHE[url]=raw
     feed=feedparser.parse(raw); output=[]; now=datetime.now(timezone.utc)
     for entry in feed.entries:
-        title=clean(entry.get('title')); summary=clean(entry.get('summary') or entry.get('description')); published=published_at(entry)
+        title=clean(entry.get('title')); summary=informative_summary(entry); published=published_at(entry)
         if pt:title=localize_pt(title); summary=localize_pt(summary)
         if not title or len(summary)<40 or not published or published>now or age_hours(published)>hours: continue
         if not relevant(section,title,summary) or not language_ok(title,summary,pt): continue
         link=entry.get('link','').strip()
         if not link.startswith(('http://','https://')) or 'news.google.com' in link.lower(): continue
         why,impact=context(section,title,f'{title} {summary}',pt)
-        output.append({'section':section,'tags':tags(f'{title} {summary}'),'title':title,'summary':summary[:700],'why':why,'impact':impact,'source':source,'published':published.isoformat(),'age_hours':round(max(0,age_hours(published)),1),'within_24h':age_hours(published)<=24,'link':link,'original_source':True})
+        output.append({'section':section,'tags':tags(f'{title} {summary}'),'title':title,'summary':summary[:1100],'why':why,'impact':impact,'source':source,'published':published.isoformat(),'age_hours':round(max(0,age_hours(published)),1),'within_24h':age_hours(published)<=24,'link':link,'original_source':True})
     return output
 def add(destination,seen,items):
     for item in sorted(items,key=lambda value:value['published'],reverse=True):

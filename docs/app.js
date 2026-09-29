@@ -18,20 +18,20 @@ const UI = {
   pt: {
     title: 'Mundo · África · Moçambique', updated: 'A carregar…', edition: 'EDIÇÃO DO DIA',
     hero: 'Notícias essenciais para acompanhar', sub: 'Actualidade · contexto, impacto e oportunidades.',
-    listen: '▶ Ouvir resumos', news: 'Notícias', install: '＋ Instalar', source: 'Ler notícia completa ↗',
+    listen: '▶ Ouvir notícias', news: 'Notícias', install: '＋ Instalar', source: 'Consultar fonte original ↗',
     audio: '🔊 Ouvir', all: 'Todos', empty: 'Sem notícias neste filtro.', try: 'Experimente “Todos” ou outro tema.',
     opportunities: 'Oportunidades', opportunitiesHint: 'Abrir radar de oportunidades',
     noOpportunities: 'Nenhuma oportunidade accionável publicada nesta edição.', openOpportunity: 'Consultar oportunidade ↗',
-    defaultVoice: 'Voz padrão', stop: '■ Parar áudio'
+    stop: '■ Parar áudio'
   },
   en: {
     title: 'World · Africa · Mozambique', updated: 'Loading…', edition: 'TODAY’S EDITION',
     hero: 'Essential stories to follow', sub: 'Latest developments · context, impact and opportunities.',
-    listen: '▶ Listen to summaries', news: 'News', install: '＋ Install', source: 'Read full story ↗',
+    listen: '▶ Listen to news', news: 'News', install: '＋ Install', source: 'View original source ↗',
     audio: '🔊 Listen', all: 'All', empty: 'No news in this filter.', try: 'Try “All” or another filter.',
     opportunities: 'Opportunities', opportunitiesHint: 'Open opportunity radar',
     noOpportunities: 'No actionable opportunity was published in this edition.', openOpportunity: 'View opportunity ↗',
-    defaultVoice: 'Default voice', stop: '■ Stop audio'
+    stop: '■ Stop audio'
   }
 };
 
@@ -67,9 +67,17 @@ function speechChunks(text) {
   return chunks;
 }
 
+function completeSummary(item) {
+  if (item.detailed_summary) return item.detailed_summary;
+  const parts = [item.summary, item.why, item.impact].map(part => String(part || '').trim()).filter(Boolean);
+  return parts.filter((part, index) => parts.findIndex(other => normaliseSpeech(other).toLowerCase() === normaliseSpeech(part).toLowerCase()) === index).join(' ');
+}
+
 function selectedVoice() {
-  const name = $('#voice').value;
-  return availableVoices.find(voice => voice.name === name) || null;
+  const locale = $('#voice').value || (lang === 'pt' ? 'pt-PT' : 'en-US');
+  return availableVoices.find(voice => voice.lang.toLowerCase() === locale.toLowerCase())
+    || availableVoices.find(voice => voice.lang.toLowerCase().startsWith(locale.slice(0, 2).toLowerCase()))
+    || null;
 }
 
 function setSpeechState(playing) {
@@ -98,7 +106,7 @@ function playSegments(segments) {
     if (index >= segments.length) { setSpeechState(false); return; }
     const segment = segments[index];
     const utterance = new SpeechSynthesisUtterance(normaliseSpeech(segment.text));
-    utterance.lang = lang === 'pt' ? 'pt-PT' : 'en-US';
+    utterance.lang = $('#voice').value || (lang === 'pt' ? 'pt-PT' : 'en-US');
     utterance.rate = .82;
     utterance.pitch = 1;
     utterance.volume = 1;
@@ -119,15 +127,14 @@ function speakEdition() {
   const sections = lang === 'pt'
     ? [['Mundo', 'Notícias do Mundo'], ['África', 'Notícias de África'], ['Moçambique', 'Notícias de Moçambique']]
     : [['Mundo', 'World news'], ['África', 'Africa news'], ['Moçambique', 'Mozambique news']];
-  const total = data.filter(visibleByTopic).length;
-  const segments = [{ text: lang === 'pt' ? `Briefing Diário. ${total} notícias essenciais.` : `Daily Briefing. ${total} essential stories.`, pause: 900 }];
+  const segments = [{ text: lang === 'pt' ? 'Briefing Diário.' : 'Daily Briefing.', pause: 900 }];
   sections.forEach(([sectionName, heading]) => {
     const items = data.filter(item => item.section === sectionName && visibleByTopic(item));
     if (!items.length) return;
-    segments.push({ text: `${heading}. ${items.length} ${lang === 'pt' ? (items.length === 1 ? 'notícia' : 'notícias') : (items.length === 1 ? 'story' : 'stories')}.`, pause: 900 });
-    items.forEach((item, index) => {
-      segments.push({ text: `${lang === 'pt' ? 'Notícia' : 'Story'} ${index + 1}. ${item.title || ''}.`, pause: 550 });
-      speechChunks(`${lang === 'pt' ? 'Resumo' : 'Summary'}. ${item.summary || ''}`).forEach((chunk, chunkIndex, chunks) => {
+    segments.push({ text: `${heading}.`, pause: 900 });
+    items.forEach(item => {
+      segments.push({ text: `${item.title || ''}.`, pause: 550 });
+      speechChunks(completeSummary(item)).forEach((chunk, chunkIndex, chunks) => {
         segments.push({ text: chunk, pause: chunkIndex === chunks.length - 1 ? 800 : 380 });
       });
     });
@@ -138,24 +145,9 @@ function speakEdition() {
 function loadVoices() {
   if (!('speechSynthesis' in window)) return;
   availableVoices = speechSynthesis.getVoices();
-  const locale = lang === 'pt' ? 'pt' : 'en';
-  const preferredLocale = lang === 'pt' ? 'pt-pt' : 'en-us';
-  const voices = availableVoices
-    .filter(voice => voice.lang.toLowerCase().startsWith(locale))
-    .sort((a, b) => Number(b.lang.toLowerCase() === preferredLocale) - Number(a.lang.toLowerCase() === preferredLocale) || a.name.localeCompare(b.name));
-  const saved = localStorage.getItem(`briefingVoice-${lang}`) || '';
-  $('#voice').innerHTML = '';
-  const defaultOption = document.createElement('option');
-  defaultOption.value = '';
-  defaultOption.textContent = t('defaultVoice');
-  $('#voice').append(defaultOption);
-  voices.forEach(voice => {
-    const option = document.createElement('option');
-    option.value = voice.name;
-    option.textContent = `${voice.name} · ${voice.lang}`;
-    $('#voice').append(option);
-  });
-  $('#voice').value = voices.some(voice => voice.name === saved) ? saved : (voices[0]?.name || '');
+  const saved = localStorage.getItem('briefingVoiceLocale');
+  const allowed = ['pt-PT', 'pt-BR', 'en-US', 'en-GB'];
+  $('#voice').value = allowed.includes(saved) ? saved : (lang === 'pt' ? 'pt-PT' : 'en-US');
 }
 
 function setActive(group, value) {
@@ -181,15 +173,15 @@ function render() {
     const card = $('#card').content.cloneNode(true);
     card.querySelector('.meta').textContent = `${item.source || 'Fonte'} · ${item.published || 'Hoje'} · ${item.source_tier || ''}`;
     card.querySelector('h3').textContent = item.title || '';
-    card.querySelector('.summary').textContent = item.summary || '';
-    card.querySelector('.why').textContent = item.why || '';
-    card.querySelector('.impact').textContent = item.impact || '';
+    card.querySelector('.summary').textContent = completeSummary(item);
+    card.querySelector('.why').hidden = true;
+    card.querySelector('.impact').hidden = true;
     const link = card.querySelector('a');
     link.href = item.link || '#';
     link.textContent = t('source');
     const audio = card.querySelector('.speak');
     audio.textContent = t('audio');
-    audio.onclick = () => speak(`${lang === 'pt' ? 'Notícia' : 'Story'}. ${item.title || ''}. ${lang === 'pt' ? 'Resumo' : 'Summary'}. ${item.summary || ''}`);
+    audio.onclick = () => speak(`${item.title || ''}. ${completeSummary(item)}`);
     $('#news').append(card);
   });
 }
@@ -328,7 +320,7 @@ function bind() {
     }
     alert(lang === 'pt' ? 'No Chrome, abra o menu ⋮ e escolha “Instalar aplicação”. Evite “Criar atalho”, pois esse abre no navegador.' : 'In Chrome, open the ⋮ menu and choose “Install app”. Avoid “Create shortcut”, which opens in the browser.');
   };
-  $('#voice').onchange = () => localStorage.setItem(`briefingVoice-${lang}`, $('#voice').value);
+  $('#voice').onchange = () => localStorage.setItem('briefingVoiceLocale', $('#voice').value);
   $('#language').onclick = () => { stopSpeaking(); lang = lang === 'pt' ? 'en' : 'pt'; localStorage.setItem('briefingLang', lang); load(true); };
 }
 

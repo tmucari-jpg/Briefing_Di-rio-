@@ -1,5 +1,5 @@
-const CACHE='briefing-v10';
-const ASSETS=['./','./index.html','./style.css?v=5','./app.js?v=12','./manifest.json?v=5','./icon.svg','./icon-192.png','./icon-512.png','./logo.svg'];
+const CACHE='briefing-v11';
+const ASSETS=['./','./index.html','./style.css?v=5','./app.js?v=13','./manifest.json?v=5','./icon.svg','./icon-192.png','./icon-512.png','./logo.svg'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;const u=new URL(e.request.url);const live=/\/(news(?:-pt|-en)?|opportunities-(?:pt|en))\.json$/.test(u.pathname);if(live){e.respondWith(fetch(e.request,{cache:'no-store'}).then(r=>{const copy=r.clone();caches.open(CACHE).then(c=>c.put(e.request,copy));return r}).catch(()=>caches.match(e.request)));return}if(e.request.mode==='navigate'){e.respondWith(fetch(e.request).catch(()=>caches.match('./index.html')));return}e.respondWith(caches.match(e.request).then(c=>c||fetch(e.request).then(r=>{const copy=r.clone();caches.open(CACHE).then(cache=>cache.put(e.request,copy));return r})))})
