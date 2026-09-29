@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T05:54:59.622871+00:00",
+  "updated_at": "2026-09-29T05:59:12.322344+00:00",
   "language": "pt",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
@@ -16,7 +16,7 @@
       "action": "Abrir o anúncio original de «Serviços de Consultoria Para Auditorias Financeiras e de Contratações Externas», confirmar os requisitos e o prazo e preparar os documentos solicitados.",
       "source": "Diário Económico — Concursos",
       "published": "2026-09-28T04:22:55+00:00",
-      "age_hours": 25.5,
+      "age_hours": 25.6,
       "link": "https://www.diarioeconomico.co.mz/2026/09/28/concursos-publicos/servicos-de-consultoria-para-auditorias-financeiras-e-de-contratacoes-externas/",
       "original_source": true,
       "verification_status": "Confirmar na fonte original",
@@ -34,7 +34,7 @@
       "action": "Abrir o anúncio original de «BVM — Serviços de Eventos e Conferências», confirmar os requisitos e o prazo e preparar os documentos solicitados.",
       "source": "Diário Económico — Concursos",
       "published": "2026-09-28T04:22:23+00:00",
-      "age_hours": 25.5,
+      "age_hours": 25.6,
       "link": "https://www.diarioeconomico.co.mz/2026/09/28/concursos-publicos/bvm-servicos-de-eventos-e-conferencias/",
       "original_source": true,
       "verification_status": "Confirmar na fonte original",
@@ -115,7 +115,7 @@
   ],
   "categories": [
     "Concursos",
-    "Procurement",
+    "Aquisições",
     "Financiamento",
     "Empregos estratégicos",
     "Expansão de empresas",

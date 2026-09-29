@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T05:54:46.071303+00:00",
+  "updated_at": "2026-09-29T05:58:58.138166+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 96,
@@ -34,11 +34,11 @@
       "impact": "No caso de «Irão pronto para \"guerra apocalíptica\" mas não exclui diplomacia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
       "published": "2026-09-28T21:36:47+00:00",
-      "age_hours": 8.3,
+      "age_hours": 8.4,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/irao-pronto-para-guerra-apocaliptica-mas-nao-exclui-diplomacia_v1768309",
       "original_source": true,
-      "editorial_score": 10.27,
+      "editorial_score": 10.25,
       "source_tier": "A"
     },
     {
@@ -52,11 +52,11 @@
       "impact": "No caso de «Trump revoga normas que protegem alunos LGBTI de discriminação sexual», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
       "published": "2026-09-29T05:40:50+00:00",
-      "age_hours": 0.2,
+      "age_hours": 0.3,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/trump-revoga-normas-que-protegem-alunos-lgbti-de-discriminacao-sexual_n1768329",
       "original_source": true,
-      "editorial_score": 9.96,
+      "editorial_score": 9.94,
       "source_tier": "A"
     },
     {
@@ -70,11 +70,11 @@
       "impact": "No caso de «Moçambique e Botsuana Querem Reforçar Comércio e Investimento em Sectores Estratégicos», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
       "published": "2026-09-28T14:30:00+00:00",
-      "age_hours": 15.4,
+      "age_hours": 15.5,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/09/28/negocios/mocambique-e-botsuana-querem-reforcar-comercio-e-investimento-em-sectores-estrategicos/",
       "original_source": true,
-      "editorial_score": 9.79,
+      "editorial_score": 9.77,
       "source_tier": "B"
     },
     {
@@ -88,11 +88,11 @@
       "impact": "No caso de «S&P Baixa Previsão de Crescimento Económico de Moçambique Para 0,7%», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
       "published": "2026-09-28T14:00:00+00:00",
-      "age_hours": 15.9,
+      "age_hours": 16.0,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/09/28/economia/sp-baixa-previsao-de-crescimento-economico-de-mocambique-para-07/",
       "original_source": true,
-      "editorial_score": 9.69,
+      "editorial_score": 9.67,
       "source_tier": "B"
     },
     {
@@ -119,17 +119,17 @@
         "IA",
         "Segurança"
       ],
-      "title": "Papa Leão XIV rejeita ideia de “fake news” e contraria Trump sobre segurança na IA",
+      "title": "Papa Leão XIV rejeita ideia de “notícias falsas” e contraria Trump sobre segurança na IA",
       "summary": "O pontífice pareceu visar o presidente norte‑americano Donald Trump, que tem desvalorizado como uma “farsa” dos seus adversários políticos as advertências de líderes da IA sobre a rapidez do desenvolvimento desta tecnologia",
-      "why": "«Papa Leão XIV rejeita ideia de “fake news” e contraria Trump sobre segurança na IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Papa Leão XIV rejeita ideia de “fake news” e contraria Trump sobre segurança na IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "why": "«Papa Leão XIV rejeita ideia de “notícias falsas” e contraria Trump sobre segurança na IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Papa Leão XIV rejeita ideia de “notícias falsas” e contraria Trump sobre segurança na IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
       "source": "Euronews Português",
       "published": "2026-09-29T05:53:49+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.1,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/09/29/papa-leao-xiv-rejeita-ideia-de-fake-news-e-contraria-trump-sobre-seguranca-na-ia",
       "original_source": true,
-      "editorial_score": 9.0,
+      "editorial_score": 8.98,
       "source_tier": "C"
     },
     {
@@ -143,11 +143,11 @@
       "impact": "No caso de «Impasse político na Suécia. Líder dos sociais-democratas diz ter falhado formação de Governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
       "published": "2026-09-28T18:58:22+00:00",
-      "age_hours": 10.9,
+      "age_hours": 11.0,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/impasse-politico-na-suecia-lider-dos-sociais-democratas-diz-ter-falhado-formacao-de-governo_n1768266",
       "original_source": true,
-      "editorial_score": 7.73,
+      "editorial_score": 7.71,
       "source_tier": "A"
     },
     {
@@ -197,7 +197,7 @@
       "impact": "No caso de «Na ONU, Cabo Verde afirma que as pessoas são a maior riqueza de uma nação», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "Notícias ONU",
       "published": "2026-09-26T12:00:00+00:00",
-      "age_hours": 65.9,
+      "age_hours": 66.0,
       "within_24h": false,
       "link": "https://news.un.org/feed/view/pt/story/2026/09/1854458",
       "original_source": true,
@@ -215,7 +215,7 @@
       "impact": "No caso de «Em meio a ameaças existenciais, Cabo Verde aposta em solidariedade e inovação», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "Notícias ONU",
       "published": "2026-09-26T12:00:00+00:00",
-      "age_hours": 65.9,
+      "age_hours": 66.0,
       "within_24h": false,
       "link": "https://news.un.org/feed/view/pt/story/2026/09/1854456",
       "original_source": true,
@@ -251,11 +251,11 @@
       "impact": "No caso de «Etiópia acusa vizinhos enquanto rebeldes do Tigray avançam em Afar», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Euronews Português",
       "published": "2026-09-28T11:47:03+00:00",
-      "age_hours": 18.1,
+      "age_hours": 18.2,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/09/28/etiopia-acusa-vizinhos-enquanto-rebeldes-do-tigray-avancam-em-afar",
       "original_source": true,
-      "editorial_score": 3.23,
+      "editorial_score": 3.21,
       "source_tier": "C"
     }
   ],
