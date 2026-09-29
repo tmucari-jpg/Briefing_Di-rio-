@@ -6,6 +6,7 @@ let lang = localStorage.getItem('briefingLang') || 'pt';
 if (!['pt', 'en'].includes(lang)) lang = 'pt';
 
 let deferredPrompt = null;
+const isStandalone = () => window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
 const MAX_NEWS = 20;
 const $ = selector => document.querySelector(selector);
 const $$ = selector => document.querySelectorAll(selector);
@@ -142,7 +143,8 @@ function applyLanguage(payload = { risks: [] }) {
   $('#heroSub').textContent = t('sub');
   $('#listenAll').textContent = t('listen');
   $('#newsTitle').textContent = t('news');
-  $('#install').textContent = t('install');
+  $('#install').textContent = isStandalone() ? (lang === 'pt' ? '✓ Aplicação' : '✓ App') : t('install');
+  $('#install').disabled = isStandalone();
   $('#language').textContent = lang === 'pt' ? 'PT' : 'EN';
   $$('#topics button').forEach(button => { if (button.dataset.topic === 'Todos') button.textContent = t('all'); });
   renderInsights(payload);
@@ -198,9 +200,15 @@ function bind() {
   });
   $('#listenAll').onclick = () => speak(filteredItems().slice(0, MAX_NEWS).map(item => `${item.title || ''}. ${item.summary || ''}`).join(' '));
   $('#refresh').onclick = () => load(true);
-  $('#install').onclick = () => {
-    if (deferredPrompt) { deferredPrompt.prompt(); deferredPrompt = null; }
-    else alert(lang === 'pt' ? 'Abra o menu ⋮ do navegador e escolha “Adicionar ao ecrã inicial” ou “Instalar aplicação”.' : 'Open the browser ⋮ menu and choose “Add to home screen” or “Install app”.');
+  $('#install').onclick = async () => {
+    if (isStandalone()) return;
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      await deferredPrompt.userChoice;
+      deferredPrompt = null;
+      return;
+    }
+    alert(lang === 'pt' ? 'No Chrome, abra o menu ⋮ e escolha “Instalar aplicação”. Evite “Criar atalho”, pois esse abre no navegador.' : 'In Chrome, open the ⋮ menu and choose “Install app”. Avoid “Create shortcut”, which opens in the browser.');
   };
   $('#language').onclick = () => { lang = lang === 'pt' ? 'en' : 'pt'; localStorage.setItem('briefingLang', lang); load(true); };
 }
@@ -208,5 +216,5 @@ function bind() {
 bind();
 load();
 window.addEventListener('beforeinstallprompt', event => { event.preventDefault(); deferredPrompt = event; });
-window.addEventListener('appinstalled', () => { deferredPrompt = null; });
-if ('serviceWorker' in navigator) navigator.serviceWorker.getRegistrations().then(registrations => Promise.all(registrations.map(registration => registration.unregister())));
+window.addEventListener('appinstalled', () => { deferredPrompt = null; applyLanguage(); });
+if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register('./sw.js', { scope: './' }).catch(error => console.error('PWA:', error)));
