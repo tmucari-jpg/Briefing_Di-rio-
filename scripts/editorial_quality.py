@@ -43,7 +43,7 @@ def relevance_score(x):
 
 def valid(x,lang):
     title=x.get('title','').strip(); summary=x.get('summary','').strip(); link=x.get('link','').strip(); source=x.get('source','').strip()
-    minimum_summary=180 if lang=='pt' else 140
+    minimum_summary=120 if lang=='pt' else 100
     if len(title)<25 or len(title)>220 or len(summary)<minimum_summary or not link or not source: return False
     if any(w in (title+' '+summary).lower() for w in BAD_WORDS): return False
     if not link.startswith(('http://','https://')) or 'news.google.com' in link.lower(): return False
