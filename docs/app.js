@@ -76,7 +76,7 @@ function completeSummary(item) {
   return parts.filter((part, index) => parts.findIndex(other => normaliseSpeech(other).toLowerCase() === normaliseSpeech(part).toLowerCase()) === index).join(' ');
 }
 
-function translationChunks(text, limit = 650) {
+function translationChunks(text, limit = 420) {
   const sentences = String(text || '').match(/[^.!?]+[.!?]+|[^.!?]+$/g) || [];
   const chunks = [];
   let current = '';
@@ -94,26 +94,27 @@ function translationChunks(text, limit = 650) {
   return chunks;
 }
 
-async function translateText(text, target) {
+async function translateText(text, source, target) {
   const clean = String(text || '').trim();
   if (!clean) return '';
-  const key = `${target}:${clean}`;
+  const key = `${source}:${target}:${clean}`;
   if (translationCache.has(key)) return translationCache.get(key);
   const translated = [];
   for (const chunk of translationChunks(clean)) {
     const controller = new AbortController();
     const timeout = window.setTimeout(() => controller.abort(), 12000);
     try {
-      const url = new URL('https://translate.googleapis.com/translate_a/single');
-      url.searchParams.set('client', 'gtx');
-      url.searchParams.set('sl', 'auto');
-      url.searchParams.set('tl', target);
-      url.searchParams.set('dt', 't');
+      const url = new URL('https://api.mymemory.translated.net/get');
       url.searchParams.set('q', chunk);
+      url.searchParams.set('langpair', `${source}|${target}`);
       const response = await fetch(url, { signal: controller.signal });
       if (!response.ok) throw new Error(`Translation HTTP ${response.status}`);
       const result = await response.json();
-      translated.push((result[0] || []).map(part => part[0] || '').join(''));
+      const translatedText = result && result.responseData && result.responseData.translatedText;
+      if (!translatedText) throw new Error('Empty translation');
+      const textarea = document.createElement('textarea');
+      textarea.innerHTML = translatedText;
+      translated.push(textarea.value);
     } finally { window.clearTimeout(timeout); }
   }
   const result = translated.join(' ');
@@ -254,7 +255,7 @@ function render() {
       try {
         const target = lang === 'pt' ? 'en' : 'pt';
         const [translatedTitle, translatedSummary] = await Promise.all([
-          translateText(originalTitle, target), translateText(originalSummary, target)
+          translateText(originalTitle, lang, target), translateText(originalSummary, lang, target)
         ]);
         heading.textContent = translatedTitle;
         summary.textContent = translatedSummary;
@@ -328,7 +329,7 @@ function renderInsights(payload) {
         translate.onclick = async () => {
           translate.disabled = true;
           try {
-            title.textContent = await translateText(originalTitle, lang === 'en' ? 'en' : 'pt');
+            title.textContent = await translateText(originalTitle, item._language, lang === 'en' ? 'en' : 'pt');
             translate.remove();
           } catch (error) {
             translate.textContent = t('translationError');
