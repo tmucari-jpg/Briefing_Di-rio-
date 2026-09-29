@@ -12,7 +12,7 @@ EVENT_GROUPS={'eleições':('eleicao','eleicoes','eleitoral','eleitorais','parla
 SOURCE_SCORE={
     'RTP Notícias':5,'RTP':5,'DW Português':5,'DW English':5,
     'BBC World':5,'BBC Africa':5,'BBC':5,'Al Jazeera English':5,
-    'Club of Mozambique':4,'Diário Económico':4,'O País':4,'AIM News':4,
+    'Club of Mozambique':4,'Diário Económico':4,'O País':4,'AIM News':4,'AIM Notícias':4,'Notícias ONU':5,
     'Jornal Notícias':4,'Checka':4,'Le Monde':4,'Reuters':5,'Associated Press':5
 }
 BAD_WORDS=('futebol','football','cinema','filme','música','music','novela','horóscopo','horoscope','moda','fashion','entretenimento','entertainment')
@@ -66,7 +66,8 @@ def dedupe(items):
         for y in out:
             b=norm(y.get('title','')); other_full=norm(y.get('title','')+' '+y.get('summary','')); bt={w for w in b.split() if len(w)>=4 and w not in STOPWORDS}; bb={w for w in other_full.split() if len(w)>=4 and w not in STOPWORDS}; bp={p for p in PLACE_MARKERS if p in other_full}; bg={n for n,s in EVENT_GROUPS.items() if any(v in other_full for v in s)}
             title_overlap=len(at & bt)/max(1,min(len(at),len(bt))); body_overlap=len(ab & bb)/max(1,min(len(ab),len(bb)))
-            if a==b or SequenceMatcher(None,a,b).ratio()>=.70 or title_overlap>=.60 or body_overlap>=.68 or (ap & bp and ag & bg):duplicate=True; break
+            shared_groups=ag & bg; same_event=bool(ap & bp) and bool(shared_groups) and ('conflito' in shared_groups or 'eleições' in shared_groups or title_overlap>=.45)
+            if a==b or SequenceMatcher(None,a,b).ratio()>=.70 or title_overlap>=.60 or body_overlap>=.68 or same_event:duplicate=True; break
         if duplicate: continue
         out.append(x)
     return out

@@ -36,7 +36,14 @@ MONTHS={'jan':1,'january':1,'janeiro':1,'feb':2,'february':2,'fevereiro':2,'mar'
 EN_MARKERS=(' the ',' and ',' of ',' to ',' for ',' with ',' from ',' are ',' is ',' has ',' will ')
 PT_MARKERS=(' de ',' da ',' do ',' das ',' dos ',' para ',' com ',' que ',' uma ',' um ',' foi ',' será ')
 
-def clean(value):return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',value or ''))).strip()
+def clean(value):
+ value=html.unescape(re.sub(r'<[^>]+>',' ',value or ''))
+ value=re.sub(r'\bThe post\b.*$','',value,flags=re.I)
+ value=re.sub(r'\bappeared first on\b.*$','',value,flags=re.I)
+ return re.sub(r'\s+',' ',value).strip(' .[…')
+def localize_pt(value):
+ for pattern,replacement in ((r'\bprocurement\b','aquisições'),(r'\bbusiness\b','negócios'),(r'\bmarket\b','mercado'),(r'\binvestment\b','investimento'),(r'\bproject\b','projecto'),(r'\bservices\b','serviços'),(r'\bsupply\b','fornecimento'),(r'\bmanagement\b','gestão'),(r'\bsupport\b','apoio'),(r'\bdeadline\b','prazo'),(r'\bnew\b','novo'),(r'\band\b','e')):value=re.sub(pattern,replacement,value,flags=re.I)
+ return value
 def norm(value):
  value=unicodedata.normalize('NFKD',value.lower()).encode('ascii','ignore').decode()
  return re.sub(r'\s+',' ',re.sub(r'[^a-z0-9 ]',' ',value)).strip()
@@ -108,6 +115,7 @@ def parse_feed(source,url,language):
  output=[]
  for entry in feed.entries:
   title=clean(entry.get('title')); summary=clean(entry.get('summary') or entry.get('description')); published=published_at(entry)
+  if language=='pt':title=localize_pt(title); summary=localize_pt(summary)
   if not title or len(summary)<40 or not published or age_days(published)<0 or age_days(published)>DISCOVERY_DAYS:continue
   if not language_ok(title,summary,language):continue
   item=make_item(title,summary,source,published,entry.get('link','').strip(),language)

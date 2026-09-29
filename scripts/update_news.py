@@ -9,15 +9,16 @@ import feedparser
 
 PRIMARY_HOURS = 24
 FALLBACK_HOURS = 96
+CARRY_FORWARD_HOURS = 168
 MIN_TARGET = {'Moçambique': 4, 'África': 3, 'Mundo': 3}
 DESIRED_TARGET = {'Moçambique': 6, 'África': 6, 'Mundo': 6}
 MAX_PER_SOURCE = 3
 FEED_CACHE = {}
 
 RSS_PT = {
-    'Moçambique': [('Diário Económico','https://www.diarioeconomico.co.mz/feed/'),('O País','https://opais.co.mz/feed/'),('AIM News','https://aimnews.org/feed/'),('Jornal Notícias','https://jornalnoticias.co.mz/feed/'),('Checka','https://checka.co.mz/feed/'),('Club of Mozambique','https://clubofmozambique.com/feed/')],
-    'África': [('ONU News','https://news.un.org/feed/subscribe/pt/news/all/rss.xml'),('Euronews Português','https://pt.euronews.com/rss?level=theme&name=news'),('O País','https://opais.co.mz/feed/'),('RTP Notícias','https://www.rtp.pt/noticias/rss/mundo'),('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html')],
-    'Mundo': [('ONU News','https://news.un.org/feed/subscribe/pt/news/all/rss.xml'),('Euronews Português','https://pt.euronews.com/rss?level=theme&name=news'),('RTP Notícias','https://www.rtp.pt/noticias/rss/mundo'),('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html')],
+    'Moçambique': [('Diário Económico','https://www.diarioeconomico.co.mz/feed/'),('O País','https://opais.co.mz/feed/'),('AIM Notícias','https://aimnews.org/feed/'),('Jornal Notícias','https://jornalnoticias.co.mz/feed/'),('Checka','https://checka.co.mz/feed/'),('Club of Mozambique','https://clubofmozambique.com/feed/')],
+    'África': [('Notícias ONU','https://news.un.org/feed/subscribe/pt/news/all/rss.xml'),('Euronews Português','https://pt.euronews.com/rss?level=theme&name=news'),('O País','https://opais.co.mz/feed/'),('RTP Notícias','https://www.rtp.pt/noticias/rss/mundo'),('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html')],
+    'Mundo': [('Notícias ONU','https://news.un.org/feed/subscribe/pt/news/all/rss.xml'),('Euronews Português','https://pt.euronews.com/rss?level=theme&name=news'),('RTP Notícias','https://www.rtp.pt/noticias/rss/mundo'),('DW Português','https://rss.dw.com/syndication/feeds/DW_para_A_Verdade.12133-cb.html')],
 }
 RSS_EN = {
     'Moçambique': [('Club of Mozambique','https://clubofmozambique.com/feed/'),('AIM News','https://aimnews.org/feed/'),('Le Monde Mozambique','https://www.lemonde.fr/en/mozambique/rss_full.xml')],
@@ -41,7 +42,15 @@ EVENT_GROUPS={
  'tecnologia':('tecnologia','digital','inteligencia artificial','ia','telecomunicacoes'),
 }
 
-def clean(value): return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',value or ''))).strip()
+def clean(value):
+    value=html.unescape(re.sub(r'<[^>]+>',' ',value or ''))
+    value=re.sub(r'\bThe post\b.*$','',value,flags=re.I)
+    value=re.sub(r'\bappeared first on\b.*$','',value,flags=re.I)
+    return re.sub(r'\s+',' ',value).strip(' .[…')
+def localize_pt(value):
+    replacements=((r'\bprocurement\b','aquisições'),(r'\bbusiness\b','negócios'),(r'\bmarket\b','mercado'),(r'\binvestment\b','investimento'),(r'\bproject\b','projecto'),(r'\bservices\b','serviços'),(r'\bsupply\b','fornecimento'),(r'\bmanagement\b','gestão'),(r'\bsupport\b','apoio'),(r'\bdeadline\b','prazo'),(r'\bnew\b','novo'),(r'\band\b','e'))
+    for pattern,replacement in replacements:value=re.sub(pattern,replacement,value,flags=re.I)
+    return value
 def norm(value):
     value=unicodedata.normalize('NFKD',value.lower()).encode('ascii','ignore').decode()
     return re.sub(r'\s+',' ',re.sub(r'[^a-z0-9 ]',' ',value)).strip()
@@ -109,7 +118,8 @@ def duplicate(candidate,seen):
         other_places,other_groups=event_profile(other)
         title_overlap=len(title_tokens & other_title_tokens)/max(1,min(len(title_tokens),len(other_title_tokens)))
         body_overlap=len(body_tokens & other_body_tokens)/max(1,min(len(body_tokens),len(other_body_tokens)))
-        same_event=bool(candidate_places & other_places) and bool(candidate_groups & other_groups)
+        shared_groups=candidate_groups & other_groups
+        same_event=bool(candidate_places & other_places) and bool(shared_groups) and ('conflito' in shared_groups or 'eleições' in shared_groups or title_overlap>=.45)
         if title==other_title or SequenceMatcher(None,title,other_title).ratio()>=.70 or title_overlap>=.60 or body_overlap>=.68 or same_event:return True
     return False
 def parse(url,section,source,hours,pt):
@@ -136,6 +146,7 @@ def parse(url,section,source,hours,pt):
     feed=feedparser.parse(raw); output=[]; now=datetime.now(timezone.utc)
     for entry in feed.entries:
         title=clean(entry.get('title')); summary=clean(entry.get('summary') or entry.get('description')); published=published_at(entry)
+        if pt:title=localize_pt(title); summary=localize_pt(summary)
         if not title or len(summary)<40 or not published or published>now or age_hours(published)>hours: continue
         if not relevant(section,title,summary) or not language_ok(title,summary,pt): continue
         link=entry.get('link','').strip()
@@ -158,6 +169,30 @@ def build(language):
                 try: add(grouped[section],seen,parse(url,section,source,FALLBACK_HOURS,pt))
                 except Exception as error: print('fallback',source,section,type(error).__name__,str(error)[:160])
     missing={section:MIN_TARGET[section]-len(grouped[section]) for section in MIN_TARGET if len(grouped[section])<MIN_TARGET[section]}
+    if missing:
+        previous_path=Path(f'docs/news-{language}.json')
+        try:previous=json.loads(previous_path.read_text(encoding='utf-8')).get('items',[])
+        except Exception:previous=[]
+        for section,needed in missing.items():
+            candidates=[]
+            for old in previous:
+                if old.get('section')!=section:continue
+                try:published=datetime.fromisoformat(old.get('published','').replace('Z','+00:00'))
+                except Exception:continue
+                if age_hours(published)>CARRY_FORWARD_HOURS:continue
+                candidate=dict(old)
+                if language=='pt':
+                    candidate['title']=localize_pt(clean(candidate.get('title','')))
+                    candidate['summary']=localize_pt(clean(candidate.get('summary','')))
+                    candidate['source']={'AIM News':'AIM Notícias','ONU News':'Notícias ONU'}.get(candidate.get('source'),candidate.get('source'))
+                candidate['carried_forward']=True; candidates.append(candidate)
+            before=len(grouped[section])
+            for candidate in sorted(candidates,key=lambda value:value.get('published',''),reverse=True):
+                if len(grouped[section])-before>=needed:break
+                if duplicate(candidate,seen):continue
+                seen.append(candidate); grouped[section].append(candidate)
+            if len(grouped[section])>before:print('continuidade',language,section,len(grouped[section])-before,'notícia(s) da edição anterior')
+        missing={section:MIN_TARGET[section]-len(grouped[section]) for section in MIN_TARGET if len(grouped[section])<MIN_TARGET[section]}
     if missing: raise SystemExit(f'Actualização {language} rejeitada: secções insuficientes {missing}.')
     selected=[]
     for section,amount in DESIRED_TARGET.items():
@@ -174,15 +209,11 @@ def build(language):
             raise SystemExit(f'Actualização {language} rejeitada: {section} tem apenas {len(distinct_sources)} fonte distinta.')
         selected.extend(chosen)
     selected=sorted(selected,key=lambda value:value['published'],reverse=True)
-    payload={'updated_at':datetime.now(timezone.utc).isoformat(),'language':language,'window_hours':24,'fallback_hours':FALLBACK_HOURS,'items':selected,'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança','Tecnologia e IA'],'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento'],'generator':'GitHub Actions · Briefing Diário','section_counts':{section:sum(item['section']==section for item in selected) for section in MIN_TARGET}}
+    payload={'updated_at':datetime.now(timezone.utc).isoformat(),'language':language,'window_hours':24,'fallback_hours':FALLBACK_HOURS,'carry_forward_hours':CARRY_FORWARD_HOURS,'items':selected,'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança','Tecnologia e IA'],'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento'],'generator':'GitHub Actions · Briefing Diário','section_counts':{section:sum(item['section']==section for item in selected) for section in MIN_TARGET}}
     return payload
 
 if __name__ == '__main__':
-    try:
-        pt=build('pt'); en=build('en')
-    except SystemExit as error:
-        print(f'AVISO: {error} Mantida a última edição válida.')
-        raise SystemExit(0)
+    pt=build('pt'); en=build('en')
     Path('docs/news-pt.json').write_text(json.dumps(pt,ensure_ascii=False,indent=2),encoding='utf-8')
     Path('docs/news-en.json').write_text(json.dumps(en,ensure_ascii=False,indent=2),encoding='utf-8')
     Path('docs/news.json').write_text(json.dumps(pt,ensure_ascii=False,indent=2),encoding='utf-8')
