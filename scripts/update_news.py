@@ -244,7 +244,7 @@ def event_similarity(a,b):
         return .95
     if body_overlap>=.68 and shared_places:
         return .92
-    if shared_places and shared_groups and title_overlap>=.30:
+    if shared_places and shared_groups and len(at & bt)>=2 and title_overlap>=.30:
         return .88
     if shared_places and shared_groups and body_overlap>=.45:
         return .84
