@@ -152,7 +152,7 @@ def classify_topic(title,summary):
         term=norm(term)
         if ' ' in term:
             return term in text
-        return re.search(r'\\b'+re.escape(term)+r'\\b',text) is not None
+        return re.search(r'\b'+re.escape(term)+r'\b',text) is not None
     scores={topic:sum(1 for term in terms if has_term(term)) for topic,terms in TOPIC_RULES.items()}
     ordered=sorted(scores.items(),key=lambda pair:pair[1],reverse=True)
     primary=ordered[0][0] if ordered and ordered[0][1] else 'Geral'
@@ -244,7 +244,7 @@ def event_similarity(a,b):
         return .95
     if body_overlap>=.68 and shared_places:
         return .92
-    if shared_places and shared_groups and title_overlap>=.35:
+    if shared_places and shared_groups and title_overlap>=.30:
         return .88
     if shared_places and shared_groups and body_overlap>=.45:
         return .84
