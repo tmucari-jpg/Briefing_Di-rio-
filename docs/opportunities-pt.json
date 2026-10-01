@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-10-01T13:23:57.451966+00:00",
+  "updated_at": "2026-10-01T14:59:28.932221+00:00",
   "language": "pt",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Regulação & decretos",
+      "title": "COMUNICAÇÃO SOCIAL: Novo regulamento vai travar atropelos",
+      "summary": "O Sindicato Nacional de Jornalistas (SNJ) entende que o pacote de leis da comunicação social vai garantir maior organização do sector, regulação… O conteúdo COMUNICAÇÃO SOCIAL: Novo regulamento vai travar atropelos aparece primeiro em Jornal Notícias",
+      "entity": "Jornal Notícias",
+      "deadline": "Confirmar na fonte original",
+      "eligibility": "Confirmar na fonte original",
+      "why": "A oportunidade «COMUNICAÇÃO SOCIAL: Novo regulamento vai travar atropelos» tem entidade responsável, acção concreta e prazo que devem ser verificados antes da candidatura.",
+      "action": "Abrir o anúncio original de «COMUNICAÇÃO SOCIAL: Novo regulamento vai travar atropelos», confirmar os requisitos e o prazo e preparar os documentos solicitados.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-01T13:58:21+00:00",
+      "age_hours": 1.0,
+      "link": "https://jornalnoticias.co.mz/destaque/comunicacao-social-novo-regulamento-vai-travar-atropelos/",
+      "original_source": true,
+      "verification_status": "Confirmar na fonte original",
+      "actionability_score": 8
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",

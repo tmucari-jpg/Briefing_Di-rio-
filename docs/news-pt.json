@@ -1,10 +1,188 @@
 {
-  "updated_at": "2026-10-01T13:23:00.517378+00:00",
+  "updated_at": "2026-10-01T14:58:24.219014+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
-  "items": [],
+  "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Polícia timorense deteve homem por falsas promessas de emprego na Austrália",
+      "summary": "A Polícia Nacional de Timor-Leste (PNTL) deteve um homem por estar alegadamente envolvido num esquema de falsa promessa de emprego na Austrália a 30 cidadãos timorenses, anunciou hoje aquela força de segurança Segundo a PNTL, o homem foi detido quarta-feira num casino, situado num centro comercial de Díli, no âmbito de uma operação de investigação \"O caso envolve 30 cidadãos timorenses que alegadamente entregaram ao suspeito um montante total de 55.600 dólares, bem como os respetivos passaportes, na expectativa de obter oportunidades de trabalho na Austrália\", salientou a polícia timorense No âmbito da operação, as vítimas disseram que o suspeito alegava ter relações privilegiadas com pessoas ligadas à Secretaria de Estado da Formação Profissional e Emprego, que também estão a ser investigadas pela polícia A PNTL apelou à população, em particular aos cidadãos interessados em trabalhar no estrangeiro, para verificarem a autenticidade das ofertas de emprego antes de entregarem dinheiro, passaportes ou outros documentos pessoais a terceiros Numa outra operação, que também decorreu na…",
+      "why": "«Polícia timorense deteve homem por falsas promessas de emprego na Austrália» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Polícia timorense deteve homem por falsas promessas de emprego na Austrália», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-01T08:27:12+00:00",
+      "age_hours": 6.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/policia-timorense-deteve-homem-por-falsas-promessas-de-emprego-na-australia_n1768806",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A Polícia Nacional de Timor-Leste (PNTL) deteve um homem por estar alegadamente envolvido num esquema de falsa promessa de emprego na Austrália a 30 cidadãos timorenses, anunciou hoje aquela força de segurança Segundo a PNTL, o homem foi detido quarta-feira num casino, situado num centro comercial de Díli, no âmbito de uma operação de investigação \"O caso envolve 30 cidadãos timorenses que alegadamente entregaram ao suspeito um montante total de 55.600 dólares, bem como os respetivos passaportes, na expectativa de obter oportunidades de trabalho na Austrália\", salientou a polícia timorense No âmbito da operação, as vítimas disseram que o suspeito alegava ter relações privilegiadas com pessoas ligadas à Secretaria de Estado da Formação Profissional e Emprego, que também estão a ser investigadas pela polícia A PNTL apelou à população, em particular aos cidadãos interessados em trabalhar no estrangeiro, para verificarem a autenticidade das ofertas de emprego antes de entregarem dinheiro, passaportes ou outros documentos pessoais a terceiros Numa outra operação, que também decorreu na… «Polícia timorense deteve homem por falsas promessas de emprego na Austrália» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Polícia timorense deteve homem por falsas promessas de emprego na Austrália», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.65,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético",
+      "summary": "O mais recente ataque foi ucraniano e atingiu uma refinaria na região russa de Samara. Volodymyr Zelenskyy revelou que o exército atingiu uma instalação petrolífera apenas dias depois de o presidente norte-americano ter tentado o fim de ataques a alvos do setor energético",
+      "why": "«Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-01T11:39:14+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ouvidos-de-mercador-a-trump-moscovo-e-kiev-continuam-ataques-a-setor-energetico_n1768835",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O mais recente ataque foi ucraniano e atingiu uma refinaria na região russa de Samara. Volodymyr Zelenskyy revelou que o exército atingiu uma instalação petrolífera apenas dias depois de o presidente norte-americano ter tentado o fim de ataques a alvos do setor energético. «Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.31,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Chapo destaca ganhos da visita ao Botswana",
+      "summary": "Maputo, 30 Set (AIM) – O Presidente da República, Daniel Francisco Chapo, considerou positiva a visita de Estado ao Botswana, apontando o reforço da cooperação bilateral, novas perspectivas de investimento e a criação de ligações aéreas entre os dois países como alguns dos resultados da deslocação, que incluiu igualmente contactos com a comunidade moçambicana residente naquele país. No encontro com representantes da diáspora moçambicana, realizado esta quarta-feira, em Gaborone, o Chefe do Estado apelou aos compatriotas para reforçarem a sua organização e participação no Diálogo Nacional Inclusivo, defendendo o diálogo e a troca de ideias como instrumentos para enfrentar as diferenças e construir soluções para o país. “Continuem organizados em associações, porque esta associação une os moçambicanos, é um ponto de encontro”, afirmou Chapo.",
+      "why": "«Chapo destaca ganhos da visita ao Botswana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Chapo destaca ganhos da visita ao Botswana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "AIM Notícias",
+      "published": "2026-09-30T21:04:01+00:00",
+      "age_hours": 17.9,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/09/30/chapo-destaca-ganhos-da-visita-ao-botswana/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 30 Set (AIM) – O Presidente da República, Daniel Francisco Chapo, considerou positiva a visita de Estado ao Botswana, apontando o reforço da cooperação bilateral, novas perspectivas de investimento e a criação de ligações aéreas entre os dois países como alguns dos resultados da deslocação, que incluiu igualmente contactos com a comunidade moçambicana residente naquele país. No encontro com representantes da diáspora moçambicana, realizado esta quarta-feira, em Gaborone, o Chefe do Estado apelou aos compatriotas para reforçarem a sua organização e participação no Diálogo Nacional Inclusivo, defendendo o diálogo e a troca de ideias como instrumentos para enfrentar as diferenças e construir soluções para o país. “Continuem organizados em associações, porque esta associação une os moçambicanos, é um ponto de encontro”, afirmou Chapo. «Chapo destaca ganhos da visita ao Botswana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Chapo destaca ganhos da visita ao Botswana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 10.27,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "title": "\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA",
+      "summary": "A Right Livelihood Award distinguiu hoje com o \"Nobel Alternativo\" a paquistanesa Jalila Haider e uma organização sul-africana pela luta contra a violência patriarcal, e a norte-americana Timnit Gebru pela defesa do uso ético da inteligência artificial O prémio da fundação sueca, que desde 1980 distingue o trabalho social, também premiou os esforços contra o autoritarismo da Associação de Jovens Advogados da Geórgia (GYLA, na sigla em inglês) O júri reconheceu Haider, a primeira mulher da comunidade hazara a tornar-se advogada, por \"desafiar a perseguição étnica, estatal e patriarcal, guiada pela convicção de que nenhum ser humano é ilegal\" \"Combinando o trabalho jurídico com o ativismo de rua e o empoderamento comunitário, Haider conseguiu justiça para milhares de pessoas perseguidas ou ignoradas pelo poder, especialmente minorias étnicas, de género e religiosas, bem como refugiados, destacou o veredicto Haider, nascida em Quetta, Paquistão, em 1984, liderou, em 2018, uma greve de fome contra o assassinato de pessoas da etnia hazara, o que levou a uma negociação e reduziu os…",
+      "why": "«\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
+      "source": "RTP Notícias",
+      "published": "2026-09-30T07:36:37+00:00",
+      "age_hours": 31.4,
+      "within_24h": false,
+      "link": "https://www.rtp.pt/noticias/mundo/nobel-alternativo-distingue-luta-contra-a-violencia-patriarcal-e-uso-etico-da-ia_n1768571",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "update",
+      "opportunity_flag": false,
+      "detailed_summary": "A Right Livelihood Award distinguiu hoje com o \"Nobel Alternativo\" a paquistanesa Jalila Haider e uma organização sul-africana pela luta contra a violência patriarcal, e a norte-americana Timnit Gebru pela defesa do uso ético da inteligência artificial O prémio da fundação sueca, que desde 1980 distingue o trabalho social, também premiou os esforços contra o autoritarismo da Associação de Jovens Advogados da Geórgia (GYLA, na sigla em inglês) O júri reconheceu Haider, a primeira mulher da comunidade hazara a tornar-se advogada, por \"desafiar a perseguição étnica, estatal e patriarcal, guiada pela convicção de que nenhum ser humano é ilegal\" \"Combinando o trabalho jurídico com o ativismo de rua e o empoderamento comunitário, Haider conseguiu justiça para milhares de pessoas perseguidas ou ignoradas pelo poder, especialmente minorias étnicas, de género e religiosas, bem como refugiados, destacou o veredicto Haider, nascida em Quetta, Paquistão, em 1984, liderou, em 2018, uma greve de fome contra o assassinato de pessoas da etnia hazara, o que levou a uma negociação e reduziu os… «\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
+      "editorial_score": 9.27,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán",
+      "summary": "A Rússia expulsou na quinta-feira um grupo de diplomatas húngaros, depois de a Hungria ter ordenado, no mês passado, a saída de dez diplomatas russos, num claro afastamento da era do antigo primeiro-ministro Viktor Orbán, que mantinha relações mais estreitas com Moscovo do que qualquer outro líder da UE.O encarregado de negócios húngaro, Gábor Gergics, foi convocado para o ministério russo dos Negócios Estrangeiros e informado de que funcionários da embaixada da Hungria em Moscovo e dos consulados em São Petersburgo e Kazan tinham sido obrigados a abandonar o país no prazo de duas semanas.Moscovo qualificou a expulsão inicial de 8 de setembro como um ato “infundado e abertamente hostil”.Budapeste reconheceu a decisão de Moscovo, mas afirmou manter a sua posição.“A Hungria não está interessada numa escalada das tensões diplomáticas. Mas mantemos a nossa decisão, tomada por motivos de segurança nacional.",
+      "why": "«Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-01T14:36:01+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/01/russia-expulsa-diplomatas-hungaros-enquanto-budapeste-rompe-com-era-orban",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A Rússia expulsou na quinta-feira um grupo de diplomatas húngaros, depois de a Hungria ter ordenado, no mês passado, a saída de dez diplomatas russos, num claro afastamento da era do antigo primeiro-ministro Viktor Orbán, que mantinha relações mais estreitas com Moscovo do que qualquer outro líder da UE.O encarregado de negócios húngaro, Gábor Gergics, foi convocado para o ministério russo dos Negócios Estrangeiros e informado de que funcionários da embaixada da Hungria em Moscovo e dos consulados em São Petersburgo e Kazan tinham sido obrigados a abandonar o país no prazo de duas semanas.Moscovo qualificou a expulsão inicial de 8 de setembro como um ato “infundado e abertamente hostil”.Budapeste reconheceu a decisão de Moscovo, mas afirmou manter a sua posição.“A Hungria não está interessada numa escalada das tensões diplomáticas. Mas mantemos a nossa decisão, tomada por motivos de segurança nacional. «Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.92,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Bradley Whitford recebe estrela no Passeio da Fama de Hollywood",
+      "summary": "Bradley Whitford recebe a 2 858.ª estrela no Passeio da Fama de Hollywood, celebra com a família e colegas de “West Wing” em Los Angeles",
+      "why": "«Bradley Whitford recebe estrela no Passeio da Fama de Hollywood» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Bradley Whitford recebe estrela no Passeio da Fama de Hollywood», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-01T10:21:08+00:00",
+      "age_hours": 4.6,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/video/2026/10/01/bradley-whitford-recebe-estrela-no-passeio-da-fama-de-hollywood",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Bradley Whitford recebe a 2 858.ª estrela no Passeio da Fama de Hollywood, celebra com a família e colegas de “West Wing” em Los Angeles. «Bradley Whitford recebe estrela no Passeio da Fama de Hollywood» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Bradley Whitford recebe estrela no Passeio da Fama de Hollywood», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 8.04,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    }
+  ],
   "watch": [
     "Energia e LNG",
     "Economia e investimento",
@@ -24,9 +202,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 0,
-    "África": 0,
-    "Mundo": 0
+    "Moçambique": 1,
+    "África": 1,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
