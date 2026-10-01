@@ -9,7 +9,7 @@ import sys
 
 ROOT=Path(__file__).resolve().parent
 sys.path.insert(0,str(ROOT))
-from update_news import cluster_events, classify_topic, editorial_type
+from update_news import cluster_events, classify_topic, editorial_type, event_similarity, event_profile, event_tokens
 
 REPO="tmucari-jpg/Briefing_Di-rio-"
 
@@ -51,7 +51,7 @@ def main():
         check("same-event Dangote/Kenya refinery",lambda: (
             (_ for _ in ()).throw(AssertionError("fixture missing")) if not (dangote_a and dangote_b)
             else None if same_cluster(cluster_events([dangote_a,dangote_b]),dangote_a,dangote_b)
-            else (_ for _ in ()).throw(AssertionError("not clustered"))
+            else (_ for _ in ()).throw(AssertionError(f"not clustered; similarity={event_similarity(dangote_a,dangote_b)}; profiles={event_profile(dangote_a)} / {event_profile(dangote_b)}; tokens={event_tokens(dangote_a.get('title',''))} / {event_tokens(dangote_b.get('title',''))}"))
         ))
 
         fuel=find(pt,"MIREME nega falta de combustível")
