@@ -15,7 +15,7 @@ SOURCE_SCORE={
     'Club of Mozambique':4,'Diário Económico':4,'O País':4,'AIM News':4,'AIM Notícias':4,'Notícias ONU':5,
     'Jornal Notícias':4,'Checka':4,'Le Monde':4,'Reuters':5,'Associated Press':5
 }
-BAD_WORDS=('futebol','football','cinema','filme','música','music','novela','horóscopo','horoscope','moda','fashion','entretenimento','entertainment')
+BAD_WORDS=('futebol','football','cinema','filme','música','music','novela','horóscopo','horoscope','moda','fashion','entretenimento','entertainment','hollywood','walk of fame','passeio da fama')
 EN_MARKERS=(' the ',' and ',' of ',' to ',' for ',' with ',' from ',' are ',' is ',' has ',' have ',' will ',' after ',' over ')
 PT_MARKERS=(' de ',' da ',' do ',' das ',' dos ',' para ',' com ',' que ',' uma ',' um ',' foi ',' será ',' estão ',' sobre ',' após ',' entre ')
 
