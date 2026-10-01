@@ -40,6 +40,13 @@ jobs:
       - name: Testes de integração do cérebro editorial
         run: python scripts/test_editorial_engine.py
 
+      - name: Guardar relatório dos testes editoriais
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: editorial-engine-test-report
+          path: /tmp/editorial-test-report.json
+
       - name: Actualizar notícias
         env:
           TZ: Africa/Maputo
