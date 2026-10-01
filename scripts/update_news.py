@@ -8,11 +8,12 @@ from urllib.request import Request, urlopen
 import feedparser
 
 PRIMARY_HOURS = 24
-FALLBACK_HOURS = 96
-CARRY_FORWARD_HOURS = 168
-MIN_TARGET = {'Moçambique': 4, 'África': 3, 'Mundo': 3}
-DESIRED_TARGET = {'Moçambique': 6, 'África': 6, 'Mundo': 6}
-MAX_PER_SOURCE = 3
+FALLBACK_HOURS = 48
+CARRY_FORWARD_HOURS = 0
+MIN_TARGET = {'Moçambique': 0, 'África': 0, 'Mundo': 0}
+DESIRED_TARGET = {'Moçambique': 5, 'África': 5, 'Mundo': 5}
+MAX_PER_SOURCE = 2
+MAX_EVENT_AGE_HOURS = 48
 FEED_CACHE = {}
 ARTICLE_CACHE = {}
 
@@ -174,18 +175,90 @@ def event_profile(item):
     places={place for place in PLACE_MARKERS if place in text}
     groups={name for name,signals in EVENT_GROUPS.items() if any(signal in text for signal in signals)}
     return places,groups
-def duplicate(candidate,seen):
-    title=norm(candidate['title']); title_tokens=event_tokens(candidate['title']); body_tokens=event_tokens(candidate['title']+' '+candidate['summary'])
-    candidate_places,candidate_groups=event_profile(candidate)
+def exact_duplicate(candidate,seen):
+    title=norm(candidate['title'])
+    link=norm(candidate.get('link',''))
     for other in seen:
-        other_title=norm(other['title']); other_title_tokens=event_tokens(other['title']); other_body_tokens=event_tokens(other['title']+' '+other['summary'])
-        other_places,other_groups=event_profile(other)
-        title_overlap=len(title_tokens & other_title_tokens)/max(1,min(len(title_tokens),len(other_title_tokens)))
-        body_overlap=len(body_tokens & other_body_tokens)/max(1,min(len(body_tokens),len(other_body_tokens)))
-        shared_groups=candidate_groups & other_groups
-        same_event=bool(candidate_places & other_places) and bool(shared_groups) and ('conflito' in shared_groups or 'eleições' in shared_groups or title_overlap>=.45)
-        if title==other_title or SequenceMatcher(None,title,other_title).ratio()>=.70 or title_overlap>=.60 or body_overlap>=.68 or same_event:return True
+        if title and title==norm(other.get('title','')): return True
+        if link and link==norm(other.get('link','')): return True
+        if SequenceMatcher(None,title,norm(other.get('title',''))).ratio()>=.86: return True
     return False
+
+def event_profile(item):
+    text=norm(item.get('title','')+' '+item.get('summary',''))
+    places={place for place in PLACE_MARKERS if place in text}
+    groups={name for name,signals in EVENT_GROUPS.items() if any(signal in text for signal in signals)}
+    return places,groups
+
+def event_similarity(a,b):
+    at=event_tokens(a.get('title','')); bt=event_tokens(b.get('title',''))
+    ab=event_tokens(a.get('title','')+' '+a.get('summary','')); bb=event_tokens(b.get('title','')+' '+b.get('summary',''))
+    places_a,groups_a=event_profile(a); places_b,groups_b=event_profile(b)
+    title_overlap=len(at & bt)/max(1,min(len(at),len(bt)))
+    body_overlap=len(ab & bb)/max(1,min(len(ab),len(bb)))
+    shared_groups=groups_a & groups_b
+    shared_places=places_a & places_b
+    try:
+        ta=datetime.fromisoformat(a['published'].replace('Z','+00:00'))
+        tb=datetime.fromisoformat(b['published'].replace('Z','+00:00'))
+        close_in_time=abs((ta-tb).total_seconds())/3600 <= MAX_EVENT_AGE_HOURS
+    except Exception:
+        close_in_time=True
+    if not close_in_time: return 0
+    if title_overlap>=.42: return .90
+    if body_overlap>=.58: return .88
+    if shared_places and shared_groups:
+        return .86
+    if shared_groups and (title_overlap>=.25 or body_overlap>=.40):
+        return .74
+    return 0
+
+def cluster_events(items):
+    clusters=[]
+    for item in sorted(items,key=lambda value:value.get('published',''),reverse=True):
+        match=None; best=0
+        for cluster in clusters:
+            score=max(event_similarity(item,member) for member in cluster['members'])
+            if score>best:
+                best=score; match=cluster
+        if match is not None and best>=.74:
+            match['members'].append(item)
+        else:
+            clusters.append({'members':[item]})
+
+    output=[]
+    for index,cluster in enumerate(clusters,1):
+        members=cluster['members']
+        primary=members[0]
+        sources=[]
+        for member in members:
+            source=member.get('source','')
+            if source and source not in sources: sources.append(source)
+        primary=dict(primary)
+        primary['event_id']=f"evt-{primary.get('section','').lower().replace('ç','c')}-{index:03d}"
+        primary['cluster_size']=len(members)
+        primary['source_count']=len(sources)
+        primary['sources']=sources
+        primary['primary_source']=primary.get('source')
+        primary['status']='today' if primary.get('within_24h') else 'update'
+        if len(members)>1:
+            confirmations=[]
+            for member in members[1:3]:
+                confirmations.append({
+                    'source':member.get('source'),
+                    'title':member.get('title'),
+                    'link':member.get('link')
+                })
+            primary['confirmations']=confirmations
+        output.append(primary)
+    return output
+
+def add(destination,seen,items):
+    for item in sorted(items,key=lambda value:value['published'],reverse=True):
+        if item['title'] and not exact_duplicate(item,seen):
+            seen.append(item)
+            destination.append(item)
+
 def parse(url,section,source,hours,pt):
     if url in FEED_CACHE:
         raw=FEED_CACHE[url]
@@ -222,66 +295,75 @@ def add(destination,seen,items):
     for item in sorted(items,key=lambda value:value['published'],reverse=True):
         if item['title'] and not duplicate(item,seen): seen.append(item); destination.append(item)
 def build(language):
-    pt=language=='pt'; feeds=RSS_PT if pt else RSS_EN; grouped={section:[] for section in MIN_TARGET}; seen=[]
+    pt=language=='pt'
+    feeds=RSS_PT if pt else RSS_EN
+    grouped={section:[] for section in MIN_TARGET}
+    seen=[]
+
+    # 1) Discovery: alerts/RSS are inputs, never the published unit.
     for section in MIN_TARGET:
         for source,url in feeds[section]:
-            try: add(grouped[section],seen,parse(url,section,source,PRIMARY_HOURS,pt))
-            except Exception as error: print('feed',source,section,type(error).__name__,str(error)[:160])
-    if any(len(grouped[section])<DESIRED_TARGET[section] for section in MIN_TARGET):
-        for section in MIN_TARGET:
+            try:
+                add(grouped[section],seen,parse(url,section,source,PRIMARY_HOURS,pt))
+            except Exception as error:
+                print('feed',source,section,type(error).__name__,str(error)[:160])
+
+    # 2) Only use a short fallback window when a section has very little fresh material.
+    #    Fallback items are explicitly marked as updates; they are not presented as "today".
+    for section in MIN_TARGET:
+        if len(grouped[section]) < 3:
             for source,url in feeds[section]:
-                try: add(grouped[section],seen,parse(url,section,source,FALLBACK_HOURS,pt))
-                except Exception as error: print('fallback',source,section,type(error).__name__,str(error)[:160])
-    missing={section:MIN_TARGET[section]-len(grouped[section]) for section in MIN_TARGET if len(grouped[section])<MIN_TARGET[section]}
-    if missing:
-        previous_path=Path(f'docs/news-{language}.json')
-        try:previous=json.loads(previous_path.read_text(encoding='utf-8')).get('items',[])
-        except Exception:previous=[]
-        for section,needed in missing.items():
-            candidates=[]
-            for old in previous:
-                if old.get('section')!=section:continue
-                try:published=datetime.fromisoformat(old.get('published','').replace('Z','+00:00'))
-                except Exception:continue
-                if age_hours(published)>CARRY_FORWARD_HOURS:continue
-                candidate=dict(old)
-                if language=='pt':
-                    candidate['title']=localize_pt(clean(candidate.get('title','')))
-                    candidate['summary']=localize_pt(clean(candidate.get('summary','')))
-                    candidate['source']={'AIM News':'AIM Notícias','ONU News':'Notícias ONU'}.get(candidate.get('source'),candidate.get('source'))
-                candidate['carried_forward']=True; candidates.append(candidate)
-            before=len(grouped[section])
-            for candidate in sorted(candidates,key=lambda value:value.get('published',''),reverse=True):
-                if len(grouped[section])-before>=needed:break
-                if duplicate(candidate,seen):continue
-                seen.append(candidate); grouped[section].append(candidate)
-            if len(grouped[section])>before:print('continuidade',language,section,len(grouped[section])-before,'notícia(s) da edição anterior')
-        missing={section:MIN_TARGET[section]-len(grouped[section]) for section in MIN_TARGET if len(grouped[section])<MIN_TARGET[section]}
-    if missing: raise SystemExit(f'Actualização {language} rejeitada: secções insuficientes {missing}.')
+                try:
+                    add(grouped[section],seen,parse(url,section,source,FALLBACK_HOURS,pt))
+                except Exception as error:
+                    print('fallback',source,section,type(error).__name__,str(error)[:160])
+
+    # 3) Cluster multiple alerts/sources that describe the same event.
+    for section in grouped:
+        grouped[section]=cluster_events(grouped[section])
+
     selected=[]
     for section,amount in DESIRED_TARGET.items():
+        candidates=sorted(grouped[section],key=lambda value:(value.get('within_24h',False),value.get('published','')),reverse=True)
         chosen=[]; counts={}
-        for item in sorted(grouped[section],key=lambda value:value['published'],reverse=True):
-            if counts.get(item['source'],0)>=MAX_PER_SOURCE: continue
-            chosen.append(item); counts[item['source']]=counts.get(item['source'],0)+1
+        for item in candidates:
+            source=item.get('source','')
+            if counts.get(source,0)>=MAX_PER_SOURCE: continue
+            chosen.append(item)
+            counts[source]=counts.get(source,0)+1
             if len(chosen)==amount: break
-        for item in grouped[section]:
-            if len(chosen)==amount: break
-            if item not in chosen: chosen.append(item)
-        distinct_sources={item['source'] for item in chosen}
-        required_sources=2 if language=='pt' else 1
-        if len(distinct_sources)<required_sources:
-            raise SystemExit(f'Actualização {language} rejeitada: {section} tem apenas {len(distinct_sources)} fonte distinta.')
+
+        # Never invent volume just to fill a quota.
+        distinct_sources={item.get('source') for item in chosen if item.get('source')}
+        if language=='pt' and len(chosen)>=2 and len(distinct_sources)<2:
+            chosen=chosen[:1]
         selected.extend(chosen)
-    selected=sorted(selected,key=lambda value:value['published'],reverse=True)
+
+    selected=sorted(selected,key=lambda value:value.get('published',''),reverse=True)
+
+    # 4) Enrich only selected events.
     for item in selected:
         enriched=article_summary(item['link'],item['summary'],pt)
         if len(enriched)>len(item['summary']):
-            if pt:enriched=localize_pt(enriched)
+            if pt: enriched=localize_pt(enriched)
             item['summary']=enriched
             item['tags']=tags(f"{item['title']} {enriched}")
             item['why'],item['impact']=context(item['section'],item['title'],f"{item['title']} {enriched}",pt)
-    payload={'updated_at':datetime.now(timezone.utc).isoformat(),'language':language,'window_hours':24,'fallback_hours':FALLBACK_HOURS,'carry_forward_hours':CARRY_FORWARD_HOURS,'items':selected,'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança','Tecnologia e IA'],'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento'],'generator':'GitHub Actions · Briefing Diário','section_counts':{section:sum(item['section']==section for item in selected) for section in MIN_TARGET}}
+
+    payload={
+        'updated_at':datetime.now(timezone.utc).isoformat(),
+        'language':language,
+        'window_hours':PRIMARY_HOURS,
+        'fallback_hours':FALLBACK_HOURS,
+        'carry_forward_hours':CARRY_FORWARD_HOURS,
+        'items':selected,
+        'watch':['Energia e LNG','Economia e investimento','Geopolítica e segurança','Tecnologia e IA'],
+        'risks':['Choques geopolíticos','Volatilidade económica','Risco de informação não verificada'],
+        'opportunities':['Energia e fornecedores','Tecnologia e IA','Emprego, negócios e investimento'],
+        'generator':'GitHub Actions · Briefing Diário · Editorial Engine v2',
+        'editorial_rule':'Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.',
+        'section_counts':{section:sum(item['section']==section for item in selected) for section in MIN_TARGET}
+    }
     return payload
 
 if __name__ == '__main__':
