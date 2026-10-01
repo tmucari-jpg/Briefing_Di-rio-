@@ -35,7 +35,7 @@ BAD = ['futebol','football','sport','sports','uefa','fifa','cinema','filme','mov
 EN_WORDS = [' the ',' and ',' of ',' to ',' for ',' with ',' says ',' from ',' are ',' is ',' has ',' have ',' will ',' after ',' over ',' into ',' africa\'s ']
 PT_WORDS = [' de ',' da ',' do ',' das ',' dos ',' para ',' com ',' que ',' uma ',' um ',' foi ',' será ',' estão ',' sobre ',' após ',' entre ',' país ',' governo ']
 STOPWORDS = set('a o as os de da do das dos e em no na nos nas por para com sem sobre entre que uma um uns umas ao aos à às se é foi são será após mais menos como seu sua seus suas the and of to for with from are is has have will after over into says new'.split())
-PLACE_MARKERS=('mocambique','maputo','cabo delgado','tigray','etiopia','marrocos','angola','tanzania','malawi','zambia','zimbabwe','quenia','nigeria','ghana','congo','ruanda','uganda','somalia','sudao','egipto','namibia','botswana','arabia saudita','medio oriente','estados unidos','eua','portugal','franca','paris')
+PLACE_MARKERS=('mocambique','maputo','cabo delgado','pemba','beira','manganhe','tigray','etiopia','marrocos','angola','tanzania','malawi','zambia','zimbabwe','quenia','kenya','nigeria','ghana','congo','ruanda','uganda','somalia','sudao','egipto','namibia','botswana','africa do sul','south africa','arabia saudita','ira','iran','israel','ucrania','ukraine','russia','russia','franca','france','portugal','espanha','spain','reino unido','united kingdom','paris','bissau','guine bissau','senegal','argelia','argelia','tunisia','libia','egipto','ethiopia','sudan','saudi arabia','qatar','coreia do sul','south korea','estados unidos','eua','united states','china','india','japao','japan','europa','europe')
 EVENT_GROUPS={
  'eleições':('eleicao','eleicoes','eleitoral','eleitorais','parlamento','partido'),
  'conflito':('guerra','conflito','rebeldes','forcas','armados','terrorismo','ataque'),
@@ -204,13 +204,19 @@ def event_similarity(a,b):
         close_in_time=abs((ta-tb).total_seconds())/3600 <= MAX_EVENT_AGE_HOURS
     except Exception:
         close_in_time=True
-    if not close_in_time: return 0
-    if title_overlap>=.42: return .90
-    if body_overlap>=.58: return .88
-    if shared_places and shared_groups:
-        return .86
-    if shared_groups and (title_overlap>=.25 or body_overlap>=.40):
-        return .74
+    if not close_in_time:
+        return 0
+
+    # Topic alone is never enough. "Energy", "security" or "elections"
+    # can describe many unrelated events on the same day.
+    if title_overlap>=.58:
+        return .95
+    if body_overlap>=.68 and shared_places:
+        return .92
+    if shared_places and shared_groups and title_overlap>=.22:
+        return .88
+    if shared_places and shared_groups and body_overlap>=.45:
+        return .84
     return 0
 
 def cluster_events(items):
