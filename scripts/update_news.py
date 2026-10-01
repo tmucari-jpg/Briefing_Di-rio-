@@ -137,6 +137,31 @@ def language_ok(title,summary,pt):
     en_score=sum(marker in text for marker in EN_WORDS)
     pt_score=sum(marker in text for marker in PT_WORDS)
     return pt_score>=2 and pt_score>=en_score if pt else en_score>=2 and en_score>=pt_score
+TOPIC_RULES={
+    'Energia': ('energy','energia','lng','gás','gas','oil','petróleo','petroleo','fuel','combustível','combustivel','electricidade','electrificacao','refinery','refinaria'),
+    'IA': ('artificial intelligence','inteligência artificial','machine learning','aprendizagem automática','technology','tecnologia','digital','telecom'),
+    'Economia': ('econom','investment','investimento','business','negócios','trade','comércio','market','mercado','inflation','inflação','currency','divisas','financing','financiamento','employment','emprego','mining','mineração'),
+    'Segurança': ('security','segurança','conflict','conflito','war','guerra','military','militar','attack','ataque','sanction','sanções','terrorism','terrorismo','diplomacy','diplomacia','refugee','refugiado')
+}
+NOISE_RULES=('futebol','football','cinema','filme','movie','música','music','novela','horóscopo','horoscope','moda','fashion','entretenimento','entertainment','celebrity','celebridades')
+CONTEXT_RULES=('background','context','analysis','explainer','explained','what you need to know','por dentro','análise','analise','contexto','explicador')
+
+def classify_topic(title,summary):
+    text=norm(f'{title} {summary}')
+    scores={topic:sum(1 for term in terms if norm(term) in text) for topic,terms in TOPIC_RULES.items()}
+    ordered=sorted(scores.items(),key=lambda pair:pair[1],reverse=True)
+    primary=ordered[0][0] if ordered and ordered[0][1] else 'Geral'
+    secondary=[topic for topic,score in ordered[1:] if score and score>=max(1,ordered[0][1]-1)]
+    return primary,secondary,scores
+
+def editorial_type(title,summary,published,within_24h):
+    text=norm(f'{title} {summary}')
+    if any(norm(term) in text for term in NOISE_RULES):
+        return 'noise'
+    if any(norm(term) in text for term in CONTEXT_RULES) and not within_24h:
+        return 'context'
+    return 'event' if within_24h else 'update'
+
 def relevant(section,title,summary):
     text=f'{title} {summary}'.lower()
     if any(term in text for term in BAD): return False
