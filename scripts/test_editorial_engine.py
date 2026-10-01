@@ -9,7 +9,7 @@ import sys
 
 ROOT=Path(__file__).resolve().parent
 sys.path.insert(0,str(ROOT))
-from update_news import cluster_events
+from update_news import cluster_events, classify_topic, editorial_type
 
 REPO="tmucari-jpg/Briefing_Di-rio-"
 
@@ -53,6 +53,20 @@ def main():
     assert not same_cluster(cluster_events([korea,ukraine]),korea,ukraine), (
         "FAIL: unrelated global energy stories were incorrectly clustered"
     )
+
+
+    # TOPIC CLASSIFICATION: topic must follow the event, not generic feed labels.
+    topic,_secondary,_scores=classify_topic("Mercado cambial regista elevado volume de compra e venda de divisas","Compra e venda de divisas e actividade no mercado cambial.")
+    assert topic=="Economia", f"FAIL: FX story classified as {topic}"
+    topic,_secondary,_scores=classify_topic("Governo revê lei sobre tráfico e consumo de drogas","Nova lei sobre tráfico e consumo de drogas.")
+    assert topic!="Energia", f"FAIL: drug-law story was incorrectly classified as {topic}"
+    topic,_secondary,_scores=classify_topic("Russia launches largest attack on Ukraine energy infrastructure","Attack damages energy infrastructure in Ukraine.")
+    assert topic=="Energia", f"FAIL: Ukraine energy story classified as {topic}"
+
+    # EVENT / UPDATE / CONTEXT / NOISE labels.
+    assert editorial_type("Russia launches attack","Ukraine energy infrastructure", "2026-09-30T14:53:02+00:00", True)=="event"
+    assert editorial_type("Old explainer: what you need to know","background context", "2026-09-20T14:53:02+00:00", False)=="context"
+    assert editorial_type("Football match result","sports report", "2026-09-30T14:53:02+00:00", True)=="noise"
 
     print("EDITORIAL ENGINE TESTS: PASS")
     print("same-event: Dangote/Kenya refinery -> clustered")
