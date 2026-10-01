@@ -1,105 +1,68 @@
 {
-  "updated_at": "2026-09-30T21:16:32.718568+00:00",
+  "updated_at": "2026-10-01T15:01:20.981774+00:00",
   "language": "pt",
   "window_hours": 24,
-  "fallback_hours": 96,
-  "carry_forward_hours": 168,
+  "fallback_hours": 48,
+  "carry_forward_hours": 0,
   "items": [
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Chapo destaca ganhos da visita ao Botswana",
-      "summary": "Maputo, 30 Set (AIM) – O Presidente da República, Daniel Francisco Chapo, considerou positiva a visita de Estado ao Botswana, apontando o reforço da cooperação bilateral, novas perspectivas de investimento e a criação de ligações aéreas entre os dois países como alguns dos resultados da deslocação, que incluiu igualmente contactos com a comunidade moçambicana residente naquele país. No encontro com representantes da diáspora moçambicana, realizado esta quarta-feira, em Gaborone, o Chefe do Estado apelou aos compatriotas para reforçarem a sua organização e participação no Diálogo Nacional Inclusivo, defendendo o diálogo e a troca de ideias como instrumentos para enfrentar as diferenças e construir soluções para o país. “Continuem organizados em associações, porque esta associação une os moçambicanos, é um ponto de encontro”, afirmou Chapo.",
-      "why": "«Chapo destaca ganhos da visita ao Botswana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Chapo destaca ganhos da visita ao Botswana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-09-30T21:04:01+00:00",
-      "age_hours": 0.2,
+      "title": "Polícia timorense deteve homem por falsas promessas de emprego na Austrália",
+      "summary": "A Polícia Nacional de Timor-Leste (PNTL) deteve um homem por estar alegadamente envolvido num esquema de falsa promessa de emprego na Austrália a 30 cidadãos timorenses, anunciou hoje aquela força de segurança Segundo a PNTL, o homem foi detido quarta-feira num casino, situado num centro comercial de Díli, no âmbito de uma operação de investigação \"O caso envolve 30 cidadãos timorenses que alegadamente entregaram ao suspeito um montante total de 55.600 dólares, bem como os respetivos passaportes, na expectativa de obter oportunidades de trabalho na Austrália\", salientou a polícia timorense No âmbito da operação, as vítimas disseram que o suspeito alegava ter relações privilegiadas com pessoas ligadas à Secretaria de Estado da Formação Profissional e Emprego, que também estão a ser investigadas pela polícia A PNTL apelou à população, em particular aos cidadãos interessados em trabalhar no estrangeiro, para verificarem a autenticidade das ofertas de emprego antes de entregarem dinheiro, passaportes ou outros documentos pessoais a terceiros Numa outra operação, que também decorreu na…",
+      "why": "«Polícia timorense deteve homem por falsas promessas de emprego na Austrália» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Polícia timorense deteve homem por falsas promessas de emprego na Austrália», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-01T08:27:12+00:00",
+      "age_hours": 6.6,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/09/30/chapo-destaca-ganhos-da-visita-ao-botswana/",
+      "link": "https://www.rtp.pt/noticias/mundo/policia-timorense-deteve-homem-por-falsas-promessas-de-emprego-na-australia_n1768806",
       "original_source": true,
-      "detailed_summary": "Maputo, 30 Set (AIM) – O Presidente da República, Daniel Francisco Chapo, considerou positiva a visita de Estado ao Botswana, apontando o reforço da cooperação bilateral, novas perspectivas de investimento e a criação de ligações aéreas entre os dois países como alguns dos resultados da deslocação, que incluiu igualmente contactos com a comunidade moçambicana residente naquele país. No encontro com representantes da diáspora moçambicana, realizado esta quarta-feira, em Gaborone, o Chefe do Estado apelou aos compatriotas para reforçarem a sua organização e participação no Diálogo Nacional Inclusivo, defendendo o diálogo e a troca de ideias como instrumentos para enfrentar as diferenças e construir soluções para o país. “Continuem organizados em associações, porque esta associação une os moçambicanos, é um ponto de encontro”, afirmou Chapo. «Chapo destaca ganhos da visita ao Botswana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Chapo destaca ganhos da visita ao Botswana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.96,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
       ],
-      "title": "Governo revê lei sobre tráfico e consumo de drogas",
-      "summary": "Maputo, 30 Set (AIM) – O Governo está a rever a legislação que regula o tráfico, a produção, o cultivo e o consumo de drogas em Moçambique, em resposta ao surgimento de novas substâncias psicotrópicas e às mudanças nas formas de actuação das redes de tráfico e do crime organizado. Trata-se da Lei n.º 3/97, de 13 de Março, que estabelece o regime jurídico aplicável ao tráfico, produção, cultivo e consumo de estupefacientes e substâncias psicotrópicas no país, criando igualmente o Gabinete Central de Prevenção e Combate à Droga (GCPCD). Segundo José Bambo, representante do GCPCD, a revisão pretende actualizar o quadro legal, 29 anos depois da sua entrada em vigor, de modo a responder às novas dinâmicas do tráfico de drogas e do crime organizado, bem como ao surgimento de substâncias psicotrópicas e drogas sintéticas. “Um dos elementos é a necessidade de modernizar e responder aos novos desafios, passados 29 anos da sua vigência, responder às novas dinâmicas do tráfico de drogas e do crime organizado no país e controlar as novas substâncias psicotrópicas e drogas sintéticas”, afirmou.",
-      "why": "«Governo revê lei sobre tráfico e consumo de drogas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Governo revê lei sobre tráfico e consumo de drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-09-30T20:49:28+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/09/30/governo-reve-lei-sobre-trafico-e-consumo-de-drogas/",
-      "original_source": true,
-      "detailed_summary": "Maputo, 30 Set (AIM) – O Governo está a rever a legislação que regula o tráfico, a produção, o cultivo e o consumo de drogas em Moçambique, em resposta ao surgimento de novas substâncias psicotrópicas e às mudanças nas formas de actuação das redes de tráfico e do crime organizado. Trata-se da Lei n.º 3/97, de 13 de Março, que estabelece o regime jurídico aplicável ao tráfico, produção, cultivo e consumo de estupefacientes e substâncias psicotrópicas no país, criando igualmente o Gabinete Central de Prevenção e Combate à Droga (GCPCD). Segundo José Bambo, representante do GCPCD, a revisão pretende actualizar o quadro legal, 29 anos depois da sua entrada em vigor, de modo a responder às novas dinâmicas do tráfico de drogas e do crime organizado, bem como ao surgimento de substâncias psicotrópicas e drogas sintéticas. “Um dos elementos é a necessidade de modernizar e responder aos novos desafios, passados 29 anos da sua vigência, responder às novas dinâmicas do tráfico de drogas e do crime organizado no país e controlar as novas substâncias psicotrópicas e drogas sintéticas”, afirmou. «Governo revê lei sobre tráfico e consumo de drogas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Governo revê lei sobre tráfico e consumo de drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.92,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "MIREME nega falta de combustível na Cidade de Maputo",
-      "summary": "O Ministério dos Recursos Minerais e Energia diz que não há ruptura de stock de combustível na Cidade de Maputo e o abastecimento decorre com normalidade em todo o país. As filas observadas nas últimas horas resultaram de constrangimentos logísticos durante o fim-de-semana prolongado. Automobilistas voltaram a permanecer horas em longas filas nos postos de […]",
-      "why": "«MIREME nega falta de combustível na Cidade de Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «MIREME nega falta de combustível na Cidade de Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-09-30T16:03:48+00:00",
-      "age_hours": 5.2,
-      "within_24h": true,
-      "link": "https://opais.co.mz/mireme-nega-falta-de-combustivel-na-cidade-de-maputo/",
-      "original_source": true,
-      "detailed_summary": "O Ministério dos Recursos Minerais e Energia diz que não há ruptura de stock de combustível na Cidade de Maputo e o abastecimento decorre com normalidade em todo o país. As filas observadas nas últimas horas resultaram de constrangimentos logísticos durante o fim-de-semana prolongado. Automobilistas voltaram a permanecer horas em longas filas nos postos de […]. «MIREME nega falta de combustível na Cidade de Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «MIREME nega falta de combustível na Cidade de Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.92,
-      "source_tier": "B"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Mercado cambial regista elevado volume de compra e venda de divisas",
-      "summary": "Maputo, 30 Set (AIM) – O mercado cambial moçambicano registou um elevado volume de compra e venda de divisas entre Janeiro e Agosto de 2026, com os bancos comerciais a comprarem 5,73 mil milhões de dólares norte-americanos e a venderem 5,65 mil milhões de dólares aos seus clientes, segundo dados divulgados esta quarta-feira hoje pelo Banco de Moçambique (BM). O Governador do BM e presidente do Comité de Política Monetária (CPMO), Felisberto Navalha, explicou que o dinamismo do mercado cambial tem sido impulsionado, sobretudo, pela execução de projectos de gás natural liquefeito na Bacia do Rovuma e pelo desempenho da indústria extractiva, num contexto de relativa estabilidade cambial. Os dados mostram um crescimento significativo das operações cambiais. No período em análise, as compras de divisas pelos bancos aumentaram em 724 milhões de dólares, enquanto as vendas aos clientes cresceram em 593 milhões de dólares.",
-      "why": "«Mercado cambial regista elevado volume de compra e venda de divisas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Mercado cambial regista elevado volume de compra e venda de divisas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-09-30T20:41:40+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/09/30/mercado-cambial-regista-elevado-volume-de-compra-e-venda-de-divisas/",
-      "original_source": true,
-      "detailed_summary": "Maputo, 30 Set (AIM) – O mercado cambial moçambicano registou um elevado volume de compra e venda de divisas entre Janeiro e Agosto de 2026, com os bancos comerciais a comprarem 5,73 mil milhões de dólares norte-americanos e a venderem 5,65 mil milhões de dólares aos seus clientes, segundo dados divulgados esta quarta-feira hoje pelo Banco de Moçambique (BM). O Governador do BM e presidente do Comité de Política Monetária (CPMO), Felisberto Navalha, explicou que o dinamismo do mercado cambial tem sido impulsionado, sobretudo, pela execução de projectos de gás natural liquefeito na Bacia do Rovuma e pelo desempenho da indústria extractiva, num contexto de relativa estabilidade cambial. Os dados mostram um crescimento significativo das operações cambiais. No período em análise, as compras de divisas pelos bancos aumentaram em 724 milhões de dólares, enquanto as vendas aos clientes cresceram em 593 milhões de dólares. «Mercado cambial regista elevado volume de compra e venda de divisas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Mercado cambial regista elevado volume de compra e venda de divisas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.88,
-      "source_tier": "B"
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A Polícia Nacional de Timor-Leste (PNTL) deteve um homem por estar alegadamente envolvido num esquema de falsa promessa de emprego na Austrália a 30 cidadãos timorenses, anunciou hoje aquela força de segurança Segundo a PNTL, o homem foi detido quarta-feira num casino, situado num centro comercial de Díli, no âmbito de uma operação de investigação \"O caso envolve 30 cidadãos timorenses que alegadamente entregaram ao suspeito um montante total de 55.600 dólares, bem como os respetivos passaportes, na expectativa de obter oportunidades de trabalho na Austrália\", salientou a polícia timorense No âmbito da operação, as vítimas disseram que o suspeito alegava ter relações privilegiadas com pessoas ligadas à Secretaria de Estado da Formação Profissional e Emprego, que também estão a ser investigadas pela polícia A PNTL apelou à população, em particular aos cidadãos interessados em trabalhar no estrangeiro, para verificarem a autenticidade das ofertas de emprego antes de entregarem dinheiro, passaportes ou outros documentos pessoais a terceiros Numa outra operação, que também decorreu na… «Polícia timorense deteve homem por falsas promessas de emprego na Austrália» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Polícia timorense deteve homem por falsas promessas de emprego na Austrália», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.62,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Putin pede ao Parlamento russo que aprove novo orçamento de guerra",
-      "summary": "O presidente russo, Vladimir Putin, apelou esta quarta-feira à vitória na Ucrânia ao pedir à Câmara de Deputados (Duma) para aprovar o novo orçamento de guerra para os próximos três anos \"Vós sois chamados a prestar especial atenção a questões de importância estatal, como o reforço da defesa do país, e a fazer tudo pela nossa vitória, apoiando os defensores da pátria e as suas famílias\", declarou Putin, na tribuna da câmara baixa do parlamento russo O chefe de Estado russo, que raramente vai à Duma -- a última vez foi em 2020 -- abriu a nona legislatura, onde o partido do Kremlin, no mais puro estilo do Partido Comunista da União Soviética, controla 349 dos 450 lugares, embora a oposição e especialistas independentes considerem que o parlamento não tem legitimidade devido às muitas irregularidades detetadas nas recentes eleições De acordo com fugas de informação para a imprensa independente e internacional, o Governo russo vai mais uma vez aumentar os gastos com defesa no próximo triénio, para 50 biliões de rublos (cerca de 529 mil milhões de euros) Se o projeto de orçamento receber…",
-      "why": "«Putin pede ao Parlamento russo que aprove novo orçamento de guerra» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Putin pede ao Parlamento russo que aprove novo orçamento de guerra», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético",
+      "summary": "O mais recente ataque foi ucraniano e atingiu uma refinaria na região russa de Samara. Volodymyr Zelenskyy revelou que o exército atingiu uma instalação petrolífera apenas dias depois de o presidente norte-americano ter tentado o fim de ataques a alvos do setor energético",
+      "why": "«Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-09-30T17:31:25+00:00",
-      "age_hours": 3.8,
+      "published": "2026-10-01T11:39:14+00:00",
+      "age_hours": 3.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/putin-pede-ao-parlamento-russo-que-aprove-novo-orcamento-de-guerra_n1768694",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ouvidos-de-mercador-a-trump-moscovo-e-kiev-continuam-ataques-a-setor-energetico_n1768835",
       "original_source": true,
-      "detailed_summary": "O presidente russo, Vladimir Putin, apelou esta quarta-feira à vitória na Ucrânia ao pedir à Câmara de Deputados (Duma) para aprovar o novo orçamento de guerra para os próximos três anos \"Vós sois chamados a prestar especial atenção a questões de importância estatal, como o reforço da defesa do país, e a fazer tudo pela nossa vitória, apoiando os defensores da pátria e as suas famílias\", declarou Putin, na tribuna da câmara baixa do parlamento russo O chefe de Estado russo, que raramente vai à Duma -- a última vez foi em 2020 -- abriu a nona legislatura, onde o partido do Kremlin, no mais puro estilo do Partido Comunista da União Soviética, controla 349 dos 450 lugares, embora a oposição e especialistas independentes considerem que o parlamento não tem legitimidade devido às muitas irregularidades detetadas nas recentes eleições De acordo com fugas de informação para a imprensa independente e internacional, o Governo russo vai mais uma vez aumentar os gastos com defesa no próximo triénio, para 50 biliões de rublos (cerca de 529 mil milhões de euros) Se o projeto de orçamento receber… «Putin pede ao Parlamento russo que aprove novo orçamento de guerra» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Putin pede ao Parlamento russo que aprove novo orçamento de guerra», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 11.21,
-      "source_tier": "A"
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O mais recente ataque foi ucraniano e atingiu uma refinaria na região russa de Samara. Volodymyr Zelenskyy revelou que o exército atingiu uma instalação petrolífera apenas dias depois de o presidente norte-americano ter tentado o fim de ataques a alvos do setor energético. «Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.29,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     },
     {
       "section": "África",
@@ -113,89 +76,23 @@
       "impact": "No caso de «\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
       "source": "RTP Notícias",
       "published": "2026-09-30T07:36:37+00:00",
-      "age_hours": 13.7,
-      "within_24h": true,
+      "age_hours": 31.4,
+      "within_24h": false,
       "link": "https://www.rtp.pt/noticias/mundo/nobel-alternativo-distingue-luta-contra-a-violencia-patriarcal-e-uso-etico-da-ia_n1768571",
       "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "update",
+      "opportunity_flag": false,
       "detailed_summary": "A Right Livelihood Award distinguiu hoje com o \"Nobel Alternativo\" a paquistanesa Jalila Haider e uma organização sul-africana pela luta contra a violência patriarcal, e a norte-americana Timnit Gebru pela defesa do uso ético da inteligência artificial O prémio da fundação sueca, que desde 1980 distingue o trabalho social, também premiou os esforços contra o autoritarismo da Associação de Jovens Advogados da Geórgia (GYLA, na sigla em inglês) O júri reconheceu Haider, a primeira mulher da comunidade hazara a tornar-se advogada, por \"desafiar a perseguição étnica, estatal e patriarcal, guiada pela convicção de que nenhum ser humano é ilegal\" \"Combinando o trabalho jurídico com o ativismo de rua e o empoderamento comunitário, Haider conseguiu justiça para milhares de pessoas perseguidas ou ignoradas pelo poder, especialmente minorias étnicas, de género e religiosas, bem como refugiados, destacou o veredicto Haider, nascida em Quetta, Paquistão, em 1984, liderou, em 2018, uma greve de fome contra o assassinato de pessoas da etnia hazara, o que levou a uma negociação e reduziu os… «\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
-      "editorial_score": 10.15,
-      "source_tier": "A"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Burnham: \"Fortes indícios\" de que Irão teve papel em atentado falhado contra base militar",
-      "summary": "Primeiro-ministro britânico afirma que investigação policial em curso é \"complexa e séria\" e que está a ser feita em cooperação com os EUA",
-      "why": "«Burnham: \"Fortes indícios\" de que Irão teve papel em atentado falhado contra base militar» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Burnham: \"Fortes indícios\" de que Irão teve papel em atentado falhado contra base militar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-09-30T19:21:57+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/burnham-fortes-indicios-de-que-irao-teve-papel-em-atentado-falhado-contra-base-militar_n1768716",
-      "original_source": true,
-      "detailed_summary": "Primeiro-ministro britânico afirma que investigação policial em curso é \"complexa e séria\" e que está a ser feita em cooperação com os EUA. «Burnham: \"Fortes indícios\" de que Irão teve papel em atentado falhado contra base militar» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Burnham: \"Fortes indícios\" de que Irão teve papel em atentado falhado contra base militar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 9.6,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Gueta Chapo defende apoio a raparigas que engravidam precocemente",
-      "summary": "A Primeira-Dama da República defende apoio comunitário e do Estado às raparigas que engravidam precocemente e apela que continuem a estudar durante e após a gestação. Gueta Chapo esclarece que o apoio não deve ser confundido com incentivo à gravidez precoce. A esposa do Chefe do Estado participou em Botswana num programa de apoio ao […]",
-      "why": "«Gueta Chapo defende apoio a raparigas que engravidam precocemente» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Gueta Chapo defende apoio a raparigas que engravidam precocemente», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-09-30T18:30:12+00:00",
-      "age_hours": 2.8,
-      "within_24h": true,
-      "link": "https://opais.co.mz/gueta-chapo-defende-apoio-a-raparigas-que-engravidam-precocemente/",
-      "original_source": true,
-      "detailed_summary": "A Primeira-Dama da República defende apoio comunitário e do Estado às raparigas que engravidam precocemente e apela que continuem a estudar durante e após a gestação. Gueta Chapo esclarece que o apoio não deve ser confundido com incentivo à gravidez precoce. A esposa do Chefe do Estado participou em Botswana num programa de apoio ao […]. «Gueta Chapo defende apoio a raparigas que engravidam precocemente» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Gueta Chapo defende apoio a raparigas que engravidam precocemente», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 9.42,
-      "source_tier": "B"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Líder do PAIGC pondera candidatura às presidenciais mediante condições políticas",
-      "summary": "O líder do Partido Africano para a Independência da Guiné e Cabo Verde (PAIGC) disse hoje que vai avaliar se existem condições para se candidatar às eleições presidenciais na Guiné-Bissau, marcadas para 06 de dezembro \"Nessa altura, as entidades competentes, nomeadamente o partido e as estruturas a que pertenço, terão capacidade de se posicionar\", salientou o líder da oposição guineense Segundo o dirigente, \"a atividade política está suspensa\" no país lusófono, sendo que \"as únicas entidades que têm liberdade para poderem não só circular, mas [para] manifestarem-se e desenvolverem publicamente as suas atividades, são aquelas que se alinham com o poder\" Perante este cenário, Simões Pereira sublinhou que tem de haver \"o mínimo de condições reunidas para poder participar de algum pleito eleitoral\" Questionado sobre o seu regresso à Guiné-Bissau, após três meses em Portugal - onde se encontra desde 24 de julho por razões de saúde e humanitárias -, o líder do PAIGC afirmou que ainda não falou com o Ministério dos Negócios Estrangeiros (MNE), acrescentando que não negociou nada e não sabe…",
-      "why": "«Líder do PAIGC pondera candidatura às presidenciais mediante condições políticas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Líder do PAIGC pondera candidatura às presidenciais mediante condições políticas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "RTP Notícias",
-      "published": "2026-09-29T16:47:43+00:00",
-      "age_hours": 28.5,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/lider-do-paigc-pondera-candidatura-as-presidenciais-mediante-condicoes-politicas_n1768477",
-      "original_source": true,
-      "detailed_summary": "O líder do Partido Africano para a Independência da Guiné e Cabo Verde (PAIGC) disse hoje que vai avaliar se existem condições para se candidatar às eleições presidenciais na Guiné-Bissau, marcadas para 06 de dezembro \"Nessa altura, as entidades competentes, nomeadamente o partido e as estruturas a que pertenço, terão capacidade de se posicionar\", salientou o líder da oposição guineense Segundo o dirigente, \"a atividade política está suspensa\" no país lusófono, sendo que \"as únicas entidades que têm liberdade para poderem não só circular, mas [para] manifestarem-se e desenvolverem publicamente as suas atividades, são aquelas que se alinham com o poder\" Perante este cenário, Simões Pereira sublinhou que tem de haver \"o mínimo de condições reunidas para poder participar de algum pleito eleitoral\" Questionado sobre o seu regresso à Guiné-Bissau, após três meses em Portugal - onde se encontra desde 24 de julho por razões de saúde e humanitárias -, o líder do PAIGC afirmou que ainda não falou com o Ministério dos Negócios Estrangeiros (MNE), acrescentando que não negociou nada e não sabe… «Líder do PAIGC pondera candidatura às presidenciais mediante condições políticas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Líder do PAIGC pondera candidatura às presidenciais mediante condições políticas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 8.36,
-      "source_tier": "A"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moradores de Manganhe cavam quintais para ter água na Beira",
-      "summary": "As famílias acordam às 2 da manhã, cortam tubagens e bebem água imprópria há meses. Águas e Saneamento da Beira reconhece o problema e garante solução em 30 dias. Em algumas zonas dos bairros de Manganhe, Macurungo e Macúti, na cidade da Beira, a água não chega pela torneira. Chega pelo esforço, pelo buraco fundo […]",
-      "why": "«Moradores de Manganhe cavam quintais para ter água na Beira» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Moradores de Manganhe cavam quintais para ter água na Beira», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-09-30T17:12:16+00:00",
-      "age_hours": 4.1,
-      "within_24h": true,
-      "link": "https://opais.co.mz/moradores-de-manganhe-cavam-quintais-para-ter-agua-na-beira/",
-      "original_source": true,
-      "detailed_summary": "As famílias acordam às 2 da manhã, cortam tubagens e bebem água imprópria há meses. Águas e Saneamento da Beira reconhece o problema e garante solução em 30 dias. Em algumas zonas dos bairros de Manganhe, Macurungo e Macúti, na cidade da Beira, a água não chega pela torneira. Chega pelo esforço, pelo buraco fundo […]. «Moradores de Manganhe cavam quintais para ter água na Beira» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moradores de Manganhe cavam quintais para ter água na Beira», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 8.15,
-      "source_tier": "B"
+      "editorial_score": 9.27,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Mundo",
@@ -203,76 +100,29 @@
         "Economia",
         "Segurança"
       ],
-      "title": "Guerra no Irão tem impacto económico mundial “insuportável”, alerta Qatar",
-      "summary": "O Qatar advertiu, esta terça-feira, que a guerra com o Irão está a exercer uma pressão “insuportável” sobre a economia mundial, numa altura em que afirmou que continuam as reuniões para tentar chegar a um acordo e que Doha retomou o papel de mediador entre Washington e Teerão.“Durante quanto tempo poderá a economia internacional suportar as consequências do que está a acontecer na nossa região?” perguntou o porta-voz do Ministério dos Negócios Estrangeiros, Majed Al Ansari, numa conferência de imprensa em Doha.Questionado sobre as hipóteses de um acordo, Al Ansari afirmou: “Em qualquer acordo há obstáculos. O nosso papel é ultrapassar as dificuldades e tentar reduzir as diferenças entre as duas partes, e é isso que está a acontecer agora.”O porta-voz da diplomacia catari indicou que nos últimos dias se realizaram reuniões, com o Qatar a transmitir mensagens entre as partes. Recusou precisar até que ponto já avançaram as negociações.Al Ansari alertou que uma nova escalada traria mais sofrimento à região.",
-      "why": "«Guerra no Irão tem impacto económico mundial “insuportável”, alerta Qatar» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Guerra no Irão tem impacto económico mundial “insuportável”, alerta Qatar», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán",
+      "summary": "A Rússia expulsou na quinta-feira um grupo de diplomatas húngaros, depois de a Hungria ter ordenado, no mês passado, a saída de dez diplomatas russos, num claro afastamento da era do antigo primeiro-ministro Viktor Orbán, que mantinha relações mais estreitas com Moscovo do que qualquer outro líder da UE.O encarregado de negócios húngaro, Gábor Gergics, foi convocado para o ministério russo dos Negócios Estrangeiros e informado de que funcionários da embaixada da Hungria em Moscovo e dos consulados em São Petersburgo e Kazan tinham sido obrigados a abandonar o país no prazo de duas semanas.Moscovo qualificou a expulsão inicial de 8 de setembro como um ato “infundado e abertamente hostil”.Budapeste reconheceu a decisão de Moscovo, mas afirmou manter a sua posição.“A Hungria não está interessada numa escalada das tensões diplomáticas. Mas mantemos a nossa decisão, tomada por motivos de segurança nacional.",
+      "why": "«Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-09-30T11:16:17+00:00",
-      "age_hours": 10.0,
+      "published": "2026-10-01T14:36:01+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/09/30/guerra-no-irao-tem-impacto-economico-mundial-insuportavel-alerta-qatar",
+      "link": "https://pt.euronews.com/2026/10/01/russia-expulsa-diplomatas-hungaros-enquanto-budapeste-rompe-com-era-orban",
       "original_source": true,
-      "detailed_summary": "O Qatar advertiu, esta terça-feira, que a guerra com o Irão está a exercer uma pressão “insuportável” sobre a economia mundial, numa altura em que afirmou que continuam as reuniões para tentar chegar a um acordo e que Doha retomou o papel de mediador entre Washington e Teerão.“Durante quanto tempo poderá a economia internacional suportar as consequências do que está a acontecer na nossa região?” perguntou o porta-voz do Ministério dos Negócios Estrangeiros, Majed Al Ansari, numa conferência de imprensa em Doha.Questionado sobre as hipóteses de um acordo, Al Ansari afirmou: “Em qualquer acordo há obstáculos. O nosso papel é ultrapassar as dificuldades e tentar reduzir as diferenças entre as duas partes, e é isso que está a acontecer agora.”O porta-voz da diplomacia catari indicou que nos últimos dias se realizaram reuniões, com o Qatar a transmitir mensagens entre as partes. Recusou precisar até que ponto já avançaram as negociações.Al Ansari alertou que uma nova escalada traria mais sofrimento à região. «Guerra no Irão tem impacto económico mundial “insuportável”, alerta Qatar» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Guerra no Irão tem impacto económico mundial “insuportável”, alerta Qatar», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.92,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
       ],
-      "title": "Movimentação de tropas em Bissau deixa população assustada. Presidente no exílio prepara regresso ao país",
-      "summary": "As autoridades da Guiné-Bissau apelaram à calma na terça-feira, na sequência de notícias sobre agitação no seio da guarda presidencial, um dia depois do antigo presidente Umaro Sissoco Embaló ter anunciado planos para regressar do exílio em outubro e concorrer às eleições de 6 de dezembro.As várias movimentações de militares assustaram a população da capital guineense. Nas redes sociais, os utilizadores deram conta do descontentamento entre os membros da guarda, depois de, alegadamente, vários soldados terem sido transferidos para outra unidade do exército.Relatos de populares à DW-África dão conta de que a cidade ficou deserta por horas, as escolas encerraram e várias instituições públicas e privadas também fecharam.",
-      "why": "«Movimentação de tropas em Bissau deixa população assustada. Presidente no exílio prepara regresso ao país» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Movimentação de tropas em Bissau deixa população assustada. Presidente no exílio prepara regresso ao país», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-09-30T15:26:35+00:00",
-      "age_hours": 5.8,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/09/30/movimentacao-de-tropas-em-bissau-deixa-populacao-assustada-presidente-no-exilio-prepara-re",
-      "original_source": true,
-      "detailed_summary": "As autoridades da Guiné-Bissau apelaram à calma na terça-feira, na sequência de notícias sobre agitação no seio da guarda presidencial, um dia depois do antigo presidente Umaro Sissoco Embaló ter anunciado planos para regressar do exílio em outubro e concorrer às eleições de 6 de dezembro.As várias movimentações de militares assustaram a população da capital guineense. Nas redes sociais, os utilizadores deram conta do descontentamento entre os membros da guarda, depois de, alegadamente, vários soldados terem sido transferidos para outra unidade do exército.Relatos de populares à DW-África dão conta de que a cidade ficou deserta por horas, as escolas encerraram e várias instituições públicas e privadas também fecharam. «Movimentação de tropas em Bissau deixa população assustada. Presidente no exílio prepara regresso ao país» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Movimentação de tropas em Bissau deixa população assustada. Presidente no exílio prepara regresso ao país», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 5.79,
-      "source_tier": "C"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Milhares de bombeiros marcham em Paris a exigir mais meios",
-      "summary": "Quase oito mil bombeiros franceses desfilaram em Paris, exigindo mais efetivos e financiamento e protestando contra aquilo que os sindicatos qualificam como a inação do governo",
-      "why": "«Milhares de bombeiros marcham em Paris a exigir mais meios» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Milhares de bombeiros marcham em Paris a exigir mais meios», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-09-30T11:25:12+00:00",
-      "age_hours": 9.9,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/09/30/milhares-de-bombeiros-marcham-em-paris-a-exigir-mais-meios",
-      "original_source": true,
-      "detailed_summary": "Quase oito mil bombeiros franceses desfilaram em Paris, exigindo mais efetivos e financiamento e protestando contra aquilo que os sindicatos qualificam como a inação do governo. «Milhares de bombeiros marcham em Paris a exigir mais meios» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Milhares de bombeiros marcham em Paris a exigir mais meios», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 4.94,
-      "source_tier": "C"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Etiópia acusa vizinhos enquanto rebeldes do Tigray avançam em Afar",
-      "summary": "Combates no norte da Etiópia continuaram intensos durante o fim de semana, alimentando receios de um regresso à guerra de 2020-2022, que terá causado a morte de cerca de 600 000 pessoas.Desde quarta-feira, retomaram-se combates violentos entre a Frente de Libertação do Povo do Tigré (TPLF) e o governo federal.A TPLF tomou aeroportos e lançou ataques nos vizinhos estados etíopes de Afar e Amara, afirmando estar envolvida numa “guerra defensiva” contra o governo do primeiro-ministro Abiy Ahmed.A sede da Tigrai TV, considerada o principal órgão de comunicação das autoridades rebeldes na capital do Tigré, Mekelle, foi atingida por um drone no domingo.As comunicações estão limitadas desde sexta-feira, depois de operadores de telecomunicações terem reportado fortes perturbações nos serviços de telefone e internet no Tigré, o que dificulta a cobertura do conflito.Muitos habitantes do Tigré receiam a repetição do bloqueio imposto pelo governo federal durante a guerra anterior, quando a eletricidade, o sistema bancário e quase toda a ajuda foram cortados.Uma fonte humanitária afirmou que a…",
-      "why": "«Etiópia acusa vizinhos enquanto rebeldes do Tigray avançam em Afar» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Etiópia acusa vizinhos enquanto rebeldes do Tigray avançam em Afar», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "Euronews Português",
-      "published": "2026-09-28T11:47:03+00:00",
-      "age_hours": 57.5,
-      "within_24h": false,
-      "link": "https://pt.euronews.com/2026/09/28/etiopia-acusa-vizinhos-enquanto-rebeldes-do-tigray-avancam-em-afar",
-      "original_source": true,
-      "detailed_summary": "Combates no norte da Etiópia continuaram intensos durante o fim de semana, alimentando receios de um regresso à guerra de 2020-2022, que terá causado a morte de cerca de 600 000 pessoas.Desde quarta-feira, retomaram-se combates violentos entre a Frente de Libertação do Povo do Tigré (TPLF) e o governo federal.A TPLF tomou aeroportos e lançou ataques nos vizinhos estados etíopes de Afar e Amara, afirmando estar envolvida numa “guerra defensiva” contra o governo do primeiro-ministro Abiy Ahmed.A sede da Tigrai TV, considerada o principal órgão de comunicação das autoridades rebeldes na capital do Tigré, Mekelle, foi atingida por um drone no domingo.As comunicações estão limitadas desde sexta-feira, depois de operadores de telecomunicações terem reportado fortes perturbações nos serviços de telefone e internet no Tigré, o que dificulta a cobertura do conflito.Muitos habitantes do Tigré receiam a repetição do bloqueio imposto pelo governo federal durante a guerra anterior, quando a eletricidade, o sistema bancário e quase toda a ajuda foram cortados.Uma fonte humanitária afirmou que a… «Etiópia acusa vizinhos enquanto rebeldes do Tigray avançam em Afar» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Etiópia acusa vizinhos enquanto rebeldes do Tigray avançam em Afar», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 3.45,
-      "source_tier": "C"
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A Rússia expulsou na quinta-feira um grupo de diplomatas húngaros, depois de a Hungria ter ordenado, no mês passado, a saída de dez diplomatas russos, num claro afastamento da era do antigo primeiro-ministro Viktor Orbán, que mantinha relações mais estreitas com Moscovo do que qualquer outro líder da UE.O encarregado de negócios húngaro, Gábor Gergics, foi convocado para o ministério russo dos Negócios Estrangeiros e informado de que funcionários da embaixada da Hungria em Moscovo e dos consulados em São Petersburgo e Kazan tinham sido obrigados a abandonar o país no prazo de duas semanas.Moscovo qualificou a expulsão inicial de 8 de setembro como um ato “infundado e abertamente hostil”.Budapeste reconheceu a decisão de Moscovo, mas afirmou manter a sua posição.“A Hungria não está interessada numa escalada das tensões diplomáticas. Mas mantemos a nossa decisão, tomada por motivos de segurança nacional. «Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.92,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
     }
   ],
   "watch": [
@@ -291,15 +141,16 @@
     "Tecnologia e IA",
     "Emprego, negócios e investimento"
   ],
-  "generator": "GitHub Actions · Briefing Diário",
+  "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
+  "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 6,
-    "África": 3,
-    "Mundo": 5
+    "Moçambique": 0,
+    "África": 1,
+    "Mundo": 3
   },
-  "editorial": "Curadoria automática: relevância + actualidade + qualidade da fonte original + deduplicação + validação geográfica.",
+  "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
-    "pt": "Bom dia. Este é o Briefing Diário. Hoje, vale a pena acompanhar primeiro os temas com maior impacto potencial em geopolítica, economia, energia, tecnologia e Moçambique.",
-    "en": "Good morning. This is the Daily Briefing. Today, focus first on the stories with the strongest potential relevance to geopolitics, the economy, energy, technology and Mozambique."
+    "pt": "Bom dia. Este é o Briefing Diário. O foco de hoje é o que realmente mudou, por que importa e o que pode significar para Moçambique.",
+    "en": "Good morning. This is the Daily Briefing. The focus is what actually changed, why it matters and what it may mean for Mozambique."
   }
 }

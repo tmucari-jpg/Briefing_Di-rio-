@@ -3,9 +3,9 @@ from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 
-MIN_TARGET={'Moçambique':4,'África':3,'Mundo':3}
-MAX_TARGET={'Moçambique':6,'África':6,'Mundo':6}
-MIN_NEWS=10
+MIN_TARGET={'Moçambique':0,'África':0,'Mundo':0}
+MAX_TARGET={'Moçambique':5,'África':5,'Mundo':5}
+MIN_NEWS=0
 STOPWORDS=set('a o as os de da do das dos e em no na nos nas por para com sem sobre entre que uma um uns umas ao aos à às se é foi são será após mais menos como seu sua seus suas the and of to for with from are is has have will after over into says new'.split())
 PLACE_MARKERS=('mocambique','maputo','cabo delgado','tigray','etiopia','marrocos','angola','tanzania','malawi','zambia','zimbabwe','quenia','nigeria','ghana','congo','ruanda','uganda','somalia','sudao','egipto','namibia','botswana','arabia saudita','medio oriente','estados unidos','eua','portugal','franca','paris')
 EVENT_GROUPS={'eleições':('eleicao','eleicoes','eleitoral','eleitorais','parlamento','partido'),'conflito':('guerra','conflito','rebeldes','forcas','armados','terrorismo','ataque'),'energia':('energia','energetico','combustivel','petroleo','gas','lng','electricidade','electrificacao'),'economia':('economia','investimento','inflacao','mercado','comercio','financiamento'),'tecnologia':('tecnologia','digital','inteligencia artificial','ia','telecomunicacoes')}
@@ -15,7 +15,7 @@ SOURCE_SCORE={
     'Club of Mozambique':4,'Diário Económico':4,'O País':4,'AIM News':4,'AIM Notícias':4,'Notícias ONU':5,
     'Jornal Notícias':4,'Checka':4,'Le Monde':4,'Reuters':5,'Associated Press':5
 }
-BAD_WORDS=('futebol','football','cinema','filme','música','music','novela','horóscopo','horoscope','moda','fashion','entretenimento','entertainment')
+BAD_WORDS=('futebol','football','cinema','filme','música','music','novela','horóscopo','horoscope','moda','fashion','entretenimento','entertainment','hollywood','walk of fame','passeio da fama')
 EN_MARKERS=(' the ',' and ',' of ',' to ',' for ',' with ',' from ',' are ',' is ',' has ',' have ',' will ',' after ',' over ')
 PT_MARKERS=(' de ',' da ',' do ',' das ',' dos ',' para ',' com ',' que ',' uma ',' um ',' foi ',' será ',' estão ',' sobre ',' após ',' entre ')
 
@@ -48,6 +48,8 @@ def valid(x,lang):
     if any(w in (title+' '+summary).lower() for w in BAD_WORDS): return False
     if not link.startswith(('http://','https://')) or 'news.google.com' in link.lower(): return False
     if x.get('original_source') is not True: return False
+    if x.get('carried_forward'): return False
+    if x.get('status') == 'context': return False
     text=f" {title} {summary} ".lower()
     en_score=sum(marker in text for marker in EN_MARKERS); pt_score=sum(marker in text for marker in PT_MARKERS)
     if lang=='pt' and not (pt_score>=2 and pt_score>=en_score): return False
@@ -58,17 +60,32 @@ def valid(x,lang):
     except: return False
     return bool(x.get('why')) and bool(x.get('impact'))
 
+def event_key(x):
+    title=norm(x.get('title',''))
+    places={p for p in PLACE_MARKERS if p in norm(x.get('title','')+' '+x.get('summary',''))}
+    groups={g for g,s in EVENT_GROUPS.items() if any(v in norm(x.get('title','')+' '+x.get('summary','')) for v in s)}
+    return title,places,groups
+
 def dedupe(items):
     out=[]
+    seen_events={}
     for x in sorted(items,key=lambda z:z.get('published',''),reverse=True):
-        a=norm(x.get('title','')); full=norm(x.get('title','')+' '+x.get('summary','')); at={w for w in a.split() if len(w)>=4 and w not in STOPWORDS}; ab={w for w in full.split() if len(w)>=4 and w not in STOPWORDS}; ap={p for p in PLACE_MARKERS if p in full}; ag={n for n,s in EVENT_GROUPS.items() if any(v in full for v in s)}
+        a=norm(x.get('title',''))
         if not a: continue
+        title,places,groups=event_key(x)
         duplicate=False
         for y in out:
-            b=norm(y.get('title','')); other_full=norm(y.get('title','')+' '+y.get('summary','')); bt={w for w in b.split() if len(w)>=4 and w not in STOPWORDS}; bb={w for w in other_full.split() if len(w)>=4 and w not in STOPWORDS}; bp={p for p in PLACE_MARKERS if p in other_full}; bg={n for n,s in EVENT_GROUPS.items() if any(v in other_full for v in s)}
-            title_overlap=len(at & bt)/max(1,min(len(at),len(bt))); body_overlap=len(ab & bb)/max(1,min(len(ab),len(bb)))
-            shared_groups=ag & bg; same_event=bool(ap & bp) and bool(shared_groups) and ('conflito' in shared_groups or 'eleições' in shared_groups or title_overlap>=.45)
-            if a==b or SequenceMatcher(None,a,b).ratio()>=.70 or title_overlap>=.60 or body_overlap>=.68 or same_event:duplicate=True; break
+            b=norm(y.get('title','')); _,yp,yg=event_key(y)
+            title_tokens={w for w in title.split() if len(w)>=4 and w not in STOPWORDS}
+            other_tokens={w for w in b.split() if len(w)>=4 and w not in STOPWORDS}
+            overlap=len(title_tokens & other_tokens)/max(1,min(len(title_tokens),len(other_tokens)))
+            body_a={w for w in norm(x.get('title','')+' '+x.get('summary','')).split() if len(w)>=4 and w not in STOPWORDS}
+            body_b={w for w in norm(y.get('title','')+' '+y.get('summary','')).split() if len(w)>=4 and w not in STOPWORDS}
+            body_overlap=len(body_a & body_b)/max(1,min(len(body_a),len(body_b)))
+            shared_groups=groups & yg
+            same_event=bool(places & yp) and bool(shared_groups) and overlap>=.25
+            if a==b or SequenceMatcher(None,a,b).ratio()>=.82 or overlap>=.72 or body_overlap>=.75 or same_event:
+                duplicate=True; break
         if duplicate: continue
         out.append(x)
     return out
@@ -122,22 +139,43 @@ def detailed_summary(x):
 def curate(d):
     lang=d.get('language','pt')
     items=dedupe([x for x in d.get('items',[]) if valid(x,lang)])
+
     for x in items:
         if not x.get('why') or not x.get('impact'):
             x['why'],x['impact']=editorial_context(x,lang)
+
+        # A real opportunity must be evidenced by the story; do not manufacture one.
+        text_value=norm(x.get('title','')+' '+x.get('summary',''))
+        opportunity_terms=('contract','contrato','tender','procurement','invest','investment','investimento','project','projecto','jobs','employment','emprego','supplier','fornecedor','financing','financiamento','partnership','parceria')
+        x['opportunity_flag']=any(term in text_value for term in opportunity_terms)
+
         x['detailed_summary']=detailed_summary(x)
-        x['editorial_score']=round(source_score(x.get('source',''))+recency_score(x)+relevance_score(x),2)
+        x['editorial_score']=round(
+            source_score(x.get('source','')) +
+            recency_score(x) +
+            relevance_score(x) +
+            (1.5 if x.get('source_count',1)>=2 else 0) +
+            (1 if x.get('within_24h') else 0),
+            2
+        )
         x['source_tier']='A' if source_score(x.get('source',''))>=5 else ('B' if source_score(x.get('source',''))>=4 else 'C')
-    items.sort(key=lambda x:x['editorial_score'],reverse=True)
-    counts={s:0 for s in MIN_TARGET}; selected=[]
-    for s,n in MAX_TARGET.items():
-        choices=[x for x in items if x['section']==s]; selected.extend(choices[:n]); counts[s]=min(len(choices),n)
-    if any(counts[s]<n for s,n in MIN_TARGET.items()): raise SystemExit(f'Qualidade editorial rejeitada: secções insuficientes {counts}.')
+        x['editorial_status']='HOJE' if x.get('within_24h') else 'ACTUALIZAÇÃO'
+
+    selected=[]
+    for section,n in MAX_TARGET.items():
+        choices=[x for x in items if x.get('section')==section]
+        choices.sort(key=lambda x:x['editorial_score'],reverse=True)
+        selected.extend(choices[:n])
+
     selected=sorted(selected,key=lambda x:x['editorial_score'],reverse=True)
-    if len(selected)<MIN_NEWS: raise SystemExit(f'Qualidade editorial rejeitada: apenas {len(selected)} notícias válidas.')
-    d['items']=selected; d['section_counts']={s:sum(x['section']==s for x in selected) for s in MIN_TARGET}
-    d['editorial']='Curadoria automática: relevância + actualidade + qualidade da fonte original + deduplicação + validação geográfica.'
-    d['briefing_intro']={'pt':'Bom dia. Este é o Briefing Diário. Hoje, vale a pena acompanhar primeiro os temas com maior impacto potencial em geopolítica, economia, energia, tecnologia e Moçambique.','en':'Good morning. This is the Daily Briefing. Today, focus first on the stories with the strongest potential relevance to geopolitics, the economy, energy, technology and Mozambique.'}
+
+    d['items']=selected
+    d['section_counts']={s:sum(x.get('section')==s for x in selected) for s in MIN_TARGET}
+    d['editorial']='Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.'
+    d['briefing_intro']={
+        'pt':'Bom dia. Este é o Briefing Diário. O foco de hoje é o que realmente mudou, por que importa e o que pode significar para Moçambique.',
+        'en':'Good morning. This is the Daily Briefing. The focus is what actually changed, why it matters and what it may mean for Mozambique.'
+    }
     return d
 
 if __name__=='__main__':
