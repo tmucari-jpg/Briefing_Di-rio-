@@ -1,0 +1,42 @@
+name: Editorial Engine v2 — Integration Test
+
+on:
+  push:
+    branches:
+      - editorial-engine-v2
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  integration:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Install dependencies
+        run: pip install feedparser
+      - name: Regression tests
+        run: python scripts/test_editorial_engine.py
+      - name: Generate fresh edition
+        run: python scripts/update_news.py
+      - name: Apply editorial curation
+        run: python scripts/editorial_quality.py
+      - name: Generate opportunity radar
+        run: python scripts/update_opportunities.py
+      - name: Inspect generated edition
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          for name in ("news-pt.json","news-en.json"):
+              data=json.loads((Path("docs")/name).read_text(encoding="utf-8"))
+              items=data.get("items",[])
+              print(name, "items=", len(items), "sections=", data.get("section_counts"))
+              for item in items:
+                  print("-", item.get("section"), "|", item.get("title"), "|", item.get("source"))
+          PY
