@@ -629,7 +629,7 @@ def parse(url,section,source,hours,pt):
     return output
 def add(destination,seen,items):
     for item in sorted(items,key=lambda value:value['published'],reverse=True):
-        if item['title'] and not duplicate(item,seen): seen.append(item); destination.append(item)
+        if item['title'] and not exact_duplicate(item,seen): seen.append(item); destination.append(item)
 def build(language):
     pt=language=='pt'
     feeds=RSS_PT if pt else RSS_EN
