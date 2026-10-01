@@ -14,7 +14,7 @@ from update_news import cluster_events, classify_topic, editorial_type
 REPO="tmucari-jpg/Briefing_Di-rio-"
 
 def load_main(language):
-    url=f"https://raw.githubusercontent.com/{REPO}/editorial-engine-v2/docs/news-{language}.json"
+    url=f"https://raw.githubusercontent.com/{REPO}/main/docs/news-{language}.json"
     with urllib.request.urlopen(url,timeout=20) as response:
         return json.load(response).get("items",[])
 
