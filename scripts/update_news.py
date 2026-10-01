@@ -148,7 +148,12 @@ CONTEXT_RULES=('background','context','analysis','explainer','explained','what y
 
 def classify_topic(title,summary):
     text=norm(f'{title} {summary}')
-    scores={topic:sum(1 for term in terms if norm(term) in text) for topic,terms in TOPIC_RULES.items()}
+    def has_term(term):
+        term=norm(term)
+        if ' ' in term:
+            return term in text
+        return re.search(r'\\b'+re.escape(term)+r'\\b',text) is not None
+    scores={topic:sum(1 for term in terms if has_term(term)) for topic,terms in TOPIC_RULES.items()}
     ordered=sorted(scores.items(),key=lambda pair:pair[1],reverse=True)
     primary=ordered[0][0] if ordered and ordered[0][1] else 'Geral'
     secondary=[topic for topic,score in ordered[1:] if score and score>=max(1,ordered[0][1]-1)]
