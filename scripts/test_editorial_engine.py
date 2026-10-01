@@ -9,7 +9,7 @@ import sys
 
 ROOT=Path(__file__).resolve().parent
 sys.path.insert(0,str(ROOT))
-from update_news import cluster_events, classify_topic, editorial_type, event_similarity, event_profile, event_tokens
+from update_news import cluster_events, classify_topic, editorial_type
 
 REPO="tmucari-jpg/Briefing_Di-rio-"
 
@@ -23,12 +23,13 @@ def find(items, needle):
     return next((x for x in items if needle in x.get("title","").lower()),None)
 
 def same_cluster(grouped,a,b):
+    target={a.get("title"),b.get("title")}
     for cluster in grouped:
-        titles={x.get("title") for x in cluster.get("members",[])}
-        if a.get("title") in titles and b.get("title") in titles:
+        titles={cluster.get("title")}
+        titles.update(c.get("title") for c in cluster.get("confirmations",[]) if c.get("title"))
+        if target.issubset(titles) and cluster.get("cluster_size",1)>=2:
             return True
     return False
-
 def main():
     import traceback
     report={'status':'PASS','tests':[]}
@@ -51,7 +52,7 @@ def main():
         check("same-event Dangote/Kenya refinery",lambda: (
             (_ for _ in ()).throw(AssertionError("fixture missing")) if not (dangote_a and dangote_b)
             else None if same_cluster(cluster_events([dangote_a,dangote_b]),dangote_a,dangote_b)
-            else (_ for _ in ()).throw(AssertionError(f"not clustered; similarity={event_similarity(dangote_a,dangote_b)}; profiles={event_profile(dangote_a)} / {event_profile(dangote_b)}; tokens={event_tokens(dangote_a.get('title',''))} / {event_tokens(dangote_b.get('title',''))}"))
+            else (_ for _ in ()).throw(AssertionError("not clustered"))
         ))
 
         fuel=find(pt,"MIREME nega falta de combustível")
