@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-10-01T15:02:27.901922+00:00",
+  "updated_at": "2026-10-12T10:25:27.660250+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Concursos",
+      "title": "Gridworks launches tender process for 460km Mozambique power transmission project",
+      "summary": "Gridworks, the UK Government’s electricity grid investment platform British government-owned investor in Africa’s electricity networks,, has launched a pre-qualification process for contractors for a 460-kilometre power transmission project in Mozambique, valued at €386 million. According to the tender notice, which GW Mozambique Investments LLP, an affiliate of Gridworks, and Eletricidade de Moçambique (EDM) issued, and… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Gridworks launches tender process for 460km Mozambique power transmission project” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Gridworks launches tender process for 460km Mozambique power transmission project”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-12T07:25:52+00:00",
+      "age_hours": 3.0,
+      "link": "https://clubofmozambique.com/news/gridworks-launches-tender-process-for-460km-mozambique-power-transmission-project/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 9
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",

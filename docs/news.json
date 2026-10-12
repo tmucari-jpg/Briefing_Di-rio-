@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T15:01:20.981774+00:00",
+  "updated_at": "2026-10-12T10:24:39.974231+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,77 +8,221 @@
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Energia"
       ],
-      "title": "Polícia timorense deteve homem por falsas promessas de emprego na Austrália",
-      "summary": "A Polícia Nacional de Timor-Leste (PNTL) deteve um homem por estar alegadamente envolvido num esquema de falsa promessa de emprego na Austrália a 30 cidadãos timorenses, anunciou hoje aquela força de segurança Segundo a PNTL, o homem foi detido quarta-feira num casino, situado num centro comercial de Díli, no âmbito de uma operação de investigação \"O caso envolve 30 cidadãos timorenses que alegadamente entregaram ao suspeito um montante total de 55.600 dólares, bem como os respetivos passaportes, na expectativa de obter oportunidades de trabalho na Austrália\", salientou a polícia timorense No âmbito da operação, as vítimas disseram que o suspeito alegava ter relações privilegiadas com pessoas ligadas à Secretaria de Estado da Formação Profissional e Emprego, que também estão a ser investigadas pela polícia A PNTL apelou à população, em particular aos cidadãos interessados em trabalhar no estrangeiro, para verificarem a autenticidade das ofertas de emprego antes de entregarem dinheiro, passaportes ou outros documentos pessoais a terceiros Numa outra operação, que também decorreu na…",
-      "why": "«Polícia timorense deteve homem por falsas promessas de emprego na Austrália» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Polícia timorense deteve homem por falsas promessas de emprego na Austrália», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Ataques russos. Apagões na Ucrânia após anúncio de \"cessar-fogo energético\" de Trump",
+      "summary": "Apesar do anúncio do presidente dos Estados Unidos, na Ucrânia a semana amanhece com relatos de falhas de energia, após ataques da Rússia. Donald Trump tem pressionado Kiev para parar os ataques a infraestruturas petrolíferas russas. O objetivo é que Moscovo cumpra um acordo recentemente assinado para fornecer gasóleo aos EUA e ao mercado global",
+      "why": "«Ataques russos. Apagões na Ucrânia após anúncio de \"cessar-fogo energético\" de Trump» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Ataques russos. Apagões na Ucrânia após anúncio de \"cessar-fogo energético\" de Trump», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-01T08:27:12+00:00",
-      "age_hours": 6.6,
+      "published": "2026-10-12T08:44:10+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/policia-timorense-deteve-homem-por-falsas-promessas-de-emprego-na-australia_n1768806",
+      "link": "https://www.rtp.pt/noticias/mundo/ataques-russos-apagoes-na-ucrania-apos-anuncio-de-cessar-fogo-energetico-de-trump_n1771125",
       "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 6,
+      "source_count": 2,
       "sources": [
-        "RTP Notícias"
+        "RTP Notícias",
+        "Euronews Português"
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A Polícia Nacional de Timor-Leste (PNTL) deteve um homem por estar alegadamente envolvido num esquema de falsa promessa de emprego na Austrália a 30 cidadãos timorenses, anunciou hoje aquela força de segurança Segundo a PNTL, o homem foi detido quarta-feira num casino, situado num centro comercial de Díli, no âmbito de uma operação de investigação \"O caso envolve 30 cidadãos timorenses que alegadamente entregaram ao suspeito um montante total de 55.600 dólares, bem como os respetivos passaportes, na expectativa de obter oportunidades de trabalho na Austrália\", salientou a polícia timorense No âmbito da operação, as vítimas disseram que o suspeito alegava ter relações privilegiadas com pessoas ligadas à Secretaria de Estado da Formação Profissional e Emprego, que também estão a ser investigadas pela polícia A PNTL apelou à população, em particular aos cidadãos interessados em trabalhar no estrangeiro, para verificarem a autenticidade das ofertas de emprego antes de entregarem dinheiro, passaportes ou outros documentos pessoais a terceiros Numa outra operação, que também decorreu na… «Polícia timorense deteve homem por falsas promessas de emprego na Austrália» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Polícia timorense deteve homem por falsas promessas de emprego na Austrália», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.62,
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Kallas saúda cessar-fogo mas duvida que Rússia o respeite",
+          "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kallas-sauda-cessar-fogo-mas-duvida-que-russia-o-respeite_n1771119"
+        },
+        {
+          "source": "Euronews Português",
+          "title": "Europe Today: Trump anuncia cessar-fogo energético Ucrânia-Rússia, países bálticos em alerta",
+          "link": "https://pt.euronews.com/2026/10/12/europa-today-trump-anuncia-cessar-fogo-energetico-ucrania-russia-paises-balticos-em-alerta"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Apesar do anúncio do presidente dos Estados Unidos, na Ucrânia a semana amanhece com relatos de falhas de energia, após ataques da Rússia. Donald Trump tem pressionado Kiev para parar os ataques a infraestruturas petrolíferas russas. O objetivo é que Moscovo cumpra um acordo recentemente assinado para fornecer gasóleo aos EUA e ao mercado global. «Ataques russos. Apagões na Ucrânia após anúncio de \"cessar-fogo energético\" de Trump» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Ataques russos. Apagões na Ucrânia após anúncio de \"cessar-fogo energético\" de Trump», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 15.15,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique acolhe conferência sobre redução do risco de desastres",
+      "summary": "O Governo e a Comissão da União Africana organizam a partir de amanhã até quinta-feira, em Maputo, a Conferência Internacional sobre Redução do Risco de Desastres e Resiliência em África (ICDRR). De acordo com um comunicado do Instituto Nacional de Gestão e Redução do Risco de Desastres (INGD), a conferência reunirá ministros, altos responsáveis pela formulação de políticas públicas, especialistas técnicos, representantes das comunidades económicas regionais, decisores nacionais e sub-nacionais, instituições de desenvolvimento e financiamento, académicos, organizações da sociedade civil, representantes do sector privado e parceiros internacionais. O encontro tem como objectivo acelerar a implementação dos compromissos continentais e globais em matéria de redução do risco de desastres, promovendo a partilha de experiências, o reforço da cooperação e a adopção de medidas que contribuam para a construção de comunidades e sociedades mais resilientes em África. Leia mais… O conteúdo Moçambique acolhe conferência sobre redução do risco de desastres aparece primeiro em Jornal Notícias",
+      "why": "«Moçambique acolhe conferência sobre redução do risco de desastres» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Moçambique acolhe conferência sobre redução do risco de desastres», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-12T08:07:54+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/mocambique-acolhe-conferencia-sobre-reducao-do-risco-de-desastres/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "Jornal Notícias",
+        "O País"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "O País",
+          "title": "Maputo acolhe Conferência Internacional sobre Redução do Risco de Desastres e Resiliência em África",
+          "link": "https://opais.co.mz/maputo-acolhe-conferencia-internacional-sobre-reducao-do-risco-de-desastres-e-resiliencia-em-africa/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "O Governo e a Comissão da União Africana organizam a partir de amanhã até quinta-feira, em Maputo, a Conferência Internacional sobre Redução do Risco de Desastres e Resiliência em África (ICDRR). De acordo com um comunicado do Instituto Nacional de Gestão e Redução do Risco de Desastres (INGD), a conferência reunirá ministros, altos responsáveis pela formulação de políticas públicas, especialistas técnicos, representantes das comunidades económicas regionais, decisores nacionais e sub-nacionais, instituições de desenvolvimento e financiamento, académicos, organizações da sociedade civil, representantes do sector privado e parceiros internacionais. O encontro tem como objectivo acelerar a implementação dos compromissos continentais e globais em matéria de redução do risco de desastres, promovendo a partilha de experiências, o reforço da cooperação e a adopção de medidas que contribuam para a construção de comunidades e sociedades mais resilientes em África. Leia mais… O conteúdo Moçambique acolhe conferência sobre redução do risco de desastres aparece primeiro em Jornal Notícias. «Moçambique acolhe conferência sobre redução do risco de desastres» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique acolhe conferência sobre redução do risco de desastres», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 14.02,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo inaugura incubadora de negócios em Sofala",
+      "summary": "Maputo, 11 de Outubro (AI)— O Governo, através do Secretário de Estado da Ciência e Ensino Superior, Edson Macuácua, inaugurou, este domingo, uma incubadora de negócios e inovação na Universidade Adventista de Moçambique, na cidade da Beira, destinada a apoiar a transformação de projectos académicos e ideias empreendedoras em negócios viáveis, criação de empresas e geração de empregos. A infra-estrutura pretende aproximar a investigação científica das necessidades do mercado e da comunidade, através do apoio a estudantes, docentes e investigadores no desenvolvimento de iniciativas empresariais, com recurso à mentoria, à capacitação em gestão e ao acesso a meios físicos e digitais. Na cerimónia de inauguração, Macuácua defendeu a articulação entre o Governo, o sector privado e as instituições de ensino superior como uma forma de promover a inovação, o empreendedorismo e o desenvolvimento socioeconómico.",
+      "why": "«Governo inaugura incubadora de negócios em Sofala» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Governo inaugura incubadora de negócios em Sofala», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "AIM Notícias",
+      "published": "2026-10-12T09:56:00+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/12/governo-inaugura-incubadora-de-negocios-em-sofala/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 11 de Outubro (AI)— O Governo, através do Secretário de Estado da Ciência e Ensino Superior, Edson Macuácua, inaugurou, este domingo, uma incubadora de negócios e inovação na Universidade Adventista de Moçambique, na cidade da Beira, destinada a apoiar a transformação de projectos académicos e ideias empreendedoras em negócios viáveis, criação de empresas e geração de empregos. A infra-estrutura pretende aproximar a investigação científica das necessidades do mercado e da comunidade, através do apoio a estudantes, docentes e investigadores no desenvolvimento de iniciativas empresariais, com recurso à mentoria, à capacitação em gestão e ao acesso a meios físicos e digitais. Na cerimónia de inauguração, Macuácua defendeu a articulação entre o Governo, o sector privado e as instituições de ensino superior como uma forma de promover a inovação, o empreendedorismo e o desenvolvimento socioeconómico. «Governo inaugura incubadora de negócios em Sofala» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo inaugura incubadora de negócios em Sofala», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.9,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético",
-      "summary": "O mais recente ataque foi ucraniano e atingiu uma refinaria na região russa de Samara. Volodymyr Zelenskyy revelou que o exército atingiu uma instalação petrolífera apenas dias depois de o presidente norte-americano ter tentado o fim de ataques a alvos do setor energético",
-      "why": "«Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Kallas defende a continuação de sanções mais duras à Rússia",
+      "summary": "Kaja Kallas defendeu esta segunda-feira o reforço das sanções contra a Rússia. De acordo com a chefe da diplomacia dos 27, as medidas tornam mais difícil a Moscovo continuar a guerra na Ucrânia",
+      "why": "«Kallas defende a continuação de sanções mais duras à Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Kallas defende a continuação de sanções mais duras à Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-01T11:39:14+00:00",
-      "age_hours": 3.4,
+      "published": "2026-10-12T08:07:45+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ouvidos-de-mercador-a-trump-moscovo-e-kiev-continuam-ataques-a-setor-energetico_n1768835",
+      "link": "https://www.rtp.pt/noticias/mundo/kallas-defende-a-continuacao-de-sancoes-mais-duras-a-russia_n1771126",
       "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 2,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "MNE da UE reúnem-se para aprovar maior pacote de sanções de sempre à Rússia",
+          "link": "https://www.rtp.pt/noticias/mundo/mne-da-ue-reunem-se-para-aprovar-maior-pacote-de-sancoes-de-sempre-a-russia_n1771104"
+        }
+      ],
       "opportunity_flag": false,
-      "detailed_summary": "O mais recente ataque foi ucraniano e atingiu uma refinaria na região russa de Samara. Volodymyr Zelenskyy revelou que o exército atingiu uma instalação petrolífera apenas dias depois de o presidente norte-americano ter tentado o fim de ataques a alvos do setor energético. «Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Ouvidos de mercador a Trump. Moscovo e Kiev continuam ataques a setor energético», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.29,
+      "detailed_summary": "Kaja Kallas defendeu esta segunda-feira o reforço das sanções contra a Rússia. De acordo com a chefe da diplomacia dos 27, as medidas tornam mais difícil a Moscovo continuar a guerra na Ucrânia. «Kallas defende a continuação de sanções mais duras à Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Kallas defende a continuação de sanções mais duras à Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.52,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Energia transforma vida em Chinthopo",
+      "summary": "A chegada da energia eléctrica à localidade de Chinthopo, no distrito de Mágoè, província de Tete, está a melhorar as condições de vida da população, criando novas oportunidades para a educação, reforço da segurança e desenvolvimento de pequenos negócios. Situada a cerca de 533 quilómetros da cidade de Tete, numa viagem de aproximadamente 10 horas por estrada, Chinthopo começa a ultrapassar as dificuldades impostas pela falta de electricidade, graças à instalação de uma mini-rede verde fotovoltaica pelo Fundo de Energia (FUNAE). Antes da electrificação, a ausência de iluminação limitava as horas de estudo das crianças e jovens, dificultava a realização de actividades durante a noite e condicionava a conservação de alimentos e bebidas. A falta de iluminação pública constituía igualmente um constrangimento à segurança da comunidade. O impacto do empreendimento foi avaliado pelo presidente do Conselho de Administração do FUNAE, Mety Gondola, durante uma visita à localidade.",
+      "why": "«Energia transforma vida em Chinthopo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Energia transforma vida em Chinthopo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-12T07:45:01+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/energia-transforma-vida-em-chinthopo/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A chegada da energia eléctrica à localidade de Chinthopo, no distrito de Mágoè, província de Tete, está a melhorar as condições de vida da população, criando novas oportunidades para a educação, reforço da segurança e desenvolvimento de pequenos negócios. Situada a cerca de 533 quilómetros da cidade de Tete, numa viagem de aproximadamente 10 horas por estrada, Chinthopo começa a ultrapassar as dificuldades impostas pela falta de electricidade, graças à instalação de uma mini-rede verde fotovoltaica pelo Fundo de Energia (FUNAE). Antes da electrificação, a ausência de iluminação limitava as horas de estudo das crianças e jovens, dificultava a realização de actividades durante a noite e condicionava a conservação de alimentos e bebidas. A falta de iluminação pública constituía igualmente um constrangimento à segurança da comunidade. O impacto do empreendimento foi avaliado pelo presidente do Conselho de Administração do FUNAE, Mety Gondola, durante uma visita à localidade. «Energia transforma vida em Chinthopo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Energia transforma vida em Chinthopo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 11.44,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Não deixem o vosso futuro nas mãos dos traficantes de drogas — Eduardo Abdula, Governador de Nampula",
+      "summary": "Nampula (Moçambique), 11 OUT (AIM) – O Governador da província de Nampula, no norte de Moçambique, Eduardo Abdula, exortou a sociedade, em particular os jovens, a não entregarem o seu futuro aos traficantes de droga, numa altura em que esta parcela do país é apontada pelas autoridades como corredor de passagem de substâncias ilícitas. Abdula fez o apelo este domingo, durante um encontro popular organizado pelo Conselho Provincial de Álimos, no populoso bairro de Namicopo, referenciado como uma das zonas onde se registam casos de tráfico e consumo de drogas, incluindo a metanfetamina adulterada, localmente conhecida por makhá (sal). O encontro contou com a participação de centenas de pessoas, maioritariamente mulheres e jovens, e serviu para divulgar mensagens de sensibilização sobre os perigos associados à venda e ao consumo de drogas. “Hoje, quero falar-vos não apenas como governador, mas também como pai. Aos jovens de Namicopo, quero deixar uma mensagem muito simples: quem vos vende droga não é vosso amigo, não se preocupa com a vossa saúde nem com o vosso futuro.",
+      "why": "«Não deixem o vosso futuro nas mãos dos traficantes de drogas — Eduardo Abdula, Governador de Nampula» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Não deixem o vosso futuro nas mãos dos traficantes de drogas — Eduardo Abdula, Governador de Nampula», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-11T18:20:41+00:00",
+      "age_hours": 16.1,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/11/nao-deixem-o-vosso-futuro-nas-maos-dos-traficantes-de-drogas-eduardo-abdula-governador-de-nampula/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Nampula (Moçambique), 11 OUT (AIM) – O Governador da província de Nampula, no norte de Moçambique, Eduardo Abdula, exortou a sociedade, em particular os jovens, a não entregarem o seu futuro aos traficantes de droga, numa altura em que esta parcela do país é apontada pelas autoridades como corredor de passagem de substâncias ilícitas. Abdula fez o apelo este domingo, durante um encontro popular organizado pelo Conselho Provincial de Álimos, no populoso bairro de Namicopo, referenciado como uma das zonas onde se registam casos de tráfico e consumo de drogas, incluindo a metanfetamina adulterada, localmente conhecida por makhá (sal). O encontro contou com a participação de centenas de pessoas, maioritariamente mulheres e jovens, e serviu para divulgar mensagens de sensibilização sobre os perigos associados à venda e ao consumo de drogas. “Hoje, quero falar-vos não apenas como governador, mas também como pai. Aos jovens de Namicopo, quero deixar uma mensagem muito simples: quem vos vende droga não é vosso amigo, não se preocupa com a vossa saúde nem com o vosso futuro. «Não deixem o vosso futuro nas mãos dos traficantes de drogas — Eduardo Abdula, Governador de Nampula» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Não deixem o vosso futuro nas mãos dos traficantes de drogas — Eduardo Abdula, Governador de Nampula», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 10.65,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "África",
       "tags": [
-        "IA",
-        "Segurança"
+        "Economia"
       ],
-      "title": "\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA",
-      "summary": "A Right Livelihood Award distinguiu hoje com o \"Nobel Alternativo\" a paquistanesa Jalila Haider e uma organização sul-africana pela luta contra a violência patriarcal, e a norte-americana Timnit Gebru pela defesa do uso ético da inteligência artificial O prémio da fundação sueca, que desde 1980 distingue o trabalho social, também premiou os esforços contra o autoritarismo da Associação de Jovens Advogados da Geórgia (GYLA, na sigla em inglês) O júri reconheceu Haider, a primeira mulher da comunidade hazara a tornar-se advogada, por \"desafiar a perseguição étnica, estatal e patriarcal, guiada pela convicção de que nenhum ser humano é ilegal\" \"Combinando o trabalho jurídico com o ativismo de rua e o empoderamento comunitário, Haider conseguiu justiça para milhares de pessoas perseguidas ou ignoradas pelo poder, especialmente minorias étnicas, de género e religiosas, bem como refugiados, destacou o veredicto Haider, nascida em Quetta, Paquistão, em 1984, liderou, em 2018, uma greve de fome contra o assassinato de pessoas da etnia hazara, o que levou a uma negociação e reduziu os…",
-      "why": "«\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
+      "title": "Universidade pública de Cabo Verde passa a ter propinas gratuitas e recebe mais alunos",
+      "summary": "A Universidade de Cabo Verde (UniCV) passa este ano letivo a ter propinas gratuitas, numa medida tomada pelo Governo, eleito em maio, e a reitora espera que o número de alunos, que já superava os 4.000, continue a crescer \"De 2024 para 2025, aumentámos [o número de] estudantes em 30%. Ainda não tínhamos a isenção de propinas, mas penso que, nesses dois anos [2024-2026] vamos aumentar os estudantes em 50%\", referiu Astrigilda Silveira, em entrevista à Lusa, a propósito da abertura, hoje, do novo ano letivo \"As matrículas vão até 10 de novembro e, até lá, teremos o número exato\", acrescentou a dirigente, empossada em março e que pela primeira vez preside à abertura do ano letivo Considera que a gratuitidade é uma \"excelente iniciativa do Governo\", mas referiu que \"a isenção de propinas, por si só, não resolve todos os problemas\" \"Nós temos residências, alimentação, transporte, materiais educativos e apoio psicossocial aos nossos estudantes.",
+      "why": "«Universidade pública de Cabo Verde passa a ter propinas gratuitas e recebe mais alunos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Universidade pública de Cabo Verde passa a ter propinas gratuitas e recebe mais alunos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "RTP Notícias",
-      "published": "2026-09-30T07:36:37+00:00",
-      "age_hours": 31.4,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/nobel-alternativo-distingue-luta-contra-a-violencia-patriarcal-e-uso-etico-da-ia_n1768571",
+      "published": "2026-10-12T05:18:09+00:00",
+      "age_hours": 5.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/universidade-publica-de-cabo-verde-passa-a-ter-propinas-gratuitas-e-recebe-mais-alunos_n1771093",
       "original_source": true,
       "event_id": "evt-áfrica-001",
       "cluster_size": 1,
@@ -87,30 +231,71 @@
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
-      "status": "update",
+      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Right Livelihood Award distinguiu hoje com o \"Nobel Alternativo\" a paquistanesa Jalila Haider e uma organização sul-africana pela luta contra a violência patriarcal, e a norte-americana Timnit Gebru pela defesa do uso ético da inteligência artificial O prémio da fundação sueca, que desde 1980 distingue o trabalho social, também premiou os esforços contra o autoritarismo da Associação de Jovens Advogados da Geórgia (GYLA, na sigla em inglês) O júri reconheceu Haider, a primeira mulher da comunidade hazara a tornar-se advogada, por \"desafiar a perseguição étnica, estatal e patriarcal, guiada pela convicção de que nenhum ser humano é ilegal\" \"Combinando o trabalho jurídico com o ativismo de rua e o empoderamento comunitário, Haider conseguiu justiça para milhares de pessoas perseguidas ou ignoradas pelo poder, especialmente minorias étnicas, de género e religiosas, bem como refugiados, destacou o veredicto Haider, nascida em Quetta, Paquistão, em 1984, liderou, em 2018, uma greve de fome contra o assassinato de pessoas da etnia hazara, o que levou a uma negociação e reduziu os… «\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «\"Nobel Alternativo\" distingue luta contra a violência patriarcal e uso ético da IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
-      "editorial_score": 9.27,
+      "detailed_summary": "A Universidade de Cabo Verde (UniCV) passa este ano letivo a ter propinas gratuitas, numa medida tomada pelo Governo, eleito em maio, e a reitora espera que o número de alunos, que já superava os 4.000, continue a crescer \"De 2024 para 2025, aumentámos [o número de] estudantes em 30%. Ainda não tínhamos a isenção de propinas, mas penso que, nesses dois anos [2024-2026] vamos aumentar os estudantes em 50%\", referiu Astrigilda Silveira, em entrevista à Lusa, a propósito da abertura, hoje, do novo ano letivo \"As matrículas vão até 10 de novembro e, até lá, teremos o número exato\", acrescentou a dirigente, empossada em março e que pela primeira vez preside à abertura do ano letivo Considera que a gratuitidade é uma \"excelente iniciativa do Governo\", mas referiu que \"a isenção de propinas, por si só, não resolve todos os problemas\" \"Nós temos residências, alimentação, transporte, materiais educativos e apoio psicossocial aos nossos estudantes. «Universidade pública de Cabo Verde passa a ter propinas gratuitas e recebe mais alunos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Universidade pública de Cabo Verde passa a ter propinas gratuitas e recebe mais alunos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 9.94,
       "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
+      "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán",
-      "summary": "A Rússia expulsou na quinta-feira um grupo de diplomatas húngaros, depois de a Hungria ter ordenado, no mês passado, a saída de dez diplomatas russos, num claro afastamento da era do antigo primeiro-ministro Viktor Orbán, que mantinha relações mais estreitas com Moscovo do que qualquer outro líder da UE.O encarregado de negócios húngaro, Gábor Gergics, foi convocado para o ministério russo dos Negócios Estrangeiros e informado de que funcionários da embaixada da Hungria em Moscovo e dos consulados em São Petersburgo e Kazan tinham sido obrigados a abandonar o país no prazo de duas semanas.Moscovo qualificou a expulsão inicial de 8 de setembro como um ato “infundado e abertamente hostil”.Budapeste reconheceu a decisão de Moscovo, mas afirmou manter a sua posição.“A Hungria não está interessada numa escalada das tensões diplomáticas. Mas mantemos a nossa decisão, tomada por motivos de segurança nacional.",
-      "why": "«Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Estados Unidos: juíza obriga Trump a retirar anúncios pagos pelos contribuintes",
+      "summary": "Uma juíza federal norte-americana ordenou à administração de Donald Trump que suspenda a difusão de anúncios televisivos, pagos com dinheiros públicos, que promovem o presidente, a poucas semanas das eleições intercalares de novembro.A juíza do Tribunal de Distrito dos EUA Jennifer Rochon emitiu no domingo uma ordem de restrição temporária que impede a administração de produzir ou emitir os anúncios durante 14 dias.",
+      "why": "«Estados Unidos: juíza obriga Trump a retirar anúncios pagos pelos contribuintes» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Estados Unidos: juíza obriga Trump a retirar anúncios pagos pelos contribuintes», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-01T14:36:01+00:00",
-      "age_hours": 0.4,
+      "published": "2026-10-12T08:28:26+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/01/russia-expulsa-diplomatas-hungaros-enquanto-budapeste-rompe-com-era-orban",
+      "link": "https://pt.euronews.com/2026/10/12/estados-unidos-juiza-obriga-trump-a-retirar-anuncios-pagos-pelos-contribuintes",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-002",
+      "cluster_size": 3,
+      "source_count": 2,
+      "sources": [
+        "Euronews Português",
+        "RTP Notícias"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Associado de figura próxima de Nicolás Maduro detido nos Estados Unidos",
+          "link": "https://www.rtp.pt/noticias/mundo/associado-de-figura-proxima-de-nicolas-maduro-detido-nos-estados-unidos_n1771097"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Justiça dos EUA suspende anúncios de Trump financiados com fundos públicos",
+          "link": "https://www.rtp.pt/noticias/mundo/justica-dos-eua-suspende-anuncios-de-trump-financiados-com-fundos-publicos_n1771085"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Uma juíza federal norte-americana ordenou à administração de Donald Trump que suspenda a difusão de anúncios televisivos, pagos com dinheiros públicos, que promovem o presidente, a poucas semanas das eleições intercalares de novembro.A juíza do Tribunal de Distrito dos EUA Jennifer Rochon emitiu no domingo uma ordem de restrição temporária que impede a administração de produzir ou emitir os anúncios durante 14 dias. «Estados Unidos: juíza obriga Trump a retirar anúncios pagos pelos contribuintes» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Estados Unidos: juíza obriga Trump a retirar anúncios pagos pelos contribuintes», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.1,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Coreia do Norte lança vários mísseis balísticos no mar do Japão, diz Seul",
+      "summary": "A Coreia do Norte disparou vários mísseis balísticos ao largo da sua costa oriental, indicou esta segunda-feira o exército de Seul, após semanas de crescente fricção devido à explosão de uma mina terrestre ao longo da fronteira fortemente fortificada que separa os dois países.Desde a explosão, que feriu três soldados sul-coreanos na área da Zona Desmilitarizada (DMZ) controlada por Seul, ambos os países têm exibido ensaios de versões melhoradas da sua tecnologia de mísseis.“As nossas forças armadas detetaram, cerca das 09:20 (02:20 CET), vários mísseis balísticos lançados da zona de Pyongyang em direção ao Mar de Leste”, indicou o Estado-Maior Conjunto (JCS), referindo-se à massa de água também conhecida como Mar do Japão.“As nossas forças armadas reforçaram a vigilância e o estado de alerta perante eventuais lançamentos adicionais”, acrescentou o comunicado.O ministério da Defesa japonês confirmou, em separado, o lançamento de pelo menos um míssil balístico suspeito.Alguns dos mísseis norte-coreanos detetados percorreram mais de 900 quilómetros, adiantou o JCS, enquanto Seul e o…",
+      "why": "«Coreia do Norte lança vários mísseis balísticos no mar do Japão, diz Seul» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Coreia do Norte lança vários mísseis balísticos no mar do Japão, diz Seul», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-12T05:52:21+00:00",
+      "age_hours": 4.5,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/12/coreia-do-norte-lanca-varios-misseis-balisticos-no-mar-do-japao-diz-seul",
+      "original_source": true,
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -119,8 +304,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Rússia expulsou na quinta-feira um grupo de diplomatas húngaros, depois de a Hungria ter ordenado, no mês passado, a saída de dez diplomatas russos, num claro afastamento da era do antigo primeiro-ministro Viktor Orbán, que mantinha relações mais estreitas com Moscovo do que qualquer outro líder da UE.O encarregado de negócios húngaro, Gábor Gergics, foi convocado para o ministério russo dos Negócios Estrangeiros e informado de que funcionários da embaixada da Hungria em Moscovo e dos consulados em São Petersburgo e Kazan tinham sido obrigados a abandonar o país no prazo de duas semanas.Moscovo qualificou a expulsão inicial de 8 de setembro como um ato “infundado e abertamente hostil”.Budapeste reconheceu a decisão de Moscovo, mas afirmou manter a sua posição.“A Hungria não está interessada numa escalada das tensões diplomáticas. Mas mantemos a nossa decisão, tomada por motivos de segurança nacional. «Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia expulsa diplomatas húngaros enquanto Budapeste rompe com era Orbán», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.92,
+      "detailed_summary": "A Coreia do Norte disparou vários mísseis balísticos ao largo da sua costa oriental, indicou esta segunda-feira o exército de Seul, após semanas de crescente fricção devido à explosão de uma mina terrestre ao longo da fronteira fortemente fortificada que separa os dois países.Desde a explosão, que feriu três soldados sul-coreanos na área da Zona Desmilitarizada (DMZ) controlada por Seul, ambos os países têm exibido ensaios de versões melhoradas da sua tecnologia de mísseis.“As nossas forças armadas detetaram, cerca das 09:20 (02:20 CET), vários mísseis balísticos lançados da zona de Pyongyang em direção ao Mar de Leste”, indicou o Estado-Maior Conjunto (JCS), referindo-se à massa de água também conhecida como Mar do Japão.“As nossas forças armadas reforçaram a vigilância e o estado de alerta perante eventuais lançamentos adicionais”, acrescentou o comunicado.O ministério da Defesa japonês confirmou, em separado, o lançamento de pelo menos um míssil balístico suspeito.Alguns dos mísseis norte-coreanos detetados percorreram mais de 900 quilómetros, adiantou o JCS, enquanto Seul e o… «Coreia do Norte lança vários mísseis balísticos no mar do Japão, diz Seul» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Coreia do Norte lança vários mísseis balísticos no mar do Japão, diz Seul», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 8.06,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -144,9 +329,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 0,
+    "Moçambique": 4,
     "África": 1,
-    "Mundo": 3
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
