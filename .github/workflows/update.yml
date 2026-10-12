@@ -441,7 +441,7 @@ jobs:
           PY
 
 # Dez actualizações automáticas por dia.
-# E2E validation trigger: 2026-10-12.
+# E2E validation trigger: 2026-10-12 rerun.
 # Sem quota mínima artificial: publica apenas eventos realmente relevantes.
 # Conteúdo em português e inglês.
 # Notícias de Moçambique, África e Mundo.
