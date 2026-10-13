@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T02:27:56.635145+00:00",
+  "updated_at": "2026-10-13T10:13:08.017852+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -10,79 +10,87 @@
       "tags": [
         "Economia"
       ],
-      "title": "Executivo Lança Ferramenta Para Melhorar o Planeamento Territorial",
-      "summary": "O Governo lançou esta segunda-feira, 12 de Outubro, em Maputo, uma metodologia complementar para apoiar o planeamento territorial e orientar a distribuição de investimentos e serviços públicos. Denominada Grau de […]",
-      "why": "«Executivo Lança Ferramenta Para Melhorar o Planeamento Territorial» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Executivo Lança Ferramenta Para Melhorar o Planeamento Territorial», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-12T14:55:00+00:00",
-      "age_hours": 11.5,
+      "title": "APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região",
+      "summary": "ELIAS NHACA O LANÇAMENTO ontem, da dragagem de aprofundamento do canal de acesso ao Porto de Maputo representa uma etapa fundamental no processo de aprimoramento da conectividade de Moçambique com a região e o mundo, movimentando o comércio e atraindo investimentos. Com esta operação, orçada em 150 milhões de dólares, que prevê o aumento da profundidade do canal de 14,4 para 15,3 metros, significa, igualmente, este terminal oceânico está a ser preparado não apenas para responder às necessidades actuais, mas também para competir no cenário internacional, nas próximas décadas. Segundo o Chefe do Estado, Daniel Chapo, a quem coube dar a voz de comando, através do rádio transmissor, para o início da dragagem, a obra poderá não ser visível à superfície, mas os seus efeitos reflectir-se-ão na economia. “Estamos a construir um Moçambique economicamente mais independente, produtivo, competitivo e cada vez mais capaz de transformar as suas potencialidades em prosperidade partilhada para o seu povo”, destacou.",
+      "why": "«APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-13T07:22:52+00:00",
+      "age_hours": 2.8,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/12/desenvolvimento-2/executivo-lanca-ferramenta-para-melhorar-o-planeamento-territorial/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/aprofundamento-do-canal-de-acesso-porto-de-maputo-posiciona-se-para-melhor-servir-a-regiao/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 3,
-      "source_count": 3,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "Diário Económico",
-        "AIM Notícias",
         "Jornal Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "Jornal Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "Moçambique adopta metodologia para melhorar o planeamento territorial",
-          "link": "https://aimnews.org/2026/10/12/ferramenta-degurba/"
-        },
-        {
-          "source": "Jornal Notícias",
-          "title": "Governo aposta em nova ferramenta para planificar território",
-          "link": "https://www.jornalnoticias.co.mz/destaque/governo-aposta-em-nova-ferramenta-para-planificar-territorio/"
-        }
-      ],
       "opportunity_flag": true,
-      "detailed_summary": "O Governo lançou esta segunda-feira, 12 de Outubro, em Maputo, uma metodologia complementar para apoiar o planeamento territorial e orientar a distribuição de investimentos e serviços públicos. Denominada Grau de […]. «Executivo Lança Ferramenta Para Melhorar o Planeamento Territorial» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Executivo Lança Ferramenta Para Melhorar o Planeamento Territorial», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.1,
+      "detailed_summary": "ELIAS NHACA O LANÇAMENTO ontem, da dragagem de aprofundamento do canal de acesso ao Porto de Maputo representa uma etapa fundamental no processo de aprimoramento da conectividade de Moçambique com a região e o mundo, movimentando o comércio e atraindo investimentos. Com esta operação, orçada em 150 milhões de dólares, que prevê o aumento da profundidade do canal de 14,4 para 15,3 metros, significa, igualmente, este terminal oceânico está a ser preparado não apenas para responder às necessidades actuais, mas também para competir no cenário internacional, nas próximas décadas. Segundo o Chefe do Estado, Daniel Chapo, a quem coube dar a voz de comando, através do rádio transmissor, para o início da dragagem, a obra poderá não ser visível à superfície, mas os seus efeitos reflectir-se-ão na economia. “Estamos a construir um Moçambique economicamente mais independente, produtivo, competitivo e cada vez mais capaz de transformar as suas potencialidades em prosperidade partilhada para o seu povo”, destacou. «APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 14.42,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "Rússia procura reforçar cooperação com a China na construção naval e no Ártico",
+      "summary": "A Rússia pretende reforçar a cooperação com a China na construção naval, através de parcerias tecnológicas e investimentos conjuntos, incluindo o desenvolvimento de navios destinados à navegação no Ártico, afirmou um assessor do Presidente russo, Vladimir Putin Nikolai Patrushev, assessor presidencial e presidente do Conselho Marítimo da Rússia, reuniu-se este fim de semana em Pequim com o vice-ministro chinês da Indústria e Tecnologias de Informação, Ke Jixin, de acordo com um comunicado divulgado hoje pelo organismo russo Durante o encontro, os dois responsáveis discutiram a possibilidade de empresas chinesas de construção naval tornarem-se parceiras tecnológicas e fornecedoras de equipamentos para novas instalações industriais na Rússia A cooperação marítima constituiu o principal objetivo da visita de seis dias de Patrushev à China, iniciada na quinta-feira, em Xangai Na cidade chinesa, o responsável visitou o estaleiro Waigaoqiao Shipbuilding, um dos maiores do país, onde reconheceu que a cooperação bilateral na construção naval continua a ser \"bastante limitada\", mas…",
+      "why": "«Rússia procura reforçar cooperação com a China na construção naval e no Ártico» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Rússia procura reforçar cooperação com a China na construção naval e no Ártico», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-13T08:21:29+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/russia-procura-reforcar-cooperacao-com-a-china-na-construcao-naval-e-no-artico_n1771344",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A Rússia pretende reforçar a cooperação com a China na construção naval, através de parcerias tecnológicas e investimentos conjuntos, incluindo o desenvolvimento de navios destinados à navegação no Ártico, afirmou um assessor do Presidente russo, Vladimir Putin Nikolai Patrushev, assessor presidencial e presidente do Conselho Marítimo da Rússia, reuniu-se este fim de semana em Pequim com o vice-ministro chinês da Indústria e Tecnologias de Informação, Ke Jixin, de acordo com um comunicado divulgado hoje pelo organismo russo Durante o encontro, os dois responsáveis discutiram a possibilidade de empresas chinesas de construção naval tornarem-se parceiras tecnológicas e fornecedoras de equipamentos para novas instalações industriais na Rússia A cooperação marítima constituiu o principal objetivo da visita de seis dias de Patrushev à China, iniciada na quinta-feira, em Xangai Na cidade chinesa, o responsável visitou o estaleiro Waigaoqiao Shipbuilding, um dos maiores do país, onde reconheceu que a cooperação bilateral na construção naval continua a ser \"bastante limitada\", mas… «Rússia procura reforçar cooperação com a China na construção naval e no Ártico» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Rússia procura reforçar cooperação com a China na construção naval e no Ártico», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 12.6,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Sofala: Governo Inaugura Incubadora Para Transformar Ideias em Negócios",
-      "summary": "Uma incubadora de negócios e inovação foi inaugurada no domingo, 11 de Outubro, na Universidade Adventista de Moçambique, na cidade da Beira, província de Sofala. O espaço pretende apoiar estudantes, […]",
-      "why": "«Sofala: Governo Inaugura Incubadora Para Transformar Ideias em Negócios» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Sofala: Governo Inaugura Incubadora Para Transformar Ideias em Negócios», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-12T14:15:00+00:00",
-      "age_hours": 12.2,
+      "title": "FMI avisa que economia mundial está presa por fios",
+      "summary": "A economia mundial ainda está a crescer, mas pode não aguentar muito mais. O aviso é do Fundo Monetário Internacional, em Banguecoque, onde vai estar reunido toda a semana",
+      "why": "«FMI avisa que economia mundial está presa por fios» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «FMI avisa que economia mundial está presa por fios», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "RTP Notícias",
+      "published": "2026-10-13T08:17:55+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/12/negocios/sofala-governo-inaugura-incubadora-para-transformar-ideias-em-negocios/",
+      "link": "https://www.rtp.pt/noticias/economia/fmi-avisa-que-economia-mundial-esta-presa-por-fios_n1771346",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 2,
-      "source_count": 2,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "Diário Económico",
-        "AIM Notícias"
+        "RTP Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "RTP Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "Governo inaugura incubadora de negócios em Sofala",
-          "link": "https://aimnews.org/2026/10/12/governo-inaugura-incubadora-de-negocios-em-sofala/"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "Uma incubadora de negócios e inovação foi inaugurada no domingo, 11 de Outubro, na Universidade Adventista de Moçambique, na cidade da Beira, província de Sofala. O espaço pretende apoiar estudantes, […]. «Sofala: Governo Inaugura Incubadora Para Transformar Ideias em Negócios» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Sofala: Governo Inaugura Incubadora Para Transformar Ideias em Negócios», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.96,
-      "source_tier": "B",
+      "detailed_summary": "A economia mundial ainda está a crescer, mas pode não aguentar muito mais. O aviso é do Fundo Monetário Internacional, em Banguecoque, onde vai estar reunido toda a semana. «FMI avisa que economia mundial está presa por fios» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «FMI avisa que economia mundial está presa por fios», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 11.6,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -96,11 +104,11 @@
       "impact": "No caso de «Nampula: Procuradoria provincial cria força-tarefa para combate ao tráfico de drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-12T16:22:16+00:00",
-      "age_hours": 10.1,
+      "age_hours": 17.8,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/12/nampula-procuradoria-provincial-cria-forca-tarefa-para-combate-ao-trafico-de-drogas/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -110,36 +118,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Nampula (Moçambique), 12 OUT. (AIM) – A Procuradoria Provincial da República em Nampula criou uma força-tarefa multissectorial para combater o tráfico de drogas, numa altura em que a província figura entre as três do país com maior incidência de crimes relacionados com a venda e o consumo de substâncias proibidas, a par de Sofala e Tete. Segundo apurou a AIM, a criação da equipa surge num contexto de aumento dos processos-crime relacionados com drogas. Só nos primeiros oito meses do presente ano foram instaurados 140 processos contra indivíduos envolvidos no tráfico, venda e consumo de estupefacientes, contra 73 registados em igual período de 2025. Aires Boneth, ponto focal para as questões relacionadas com a investigação do tráfico, venda e consumo de drogas na Procuradoria Provincial de Nampula, disse à AIM que a formação dos integrantes da equipa multissectorial está prevista para os próximos dias, com o objectivo de reforçar a coordenação entre as instituições envolvidas no combate a este tipo de criminalidade. «Nampula: Procuradoria provincial cria força-tarefa para combate ao tráfico de drogas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Nampula: Procuradoria provincial cria força-tarefa para combate ao tráfico de drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 11.9,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Dragagem do Porto de Maputo está avaliada em 150 milhões de dólares",
-      "summary": "O Presidente da República defende que o aprofundamento do canal de acesso ao Porto de Maputo é estratégico para reforçar a competitividade de Moçambique, atrair investimentos e aumentar a capacidade de produção e exportação do país. Falando no lançamento do projecto de dragagem, o Chefe do Estado afirmou que a intervenção deverá permitir a entrada […]",
-      "why": "«Dragagem do Porto de Maputo está avaliada em 150 milhões de dólares» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Dragagem do Porto de Maputo está avaliada em 150 milhões de dólares», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "O País",
-      "published": "2026-10-12T15:06:31+00:00",
-      "age_hours": 11.4,
-      "within_24h": true,
-      "link": "https://opais.co.mz/dragagem-do-porto-de-maputo-esta-avaliada-em-150-milhoes-de-dolares/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Presidente da República defende que o aprofundamento do canal de acesso ao Porto de Maputo é estratégico para reforçar a competitividade de Moçambique, atrair investimentos e aumentar a capacidade de produção e exportação do país. Falando no lançamento do projecto de dragagem, o Chefe do Estado afirmou que a intervenção deverá permitir a entrada […]. «Dragagem do Porto de Maputo está avaliada em 150 milhões de dólares» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Dragagem do Porto de Maputo está avaliada em 150 milhões de dólares», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.62,
+      "editorial_score": 10.29,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -154,11 +133,11 @@
       "impact": "No caso de «AR reforça a ética e competência do serviço de protocolo no parlamento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-12T19:34:15+00:00",
-      "age_hours": 6.9,
+      "age_hours": 14.6,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/12/ar-reforca-a-etica-e-competencia-do-servico-de-protocolo-no-parlamento/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -168,37 +147,37 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 12 de Outubro (AIM) – A Assembleia da República (AR), parlamento moçambicano, iniciou, hoje, em Maputo, uma capacitação em protocolo, cerimonial e etiqueta institucional, destinada a 50 funcionários afectos aos serviços de protocolo, no âmbito da preparação da IV Sessão Ordinária do órgão legislativo. A formação visa reforçar as competências técnicas dos participantes e uniformizar os procedimentos de organização e acompanhamento dos actos oficiais. Na abertura da capacitação, o Secretário-Geral da Assembleia da República, António Mahumane, afirmou que o protocolo parlamentar abrange normas relacionadas com a precedência, o cerimonial e as relações institucionais. Segundo Mahumane, a Assembleia da República recebe titulares de órgãos de soberania, membros do Governo, representantes do corpo diplomático, delegações parlamentares estrangeiras e outros representantes de instituições, cujas visitas e actividades exigem procedimentos específicos de acolhimento e acompanhamento. «AR reforça a ética e competência do serviço de protocolo no parlamento» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «AR reforça a ética e competência do serviço de protocolo no parlamento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.56,
+      "editorial_score": 9.96,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
         "Segurança"
       ],
-      "title": "Trump garante que Putin quer chegar a acordo com Kiev",
-      "summary": "Donald Trump diz que o Vladimir Putin \"quer mais chegar a acordo\" para terminar a guerra do que Volodymyr Zelensky. A caminho de um comício, o presidente dos Estados Unidos disse que os dois lados estão a violar o cessar-fogo energético, que o próprio impôs",
-      "why": "«Trump garante que Putin quer chegar a acordo com Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Trump garante que Putin quer chegar a acordo com Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-13T00:20:47+00:00",
-      "age_hours": 2.1,
+      "title": "Dezasseis professores assassinados desde 2017 em Cabo Delgado",
+      "summary": "Dezasseis professores foram assassinados desde 2017 na província de Cabo Delgado. A preocupação foi manifestada hoje, em Metuge, pela secretária provincial da Organização Nacional dos Professores (ONP), Atija Assane, durante as celebrações do Dia Nacional da organização, que se assinala a cada 12 de Outubro. Apesar de não haver registo de assassinatos de professores este ano, a ONP em Cabo Delgado alerta que os ataques terroristas continuam a ameaçar a segurança dos docentes e a comprometer o processo de ensino e aprendizagem. A dirigente afirma que a classe continua a sentir-se ameaçada e apela ao fim da violência para garantir a segurança dos profissionais e a continuidade das aulas. Assane revelou ainda que cerca de 48 professores morreram vítimas de diferentes doenças desde Outubro do ano passado, incluindo 10 mulheres. Por sua vez, o governador de Cabo Delgado, Valige Tauabo, anunciou a contratação de 215 professores em 2026, dos quais 87 são mulheres, e de 700 alfabetizadores.",
+      "why": "«Dezasseis professores assassinados desde 2017 em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Dezasseis professores assassinados desde 2017 em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-12T10:53:28+00:00",
+      "age_hours": 23.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/trump-garante-que-putin-quer-chegar-a-acordo-com-kiev_v1771302",
+      "link": "https://www.jornalnoticias.co.mz/destaque/dezasseis-professores-assassinados-desde-2017-em-cabo-delgado/",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Jornal Notícias"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Donald Trump diz que o Vladimir Putin \"quer mais chegar a acordo\" para terminar a guerra do que Volodymyr Zelensky. A caminho de um comício, o presidente dos Estados Unidos disse que os dois lados estão a violar o cessar-fogo energético, que o próprio impôs. «Trump garante que Putin quer chegar a acordo com Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Trump garante que Putin quer chegar a acordo com Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.56,
-      "source_tier": "A",
+      "detailed_summary": "Dezasseis professores foram assassinados desde 2017 na província de Cabo Delgado. A preocupação foi manifestada hoje, em Metuge, pela secretária provincial da Organização Nacional dos Professores (ONP), Atija Assane, durante as celebrações do Dia Nacional da organização, que se assinala a cada 12 de Outubro. Apesar de não haver registo de assassinatos de professores este ano, a ONP em Cabo Delgado alerta que os ataques terroristas continuam a ameaçar a segurança dos docentes e a comprometer o processo de ensino e aprendizagem. A dirigente afirma que a classe continua a sentir-se ameaçada e apela ao fim da violência para garantir a segurança dos profissionais e a continuidade das aulas. Assane revelou ainda que cerca de 48 professores morreram vítimas de diferentes doenças desde Outubro do ano passado, incluindo 10 mulheres. Por sua vez, o governador de Cabo Delgado, Valige Tauabo, anunciou a contratação de 215 professores em 2026, dos quais 87 são mulheres, e de 700 alfabetizadores. «Dezasseis professores assassinados desde 2017 em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Dezasseis professores assassinados desde 2017 em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 9.15,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -213,7 +192,7 @@
       "impact": "No caso de «Cabo Verde. Falha nos travões foi a causa de despiste de autocarro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
       "source": "RTP Notícias",
       "published": "2026-10-12T13:51:52+00:00",
-      "age_hours": 12.6,
+      "age_hours": 20.4,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-falha-nos-travoes-foi-a-causa-de-despiste-de-autocarro_n1771187",
       "original_source": true,
@@ -227,65 +206,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Um sobreaquecimento dos travões esteve na origem do despiste de um autocarro por uma encosta na ilha do Fogo, Cabo Verde, que matou 25 pessoas, em setembro, anunciou hoje a comissão de inquérito criada pelo Governo \"A causa direta e determinante identificada pela comissão é a perda total de eficácia de travagem por fadiga térmica severa\", referiu Emanuel Almeida, diretor-geral dos Transportes Rodoviários em Cabo Verde O acidente causou ainda 13 feridos e foi uma das maiores tragédias rodoviárias do arquipélago Outros fatores \"agravaram a margem de segurança\", referiu aquele responsável Havia um \"desgaste severo do sistema de travagem, com soldaduras e adições metálicas artesanais\", disse O autocarro estava sobrelotado, com 38 passageiros, a maioria jovens estudantes, mas só tinha 30 lugares homologados A descida entre Piorno e Campanas de Cima é prolongada e acentuada, com um declive de 19%, em que os travões foram muito solicitados e sem barreiras de proteção ou sinalização reforçada Segundo Emanuel Almeida, é \"um cenário de alto risco\" \"É uma via de elevada exigência, exige… «Cabo Verde. Falha nos travões foi a causa de despiste de autocarro» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Cabo Verde. Falha nos travões foi a causa de despiste de autocarro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "editorial_score": 10.38,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Onda de destruição impacta emprego e economia após inundações no Nepal",
-      "summary": "Efeito humano e econômico inclui 1,4 mil mortes; mais de 5 mil pessoas desapareceram; 21,4 mil trabalhadores das zonas alagadas perderam estabilidade, renda e rotina; comércio transfronteiriço paralisado limita rotas comerciais com China; choque econômico é sentido em toda a região",
-      "why": "«Onda de destruição impacta emprego e economia após inundações no Nepal» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Onda de destruição impacta emprego e economia após inundações no Nepal», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Notícias ONU",
-      "published": "2026-10-12T12:00:00+00:00",
-      "age_hours": 14.5,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854607",
-      "original_source": true,
-      "event_id": "evt-mundo-011",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Efeito humano e econômico inclui 1,4 mil mortes; mais de 5 mil pessoas desapareceram; 21,4 mil trabalhadores das zonas alagadas perderam estabilidade, renda e rotina; comércio transfronteiriço paralisado limita rotas comerciais com China; choque econômico é sentido em toda a região. «Onda de destruição impacta emprego e economia após inundações no Nepal» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Onda de destruição impacta emprego e economia após inundações no Nepal», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 9.98,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Pandemias: OMS quer preparar mundo para detectar novos surtos em até 24 horas",
-      "summary": "Centro de Inteligência sobre Pandemias e Epidemias lança nova estratégia visando conter na origem o surgimento de crises internacionais de saúde; estratégias envolvem uso de inteligência artificial, sequenciamento genômico e rede de especialistas que podem ser mobilizados rapidamente",
-      "why": "«Pandemias: OMS quer preparar mundo para detectar novos surtos em até 24 horas» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Pandemias: OMS quer preparar mundo para detectar novos surtos em até 24 horas», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-12T12:00:00+00:00",
-      "age_hours": 14.5,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854611",
-      "original_source": true,
-      "event_id": "evt-mundo-010",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Centro de Inteligência sobre Pandemias e Epidemias lança nova estratégia visando conter na origem o surgimento de crises internacionais de saúde; estratégias envolvem uso de inteligência artificial, sequenciamento genômico e rede de especialistas que podem ser mobilizados rapidamente. «Pandemias: OMS quer preparar mundo para detectar novos surtos em até 24 horas» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Pandemias: OMS quer preparar mundo para detectar novos surtos em até 24 horas», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 7.98,
+      "editorial_score": 8.75,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -300,11 +221,11 @@
       "impact": "No caso de «Incêndio noturno devasta mercado coberto mais antigo de Paris», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-12T13:53:33+00:00",
-      "age_hours": 12.6,
+      "age_hours": 20.3,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/12/incendio-noturno-devasta-mercado-coberto-mais-antigo-de-paris",
       "original_source": true,
-      "event_id": "evt-mundo-007",
+      "event_id": "evt-mundo-011",
       "cluster_size": 2,
       "source_count": 1,
       "sources": [
@@ -321,7 +242,7 @@
       ],
       "opportunity_flag": false,
       "detailed_summary": "Um incêndio destruiu o mais antigo mercado coberto de alimentos de Paris, no Marais, deixando comerciantes arrasados. Há inquérito em curso e o mercado pode permanecer fechado durante meses. «Incêndio noturno devasta mercado coberto mais antigo de Paris» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Incêndio noturno devasta mercado coberto mais antigo de Paris», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 5.38,
+      "editorial_score": 3.77,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -345,9 +266,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 5,
+    "Moçambique": 4,
     "África": 1,
-    "Mundo": 4
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

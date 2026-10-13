@@ -1,68 +1,27 @@
 {
-  "updated_at": "2026-10-13T02:28:01.756319+00:00",
+  "updated_at": "2026-10-13T10:13:15.940003+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "summary": "Emergency services responded to a Russian drone strike on a residential building in Kharkiv, north-eastern Ukraine on Monday Russia struck six Ukrainian energy facilities hours after US President Donald Trump announced the two countries had agreed to an energy ceasefire, Volodymyr Zelensky has said Despite Trump stating on Sunday the truce would be \"effective immediately\", the Ukrainian president said Russia had hit \"our gas stations, energy infrastructure, and other facilities\" There were blackouts in the city of Izyum after a Russian strike destroyed power grids, Ukraine's state news agency Ukrinform said, while energy and railway infrastructure in western Ukraine was also targeted overnight On Monday, Russia's Foreign Minister Sergei Lavrov said Ukraine does not deserve the \"respite\" a ceasefire would bring What's behind Trump's energy ceasefire claim?",
-      "why": "«Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-12T21:20:51+00:00",
-      "age_hours": 5.1,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 4,
-      "source_count": 2,
-      "sources": [
-        "BBC World",
-        "DW English"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "BBC World",
-          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-          "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
-          "link": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Emergency services responded to a Russian drone strike on a residential building in Kharkiv, north-eastern Ukraine on Monday Russia struck six Ukrainian energy facilities hours after US President Donald Trump announced the two countries had agreed to an energy ceasefire, Volodymyr Zelensky has said Despite Trump stating on Sunday the truce would be \"effective immediately\", the Ukrainian president said Russia had hit \"our gas stations, energy infrastructure, and other facilities\" There were blackouts in the city of Izyum after a Russian strike destroyed power grids, Ukraine's state news agency Ukrinform said, while energy and railway infrastructure in western Ukraine was also targeted overnight On Monday, Russia's Foreign Minister Sergei Lavrov said Ukraine does not deserve the \"respite\" a ceasefire would bring What's behind Trump's energy ceasefire claim? «Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says» matters because it may change energy and investment decisions affecting Mundo. For «Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 14.44,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia",
+        "Segurança"
       ],
-      "title": "Mozambique: Mozal and Gapi-SI reinforce funding for entrepreneurship",
-      "summary": "Mozal and Gapi reaffirmed their commitment to financing entrepreneurship and the development of small businesses by delivering 20 financing checks and four grant checks, totalling approximately 10.3 million meticais, to entrepreneurs in the municipalities of Boane and Matola, within the scope of the Nhluvuko Project The fourth check delivery ceremony of the project represents another step in the joint efforts of Mozal and Gapi-SI to expand access to financing, strengthen micro and small businesses, and promote job creation, with particular attention to the economic participation of young people and women Launched in 2023, Nhluvuko is the result of a partnership between Mozal, Gapi-SI, and the Government, and was designed to address one of the main challenges faced by small entrepreneurs: access to adequate financial resources to start, consolidate, and expand their businesses.",
-      "why": "«Mozambique: Mozal and Gapi-SI reinforce funding for entrepreneurship» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Mozambique: Mozal and Gapi-SI reinforce funding for entrepreneurship», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Mozambique’s Team Mentes Brilhantes among 16 top high school innovators competing for ExxonMobil STEM Africa title at AEW 2026",
+      "summary": "The 16 finalists were selected from an initial pool of approximately 10,000 African high school students, competing in online STEM quizzes, in-person Zonal Competitions and National STEM Innovation Camps, where the students were challenged to think creatively and develop solutions to solve real-world challenges being faced across the continent ExxonMobil and the ExxonMobil Foundation have collectively spent $1.6 billion since 2000 in support of education in the areas in which ExxonMobil operates throughout the world, helping to refill the pipeline of engineers and scientists through STEM education for the next generation “We cannot do this work without really strong implementing partners in each of our countries,” Alvin Abraham, President of the ExxonMobil Foundation said, thanking each of the partners for their commitment to increasing STEM education in their respective countries, as well as ExxonMobil volunteers and employees who helped the students with their projects Team Ixietu from Angola tackled an issue central to food security and developed an AI-powered soil analysis…",
+      "why": "«Mozambique’s Team Mentes Brilhantes among 16 top high school innovators competing for ExxonMobil STEM…» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Mozambique’s Team Mentes Brilhantes among 16 top high school innovators competing for ExxonMobil STEM…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-10-12T13:21:17+00:00",
-      "age_hours": 13.1,
+      "published": "2026-10-13T09:00:37+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-mozal-and-gapi-si-reinforce-funding-for-entrepreneurship/",
+      "link": "https://clubofmozambique.com/news/mozambiques-team-mentes-brilhantes-among-16-top-high-school-innovators-competing-for-exxonmobil-stem-africa-title-at-aew-2026/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -71,68 +30,38 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Mozal and Gapi reaffirmed their commitment to financing entrepreneurship and the development of small businesses by delivering 20 financing checks and four grant checks, totalling approximately 10.3 million meticais, to entrepreneurs in the municipalities of Boane and Matola, within the scope of the Nhluvuko Project The fourth check delivery ceremony of the project represents another step in the joint efforts of Mozal and Gapi-SI to expand access to financing, strengthen micro and small businesses, and promote job creation, with particular attention to the economic participation of young people and women Launched in 2023, Nhluvuko is the result of a partnership between Mozal, Gapi-SI, and the Government, and was designed to address one of the main challenges faced by small entrepreneurs: access to adequate financial resources to start, consolidate, and expand their businesses. «Mozambique: Mozal and Gapi-SI reinforce funding for entrepreneurship» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Mozal and Gapi-SI reinforce funding for entrepreneurship», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 12.27,
+      "detailed_summary": "The 16 finalists were selected from an initial pool of approximately 10,000 African high school students, competing in online STEM quizzes, in-person Zonal Competitions and National STEM Innovation Camps, where the students were challenged to think creatively and develop solutions to solve real-world challenges being faced across the continent ExxonMobil and the ExxonMobil Foundation have collectively spent $1.6 billion since 2000 in support of education in the areas in which ExxonMobil operates throughout the world, helping to refill the pipeline of engineers and scientists through STEM education for the next generation “We cannot do this work without really strong implementing partners in each of our countries,” Alvin Abraham, President of the ExxonMobil Foundation said, thanking each of the partners for their commitment to increasing STEM education in their respective countries, as well as ExxonMobil volunteers and employees who helped the students with their projects Team Ixietu from Angola tackled an issue central to food security and developed an AI-powered soil analysis… «Mozambique’s Team Mentes Brilhantes among 16 top high school innovators competing for ExxonMobil STEM…» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique’s Team Mentes Brilhantes among 16 top high school innovators competing for ExxonMobil STEM…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 14.75,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
-        "Economia",
-        "Segurança"
+        "IA",
+        "Economia"
       ],
-      "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-      "summary": "Trump announced a new deal for diesel with Russian President Putin on Friday With elections that will decide control of Congress just weeks away and American voters already casting ballots in some battlegrounds, President Donald Trump has turned his eyes overseas – and to Russia, in particular - for help tackling one of his most pressing problems World affairs seldom provide easy answers, however, and developments elsewhere have threatened to undermine his efforts to bring down fuel prices before they provide any political benefit A whirlwind weekend started on Friday afternoon, as Trump announced a new deal with Russian President Vladimir Putin that would provide the US with hundreds of millions of tons of Russian diesel fuel in the coming months High energy prices, particularly for midwestern agricultural states that rely on diesel to power farm machinery and carry their goods to market, have been a growing source of frustration for American voters Polls suggest they view the Iran War as the leading cause for their woes, and overall support for Trump, and approval of his handling…",
-      "why": "«Analysis: Trump's global headaches worsen weeks before crucial elections» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Analysis: Trump's global headaches worsen weeks before crucial elections», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-12T21:07:25+00:00",
-      "age_hours": 5.3,
+      "title": "Germany news: Economy set for stronger growth, wine harvest hit by drought",
+      "summary": "Germany's economic outlook is looking a little brighter, with the International Monetary Fund almost doubling its growth forecast. However, Germany's winegrowers are facing another disappointing harvest. DW has more International Monetary Fund raises Germany's 2026 growth forecast to 1.3%, up from just 0.7% in July Investment in infrastructure and defense, stronger exports and demand linked to artificial intelligence are helping the recovery Germany's 2026 wine harvest is expected to be around 20% below the ten-year average Here is a roundup of top stories from and about Germany on Tuesday, October 13, 2026: Tired of missing our real-time updates?",
+      "why": "«Germany news: Economy set for stronger growth, wine harvest hit by drought» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «Germany news: Economy set for stronger growth, wine harvest hit by drought», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "source": "DW English",
+      "published": "2026-10-13T06:38:00+00:00",
+      "age_hours": 3.6,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.dw.com/en/germany-news-economy-set-for-stronger-growth-wine-harvest-hit-by-drought/live-79647092?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
       "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "BBC World"
+        "DW English"
       ],
-      "primary_source": "BBC World",
+      "primary_source": "DW English",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Trump announced a new deal for diesel with Russian President Putin on Friday With elections that will decide control of Congress just weeks away and American voters already casting ballots in some battlegrounds, President Donald Trump has turned his eyes overseas – and to Russia, in particular - for help tackling one of his most pressing problems World affairs seldom provide easy answers, however, and developments elsewhere have threatened to undermine his efforts to bring down fuel prices before they provide any political benefit A whirlwind weekend started on Friday afternoon, as Trump announced a new deal with Russian President Vladimir Putin that would provide the US with hundreds of millions of tons of Russian diesel fuel in the coming months High energy prices, particularly for midwestern agricultural states that rely on diesel to power farm machinery and carry their goods to market, have been a growing source of frustration for American voters Polls suggest they view the Iran War as the leading cause for their woes, and overall support for Trump, and approval of his handling… «Analysis: Trump's global headaches worsen weeks before crucial elections» matters because it may change energy and investment decisions affecting Mundo. For «Analysis: Trump's global headaches worsen weeks before crucial elections», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.9,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
-      "summary": "The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny",
-      "why": "«Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-13T01:46:25+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny. «Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?» deserves attention because it may change political, diplomatic or security risks. For «Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 11.85,
+      "opportunity_flag": true,
+      "detailed_summary": "Germany's economic outlook is looking a little brighter, with the International Monetary Fund almost doubling its growth forecast. However, Germany's winegrowers are facing another disappointing harvest. DW has more International Monetary Fund raises Germany's 2026 growth forecast to 1.3%, up from just 0.7% in July Investment in infrastructure and defense, stronger exports and demand linked to artificial intelligence are helping the recovery Germany's 2026 wine harvest is expected to be around 20% below the ten-year average Here is a roundup of top stories from and about Germany on Tuesday, October 13, 2026: Tired of missing our real-time updates? «Germany news: Economy set for stronger growth, wine harvest hit by drought» points to a concrete change in the adoption, regulation or use of technology. For «Germany news: Economy set for stronger growth, wine harvest hit by drought», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "editorial_score": 14.25,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -141,15 +70,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Mozambique: Loveira attends V20 Ministerial Dialogue in Bangkok on sidelines of IMF, World Bank meetings",
-      "summary": "The V20 operates in partnership with the Climate Vulnerable Forum (CVF). The meeting, titled “Development and Delivery in a Multipolar World”, is taking place on the sidelines of the Annual Meetings of the International Monetary Fund (IMF) and the World Bank Group Against a backdrop of increasingly frequent and intense climate shocks, the V20 meeting focuses on the challenges associated with mobilising the financial resources needed to support economic development, industrialisation and the strengthening of resilience in developing countries vulnerable to the effects of climate change In this context, finance ministers are seeking not only to increase the volume of available financing, but also to improve the mechanisms through which it is mobilised and deployed.",
-      "why": "«Mozambique: Loveira attends V20 Ministerial Dialogue in Bangkok on sidelines of IMF, World Bank meetings» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Mozambique: Loveira attends V20 Ministerial Dialogue in Bangkok on sidelines of IMF, World Bank meetings», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Chissano in Lisbon calls for win-win business partnerships between Mozambique and Portugal",
+      "summary": "Former Mozambican President Joaquim Chissano on Monday called for partnerships between Portuguese and Mozambican companies to transform Mozambique’s resources within the country “Mozambican companies must emerge in partnership with Portuguese companies, and a time must come when Mozambicans can also invest in Portugal,” Chissano said during the debate “Portugal-Mozambique: Dialogue, Cooperation and Development”, at the Mário Soares and Maria Barroso Foundation in Lisbon Former Mozambican President Joaquim Chissano, accompanied by PS National Secretary Jamila Madeira, arrives to take part in the conference “Portugal-Mozambique: Dialogue, Cooperation and Development”, organised by the Mário Soares and Maria Barroso Foundation, in Lisbon, Potugal, 12 October 2026.",
+      "why": "«Chissano in Lisbon calls for win-win business partnerships between Mozambique and Portugal» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Chissano in Lisbon calls for win-win business partnerships between Mozambique and Portugal», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
-      "published": "2026-10-12T15:58:44+00:00",
-      "age_hours": 10.5,
+      "published": "2026-10-13T09:34:28+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-loveira-attends-v20-ministerial-dialogue-in-bangkok-on-sidelines-of-imf-world-bank-meetings/",
+      "link": "https://clubofmozambique.com/news/chissano-in-lisbon-calls-for-win-win-business-partnerships-between-mozambique-and-portugal/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -160,9 +89,38 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "The V20 operates in partnership with the Climate Vulnerable Forum (CVF). The meeting, titled “Development and Delivery in a Multipolar World”, is taking place on the sidelines of the Annual Meetings of the International Monetary Fund (IMF) and the World Bank Group Against a backdrop of increasingly frequent and intense climate shocks, the V20 meeting focuses on the challenges associated with mobilising the financial resources needed to support economic development, industrialisation and the strengthening of resilience in developing countries vulnerable to the effects of climate change In this context, finance ministers are seeking not only to increase the volume of available financing, but also to improve the mechanisms through which it is mobilised and deployed. «Mozambique: Loveira attends V20 Ministerial Dialogue in Bangkok on sidelines of IMF, World Bank meetings» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Loveira attends V20 Ministerial Dialogue in Bangkok on sidelines of IMF, World Bank meetings», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.81,
+      "detailed_summary": "Former Mozambican President Joaquim Chissano on Monday called for partnerships between Portuguese and Mozambican companies to transform Mozambique’s resources within the country “Mozambican companies must emerge in partnership with Portuguese companies, and a time must come when Mozambicans can also invest in Portugal,” Chissano said during the debate “Portugal-Mozambique: Dialogue, Cooperation and Development”, at the Mário Soares and Maria Barroso Foundation in Lisbon Former Mozambican President Joaquim Chissano, accompanied by PS National Secretary Jamila Madeira, arrives to take part in the conference “Portugal-Mozambique: Dialogue, Cooperation and Development”, organised by the Mário Soares and Maria Barroso Foundation, in Lisbon, Potugal, 12 October 2026. «Chissano in Lisbon calls for win-win business partnerships between Mozambique and Portugal» helps explain a concrete economic or business change relevant to Moçambique. For «Chissano in Lisbon calls for win-win business partnerships between Mozambique and Portugal», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 13.88,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Mapping Africa’s energy wealth and 560 million who remain without power",
+      "summary": "Africa is rich in energy, yet hundreds of millions Africans still live without electricity, most of the world's total",
+      "why": "«Mapping Africa’s energy wealth and 560 million who remain without power» matters because it may change energy and investment decisions affecting África.",
+      "impact": "For «Mapping Africa’s energy wealth and 560 million who remain without power», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-13T08:25:54+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/13/mapping-africas-energy-wealth-and-560-million-who-remain-without-power?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Africa is rich in energy, yet hundreds of millions Africans still live without electricity, most of the world's total. «Mapping Africa’s energy wealth and 560 million who remain without power» matters because it may change energy and investment decisions affecting África. For «Mapping Africa’s energy wealth and 560 million who remain without power», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "editorial_score": 13.62,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -170,17 +128,89 @@
       "tags": [
         "Segurança"
       ],
-      "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
-      "summary": "Prime Minister Andy Burnham told parliament there were \"strong indications\" of Iranian involvement. The government summoned Iran's ambassador. The scare at RAF Fairford led to the withdrawal of USAF B-1 heavy bombers The British government has accused Iran of involvement in a security alert outside a UK/US airbase in southern England last month , summoning the ambassador and announcing sanctions against two individuals Five British nationals were arrested in the vicinity of the RAF Fairford airbase on September 27 on suspicion of terrorism and explosives offenses.",
-      "why": "«UK: Iran 'highly likely' to be behind RAF Fairford incident» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «UK: Iran 'highly likely' to be behind RAF Fairford incident», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-12T19:02:00+00:00",
-      "age_hours": 7.4,
+      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "summary": "CJP members were detained after they managed to \"sneak\" into Jantar Mantar on Tuesday morning Leaders of India's Cockroach Janta Party (CJP) were detained early on Tuesday after they entered a heavily-guarded protest site and chanted slogans demanding the country's election chief resign over a controversial revision of electoral rolls Party founder Abhijeet Dipke shared a video showing Ashutosh Ranka and Saurav Das being taken away by police from Jantar Mantar, a historic Delhi observatory popular for protests Footage showed the two - along with others - climbing over police barricades before chanting slogans while holding the Indian flag Prime Minister Narendra Modi's opponents allege the voter list revision benefits his party, a charge it and the Election Commission reject There have been days of protests demanding Chief Election Commissioner Gyanesh Kumar's resignation Police have stepped up security across Delhi as demonstrators challenge restrictions on where protests can be held Early on Tuesday, Dipke, Das and Ranka all shared videos showing Das and Ranka entering Jantar…",
+      "why": "«India 'cockroach' leaders detained after entering barricaded protest site» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «India 'cockroach' leaders detained after entering barricaded protest site», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-13T07:31:10+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-008",
+      "event_id": "evt-mundo-004",
+      "cluster_size": 3,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "DW English"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "DW English",
+          "title": "India opposition to huddle over tea after thousands march in their Delhi protest",
+          "link": "https://www.dw.com/en/india-opposition-to-huddle-over-tea-after-thousands-march-in-their-delhi-protest/live-79646819?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "source": "BBC World",
+          "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+          "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "CJP members were detained after they managed to \"sneak\" into Jantar Mantar on Tuesday morning Leaders of India's Cockroach Janta Party (CJP) were detained early on Tuesday after they entered a heavily-guarded protest site and chanted slogans demanding the country's election chief resign over a controversial revision of electoral rolls Party founder Abhijeet Dipke shared a video showing Ashutosh Ranka and Saurav Das being taken away by police from Jantar Mantar, a historic Delhi observatory popular for protests Footage showed the two - along with others - climbing over police barricades before chanting slogans while holding the Indian flag Prime Minister Narendra Modi's opponents allege the voter list revision benefits his party, a charge it and the Election Commission reject There have been days of protests demanding Chief Election Commissioner Gyanesh Kumar's resignation Police have stepped up security across Delhi as demonstrators challenge restrictions on where protests can be held Early on Tuesday, Dipke, Das and Ranka all shared videos showing Das and Ranka entering Jantar… «India 'cockroach' leaders detained after entering barricaded protest site» deserves attention because it may change political, diplomatic or security risks. For «India 'cockroach' leaders detained after entering barricaded protest site», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 12.94,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Three Mozambicans repatriated after being victims of human trafficking",
+      "summary": "Maputo, 13 Oct (AIM) – The Mozambican government has announced the repatriation of three nationals who were victims of human trafficking in the Central African Republic. In a statement, the Ministry of Foreign Affairs explains that these individuals’ return follows several weeks of consultations and coordination among Mozambican authorities, the International Organization for Migration (IOM), and the government of the Central African Republic. “They all ensured the identification, protection, and safe return of the citizens. The citizens are now in their home region, central province of Manica province, since Thursday, October 8”, reads the note. The three Mozambicans are part of an initial group of 14 people. Of that total, seven returned to the country on their own, while four remain missing.",
+      "why": "«Three Mozambicans repatriated after being victims of human trafficking» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Three Mozambicans repatriated after being victims of human trafficking», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-13T09:17:39+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/13/three-mozambicans-repatriated-after-being-victims-of-human-trafficking/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 13 Oct (AIM) – The Mozambican government has announced the repatriation of three nationals who were victims of human trafficking in the Central African Republic. In a statement, the Ministry of Foreign Affairs explains that these individuals’ return follows several weeks of consultations and coordination among Mozambican authorities, the International Organization for Migration (IOM), and the government of the Central African Republic. “They all ensured the identification, protection, and safe return of the citizens. The citizens are now in their home region, central province of Manica province, since Thursday, October 8”, reads the note. The three Mozambicans are part of an initial group of 14 people. Of that total, seven returned to the country on their own, while four remain missing. «Three Mozambicans repatriated after being victims of human trafficking» is worth following because of its possible economic, institutional or regional effects. For «Three Mozambicans repatriated after being victims of human trafficking», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.81,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Germany's China calculation shifts as import pressures eclipse export benefits",
+      "summary": "Germany long resisted tougher action against China because of retaliation fears. But rising pressure on key industries has pushed Berlin and Paris to seek stronger EU trade-defense powers to protect its industrial base Germany's cautious approach toward Beijing is cracking. For years, Berlin blocked a harder line on what the European Union describes as China's unfair trade practices In the last few months, that caution — a fear of Chinese retaliation that could hurt German exporters — has given way to a willingness to escalate Last week, Chancellor Friedrich Merz and French President Emmanuel Macron wrote jointly to European Commission President Ursula von der Leyen seeking a new tool to cut a trading partner off from the EU's single market if unfair practices continue Clearly aimed at Beijing, the letter warned the measure was necessary against countries that \"deliberately seek to undermine ...",
+      "why": "«Germany's China calculation shifts as import pressures eclipse export benefits» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Germany's China calculation shifts as import pressures eclipse export benefits», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-13T08:47:00+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -189,8 +219,66 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Prime Minister Andy Burnham told parliament there were \"strong indications\" of Iranian involvement. The government summoned Iran's ambassador. The scare at RAF Fairford led to the withdrawal of USAF B-1 heavy bombers The British government has accused Iran of involvement in a security alert outside a UK/US airbase in southern England last month , summoning the ambassador and announcing sanctions against two individuals Five British nationals were arrested in the vicinity of the RAF Fairford airbase on September 27 on suspicion of terrorism and explosives offenses. «UK: Iran 'highly likely' to be behind RAF Fairford incident» deserves attention because it may change political, diplomatic or security risks. For «UK: Iran 'highly likely' to be behind RAF Fairford incident», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 10.46,
+      "detailed_summary": "Germany long resisted tougher action against China because of retaliation fears. But rising pressure on key industries has pushed Berlin and Paris to seek stronger EU trade-defense powers to protect its industrial base Germany's cautious approach toward Beijing is cracking. For years, Berlin blocked a harder line on what the European Union describes as China's unfair trade practices In the last few months, that caution — a fear of Chinese retaliation that could hurt German exporters — has given way to a willingness to escalate Last week, Chancellor Friedrich Merz and French President Emmanuel Macron wrote jointly to European Commission President Ursula von der Leyen seeking a new tool to cut a trading partner off from the EU's single market if unfair practices continue Clearly aimed at Beijing, the letter warned the measure was necessary against countries that \"deliberately seek to undermine ... «Germany's China calculation shifts as import pressures eclipse export benefits» deserves attention because it may change political, diplomatic or security risks. For «Germany's China calculation shifts as import pressures eclipse export benefits», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 12.71,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay",
+      "summary": "Al-Nassr's AFC Champions League game in Riyadh was delayed for one hour due to a security warning amid Houthi attacks",
+      "why": "«Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-13T08:27:37+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Al-Nassr's AFC Champions League game in Riyadh was delayed for one hour due to a security warning amid Houthi attacks. «Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay» deserves attention because it may change political, diplomatic or security risks. For «Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 12.62,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "The escalation in Yemen is a turning point",
+      "summary": "The risk of a region-wide war is increasing, but if cooler heads prevail, a peaceful arrangement can still be reached",
+      "why": "«The escalation in Yemen is a turning point» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «The escalation in Yemen is a turning point», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-13T08:42:55+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The risk of a region-wide war is increasing, but if cooler heads prevail, a peaceful arrangement can still be reached. «The escalation in Yemen is a turning point» deserves attention because it may change political, diplomatic or security risks. For «The escalation in Yemen is a turning point», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.69,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -205,7 +293,7 @@
       "impact": "For «Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-10-11T21:12:44+00:00",
-      "age_hours": 29.3,
+      "age_hours": 37.0,
       "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -219,7 +307,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "File photo of gold prospectors in northern Sudan At least 72 civilians who had been prospecting for gold in a border region of Sudan have been killed in air strikes, a regional rights group says Emergency Lawyers, based in the Sudanese capital, Khartoum, said jets targeted the so-called artisanal miners at a popular gold mining site in Red Sea state on Saturday Neither the Egyptian government nor the de facto Sudanese authorities have so far commented Cairo has previously faced accusations of deadly strikes on gold prospectors as part of a crackdown on illicit activity along its southern border Emergency Lawyers noted the previous alleged attacks and said they represented not only a violation of Sudan's sovereign territory but demonstrated the government's lack of control over the region \"The deliberate targeting of unarmed civilians violates international humanitarian law and the right to life,\" it said in a statement on Sunday. «Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says» is worth following because of its possible economic, institutional or regional effects. For «Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 7.33,
+      "editorial_score": 7.09,
       "source_tier": "A",
       "editorial_status": "ACTUALIZAÇÃO"
     }
@@ -243,9 +331,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 2,
+    "Moçambique": 3,
     "África": 2,
-    "Mundo": 3
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

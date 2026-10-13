@@ -1,9 +1,46 @@
 {
-  "updated_at": "2026-10-13T02:28:14.544938+00:00",
+  "updated_at": "2026-10-13T10:13:47.784395+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Regulação & decretos",
+      "title": "Mozambique: Industrial licences to be automatically approved if state misses statutory deadlines; digital licences to carry QR codes",
+      "summary": "Applications for industrial licences in Mozambique will be automatically approved from November if the state fails to respond within the statutory deadlines, and licences will be issued digitally with QR codes, under a new regulation. The Regulation on Industrial Activity Licensing, obtained by Lusa on Tuesday, replaces the framework in force since 2014, introducing changes… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique: Industrial licences to be automatically approved if state misses statutory deadlines; digital licences to carry QR cod” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique: Industrial licences to be automatically approved if state misses statutory deadlines; digital licences to ca”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-13T08:11:27+00:00",
+      "age_hours": 2.0,
+      "link": "https://clubofmozambique.com/news/mozambique-industrial-licences-to-be-automatically-approved-if-state-misses-statutory-deadlines-digital-licences-to-carry-qr-codes/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 8
+    },
+    {
+      "section": "Moçambique",
+      "category": "Investimentos",
+      "title": "Mozambique seeks investors for mineral value addition and processing as Nacala hosts COVAME-d conference",
+      "summary": "The government, through the Ministry of Mineral Resources and Energy (MIREME), and its partners have said that the conditions are in place for the Conference on Adding Value to Mineral and Energy Resources (COVAME-d), to be held from 19 to 24 October in Nacala-Porto, Nampula province, to promote value addition and the processing of the… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique seeks investors for mineral value addition and processing as Nacala hosts COVAME-d conference” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique seeks investors for mineral value addition and processing as Nacala hosts COVAME-d conference”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-13T06:39:45+00:00",
+      "age_hours": 3.6,
+      "link": "https://clubofmozambique.com/news/mozambique-seeks-investors-for-mineral-value-addition-and-processing-as-nacala-hosts-covame-d-conference/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 8
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",
