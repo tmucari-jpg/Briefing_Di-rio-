@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T10:13:08.017852+00:00",
+  "updated_at": "2026-10-13T17:59:54.292319+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,19 +8,19 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região",
-      "summary": "ELIAS NHACA O LANÇAMENTO ontem, da dragagem de aprofundamento do canal de acesso ao Porto de Maputo representa uma etapa fundamental no processo de aprimoramento da conectividade de Moçambique com a região e o mundo, movimentando o comércio e atraindo investimentos. Com esta operação, orçada em 150 milhões de dólares, que prevê o aumento da profundidade do canal de 14,4 para 15,3 metros, significa, igualmente, este terminal oceânico está a ser preparado não apenas para responder às necessidades actuais, mas também para competir no cenário internacional, nas próximas décadas. Segundo o Chefe do Estado, Daniel Chapo, a quem coube dar a voz de comando, através do rádio transmissor, para o início da dragagem, a obra poderá não ser visível à superfície, mas os seus efeitos reflectir-se-ão na economia. “Estamos a construir um Moçambique economicamente mais independente, produtivo, competitivo e cada vez mais capaz de transformar as suas potencialidades em prosperidade partilhada para o seu povo”, destacou.",
-      "why": "«APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "PR: África regista aumento de desastres naturais e danos",
+      "summary": "O IV Relatório Bienal de África, sobre a Implementação do Programa de Acção do Quadro de Sendai para a Redução do Risco de Desastres 2023-2024, lançado hoje em Maputo, indica que as cheias, ciclones tropicais e secas representaram 90% do total de causas de danos por desastres em África. O dado foi avançado hoje pelo Presidente da República, no âmbito do 13 de Outubro, Dia Internacional de Redução do Risco de Desastres. Chapo frisou que, o número de ocorrências aumentou aumentou de 612 para 738 eventos, que causaram mais de 74 mil mortes a nível do continente, afectando cerca de 64 milhões de pessoas e perdas económicas superiores a oito mil milhões de dólares, durante o período em análise. “Em Moçambique, no período em referência, registou-se vários ciclones de grandes proporções e dimensões, tais como Idai, Kenneth, Fred e Chido, cujos efeitos destruidores se fizeram sentir em outros países da região, como Madagáscar, Malawi, Zimbabwe, Zâmbia e África do Sul, só para dar alguns exemplos”, apontou.",
+      "why": "«PR: África regista aumento de desastres naturais e danos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «PR: África regista aumento de desastres naturais e danos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-13T07:22:52+00:00",
-      "age_hours": 2.8,
+      "published": "2026-10-13T14:47:24+00:00",
+      "age_hours": 3.2,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/aprofundamento-do-canal-de-acesso-porto-de-maputo-posiciona-se-para-melhor-servir-a-regiao/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/pr-africa-regista-aumento-de-desastres-naturais-e-danos/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -28,97 +28,9 @@
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "ELIAS NHACA O LANÇAMENTO ontem, da dragagem de aprofundamento do canal de acesso ao Porto de Maputo representa uma etapa fundamental no processo de aprimoramento da conectividade de Moçambique com a região e o mundo, movimentando o comércio e atraindo investimentos. Com esta operação, orçada em 150 milhões de dólares, que prevê o aumento da profundidade do canal de 14,4 para 15,3 metros, significa, igualmente, este terminal oceânico está a ser preparado não apenas para responder às necessidades actuais, mas também para competir no cenário internacional, nas próximas décadas. Segundo o Chefe do Estado, Daniel Chapo, a quem coube dar a voz de comando, através do rádio transmissor, para o início da dragagem, a obra poderá não ser visível à superfície, mas os seus efeitos reflectir-se-ão na economia. “Estamos a construir um Moçambique economicamente mais independente, produtivo, competitivo e cada vez mais capaz de transformar as suas potencialidades em prosperidade partilhada para o seu povo”, destacou. «APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «APROFUNDAMENTO DO CANAL DE ACESSO: Porto de Maputo posiciona-se para melhor servir a região», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 14.42,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Economia"
-      ],
-      "title": "Rússia procura reforçar cooperação com a China na construção naval e no Ártico",
-      "summary": "A Rússia pretende reforçar a cooperação com a China na construção naval, através de parcerias tecnológicas e investimentos conjuntos, incluindo o desenvolvimento de navios destinados à navegação no Ártico, afirmou um assessor do Presidente russo, Vladimir Putin Nikolai Patrushev, assessor presidencial e presidente do Conselho Marítimo da Rússia, reuniu-se este fim de semana em Pequim com o vice-ministro chinês da Indústria e Tecnologias de Informação, Ke Jixin, de acordo com um comunicado divulgado hoje pelo organismo russo Durante o encontro, os dois responsáveis discutiram a possibilidade de empresas chinesas de construção naval tornarem-se parceiras tecnológicas e fornecedoras de equipamentos para novas instalações industriais na Rússia A cooperação marítima constituiu o principal objetivo da visita de seis dias de Patrushev à China, iniciada na quinta-feira, em Xangai Na cidade chinesa, o responsável visitou o estaleiro Waigaoqiao Shipbuilding, um dos maiores do país, onde reconheceu que a cooperação bilateral na construção naval continua a ser \"bastante limitada\", mas…",
-      "why": "«Rússia procura reforçar cooperação com a China na construção naval e no Ártico» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Rússia procura reforçar cooperação com a China na construção naval e no Ártico», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-13T08:21:29+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/russia-procura-reforcar-cooperacao-com-a-china-na-construcao-naval-e-no-artico_n1771344",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A Rússia pretende reforçar a cooperação com a China na construção naval, através de parcerias tecnológicas e investimentos conjuntos, incluindo o desenvolvimento de navios destinados à navegação no Ártico, afirmou um assessor do Presidente russo, Vladimir Putin Nikolai Patrushev, assessor presidencial e presidente do Conselho Marítimo da Rússia, reuniu-se este fim de semana em Pequim com o vice-ministro chinês da Indústria e Tecnologias de Informação, Ke Jixin, de acordo com um comunicado divulgado hoje pelo organismo russo Durante o encontro, os dois responsáveis discutiram a possibilidade de empresas chinesas de construção naval tornarem-se parceiras tecnológicas e fornecedoras de equipamentos para novas instalações industriais na Rússia A cooperação marítima constituiu o principal objetivo da visita de seis dias de Patrushev à China, iniciada na quinta-feira, em Xangai Na cidade chinesa, o responsável visitou o estaleiro Waigaoqiao Shipbuilding, um dos maiores do país, onde reconheceu que a cooperação bilateral na construção naval continua a ser \"bastante limitada\", mas… «Rússia procura reforçar cooperação com a China na construção naval e no Ártico» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Rússia procura reforçar cooperação com a China na construção naval e no Ártico», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 12.6,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "FMI avisa que economia mundial está presa por fios",
-      "summary": "A economia mundial ainda está a crescer, mas pode não aguentar muito mais. O aviso é do Fundo Monetário Internacional, em Banguecoque, onde vai estar reunido toda a semana",
-      "why": "«FMI avisa que economia mundial está presa por fios» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «FMI avisa que economia mundial está presa por fios», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "RTP Notícias",
-      "published": "2026-10-13T08:17:55+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/economia/fmi-avisa-que-economia-mundial-esta-presa-por-fios_n1771346",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A economia mundial ainda está a crescer, mas pode não aguentar muito mais. O aviso é do Fundo Monetário Internacional, em Banguecoque, onde vai estar reunido toda a semana. «FMI avisa que economia mundial está presa por fios» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «FMI avisa que economia mundial está presa por fios», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.6,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Nampula: Procuradoria provincial cria força-tarefa para combate ao tráfico de drogas",
-      "summary": "Nampula (Moçambique), 12 OUT. (AIM) – A Procuradoria Provincial da República em Nampula criou uma força-tarefa multissectorial para combater o tráfico de drogas, numa altura em que a província figura entre as três do país com maior incidência de crimes relacionados com a venda e o consumo de substâncias proibidas, a par de Sofala e Tete. Segundo apurou a AIM, a criação da equipa surge num contexto de aumento dos processos-crime relacionados com drogas. Só nos primeiros oito meses do presente ano foram instaurados 140 processos contra indivíduos envolvidos no tráfico, venda e consumo de estupefacientes, contra 73 registados em igual período de 2025. Aires Boneth, ponto focal para as questões relacionadas com a investigação do tráfico, venda e consumo de drogas na Procuradoria Provincial de Nampula, disse à AIM que a formação dos integrantes da equipa multissectorial está prevista para os próximos dias, com o objectivo de reforçar a coordenação entre as instituições envolvidas no combate a este tipo de criminalidade.",
-      "why": "«Nampula: Procuradoria provincial cria força-tarefa para combate ao tráfico de drogas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Nampula: Procuradoria provincial cria força-tarefa para combate ao tráfico de drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-12T16:22:16+00:00",
-      "age_hours": 17.8,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/12/nampula-procuradoria-provincial-cria-forca-tarefa-para-combate-ao-trafico-de-drogas/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Nampula (Moçambique), 12 OUT. (AIM) – A Procuradoria Provincial da República em Nampula criou uma força-tarefa multissectorial para combater o tráfico de drogas, numa altura em que a província figura entre as três do país com maior incidência de crimes relacionados com a venda e o consumo de substâncias proibidas, a par de Sofala e Tete. Segundo apurou a AIM, a criação da equipa surge num contexto de aumento dos processos-crime relacionados com drogas. Só nos primeiros oito meses do presente ano foram instaurados 140 processos contra indivíduos envolvidos no tráfico, venda e consumo de estupefacientes, contra 73 registados em igual período de 2025. Aires Boneth, ponto focal para as questões relacionadas com a investigação do tráfico, venda e consumo de drogas na Procuradoria Provincial de Nampula, disse à AIM que a formação dos integrantes da equipa multissectorial está prevista para os próximos dias, com o objectivo de reforçar a coordenação entre as instituições envolvidas no combate a este tipo de criminalidade. «Nampula: Procuradoria provincial cria força-tarefa para combate ao tráfico de drogas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Nampula: Procuradoria provincial cria força-tarefa para combate ao tráfico de drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 10.29,
+      "detailed_summary": "O IV Relatório Bienal de África, sobre a Implementação do Programa de Acção do Quadro de Sendai para a Redução do Risco de Desastres 2023-2024, lançado hoje em Maputo, indica que as cheias, ciclones tropicais e secas representaram 90% do total de causas de danos por desastres em África. O dado foi avançado hoje pelo Presidente da República, no âmbito do 13 de Outubro, Dia Internacional de Redução do Risco de Desastres. Chapo frisou que, o número de ocorrências aumentou aumentou de 612 para 738 eventos, que causaram mais de 74 mil mortes a nível do continente, afectando cerca de 64 milhões de pessoas e perdas económicas superiores a oito mil milhões de dólares, durante o período em análise. “Em Moçambique, no período em referência, registou-se vários ciclones de grandes proporções e dimensões, tais como Idai, Kenneth, Fred e Chido, cujos efeitos destruidores se fizeram sentir em outros países da região, como Madagáscar, Malawi, Zimbabwe, Zâmbia e África do Sul, só para dar alguns exemplos”, apontou. «PR: África regista aumento de desastres naturais e danos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR: África regista aumento de desastres naturais e danos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.33,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -127,17 +39,53 @@
       "tags": [
         "Economia"
       ],
-      "title": "AR reforça a ética e competência do serviço de protocolo no parlamento",
-      "summary": "Maputo, 12 de Outubro (AIM) – A Assembleia da República (AR), parlamento moçambicano, iniciou, hoje, em Maputo, uma capacitação em protocolo, cerimonial e etiqueta institucional, destinada a 50 funcionários afectos aos serviços de protocolo, no âmbito da preparação da IV Sessão Ordinária do órgão legislativo. A formação visa reforçar as competências técnicas dos participantes e uniformizar os procedimentos de organização e acompanhamento dos actos oficiais. Na abertura da capacitação, o Secretário-Geral da Assembleia da República, António Mahumane, afirmou que o protocolo parlamentar abrange normas relacionadas com a precedência, o cerimonial e as relações institucionais. Segundo Mahumane, a Assembleia da República recebe titulares de órgãos de soberania, membros do Governo, representantes do corpo diplomático, delegações parlamentares estrangeiras e outros representantes de instituições, cujas visitas e actividades exigem procedimentos específicos de acolhimento e acompanhamento.",
-      "why": "«AR reforça a ética e competência do serviço de protocolo no parlamento» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «AR reforça a ética e competência do serviço de protocolo no parlamento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-12T19:34:15+00:00",
-      "age_hours": 14.6,
+      "title": "Conferência Redução do Risco de Desastres: SADC Defende Mais Investimento na Prevenção de Desastres Climáticos",
+      "summary": "A Comunidade de Desenvolvimento da África Austral (SADC) defendeu, esta terça-feira (13), em Maputo, o reforço dos investimentos na prevenção de desastres climáticos, alertando que a região continua a privilegiar […]",
+      "why": "«Conferência Redução do Risco de Desastres: SADC Defende Mais Investimento na Prevenção de Desastres…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Conferência Redução do Risco de Desastres: SADC Defende Mais Investimento na Prevenção de Desastres…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-10-13T13:45:00+00:00",
+      "age_hours": 4.2,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/12/ar-reforca-a-etica-e-competencia-do-servico-de-protocolo-no-parlamento/",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/13/economia/conservacao/conferencia-reducao-do-risco-de-desastres-sadc-defende-mais-investimento-na-prevencao-de-desastres-climaticos/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 2,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Diário Económico",
+          "title": "Conferência Redução do Risco de Desastres: União Africana Apela a Mais Investimento na Prevenção Para Proteger Economias",
+          "link": "https://www.diarioeconomico.co.mz/2026/10/13/economia/conservacao/conferencia-reducao-do-risco-de-desastres-uniao-africana-apela-a-mais-investimento-na-prevencao-para-proteger-economias/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "A Comunidade de Desenvolvimento da África Austral (SADC) defendeu, esta terça-feira (13), em Maputo, o reforço dos investimentos na prevenção de desastres climáticos, alertando que a região continua a privilegiar […]. «Conferência Redução do Risco de Desastres: SADC Defende Mais Investimento na Prevenção de Desastres…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Conferência Redução do Risco de Desastres: SADC Defende Mais Investimento na Prevenção de Desastres…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.12,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique seleccionado para apoio de 26 milhões à saúde",
+      "summary": "Maputo, 13 Out (AIM) – Moçambique foi seleccionado como um dos 17 países prioritários de uma iniciativa de apoio ao sector da saúde, que prevê a disponibilização de até 26 milhões de dólares para o primeiro ano, com vista a ampliar o acesso aos serviços essenciais, sobretudo nas comunidades vulneráveis e nas zonas de difícil acesso. A iniciativa, que envolve o Governo moçambicano e parceiros de cooperação, está a ser objecto de um workshop de cocriação, que decorre de 13 a 15 de Outubro, em Maputo, com o apoio do Governo dos Estados Unidos da América e da organização World Vision Moçambique. Durante a cerimónia de lançamento, José Manuel, representante do Ministério da Saúde, afirmou que a iniciativa deverá contribuir para fortalecer os cuidados de saúde primários, aproximar os serviços das comunidades e reforçar a ligação entre as unidades sanitárias e as populações. O responsável explicou que a iniciativa se enquadra nos esforços de fortalecimento do Sistema Nacional de Saúde, com maior liderança e capacidade de financiamento por parte de Moçambique.",
+      "why": "«Moçambique seleccionado para apoio de 26 milhões à saúde» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Moçambique seleccionado para apoio de 26 milhões à saúde», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-13T17:58:47+00:00",
+      "age_hours": 0.0,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/13/mocambique-seleccionado-para-apoio-de-26-milhoes-a-saude/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -145,9 +93,9 @@
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 12 de Outubro (AIM) – A Assembleia da República (AR), parlamento moçambicano, iniciou, hoje, em Maputo, uma capacitação em protocolo, cerimonial e etiqueta institucional, destinada a 50 funcionários afectos aos serviços de protocolo, no âmbito da preparação da IV Sessão Ordinária do órgão legislativo. A formação visa reforçar as competências técnicas dos participantes e uniformizar os procedimentos de organização e acompanhamento dos actos oficiais. Na abertura da capacitação, o Secretário-Geral da Assembleia da República, António Mahumane, afirmou que o protocolo parlamentar abrange normas relacionadas com a precedência, o cerimonial e as relações institucionais. Segundo Mahumane, a Assembleia da República recebe titulares de órgãos de soberania, membros do Governo, representantes do corpo diplomático, delegações parlamentares estrangeiras e outros representantes de instituições, cujas visitas e actividades exigem procedimentos específicos de acolhimento e acompanhamento. «AR reforça a ética e competência do serviço de protocolo no parlamento» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «AR reforça a ética e competência do serviço de protocolo no parlamento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.96,
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 13 Out (AIM) – Moçambique foi seleccionado como um dos 17 países prioritários de uma iniciativa de apoio ao sector da saúde, que prevê a disponibilização de até 26 milhões de dólares para o primeiro ano, com vista a ampliar o acesso aos serviços essenciais, sobretudo nas comunidades vulneráveis e nas zonas de difícil acesso. A iniciativa, que envolve o Governo moçambicano e parceiros de cooperação, está a ser objecto de um workshop de cocriação, que decorre de 13 a 15 de Outubro, em Maputo, com o apoio do Governo dos Estados Unidos da América e da organização World Vision Moçambique. Durante a cerimónia de lançamento, José Manuel, representante do Ministério da Saúde, afirmou que a iniciativa deverá contribuir para fortalecer os cuidados de saúde primários, aproximar os serviços das comunidades e reforçar a ligação entre as unidades sanitárias e as populações. O responsável explicou que a iniciativa se enquadra nos esforços de fortalecimento do Sistema Nacional de Saúde, com maior liderança e capacidade de financiamento por parte de Moçambique. «Moçambique seleccionado para apoio de 26 milhões à saúde» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique seleccionado para apoio de 26 milhões à saúde», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 13.0,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -156,17 +104,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Dezasseis professores assassinados desde 2017 em Cabo Delgado",
-      "summary": "Dezasseis professores foram assassinados desde 2017 na província de Cabo Delgado. A preocupação foi manifestada hoje, em Metuge, pela secretária provincial da Organização Nacional dos Professores (ONP), Atija Assane, durante as celebrações do Dia Nacional da organização, que se assinala a cada 12 de Outubro. Apesar de não haver registo de assassinatos de professores este ano, a ONP em Cabo Delgado alerta que os ataques terroristas continuam a ameaçar a segurança dos docentes e a comprometer o processo de ensino e aprendizagem. A dirigente afirma que a classe continua a sentir-se ameaçada e apela ao fim da violência para garantir a segurança dos profissionais e a continuidade das aulas. Assane revelou ainda que cerca de 48 professores morreram vítimas de diferentes doenças desde Outubro do ano passado, incluindo 10 mulheres. Por sua vez, o governador de Cabo Delgado, Valige Tauabo, anunciou a contratação de 215 professores em 2026, dos quais 87 são mulheres, e de 700 alfabetizadores.",
-      "why": "«Dezasseis professores assassinados desde 2017 em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Dezasseis professores assassinados desde 2017 em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "title": "RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento",
+      "summary": "A assistência humanitária às populações vítimas de terrorismo, cheias e inundações continua abaixo de 40% das necessidades nas províncias de Gaza, Nampula e Cabo Delgado. O alerta é do director-adjunto do projecto RESTORE na CARE, Vicente Adriano, falando hoje da iniciativa que alcançou mais de 100 mil pessoas em cuidados primários de saúde, apoiou com 18 mil insumos agrícolas e assistência monetária em Gaza e contribuiu para a construção de mais de 1.500 abrigos para vítimas de terrorismo. De acordo com Adriano, o projecto RESTORE investiu oito milhões de dólares no apoio às famílias afectadas pelo terrorismo e pelas cheias em Cabo Delgado, Nampula e Gaza, encerra seis meses de actividades. A fonte frisou que na componente de água, saneamento e higiene, foram reabilitadas mais de 36 fontes de água, enquanto as acções de protecção incluíram assistência psicossocial às famílias afectadas pelo conflito, com atenção especial às crianças e mulheres.",
+      "why": "«RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-12T10:53:28+00:00",
-      "age_hours": 23.3,
+      "published": "2026-10-13T14:45:10+00:00",
+      "age_hours": 3.2,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/dezasseis-professores-assassinados-desde-2017-em-cabo-delgado/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/restore-assistencia-as-vitimas-de-terrorismo-e-cheias-continua-abaixo-de-40-porcento/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -174,10 +122,222 @@
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Dezasseis professores foram assassinados desde 2017 na província de Cabo Delgado. A preocupação foi manifestada hoje, em Metuge, pela secretária provincial da Organização Nacional dos Professores (ONP), Atija Assane, durante as celebrações do Dia Nacional da organização, que se assinala a cada 12 de Outubro. Apesar de não haver registo de assassinatos de professores este ano, a ONP em Cabo Delgado alerta que os ataques terroristas continuam a ameaçar a segurança dos docentes e a comprometer o processo de ensino e aprendizagem. A dirigente afirma que a classe continua a sentir-se ameaçada e apela ao fim da violência para garantir a segurança dos profissionais e a continuidade das aulas. Assane revelou ainda que cerca de 48 professores morreram vítimas de diferentes doenças desde Outubro do ano passado, incluindo 10 mulheres. Por sua vez, o governador de Cabo Delgado, Valige Tauabo, anunciou a contratação de 215 professores em 2026, dos quais 87 são mulheres, e de 700 alfabetizadores. «Dezasseis professores assassinados desde 2017 em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Dezasseis professores assassinados desde 2017 em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 9.15,
+      "opportunity_flag": true,
+      "detailed_summary": "A assistência humanitária às populações vítimas de terrorismo, cheias e inundações continua abaixo de 40% das necessidades nas províncias de Gaza, Nampula e Cabo Delgado. O alerta é do director-adjunto do projecto RESTORE na CARE, Vicente Adriano, falando hoje da iniciativa que alcançou mais de 100 mil pessoas em cuidados primários de saúde, apoiou com 18 mil insumos agrícolas e assistência monetária em Gaza e contribuiu para a construção de mais de 1.500 abrigos para vítimas de terrorismo. De acordo com Adriano, o projecto RESTORE investiu oito milhões de dólares no apoio às famílias afectadas pelo terrorismo e pelas cheias em Cabo Delgado, Nampula e Gaza, encerra seis meses de actividades. A fonte frisou que na componente de água, saneamento e higiene, foram reabilitadas mais de 36 fontes de água, enquanto as acções de protecção incluíram assistência psicossocial às famílias afectadas pelo conflito, com atenção especial às crianças e mulheres. «RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 12.33,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Portugal desaconselha viagens à Arábia Saudita após ataques a aeroportos",
+      "summary": "O Ministério dos Negócios Estrangeiros (MNE) desaconselhou viagens à Arábia Saudita, na sequência dos ataques a aeroportos, apelando à comunidade portuguesa que evite deslocações não essenciais Segundo o aviso divulgado no Portal das Comunidades Portuguesas, face às atuais perturbações no tráfego aéreo, geradoras de adiamentos e cancelamentos de voos, o MNE aponta viagens terrestres como alternativa de transporte para entrar e sair da Arábia Saudita, \"que poderão ser equacionadas em função das necessidades individuais, sempre que as condições de segurança o permitam\" As recomendações surgem na sequência dos \"reiterados ataques\" com origem no Iémen a infraestruturas aeroportuárias na Arábia Saudita, incluindo ao Aeroporto Internacional King Khalid, em Riade, e o Aeroporto Internacional King Fahd, em Dammam O MNE apela à comunidade portuguesa para evitar deslocações não essenciais e para se manter atenta às orientações e instruções das autoridades locais, podendo a embaixada ser contactada através do número +966 54 756 6139 Para o Gabinete de Emergência Consular, que funciona 24…",
+      "why": "«Portugal desaconselha viagens à Arábia Saudita após ataques a aeroportos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Portugal desaconselha viagens à Arábia Saudita após ataques a aeroportos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-13T14:23:30+00:00",
+      "age_hours": 3.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/portugal-desaconselha-viagens-a-arabia-saudita-apos-ataques-a-aeroportos_n1771414",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 2,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Arábia Saudita interceta três mísseis lançados por Houthis após ataques",
+          "link": "https://www.rtp.pt/noticias/mundo/arabia-saudita-interceta-tres-misseis-lancados-por-houthis-apos-ataques_n1771324"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O Ministério dos Negócios Estrangeiros (MNE) desaconselhou viagens à Arábia Saudita, na sequência dos ataques a aeroportos, apelando à comunidade portuguesa que evite deslocações não essenciais Segundo o aviso divulgado no Portal das Comunidades Portuguesas, face às atuais perturbações no tráfego aéreo, geradoras de adiamentos e cancelamentos de voos, o MNE aponta viagens terrestres como alternativa de transporte para entrar e sair da Arábia Saudita, \"que poderão ser equacionadas em função das necessidades individuais, sempre que as condições de segurança o permitam\" As recomendações surgem na sequência dos \"reiterados ataques\" com origem no Iémen a infraestruturas aeroportuárias na Arábia Saudita, incluindo ao Aeroporto Internacional King Khalid, em Riade, e o Aeroporto Internacional King Fahd, em Dammam O MNE apela à comunidade portuguesa para evitar deslocações não essenciais e para se manter atenta às orientações e instruções das autoridades locais, podendo a embaixada ser contactada através do número +966 54 756 6139 Para o Gabinete de Emergência Consular, que funciona 24… «Portugal desaconselha viagens à Arábia Saudita após ataques a aeroportos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Portugal desaconselha viagens à Arábia Saudita após ataques a aeroportos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.25,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Joaquim Chissano homenageado em Portugal pelo contributo para a paz e a democracia",
+      "summary": "Maputo, 13 de Out (AIM) – O antigo Presidente de Moçambique, Joaquim Chissano, foi homenageado em Portugal, numa cerimónia realizada na Universidade Europeia, que contou com a presença do Presidente da República portuguesa, António José Seguro, em reconhecimento do seu contributo para a paz, a reconciliação e a consolidação da democracia. A homenagem ao antigo Chefe do Estado moçambicano constituiu uma oportunidade para transmitir às novas gerações a importância do diálogo, da responsabilidade e da liderança na construção de um futuro assente na paz. Durante a iniciativa, realizada na Universidade Europeia, foi destacado o papel de Joaquim Chissano na promoção da paz e da reconciliação, valores considerados fundamentais para a estabilidade e o desenvolvimento das sociedades democráticas. O encontro permitiu ainda colocar os jovens no centro da reflexão sobre os desafios da construção da paz, sublinhando a importância do diálogo e do exercício responsável da liderança na prevenção de conflitos e na promoção da convivência democrática.",
+      "why": "«Joaquim Chissano homenageado em Portugal pelo contributo para a paz e a democracia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Joaquim Chissano homenageado em Portugal pelo contributo para a paz e a democracia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-13T13:33:34+00:00",
+      "age_hours": 4.4,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/13/joaquim-chissano-homenageado-em-portugal-pelo-contributo-para-a-paz-e-a-democracia/",
+      "original_source": true,
+      "event_id": "evt-mocambique-006",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 13 de Out (AIM) – O antigo Presidente de Moçambique, Joaquim Chissano, foi homenageado em Portugal, numa cerimónia realizada na Universidade Europeia, que contou com a presença do Presidente da República portuguesa, António José Seguro, em reconhecimento do seu contributo para a paz, a reconciliação e a consolidação da democracia. A homenagem ao antigo Chefe do Estado moçambicano constituiu uma oportunidade para transmitir às novas gerações a importância do diálogo, da responsabilidade e da liderança na construção de um futuro assente na paz. Durante a iniciativa, realizada na Universidade Europeia, foi destacado o papel de Joaquim Chissano na promoção da paz e da reconciliação, valores considerados fundamentais para a estabilidade e o desenvolvimento das sociedades democráticas. O encontro permitiu ainda colocar os jovens no centro da reflexão sobre os desafios da construção da paz, sublinhando a importância do diálogo e do exercício responsável da liderança na prevenção de conflitos e na promoção da convivência democrática. «Joaquim Chissano homenageado em Portugal pelo contributo para a paz e a democracia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Joaquim Chissano homenageado em Portugal pelo contributo para a paz e a democracia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 12.08,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco",
+      "summary": "O ministro da Defesa Nacional e vice-primeiro-ministro da Polónia, Władysław Kosiniak-Kamysz, afirmou que a Europa tem de adotar uma mentalidade de “modo de guerra” no setor da defesa ou arrisca prejudicar os europeus no futuro.“Sou, na verdade, um defensor desse modo de guerra no que toca à produção no setor da defesa”, declarou numa conferência de imprensa à margem do Warsaw Security Forum, na terça-feira.“É isto que a Federação Russa está a fazer neste momento. Não podemos ignorar este facto.”A Rússia orientou a sua indústria de defesa para uma lógica de guerra antes da invasão em grande escala da Ucrânia, em 2022, e está previsto (fonte em inglês) que gaste 7,5% do seu produto interno bruto com as forças armadas em 2026.Em 2025, a Rússia produziu cerca de sete milhões de munições de artilharia, morteiro, carro de combate e foguetes, segundo um recente relatório (fonte em inglês) dos serviços de informação estónios.",
+      "why": "«Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-13T17:58:49+00:00",
+      "age_hours": 0.0,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/13/europa-deve-adotar-producao-de-defesa-em-modo-de-guerra-diz-ministro-polaco",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O ministro da Defesa Nacional e vice-primeiro-ministro da Polónia, Władysław Kosiniak-Kamysz, afirmou que a Europa tem de adotar uma mentalidade de “modo de guerra” no setor da defesa ou arrisca prejudicar os europeus no futuro.“Sou, na verdade, um defensor desse modo de guerra no que toca à produção no setor da defesa”, declarou numa conferência de imprensa à margem do Warsaw Security Forum, na terça-feira.“É isto que a Federação Russa está a fazer neste momento. Não podemos ignorar este facto.”A Rússia orientou a sua indústria de defesa para uma lógica de guerra antes da invasão em grande escala da Ucrânia, em 2022, e está previsto (fonte em inglês) que gaste 7,5% do seu produto interno bruto com as forças armadas em 2026.Em 2025, a Rússia produziu cerca de sete milhões de munições de artilharia, morteiro, carro de combate e foguetes, segundo um recente relatório (fonte em inglês) dos serviços de informação estónios. «Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 12.0,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mortes por desastre naturais caem 65%, mas afetados quase dobram",
+      "summary": "Dentre as consequências estão perdas diretas para a economia de mais de US$ 1 trilhão; médias globais escondem disparidades acentuadas entre países desenvolvidos e em desenvolvimento",
+      "why": "«Mortes por desastre naturais caem 65%, mas afetados quase dobram» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «Mortes por desastre naturais caem 65%, mas afetados quase dobram», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Notícias ONU",
+      "published": "2026-10-13T12:00:00+00:00",
+      "age_hours": 6.0,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854614",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Dentre as consequências estão perdas diretas para a economia de mais de US$ 1 trilhão; médias globais escondem disparidades acentuadas entre países desenvolvidos e em desenvolvimento. «Mortes por desastre naturais caem 65%, mas afetados quase dobram» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Mortes por desastre naturais caem 65%, mas afetados quase dobram», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 10.75,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Iniciativa quer incentivar mulheres a trabalhar em segurança cibernética",
+      "summary": "Apenas 24% do setor tem especialistas femininas; área em rápida expansão e escassez de talentos levou a uma parceria entre ONU Mulheres e Fórum Global de Cibersegurança parar incentivar 6 milhões de mulheres e meninas a transformar a liderança digital no mundo",
+      "why": "«Iniciativa quer incentivar mulheres a trabalhar em segurança cibernética» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Iniciativa quer incentivar mulheres a trabalhar em segurança cibernética», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-13T12:00:00+00:00",
+      "age_hours": 6.0,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854601",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Apenas 24% do setor tem especialistas femininas; área em rápida expansão e escassez de talentos levou a uma parceria entre ONU Mulheres e Fórum Global de Cibersegurança parar incentivar 6 milhões de mulheres e meninas a transformar a liderança digital no mundo. «Iniciativa quer incentivar mulheres a trabalhar em segurança cibernética» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Iniciativa quer incentivar mulheres a trabalhar em segurança cibernética», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.75,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO",
+      "summary": "O Governo de Angola oficializou ontem, em Roma, Itália, a candidatura da embaixadora Josefa Sacko a diretora-geral do Fundo das Nações Unidas para Alimentação e Agricultura (FAO). O Governo de Angola oficializou ontem, em Roma, Itália, a candidatura da embaixadora Josefa Sacko a diretora-geral do Fundo das Nações Unidas para Alimentação e Agricultura (FAO). A […]",
+      "why": "«Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "source": "O País",
+      "published": "2026-10-13T10:30:11+00:00",
+      "age_hours": 7.5,
+      "within_24h": true,
+      "link": "https://opais.co.mz/angola-oficializa-candidatura-de-josefa-sacko-a-diretora-geral-da-fao/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo de Angola oficializou ontem, em Roma, Itália, a candidatura da embaixadora Josefa Sacko a diretora-geral do Fundo das Nações Unidas para Alimentação e Agricultura (FAO). O Governo de Angola oficializou ontem, em Roma, Itália, a candidatura da embaixadora Josefa Sacko a diretora-geral do Fundo das Nações Unidas para Alimentação e Agricultura (FAO). A […]. «Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 10.44,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Rússia canaliza quase metade do orçamento para defesa e corta despesa social",
+      "summary": "O parlamento russo vai votar ainda este mês um orçamento que destina uma percentagem recorde de 44% da despesa federal à defesa e à segurança, o dobro da fatia reservada aos programas sociais, numa altura em que o Kremlin avança para o quinto ano de guerra total na Ucrânia.A Duma de Estado, câmara baixa do parlamento russo, deverá começar a analisar o projeto para o período 2027-2029 em 22 de outubro.Nas eleições legislativas de setembro, o partido Rússia Unida, do presidente Vladimir Putin, obteve uma maioria constitucional absoluta, o que torna improvável qualquer alteração de fundo antes da aprovação do orçamento.Este ano, a despesa militar atingiu 17 biliões de rublos (181 mil milhões de euros), face aos 12,1 biliões de rublos (129 mil milhões de euros) inicialmente previstos, ilustrando o custo crescente da invasão em grande escala lançada pela Rússia contra a Ucrânia em fevereiro de 2022.",
+      "why": "«Rússia canaliza quase metade do orçamento para defesa e corta despesa social» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Rússia canaliza quase metade do orçamento para defesa e corta despesa social», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-13T17:36:34+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/13/russia-canaliza-quase-metade-do-orcamento-para-defesa-e-corta-despesa-social",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O parlamento russo vai votar ainda este mês um orçamento que destina uma percentagem recorde de 44% da despesa federal à defesa e à segurança, o dobro da fatia reservada aos programas sociais, numa altura em que o Kremlin avança para o quinto ano de guerra total na Ucrânia.A Duma de Estado, câmara baixa do parlamento russo, deverá começar a analisar o projeto para o período 2027-2029 em 22 de outubro.Nas eleições legislativas de setembro, o partido Rússia Unida, do presidente Vladimir Putin, obteve uma maioria constitucional absoluta, o que torna improvável qualquer alteração de fundo antes da aprovação do orçamento.Este ano, a despesa militar atingiu 17 biliões de rublos (181 mil milhões de euros), face aos 12,1 biliões de rublos (129 mil milhões de euros) inicialmente previstos, ilustrando o custo crescente da invasão em grande escala lançada pela Rússia contra a Ucrânia em fevereiro de 2022. «Rússia canaliza quase metade do orçamento para defesa e corta despesa social» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia canaliza quase metade do orçamento para defesa e corta despesa social», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 9.92,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -192,59 +352,23 @@
       "impact": "No caso de «Cabo Verde. Falha nos travões foi a causa de despiste de autocarro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
       "source": "RTP Notícias",
       "published": "2026-10-12T13:51:52+00:00",
-      "age_hours": 20.4,
-      "within_24h": true,
+      "age_hours": 28.1,
+      "within_24h": false,
       "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-falha-nos-travoes-foi-a-causa-de-despiste-de-autocarro_n1771187",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "Um sobreaquecimento dos travões esteve na origem do despiste de um autocarro por uma encosta na ilha do Fogo, Cabo Verde, que matou 25 pessoas, em setembro, anunciou hoje a comissão de inquérito criada pelo Governo \"A causa direta e determinante identificada pela comissão é a perda total de eficácia de travagem por fadiga térmica severa\", referiu Emanuel Almeida, diretor-geral dos Transportes Rodoviários em Cabo Verde O acidente causou ainda 13 feridos e foi uma das maiores tragédias rodoviárias do arquipélago Outros fatores \"agravaram a margem de segurança\", referiu aquele responsável Havia um \"desgaste severo do sistema de travagem, com soldaduras e adições metálicas artesanais\", disse O autocarro estava sobrelotado, com 38 passageiros, a maioria jovens estudantes, mas só tinha 30 lugares homologados A descida entre Piorno e Campanas de Cima é prolongada e acentuada, com um declive de 19%, em que os travões foram muito solicitados e sem barreiras de proteção ou sinalização reforçada Segundo Emanuel Almeida, é \"um cenário de alto risco\" \"É uma via de elevada exigência, exige… «Cabo Verde. Falha nos travões foi a causa de despiste de autocarro» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Cabo Verde. Falha nos travões foi a causa de despiste de autocarro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "editorial_score": 8.75,
+      "editorial_score": 8.37,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Incêndio noturno devasta mercado coberto mais antigo de Paris",
-      "summary": "Um incêndio destruiu o mais antigo mercado coberto de alimentos de Paris, no Marais, deixando comerciantes arrasados. Há inquérito em curso e o mercado pode permanecer fechado durante meses",
-      "why": "«Incêndio noturno devasta mercado coberto mais antigo de Paris» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Incêndio noturno devasta mercado coberto mais antigo de Paris», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-12T13:53:33+00:00",
-      "age_hours": 20.3,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/12/incendio-noturno-devasta-mercado-coberto-mais-antigo-de-paris",
-      "original_source": true,
-      "event_id": "evt-mundo-011",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Euronews Português",
-          "title": "França: vídeo mostra incêndio em mercado histórico de Paris",
-          "link": "https://pt.euronews.com/2026/10/12/franca-video-mostra-incendio-em-mercado-historico-de-paris"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Um incêndio destruiu o mais antigo mercado coberto de alimentos de Paris, no Marais, deixando comerciantes arrasados. Há inquérito em curso e o mercado pode permanecer fechado durante meses. «Incêndio noturno devasta mercado coberto mais antigo de Paris» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Incêndio noturno devasta mercado coberto mais antigo de Paris», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 3.77,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -266,9 +390,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
-    "África": 1,
-    "Mundo": 3
+    "Moçambique": 5,
+    "África": 2,
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
