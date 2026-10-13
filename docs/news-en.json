@@ -1,10 +1,52 @@
 {
-  "updated_at": "2026-10-12T20:10:09.242766+00:00",
+  "updated_at": "2026-10-13T02:28:01.756319+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "summary": "Emergency services responded to a Russian drone strike on a residential building in Kharkiv, north-eastern Ukraine on Monday Russia struck six Ukrainian energy facilities hours after US President Donald Trump announced the two countries had agreed to an energy ceasefire, Volodymyr Zelensky has said Despite Trump stating on Sunday the truce would be \"effective immediately\", the Ukrainian president said Russia had hit \"our gas stations, energy infrastructure, and other facilities\" There were blackouts in the city of Izyum after a Russian strike destroyed power grids, Ukraine's state news agency Ukrinform said, while energy and railway infrastructure in western Ukraine was also targeted overnight On Monday, Russia's Foreign Minister Sergei Lavrov said Ukraine does not deserve the \"respite\" a ceasefire would bring What's behind Trump's energy ceasefire claim?",
+      "why": "«Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-12T21:20:51+00:00",
+      "age_hours": 5.1,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 4,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "DW English"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "BBC World",
+          "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+          "link": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Emergency services responded to a Russian drone strike on a residential building in Kharkiv, north-eastern Ukraine on Monday Russia struck six Ukrainian energy facilities hours after US President Donald Trump announced the two countries had agreed to an energy ceasefire, Volodymyr Zelensky has said Despite Trump stating on Sunday the truce would be \"effective immediately\", the Ukrainian president said Russia had hit \"our gas stations, energy infrastructure, and other facilities\" There were blackouts in the city of Izyum after a Russian strike destroyed power grids, Ukraine's state news agency Ukrinform said, while energy and railway infrastructure in western Ukraine was also targeted overnight On Monday, Russia's Foreign Minister Sergei Lavrov said Ukraine does not deserve the \"respite\" a ceasefire would bring What's behind Trump's energy ceasefire claim? «Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says» matters because it may change energy and investment decisions affecting Mundo. For «Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 14.44,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -16,7 +58,7 @@
       "impact": "For «Mozambique: Mozal and Gapi-SI reinforce funding for entrepreneurship», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-12T13:21:17+00:00",
-      "age_hours": 6.8,
+      "age_hours": 13.1,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-mozal-and-gapi-si-reinforce-funding-for-entrepreneurship/",
       "original_source": true,
@@ -30,8 +72,68 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Mozal and Gapi reaffirmed their commitment to financing entrepreneurship and the development of small businesses by delivering 20 financing checks and four grant checks, totalling approximately 10.3 million meticais, to entrepreneurs in the municipalities of Boane and Matola, within the scope of the Nhluvuko Project The fourth check delivery ceremony of the project represents another step in the joint efforts of Mozal and Gapi-SI to expand access to financing, strengthen micro and small businesses, and promote job creation, with particular attention to the economic participation of young people and women Launched in 2023, Nhluvuko is the result of a partnership between Mozal, Gapi-SI, and the Government, and was designed to address one of the main challenges faced by small entrepreneurs: access to adequate financial resources to start, consolidate, and expand their businesses. «Mozambique: Mozal and Gapi-SI reinforce funding for entrepreneurship» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Mozal and Gapi-SI reinforce funding for entrepreneurship», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 13.58,
+      "editorial_score": 12.27,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+      "summary": "Trump announced a new deal for diesel with Russian President Putin on Friday With elections that will decide control of Congress just weeks away and American voters already casting ballots in some battlegrounds, President Donald Trump has turned his eyes overseas – and to Russia, in particular - for help tackling one of his most pressing problems World affairs seldom provide easy answers, however, and developments elsewhere have threatened to undermine his efforts to bring down fuel prices before they provide any political benefit A whirlwind weekend started on Friday afternoon, as Trump announced a new deal with Russian President Vladimir Putin that would provide the US with hundreds of millions of tons of Russian diesel fuel in the coming months High energy prices, particularly for midwestern agricultural states that rely on diesel to power farm machinery and carry their goods to market, have been a growing source of frustration for American voters Polls suggest they view the Iran War as the leading cause for their woes, and overall support for Trump, and approval of his handling…",
+      "why": "«Analysis: Trump's global headaches worsen weeks before crucial elections» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Analysis: Trump's global headaches worsen weeks before crucial elections», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-12T21:07:25+00:00",
+      "age_hours": 5.3,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Trump announced a new deal for diesel with Russian President Putin on Friday With elections that will decide control of Congress just weeks away and American voters already casting ballots in some battlegrounds, President Donald Trump has turned his eyes overseas – and to Russia, in particular - for help tackling one of his most pressing problems World affairs seldom provide easy answers, however, and developments elsewhere have threatened to undermine his efforts to bring down fuel prices before they provide any political benefit A whirlwind weekend started on Friday afternoon, as Trump announced a new deal with Russian President Vladimir Putin that would provide the US with hundreds of millions of tons of Russian diesel fuel in the coming months High energy prices, particularly for midwestern agricultural states that rely on diesel to power farm machinery and carry their goods to market, have been a growing source of frustration for American voters Polls suggest they view the Iran War as the leading cause for their woes, and overall support for Trump, and approval of his handling… «Analysis: Trump's global headaches worsen weeks before crucial elections» matters because it may change energy and investment decisions affecting Mundo. For «Analysis: Trump's global headaches worsen weeks before crucial elections», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 11.9,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+      "summary": "The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny",
+      "why": "«Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-13T01:46:25+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny. «Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?» deserves attention because it may change political, diplomatic or security risks. For «Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 11.85,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -45,7 +147,7 @@
       "impact": "For «Mozambique: Loveira attends V20 Ministerial Dialogue in Bangkok on sidelines of IMF, World Bank meetings», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-12T15:58:44+00:00",
-      "age_hours": 4.2,
+      "age_hours": 10.5,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-loveira-attends-v20-ministerial-dialogue-in-bangkok-on-sidelines-of-imf-world-bank-meetings/",
       "original_source": true,
@@ -59,128 +161,8 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "The V20 operates in partnership with the Climate Vulnerable Forum (CVF). The meeting, titled “Development and Delivery in a Multipolar World”, is taking place on the sidelines of the Annual Meetings of the International Monetary Fund (IMF) and the World Bank Group Against a backdrop of increasingly frequent and intense climate shocks, the V20 meeting focuses on the challenges associated with mobilising the financial resources needed to support economic development, industrialisation and the strengthening of resilience in developing countries vulnerable to the effects of climate change In this context, finance ministers are seeking not only to increase the volume of available financing, but also to improve the mechanisms through which it is mobilised and deployed. «Mozambique: Loveira attends V20 Ministerial Dialogue in Bangkok on sidelines of IMF, World Bank meetings» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Loveira attends V20 Ministerial Dialogue in Bangkok on sidelines of IMF, World Bank meetings», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 13.12,
+      "editorial_score": 11.81,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Cuba forges ahead with renewable energy plans amid US oil blockade",
-      "summary": "Cuban energy minister denies link to fuel shipments intercepted by US, says oil imports by private firms insufficient",
-      "why": "«Cuba forges ahead with renewable energy plans amid US oil blockade» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Cuba forges ahead with renewable energy plans amid US oil blockade», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-12T18:52:40+00:00",
-      "age_hours": 1.3,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/10/12/cuba-forges-ahead-with-renewable-energy-plans-amid-us-oil-blockade?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Cuban energy minister denies link to fuel shipments intercepted by US, says oil imports by private firms insufficient. «Cuba forges ahead with renewable energy plans amid US oil blockade» matters because it may change energy and investment decisions affecting Mundo. For «Cuba forges ahead with renewable energy plans amid US oil blockade», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 12.73,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Fridges in French supermarkets hit by cyber attack",
-      "summary": "Hundreds of French supermarkets have been hit by a cyber attack that caused their fridges and freezers to heat up, spoiling fresh and frozen food estimated to be worth millions of euros Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected The chief executive of Coopérative U said several of its supermarkets had been hit by the \"extremely serious and unprecedented\" attack More than 100 of the chain's supermarkets were targeted, while 180 stores from Intermarché and its Netto brand were affected, with a spokesman saying that another 100 shops were urgently disconnected from the internet to prevent the same thing happening to them Other major food retailers including Carrefour, Monoprix and E.Leclerc were also hit by the attack, which targeted software provided by Danish engineering firm Danfoss The software allows retailers to manage their cold units remotely Normally, supermarket freezers go through a short period of defrosting overnight, in which…",
-      "why": "«Fridges in French supermarkets hit by cyber attack» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Fridges in French supermarkets hit by cyber attack», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-12T18:31:32+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Hundreds of French supermarkets have been hit by a cyber attack that caused their fridges and freezers to heat up, spoiling fresh and frozen food estimated to be worth millions of euros Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected The chief executive of Coopérative U said several of its supermarkets had been hit by the \"extremely serious and unprecedented\" attack More than 100 of the chain's supermarkets were targeted, while 180 stores from Intermarché and its Netto brand were affected, with a spokesman saying that another 100 shops were urgently disconnected from the internet to prevent the same thing happening to them Other major food retailers including Carrefour, Monoprix and E.Leclerc were also hit by the attack, which targeted software provided by Danish engineering firm Danfoss The software allows retailers to manage their cold units remotely Normally, supermarket freezers go through a short period of defrosting overnight, in which… «Fridges in French supermarkets hit by cyber attack» matters because it may change energy and investment decisions affecting Mundo. For «Fridges in French supermarkets hit by cyber attack», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 12.67,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Hundreds of French supermarkets hit by a cyberattack that defrosted refrigeration systems",
-      "summary": "Hundreds of French supermarkets saw their refrigeration systems defrosted, spoiling tons of frozen food. The unprecedented attack has raised serious questions about food security across Europe",
-      "why": "«Hundreds of French supermarkets hit by a cyberattack that defrosted refrigeration systems» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Hundreds of French supermarkets hit by a cyberattack that defrosted refrigeration systems», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-12T18:15:00+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Hundreds of French supermarkets saw their refrigeration systems defrosted, spoiling tons of frozen food. The unprecedented attack has raised serious questions about food security across Europe. «Hundreds of French supermarkets hit by a cyberattack that defrosted refrigeration systems» matters because it may change energy and investment decisions affecting Mundo. For «Hundreds of French supermarkets hit by a cyberattack that defrosted refrigeration systems», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 12.6,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
-      "summary": "NATO commander issues warning as European officials have called for vigilance over potential Russian attacks",
-      "why": "«NATO says will do ‘anything and everything’ if alliance is attacked» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «NATO says will do ‘anything and everything’ if alliance is attacked», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-12T19:27:41+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "NATO commander issues warning as European officials have called for vigilance over potential Russian attacks. «NATO says will do ‘anything and everything’ if alliance is attacked» deserves attention because it may change political, diplomatic or security risks. For «NATO says will do ‘anything and everything’ if alliance is attacked», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.85,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -194,11 +176,11 @@
       "impact": "For «UK: Iran 'highly likely' to be behind RAF Fairford incident», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "DW English",
       "published": "2026-10-12T19:02:00+00:00",
-      "age_hours": 1.1,
+      "age_hours": 7.4,
       "within_24h": true,
       "link": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -208,7 +190,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Prime Minister Andy Burnham told parliament there were \"strong indications\" of Iranian involvement. The government summoned Iran's ambassador. The scare at RAF Fairford led to the withdrawal of USAF B-1 heavy bombers The British government has accused Iran of involvement in a security alert outside a UK/US airbase in southern England last month , summoning the ambassador and announcing sanctions against two individuals Five British nationals were arrested in the vicinity of the RAF Fairford airbase on September 27 on suspicion of terrorism and explosives offenses. «UK: Iran 'highly likely' to be behind RAF Fairford incident» deserves attention because it may change political, diplomatic or security risks. For «UK: Iran 'highly likely' to be behind RAF Fairford incident», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.77,
+      "editorial_score": 10.46,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -223,23 +205,23 @@
       "impact": "For «Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-10-11T21:12:44+00:00",
-      "age_hours": 23.0,
-      "within_24h": true,
+      "age_hours": 29.3,
+      "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "BBC Africa"
       ],
       "primary_source": "BBC Africa",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "File photo of gold prospectors in northern Sudan At least 72 civilians who had been prospecting for gold in a border region of Sudan have been killed in air strikes, a regional rights group says Emergency Lawyers, based in the Sudanese capital, Khartoum, said jets targeted the so-called artisanal miners at a popular gold mining site in Red Sea state on Saturday Neither the Egyptian government nor the de facto Sudanese authorities have so far commented Cairo has previously faced accusations of deadly strikes on gold prospectors as part of a crackdown on illicit activity along its southern border Emergency Lawyers noted the previous alleged attacks and said they represented not only a violation of Sudan's sovereign territory but demonstrated the government's lack of control over the region \"The deliberate targeting of unarmed civilians violates international humanitarian law and the right to life,\" it said in a statement on Sunday. «Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says» is worth following because of its possible economic, institutional or regional effects. For «Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 7.21,
+      "editorial_score": 7.33,
       "source_tier": "A",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -262,8 +244,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 2,
-    "África": 1,
-    "Mundo": 5
+    "África": 2,
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
