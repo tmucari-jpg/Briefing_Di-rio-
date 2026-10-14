@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T19:12:28.456514+00:00",
+  "updated_at": "2026-10-14T23:44:53.461293+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,110 +8,37 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Chapo promete combate cerrado ao tráfico e consumo de drogas no país",
-      "summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, anunciou, esta quarta-feira, que o Governo vai intensificar o combate ao tráfico, à venda e ao consumo de drogas no país, com particular atenção às escolas, casas de pasto e locais de diversão identificados como pontos de venda e consumo de substâncias ilícitas, vulgarmente conhecidos como “bocas de fumo”. Para o efeito, o Chefe do Estado defendeu o reforço da capacidade de intervenção das instituições competentes, incluindo o Ministério Público (MP), os tribunais, as Forças de Defesa e Segurança (FDS), o Serviço Nacional de Investigação Criminal (SERNIC) e a Polícia da República de Moçambique (PRM), nos seus diferentes ramos. “Devemos reforçar a capacidade de intervenção das instituições competentes no combate a este mal, desde o Ministério Público, os tribunais, as Forças de Defesa e Segurança, o SERNIC e a Polícia da República de Moçambique, nos seus diversos ramos, devendo intervir nos locais de venda e consumo de drogas, vulgarmente conhecidos como bocas de fumo”, afirmou.",
-      "why": "«Chapo promete combate cerrado ao tráfico e consumo de drogas no país» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Chapo promete combate cerrado ao tráfico e consumo de drogas no país», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "title": "Educação continua a enfrentar desafio de reforçar o corpo docente e expandir a rede escolar",
+      "summary": "Maputo, 14 de Out (AIM) – Com um rácio de cerca de 71 alunos por professor, o sector da Educação enfrenta o desafio de reforçar o corpo docente e expandir a rede escolar, enquanto o Ministério da Educação e Cultura avalia os resultados alcançados e define as prioridades para 2027. O défice de professores e a insuficiência de infra-estruturas escolares continuam a pressionar o sistema de ensino em Moçambique, condicionando as condições de aprendizagem e colocando a qualidade da educação no centro das prioridades do Governo. O problema foi destacado pela Ministra da Educação e Cultura, Samária dos Anjos Tovela, na abertura do II Conselho Coordenador do Ministério da Educação e Cultura (MEC), que decorre de 14 a 16 de Outubro, na Província de Maputo. Os números apresentados pela governante revelam a dimensão dos desafios que o sector enfrenta. Actualmente, 17.160 professores do Ensino Primário trabalham em regime de segunda turma, enquanto 23.207 docentes do Ensino Secundário acumulam um total de 170.569 horas extraordinárias.",
+      "why": "«Educação continua a enfrentar desafio de reforçar o corpo docente e expandir a rede escolar» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Educação continua a enfrentar desafio de reforçar o corpo docente e expandir a rede escolar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-14T18:34:47+00:00",
-      "age_hours": 0.6,
+      "published": "2026-10-14T19:14:25+00:00",
+      "age_hours": 4.5,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/14/chapo-promete-combate-cerrado-ao-trafico-e-consumo-de-drogas-no-pais/",
+      "link": "https://aimnews.org/2026/10/14/educacao-continua-a-enfrentar-desafio-de-reforcar-o-corpo-docente-e-expandir-a-rede-escolar/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 4,
-      "source_count": 3,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 2,
+      "source_count": 2,
       "sources": [
         "AIM Notícias",
-        "Diário Económico",
         "Jornal Notícias"
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
       "confirmations": [
         {
-          "source": "Diário Económico",
-          "title": "PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas",
-          "link": "https://www.diarioeconomico.co.mz/2026/10/14/desenvolvimento-2/pr-ordena-reforco-do-combate-ao-trafico-de-drogas-nas-escolas/"
-        },
-        {
           "source": "Jornal Notícias",
-          "title": "Chapo exige envolvimento de todos no combate ao tráfico e consumo de drogas",
-          "link": "https://www.jornalnoticias.co.mz/destaque/chapo-exige-envolvimento-de-todos-no-combate-ao-trafico-e-consumo-de-drogas/"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, anunciou, esta quarta-feira, que o Governo vai intensificar o combate ao tráfico, à venda e ao consumo de drogas no país, com particular atenção às escolas, casas de pasto e locais de diversão identificados como pontos de venda e consumo de substâncias ilícitas, vulgarmente conhecidos como “bocas de fumo”. Para o efeito, o Chefe do Estado defendeu o reforço da capacidade de intervenção das instituições competentes, incluindo o Ministério Público (MP), os tribunais, as Forças de Defesa e Segurança (FDS), o Serviço Nacional de Investigação Criminal (SERNIC) e a Polícia da República de Moçambique (PRM), nos seus diferentes ramos. “Devemos reforçar a capacidade de intervenção das instituições competentes no combate a este mal, desde o Ministério Público, os tribunais, as Forças de Defesa e Segurança, o SERNIC e a Polícia da República de Moçambique, nos seus diversos ramos, devendo intervir nos locais de venda e consumo de drogas, vulgarmente conhecidos como bocas de fumo”, afirmou. «Chapo promete combate cerrado ao tráfico e consumo de drogas no país» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Chapo promete combate cerrado ao tráfico e consumo de drogas no país», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 16.38,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado",
-      "summary": "O Japão vai disponibilizar 1,8 milhões de dólares para assistência alimentar a 94 mil pessoas afetadas pelo conflito em Cabo Delgado, norte de Moçambique, através do Programa Alimentar Mundial (PAM). “Esta contribuição permitirá apoiar cerca de 94 mil deslocados internos e outras pessoas afetadas pelo conflito em Cabo Delgado através da distribuição de arroz e […]",
-      "why": "«Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-14T16:15:32+00:00",
-      "age_hours": 2.9,
-      "within_24h": true,
-      "link": "https://opais.co.mz/japao-disponibiliza-16-milhoes-para-assistencia-alimentar-cabo-delgado/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "O País",
-        "Diário Económico"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Diário Económico",
-          "title": "Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar",
-          "link": "https://www.diarioeconomico.co.mz/2026/10/14/economia/desenvolvimento/cabo-delgado-japao-disponibiliza-18-milhao-de-dolares-para-assistencia-alimentar/"
+          "title": "“Educação e Cultura” em Conselho Coordenador",
+          "link": "https://www.jornalnoticias.co.mz/destaque/educacao-e-cultura-em-conselho-coordenador/"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "O Japão vai disponibilizar 1,8 milhões de dólares para assistência alimentar a 94 mil pessoas afetadas pelo conflito em Cabo Delgado, norte de Moçambique, através do Programa Alimentar Mundial (PAM). “Esta contribuição permitirá apoiar cerca de 94 mil deslocados internos e outras pessoas afetadas pelo conflito em Cabo Delgado através da distribuição de arroz e […]. «Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.9,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "PR exige transformação digital centrada no cidadão",
-      "summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, defende que a transformação digital em Moçambique deve servir para eliminar a burocracia, reduzir os custos dos serviços públicos e permitir que os cidadãos resolvam os seus problemas através do telefone, sem terem de percorrer várias instituições ou longas distâncias. “Queremos acabar com a burocracia desnecessária!”, afirmou Chapo, hoje, em Maputo, na abertura da conferência CitizenConnect África – Moçambique, que reúne representantes de Governos, sector privado, academia e parceiros internacionais para debater a modernização dos serviços públicos. O Chefe do Estado considera que a digitalização deve representar uma mudança profunda no funcionamento da Administração Pública, indo além da instalação de equipamentos e da criação de plataformas electrónicas. “Não basta substituir o papel por um ecrã, se a burocracia continuar a mesma”, advertiu.",
-      "why": "«PR exige transformação digital centrada no cidadão» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «PR exige transformação digital centrada no cidadão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-14T16:50:22+00:00",
-      "age_hours": 2.4,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/14/pr-exige-transformacao-digital-centrada-no-cidadao/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, defende que a transformação digital em Moçambique deve servir para eliminar a burocracia, reduzir os custos dos serviços públicos e permitir que os cidadãos resolvam os seus problemas através do telefone, sem terem de percorrer várias instituições ou longas distâncias. “Queremos acabar com a burocracia desnecessária!”, afirmou Chapo, hoje, em Maputo, na abertura da conferência CitizenConnect África – Moçambique, que reúne representantes de Governos, sector privado, academia e parceiros internacionais para debater a modernização dos serviços públicos. O Chefe do Estado considera que a digitalização deve representar uma mudança profunda no funcionamento da Administração Pública, indo além da instalação de equipamentos e da criação de plataformas electrónicas. “Não basta substituir o papel por um ecrã, se a burocracia continuar a mesma”, advertiu. «PR exige transformação digital centrada no cidadão» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR exige transformação digital centrada no cidadão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.5,
+      "detailed_summary": "Maputo, 14 de Out (AIM) – Com um rácio de cerca de 71 alunos por professor, o sector da Educação enfrenta o desafio de reforçar o corpo docente e expandir a rede escolar, enquanto o Ministério da Educação e Cultura avalia os resultados alcançados e define as prioridades para 2027. O défice de professores e a insuficiência de infra-estruturas escolares continuam a pressionar o sistema de ensino em Moçambique, condicionando as condições de aprendizagem e colocando a qualidade da educação no centro das prioridades do Governo. O problema foi destacado pela Ministra da Educação e Cultura, Samária dos Anjos Tovela, na abertura do II Conselho Coordenador do Ministério da Educação e Cultura (MEC), que decorre de 14 a 16 de Outubro, na Província de Maputo. Os números apresentados pela governante revelam a dimensão dos desafios que o sector enfrenta. Actualmente, 17.160 professores do Ensino Primário trabalham em regime de segunda turma, enquanto 23.207 docentes do Ensino Secundário acumulam um total de 170.569 horas extraordinárias. «Educação continua a enfrentar desafio de reforçar o corpo docente e expandir a rede escolar» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Educação continua a enfrentar desafio de reforçar o corpo docente e expandir a rede escolar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 13.56,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -119,17 +46,18 @@
       "section": "Mundo",
       "tags": [
         "Energia",
+        "IA",
         "Segurança"
       ],
-      "title": "Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas",
-      "summary": "O presidente ucraniano, de visita a Londres, não esconde as \"dificuldades\" que as forças de segurança ucranianas têm sentido após falha na partilha de informações por parte de Washington. Num dos ataques contra a capital ucraniana, as sirenes não tocaram",
-      "why": "«Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA",
+      "summary": "A bolsa nova-iorquina fechou hoje em baixa, depois de conhecer números da inflação piores do que esperado e novas inquietações relativas ao endividamento dos operadores da inteligência artificial (IA) Os resultados da sessão indicam que o índice seletivo Dow Jones Industrial Average cedeu 0,09%, o tecnológico Nasdaq recuou 1,88% e o alargado S&P500 perdeu 1,11% Angelo Kourkafas, da Edward Jones, questionado pela AFP, mencionou \"um golpe duplo\" para a praça bolsista Conhecido ante da abertura da bolsa, o índice de preços no consumidor de setembro mostrou uma subida homóloga de 3,7%, mais do que antecipada, mas sobretudo acima do de agosto A subida foi alimentada pelos combustíveis, mas mesmo excluindo a alimentação e a energia, setores considerados voláteis, a inflação manteve-se a acelerar, com 2,6% Esta informação \"reforça a ideia de que a subida da taxa de juro de referência da Reserva Federal em setembro não foi um acontecimento isolado\", considerou Kourkafas O banco central os EUA tinha então subido a taxa para conter a subida da inflação, uma novidade desde 2023.",
+      "why": "«Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-14T17:39:53+00:00",
-      "age_hours": 1.5,
+      "published": "2026-10-14T23:13:21+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/zelensky-preocupado-com-surpresas-dos-eua-que-deixam-kiev-as-cegas_n1771684",
+      "link": "https://www.rtp.pt/noticias/mundo/wall-street-fecha-em-baixa-arrastada-pela-inflacao-e-custo-do-endividamento-da-ia_n1771744",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -140,37 +68,74 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O presidente ucraniano, de visita a Londres, não esconde as \"dificuldades\" que as forças de segurança ucranianas têm sentido após falha na partilha de informações por parte de Washington. Num dos ataques contra a capital ucraniana, as sirenes não tocaram. «Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 12.69,
+      "detailed_summary": "A bolsa nova-iorquina fechou hoje em baixa, depois de conhecer números da inflação piores do que esperado e novas inquietações relativas ao endividamento dos operadores da inteligência artificial (IA) Os resultados da sessão indicam que o índice seletivo Dow Jones Industrial Average cedeu 0,09%, o tecnológico Nasdaq recuou 1,88% e o alargado S&P500 perdeu 1,11% Angelo Kourkafas, da Edward Jones, questionado pela AFP, mencionou \"um golpe duplo\" para a praça bolsista Conhecido ante da abertura da bolsa, o índice de preços no consumidor de setembro mostrou uma subida homóloga de 3,7%, mais do que antecipada, mas sobretudo acima do de agosto A subida foi alimentada pelos combustíveis, mas mesmo excluindo a alimentação e a energia, setores considerados voláteis, a inflação manteve-se a acelerar, com 2,6% Esta informação \"reforça a ideia de que a subida da taxa de juro de referência da Reserva Federal em setembro não foi um acontecimento isolado\", considerou Kourkafas O banco central os EUA tinha então subido a taxa para conter a subida da inflação, uma novidade desde 2023. «Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 12.9,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "IA"
+        "Segurança"
       ],
-      "title": "“Educação e Cultura” em Conselho Coordenador",
-      "summary": "A ministra da Educação e Cultura, Samaria Tovela, dirige a partir de hoje até sexta-feira, na província de Maputo, o II Conselho Coordenador. O evento visa avaliar o desempenho do Sector da Educação e Cultura e definir orientações estratégicas que reforcem a contribuição da educação, investigação, ciência, tecnologia e cultura para o desenvolvimento sustentável do País. Durante os três dias, será analisada a execução do PESOE 2025 e do 1º Semestre de 2026. Está ainda em avaliação a situação da aprendizagem e dos principais indicadores educacionais; O estado de implementação dos programas estratégicos do Sector;- O balanço das actividades desenvolvidas na área da Cultura. Leia mais… O conteúdo “Educação e Cultura” em Conselho Coordenador aparece primeiro em Jornal Notícias",
-      "why": "«“Educação e Cultura” em Conselho Coordenador» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «“Educação e Cultura” em Conselho Coordenador», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-14T10:16:24+00:00",
+      "title": "Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar",
+      "summary": "O Governo do Japão vai disponibilizar 1,8 milhão de dólares, através do Programa Alimentar Mundial (PAM), para apoiar cerca de 94 mil pessoas afectadas pelo conflito armado em Cabo Delgado. […]",
+      "why": "«Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-14T14:50:00+00:00",
       "age_hours": 8.9,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/educacao-e-cultura-em-conselho-coordenador/",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/14/economia/desenvolvimento/cabo-delgado-japao-disponibiliza-18-milhao-de-dolares-para-assistencia-alimentar/",
       "original_source": true,
-      "event_id": "evt-mocambique-006",
+      "event_id": "evt-mocambique-007",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "Diário Económico",
+        "AIM Notícias"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM Notícias",
+          "title": "Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado",
+          "link": "https://aimnews.org/2026/10/14/japao-disponibiliza-18-milhoes-de-dolares-para-assistencia-alimentar-em-cabo-delgado/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo do Japão vai disponibilizar 1,8 milhão de dólares, através do Programa Alimentar Mundial (PAM), para apoiar cerca de 94 mil pessoas afectadas pelo conflito armado em Cabo Delgado. […]. «Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 12.65,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos",
+      "summary": "Maputo, 14 de Out (AIM)- O Presidente da República, Daniel Chapo, defendeu esta quarta-feira uma maior democratização do mercado de capitais em Moçambique, com vista a ampliar o acesso dos cidadãos à propriedade de empresas e à riqueza produzida no país. Exigiu igualmente o cumprimento da legislação que prevê a participação de investidores nacionais no capital de grandes empreendimentos económicos. A posição foi expressa em Maputo, durante a cerimónia comemorativa dos 28 anos da Bolsa de Valores de Moçambique (BVM), que ficou igualmente marcada pela admissão à cotação da MECTS, S.A., a primeira empresa abrangida pelo regime das Parcerias Público-Privadas (PPP), Projetos de Grande Dimensão e Concessões Empresariais a alcançar este marco. Para Chapo, a abertura do mercado bolsista a um número mais amplo de investidores moçambicanos é fundamental para transformar os cidadãos em participantes diretos na propriedade dos ativos produtivos, ultrapassando o seu papel tradicional de trabalhadores e consumidores.",
+      "why": "«Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-14T21:05:36+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/14/chapo-defende-democratizacao-do-mercado-de-capitais-para-ampliar-participacao-dos-mocambicanos/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Jornal Notícias"
+        "AIM Notícias"
       ],
-      "primary_source": "Jornal Notícias",
+      "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "A ministra da Educação e Cultura, Samaria Tovela, dirige a partir de hoje até sexta-feira, na província de Maputo, o II Conselho Coordenador. O evento visa avaliar o desempenho do Sector da Educação e Cultura e definir orientações estratégicas que reforcem a contribuição da educação, investigação, ciência, tecnologia e cultura para o desenvolvimento sustentável do País. Durante os três dias, será analisada a execução do PESOE 2025 e do 1º Semestre de 2026. Está ainda em avaliação a situação da aprendizagem e dos principais indicadores educacionais; O estado de implementação dos programas estratégicos do Sector;- O balanço das actividades desenvolvidas na área da Cultura. Leia mais… O conteúdo “Educação e Cultura” em Conselho Coordenador aparece primeiro em Jornal Notícias. «“Educação e Cultura” em Conselho Coordenador» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «“Educação e Cultura” em Conselho Coordenador», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 12.15,
+      "detailed_summary": "Maputo, 14 de Out (AIM)- O Presidente da República, Daniel Chapo, defendeu esta quarta-feira uma maior democratização do mercado de capitais em Moçambique, com vista a ampliar o acesso dos cidadãos à propriedade de empresas e à riqueza produzida no país. Exigiu igualmente o cumprimento da legislação que prevê a participação de investidores nacionais no capital de grandes empreendimentos económicos. A posição foi expressa em Maputo, durante a cerimónia comemorativa dos 28 anos da Bolsa de Valores de Moçambique (BVM), que ficou igualmente marcada pela admissão à cotação da MECTS, S.A., a primeira empresa abrangida pelo regime das Parcerias Público-Privadas (PPP), Projetos de Grande Dimensão e Concessões Empresariais a alcançar este marco. Para Chapo, a abertura do mercado bolsista a um número mais amplo de investidores moçambicanos é fundamental para transformar os cidadãos em participantes diretos na propriedade dos ativos produtivos, ultrapassando o seu papel tradicional de trabalhadores e consumidores. «Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.46,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -185,11 +150,11 @@
       "impact": "No caso de «PR exige desmantelamento de redes que levam drogas às escola», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-14T09:59:36+00:00",
-      "age_hours": 9.2,
+      "age_hours": 13.8,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/pr-exige-desmantelamento-de-redes-que-levam-drogas-as-escola/",
       "original_source": true,
-      "event_id": "evt-mocambique-007",
+      "event_id": "evt-mocambique-009",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -199,8 +164,37 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O Presidente da República, Daniel Chapo, exige uma actuação coordenada no desmantelamento de redes que colocam drogas nas escolas, facto que compromete o futuro de adolescentes e jovens. Chapo manifestou esta preocupação na abertura da Conferência Nacional de Combate às Drogas que decorre em Maputo, recordando que as escolas são lugares para a formação. Neste contexto exigiu a reactivação de núcleos contra drogas nas escolas. “Não podemos aceitar que redes de tráfico entreguem veneno às crianças, embrulhados e disfarçados em rebuçados”, avisou. Exigiu à Policia da República de Moçambique, ao Gabinete Central de Combate à Corrupção, Serviço Nacional de Investigação Criminal e outras forças a reforçar o combate às bocas de fumo e aumentar o controlo sobre as substâncias que podem ser usadas para a produção de drogas. Leia mais… O conteúdo PR exige desmantelamento de redes que levam drogas às escola aparece primeiro em Jornal Notícias. «PR exige desmantelamento de redes que levam drogas às escola» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR exige desmantelamento de redes que levam drogas às escola», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.08,
+      "editorial_score": 11.12,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo",
+      "summary": "O Governo dinamarquês transmitiu a Donald Trump que ele não tem qualquer direito preferencial sobre a exploração de matérias-primas na Gronelândia. O aviso surge na sequência de o presidente norte-americano ter anunciado \"operações massivas\" na ilha",
+      "why": "«Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-14T23:23:02+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/dinamarca-avisa-trump-sobre-gronelandia-nao-ha-direitos-especiais-para-a-exploracao-do-subsolo_n1771738",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo dinamarquês transmitiu a Donald Trump que ele não tem qualquer direito preferencial sobre a exploração de matérias-primas na Gronelândia. O aviso surge na sequência de o presidente norte-americano ter anunciado \"operações massivas\" na ilha. «Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.92,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -215,11 +209,11 @@
       "impact": "No caso de «Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
       "source": "Notícias ONU",
       "published": "2026-10-14T12:00:00+00:00",
-      "age_hours": 7.2,
+      "age_hours": 11.7,
       "within_24h": true,
       "link": "https://news.un.org/feed/view/pt/story/2026/10/1854631",
       "original_source": true,
-      "event_id": "evt-mundo-006",
+      "event_id": "evt-mundo-009",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -229,7 +223,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Estimativa do Pnud leva em conta fatores demográficos e estado atual da tecnologia, marcado pelo avanço da inteligência artificial; agência lança iniciativas para tentar assegurar mais oportunidades profissionais. «Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 11.5,
+      "editorial_score": 10.56,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -238,66 +232,87 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Washington levanta sanções ao presidente do parlamento venezuelano",
-      "summary": "A Administração de Donald Trump anunciou o levantamento das sanções contra o presidente da Assembleia Nacional da Venezuela, Jorge Rodríguez, no âmbito das novas relações entre Washington e Caracas após a captura de Nicolás Maduro Rodriguez, irmão da presidente interina, lidera a Assembleia Nacional venezuelana desde 2021 e é uma reconhecida figura política do país, tendo desempenhado as funções de vice-presidente durante o governo do falecido presidente Hugo Chávez e de ministro das Comunicações A decisão foi anunciada pelo Departamento do Tesouro norte-americano, através do Gabinete de Controlo de Ativos Estrangeiros (OFAC), que retirou o dirigente venezuelano da lista de pessoas sancionadas As autoridades norte-americanas não divulgaram mais pormenores sobre a decisão Jorge Rodríguez é irmão da Presidente interina venezuelana, Delcy Rodríguez, que assumiu o poder após a captura de Maduro, em janeiro. O psiquiatra de 60 anos liderou a equipa de negociação do governo em conversações intermitentes com os Estados Unidos e a oposição venezuelana.",
-      "why": "«Washington levanta sanções ao presidente do parlamento venezuelano» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Washington levanta sanções ao presidente do parlamento venezuelano», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-14T18:54:58+00:00",
-      "age_hours": 0.3,
+      "title": "Pecuária global encara desafios para unir nutrição e sustentabilidade",
+      "summary": "Relatório da ONU revela que setor responde por um terço da proteína mundial, mas precisa equilibrar segurança alimentar, impacto ambiental e inclusão socioeconômica; entidades brasileiras como Embrapa são citadas",
+      "why": "«Pecuária global encara desafios para unir nutrição e sustentabilidade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Pecuária global encara desafios para unir nutrição e sustentabilidade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-14T12:00:00+00:00",
+      "age_hours": 11.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/washington-levanta-sancoes-ao-presidente-do-parlamento-venezuelano_n1771679",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854619",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-010",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Relatório da ONU revela que setor responde por um terço da proteína mundial, mas precisa equilibrar segurança alimentar, impacto ambiental e inclusão socioeconômica; entidades brasileiras como Embrapa são citadas. «Pecuária global encara desafios para unir nutrição e sustentabilidade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Pecuária global encara desafios para unir nutrição e sustentabilidade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 9.56,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Edson Macuácua Nomeado Novo Ministro da Educação e Cultura",
+      "summary": "O Presidente da República, Daniel Francisco Chapo, fez mexidas no Governo com a nomeação de Edson Macuácua para o cargo de Ministro da Educação e Cultura. ​De acordo com despachos presidenciais enviados à imprensa, a decisão enquadra-se nas competências que a Constituição dá ao Chefe do Estado para exonerar e nomear membros do Executivo. ​Antes […]",
+      "why": "«Edson Macuácua Nomeado Novo Ministro da Educação e Cultura» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Edson Macuácua Nomeado Novo Ministro da Educação e Cultura», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "O País",
+      "published": "2026-10-14T20:10:43+00:00",
+      "age_hours": 3.6,
+      "within_24h": true,
+      "link": "https://opais.co.mz/edson-macuacua-nomeado-novo-ministro-da-educacao-e-cultura/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente da República, Daniel Francisco Chapo, fez mexidas no Governo com a nomeação de Edson Macuácua para o cargo de Ministro da Educação e Cultura. ​De acordo com despachos presidenciais enviados à imprensa, a decisão enquadra-se nas competências que a Constituição dá ao Chefe do Estado para exonerar e nomear membros do Executivo. ​Antes […]. «Edson Macuácua Nomeado Novo Ministro da Educação e Cultura» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Edson Macuácua Nomeado Novo Ministro da Educação e Cultura», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 9.25,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo",
+      "summary": "O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos \"Diversos medicamentos que anteriormente apenas podiam ser obtidos mediante pedidos especiais de autorização de importação passam agora a integrar oficialmente a Lista Nacional de Medicamentos\", anunciou o Ministério da Saúde, em comunicado Na prática, prevê-se que a medida \"reduza significativamente a burocracia, acelerando o acesso aos tratamentos e proporcionando maior previsibilidade e segurança aos doentes e aos profissionais de saúde\" O anúncio acompanha a promulgação do decreto-lei que inclui três listas: a nova Lista Nacional de Medicamentos, outra dedicada a dispositivos médicos e uma terceira sobre suplementos alimentares Entre as principais inovações, o Ministério da Saúde assinala a integração de \"medicamentos biológicos e terapias inovadoras\" destinadas ao tratamento de doenças oncológicas, autoimunes, hematológicas e neurológicas A atualização reforça também \"a resposta a doenças crónicas…",
+      "why": "«Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "RTP Notícias",
+      "published": "2026-10-13T21:25:52+00:00",
+      "age_hours": 26.3,
+      "within_24h": false,
+      "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-agiliza-acesso-a-medicamentos-e-acelera-tratamentos-diz-governo_n1771489",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": false,
-      "detailed_summary": "A Administração de Donald Trump anunciou o levantamento das sanções contra o presidente da Assembleia Nacional da Venezuela, Jorge Rodríguez, no âmbito das novas relações entre Washington e Caracas após a captura de Nicolás Maduro Rodriguez, irmão da presidente interina, lidera a Assembleia Nacional venezuelana desde 2021 e é uma reconhecida figura política do país, tendo desempenhado as funções de vice-presidente durante o governo do falecido presidente Hugo Chávez e de ministro das Comunicações A decisão foi anunciada pelo Departamento do Tesouro norte-americano, através do Gabinete de Controlo de Ativos Estrangeiros (OFAC), que retirou o dirigente venezuelano da lista de pessoas sancionadas As autoridades norte-americanas não divulgaram mais pormenores sobre a decisão Jorge Rodríguez é irmão da Presidente interina venezuelana, Delcy Rodríguez, que assumiu o poder após a captura de Maduro, em janeiro. O psiquiatra de 60 anos liderou a equipa de negociação do governo em conversações intermitentes com os Estados Unidos e a oposição venezuelana. «Washington levanta sanções ao presidente do parlamento venezuelano» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Washington levanta sanções ao presidente do parlamento venezuelano», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 10.94,
+      "detailed_summary": "O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos \"Diversos medicamentos que anteriormente apenas podiam ser obtidos mediante pedidos especiais de autorização de importação passam agora a integrar oficialmente a Lista Nacional de Medicamentos\", anunciou o Ministério da Saúde, em comunicado Na prática, prevê-se que a medida \"reduza significativamente a burocracia, acelerando o acesso aos tratamentos e proporcionando maior previsibilidade e segurança aos doentes e aos profissionais de saúde\" O anúncio acompanha a promulgação do decreto-lei que inclui três listas: a nova Lista Nacional de Medicamentos, outra dedicada a dispositivos médicos e uma terceira sobre suplementos alimentares Entre as principais inovações, o Ministério da Saúde assinala a integração de \"medicamentos biológicos e terapias inovadoras\" destinadas ao tratamento de doenças oncológicas, autoimunes, hematológicas e neurológicas A atualização reforça também \"a resposta a doenças crónicas… «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 7.43,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev",
-      "summary": "Pelo menos três pessoas morreram e mais de 20 ficaram feridas num ataque russo contra a capital ucraniana, Kiev, na noite de terça para quarta-feira.Um grande incêndio deflagrou num edifício residencial, após este ter sido atingido por fogo de artilharia russo.Segundo o presidente ucraniano, Volodymyr Zelenskyy, os bombardeamentos visavam uma central elétrica estratégica da cidade.Este referiu ainda que a central Darnytska CHP-4, que fornece aquecimento e eletricidade à capital, foi atingida por um míssil balístico.O ataque ocorreu poucos dias após o presidente norte-americano, Donald Trump, ter anunciado uma trégua energética entre a Rússia e a Ucrânia, que suspendeu os ataques às infraestruturas energéticas.No entanto, desde então, os ataques noturnos lançados pelo Kremlin continuaram a visar instalações energéticas, segundo Zelenskyy.Que \"cessar-fogo energético\"?Os ataques ocorrem também numa altura crítica para a Ucrânia, que enfrenta uma crise que já deixou mais de 600 000 pessoas sem eletricidade em várias ofensivas contra as redes de energia.“Instalações energéticas em Kiev e…",
-      "why": "«Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-14T15:40:15+00:00",
-      "age_hours": 3.5,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/14/ucrania-tres-mortos-e-mais-de-20-feridos-em-ataques-russos-noturnos-a-kiev",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "Euronews Português",
-        "RTP Notícias"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Pelo menos três mortos em novos ataques russos a Kiev",
-          "link": "https://www.rtp.pt/noticias/mundo/pelo-menos-tres-mortos-em-novos-ataques-russos-a-kiev_n1771535"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Pelo menos três pessoas morreram e mais de 20 ficaram feridas num ataque russo contra a capital ucraniana, Kiev, na noite de terça para quarta-feira.Um grande incêndio deflagrou num edifício residencial, após este ter sido atingido por fogo de artilharia russo.Segundo o presidente ucraniano, Volodymyr Zelenskyy, os bombardeamentos visavam uma central elétrica estratégica da cidade.Este referiu ainda que a central Darnytska CHP-4, que fornece aquecimento e eletricidade à capital, foi atingida por um míssil balístico.O ataque ocorreu poucos dias após o presidente norte-americano, Donald Trump, ter anunciado uma trégua energética entre a Rússia e a Ucrânia, que suspendeu os ataques às infraestruturas energéticas.No entanto, desde então, os ataques noturnos lançados pelo Kremlin continuaram a visar instalações energéticas, segundo Zelenskyy.Que \"cessar-fogo energético\"?Os ataques ocorrem também numa altura crítica para a Ucrânia, que enfrenta uma crise que já deixou mais de 600 000 pessoas sem eletricidade em várias ofensivas contra as redes de energia.“Instalações energéticas em Kiev e… «Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 10.77,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "África",
@@ -311,7 +326,7 @@
       "impact": "No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "Euronews Português",
       "published": "2026-10-14T06:03:19+00:00",
-      "age_hours": 13.2,
+      "age_hours": 17.7,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/14/europe-today-chefe-da-diplomacia-espanhola-ataques-com-drones-no-mar-negro-reaproximacao-u",
       "original_source": true,
@@ -325,7 +340,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "No programa de hoje:Maria Tadeo fala em exclusivo com o ministro dos Negócios Estrangeiros de Espanha, José Manuel Albares, à margem do Fórum de Segurança de Varsóvia, sobre as pressões que se acumulam sobre o país: a guerra na Ucrânia, a crise da habitação, a incerteza de eleições antecipadas e o reacender das tensões com Marrocos devido a Ceuta.Angela Skujins analisa os ataques de drones que atingiram dois navios comerciais ao largo da costa da Bulgária na manhã de ontem, os mais recentes de uma série de ataques contra embarcações que navegam no Mar Negro, que se está a tornar o próximo palco da agressão russa.Entrevista a Bernd Lange, presidente da Comissão do Comércio Internacional do Parlamento Europeu, que comenta se as conversações do comissário europeu do Comércio, Maroš Šefčovič, na China, que registaram alguns progressos, representam ou não um verdadeiro avanço.Entrevista ao ministro irlandês Neale Richmond, que defende o compromisso alcançado pela Irlanda sobre o próximo orçamento de sete anos da UE, que retira 141 mil milhões de euros ao projeto de 1,7 biliões, na… «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 8.25,
+      "editorial_score": 7.31,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -340,11 +355,11 @@
       "impact": "No caso de «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-14T13:43:56+00:00",
-      "age_hours": 5.5,
+      "age_hours": 10.0,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/14/alemanha-apoiantes-concentram-se-em-hamburgo-no-arranque-do-julgamento-das-explosoes-do-no",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -354,37 +369,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Simpatizantes com bandeiras ucranianas concentraram-se à porta de um tribunal de Hamburgo, na quarta-feira, 14 de outubro, em solidariedade com um antigo oficial do exército ucraniano acusado de envolvimento nas explosões de 2022 nos gasodutos Nord Stream no mar Báltico. «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 7.85,
+      "editorial_score": 6.92,
       "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo",
-      "summary": "O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos \"Diversos medicamentos que anteriormente apenas podiam ser obtidos mediante pedidos especiais de autorização de importação passam agora a integrar oficialmente a Lista Nacional de Medicamentos\", anunciou o Ministério da Saúde, em comunicado Na prática, prevê-se que a medida \"reduza significativamente a burocracia, acelerando o acesso aos tratamentos e proporcionando maior previsibilidade e segurança aos doentes e aos profissionais de saúde\" O anúncio acompanha a promulgação do decreto-lei que inclui três listas: a nova Lista Nacional de Medicamentos, outra dedicada a dispositivos médicos e uma terceira sobre suplementos alimentares Entre as principais inovações, o Ministério da Saúde assinala a integração de \"medicamentos biológicos e terapias inovadoras\" destinadas ao tratamento de doenças oncológicas, autoimunes, hematológicas e neurológicas A atualização reforça também \"a resposta a doenças crónicas…",
-      "why": "«Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "RTP Notícias",
-      "published": "2026-10-13T21:25:52+00:00",
-      "age_hours": 21.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-agiliza-acesso-a-medicamentos-e-acelera-tratamentos-diz-governo_n1771489",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos \"Diversos medicamentos que anteriormente apenas podiam ser obtidos mediante pedidos especiais de autorização de importação passam agora a integrar oficialmente a Lista Nacional de Medicamentos\", anunciou o Ministério da Saúde, em comunicado Na prática, prevê-se que a medida \"reduza significativamente a burocracia, acelerando o acesso aos tratamentos e proporcionando maior previsibilidade e segurança aos doentes e aos profissionais de saúde\" O anúncio acompanha a promulgação do decreto-lei que inclui três listas: a nova Lista Nacional de Medicamentos, outra dedicada a dispositivos médicos e uma terceira sobre suplementos alimentares Entre as principais inovações, o Ministério da Saúde assinala a integração de \"medicamentos biológicos e terapias inovadoras\" destinadas ao tratamento de doenças oncológicas, autoimunes, hematológicas e neurológicas A atualização reforça também \"a resposta a doenças crónicas… «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 7.46,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     }
   ],
