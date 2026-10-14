@@ -1,10 +1,39 @@
 {
-  "updated_at": "2026-10-13T23:12:10.056221+00:00",
+  "updated_at": "2026-10-14T08:27:57.551123+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores",
+      "summary": "O Presidente da República, Daniel Chapo, dirige hoje (14), na cidade de Maputo, a abertura da Conferência Nacional sobre Prevenção e Combate à Droga em Moçambique, sob o lema: “Prevenção e Combate à Droga: Novas Tendências, Seus Desafios e Respostas Inovadoras”. A Conferência constitui um espaço de reflexão e partilha de experiências sobre as dinâmicas contemporâneas do fenómeno da droga, visando contribuir para o fortalecimento das respostas nacionais de prevenção e combate a este problema. Ainda hoje, o Chefe do Estado vai dirigir a Abertura do Citizen Connect Africa – Mozambique, encontro de alto nível dedicado à transformação digital, à modernização dos serviços públicos e à promoção de soluções tecnológicas centradas no cidadão. O encontro visa promover o diálogo e a cooperação sobre os desafios e oportunidades da transformação digital, com foco na melhoria dos serviços públicos.",
+      "why": "«PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-14T05:40:29+00:00",
+      "age_hours": 2.8,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/pr-dirige-conferencias-de-combate-a-drogas-e-aniversario-da-bolsa-de-valores/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, dirige hoje (14), na cidade de Maputo, a abertura da Conferência Nacional sobre Prevenção e Combate à Droga em Moçambique, sob o lema: “Prevenção e Combate à Droga: Novas Tendências, Seus Desafios e Respostas Inovadoras”. A Conferência constitui um espaço de reflexão e partilha de experiências sobre as dinâmicas contemporâneas do fenómeno da droga, visando contribuir para o fortalecimento das respostas nacionais de prevenção e combate a este problema. Ainda hoje, o Chefe do Estado vai dirigir a Abertura do Citizen Connect Africa – Mozambique, encontro de alto nível dedicado à transformação digital, à modernização dos serviços públicos e à promoção de soluções tecnológicas centradas no cidadão. O encontro visa promover o diálogo e a cooperação sobre os desafios e oportunidades da transformação digital, com foco na melhoria dos serviços públicos. «PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.42,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -16,52 +45,80 @@
       "impact": "No caso de «União Africana defende investimento antecipado na prevenção de desastres», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "AIM Notícias",
       "published": "2026-10-13T18:19:19+00:00",
-      "age_hours": 4.9,
+      "age_hours": 14.1,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/13/uniao-africana-defende-investimento-antecipado-na-prevencao-de-desastres/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 3,
-      "source_count": 2,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "AIM Notícias",
-        "Diário Económico"
+        "AIM Notícias"
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Diário Económico",
-          "title": "Conferência Redução do Risco de Desastres: SADC Defende Mais Investimento na Prevenção de Desastres Climáticos",
-          "link": "https://www.diarioeconomico.co.mz/2026/10/13/economia/conservacao/conferencia-reducao-do-risco-de-desastres-sadc-defende-mais-investimento-na-prevencao-de-desastres-climaticos/"
-        },
-        {
-          "source": "Diário Económico",
-          "title": "Conferência Redução do Risco de Desastres: União Africana Apela a Mais Investimento na Prevenção Para Proteger Economias",
-          "link": "https://www.diarioeconomico.co.mz/2026/10/13/economia/conservacao/conferencia-reducao-do-risco-de-desastres-uniao-africana-apela-a-mais-investimento-na-prevencao-para-proteger-economias/"
-        }
-      ],
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 13 Out (AIM) – O Comissário da União Africana (UA) para a Agricultura, Desenvolvimento Rural, Economia Azul e Desenvolvimento Sustentável, Moses Villacat, defendeu o reforço do investimento na prevenção de desastres, considerando que a resposta tardia às calamidades prolonga o sofrimento das populações e compromete o desenvolvimento dos países africanos. A posição foi apresentada hoje, em Maputo, durante a Conferência Internacional sobre Redução do Risco de Desastres e Resiliência em África, realizada no âmbito das celebrações do Dia Internacional para a Redução do Risco de Desastres, assinalado anualmente a 13 de Outubro. Segundo Villacat, a falta de planificação, investimento e boa governação agrava a vulnerabilidade das comunidades, cujas infra-estruturas, escolas, unidades sanitárias e economias são frequentemente afectadas por fenómenos extremos. «União Africana defende investimento antecipado na prevenção de desastres» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «União Africana defende investimento antecipado na prevenção de desastres», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 15.48,
+      "editorial_score": 12.06,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
+        "Energia",
         "Segurança"
       ],
-      "title": "Riade avisa que não tolerará qualquer ameaça à liberdade de navegação no Mar Vermelho",
-      "summary": "A Arábia Saudita não tolerará qualquer ameaça à sua segurança ou à liberdade de navegação no Mar Vermelho e no estreito de Bab el-Mandeb, advertiu hoje o Conselho de Ministros, presidido pelo príncipe herdeiro Mohammed bin Salman Segundo um comunicado divulgado pela agência noticiosa oficial SPA, o Governo iraniano afirmou também que os rebeldes huthis do Iémen, apoiados pelo Irão, vão responder pelos \"crimes e ataques repetidos\" contra os aeroportos e as cidades de Meca e Medina, bem como contra as instalações energéticas sauditas Na segunda-feira, a chefe da diplomacia da União Europeia afirmou que o ministro dos Negócios Estrangeiros da Arábia Saudita lhe pediu o reforço da presença naval europeia no Mar Vermelho, perante os ataques dos huthis Kaja Kallas condenou a \"intensificação dos ataques dos Huthis\" contra o aeroporto de Riade e adiantou que, no domingo, falou ao telefone com o ministro dos Negócios Estrangeiros da Arábia Saudita, Faisal bin Farhan al-Saud, para perceber o que é que os europeus podem fazer para ajudar o país a lidar com a situação \"Temos a operação Aspides…",
-      "why": "«Riade avisa que não tolerará qualquer ameaça à liberdade de navegação no Mar Vermelho» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Riade avisa que não tolerará qualquer ameaça à liberdade de navegação no Mar Vermelho», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis",
+      "summary": "A Arábia Saudita comunicou hoje um ataque contra a sede da petrolífera estatal Aramco, em Dhahran (nordeste), após os rebeldes Houthis, do Iémen, ameaçarem atacar as instalações, num momento de escalada do conflito entre as duas partes De acordo com a agência de imprensa saudita, uma fonte do Ministério da Energia declarou que, na tarde de terça-feira, um dos edifícios da Aramco em Dhahran foi alvo de um ataque que provocou um incêndio, sem causar feridos nem vítimas mortais O anúncio surge depois de os Houthis terem ameaçado lançar uma operação em grande escala contra a sede da Aramco, bem como contra uma refinaria da mesma empresa na capital do reino árabe, Riade, em resposta aos bombardeamentos em Sanaa por parte da coligação militar liderada pela Arábia Saudita, que intervém no Iémen desde 2015 A aliança, que apoia o Governo iemenita internacionalmente reconhecido, bombardeou na terça-feira o principal depósito de combustível da capital iemenita, nas mãos dos Huthis desde 2014 Por seu lado, a coligação militar anti-Houthis liderada pela Arábia Saudita disse, na terça-feira, em…",
+      "why": "«Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-13T23:03:30+00:00",
-      "age_hours": 0.1,
+      "published": "2026-10-14T07:59:34+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/riade-avisa-que-nao-tolerara-qualquer-ameaca-a-liberdade-de-navegacao-no-mar-vermelho_n1771466",
+      "link": "https://www.rtp.pt/noticias/mundo/arabia-saudita-comunica-ataque-contra-sede-da-aramco-apos-ameaca-de-houthis_n1771528",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 3,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Arábia Saudita interceptou mais três drones no seu espaço aéreo",
+          "link": "https://www.rtp.pt/noticias/mundo/arabia-saudita-interceptou-mais-tres-drones-no-seu-espaco-aereo_v1771502"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Portugal desaconselha viagens à Arábia Saudita após ataques a aeroportos",
+          "link": "https://www.rtp.pt/noticias/mundo/portugal-desaconselha-viagens-a-arabia-saudita-apos-ataques-a-aeroportos_n1771414"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "A Arábia Saudita comunicou hoje um ataque contra a sede da petrolífera estatal Aramco, em Dhahran (nordeste), após os rebeldes Houthis, do Iémen, ameaçarem atacar as instalações, num momento de escalada do conflito entre as duas partes De acordo com a agência de imprensa saudita, uma fonte do Ministério da Energia declarou que, na tarde de terça-feira, um dos edifícios da Aramco em Dhahran foi alvo de um ataque que provocou um incêndio, sem causar feridos nem vítimas mortais O anúncio surge depois de os Houthis terem ameaçado lançar uma operação em grande escala contra a sede da Aramco, bem como contra uma refinaria da mesma empresa na capital do reino árabe, Riade, em resposta aos bombardeamentos em Sanaa por parte da coligação militar liderada pela Arábia Saudita, que intervém no Iémen desde 2015 A aliança, que apoia o Governo iemenita internacionalmente reconhecido, bombardeou na terça-feira o principal depósito de combustível da capital iemenita, nas mãos dos Huthis desde 2014 Por seu lado, a coligação militar anti-Houthis liderada pela Arábia Saudita disse, na terça-feira, em… «Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 11.9,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo timorense suspende atividades letivas devido à má qualidade do ar",
+      "summary": "O Ministério da Educação de Timor-Leste anunciou hoje a suspensão temporária das atividades letivas devido à má qualidade do ar registada no território nacional \"Durante três dias, 15, 16 e 17 de outubro de 2026, as atividades letivas vão estar suspensas nos estabelecimentos de ensino públicos, desde o ensino pré-escolar e básico até ao ensino secundário geral e ao ensino secundário técnico-vocacional em todo o território nacional\", afirmou, em conferência de imprensa, o secretário de Estado do Ensino Secundário, Domingos Lopes Lemos O governante explicou que a decisão foi tomada com base nas informações divulgadas pela Direção Nacional de Meteorologia e Geofísica sobre a degradação da qualidade do ar, provocada pela presença de partículas poluentes resultantes de incêndios florestais ocorridos na região A decisão teve também em conta os \"riscos para a saúde resultantes da exposição às partículas poluentes presentes na atmosfera de Timor-Leste\", esclareceu o secretário de Estado, salientando que várias escolas reportaram casos de alunos afetados pela má qualidade do ar \"Desta forma…",
+      "why": "«Governo timorense suspende atividades letivas devido à má qualidade do ar» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo timorense suspende atividades letivas devido à má qualidade do ar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-14T08:05:23+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/governo-timorense-suspende-atividades-letivas-devido-a-ma-qualidade-do-ar_n1771518",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -72,38 +129,68 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Arábia Saudita não tolerará qualquer ameaça à sua segurança ou à liberdade de navegação no Mar Vermelho e no estreito de Bab el-Mandeb, advertiu hoje o Conselho de Ministros, presidido pelo príncipe herdeiro Mohammed bin Salman Segundo um comunicado divulgado pela agência noticiosa oficial SPA, o Governo iraniano afirmou também que os rebeldes huthis do Iémen, apoiados pelo Irão, vão responder pelos \"crimes e ataques repetidos\" contra os aeroportos e as cidades de Meca e Medina, bem como contra as instalações energéticas sauditas Na segunda-feira, a chefe da diplomacia da União Europeia afirmou que o ministro dos Negócios Estrangeiros da Arábia Saudita lhe pediu o reforço da presença naval europeia no Mar Vermelho, perante os ataques dos huthis Kaja Kallas condenou a \"intensificação dos ataques dos Huthis\" contra o aeroporto de Riade e adiantou que, no domingo, falou ao telefone com o ministro dos Negócios Estrangeiros da Arábia Saudita, Faisal bin Farhan al-Saud, para perceber o que é que os europeus podem fazer para ajudar o país a lidar com a situação \"Temos a operação Aspides… «Riade avisa que não tolerará qualquer ameaça à liberdade de navegação no Mar Vermelho» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Riade avisa que não tolerará qualquer ameaça à liberdade de navegação no Mar Vermelho», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.98,
+      "detailed_summary": "O Ministério da Educação de Timor-Leste anunciou hoje a suspensão temporária das atividades letivas devido à má qualidade do ar registada no território nacional \"Durante três dias, 15, 16 e 17 de outubro de 2026, as atividades letivas vão estar suspensas nos estabelecimentos de ensino públicos, desde o ensino pré-escolar e básico até ao ensino secundário geral e ao ensino secundário técnico-vocacional em todo o território nacional\", afirmou, em conferência de imprensa, o secretário de Estado do Ensino Secundário, Domingos Lopes Lemos O governante explicou que a decisão foi tomada com base nas informações divulgadas pela Direção Nacional de Meteorologia e Geofísica sobre a degradação da qualidade do ar, provocada pela presença de partículas poluentes resultantes de incêndios florestais ocorridos na região A decisão teve também em conta os \"riscos para a saúde resultantes da exposição às partículas poluentes presentes na atmosfera de Timor-Leste\", esclareceu o secretário de Estado, salientando que várias escolas reportaram casos de alunos afetados pela má qualidade do ar \"Desta forma… «Governo timorense suspende atividades letivas devido à má qualidade do ar» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo timorense suspende atividades letivas devido à má qualidade do ar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.92,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "PR: África regista aumento de desastres naturais e danos",
-      "summary": "O IV Relatório Bienal de África, sobre a Implementação do Programa de Acção do Quadro de Sendai para a Redução do Risco de Desastres 2023-2024, lançado hoje em Maputo, indica que as cheias, ciclones tropicais e secas representaram 90% do total de causas de danos por desastres em África. O dado foi avançado hoje pelo Presidente da República, no âmbito do 13 de Outubro, Dia Internacional de Redução do Risco de Desastres. Chapo frisou que, o número de ocorrências aumentou aumentou de 612 para 738 eventos, que causaram mais de 74 mil mortes a nível do continente, afectando cerca de 64 milhões de pessoas e perdas económicas superiores a oito mil milhões de dólares, durante o período em análise. “Em Moçambique, no período em referência, registou-se vários ciclones de grandes proporções e dimensões, tais como Idai, Kenneth, Fred e Chido, cujos efeitos destruidores se fizeram sentir em outros países da região, como Madagáscar, Malawi, Zimbabwe, Zâmbia e África do Sul, só para dar alguns exemplos”, apontou.",
-      "why": "«PR: África regista aumento de desastres naturais e danos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «PR: África regista aumento de desastres naturais e danos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-13T14:47:24+00:00",
-      "age_hours": 8.4,
+      "title": "Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com 17 valores",
+      "summary": "O tema de defesa para obtenção do grau de doutor é Medidas de controlo fronteiriço da Polícia de Fronteiras na gestão da migração irregular e as suas implicações para a segurança nacional: o caso da Província de Tete (2018-2023). Estudo identifica fragilidades no controlo das fronteiras em Tete e alerta para limitações de recursos, comunicação […]",
+      "why": "«Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com…» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-14T06:09:40+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/pr-africa-regista-aumento-de-desastres-naturais-e-danos/",
+      "link": "https://opais.co.mz/vice-comandante-geral-da-policia-aquilasse-kapangula-manda-e-doutor-em-ciencia-politica-pela-ucm-com-17-valores/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Jornal Notícias"
+        "O País"
       ],
-      "primary_source": "Jornal Notícias",
+      "primary_source": "O País",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O IV Relatório Bienal de África, sobre a Implementação do Programa de Acção do Quadro de Sendai para a Redução do Risco de Desastres 2023-2024, lançado hoje em Maputo, indica que as cheias, ciclones tropicais e secas representaram 90% do total de causas de danos por desastres em África. O dado foi avançado hoje pelo Presidente da República, no âmbito do 13 de Outubro, Dia Internacional de Redução do Risco de Desastres. Chapo frisou que, o número de ocorrências aumentou aumentou de 612 para 738 eventos, que causaram mais de 74 mil mortes a nível do continente, afectando cerca de 64 milhões de pessoas e perdas económicas superiores a oito mil milhões de dólares, durante o período em análise. “Em Moçambique, no período em referência, registou-se vários ciclones de grandes proporções e dimensões, tais como Idai, Kenneth, Fred e Chido, cujos efeitos destruidores se fizeram sentir em outros países da região, como Madagáscar, Malawi, Zimbabwe, Zâmbia e África do Sul, só para dar alguns exemplos”, apontou. «PR: África regista aumento de desastres naturais e danos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR: África regista aumento de desastres naturais e danos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.25,
+      "detailed_summary": "O tema de defesa para obtenção do grau de doutor é Medidas de controlo fronteiriço da Polícia de Fronteiras na gestão da migração irregular e as suas implicações para a segurança nacional: o caso da Província de Tete (2018-2023). Estudo identifica fragilidades no controlo das fronteiras em Tete e alerta para limitações de recursos, comunicação […]. «Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com…» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 10.52,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China",
+      "summary": "No programa de hoje:Maria Tadeo fala em exclusivo com o ministro dos Negócios Estrangeiros de Espanha, José Manuel Albares, à margem do Fórum de Segurança de Varsóvia, sobre as pressões que se acumulam sobre o país: a guerra na Ucrânia, a crise da habitação, a incerteza de eleições antecipadas e o reacender das tensões com Marrocos devido a Ceuta.Angela Skujins analisa os ataques de drones que atingiram dois navios comerciais ao largo da costa da Bulgária na manhã de ontem, os mais recentes de uma série de ataques contra embarcações que navegam no Mar Negro, que se está a tornar o próximo palco da agressão russa.Entrevista a Bernd Lange, presidente da Comissão do Comércio Internacional do Parlamento Europeu, que comenta se as conversações do comissário europeu do Comércio, Maroš Šefčovič, na China, que registaram alguns progressos, representam ou não um verdadeiro avanço.Entrevista ao ministro irlandês Neale Richmond, que defende o compromisso alcançado pela Irlanda sobre o próximo orçamento de sete anos da UE, que retira 141 mil milhões de euros ao projeto de 1,7 biliões, na…",
+      "why": "«Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "Euronews Português",
+      "published": "2026-10-14T06:03:19+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/14/europe-today-chefe-da-diplomacia-espanhola-ataques-com-drones-no-mar-negro-reaproximacao-u",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "No programa de hoje:Maria Tadeo fala em exclusivo com o ministro dos Negócios Estrangeiros de Espanha, José Manuel Albares, à margem do Fórum de Segurança de Varsóvia, sobre as pressões que se acumulam sobre o país: a guerra na Ucrânia, a crise da habitação, a incerteza de eleições antecipadas e o reacender das tensões com Marrocos devido a Ceuta.Angela Skujins analisa os ataques de drones que atingiram dois navios comerciais ao largo da costa da Bulgária na manhã de ontem, os mais recentes de uma série de ataques contra embarcações que navegam no Mar Negro, que se está a tornar o próximo palco da agressão russa.Entrevista a Bernd Lange, presidente da Comissão do Comércio Internacional do Parlamento Europeu, que comenta se as conversações do comissário europeu do Comércio, Maroš Šefčovič, na China, que registaram alguns progressos, representam ou não um verdadeiro avanço.Entrevista ao ministro irlandês Neale Richmond, que defende o compromisso alcançado pela Irlanda sobre o próximo orçamento de sete anos da UE, que retira 141 mil milhões de euros ao projeto de 1,7 biliões, na… «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 10.5,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -117,11 +204,11 @@
       "impact": "No caso de «Chapo desafia classe laboral a impulsionar a transformação económica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-13T18:47:58+00:00",
-      "age_hours": 4.4,
+      "age_hours": 13.7,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/13/chapo-desafia-classe-laboral-a-impulsionar-a-transformacao-economica/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -131,7 +218,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 13 de Out(AIM) – O Presidente da República, Daniel Chapo, desafiou os trabalhadores moçambicanos a renovarem o seu compromisso com o desenvolvimento nacional, defendendo o reforço da cooperação entre o Governo, os empregadores, os sindicatos e os restantes sectores da sociedade para promover a transformação económica e social de Moçambique. O apelo foi lançado em Maputo, durante as celebrações dos 50 anos da Organização dos Trabalhadores de Moçambique – Central Sindical (OTM-CS), ocasião em que o Chefe do Estado destacou a evolução do movimento sindical desde 1976 e defendeu uma maior participação dos trabalhadores nos processos de desenvolvimento do país. Na sua intervenção, Daniel Chapo afirmou que as primeiras cinco décadas foram marcadas pela construção das bases do movimento sindical, enquanto o período seguinte deverá concentrar-se na transformação económica e social. Para o efeito, apelou à mobilização dos trabalhadores em torno dos desafios actuais do país. «Chapo desafia classe laboral a impulsionar a transformação económica» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo desafia classe laboral a impulsionar a transformação económica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.08,
+      "editorial_score": 10.15,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -146,11 +233,11 @@
       "impact": "No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-13T21:25:52+00:00",
-      "age_hours": 1.8,
+      "age_hours": 11.0,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-agiliza-acesso-a-medicamentos-e-acelera-tratamentos-diz-governo_n1771489",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -160,36 +247,36 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos \"Diversos medicamentos que anteriormente apenas podiam ser obtidos mediante pedidos especiais de autorização de importação passam agora a integrar oficialmente a Lista Nacional de Medicamentos\", anunciou o Ministério da Saúde, em comunicado Na prática, prevê-se que a medida \"reduza significativamente a burocracia, acelerando o acesso aos tratamentos e proporcionando maior previsibilidade e segurança aos doentes e aos profissionais de saúde\" O anúncio acompanha a promulgação do decreto-lei que inclui três listas: a nova Lista Nacional de Medicamentos, outra dedicada a dispositivos médicos e uma terceira sobre suplementos alimentares Entre as principais inovações, o Ministério da Saúde assinala a integração de \"medicamentos biológicos e terapias inovadoras\" destinadas ao tratamento de doenças oncológicas, autoimunes, hematológicas e neurológicas A atualização reforça também \"a resposta a doenças crónicas… «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 11.62,
+      "editorial_score": 9.71,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento",
-      "summary": "A assistência humanitária às populações vítimas de terrorismo, cheias e inundações continua abaixo de 40% das necessidades nas províncias de Gaza, Nampula e Cabo Delgado. O alerta é do director-adjunto do projecto RESTORE na CARE, Vicente Adriano, falando hoje da iniciativa que alcançou mais de 100 mil pessoas em cuidados primários de saúde, apoiou com 18 mil insumos agrícolas e assistência monetária em Gaza e contribuiu para a construção de mais de 1.500 abrigos para vítimas de terrorismo. De acordo com Adriano, o projecto RESTORE investiu oito milhões de dólares no apoio às famílias afectadas pelo terrorismo e pelas cheias em Cabo Delgado, Nampula e Gaza, encerra seis meses de actividades. A fonte frisou que na componente de água, saneamento e higiene, foram reabilitadas mais de 36 fontes de água, enquanto as acções de protecção incluíram assistência psicossocial às famílias afectadas pelo conflito, com atenção especial às crianças e mulheres.",
-      "why": "«RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-13T14:45:10+00:00",
-      "age_hours": 8.4,
+      "title": "El niño ameaça populações de sete distritos de Tete",
+      "summary": "O Governo dispõe de apenas 13 milhões de meticais para implementar um plano de contingência orçado em mais de 500 milhões. Agricultura, pecuária, assistência alimentar e abastecimento de água estão entre as áreas prioritárias. O Executivo activou um plano de contingência para responder aos riscos associados ao fenómeno El Niño em sete distritos da província […]",
+      "why": "«El niño ameaça populações de sete distritos de Tete» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «El niño ameaça populações de sete distritos de Tete», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "O País",
+      "published": "2026-10-14T06:43:38+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/restore-assistencia-as-vitimas-de-terrorismo-e-cheias-continua-abaixo-de-40-porcento/",
+      "link": "https://opais.co.mz/el-nino-ameaca-populacoes-de-sete-distritos-de-tete/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Jornal Notícias"
+        "O País"
       ],
-      "primary_source": "Jornal Notícias",
+      "primary_source": "O País",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A assistência humanitária às populações vítimas de terrorismo, cheias e inundações continua abaixo de 40% das necessidades nas províncias de Gaza, Nampula e Cabo Delgado. O alerta é do director-adjunto do projecto RESTORE na CARE, Vicente Adriano, falando hoje da iniciativa que alcançou mais de 100 mil pessoas em cuidados primários de saúde, apoiou com 18 mil insumos agrícolas e assistência monetária em Gaza e contribuiu para a construção de mais de 1.500 abrigos para vítimas de terrorismo. De acordo com Adriano, o projecto RESTORE investiu oito milhões de dólares no apoio às famílias afectadas pelo terrorismo e pelas cheias em Cabo Delgado, Nampula e Gaza, encerra seis meses de actividades. A fonte frisou que na componente de água, saneamento e higiene, foram reabilitadas mais de 36 fontes de água, enquanto as acções de protecção incluíram assistência psicossocial às famílias afectadas pelo conflito, com atenção especial às crianças e mulheres. «RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «RESTORE: Assistência às vítimas de terrorismo e cheias continua abaixo de 40 por cento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 11.25,
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo dispõe de apenas 13 milhões de meticais para implementar um plano de contingência orçado em mais de 500 milhões. Agricultura, pecuária, assistência alimentar e abastecimento de água estão entre as áreas prioritárias. O Executivo activou um plano de contingência para responder aos riscos associados ao fenómeno El Niño em sete distritos da província […]. «El niño ameaça populações de sete distritos de Tete» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «El niño ameaça populações de sete distritos de Tete», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 9.65,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -205,11 +292,11 @@
       "impact": "No caso de «Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-13T17:58:49+00:00",
-      "age_hours": 5.2,
+      "age_hours": 14.5,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/13/europa-deve-adotar-producao-de-defesa-em-modo-de-guerra-diz-ministro-polaco",
       "original_source": true,
-      "event_id": "evt-mundo-009",
+      "event_id": "evt-mundo-013",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -219,37 +306,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O ministro da Defesa Nacional e vice-primeiro-ministro da Polónia, Władysław Kosiniak-Kamysz, afirmou que a Europa tem de adotar uma mentalidade de “modo de guerra” no setor da defesa ou arrisca prejudicar os europeus no futuro.“Sou, na verdade, um defensor desse modo de guerra no que toca à produção no setor da defesa”, declarou numa conferência de imprensa à margem do Warsaw Security Forum, na terça-feira.“É isto que a Federação Russa está a fazer neste momento. Não podemos ignorar este facto.”A Rússia orientou a sua indústria de defesa para uma lógica de guerra antes da invasão em grande escala da Ucrânia, em 2022, e está previsto (fonte em inglês) que gaste 7,5% do seu produto interno bruto com as forças armadas em 2026.Em 2025, a Rússia produziu cerca de sete milhões de munições de artilharia, morteiro, carro de combate e foguetes, segundo um recente relatório (fonte em inglês) dos serviços de informação estónios. «Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 10.92,
+      "editorial_score": 8.98,
       "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "UE abre mais dois grupos de capítulos nas negociações de adesão de Kiev",
-      "summary": "A União Europeia (UE) decidiu hoje abrir mais dois grupos de capítulos nas negociações de adesão da Ucrânia, relativos ao mercado interno e à competitividade, ficando apenas a faltar dois Em comunicado, o Conselho da UE referiu que a abertura destes dois novos grupos de capítulos é um \"passo importante no processo de adesão\" da Ucrânia ao bloco europeu O grupo relativo ao mercado interno, conhecido como `cluster` 2, compreende um total de nove capítulos das negociações de adesão, que cobrem a livre circulação de bens, de capitais e de trabalhadores, as leis de propriedade intelectual e de proteção dos consumidores Já o segundo grupo de capítulos aberto hoje (o `cluster` 3), sobre competitividade e \"crescimento inclusivo\", abrange oito capítulos, que incluem política monetária e económica, impostos, educação e cultura, ciência e investigação ou política social e de trabalho Citado no comunicado, Thomas Byrne, ministro dos Assuntos Europeus da Irlanda -- país que detém atualmente a presidência semestral rotativa do Conselho da UE -- considerou que os Estados-membros alcançaram hoje…",
-      "why": "«UE abre mais dois grupos de capítulos nas negociações de adesão de Kiev» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «UE abre mais dois grupos de capítulos nas negociações de adesão de Kiev», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-13T22:33:13+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ue-abre-mais-dois-grupos-de-capitulos-nas-negociacoes-de-adesao-de-kiev_n1771474",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A União Europeia (UE) decidiu hoje abrir mais dois grupos de capítulos nas negociações de adesão da Ucrânia, relativos ao mercado interno e à competitividade, ficando apenas a faltar dois Em comunicado, o Conselho da UE referiu que a abertura destes dois novos grupos de capítulos é um \"passo importante no processo de adesão\" da Ucrânia ao bloco europeu O grupo relativo ao mercado interno, conhecido como `cluster` 2, compreende um total de nove capítulos das negociações de adesão, que cobrem a livre circulação de bens, de capitais e de trabalhadores, as leis de propriedade intelectual e de proteção dos consumidores Já o segundo grupo de capítulos aberto hoje (o `cluster` 3), sobre competitividade e \"crescimento inclusivo\", abrange oito capítulos, que incluem política monetária e económica, impostos, educação e cultura, ciência e investigação ou política social e de trabalho Citado no comunicado, Thomas Byrne, ministro dos Assuntos Europeus da Irlanda -- país que detém atualmente a presidência semestral rotativa do Conselho da UE -- considerou que os Estados-membros alcançaram hoje… «UE abre mais dois grupos de capítulos nas negociações de adesão de Kiev» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «UE abre mais dois grupos de capítulos nas negociações de adesão de Kiev», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.88,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -263,11 +321,11 @@
       "impact": "No caso de «Mortes por desastre naturais caem 65%, mas afetados quase dobram», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Notícias ONU",
       "published": "2026-10-13T12:00:00+00:00",
-      "age_hours": 11.2,
+      "age_hours": 20.5,
       "within_24h": true,
       "link": "https://news.un.org/feed/view/pt/story/2026/10/1854614",
       "original_source": true,
-      "event_id": "evt-mundo-011",
+      "event_id": "evt-mundo-015",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -277,37 +335,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Dentre as consequências estão perdas diretas para a economia de mais de US$ 1 trilhão; médias globais escondem disparidades acentuadas entre países desenvolvidos e em desenvolvimento. «Mortes por desastre naturais caem 65%, mas afetados quase dobram» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Mortes por desastre naturais caem 65%, mas afetados quase dobram», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 9.67,
+      "editorial_score": 7.73,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO",
-      "summary": "O Governo de Angola oficializou ontem, em Roma, Itália, a candidatura da embaixadora Josefa Sacko a diretora-geral do Fundo das Nações Unidas para Alimentação e Agricultura (FAO). O Governo de Angola oficializou ontem, em Roma, Itália, a candidatura da embaixadora Josefa Sacko a diretora-geral do Fundo das Nações Unidas para Alimentação e Agricultura (FAO). A […]",
-      "why": "«Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "O País",
-      "published": "2026-10-13T10:30:11+00:00",
-      "age_hours": 12.7,
-      "within_24h": true,
-      "link": "https://opais.co.mz/angola-oficializa-candidatura-de-josefa-sacko-a-diretora-geral-da-fao/",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo de Angola oficializou ontem, em Roma, Itália, a candidatura da embaixadora Josefa Sacko a diretora-geral do Fundo das Nações Unidas para Alimentação e Agricultura (FAO). O Governo de Angola oficializou ontem, em Roma, Itália, a candidatura da embaixadora Josefa Sacko a diretora-geral do Fundo das Nações Unidas para Alimentação e Agricultura (FAO). A […]. «Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Angola oficializa candidatura de Josefa Sacko a diretora-geral da FAO», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 9.35,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -321,11 +350,11 @@
       "impact": "No caso de «Rússia canaliza quase metade do orçamento para defesa e corta despesa social», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-13T17:36:34+00:00",
-      "age_hours": 5.6,
+      "age_hours": 14.9,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/13/russia-canaliza-quase-metade-do-orcamento-para-defesa-e-corta-despesa-social",
       "original_source": true,
-      "event_id": "evt-mundo-010",
+      "event_id": "evt-mundo-014",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -335,7 +364,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O parlamento russo vai votar ainda este mês um orçamento que destina uma percentagem recorde de 44% da despesa federal à defesa e à segurança, o dobro da fatia reservada aos programas sociais, numa altura em que o Kremlin avança para o quinto ano de guerra total na Ucrânia.A Duma de Estado, câmara baixa do parlamento russo, deverá começar a analisar o projeto para o período 2027-2029 em 22 de outubro.Nas eleições legislativas de setembro, o partido Rússia Unida, do presidente Vladimir Putin, obteve uma maioria constitucional absoluta, o que torna improvável qualquer alteração de fundo antes da aprovação do orçamento.Este ano, a despesa militar atingiu 17 biliões de rublos (181 mil milhões de euros), face aos 12,1 biliões de rublos (129 mil milhões de euros) inicialmente previstos, ilustrando o custo crescente da invasão em grande escala lançada pela Rússia contra a Ucrânia em fevereiro de 2022. «Rússia canaliza quase metade do orçamento para defesa e corta despesa social» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia canaliza quase metade do orçamento para defesa e corta despesa social», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.83,
+      "editorial_score": 6.9,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -359,7 +388,7 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
+    "Moçambique": 5,
     "África": 2,
     "Mundo": 5
   },

@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-10-13T23:12:29.008256+00:00",
+  "updated_at": "2026-10-14T08:28:17.853169+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Energia/LNG",
+      "title": "Mozambique: Man arrested in mining concession area",
+      "summary": "The Natural Resources and Environment Protection Police (PPRNMA) have arrested a man identified as S.C. Francisco while he was loading mineral material in a concession area to transport it to another location. The arrest followed a tip-off from the public and led to the seizure of a vehicle capable of carrying up to five tonnes,… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique: Man arrested in mining concession area” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique: Man arrested in mining concession area”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-14T06:13:02+00:00",
+      "age_hours": 2.3,
+      "link": "https://clubofmozambique.com/news/mozambique-man-arrested-in-mining-concession-area/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 8
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",
