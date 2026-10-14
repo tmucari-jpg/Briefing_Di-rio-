@@ -1,39 +1,10 @@
 {
-  "updated_at": "2026-10-14T14:23:19.031300+00:00",
+  "updated_at": "2026-10-14T19:12:34.906486+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Chapo challenges labor sector to renew commitment to national development",
-      "summary": "Maputo, 14 Oct (AIM) – Mozambican President Daniel Chapo has challenged the country’s workers to renew their commitment to national development, strengthening cooperation with various sectors of society. Speaking on Tuesday in Maputo during the 50th-anniversary marking the establishment of the Organization of Mozambican Workers – Trade Union Confederation (OTM-CS), the country’s first five decades of independency were marked by laying the foundations of the trade union movement, whereas the coming period should focus on economic and social transformation. Chapo calls for valuing human capital as an integral part of sustainable and inclusive development policies, highlighting the need for professional training, business investment, innovation, and the strengthening of trade union organizations. “Workers must be viewed beyond their productive role, taking into account their human, social, and family circumstances.",
-      "why": "«Chapo challenges labor sector to renew commitment to national development» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Chapo challenges labor sector to renew commitment to national development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "AIM News",
-      "published": "2026-10-14T10:21:54+00:00",
-      "age_hours": 4.0,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/14/chapo-challenges-labor-sector-to-renew-commitment-to-national-development/",
-      "original_source": true,
-      "event_id": "evt-mocambique-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM News"
-      ],
-      "primary_source": "AIM News",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 14 Oct (AIM) – Mozambican President Daniel Chapo has challenged the country’s workers to renew their commitment to national development, strengthening cooperation with various sectors of society. Speaking on Tuesday in Maputo during the 50th-anniversary marking the establishment of the Organization of Mozambican Workers – Trade Union Confederation (OTM-CS), the country’s first five decades of independency were marked by laying the foundations of the trade union movement, whereas the coming period should focus on economic and social transformation. Chapo calls for valuing human capital as an integral part of sustainable and inclusive development policies, highlighting the need for professional training, business investment, innovation, and the strengthening of trade union organizations. “Workers must be viewed beyond their productive role, taking into account their human, social, and family circumstances. «Chapo challenges labor sector to renew commitment to national development» helps explain a concrete economic or business change relevant to Moçambique. For «Chapo challenges labor sector to renew commitment to national development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 16.17,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
     {
       "section": "Moçambique",
       "tags": [
@@ -46,7 +17,7 @@
       "impact": "For «Mozambique’s 2027 budget framework sees narrower deficit, modest growth», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-14T13:04:00+00:00",
-      "age_hours": 1.3,
+      "age_hours": 6.1,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambiques-2027-budget-framework-sees-narrower-deficit-modest-growth/",
       "original_source": true,
@@ -60,76 +31,37 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "The budget framework, which now goes to parliament, projects a 2027 deficit of 4.6% of gross domestic product (GDP), down from a forecast of 7.0% of GDP in the 2026 budget Economic growth in 2027 is seen at 1.6% The 2026 budget predicted growth of 2.8%, but recent projections from international institutions are less optimistic The International Monetary Fund estimates 1.0% growth this year for the resource-rich southern African nation, versus 0.5% predicted by the African Development Bank A heavy debt burden is one of Mozambique’s most pressing economic challenges Problems date from a 2016 hidden-debt scandal that wrecked investor confidence and curbed access to funding Matters have been worsened by delays to major natural gas projects that had been expected to boost exports, revenue and government finances. «Mozambique’s 2027 budget framework sees narrower deficit, modest growth» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique’s 2027 budget framework sees narrower deficit, modest growth», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 14.73,
+      "editorial_score": 13.73,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
+        "IA",
         "Segurança"
       ],
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "summary": "Serhii Kuznetsov (C) was pictured in court on Wednesday after his anonymity order was lifted A Ukrainian man has gone on trial in Hamburg accused of blowing up Russia's Nord Stream gas pipelines to Germany, four years after one of the most dramatic acts of sabotage in modern European history Prosecutors say Serhii Kuznetsov played a leading role in a team of saboteurs that destroyed the pipelines, accusing him of a war crime.",
-      "why": "«Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "summary": "Netflix has said it will cut 1,000 jobs globally as the streaming giant faces competition from rivals The cuts - the steepest since 2022 - will mainly affect its human resources, legal, product and technology teams and equates to around 6% of its total workforce Last month, Netflix 's co-chief executive, Ted Sarandos, told the Bloomberg Screentime summit that the company was \"not growing as fast as I want us to\" The streaming industry is going through a period of consolidation following Paramount's $110bn (£83.6bn) merger with Warner Bros, the owner of HBO, while free platforms such as YouTube and TikTok continue to attract viewers In an email to staff, Sarandos and co-chief executive Greg Peters said Netflix would \"continue to invest aggressively in high-impact areas to improve our service and further drive growth and innovation\" Netflix had come close to its own deal with Warner Bros but was outbid in the end by Paramount Commenting on the \"organisational changes\", Sarandos and Peters said: \"Our mission - to entertain the world - is ambitious, and delivering on it requires us to…",
+      "why": "«Netflix to shed 1,000 jobs in steepest cuts since 2022» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «Netflix to shed 1,000 jobs in steepest cuts since 2022», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
       "source": "BBC World",
-      "published": "2026-10-14T13:41:51+00:00",
-      "age_hours": 0.7,
+      "published": "2026-10-14T16:47:32+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "BBC World",
-        "DW English"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "DW English",
-          "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
-          "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Serhii Kuznetsov (C) was pictured in court on Wednesday after his anonymity order was lifted A Ukrainian man has gone on trial in Hamburg accused of blowing up Russia's Nord Stream gas pipelines to Germany, four years after one of the most dramatic acts of sabotage in modern European history Prosecutors say Serhii Kuznetsov played a leading role in a team of saboteurs that destroyed the pipelines, accusing him of a war crime. «Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines» matters because it may change energy and investment decisions affecting Mundo. For «Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 14.35,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
-      "summary": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that With or without a deal with Russia, diesel prices on global markets are unlikely to fall significantly anytime soon That is the assessment of experts interviewed by DW regarding the latest fuel-supply agreement between US President Donald Trump and Russian President Vladimir Putin \"The main reason for high diesel prices is the war in Iran and the simultaneous disruption of shipping through the Strait of Hormuz and the Bab al-Mandeb Strait,\" said Samina Sultan, a foreign trade expert at the German Economic Institute (IW) in Cologne The situation has led to production outages and made fuel shipments \"more expensive, less secure and more difficult,\" she said Trump's deal with Russia also has an additional geopolitical dimension, Sultan said: \"It causes the wars in Ukraine and Iran to become completely intertwined.\" Things are looking up, though.",
-      "why": "«Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite…» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite…», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-14T14:15:00+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "DW English"
+        "BBC World"
       ],
-      "primary_source": "DW English",
+      "primary_source": "BBC World",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that With or without a deal with Russia, diesel prices on global markets are unlikely to fall significantly anytime soon That is the assessment of experts interviewed by DW regarding the latest fuel-supply agreement between US President Donald Trump and Russian President Vladimir Putin \"The main reason for high diesel prices is the war in Iran and the simultaneous disruption of shipping through the Strait of Hormuz and the Bab al-Mandeb Strait,\" said Samina Sultan, a foreign trade expert at the German Economic Institute (IW) in Cologne The situation has led to production outages and made fuel shipments \"more expensive, less secure and more difficult,\" she said Trump's deal with Russia also has an additional geopolitical dimension, Sultan said: \"It causes the wars in Ukraine and Iran to become completely intertwined.\" Things are looking up, though. «Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite…» matters because it may change energy and investment decisions affecting Mundo. For «Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite…», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 13.98,
+      "opportunity_flag": true,
+      "detailed_summary": "Netflix has said it will cut 1,000 jobs globally as the streaming giant faces competition from rivals The cuts - the steepest since 2022 - will mainly affect its human resources, legal, product and technology teams and equates to around 6% of its total workforce Last month, Netflix 's co-chief executive, Ted Sarandos, told the Bloomberg Screentime summit that the company was \"not growing as fast as I want us to\" The streaming industry is going through a period of consolidation following Paramount's $110bn (£83.6bn) merger with Warner Bros, the owner of HBO, while free platforms such as YouTube and TikTok continue to attract viewers In an email to staff, Sarandos and co-chief executive Greg Peters said Netflix would \"continue to invest aggressively in high-impact areas to improve our service and further drive growth and innovation\" Netflix had come close to its own deal with Warner Bros but was outbid in the end by Paramount Commenting on the \"organisational changes\", Sarandos and Peters said: \"Our mission - to entertain the world - is ambitious, and delivering on it requires us to… «Netflix to shed 1,000 jobs in steepest cuts since 2022» points to a concrete change in the adoption, regulation or use of technology. For «Netflix to shed 1,000 jobs in steepest cuts since 2022», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "editorial_score": 13.5,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -144,7 +76,7 @@
       "impact": "For «Mozambique: INAM warns of intense heat in Maputo, Gaza and Inhambane until Sunday», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-14T14:02:32+00:00",
-      "age_hours": 0.3,
+      "age_hours": 5.2,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-inam-warns-of-intense-heat-in-maputo-gaza-and-inhambane-until-sunday/",
       "original_source": true,
@@ -158,37 +90,109 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "According to a weather warning issued on Wednesday, 14 October, the conditions are due to the continued influx of hot, humid air masses, which are expected to affect several districts and cities across the three provinces In Maputo province, the phenomenon is expected to affect mainly Boane, Namaacha, Moamba, Magude, Manhiça, Marracuene and Matutuíne, as well as the cities of Maputo and Matola In Gaza province, the areas at risk include the districts of Chibuto, Guijá, Mapai, Chicualacuala, Mandlakazi, Chókwè, Massingir, Mabalane, Massangena and Limpopo, as well as the city of Xai-Xai In Inhambane province, intense heat is expected to affect mainly Zavala, Mabote, Funhalouro, Panda and Inharrime INAM also noted that high temperatures would continue to affect the central region of the country, particularly districts along the Zambezi Valley In view of the forecast, the institute recommends taking precautionary and safety measures to reduce the risks associated with intense heat The next INAM weather bulletin is scheduled for Thursday, 15 October, at 10:00 a.m. «Mozambique: INAM warns of intense heat in Maputo, Gaza and Inhambane until Sunday» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: INAM warns of intense heat in Maputo, Gaza and Inhambane until Sunday», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 13.94,
+      "editorial_score": 12.92,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Court urged to verify whether PODEMOS leadership is complying with its orders",
-      "summary": "Maputo, 14 Oct (AIM) – Hélder Mendonça, a senior member of PODEMOS (Optimistic Party for the Development of Mozambique) – which is now the country’s largest opposition party with 43 seats in parliament – calls on the Judicial Court in KaMavota municipal district, in Maputo, to verify whether the party leadership is complying with a court order suspending all activities carried out in the party’s name until internal elections are held. A ruling by the Judicial Court of the Kamavota orders PODEMOS central bodies “to refrain from carrying out any act related to the party on the grounds that such actions are manifestly outside their statutory mandate.” The Court also points out that the party’s current central bodies expired a five-year mandate without the holding of a National Congress, which is responsible for electing new leadership, including the party’s president, Albino Forquilha.",
-      "why": "«Court urged to verify whether PODEMOS leadership is complying with its orders» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Court urged to verify whether PODEMOS leadership is complying with its orders», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "AIM News",
-      "published": "2026-10-14T09:13:36+00:00",
-      "age_hours": 5.2,
+      "title": "Nord Stream trial opens in Germany, defense seeks dismissal",
+      "summary": "Serhii Kuznietsov is accused of attacking civilian infrastructure in the 2022 sabotage of the Russian gas pipeline to Germany. His lawyers called Nord Stream a military target, and said their client is sworn to secrecy The trial of a former Ukrainian special forces officer, Serhii Kuznietsov, opened in the northern German city of Hamburg on Wednesday amid considerable public and press interest Kuznietsov is accused of leading the September 2022 sabotage operation that put the undersea Nord Stream 1 and 2 gas pipelines linking Russian to Germany out of action .",
+      "why": "«Nord Stream trial opens in Germany, defense seeks dismissal» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Nord Stream trial opens in Germany, defense seeks dismissal», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-14T18:00:00+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/14/court-urged-to-verify-whether-podemos-leadership-is-complying-with-its-orders/",
+      "link": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mocambique-009",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM News"
+        "DW English"
       ],
-      "primary_source": "AIM News",
+      "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 14 Oct (AIM) – Hélder Mendonça, a senior member of PODEMOS (Optimistic Party for the Development of Mozambique) – which is now the country’s largest opposition party with 43 seats in parliament – calls on the Judicial Court in KaMavota municipal district, in Maputo, to verify whether the party leadership is complying with a court order suspending all activities carried out in the party’s name until internal elections are held. A ruling by the Judicial Court of the Kamavota orders PODEMOS central bodies “to refrain from carrying out any act related to the party on the grounds that such actions are manifestly outside their statutory mandate.” The Court also points out that the party’s current central bodies expired a five-year mandate without the holding of a National Congress, which is responsible for electing new leadership, including the party’s president, Albino Forquilha. «Court urged to verify whether PODEMOS leadership is complying with its orders» is worth following because of its possible economic, institutional or regional effects. For «Court urged to verify whether PODEMOS leadership is complying with its orders», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 11.92,
-      "source_tier": "B",
+      "detailed_summary": "Serhii Kuznietsov is accused of attacking civilian infrastructure in the 2022 sabotage of the Russian gas pipeline to Germany. His lawyers called Nord Stream a military target, and said their client is sworn to secrecy The trial of a former Ukrainian special forces officer, Serhii Kuznietsov, opened in the northern German city of Hamburg on Wednesday amid considerable public and press interest Kuznietsov is accused of leading the September 2022 sabotage operation that put the undersea Nord Stream 1 and 2 gas pipelines linking Russian to Germany out of action . «Nord Stream trial opens in Germany, defense seeks dismissal» matters because it may change energy and investment decisions affecting Mundo. For «Nord Stream trial opens in Germany, defense seeks dismissal», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 12.75,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
+      "summary": "A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years",
+      "why": "«How six Ukrainian divers could have blown up Russia’s $20bn pipelines» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «How six Ukrainian divers could have blown up Russia’s $20bn pipelines», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-14T18:00:44+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 3,
+      "source_count": 3,
+      "sources": [
+        "Al Jazeera English",
+        "BBC World",
+        "DW English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "BBC World",
+          "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+          "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
+          "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years. «How six Ukrainian divers could have blown up Russia’s $20bn pipelines» is worth following because of its possible economic, institutional or regional effects. For «How six Ukrainian divers could have blown up Russia’s $20bn pipelines», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 12.25,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan",
+      "summary": "Aid groups warn of an imminent collapse of the health system as fighting continues to displace civilians amid the planting season. The UN has extended an arms embargo, but only for Darfur In Sudan , clashes between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) have intensified in North Kordofan and parts of Blue Nile state. The fighting has forced thousands of civilians to flee amid the planting season Since war broke out between the two factions and their allied militias in April 2023, both sides have fought for power . However, neither has managed to establish control over the entire country The SAF, the nation's official army, is in control of Sudan's north and center, including the capital, Khartoum, while the RSF maintains its presence in the western Darfur region and parts of the south The brutal war has plunged Sudan into one of the world's worst humanitarian and displacement crises, according to the United Nations and international aid organizations.",
+      "why": "«Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "DW English",
+      "published": "2026-10-14T14:25:00+00:00",
+      "age_hours": 4.8,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Aid groups warn of an imminent collapse of the health system as fighting continues to displace civilians amid the planting season. The UN has extended an arms embargo, but only for Darfur In Sudan , clashes between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) have intensified in North Kordofan and parts of Blue Nile state. The fighting has forced thousands of civilians to flee amid the planting season Since war broke out between the two factions and their allied militias in April 2023, both sides have fought for power . However, neither has managed to establish control over the entire country The SAF, the nation's official army, is in control of Sudan's north and center, including the capital, Khartoum, while the RSF maintains its presence in the western Darfur region and parts of the south The brutal war has plunged Sudan into one of the world's worst humanitarian and displacement crises, according to the United Nations and international aid organizations. «Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan» deserves attention because it may change political, diplomatic or security risks. For «Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 11.0,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -203,11 +207,11 @@
       "impact": "For «Zimbabwean author denies using AI to write award-winning story», the effects may include changes in skills demand, productivity, costs and digital opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-10-13T23:31:10+00:00",
-      "age_hours": 14.9,
+      "age_hours": 19.7,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -217,7 +221,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Simbarashe Kundizeza says he was inspired by a poem about fish tanks to write a story about his family struggles in Zimbabwe Zimbabwean writer Simbarashe Kundizeza has denied using artificial intelligence (AI) to write his short story, which won this year's Caine Prize for African Writing His statement comes a week after he scooped the £10,000 ($13,000) award and a recent article in The Atlantic said AI-detection software Pangram had shown his work about a boy whose family falls on hard times was entirely AI generated \"For the avoidance of doubt, I wrote The Blue Fighter,\" he posted on X , external The accusation has caused an uproar on social media and Caine Prize chair Ellah Wakatama told the BBC she was shocked that the US magazine had not waited for a full investigation before publishing \"I do wish The Atlantic had spent more time investigating this so that alongside Pangram, they did have evidence of real human investigation of it before tainting the prize and tainting this winner,\" Wakatama told the BBC's Front Row programme The chair of the Caine Prize's board of trustees… «Zimbabwean author denies using AI to write award-winning story» points to a concrete change in the adoption, regulation or use of technology. For «Zimbabwean author denies using AI to write award-winning story», the effects may include changes in skills demand, productivity, costs and digital opportunities in África.",
-      "editorial_score": 11.9,
+      "editorial_score": 10.9,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -226,53 +230,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
-      "summary": "Move by Colombia's new right-wing government marks a major shift after former President Petro severed ties with Israel",
-      "why": "«Colombia inaugurates embassy to Israel in Jerusalem» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Colombia inaugurates embassy to Israel in Jerusalem», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-14T14:08:45+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Al Jazeera English",
-          "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Move by Colombia's new right-wing government marks a major shift after former President Petro severed ties with Israel. «Colombia inaugurates embassy to Israel in Jerusalem» is worth following because of its possible economic, institutional or regional effects. For «Colombia inaugurates embassy to Israel in Jerusalem», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.96,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Germany news: Merz attacks extremes for fueling division",
-      "summary": "German Chancellor Friedrich Merz accuses the far-right AfD and the socialist Left Party of deliberately fueling division and seeking political advantage from chaos. DW has the latest Here is a roundup of all the headlines across Germany on Wednesday, October 14: Tired of missing our real-time updates? Click here to add DW as a Preferred Source on Google Germany's Lufthansa has won the contest to buy a 44.9% stake in TAP Air Portugal with an offer of €1.2 billion ($1.3 billion), Portuguese Prime Minister Luis Montenegro said Lufthansa beat rival Air France-KLM after months of efforts to privatize the state-rescued airline, Montenegro told journalists following a cabinet meeting German Chancellor Friedrich Merz's overriding message was one of justice, especially between generations That was for the home crowd, trying to explain the governing coalition's reform plans of the social systems.",
-      "why": "«Germany news: Merz attacks extremes for fueling division» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Germany news: Merz attacks extremes for fueling division», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "Turkey: Government raids, takes over top news channel",
+      "summary": "Turkish authorities have raided the Istanbul offices of Halk TV, halting broadcasts, appointing a trustee and opening an investigation. It is the latest chapter of a decadeslong media capture by President Erdogan Turkish authorities took control of Halk TV on Wednesday — raiding the outlet's Istanbul studios, cutting all broadcasts and appointing a government trustee to oversee the company during an investigation into alleged corruption \"Police raid at Halk TV headquarters!",
+      "why": "«Turkey: Government raids, takes over top news channel» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Turkey: Government raids, takes over top news channel», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "DW English",
-      "published": "2026-10-14T13:48:00+00:00",
-      "age_hours": 0.6,
+      "published": "2026-10-14T16:07:00+00:00",
+      "age_hours": 3.1,
       "within_24h": true,
-      "link": "https://www.dw.com/en/germany-news-merz-attacks-extremes-for-fueling-division/live-79656436?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-010",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -280,9 +248,9 @@
       ],
       "primary_source": "DW English",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "German Chancellor Friedrich Merz accuses the far-right AfD and the socialist Left Party of deliberately fueling division and seeking political advantage from chaos. DW has the latest Here is a roundup of all the headlines across Germany on Wednesday, October 14: Tired of missing our real-time updates? Click here to add DW as a Preferred Source on Google Germany's Lufthansa has won the contest to buy a 44.9% stake in TAP Air Portugal with an offer of €1.2 billion ($1.3 billion), Portuguese Prime Minister Luis Montenegro said Lufthansa beat rival Air France-KLM after months of efforts to privatize the state-rescued airline, Montenegro told journalists following a cabinet meeting German Chancellor Friedrich Merz's overriding message was one of justice, especially between generations That was for the home crowd, trying to explain the governing coalition's reform plans of the social systems. «Germany news: Merz attacks extremes for fueling division» matters because it may change energy and investment decisions affecting Mundo. For «Germany news: Merz attacks extremes for fueling division», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 10.88,
+      "opportunity_flag": true,
+      "detailed_summary": "Turkish authorities have raided the Istanbul offices of Halk TV, halting broadcasts, appointing a trustee and opening an investigation. It is the latest chapter of a decadeslong media capture by President Erdogan Turkish authorities took control of Halk TV on Wednesday — raiding the outlet's Istanbul studios, cutting all broadcasts and appointing a government trustee to oversee the company during an investigation into alleged corruption \"Police raid at Halk TV headquarters! «Turkey: Government raids, takes over top news channel» is worth following because of its possible economic, institutional or regional effects. For «Turkey: Government raids, takes over top news channel», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.35,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -306,8 +274,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
-    "África": 1,
+    "Moçambique": 2,
+    "África": 2,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T14:23:11.737310+00:00",
+  "updated_at": "2026-10-14T19:12:28.456514+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,38 +8,141 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia",
+        "Segurança"
       ],
-      "title": "Governo introduz matriz de seguimento do Observatório de Desenvolvimento",
-      "summary": "Maputo, 14 Out (AIM) – O Governo moçambicano pretende introduzir uma Matriz Pública de Seguimento das Recomendações do Observatório de Desenvolvimento, atribuindo a cada recomendação um responsável, um prazo e um indicador, com vista a reforçar a prestação de contas e assegurar que as decisões tomadas se traduzam em resultados concretos. A proposta foi apresentada quarta-feira, em Maputo, pelo ministro da Planificação e Desenvolvimento, Salim Valá, na abertura da 23.ª Sessão do Observatório de Desenvolvimento, que defendeu a necessidade de transformar o mecanismo num espaço de acompanhamento efectivo dos compromissos assumidos. “A próxima sessão abrirá com a prestação de contas sobre o que foi feito”, afirmou Valá, apontando a necessidade de aproximar o diálogo das decisões, a execução dos resultados e as políticas públicas das necessidades dos cidadãos.",
-      "why": "«Governo introduz matriz de seguimento do Observatório de Desenvolvimento» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo introduz matriz de seguimento do Observatório de Desenvolvimento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "title": "Chapo promete combate cerrado ao tráfico e consumo de drogas no país",
+      "summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, anunciou, esta quarta-feira, que o Governo vai intensificar o combate ao tráfico, à venda e ao consumo de drogas no país, com particular atenção às escolas, casas de pasto e locais de diversão identificados como pontos de venda e consumo de substâncias ilícitas, vulgarmente conhecidos como “bocas de fumo”. Para o efeito, o Chefe do Estado defendeu o reforço da capacidade de intervenção das instituições competentes, incluindo o Ministério Público (MP), os tribunais, as Forças de Defesa e Segurança (FDS), o Serviço Nacional de Investigação Criminal (SERNIC) e a Polícia da República de Moçambique (PRM), nos seus diferentes ramos. “Devemos reforçar a capacidade de intervenção das instituições competentes no combate a este mal, desde o Ministério Público, os tribunais, as Forças de Defesa e Segurança, o SERNIC e a Polícia da República de Moçambique, nos seus diversos ramos, devendo intervir nos locais de venda e consumo de drogas, vulgarmente conhecidos como bocas de fumo”, afirmou.",
+      "why": "«Chapo promete combate cerrado ao tráfico e consumo de drogas no país» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Chapo promete combate cerrado ao tráfico e consumo de drogas no país», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-14T13:20:19+00:00",
-      "age_hours": 1.0,
+      "published": "2026-10-14T18:34:47+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/14/governo-introduz-matriz-de-seguimento-do-observatorio-de-desenvolvimento/",
+      "link": "https://aimnews.org/2026/10/14/chapo-promete-combate-cerrado-ao-trafico-e-consumo-de-drogas-no-pais/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 2,
-      "source_count": 2,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 4,
+      "source_count": 3,
       "sources": [
         "AIM Notícias",
-        "Diário Económico"
+        "Diário Económico",
+        "Jornal Notícias"
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
       "confirmations": [
         {
           "source": "Diário Económico",
-          "title": "Observatório de Desenvolvimento: Governo Defende Crescimento Económico Além do Gás Natural",
-          "link": "https://www.diarioeconomico.co.mz/2026/10/14/economia/observatorio-de-desenvolvimento-governo-defende-crescimento-economico-alem-do-gas-natural/"
+          "title": "PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas",
+          "link": "https://www.diarioeconomico.co.mz/2026/10/14/desenvolvimento-2/pr-ordena-reforco-do-combate-ao-trafico-de-drogas-nas-escolas/"
+        },
+        {
+          "source": "Jornal Notícias",
+          "title": "Chapo exige envolvimento de todos no combate ao tráfico e consumo de drogas",
+          "link": "https://www.jornalnoticias.co.mz/destaque/chapo-exige-envolvimento-de-todos-no-combate-ao-trafico-e-consumo-de-drogas/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, anunciou, esta quarta-feira, que o Governo vai intensificar o combate ao tráfico, à venda e ao consumo de drogas no país, com particular atenção às escolas, casas de pasto e locais de diversão identificados como pontos de venda e consumo de substâncias ilícitas, vulgarmente conhecidos como “bocas de fumo”. Para o efeito, o Chefe do Estado defendeu o reforço da capacidade de intervenção das instituições competentes, incluindo o Ministério Público (MP), os tribunais, as Forças de Defesa e Segurança (FDS), o Serviço Nacional de Investigação Criminal (SERNIC) e a Polícia da República de Moçambique (PRM), nos seus diferentes ramos. “Devemos reforçar a capacidade de intervenção das instituições competentes no combate a este mal, desde o Ministério Público, os tribunais, as Forças de Defesa e Segurança, o SERNIC e a Polícia da República de Moçambique, nos seus diversos ramos, devendo intervir nos locais de venda e consumo de drogas, vulgarmente conhecidos como bocas de fumo”, afirmou. «Chapo promete combate cerrado ao tráfico e consumo de drogas no país» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Chapo promete combate cerrado ao tráfico e consumo de drogas no país», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 16.38,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado",
+      "summary": "O Japão vai disponibilizar 1,8 milhões de dólares para assistência alimentar a 94 mil pessoas afetadas pelo conflito em Cabo Delgado, norte de Moçambique, através do Programa Alimentar Mundial (PAM). “Esta contribuição permitirá apoiar cerca de 94 mil deslocados internos e outras pessoas afetadas pelo conflito em Cabo Delgado através da distribuição de arroz e […]",
+      "why": "«Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-14T16:15:32+00:00",
+      "age_hours": 2.9,
+      "within_24h": true,
+      "link": "https://opais.co.mz/japao-disponibiliza-16-milhoes-para-assistencia-alimentar-cabo-delgado/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "O País",
+        "Diário Económico"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Diário Económico",
+          "title": "Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar",
+          "link": "https://www.diarioeconomico.co.mz/2026/10/14/economia/desenvolvimento/cabo-delgado-japao-disponibiliza-18-milhao-de-dolares-para-assistencia-alimentar/"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 14 Out (AIM) – O Governo moçambicano pretende introduzir uma Matriz Pública de Seguimento das Recomendações do Observatório de Desenvolvimento, atribuindo a cada recomendação um responsável, um prazo e um indicador, com vista a reforçar a prestação de contas e assegurar que as decisões tomadas se traduzam em resultados concretos. A proposta foi apresentada quarta-feira, em Maputo, pelo ministro da Planificação e Desenvolvimento, Salim Valá, na abertura da 23.ª Sessão do Observatório de Desenvolvimento, que defendeu a necessidade de transformar o mecanismo num espaço de acompanhamento efectivo dos compromissos assumidos. “A próxima sessão abrirá com a prestação de contas sobre o que foi feito”, afirmou Valá, apontando a necessidade de aproximar o diálogo das decisões, a execução dos resultados e as políticas públicas das necessidades dos cidadãos. «Governo introduz matriz de seguimento do Observatório de Desenvolvimento» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo introduz matriz de seguimento do Observatório de Desenvolvimento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 14.29,
+      "detailed_summary": "O Japão vai disponibilizar 1,8 milhões de dólares para assistência alimentar a 94 mil pessoas afetadas pelo conflito em Cabo Delgado, norte de Moçambique, através do Programa Alimentar Mundial (PAM). “Esta contribuição permitirá apoiar cerca de 94 mil deslocados internos e outras pessoas afetadas pelo conflito em Cabo Delgado através da distribuição de arroz e […]. «Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Japão disponibiliza 1,6 milhões para assistência alimentar Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.9,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "PR exige transformação digital centrada no cidadão",
+      "summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, defende que a transformação digital em Moçambique deve servir para eliminar a burocracia, reduzir os custos dos serviços públicos e permitir que os cidadãos resolvam os seus problemas através do telefone, sem terem de percorrer várias instituições ou longas distâncias. “Queremos acabar com a burocracia desnecessária!”, afirmou Chapo, hoje, em Maputo, na abertura da conferência CitizenConnect África – Moçambique, que reúne representantes de Governos, sector privado, academia e parceiros internacionais para debater a modernização dos serviços públicos. O Chefe do Estado considera que a digitalização deve representar uma mudança profunda no funcionamento da Administração Pública, indo além da instalação de equipamentos e da criação de plataformas electrónicas. “Não basta substituir o papel por um ecrã, se a burocracia continuar a mesma”, advertiu.",
+      "why": "«PR exige transformação digital centrada no cidadão» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «PR exige transformação digital centrada no cidadão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-14T16:50:22+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/14/pr-exige-transformacao-digital-centrada-no-cidadao/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, defende que a transformação digital em Moçambique deve servir para eliminar a burocracia, reduzir os custos dos serviços públicos e permitir que os cidadãos resolvam os seus problemas através do telefone, sem terem de percorrer várias instituições ou longas distâncias. “Queremos acabar com a burocracia desnecessária!”, afirmou Chapo, hoje, em Maputo, na abertura da conferência CitizenConnect África – Moçambique, que reúne representantes de Governos, sector privado, academia e parceiros internacionais para debater a modernização dos serviços públicos. O Chefe do Estado considera que a digitalização deve representar uma mudança profunda no funcionamento da Administração Pública, indo além da instalação de equipamentos e da criação de plataformas electrónicas. “Não basta substituir o papel por um ecrã, se a burocracia continuar a mesma”, advertiu. «PR exige transformação digital centrada no cidadão» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR exige transformação digital centrada no cidadão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.5,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas",
+      "summary": "O presidente ucraniano, de visita a Londres, não esconde as \"dificuldades\" que as forças de segurança ucranianas têm sentido após falha na partilha de informações por parte de Washington. Num dos ataques contra a capital ucraniana, as sirenes não tocaram",
+      "why": "«Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-14T17:39:53+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/zelensky-preocupado-com-surpresas-dos-eua-que-deixam-kiev-as-cegas_n1771684",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O presidente ucraniano, de visita a Londres, não esconde as \"dificuldades\" que as forças de segurança ucranianas têm sentido após falha na partilha de informações por parte de Washington. Num dos ataques contra a capital ucraniana, as sirenes não tocaram. «Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Zelensky preocupado com \"surpresas\" dos EUA que deixam Kiev às cegas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 12.69,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -53,7 +156,7 @@
       "impact": "No caso de «“Educação e Cultura” em Conselho Coordenador», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-14T10:16:24+00:00",
-      "age_hours": 4.1,
+      "age_hours": 8.9,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/educacao-e-cultura-em-conselho-coordenador/",
       "original_source": true,
@@ -67,67 +170,8 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "A ministra da Educação e Cultura, Samaria Tovela, dirige a partir de hoje até sexta-feira, na província de Maputo, o II Conselho Coordenador. O evento visa avaliar o desempenho do Sector da Educação e Cultura e definir orientações estratégicas que reforcem a contribuição da educação, investigação, ciência, tecnologia e cultura para o desenvolvimento sustentável do País. Durante os três dias, será analisada a execução do PESOE 2025 e do 1º Semestre de 2026. Está ainda em avaliação a situação da aprendizagem e dos principais indicadores educacionais; O estado de implementação dos programas estratégicos do Sector;- O balanço das actividades desenvolvidas na área da Cultura. Leia mais… O conteúdo “Educação e Cultura” em Conselho Coordenador aparece primeiro em Jornal Notícias. «“Educação e Cultura” em Conselho Coordenador» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «“Educação e Cultura” em Conselho Coordenador», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 13.15,
+      "editorial_score": 12.15,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado",
-      "summary": "Maputo, 14 Out (AIM) – O Governo do Japão vai disponibilizar 1,8 milhões de dólares para financiar a assistência alimentar a cerca de 94 mil deslocados internos e outras pessoas afectadas pelo conflito na província de Cabo Delgado, norte de Moçambique, através do Programa Mundial para a Alimentação (PMA). O apoio visa responder às necessidades alimentares das famílias vulneráveis, num contexto marcado pelo conflito armado, deslocamentos populacionais e choques climáticos, segundo informações apresentadas durante a assinatura do acordo de cooperação entre o Japão e o PMA. “Esta contribuição permitirá apoiar cerca de 94 mil deslocados internos e outras pessoas afectadas pelo conflito em Cabo Delgado”, afirmou o embaixador do Japão em Moçambique, Keiji Hamada. Destacou a importância da assistência para responder às necessidades alimentares mais urgentes das populações. O financiamento prevê a distribuição de arroz e conservas de peixe às famílias beneficiárias.",
-      "why": "«Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-14T13:52:05+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/14/japao-disponibiliza-18-milhoes-de-dolares-para-assistencia-alimentar-em-cabo-delgado/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 14 Out (AIM) – O Governo do Japão vai disponibilizar 1,8 milhões de dólares para financiar a assistência alimentar a cerca de 94 mil deslocados internos e outras pessoas afectadas pelo conflito na província de Cabo Delgado, norte de Moçambique, através do Programa Mundial para a Alimentação (PMA). O apoio visa responder às necessidades alimentares das famílias vulneráveis, num contexto marcado pelo conflito armado, deslocamentos populacionais e choques climáticos, segundo informações apresentadas durante a assinatura do acordo de cooperação entre o Japão e o PMA. “Esta contribuição permitirá apoiar cerca de 94 mil deslocados internos e outras pessoas afectadas pelo conflito em Cabo Delgado”, afirmou o embaixador do Japão em Moçambique, Keiji Hamada. Destacou a importância da assistência para responder às necessidades alimentares mais urgentes das populações. O financiamento prevê a distribuição de arroz e conservas de peixe às famílias beneficiárias. «Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.9,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem",
-      "summary": "Começa esta quarta-feira, em Hamburgo, o julgamento do ex-militar das forças especiais da Ucrânia Serhii Kuznetsov, que é acusado de participar num dos mais audaciosos atos de sabotagem da história europeia do pós-guerra. Em causa está o ataque de 2022 aos gasodutos Nord Stream que ligam a Rússia à Alemanha",
-      "why": "«Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-14T11:22:35+00:00",
-      "age_hours": 3.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/nordstream-ex-oficial-ucraniano-julgado-na-alemanha-por-sabotagem_n1771582",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Começa esta quarta-feira, em Hamburgo, o julgamento do ex-militar das forças especiais da Ucrânia Serhii Kuznetsov, que é acusado de participar num dos mais audaciosos atos de sabotagem da história europeia do pós-guerra. Em causa está o ataque de 2022 aos gasodutos Nord Stream que ligam a Rússia à Alemanha. «Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 12.38,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -135,59 +179,47 @@
       "tags": [
         "Energia"
       ],
-      "title": "PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas",
-      "summary": "O Presidente da República, Daniel Chapo, exigiu, esta quarta-feira (14), o reforço das acções de combate ao tráfico de drogas nas escolas moçambicanas, defendendo o desmantelamento das redes criminosas, a […]",
-      "why": "«PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-14T13:00:00+00:00",
-      "age_hours": 1.4,
+      "title": "PR exige desmantelamento de redes que levam drogas às escola",
+      "summary": "O Presidente da República, Daniel Chapo, exige uma actuação coordenada no desmantelamento de redes que colocam drogas nas escolas, facto que compromete o futuro de adolescentes e jovens. Chapo manifestou esta preocupação na abertura da Conferência Nacional de Combate às Drogas que decorre em Maputo, recordando que as escolas são lugares para a formação. Neste contexto exigiu a reactivação de núcleos contra drogas nas escolas. “Não podemos aceitar que redes de tráfico entreguem veneno às crianças, embrulhados e disfarçados em rebuçados”, avisou. Exigiu à Policia da República de Moçambique, ao Gabinete Central de Combate à Corrupção, Serviço Nacional de Investigação Criminal e outras forças a reforçar o combate às bocas de fumo e aumentar o controlo sobre as substâncias que podem ser usadas para a produção de drogas. Leia mais… O conteúdo PR exige desmantelamento de redes que levam drogas às escola aparece primeiro em Jornal Notícias",
+      "why": "«PR exige desmantelamento de redes que levam drogas às escola» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «PR exige desmantelamento de redes que levam drogas às escola», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-14T09:59:36+00:00",
+      "age_hours": 9.2,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/14/desenvolvimento-2/pr-ordena-reforco-do-combate-ao-trafico-de-drogas-nas-escolas/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/pr-exige-desmantelamento-de-redes-que-levam-drogas-as-escola/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 3,
-      "source_count": 2,
+      "event_id": "evt-mocambique-007",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "Diário Económico",
         "Jornal Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "Jornal Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Jornal Notícias",
-          "title": "Chapo exige envolvimento de todos no combate ao tráfico e consumo de drogas",
-          "link": "https://www.jornalnoticias.co.mz/destaque/chapo-exige-envolvimento-de-todos-no-combate-ao-trafico-e-consumo-de-drogas/"
-        },
-        {
-          "source": "Jornal Notícias",
-          "title": "Consumo de drogas é problema de saúde pública",
-          "link": "https://www.jornalnoticias.co.mz/destaque/consumo-de-drogas-e-problema-de-saude-publica/"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, exigiu, esta quarta-feira (14), o reforço das acções de combate ao tráfico de drogas nas escolas moçambicanas, defendendo o desmantelamento das redes criminosas, a […]. «PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.21,
+      "opportunity_flag": true,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, exige uma actuação coordenada no desmantelamento de redes que colocam drogas nas escolas, facto que compromete o futuro de adolescentes e jovens. Chapo manifestou esta preocupação na abertura da Conferência Nacional de Combate às Drogas que decorre em Maputo, recordando que as escolas são lugares para a formação. Neste contexto exigiu a reactivação de núcleos contra drogas nas escolas. “Não podemos aceitar que redes de tráfico entreguem veneno às crianças, embrulhados e disfarçados em rebuçados”, avisou. Exigiu à Policia da República de Moçambique, ao Gabinete Central de Combate à Corrupção, Serviço Nacional de Investigação Criminal e outras forças a reforçar o combate às bocas de fumo e aumentar o controlo sobre as substâncias que podem ser usadas para a produção de drogas. Leia mais… O conteúdo PR exige desmantelamento de redes que levam drogas às escola aparece primeiro em Jornal Notícias. «PR exige desmantelamento de redes que levam drogas às escola» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR exige desmantelamento de redes que levam drogas às escola», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 12.08,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "IA",
+        "Economia"
       ],
-      "title": "Pecuária global encara desafios para unir nutrição e sustentabilidade",
-      "summary": "Relatório da ONU revela que setor responde por um terço da proteína mundial, mas precisa equilibrar segurança alimentar, impacto ambiental e inclusão socioeconômica; entidades brasileiras como Embrapa são citadas",
-      "why": "«Pecuária global encara desafios para unir nutrição e sustentabilidade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Pecuária global encara desafios para unir nutrição e sustentabilidade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos",
+      "summary": "Estimativa do Pnud leva em conta fatores demográficos e estado atual da tecnologia, marcado pelo avanço da inteligência artificial; agência lança iniciativas para tentar assegurar mais oportunidades profissionais",
+      "why": "«Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
       "source": "Notícias ONU",
       "published": "2026-10-14T12:00:00+00:00",
-      "age_hours": 2.4,
+      "age_hours": 7.2,
       "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854619",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854631",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -195,8 +227,8 @@
       ],
       "primary_source": "Notícias ONU",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Relatório da ONU revela que setor responde por um terço da proteína mundial, mas precisa equilibrar segurança alimentar, impacto ambiental e inclusão socioeconômica; entidades brasileiras como Embrapa são citadas. «Pecuária global encara desafios para unir nutrição e sustentabilidade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Pecuária global encara desafios para unir nutrição e sustentabilidade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "opportunity_flag": true,
+      "detailed_summary": "Estimativa do Pnud leva em conta fatores demográficos e estado atual da tecnologia, marcado pelo avanço da inteligência artificial; agência lança iniciativas para tentar assegurar mais oportunidades profissionais. «Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
       "editorial_score": 11.5,
       "source_tier": "A",
       "editorial_status": "HOJE"
@@ -204,19 +236,19 @@
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "Riade confirma ataque contra sede da Aramco após ameaça de Houthis",
-      "summary": "A sede da petrolífera estatal saudita Saudi Aramco, na cidade de Dhahran (leste do país), foi atacada na noite de terça-feira, provocando o que o Ministério da Energia descreveu, em comunicado, como um incêndio de proporções limitadas, no meio da intensificação dos combates entre os Houthis do Iémen - aliados do Irão - e o reino saudita",
-      "why": "«Riade confirma ataque contra sede da Aramco após ameaça de Houthis» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Riade confirma ataque contra sede da Aramco após ameaça de Houthis», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Washington levanta sanções ao presidente do parlamento venezuelano",
+      "summary": "A Administração de Donald Trump anunciou o levantamento das sanções contra o presidente da Assembleia Nacional da Venezuela, Jorge Rodríguez, no âmbito das novas relações entre Washington e Caracas após a captura de Nicolás Maduro Rodriguez, irmão da presidente interina, lidera a Assembleia Nacional venezuelana desde 2021 e é uma reconhecida figura política do país, tendo desempenhado as funções de vice-presidente durante o governo do falecido presidente Hugo Chávez e de ministro das Comunicações A decisão foi anunciada pelo Departamento do Tesouro norte-americano, através do Gabinete de Controlo de Ativos Estrangeiros (OFAC), que retirou o dirigente venezuelano da lista de pessoas sancionadas As autoridades norte-americanas não divulgaram mais pormenores sobre a decisão Jorge Rodríguez é irmão da Presidente interina venezuelana, Delcy Rodríguez, que assumiu o poder após a captura de Maduro, em janeiro. O psiquiatra de 60 anos liderou a equipa de negociação do governo em conversações intermitentes com os Estados Unidos e a oposição venezuelana.",
+      "why": "«Washington levanta sanções ao presidente do parlamento venezuelano» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Washington levanta sanções ao presidente do parlamento venezuelano», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-14T10:35:00+00:00",
-      "age_hours": 3.8,
+      "published": "2026-10-14T18:54:58+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/riade-confirma-ataque-contra-sede-da-aramco-apos-ameaca-de-houthis_n1771586",
+      "link": "https://www.rtp.pt/noticias/mundo/washington-levanta-sancoes-ao-presidente-do-parlamento-venezuelano_n1771679",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -225,38 +257,46 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A sede da petrolífera estatal saudita Saudi Aramco, na cidade de Dhahran (leste do país), foi atacada na noite de terça-feira, provocando o que o Ministério da Energia descreveu, em comunicado, como um incêndio de proporções limitadas, no meio da intensificação dos combates entre os Houthis do Iémen - aliados do Irão - e o reino saudita. «Riade confirma ataque contra sede da Aramco após ameaça de Houthis» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Riade confirma ataque contra sede da Aramco após ameaça de Houthis», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 11.21,
+      "detailed_summary": "A Administração de Donald Trump anunciou o levantamento das sanções contra o presidente da Assembleia Nacional da Venezuela, Jorge Rodríguez, no âmbito das novas relações entre Washington e Caracas após a captura de Nicolás Maduro Rodriguez, irmão da presidente interina, lidera a Assembleia Nacional venezuelana desde 2021 e é uma reconhecida figura política do país, tendo desempenhado as funções de vice-presidente durante o governo do falecido presidente Hugo Chávez e de ministro das Comunicações A decisão foi anunciada pelo Departamento do Tesouro norte-americano, através do Gabinete de Controlo de Ativos Estrangeiros (OFAC), que retirou o dirigente venezuelano da lista de pessoas sancionadas As autoridades norte-americanas não divulgaram mais pormenores sobre a decisão Jorge Rodríguez é irmão da Presidente interina venezuelana, Delcy Rodríguez, que assumiu o poder após a captura de Maduro, em janeiro. O psiquiatra de 60 anos liderou a equipa de negociação do governo em conversações intermitentes com os Estados Unidos e a oposição venezuelana. «Washington levanta sanções ao presidente do parlamento venezuelano» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Washington levanta sanções ao presidente do parlamento venezuelano», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.94,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação",
-      "summary": "O Governo reafirmou esta quarta-feira, 14 de Outubro, o compromisso com a modernização e expansão do Posto Fronteiriço de Paragem Única de Machipanda, em Manica, apesar da suspensão judicial da […]",
-      "why": "«Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-14T12:45:00+00:00",
-      "age_hours": 1.6,
+      "title": "Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev",
+      "summary": "Pelo menos três pessoas morreram e mais de 20 ficaram feridas num ataque russo contra a capital ucraniana, Kiev, na noite de terça para quarta-feira.Um grande incêndio deflagrou num edifício residencial, após este ter sido atingido por fogo de artilharia russo.Segundo o presidente ucraniano, Volodymyr Zelenskyy, os bombardeamentos visavam uma central elétrica estratégica da cidade.Este referiu ainda que a central Darnytska CHP-4, que fornece aquecimento e eletricidade à capital, foi atingida por um míssil balístico.O ataque ocorreu poucos dias após o presidente norte-americano, Donald Trump, ter anunciado uma trégua energética entre a Rússia e a Ucrânia, que suspendeu os ataques às infraestruturas energéticas.No entanto, desde então, os ataques noturnos lançados pelo Kremlin continuaram a visar instalações energéticas, segundo Zelenskyy.Que \"cessar-fogo energético\"?Os ataques ocorrem também numa altura crítica para a Ucrânia, que enfrenta uma crise que já deixou mais de 600 000 pessoas sem eletricidade em várias ofensivas contra as redes de energia.“Instalações energéticas em Kiev e…",
+      "why": "«Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-14T15:40:15+00:00",
+      "age_hours": 3.5,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/14/negocios/infra-estruturas/governo-mantem-projecto-de-machipanda-apesar-da-suspensao-judicial-da-adjudicacao/",
+      "link": "https://pt.euronews.com/2026/10/14/ucrania-tres-mortos-e-mais-de-20-feridos-em-ataques-russos-noturnos-a-kiev",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 2,
+      "source_count": 2,
       "sources": [
-        "Diário Económico"
+        "Euronews Português",
+        "RTP Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "Euronews Português",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Governo reafirmou esta quarta-feira, 14 de Outubro, o compromisso com a modernização e expansão do Posto Fronteiriço de Paragem Única de Machipanda, em Manica, apesar da suspensão judicial da […]. «Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.67,
-      "source_tier": "B",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Pelo menos três mortos em novos ataques russos a Kiev",
+          "link": "https://www.rtp.pt/noticias/mundo/pelo-menos-tres-mortos-em-novos-ataques-russos-a-kiev_n1771535"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Pelo menos três pessoas morreram e mais de 20 ficaram feridas num ataque russo contra a capital ucraniana, Kiev, na noite de terça para quarta-feira.Um grande incêndio deflagrou num edifício residencial, após este ter sido atingido por fogo de artilharia russo.Segundo o presidente ucraniano, Volodymyr Zelenskyy, os bombardeamentos visavam uma central elétrica estratégica da cidade.Este referiu ainda que a central Darnytska CHP-4, que fornece aquecimento e eletricidade à capital, foi atingida por um míssil balístico.O ataque ocorreu poucos dias após o presidente norte-americano, Donald Trump, ter anunciado uma trégua energética entre a Rússia e a Ucrânia, que suspendeu os ataques às infraestruturas energéticas.No entanto, desde então, os ataques noturnos lançados pelo Kremlin continuaram a visar instalações energéticas, segundo Zelenskyy.Que \"cessar-fogo energético\"?Os ataques ocorrem também numa altura crítica para a Ucrânia, que enfrenta uma crise que já deixou mais de 600 000 pessoas sem eletricidade em várias ofensivas contra as redes de energia.“Instalações energéticas em Kiev e… «Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Ucrânia: três mortos e mais de 20 feridos em ataques russos noturnos a Kiev», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 10.77,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -271,7 +311,7 @@
       "impact": "No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "Euronews Português",
       "published": "2026-10-14T06:03:19+00:00",
-      "age_hours": 8.3,
+      "age_hours": 13.2,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/14/europe-today-chefe-da-diplomacia-espanhola-ataques-com-drones-no-mar-negro-reaproximacao-u",
       "original_source": true,
@@ -285,7 +325,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "No programa de hoje:Maria Tadeo fala em exclusivo com o ministro dos Negócios Estrangeiros de Espanha, José Manuel Albares, à margem do Fórum de Segurança de Varsóvia, sobre as pressões que se acumulam sobre o país: a guerra na Ucrânia, a crise da habitação, a incerteza de eleições antecipadas e o reacender das tensões com Marrocos devido a Ceuta.Angela Skujins analisa os ataques de drones que atingiram dois navios comerciais ao largo da costa da Bulgária na manhã de ontem, os mais recentes de uma série de ataques contra embarcações que navegam no Mar Negro, que se está a tornar o próximo palco da agressão russa.Entrevista a Bernd Lange, presidente da Comissão do Comércio Internacional do Parlamento Europeu, que comenta se as conversações do comissário europeu do Comércio, Maroš Šefčovič, na China, que registaram alguns progressos, representam ou não um verdadeiro avanço.Entrevista ao ministro irlandês Neale Richmond, que defende o compromisso alcançado pela Irlanda sobre o próximo orçamento de sete anos da UE, que retira 141 mil milhões de euros ao projeto de 1,7 biliões, na… «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 9.27,
+      "editorial_score": 8.25,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -300,11 +340,11 @@
       "impact": "No caso de «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-14T13:43:56+00:00",
-      "age_hours": 0.7,
+      "age_hours": 5.5,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/14/alemanha-apoiantes-concentram-se-em-hamburgo-no-arranque-do-julgamento-das-explosoes-do-no",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -314,7 +354,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Simpatizantes com bandeiras ucranianas concentraram-se à porta de um tribunal de Hamburgo, na quarta-feira, 14 de outubro, em solidariedade com um antigo oficial do exército ucraniano acusado de envolvimento nas explosões de 2022 nos gasodutos Nord Stream no mar Báltico. «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 8.85,
+      "editorial_score": 7.85,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -329,7 +369,7 @@
       "impact": "No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-13T21:25:52+00:00",
-      "age_hours": 17.0,
+      "age_hours": 21.8,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-agiliza-acesso-a-medicamentos-e-acelera-tratamentos-diz-governo_n1771489",
       "original_source": true,
@@ -343,37 +383,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos \"Diversos medicamentos que anteriormente apenas podiam ser obtidos mediante pedidos especiais de autorização de importação passam agora a integrar oficialmente a Lista Nacional de Medicamentos\", anunciou o Ministério da Saúde, em comunicado Na prática, prevê-se que a medida \"reduza significativamente a burocracia, acelerando o acesso aos tratamentos e proporcionando maior previsibilidade e segurança aos doentes e aos profissionais de saúde\" O anúncio acompanha a promulgação do decreto-lei que inclui três listas: a nova Lista Nacional de Medicamentos, outra dedicada a dispositivos médicos e uma terceira sobre suplementos alimentares Entre as principais inovações, o Ministério da Saúde assinala a integração de \"medicamentos biológicos e terapias inovadoras\" destinadas ao tratamento de doenças oncológicas, autoimunes, hematológicas e neurológicas A atualização reforça também \"a resposta a doenças crónicas… «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 8.46,
+      "editorial_score": 7.46,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel",
-      "summary": "O Irão executou um prisioneiro político em Kerman na quarta-feira, acusado de ter levado a cabo ataques armados durante o que o poder judicial iraniano descreveu como operações militares conjuntas entre os Estados Unidos e Israel em solo iraniano.A agência de notícias Mizan, órgão oficial do poder judicial iraniano, identificou Ali-Sina Mostafavi, de 38 anos, como um dos «agentes armados do inimigo americano-sionista» e acusou-o de ter aberto fogo contra civis na Praça Azadi, em Kerman, a 24 de março, ferindo uma pessoa e uma menina.Segundo a Mizan, ele também disparou contra soldados recrutados e veículos que passavam no dia 21 de abril, ferindo mais civis.O poder judicial acusou-o ainda de participar em protestos em dezembro de 2025 e janeiro de 2026, que as autoridades iranianas designam por “protestos de Dey” e descrevem como uma tentativa de golpe de Estado.",
-      "why": "«Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-14T11:43:30+00:00",
-      "age_hours": 2.7,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/14/irao-executa-homem-acusado-de-ataques-armados-durante-ofensivas-dos-eua-e-israel",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Irão executou um prisioneiro político em Kerman na quarta-feira, acusado de ter levado a cabo ataques armados durante o que o poder judicial iraniano descreveu como operações militares conjuntas entre os Estados Unidos e Israel em solo iraniano.A agência de notícias Mizan, órgão oficial do poder judicial iraniano, identificou Ali-Sina Mostafavi, de 38 anos, como um dos «agentes armados do inimigo americano-sionista» e acusou-o de ter aberto fogo contra civis na Praça Azadi, em Kerman, a 24 de março, ferindo uma pessoa e uma menina.Segundo a Mizan, ele também disparou contra soldados recrutados e veículos que passavam no dia 21 de abril, ferindo mais civis.O poder judicial acusou-o ainda de participar em protestos em dezembro de 2025 e janeiro de 2026, que as autoridades iranianas designam por “protestos de Dey” e descrevem como uma tentativa de golpe de Estado. «Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.44,
-      "source_tier": "C",
       "editorial_status": "HOJE"
     }
   ],
