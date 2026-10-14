@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T08:27:57.551123+00:00",
+  "updated_at": "2026-10-14T14:23:11.737310+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,19 +8,56 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores",
-      "summary": "O Presidente da República, Daniel Chapo, dirige hoje (14), na cidade de Maputo, a abertura da Conferência Nacional sobre Prevenção e Combate à Droga em Moçambique, sob o lema: “Prevenção e Combate à Droga: Novas Tendências, Seus Desafios e Respostas Inovadoras”. A Conferência constitui um espaço de reflexão e partilha de experiências sobre as dinâmicas contemporâneas do fenómeno da droga, visando contribuir para o fortalecimento das respostas nacionais de prevenção e combate a este problema. Ainda hoje, o Chefe do Estado vai dirigir a Abertura do Citizen Connect Africa – Mozambique, encontro de alto nível dedicado à transformação digital, à modernização dos serviços públicos e à promoção de soluções tecnológicas centradas no cidadão. O encontro visa promover o diálogo e a cooperação sobre os desafios e oportunidades da transformação digital, com foco na melhoria dos serviços públicos.",
-      "why": "«PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-14T05:40:29+00:00",
-      "age_hours": 2.8,
+      "title": "Governo introduz matriz de seguimento do Observatório de Desenvolvimento",
+      "summary": "Maputo, 14 Out (AIM) – O Governo moçambicano pretende introduzir uma Matriz Pública de Seguimento das Recomendações do Observatório de Desenvolvimento, atribuindo a cada recomendação um responsável, um prazo e um indicador, com vista a reforçar a prestação de contas e assegurar que as decisões tomadas se traduzam em resultados concretos. A proposta foi apresentada quarta-feira, em Maputo, pelo ministro da Planificação e Desenvolvimento, Salim Valá, na abertura da 23.ª Sessão do Observatório de Desenvolvimento, que defendeu a necessidade de transformar o mecanismo num espaço de acompanhamento efectivo dos compromissos assumidos. “A próxima sessão abrirá com a prestação de contas sobre o que foi feito”, afirmou Valá, apontando a necessidade de aproximar o diálogo das decisões, a execução dos resultados e as políticas públicas das necessidades dos cidadãos.",
+      "why": "«Governo introduz matriz de seguimento do Observatório de Desenvolvimento» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo introduz matriz de seguimento do Observatório de Desenvolvimento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-14T13:20:19+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/pr-dirige-conferencias-de-combate-a-drogas-e-aniversario-da-bolsa-de-valores/",
+      "link": "https://aimnews.org/2026/10/14/governo-introduz-matriz-de-seguimento-do-observatorio-de-desenvolvimento/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "AIM Notícias",
+        "Diário Económico"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Diário Económico",
+          "title": "Observatório de Desenvolvimento: Governo Defende Crescimento Económico Além do Gás Natural",
+          "link": "https://www.diarioeconomico.co.mz/2026/10/14/economia/observatorio-de-desenvolvimento-governo-defende-crescimento-economico-alem-do-gas-natural/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 14 Out (AIM) – O Governo moçambicano pretende introduzir uma Matriz Pública de Seguimento das Recomendações do Observatório de Desenvolvimento, atribuindo a cada recomendação um responsável, um prazo e um indicador, com vista a reforçar a prestação de contas e assegurar que as decisões tomadas se traduzam em resultados concretos. A proposta foi apresentada quarta-feira, em Maputo, pelo ministro da Planificação e Desenvolvimento, Salim Valá, na abertura da 23.ª Sessão do Observatório de Desenvolvimento, que defendeu a necessidade de transformar o mecanismo num espaço de acompanhamento efectivo dos compromissos assumidos. “A próxima sessão abrirá com a prestação de contas sobre o que foi feito”, afirmou Valá, apontando a necessidade de aproximar o diálogo das decisões, a execução dos resultados e as políticas públicas das necessidades dos cidadãos. «Governo introduz matriz de seguimento do Observatório de Desenvolvimento» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo introduz matriz de seguimento do Observatório de Desenvolvimento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 14.29,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "IA"
+      ],
+      "title": "“Educação e Cultura” em Conselho Coordenador",
+      "summary": "A ministra da Educação e Cultura, Samaria Tovela, dirige a partir de hoje até sexta-feira, na província de Maputo, o II Conselho Coordenador. O evento visa avaliar o desempenho do Sector da Educação e Cultura e definir orientações estratégicas que reforcem a contribuição da educação, investigação, ciência, tecnologia e cultura para o desenvolvimento sustentável do País. Durante os três dias, será analisada a execução do PESOE 2025 e do 1º Semestre de 2026. Está ainda em avaliação a situação da aprendizagem e dos principais indicadores educacionais; O estado de implementação dos programas estratégicos do Sector;- O balanço das actividades desenvolvidas na área da Cultura. Leia mais… O conteúdo “Educação e Cultura” em Conselho Coordenador aparece primeiro em Jornal Notícias",
+      "why": "«“Educação e Cultura” em Conselho Coordenador» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «“Educação e Cultura” em Conselho Coordenador», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-14T10:16:24+00:00",
+      "age_hours": 4.1,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/educacao-e-cultura-em-conselho-coordenador/",
+      "original_source": true,
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -28,28 +65,28 @@
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, dirige hoje (14), na cidade de Maputo, a abertura da Conferência Nacional sobre Prevenção e Combate à Droga em Moçambique, sob o lema: “Prevenção e Combate à Droga: Novas Tendências, Seus Desafios e Respostas Inovadoras”. A Conferência constitui um espaço de reflexão e partilha de experiências sobre as dinâmicas contemporâneas do fenómeno da droga, visando contribuir para o fortalecimento das respostas nacionais de prevenção e combate a este problema. Ainda hoje, o Chefe do Estado vai dirigir a Abertura do Citizen Connect Africa – Mozambique, encontro de alto nível dedicado à transformação digital, à modernização dos serviços públicos e à promoção de soluções tecnológicas centradas no cidadão. O encontro visa promover o diálogo e a cooperação sobre os desafios e oportunidades da transformação digital, com foco na melhoria dos serviços públicos. «PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR dirige conferências de combate à drogas e aniversário da Bolsa de Valores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.42,
+      "opportunity_flag": true,
+      "detailed_summary": "A ministra da Educação e Cultura, Samaria Tovela, dirige a partir de hoje até sexta-feira, na província de Maputo, o II Conselho Coordenador. O evento visa avaliar o desempenho do Sector da Educação e Cultura e definir orientações estratégicas que reforcem a contribuição da educação, investigação, ciência, tecnologia e cultura para o desenvolvimento sustentável do País. Durante os três dias, será analisada a execução do PESOE 2025 e do 1º Semestre de 2026. Está ainda em avaliação a situação da aprendizagem e dos principais indicadores educacionais; O estado de implementação dos programas estratégicos do Sector;- O balanço das actividades desenvolvidas na área da Cultura. Leia mais… O conteúdo “Educação e Cultura” em Conselho Coordenador aparece primeiro em Jornal Notícias. «“Educação e Cultura” em Conselho Coordenador» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «“Educação e Cultura” em Conselho Coordenador», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 13.15,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "União Africana defende investimento antecipado na prevenção de desastres",
-      "summary": "Maputo, 13 Out (AIM) – O Comissário da União Africana (UA) para a Agricultura, Desenvolvimento Rural, Economia Azul e Desenvolvimento Sustentável, Moses Villacat, defendeu o reforço do investimento na prevenção de desastres, considerando que a resposta tardia às calamidades prolonga o sofrimento das populações e compromete o desenvolvimento dos países africanos. A posição foi apresentada hoje, em Maputo, durante a Conferência Internacional sobre Redução do Risco de Desastres e Resiliência em África, realizada no âmbito das celebrações do Dia Internacional para a Redução do Risco de Desastres, assinalado anualmente a 13 de Outubro. Segundo Villacat, a falta de planificação, investimento e boa governação agrava a vulnerabilidade das comunidades, cujas infra-estruturas, escolas, unidades sanitárias e economias são frequentemente afectadas por fenómenos extremos.",
-      "why": "«União Africana defende investimento antecipado na prevenção de desastres» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «União Africana defende investimento antecipado na prevenção de desastres», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado",
+      "summary": "Maputo, 14 Out (AIM) – O Governo do Japão vai disponibilizar 1,8 milhões de dólares para financiar a assistência alimentar a cerca de 94 mil deslocados internos e outras pessoas afectadas pelo conflito na província de Cabo Delgado, norte de Moçambique, através do Programa Mundial para a Alimentação (PMA). O apoio visa responder às necessidades alimentares das famílias vulneráveis, num contexto marcado pelo conflito armado, deslocamentos populacionais e choques climáticos, segundo informações apresentadas durante a assinatura do acordo de cooperação entre o Japão e o PMA. “Esta contribuição permitirá apoiar cerca de 94 mil deslocados internos e outras pessoas afectadas pelo conflito em Cabo Delgado”, afirmou o embaixador do Japão em Moçambique, Keiji Hamada. Destacou a importância da assistência para responder às necessidades alimentares mais urgentes das populações. O financiamento prevê a distribuição de arroz e conservas de peixe às famílias beneficiárias.",
+      "why": "«Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-13T18:19:19+00:00",
-      "age_hours": 14.1,
+      "published": "2026-10-14T13:52:05+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/13/uniao-africana-defende-investimento-antecipado-na-prevencao-de-desastres/",
+      "link": "https://aimnews.org/2026/10/14/japao-disponibiliza-18-milhoes-de-dolares-para-assistencia-alimentar-em-cabo-delgado/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -58,8 +95,8 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 13 Out (AIM) – O Comissário da União Africana (UA) para a Agricultura, Desenvolvimento Rural, Economia Azul e Desenvolvimento Sustentável, Moses Villacat, defendeu o reforço do investimento na prevenção de desastres, considerando que a resposta tardia às calamidades prolonga o sofrimento das populações e compromete o desenvolvimento dos países africanos. A posição foi apresentada hoje, em Maputo, durante a Conferência Internacional sobre Redução do Risco de Desastres e Resiliência em África, realizada no âmbito das celebrações do Dia Internacional para a Redução do Risco de Desastres, assinalado anualmente a 13 de Outubro. Segundo Villacat, a falta de planificação, investimento e boa governação agrava a vulnerabilidade das comunidades, cujas infra-estruturas, escolas, unidades sanitárias e economias são frequentemente afectadas por fenómenos extremos. «União Africana defende investimento antecipado na prevenção de desastres» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «União Africana defende investimento antecipado na prevenção de desastres», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.06,
+      "detailed_summary": "Maputo, 14 Out (AIM) – O Governo do Japão vai disponibilizar 1,8 milhões de dólares para financiar a assistência alimentar a cerca de 94 mil deslocados internos e outras pessoas afectadas pelo conflito na província de Cabo Delgado, norte de Moçambique, através do Programa Mundial para a Alimentação (PMA). O apoio visa responder às necessidades alimentares das famílias vulneráveis, num contexto marcado pelo conflito armado, deslocamentos populacionais e choques climáticos, segundo informações apresentadas durante a assinatura do acordo de cooperação entre o Japão e o PMA. “Esta contribuição permitirá apoiar cerca de 94 mil deslocados internos e outras pessoas afectadas pelo conflito em Cabo Delgado”, afirmou o embaixador do Japão em Moçambique, Keiji Hamada. Destacou a importância da assistência para responder às necessidades alimentares mais urgentes das populações. O financiamento prevê a distribuição de arroz e conservas de peixe às famílias beneficiárias. «Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 12.9,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -69,58 +106,17 @@
         "Energia",
         "Segurança"
       ],
-      "title": "Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis",
-      "summary": "A Arábia Saudita comunicou hoje um ataque contra a sede da petrolífera estatal Aramco, em Dhahran (nordeste), após os rebeldes Houthis, do Iémen, ameaçarem atacar as instalações, num momento de escalada do conflito entre as duas partes De acordo com a agência de imprensa saudita, uma fonte do Ministério da Energia declarou que, na tarde de terça-feira, um dos edifícios da Aramco em Dhahran foi alvo de um ataque que provocou um incêndio, sem causar feridos nem vítimas mortais O anúncio surge depois de os Houthis terem ameaçado lançar uma operação em grande escala contra a sede da Aramco, bem como contra uma refinaria da mesma empresa na capital do reino árabe, Riade, em resposta aos bombardeamentos em Sanaa por parte da coligação militar liderada pela Arábia Saudita, que intervém no Iémen desde 2015 A aliança, que apoia o Governo iemenita internacionalmente reconhecido, bombardeou na terça-feira o principal depósito de combustível da capital iemenita, nas mãos dos Huthis desde 2014 Por seu lado, a coligação militar anti-Houthis liderada pela Arábia Saudita disse, na terça-feira, em…",
-      "why": "«Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem",
+      "summary": "Começa esta quarta-feira, em Hamburgo, o julgamento do ex-militar das forças especiais da Ucrânia Serhii Kuznetsov, que é acusado de participar num dos mais audaciosos atos de sabotagem da história europeia do pós-guerra. Em causa está o ataque de 2022 aos gasodutos Nord Stream que ligam a Rússia à Alemanha",
+      "why": "«Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-14T07:59:34+00:00",
-      "age_hours": 0.5,
+      "published": "2026-10-14T11:22:35+00:00",
+      "age_hours": 3.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/arabia-saudita-comunica-ataque-contra-sede-da-aramco-apos-ameaca-de-houthis_n1771528",
+      "link": "https://www.rtp.pt/noticias/mundo/nordstream-ex-oficial-ucraniano-julgado-na-alemanha-por-sabotagem_n1771582",
       "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 3,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Arábia Saudita interceptou mais três drones no seu espaço aéreo",
-          "link": "https://www.rtp.pt/noticias/mundo/arabia-saudita-interceptou-mais-tres-drones-no-seu-espaco-aereo_v1771502"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Portugal desaconselha viagens à Arábia Saudita após ataques a aeroportos",
-          "link": "https://www.rtp.pt/noticias/mundo/portugal-desaconselha-viagens-a-arabia-saudita-apos-ataques-a-aeroportos_n1771414"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "A Arábia Saudita comunicou hoje um ataque contra a sede da petrolífera estatal Aramco, em Dhahran (nordeste), após os rebeldes Houthis, do Iémen, ameaçarem atacar as instalações, num momento de escalada do conflito entre as duas partes De acordo com a agência de imprensa saudita, uma fonte do Ministério da Energia declarou que, na tarde de terça-feira, um dos edifícios da Aramco em Dhahran foi alvo de um ataque que provocou um incêndio, sem causar feridos nem vítimas mortais O anúncio surge depois de os Houthis terem ameaçado lançar uma operação em grande escala contra a sede da Aramco, bem como contra uma refinaria da mesma empresa na capital do reino árabe, Riade, em resposta aos bombardeamentos em Sanaa por parte da coligação militar liderada pela Arábia Saudita, que intervém no Iémen desde 2015 A aliança, que apoia o Governo iemenita internacionalmente reconhecido, bombardeou na terça-feira o principal depósito de combustível da capital iemenita, nas mãos dos Huthis desde 2014 Por seu lado, a coligação militar anti-Houthis liderada pela Arábia Saudita disse, na terça-feira, em… «Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Arábia Saudita comunica ataque contra sede da Aramco após ameaça de Houthis», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 11.9,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo timorense suspende atividades letivas devido à má qualidade do ar",
-      "summary": "O Ministério da Educação de Timor-Leste anunciou hoje a suspensão temporária das atividades letivas devido à má qualidade do ar registada no território nacional \"Durante três dias, 15, 16 e 17 de outubro de 2026, as atividades letivas vão estar suspensas nos estabelecimentos de ensino públicos, desde o ensino pré-escolar e básico até ao ensino secundário geral e ao ensino secundário técnico-vocacional em todo o território nacional\", afirmou, em conferência de imprensa, o secretário de Estado do Ensino Secundário, Domingos Lopes Lemos O governante explicou que a decisão foi tomada com base nas informações divulgadas pela Direção Nacional de Meteorologia e Geofísica sobre a degradação da qualidade do ar, provocada pela presença de partículas poluentes resultantes de incêndios florestais ocorridos na região A decisão teve também em conta os \"riscos para a saúde resultantes da exposição às partículas poluentes presentes na atmosfera de Timor-Leste\", esclareceu o secretário de Estado, salientando que várias escolas reportaram casos de alunos afetados pela má qualidade do ar \"Desta forma…",
-      "why": "«Governo timorense suspende atividades letivas devido à má qualidade do ar» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo timorense suspende atividades letivas devido à má qualidade do ar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-14T08:05:23+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/governo-timorense-suspende-atividades-letivas-devido-a-ma-qualidade-do-ar_n1771518",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -129,37 +125,137 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Ministério da Educação de Timor-Leste anunciou hoje a suspensão temporária das atividades letivas devido à má qualidade do ar registada no território nacional \"Durante três dias, 15, 16 e 17 de outubro de 2026, as atividades letivas vão estar suspensas nos estabelecimentos de ensino públicos, desde o ensino pré-escolar e básico até ao ensino secundário geral e ao ensino secundário técnico-vocacional em todo o território nacional\", afirmou, em conferência de imprensa, o secretário de Estado do Ensino Secundário, Domingos Lopes Lemos O governante explicou que a decisão foi tomada com base nas informações divulgadas pela Direção Nacional de Meteorologia e Geofísica sobre a degradação da qualidade do ar, provocada pela presença de partículas poluentes resultantes de incêndios florestais ocorridos na região A decisão teve também em conta os \"riscos para a saúde resultantes da exposição às partículas poluentes presentes na atmosfera de Timor-Leste\", esclareceu o secretário de Estado, salientando que várias escolas reportaram casos de alunos afetados pela má qualidade do ar \"Desta forma… «Governo timorense suspende atividades letivas devido à má qualidade do ar» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo timorense suspende atividades letivas devido à má qualidade do ar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.92,
+      "detailed_summary": "Começa esta quarta-feira, em Hamburgo, o julgamento do ex-militar das forças especiais da Ucrânia Serhii Kuznetsov, que é acusado de participar num dos mais audaciosos atos de sabotagem da história europeia do pós-guerra. Em causa está o ataque de 2022 aos gasodutos Nord Stream que ligam a Rússia à Alemanha. «Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Nordstream. Ex-oficial ucraniano julgado na Alemanha por sabotagem», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 12.38,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
+        "Energia"
+      ],
+      "title": "PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas",
+      "summary": "O Presidente da República, Daniel Chapo, exigiu, esta quarta-feira (14), o reforço das acções de combate ao tráfico de drogas nas escolas moçambicanas, defendendo o desmantelamento das redes criminosas, a […]",
+      "why": "«PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-14T13:00:00+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/14/desenvolvimento-2/pr-ordena-reforco-do-combate-ao-trafico-de-drogas-nas-escolas/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 3,
+      "source_count": 2,
+      "sources": [
+        "Diário Económico",
+        "Jornal Notícias"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Jornal Notícias",
+          "title": "Chapo exige envolvimento de todos no combate ao tráfico e consumo de drogas",
+          "link": "https://www.jornalnoticias.co.mz/destaque/chapo-exige-envolvimento-de-todos-no-combate-ao-trafico-e-consumo-de-drogas/"
+        },
+        {
+          "source": "Jornal Notícias",
+          "title": "Consumo de drogas é problema de saúde pública",
+          "link": "https://www.jornalnoticias.co.mz/destaque/consumo-de-drogas-e-problema-de-saude-publica/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, exigiu, esta quarta-feira (14), o reforço das acções de combate ao tráfico de drogas nas escolas moçambicanas, defendendo o desmantelamento das redes criminosas, a […]. «PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR Ordena Reforço do Combate ao Tráfico de Drogas nas Escolas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 12.21,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Segurança"
       ],
-      "title": "Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com 17 valores",
-      "summary": "O tema de defesa para obtenção do grau de doutor é Medidas de controlo fronteiriço da Polícia de Fronteiras na gestão da migração irregular e as suas implicações para a segurança nacional: o caso da Província de Tete (2018-2023). Estudo identifica fragilidades no controlo das fronteiras em Tete e alerta para limitações de recursos, comunicação […]",
-      "why": "«Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com…» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-14T06:09:40+00:00",
-      "age_hours": 2.3,
+      "title": "Pecuária global encara desafios para unir nutrição e sustentabilidade",
+      "summary": "Relatório da ONU revela que setor responde por um terço da proteína mundial, mas precisa equilibrar segurança alimentar, impacto ambiental e inclusão socioeconômica; entidades brasileiras como Embrapa são citadas",
+      "why": "«Pecuária global encara desafios para unir nutrição e sustentabilidade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Pecuária global encara desafios para unir nutrição e sustentabilidade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-14T12:00:00+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://opais.co.mz/vice-comandante-geral-da-policia-aquilasse-kapangula-manda-e-doutor-em-ciencia-politica-pela-ucm-com-17-valores/",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854619",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "Notícias ONU"
       ],
-      "primary_source": "O País",
+      "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O tema de defesa para obtenção do grau de doutor é Medidas de controlo fronteiriço da Polícia de Fronteiras na gestão da migração irregular e as suas implicações para a segurança nacional: o caso da Província de Tete (2018-2023). Estudo identifica fragilidades no controlo das fronteiras em Tete e alerta para limitações de recursos, comunicação […]. «Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com…» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Vice-comandante-geral da Polícia, Aquilasse Kapangula Manda, é doutor em Ciência Política pela UCM com…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 10.52,
+      "detailed_summary": "Relatório da ONU revela que setor responde por um terço da proteína mundial, mas precisa equilibrar segurança alimentar, impacto ambiental e inclusão socioeconômica; entidades brasileiras como Embrapa são citadas. «Pecuária global encara desafios para unir nutrição e sustentabilidade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Pecuária global encara desafios para unir nutrição e sustentabilidade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.5,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Riade confirma ataque contra sede da Aramco após ameaça de Houthis",
+      "summary": "A sede da petrolífera estatal saudita Saudi Aramco, na cidade de Dhahran (leste do país), foi atacada na noite de terça-feira, provocando o que o Ministério da Energia descreveu, em comunicado, como um incêndio de proporções limitadas, no meio da intensificação dos combates entre os Houthis do Iémen - aliados do Irão - e o reino saudita",
+      "why": "«Riade confirma ataque contra sede da Aramco após ameaça de Houthis» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Riade confirma ataque contra sede da Aramco após ameaça de Houthis», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-14T10:35:00+00:00",
+      "age_hours": 3.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/riade-confirma-ataque-contra-sede-da-aramco-apos-ameaca-de-houthis_n1771586",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A sede da petrolífera estatal saudita Saudi Aramco, na cidade de Dhahran (leste do país), foi atacada na noite de terça-feira, provocando o que o Ministério da Energia descreveu, em comunicado, como um incêndio de proporções limitadas, no meio da intensificação dos combates entre os Houthis do Iémen - aliados do Irão - e o reino saudita. «Riade confirma ataque contra sede da Aramco após ameaça de Houthis» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Riade confirma ataque contra sede da Aramco após ameaça de Houthis», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 11.21,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação",
+      "summary": "O Governo reafirmou esta quarta-feira, 14 de Outubro, o compromisso com a modernização e expansão do Posto Fronteiriço de Paragem Única de Machipanda, em Manica, apesar da suspensão judicial da […]",
+      "why": "«Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-14T12:45:00+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/14/negocios/infra-estruturas/governo-mantem-projecto-de-machipanda-apesar-da-suspensao-judicial-da-adjudicacao/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Governo reafirmou esta quarta-feira, 14 de Outubro, o compromisso com a modernização e expansão do Posto Fronteiriço de Paragem Única de Machipanda, em Manica, apesar da suspensão judicial da […]. «Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo Mantém Projecto de Machipanda Apesar da Suspensão Judicial da Adjudicação», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 9.67,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -175,7 +271,7 @@
       "impact": "No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "Euronews Português",
       "published": "2026-10-14T06:03:19+00:00",
-      "age_hours": 2.4,
+      "age_hours": 8.3,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/14/europe-today-chefe-da-diplomacia-espanhola-ataques-com-drones-no-mar-negro-reaproximacao-u",
       "original_source": true,
@@ -189,37 +285,37 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "No programa de hoje:Maria Tadeo fala em exclusivo com o ministro dos Negócios Estrangeiros de Espanha, José Manuel Albares, à margem do Fórum de Segurança de Varsóvia, sobre as pressões que se acumulam sobre o país: a guerra na Ucrânia, a crise da habitação, a incerteza de eleições antecipadas e o reacender das tensões com Marrocos devido a Ceuta.Angela Skujins analisa os ataques de drones que atingiram dois navios comerciais ao largo da costa da Bulgária na manhã de ontem, os mais recentes de uma série de ataques contra embarcações que navegam no Mar Negro, que se está a tornar o próximo palco da agressão russa.Entrevista a Bernd Lange, presidente da Comissão do Comércio Internacional do Parlamento Europeu, que comenta se as conversações do comissário europeu do Comércio, Maroš Šefčovič, na China, que registaram alguns progressos, representam ou não um verdadeiro avanço.Entrevista ao ministro irlandês Neale Richmond, que defende o compromisso alcançado pela Irlanda sobre o próximo orçamento de sete anos da UE, que retira 141 mil milhões de euros ao projeto de 1,7 biliões, na… «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 10.5,
+      "editorial_score": 9.27,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Chapo desafia classe laboral a impulsionar a transformação económica",
-      "summary": "Maputo, 13 de Out(AIM) – O Presidente da República, Daniel Chapo, desafiou os trabalhadores moçambicanos a renovarem o seu compromisso com o desenvolvimento nacional, defendendo o reforço da cooperação entre o Governo, os empregadores, os sindicatos e os restantes sectores da sociedade para promover a transformação económica e social de Moçambique. O apelo foi lançado em Maputo, durante as celebrações dos 50 anos da Organização dos Trabalhadores de Moçambique – Central Sindical (OTM-CS), ocasião em que o Chefe do Estado destacou a evolução do movimento sindical desde 1976 e defendeu uma maior participação dos trabalhadores nos processos de desenvolvimento do país. Na sua intervenção, Daniel Chapo afirmou que as primeiras cinco décadas foram marcadas pela construção das bases do movimento sindical, enquanto o período seguinte deverá concentrar-se na transformação económica e social. Para o efeito, apelou à mobilização dos trabalhadores em torno dos desafios actuais do país.",
-      "why": "«Chapo desafia classe laboral a impulsionar a transformação económica» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Chapo desafia classe laboral a impulsionar a transformação económica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-13T18:47:58+00:00",
-      "age_hours": 13.7,
+      "title": "Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream",
+      "summary": "Simpatizantes com bandeiras ucranianas concentraram-se à porta de um tribunal de Hamburgo, na quarta-feira, 14 de outubro, em solidariedade com um antigo oficial do exército ucraniano acusado de envolvimento nas explosões de 2022 nos gasodutos Nord Stream no mar Báltico",
+      "why": "«Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-14T13:43:56+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/13/chapo-desafia-classe-laboral-a-impulsionar-a-transformacao-economica/",
+      "link": "https://pt.euronews.com/video/2026/10/14/alemanha-apoiantes-concentram-se-em-hamburgo-no-arranque-do-julgamento-das-explosoes-do-no",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM Notícias"
+        "Euronews Português"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 13 de Out(AIM) – O Presidente da República, Daniel Chapo, desafiou os trabalhadores moçambicanos a renovarem o seu compromisso com o desenvolvimento nacional, defendendo o reforço da cooperação entre o Governo, os empregadores, os sindicatos e os restantes sectores da sociedade para promover a transformação económica e social de Moçambique. O apelo foi lançado em Maputo, durante as celebrações dos 50 anos da Organização dos Trabalhadores de Moçambique – Central Sindical (OTM-CS), ocasião em que o Chefe do Estado destacou a evolução do movimento sindical desde 1976 e defendeu uma maior participação dos trabalhadores nos processos de desenvolvimento do país. Na sua intervenção, Daniel Chapo afirmou que as primeiras cinco décadas foram marcadas pela construção das bases do movimento sindical, enquanto o período seguinte deverá concentrar-se na transformação económica e social. Para o efeito, apelou à mobilização dos trabalhadores em torno dos desafios actuais do país. «Chapo desafia classe laboral a impulsionar a transformação económica» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo desafia classe laboral a impulsionar a transformação económica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.15,
-      "source_tier": "B",
+      "detailed_summary": "Simpatizantes com bandeiras ucranianas concentraram-se à porta de um tribunal de Hamburgo, na quarta-feira, 14 de outubro, em solidariedade com um antigo oficial do exército ucraniano acusado de envolvimento nas explosões de 2022 nos gasodutos Nord Stream no mar Báltico. «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 8.85,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -233,7 +329,7 @@
       "impact": "No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-13T21:25:52+00:00",
-      "age_hours": 11.0,
+      "age_hours": 17.0,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-agiliza-acesso-a-medicamentos-e-acelera-tratamentos-diz-governo_n1771489",
       "original_source": true,
@@ -247,56 +343,26 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos \"Diversos medicamentos que anteriormente apenas podiam ser obtidos mediante pedidos especiais de autorização de importação passam agora a integrar oficialmente a Lista Nacional de Medicamentos\", anunciou o Ministério da Saúde, em comunicado Na prática, prevê-se que a medida \"reduza significativamente a burocracia, acelerando o acesso aos tratamentos e proporcionando maior previsibilidade e segurança aos doentes e aos profissionais de saúde\" O anúncio acompanha a promulgação do decreto-lei que inclui três listas: a nova Lista Nacional de Medicamentos, outra dedicada a dispositivos médicos e uma terceira sobre suplementos alimentares Entre as principais inovações, o Ministério da Saúde assinala a integração de \"medicamentos biológicos e terapias inovadoras\" destinadas ao tratamento de doenças oncológicas, autoimunes, hematológicas e neurológicas A atualização reforça também \"a resposta a doenças crónicas… «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 9.71,
+      "editorial_score": 8.46,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "El niño ameaça populações de sete distritos de Tete",
-      "summary": "O Governo dispõe de apenas 13 milhões de meticais para implementar um plano de contingência orçado em mais de 500 milhões. Agricultura, pecuária, assistência alimentar e abastecimento de água estão entre as áreas prioritárias. O Executivo activou um plano de contingência para responder aos riscos associados ao fenómeno El Niño em sete distritos da província […]",
-      "why": "«El niño ameaça populações de sete distritos de Tete» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «El niño ameaça populações de sete distritos de Tete», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-10-14T06:43:38+00:00",
-      "age_hours": 1.7,
-      "within_24h": true,
-      "link": "https://opais.co.mz/el-nino-ameaca-populacoes-de-sete-distritos-de-tete/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo dispõe de apenas 13 milhões de meticais para implementar um plano de contingência orçado em mais de 500 milhões. Agricultura, pecuária, assistência alimentar e abastecimento de água estão entre as áreas prioritárias. O Executivo activou um plano de contingência para responder aos riscos associados ao fenómeno El Niño em sete distritos da província […]. «El niño ameaça populações de sete distritos de Tete» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «El niño ameaça populações de sete distritos de Tete», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.65,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco",
-      "summary": "O ministro da Defesa Nacional e vice-primeiro-ministro da Polónia, Władysław Kosiniak-Kamysz, afirmou que a Europa tem de adotar uma mentalidade de “modo de guerra” no setor da defesa ou arrisca prejudicar os europeus no futuro.“Sou, na verdade, um defensor desse modo de guerra no que toca à produção no setor da defesa”, declarou numa conferência de imprensa à margem do Warsaw Security Forum, na terça-feira.“É isto que a Federação Russa está a fazer neste momento. Não podemos ignorar este facto.”A Rússia orientou a sua indústria de defesa para uma lógica de guerra antes da invasão em grande escala da Ucrânia, em 2022, e está previsto (fonte em inglês) que gaste 7,5% do seu produto interno bruto com as forças armadas em 2026.Em 2025, a Rússia produziu cerca de sete milhões de munições de artilharia, morteiro, carro de combate e foguetes, segundo um recente relatório (fonte em inglês) dos serviços de informação estónios.",
-      "why": "«Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel",
+      "summary": "O Irão executou um prisioneiro político em Kerman na quarta-feira, acusado de ter levado a cabo ataques armados durante o que o poder judicial iraniano descreveu como operações militares conjuntas entre os Estados Unidos e Israel em solo iraniano.A agência de notícias Mizan, órgão oficial do poder judicial iraniano, identificou Ali-Sina Mostafavi, de 38 anos, como um dos «agentes armados do inimigo americano-sionista» e acusou-o de ter aberto fogo contra civis na Praça Azadi, em Kerman, a 24 de março, ferindo uma pessoa e uma menina.Segundo a Mizan, ele também disparou contra soldados recrutados e veículos que passavam no dia 21 de abril, ferindo mais civis.O poder judicial acusou-o ainda de participar em protestos em dezembro de 2025 e janeiro de 2026, que as autoridades iranianas designam por “protestos de Dey” e descrevem como uma tentativa de golpe de Estado.",
+      "why": "«Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-13T17:58:49+00:00",
-      "age_hours": 14.5,
+      "published": "2026-10-14T11:43:30+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/13/europa-deve-adotar-producao-de-defesa-em-modo-de-guerra-diz-ministro-polaco",
+      "link": "https://pt.euronews.com/2026/10/14/irao-executa-homem-acusado-de-ataques-armados-durante-ofensivas-dos-eua-e-israel",
       "original_source": true,
-      "event_id": "evt-mundo-013",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -305,66 +371,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O ministro da Defesa Nacional e vice-primeiro-ministro da Polónia, Władysław Kosiniak-Kamysz, afirmou que a Europa tem de adotar uma mentalidade de “modo de guerra” no setor da defesa ou arrisca prejudicar os europeus no futuro.“Sou, na verdade, um defensor desse modo de guerra no que toca à produção no setor da defesa”, declarou numa conferência de imprensa à margem do Warsaw Security Forum, na terça-feira.“É isto que a Federação Russa está a fazer neste momento. Não podemos ignorar este facto.”A Rússia orientou a sua indústria de defesa para uma lógica de guerra antes da invasão em grande escala da Ucrânia, em 2022, e está previsto (fonte em inglês) que gaste 7,5% do seu produto interno bruto com as forças armadas em 2026.Em 2025, a Rússia produziu cerca de sete milhões de munições de artilharia, morteiro, carro de combate e foguetes, segundo um recente relatório (fonte em inglês) dos serviços de informação estónios. «Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Europa deve adotar produção de defesa em “modo de guerra”, diz ministro polaco», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 8.98,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mortes por desastre naturais caem 65%, mas afetados quase dobram",
-      "summary": "Dentre as consequências estão perdas diretas para a economia de mais de US$ 1 trilhão; médias globais escondem disparidades acentuadas entre países desenvolvidos e em desenvolvimento",
-      "why": "«Mortes por desastre naturais caem 65%, mas afetados quase dobram» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Mortes por desastre naturais caem 65%, mas afetados quase dobram», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Notícias ONU",
-      "published": "2026-10-13T12:00:00+00:00",
-      "age_hours": 20.5,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854614",
-      "original_source": true,
-      "event_id": "evt-mundo-015",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Dentre as consequências estão perdas diretas para a economia de mais de US$ 1 trilhão; médias globais escondem disparidades acentuadas entre países desenvolvidos e em desenvolvimento. «Mortes por desastre naturais caem 65%, mas afetados quase dobram» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Mortes por desastre naturais caem 65%, mas afetados quase dobram», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 7.73,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Rússia canaliza quase metade do orçamento para defesa e corta despesa social",
-      "summary": "O parlamento russo vai votar ainda este mês um orçamento que destina uma percentagem recorde de 44% da despesa federal à defesa e à segurança, o dobro da fatia reservada aos programas sociais, numa altura em que o Kremlin avança para o quinto ano de guerra total na Ucrânia.A Duma de Estado, câmara baixa do parlamento russo, deverá começar a analisar o projeto para o período 2027-2029 em 22 de outubro.Nas eleições legislativas de setembro, o partido Rússia Unida, do presidente Vladimir Putin, obteve uma maioria constitucional absoluta, o que torna improvável qualquer alteração de fundo antes da aprovação do orçamento.Este ano, a despesa militar atingiu 17 biliões de rublos (181 mil milhões de euros), face aos 12,1 biliões de rublos (129 mil milhões de euros) inicialmente previstos, ilustrando o custo crescente da invasão em grande escala lançada pela Rússia contra a Ucrânia em fevereiro de 2022.",
-      "why": "«Rússia canaliza quase metade do orçamento para defesa e corta despesa social» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Rússia canaliza quase metade do orçamento para defesa e corta despesa social», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-13T17:36:34+00:00",
-      "age_hours": 14.9,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/13/russia-canaliza-quase-metade-do-orcamento-para-defesa-e-corta-despesa-social",
-      "original_source": true,
-      "event_id": "evt-mundo-014",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O parlamento russo vai votar ainda este mês um orçamento que destina uma percentagem recorde de 44% da despesa federal à defesa e à segurança, o dobro da fatia reservada aos programas sociais, numa altura em que o Kremlin avança para o quinto ano de guerra total na Ucrânia.A Duma de Estado, câmara baixa do parlamento russo, deverá começar a analisar o projeto para o período 2027-2029 em 22 de outubro.Nas eleições legislativas de setembro, o partido Rússia Unida, do presidente Vladimir Putin, obteve uma maioria constitucional absoluta, o que torna improvável qualquer alteração de fundo antes da aprovação do orçamento.Este ano, a despesa militar atingiu 17 biliões de rublos (181 mil milhões de euros), face aos 12,1 biliões de rublos (129 mil milhões de euros) inicialmente previstos, ilustrando o custo crescente da invasão em grande escala lançada pela Rússia contra a Ucrânia em fevereiro de 2022. «Rússia canaliza quase metade do orçamento para defesa e corta despesa social» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia canaliza quase metade do orçamento para defesa e corta despesa social», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 6.9,
+      "detailed_summary": "O Irão executou um prisioneiro político em Kerman na quarta-feira, acusado de ter levado a cabo ataques armados durante o que o poder judicial iraniano descreveu como operações militares conjuntas entre os Estados Unidos e Israel em solo iraniano.A agência de notícias Mizan, órgão oficial do poder judicial iraniano, identificou Ali-Sina Mostafavi, de 38 anos, como um dos «agentes armados do inimigo americano-sionista» e acusou-o de ter aberto fogo contra civis na Praça Azadi, em Kerman, a 24 de março, ferindo uma pessoa e uma menina.Segundo a Mizan, ele também disparou contra soldados recrutados e veículos que passavam no dia 21 de abril, ferindo mais civis.O poder judicial acusou-o ainda de participar em protestos em dezembro de 2025 e janeiro de 2026, que as autoridades iranianas designam por “protestos de Dey” e descrevem como uma tentativa de golpe de Estado. «Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Irão executa homem acusado de ataques armados durante ofensivas dos EUA e Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.44,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }

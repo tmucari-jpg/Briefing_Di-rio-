@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T08:28:03.044019+00:00",
+  "updated_at": "2026-10-14T14:23:19.031300+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,20 +8,49 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "CPLP: Angola, Cabo Verde and Timor-Leste stand out in IMF growth forecasts, Mozambique to recover gradually",
-      "summary": "According to IMF data for Sub-Saharan Africa, Angola is expected to grow by 4.4% in 2026, up from the 3.1% estimated for 2025, before slowing to 3.3% in 2027. Inflation is, however, expected to remain high, albeit on a downward trajectory, falling from 20.2% this year to 10.6% in 2026 and 10.2% in 2027 The Cabo Verde archipelago will remain among the best-performing Portuguese-speaking African economies, with growth of 5% in both 2026 and 2027, following an estimated expansion of 6.3% in 2025 Inflation is expected to remain under control, at 1.2% this year and 2.8% in 2027. The IMF also forecasts a stable unemployment rate of 8.5% over the three years analysed In Guinea-Bissau, economic growth is expected to slow slightly from 5.8% in 2025 to 4.7% in 2026, before recovering to 4.9% in 2027. Inflation is expected to range between 2.1% and 2.5%, whilst the current account deficit is expected to remain high, fluctuating between 5.7% and 7% of GDP Mozambique, meanwhile, is expected to see a gradual recovery following an estimated contraction of 0.2% in 2025.",
-      "why": "«CPLP: Angola, Cabo Verde and Timor-Leste stand out in IMF growth forecasts, Mozambique to recover…» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «CPLP: Angola, Cabo Verde and Timor-Leste stand out in IMF growth forecasts, Mozambique to recover…», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-14T03:20:21+00:00",
-      "age_hours": 5.1,
+      "title": "Chapo challenges labor sector to renew commitment to national development",
+      "summary": "Maputo, 14 Oct (AIM) – Mozambican President Daniel Chapo has challenged the country’s workers to renew their commitment to national development, strengthening cooperation with various sectors of society. Speaking on Tuesday in Maputo during the 50th-anniversary marking the establishment of the Organization of Mozambican Workers – Trade Union Confederation (OTM-CS), the country’s first five decades of independency were marked by laying the foundations of the trade union movement, whereas the coming period should focus on economic and social transformation. Chapo calls for valuing human capital as an integral part of sustainable and inclusive development policies, highlighting the need for professional training, business investment, innovation, and the strengthening of trade union organizations. “Workers must be viewed beyond their productive role, taking into account their human, social, and family circumstances.",
+      "why": "«Chapo challenges labor sector to renew commitment to national development» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Chapo challenges labor sector to renew commitment to national development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "AIM News",
+      "published": "2026-10-14T10:21:54+00:00",
+      "age_hours": 4.0,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/cplp-angola-cabo-verde-and-timor-leste-stand-out-in-imf-growth-forecasts-mozambique-to-recover-gradually/",
+      "link": "https://aimnews.org/2026/10/14/chapo-challenges-labor-sector-to-renew-commitment-to-national-development/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-008",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 14 Oct (AIM) – Mozambican President Daniel Chapo has challenged the country’s workers to renew their commitment to national development, strengthening cooperation with various sectors of society. Speaking on Tuesday in Maputo during the 50th-anniversary marking the establishment of the Organization of Mozambican Workers – Trade Union Confederation (OTM-CS), the country’s first five decades of independency were marked by laying the foundations of the trade union movement, whereas the coming period should focus on economic and social transformation. Chapo calls for valuing human capital as an integral part of sustainable and inclusive development policies, highlighting the need for professional training, business investment, innovation, and the strengthening of trade union organizations. “Workers must be viewed beyond their productive role, taking into account their human, social, and family circumstances. «Chapo challenges labor sector to renew commitment to national development» helps explain a concrete economic or business change relevant to Moçambique. For «Chapo challenges labor sector to renew commitment to national development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 16.17,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Mozambique’s 2027 budget framework sees narrower deficit, modest growth",
+      "summary": "The budget framework, which now goes to parliament, projects a 2027 deficit of 4.6% of gross domestic product (GDP), down from a forecast of 7.0% of GDP in the 2026 budget Economic growth in 2027 is seen at 1.6% The 2026 budget predicted growth of 2.8%, but recent projections from international institutions are less optimistic The International Monetary Fund estimates 1.0% growth this year for the resource-rich southern African nation, versus 0.5% predicted by the African Development Bank A heavy debt burden is one of Mozambique’s most pressing economic challenges Problems date from a 2016 hidden-debt scandal that wrecked investor confidence and curbed access to funding Matters have been worsened by delays to major natural gas projects that had been expected to boost exports, revenue and government finances",
+      "why": "«Mozambique’s 2027 budget framework sees narrower deficit, modest growth» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Mozambique’s 2027 budget framework sees narrower deficit, modest growth», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-14T13:04:00+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambiques-2027-budget-framework-sees-narrower-deficit-modest-growth/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,9 +59,47 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "According to IMF data for Sub-Saharan Africa, Angola is expected to grow by 4.4% in 2026, up from the 3.1% estimated for 2025, before slowing to 3.3% in 2027. Inflation is, however, expected to remain high, albeit on a downward trajectory, falling from 20.2% this year to 10.6% in 2026 and 10.2% in 2027 The Cabo Verde archipelago will remain among the best-performing Portuguese-speaking African economies, with growth of 5% in both 2026 and 2027, following an estimated expansion of 6.3% in 2025 Inflation is expected to remain under control, at 1.2% this year and 2.8% in 2027. The IMF also forecasts a stable unemployment rate of 8.5% over the three years analysed In Guinea-Bissau, economic growth is expected to slow slightly from 5.8% in 2025 to 4.7% in 2026, before recovering to 4.9% in 2027. Inflation is expected to range between 2.1% and 2.5%, whilst the current account deficit is expected to remain high, fluctuating between 5.7% and 7% of GDP Mozambique, meanwhile, is expected to see a gradual recovery following an estimated contraction of 0.2% in 2025. «CPLP: Angola, Cabo Verde and Timor-Leste stand out in IMF growth forecasts, Mozambique to recover…» deserves attention because it may change political, diplomatic or security risks. For «CPLP: Angola, Cabo Verde and Timor-Leste stand out in IMF growth forecasts, Mozambique to recover…», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 14.94,
+      "detailed_summary": "The budget framework, which now goes to parliament, projects a 2027 deficit of 4.6% of gross domestic product (GDP), down from a forecast of 7.0% of GDP in the 2026 budget Economic growth in 2027 is seen at 1.6% The 2026 budget predicted growth of 2.8%, but recent projections from international institutions are less optimistic The International Monetary Fund estimates 1.0% growth this year for the resource-rich southern African nation, versus 0.5% predicted by the African Development Bank A heavy debt burden is one of Mozambique’s most pressing economic challenges Problems date from a 2016 hidden-debt scandal that wrecked investor confidence and curbed access to funding Matters have been worsened by delays to major natural gas projects that had been expected to boost exports, revenue and government finances. «Mozambique’s 2027 budget framework sees narrower deficit, modest growth» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique’s 2027 budget framework sees narrower deficit, modest growth», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 14.73,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary": "Serhii Kuznetsov (C) was pictured in court on Wednesday after his anonymity order was lifted A Ukrainian man has gone on trial in Hamburg accused of blowing up Russia's Nord Stream gas pipelines to Germany, four years after one of the most dramatic acts of sabotage in modern European history Prosecutors say Serhii Kuznetsov played a leading role in a team of saboteurs that destroyed the pipelines, accusing him of a war crime.",
+      "why": "«Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-14T13:41:51+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "DW English"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "DW English",
+          "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
+          "link": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Serhii Kuznetsov (C) was pictured in court on Wednesday after his anonymity order was lifted A Ukrainian man has gone on trial in Hamburg accused of blowing up Russia's Nord Stream gas pipelines to Germany, four years after one of the most dramatic acts of sabotage in modern European history Prosecutors say Serhii Kuznetsov played a leading role in a team of saboteurs that destroyed the pipelines, accusing him of a war crime. «Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines» matters because it may change energy and investment decisions affecting Mundo. For «Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 14.35,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -42,17 +109,17 @@
         "Economia",
         "Segurança"
       ],
-      "title": "Iran: Political infighting deepens as economic woes mount during war",
-      "summary": "Hardliners are stepping up pressure on Iran's government and calling for Foreign Minister Abbas Araghchi's removal. The oil minister resigned, but that's doing little to ease the pressure on President Masoud Pezeshkian Hardliners are piling the pressure on Iran’s government and calling for the removal of Foreign Minister Abbas Araghchi. Oil Minister Mohsen Paknejad’s resignation is also failing to ease the pressure on President Masoud Pezeshkian As the war continues and diplomatic efforts to find a solution make little headway, the internal power struggle is intensifying. President Pezeshkian’s government is the focus of mounting tension Hardliners in Iran's parliament are pushing for impeachment proceedings against Araghchi. A trigger for the discontent was Araghchi's meeting with US negotiators on the sidelines of the United Nations General Assembly in New York.",
-      "why": "«Iran: Political infighting deepens as economic woes mount during war» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Iran: Political infighting deepens as economic woes mount during war», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
+      "summary": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that With or without a deal with Russia, diesel prices on global markets are unlikely to fall significantly anytime soon That is the assessment of experts interviewed by DW regarding the latest fuel-supply agreement between US President Donald Trump and Russian President Vladimir Putin \"The main reason for high diesel prices is the war in Iran and the simultaneous disruption of shipping through the Strait of Hormuz and the Bab al-Mandeb Strait,\" said Samina Sultan, a foreign trade expert at the German Economic Institute (IW) in Cologne The situation has led to production outages and made fuel shipments \"more expensive, less secure and more difficult,\" she said Trump's deal with Russia also has an additional geopolitical dimension, Sultan said: \"It causes the wars in Ukraine and Iran to become completely intertwined.\" Things are looking up, though.",
+      "why": "«Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite…» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite…», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "DW English",
-      "published": "2026-10-14T05:30:00+00:00",
-      "age_hours": 3.0,
+      "published": "2026-10-14T14:15:00+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-006",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -61,9 +128,67 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Hardliners are stepping up pressure on Iran's government and calling for Foreign Minister Abbas Araghchi's removal. The oil minister resigned, but that's doing little to ease the pressure on President Masoud Pezeshkian Hardliners are piling the pressure on Iran’s government and calling for the removal of Foreign Minister Abbas Araghchi. Oil Minister Mohsen Paknejad’s resignation is also failing to ease the pressure on President Masoud Pezeshkian As the war continues and diplomatic efforts to find a solution make little headway, the internal power struggle is intensifying. President Pezeshkian’s government is the focus of mounting tension Hardliners in Iran's parliament are pushing for impeachment proceedings against Araghchi. A trigger for the discontent was Araghchi's meeting with US negotiators on the sidelines of the United Nations General Assembly in New York. «Iran: Political infighting deepens as economic woes mount during war» matters because it may change energy and investment decisions affecting Mundo. For «Iran: Political infighting deepens as economic woes mount during war», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 13.38,
+      "detailed_summary": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that With or without a deal with Russia, diesel prices on global markets are unlikely to fall significantly anytime soon That is the assessment of experts interviewed by DW regarding the latest fuel-supply agreement between US President Donald Trump and Russian President Vladimir Putin \"The main reason for high diesel prices is the war in Iran and the simultaneous disruption of shipping through the Strait of Hormuz and the Bab al-Mandeb Strait,\" said Samina Sultan, a foreign trade expert at the German Economic Institute (IW) in Cologne The situation has led to production outages and made fuel shipments \"more expensive, less secure and more difficult,\" she said Trump's deal with Russia also has an additional geopolitical dimension, Sultan said: \"It causes the wars in Ukraine and Iran to become completely intertwined.\" Things are looking up, though. «Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite…» matters because it may change energy and investment decisions affecting Mundo. For «Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite…», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 13.98,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mozambique: INAM warns of intense heat in Maputo, Gaza and Inhambane until Sunday",
+      "summary": "According to a weather warning issued on Wednesday, 14 October, the conditions are due to the continued influx of hot, humid air masses, which are expected to affect several districts and cities across the three provinces In Maputo province, the phenomenon is expected to affect mainly Boane, Namaacha, Moamba, Magude, Manhiça, Marracuene and Matutuíne, as well as the cities of Maputo and Matola In Gaza province, the areas at risk include the districts of Chibuto, Guijá, Mapai, Chicualacuala, Mandlakazi, Chókwè, Massingir, Mabalane, Massangena and Limpopo, as well as the city of Xai-Xai In Inhambane province, intense heat is expected to affect mainly Zavala, Mabote, Funhalouro, Panda and Inharrime INAM also noted that high temperatures would continue to affect the central region of the country, particularly districts along the Zambezi Valley In view of the forecast, the institute recommends taking precautionary and safety measures to reduce the risks associated with intense heat The next INAM weather bulletin is scheduled for Thursday, 15 October, at 10:00 a.m",
+      "why": "«Mozambique: INAM warns of intense heat in Maputo, Gaza and Inhambane until Sunday» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Mozambique: INAM warns of intense heat in Maputo, Gaza and Inhambane until Sunday», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-14T14:02:32+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-inam-warns-of-intense-heat-in-maputo-gaza-and-inhambane-until-sunday/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "According to a weather warning issued on Wednesday, 14 October, the conditions are due to the continued influx of hot, humid air masses, which are expected to affect several districts and cities across the three provinces In Maputo province, the phenomenon is expected to affect mainly Boane, Namaacha, Moamba, Magude, Manhiça, Marracuene and Matutuíne, as well as the cities of Maputo and Matola In Gaza province, the areas at risk include the districts of Chibuto, Guijá, Mapai, Chicualacuala, Mandlakazi, Chókwè, Massingir, Mabalane, Massangena and Limpopo, as well as the city of Xai-Xai In Inhambane province, intense heat is expected to affect mainly Zavala, Mabote, Funhalouro, Panda and Inharrime INAM also noted that high temperatures would continue to affect the central region of the country, particularly districts along the Zambezi Valley In view of the forecast, the institute recommends taking precautionary and safety measures to reduce the risks associated with intense heat The next INAM weather bulletin is scheduled for Thursday, 15 October, at 10:00 a.m. «Mozambique: INAM warns of intense heat in Maputo, Gaza and Inhambane until Sunday» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: INAM warns of intense heat in Maputo, Gaza and Inhambane until Sunday», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "editorial_score": 13.94,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Court urged to verify whether PODEMOS leadership is complying with its orders",
+      "summary": "Maputo, 14 Oct (AIM) – Hélder Mendonça, a senior member of PODEMOS (Optimistic Party for the Development of Mozambique) – which is now the country’s largest opposition party with 43 seats in parliament – calls on the Judicial Court in KaMavota municipal district, in Maputo, to verify whether the party leadership is complying with a court order suspending all activities carried out in the party’s name until internal elections are held. A ruling by the Judicial Court of the Kamavota orders PODEMOS central bodies “to refrain from carrying out any act related to the party on the grounds that such actions are manifestly outside their statutory mandate.” The Court also points out that the party’s current central bodies expired a five-year mandate without the holding of a National Congress, which is responsible for electing new leadership, including the party’s president, Albino Forquilha.",
+      "why": "«Court urged to verify whether PODEMOS leadership is complying with its orders» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Court urged to verify whether PODEMOS leadership is complying with its orders», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-14T09:13:36+00:00",
+      "age_hours": 5.2,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/14/court-urged-to-verify-whether-podemos-leadership-is-complying-with-its-orders/",
+      "original_source": true,
+      "event_id": "evt-mocambique-009",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 14 Oct (AIM) – Hélder Mendonça, a senior member of PODEMOS (Optimistic Party for the Development of Mozambique) – which is now the country’s largest opposition party with 43 seats in parliament – calls on the Judicial Court in KaMavota municipal district, in Maputo, to verify whether the party leadership is complying with a court order suspending all activities carried out in the party’s name until internal elections are held. A ruling by the Judicial Court of the Kamavota orders PODEMOS central bodies “to refrain from carrying out any act related to the party on the grounds that such actions are manifestly outside their statutory mandate.” The Court also points out that the party’s current central bodies expired a five-year mandate without the holding of a National Congress, which is responsible for electing new leadership, including the party’s president, Albino Forquilha. «Court urged to verify whether PODEMOS leadership is complying with its orders» is worth following because of its possible economic, institutional or regional effects. For «Court urged to verify whether PODEMOS leadership is complying with its orders», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 11.92,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -78,11 +203,11 @@
       "impact": "For «Zimbabwean author denies using AI to write award-winning story», the effects may include changes in skills demand, productivity, costs and digital opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-10-13T23:31:10+00:00",
-      "age_hours": 8.9,
+      "age_hours": 14.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -92,7 +217,43 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Simbarashe Kundizeza says he was inspired by a poem about fish tanks to write a story about his family struggles in Zimbabwe Zimbabwean writer Simbarashe Kundizeza has denied using artificial intelligence (AI) to write his short story, which won this year's Caine Prize for African Writing His statement comes a week after he scooped the £10,000 ($13,000) award and a recent article in The Atlantic said AI-detection software Pangram had shown his work about a boy whose family falls on hard times was entirely AI generated \"For the avoidance of doubt, I wrote The Blue Fighter,\" he posted on X , external The accusation has caused an uproar on social media and Caine Prize chair Ellah Wakatama told the BBC she was shocked that the US magazine had not waited for a full investigation before publishing \"I do wish The Atlantic had spent more time investigating this so that alongside Pangram, they did have evidence of real human investigation of it before tainting the prize and tainting this winner,\" Wakatama told the BBC's Front Row programme The chair of the Caine Prize's board of trustees… «Zimbabwean author denies using AI to write award-winning story» points to a concrete change in the adoption, regulation or use of technology. For «Zimbabwean author denies using AI to write award-winning story», the effects may include changes in skills demand, productivity, costs and digital opportunities in África.",
-      "editorial_score": 13.15,
+      "editorial_score": 11.9,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+      "summary": "Move by Colombia's new right-wing government marks a major shift after former President Petro severed ties with Israel",
+      "why": "«Colombia inaugurates embassy to Israel in Jerusalem» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Colombia inaugurates embassy to Israel in Jerusalem», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-14T14:08:45+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 2,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Al Jazeera English",
+          "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel?traffic_source=rss"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Move by Colombia's new right-wing government marks a major shift after former President Petro severed ties with Israel. «Colombia inaugurates embassy to Israel in Jerusalem» is worth following because of its possible economic, institutional or regional effects. For «Colombia inaugurates embassy to Israel in Jerusalem», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.96,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -101,17 +262,17 @@
       "tags": [
         "Energia"
       ],
-      "title": "Germany news: Nord Stream sabotage suspect's trial opens",
-      "summary": "A Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. At the same time, Chancellor Merz is expected to give a major policy statement. DW has more Here is a roundup of all the headlines across Germany on Wednesday, October 14: Tired of missing our real-time updates? Click here to add DW as a Preferred Source on Google The suicide rate in Germany has continued to climb, according to official statistics just released by the Federal Ministry of Health In 2025, at least 11,334 people killed themselves in Germany. That is a 9.3% increase on the previous year, and 15.6% higher than the average over the past decade This is higher than the number of deaths due to traffic accidents, AIDS, murder and manslaughter put together The data shows that this is partly due to more women (a 17.9% increase since 2021) taking their own lives, though most suicides are still carried out by men.",
-      "why": "«Germany news: Nord Stream sabotage suspect's trial opens» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Germany news: Nord Stream sabotage suspect's trial opens», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "Germany news: Merz attacks extremes for fueling division",
+      "summary": "German Chancellor Friedrich Merz accuses the far-right AfD and the socialist Left Party of deliberately fueling division and seeking political advantage from chaos. DW has the latest Here is a roundup of all the headlines across Germany on Wednesday, October 14: Tired of missing our real-time updates? Click here to add DW as a Preferred Source on Google Germany's Lufthansa has won the contest to buy a 44.9% stake in TAP Air Portugal with an offer of €1.2 billion ($1.3 billion), Portuguese Prime Minister Luis Montenegro said Lufthansa beat rival Air France-KLM after months of efforts to privatize the state-rescued airline, Montenegro told journalists following a cabinet meeting German Chancellor Friedrich Merz's overriding message was one of justice, especially between generations That was for the home crowd, trying to explain the governing coalition's reform plans of the social systems.",
+      "why": "«Germany news: Merz attacks extremes for fueling division» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Germany news: Merz attacks extremes for fueling division», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "DW English",
-      "published": "2026-10-14T06:51:00+00:00",
-      "age_hours": 1.6,
+      "published": "2026-10-14T13:48:00+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/germany-news-merz-attacks-extremes-for-fueling-division/live-79656436?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -120,153 +281,8 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. At the same time, Chancellor Merz is expected to give a major policy statement. DW has more Here is a roundup of all the headlines across Germany on Wednesday, October 14: Tired of missing our real-time updates? Click here to add DW as a Preferred Source on Google The suicide rate in Germany has continued to climb, according to official statistics just released by the Federal Ministry of Health In 2025, at least 11,334 people killed themselves in Germany. That is a 9.3% increase on the previous year, and 15.6% higher than the average over the past decade This is higher than the number of deaths due to traffic accidents, AIDS, murder and manslaughter put together The data shows that this is partly due to more women (a 17.9% increase since 2021) taking their own lives, though most suicides are still carried out by men. «Germany news: Nord Stream sabotage suspect's trial opens» matters because it may change energy and investment decisions affecting Mundo. For «Germany news: Nord Stream sabotage suspect's trial opens», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.67,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
-      "summary": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation",
-      "why": "«UN official says ‘window of opportunity’ for peace in DR Congo» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «UN official says ‘window of opportunity’ for peace in DR Congo», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-14T03:57:24+00:00",
-      "age_hours": 4.5,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation. «UN official says ‘window of opportunity’ for peace in DR Congo» deserves attention because it may change political, diplomatic or security risks. For «UN official says ‘window of opportunity’ for peace in DR Congo», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 11.06,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters",
-      "summary": "Kabila's move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels",
-      "why": "«Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-14T07:32:24+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Kabila's move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels. «Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters» is worth following because of its possible economic, institutional or regional effects. For «Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.81,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
-      "summary": "Palestinians in the occupied West Bank see little prospect Israel’s election will change their lives under occupation",
-      "why": "«‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-14T07:05:31+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Palestinians in the occupied West Bank see little prospect Israel’s election will change their lives under occupation. «‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote» is worth following because of its possible economic, institutional or regional effects. For «‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.71,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Sudan cannot afford to dismiss a chance for dialogue",
-      "summary": "A new initiative faces serious questions about military influence, but its critics should not write it off prematurely",
-      "why": "«Sudan cannot afford to dismiss a chance for dialogue» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Sudan cannot afford to dismiss a chance for dialogue», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-14T05:51:09+00:00",
-      "age_hours": 2.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A new initiative faces serious questions about military influence, but its critics should not write it off prematurely. «Sudan cannot afford to dismiss a chance for dialogue» is worth following because of its possible economic, institutional or regional effects. For «Sudan cannot afford to dismiss a chance for dialogue», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 10.46,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "summary": "The Houthi-run Yemen Petroleum Company assured residents of Sanaa that it had sufficient fuel supplies Missiles and drones have been intercepted over Riyadh after the Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa, its spokesperson says Maj Gen Turki al-Maliki said projectiles targeting the Saudi capital and other cities were intercepted.",
-      "why": "«Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-14T04:20:17+00:00",
-      "age_hours": 4.1,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "The Houthi-run Yemen Petroleum Company assured residents of Sanaa that it had sufficient fuel supplies Missiles and drones have been intercepted over Riyadh after the Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa, its spokesperson says Maj Gen Turki al-Maliki said projectiles targeting the Saudi capital and other cities were intercepted. «Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot» matters because it may change energy and investment decisions affecting Mundo. For «Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 10.15,
+      "detailed_summary": "German Chancellor Friedrich Merz accuses the far-right AfD and the socialist Left Party of deliberately fueling division and seeking political advantage from chaos. DW has the latest Here is a roundup of all the headlines across Germany on Wednesday, October 14: Tired of missing our real-time updates? Click here to add DW as a Preferred Source on Google Germany's Lufthansa has won the contest to buy a 44.9% stake in TAP Air Portugal with an offer of €1.2 billion ($1.3 billion), Portuguese Prime Minister Luis Montenegro said Lufthansa beat rival Air France-KLM after months of efforts to privatize the state-rescued airline, Montenegro told journalists following a cabinet meeting German Chancellor Friedrich Merz's overriding message was one of justice, especially between generations That was for the home crowd, trying to explain the governing coalition's reform plans of the social systems. «Germany news: Merz attacks extremes for fueling division» matters because it may change energy and investment decisions affecting Mundo. For «Germany news: Merz attacks extremes for fueling division», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 10.88,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -290,9 +306,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 1,
-    "África": 3,
-    "Mundo": 5
+    "Moçambique": 4,
+    "África": 1,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
