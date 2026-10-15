@@ -1,10 +1,170 @@
 {
-  "updated_at": "2026-10-14T23:44:53.461293+00:00",
+  "updated_at": "2026-10-15T08:03:09.146251+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Jornal avança que EUA destacam 600 militares para campanha antidroga no Panamá, diplomacia desmente",
+      "summary": "O novo York Times avançou que Washington começou a enviar cerca de 600 soldados para um centro de treino no Panamá, no âmbito da expansão do combate ao tráfico de droga regional, informação desmentida pela diplomacia norte-americana De acordo com o jornal, os 600 soldados pertencem à Divisão de Montanha de Fort Drum, em Nova Iorque, e estariam sob a coordenação de um comando de operações em Miami, com foco na segurança regional A notícia \"é categoricamente falsa\", afirmou na quarta-feira a embaixada norte-americana em comunicado Na nota, a representação diplomática acrescentou que, atualmente, 120 militares norte-americanos da 10.ª Divisão de Montanha participam num curso de treino de duas semanas na selva panamenha e regressam aos EUA após a conclusão da formação, no próximo dia 25 de outubro Refere-se ainda que este centro de treino está em funcionamento há mais de um ano como uma escola oficialmente reconhecida pelo Exército dos Estados Unidos, onde instrutores norte-americanos e panamenhos ministram, em conjunto, formação em técnicas de sobrevivência e operações na selva \"Os…",
+      "why": "«Jornal avança que EUA destacam 600 militares para campanha antidroga no Panamá, diplomacia desmente» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Jornal avança que EUA destacam 600 militares para campanha antidroga no Panamá, diplomacia desmente», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-15T07:00:23+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/jornal-avanca-que-eua-destacam-600-militares-para-campanha-antidroga-no-panama-diplomacia-desmente_n1771764",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O novo York Times avançou que Washington começou a enviar cerca de 600 soldados para um centro de treino no Panamá, no âmbito da expansão do combate ao tráfico de droga regional, informação desmentida pela diplomacia norte-americana De acordo com o jornal, os 600 soldados pertencem à Divisão de Montanha de Fort Drum, em Nova Iorque, e estariam sob a coordenação de um comando de operações em Miami, com foco na segurança regional A notícia \"é categoricamente falsa\", afirmou na quarta-feira a embaixada norte-americana em comunicado Na nota, a representação diplomática acrescentou que, atualmente, 120 militares norte-americanos da 10.ª Divisão de Montanha participam num curso de treino de duas semanas na selva panamenha e regressam aos EUA após a conclusão da formação, no próximo dia 25 de outubro Refere-se ainda que este centro de treino está em funcionamento há mais de um ano como uma escola oficialmente reconhecida pelo Exército dos Estados Unidos, onde instrutores norte-americanos e panamenhos ministram, em conjunto, formação em técnicas de sobrevivência e operações na selva \"Os… «Jornal avança que EUA destacam 600 militares para campanha antidroga no Panamá, diplomacia desmente» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Jornal avança que EUA destacam 600 militares para campanha antidroga no Panamá, diplomacia desmente», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Governo australiano apresenta lei para proteger crianças dos gigantes da tecnologia",
+      "summary": "O Governo australiano apresentou hoje um projeto de lei que visa combater o acesso \"sem limites\" dos gigantes da tecnologia às crianças e permitir que os utilizadores das redes sociais se mantenham à distância dos poderosos algoritmos No projeto de lei sobre o \"dever de vigilância digital\", o Governo trabalhista de centro-esquerda pretende obrigar Facebook, TikTok ou Instagram, entre outros, a permitir que os utilizadores desativem os algoritmos de recomendação que determinam o conteúdo exibido nos respetivos `feeds`, para que possam escolher melhor o que consultam O texto prevê que os gigantes da tecnologia sejam também diretamente responsabilizados pela proteção dos menores de 18 anos contra a pornografia, o assédio online, os conteúdos que glorificam a criminalidade ou aqueles que incentivam distúrbios alimentares \"O problema é que deixámos que os gigantes da tecnologia testassem os seus produtos em condições reais nos australianos\", declarou a ministra das Comunicações, Anika Wells, no National Press Club de Camberra, depois de ter apresentado o projeto de lei ao Parlamento…",
+      "why": "«Governo australiano apresenta lei para proteger crianças dos gigantes da tecnologia» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Governo australiano apresenta lei para proteger crianças dos gigantes da tecnologia», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-15T07:04:39+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/governo-australiano-apresenta-lei-para-proteger-criancas-dos-gigantes-da-tecnologia_n1771765",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo australiano apresentou hoje um projeto de lei que visa combater o acesso \"sem limites\" dos gigantes da tecnologia às crianças e permitir que os utilizadores das redes sociais se mantenham à distância dos poderosos algoritmos No projeto de lei sobre o \"dever de vigilância digital\", o Governo trabalhista de centro-esquerda pretende obrigar Facebook, TikTok ou Instagram, entre outros, a permitir que os utilizadores desativem os algoritmos de recomendação que determinam o conteúdo exibido nos respetivos `feeds`, para que possam escolher melhor o que consultam O texto prevê que os gigantes da tecnologia sejam também diretamente responsabilizados pela proteção dos menores de 18 anos contra a pornografia, o assédio online, os conteúdos que glorificam a criminalidade ou aqueles que incentivam distúrbios alimentares \"O problema é que deixámos que os gigantes da tecnologia testassem os seus produtos em condições reais nos australianos\", declarou a ministra das Comunicações, Anika Wells, no National Press Club de Camberra, depois de ter apresentado o projeto de lei ao Parlamento… «Governo australiano apresenta lei para proteger crianças dos gigantes da tecnologia» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Governo australiano apresenta lei para proteger crianças dos gigantes da tecnologia», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 11.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Chapo trabalha na província de Sofala",
+      "summary": "O Presidente da República, Daniel Chapo, inicia, esta quinta-feira, uma visita de trabalho de três dias à província de Sofala, no âmbito da materialização da agenda de governação de proximidade, participativa e inclusiva, que visa fortalecer a ligação entre o Estado e os cidadãos. Chapo vai escalar a cidade da Beira e os distritos de Dondo, Gorongosa e Caia, onde desenvolverá actividades de interacção directa com as comunidades e acompanhará questões relacionadas com a governação e o desenvolvimento local, indica o comunicado da Presidência da República. O programa inclui a participação no Congresso Internacional da Acção Humanitária e Cooperação (CIAHC), a realização de comícios populares, a inauguração de um sistema de abastecimento de água e encontros com diferentes segmentos da sociedade, com destaque para as mulheres da província.",
+      "why": "«Chapo trabalha na província de Sofala» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Chapo trabalha na província de Sofala», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-15T07:04:12+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/chapo-trabalha-na-provincia-de-sofala/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 3,
+      "source_count": 2,
+      "sources": [
+        "Jornal Notícias",
+        "AIM Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM Notícias",
+          "title": "Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos",
+          "link": "https://aimnews.org/2026/10/14/chapo-defende-democratizacao-do-mercado-de-capitais-para-ampliar-participacao-dos-mocambicanos/"
+        },
+        {
+          "source": "AIM Notícias",
+          "title": "Chapo promete combate cerrado ao tráfico e consumo de drogas no país",
+          "link": "https://aimnews.org/2026/10/14/chapo-promete-combate-cerrado-ao-trafico-e-consumo-de-drogas-no-pais/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, inicia, esta quinta-feira, uma visita de trabalho de três dias à província de Sofala, no âmbito da materialização da agenda de governação de proximidade, participativa e inclusiva, que visa fortalecer a ligação entre o Estado e os cidadãos. Chapo vai escalar a cidade da Beira e os distritos de Dondo, Gorongosa e Caia, onde desenvolverá actividades de interacção directa com as comunidades e acompanhará questões relacionadas com a governação e o desenvolvimento local, indica o comunicado da Presidência da República. O programa inclui a participação no Congresso Internacional da Acção Humanitária e Cooperação (CIAHC), a realização de comícios populares, a inauguração de um sistema de abastecimento de água e encontros com diferentes segmentos da sociedade, com destaque para as mulheres da província. «Chapo trabalha na província de Sofala» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo trabalha na província de Sofala», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 11.29,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "PR exige transformação digital centrada no cidadão",
+      "summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, defende que a transformação digital em Moçambique deve servir para eliminar a burocracia, reduzir os custos dos serviços públicos e permitir que os cidadãos resolvam os seus problemas através do telefone, sem terem de percorrer várias instituições ou longas distâncias. “Queremos acabar com a burocracia desnecessária!”, afirmou Chapo, hoje, em Maputo, na abertura da conferência CitizenConnect África – Moçambique, que reúne representantes de Governos, sector privado, academia e parceiros internacionais para debater a modernização dos serviços públicos. O Chefe do Estado considera que a digitalização deve representar uma mudança profunda no funcionamento da Administração Pública, indo além da instalação de equipamentos e da criação de plataformas electrónicas. “Não basta substituir o papel por um ecrã, se a burocracia continuar a mesma”, advertiu.",
+      "why": "«PR exige transformação digital centrada no cidadão» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «PR exige transformação digital centrada no cidadão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-14T16:50:22+00:00",
+      "age_hours": 15.2,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/14/pr-exige-transformacao-digital-centrada-no-cidadao/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 14 Out (AIM) – O Presidente da República, Daniel Chapo, defende que a transformação digital em Moçambique deve servir para eliminar a burocracia, reduzir os custos dos serviços públicos e permitir que os cidadãos resolvam os seus problemas através do telefone, sem terem de percorrer várias instituições ou longas distâncias. “Queremos acabar com a burocracia desnecessária!”, afirmou Chapo, hoje, em Maputo, na abertura da conferência CitizenConnect África – Moçambique, que reúne representantes de Governos, sector privado, academia e parceiros internacionais para debater a modernização dos serviços públicos. O Chefe do Estado considera que a digitalização deve representar uma mudança profunda no funcionamento da Administração Pública, indo além da instalação de equipamentos e da criação de plataformas electrónicas. “Não basta substituir o papel por um ecrã, se a burocracia continuar a mesma”, advertiu. «PR exige transformação digital centrada no cidadão» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR exige transformação digital centrada no cidadão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 10.83,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Europe Today: Kallas fala em exclusivo à Euronews no arranque de cimeira crucial da UE",
+      "summary": "No programa de hoje:Shona Murray acompanha os trabalhos do Conselho Europeu, onde os líderes da UE dão início a uma cimeira de dois dias dedicada aos preços da energia, ao próximo orçamento plurianual do bloco, ao apoio à Ucrânia e às relações em deterioração entre os Estados Unidos e a Europa.Kaja Kallas, Alta Representante da UE para os Negócios Estrangeiros e a Política de Segurança, fala em exclusivo com a nossa editora de assuntos europeus, Maria Tadeo, sobre a cimeira e a Ucrânia.Beate Meinl-Reisinger, ministra dos Negócios Estrangeiros da Áustria, explica à Euronews porque é que o alargamento avança tão lentamente e apresenta a sua proposta para dar aos países candidatos acesso ao Mercado Único à medida que concluírem as reformas.Tareq Abu Ghazaleh, ministro do Investimento da Jordânia, explica o que espera de Bruxelas para lá do compromisso da UE, de cerca de 3 mil milhões de euros até 2027, e se a Jordânia pode tornar-se uma plataforma regional enquanto continuam os conflitos no Médio Oriente.Quando e onde ver o Europe Today?É possível acompanhar em direto os apresentadores…",
+      "why": "«Europe Today: Kallas fala em exclusivo à Euronews no arranque de cimeira crucial da UE» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Europe Today: Kallas fala em exclusivo à Euronews no arranque de cimeira crucial da UE», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-15T06:02:42+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/15/europa-today-kallas-fala-em-exclusivo-a-euronews-no-arranque-de-cimeira-crucial-da-ue",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "No programa de hoje:Shona Murray acompanha os trabalhos do Conselho Europeu, onde os líderes da UE dão início a uma cimeira de dois dias dedicada aos preços da energia, ao próximo orçamento plurianual do bloco, ao apoio à Ucrânia e às relações em deterioração entre os Estados Unidos e a Europa.Kaja Kallas, Alta Representante da UE para os Negócios Estrangeiros e a Política de Segurança, fala em exclusivo com a nossa editora de assuntos europeus, Maria Tadeo, sobre a cimeira e a Ucrânia.Beate Meinl-Reisinger, ministra dos Negócios Estrangeiros da Áustria, explica à Euronews porque é que o alargamento avança tão lentamente e apresenta a sua proposta para dar aos países candidatos acesso ao Mercado Único à medida que concluírem as reformas.Tareq Abu Ghazaleh, ministro do Investimento da Jordânia, explica o que espera de Bruxelas para lá do compromisso da UE, de cerca de 3 mil milhões de euros até 2027, e se a Jordânia pode tornar-se uma plataforma regional enquanto continuam os conflitos no Médio Oriente.Quando e onde ver o Europe Today?É possível acompanhar em direto os apresentadores… «Europe Today: Kallas fala em exclusivo à Euronews no arranque de cimeira crucial da UE» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Europe Today: Kallas fala em exclusivo à Euronews no arranque de cimeira crucial da UE», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 10.58,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -16,155 +176,21 @@
       "impact": "No caso de «Educação continua a enfrentar desafio de reforçar o corpo docente e expandir a rede escolar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-14T19:14:25+00:00",
-      "age_hours": 4.5,
+      "age_hours": 12.8,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/14/educacao-continua-a-enfrentar-desafio-de-reforcar-o-corpo-docente-e-expandir-a-rede-escolar/",
       "original_source": true,
       "event_id": "evt-mocambique-003",
-      "cluster_size": 2,
-      "source_count": 2,
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "AIM Notícias",
-        "Jornal Notícias"
+        "AIM Notícias"
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Jornal Notícias",
-          "title": "“Educação e Cultura” em Conselho Coordenador",
-          "link": "https://www.jornalnoticias.co.mz/destaque/educacao-e-cultura-em-conselho-coordenador/"
-        }
-      ],
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 14 de Out (AIM) – Com um rácio de cerca de 71 alunos por professor, o sector da Educação enfrenta o desafio de reforçar o corpo docente e expandir a rede escolar, enquanto o Ministério da Educação e Cultura avalia os resultados alcançados e define as prioridades para 2027. O défice de professores e a insuficiência de infra-estruturas escolares continuam a pressionar o sistema de ensino em Moçambique, condicionando as condições de aprendizagem e colocando a qualidade da educação no centro das prioridades do Governo. O problema foi destacado pela Ministra da Educação e Cultura, Samária dos Anjos Tovela, na abertura do II Conselho Coordenador do Ministério da Educação e Cultura (MEC), que decorre de 14 a 16 de Outubro, na Província de Maputo. Os números apresentados pela governante revelam a dimensão dos desafios que o sector enfrenta. Actualmente, 17.160 professores do Ensino Primário trabalham em regime de segunda turma, enquanto 23.207 docentes do Ensino Secundário acumulam um total de 170.569 horas extraordinárias. «Educação continua a enfrentar desafio de reforçar o corpo docente e expandir a rede escolar» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Educação continua a enfrentar desafio de reforçar o corpo docente e expandir a rede escolar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 13.56,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "IA",
-        "Segurança"
-      ],
-      "title": "Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA",
-      "summary": "A bolsa nova-iorquina fechou hoje em baixa, depois de conhecer números da inflação piores do que esperado e novas inquietações relativas ao endividamento dos operadores da inteligência artificial (IA) Os resultados da sessão indicam que o índice seletivo Dow Jones Industrial Average cedeu 0,09%, o tecnológico Nasdaq recuou 1,88% e o alargado S&P500 perdeu 1,11% Angelo Kourkafas, da Edward Jones, questionado pela AFP, mencionou \"um golpe duplo\" para a praça bolsista Conhecido ante da abertura da bolsa, o índice de preços no consumidor de setembro mostrou uma subida homóloga de 3,7%, mais do que antecipada, mas sobretudo acima do de agosto A subida foi alimentada pelos combustíveis, mas mesmo excluindo a alimentação e a energia, setores considerados voláteis, a inflação manteve-se a acelerar, com 2,6% Esta informação \"reforça a ideia de que a subida da taxa de juro de referência da Reserva Federal em setembro não foi um acontecimento isolado\", considerou Kourkafas O banco central os EUA tinha então subido a taxa para conter a subida da inflação, uma novidade desde 2023.",
-      "why": "«Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-14T23:13:21+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/wall-street-fecha-em-baixa-arrastada-pela-inflacao-e-custo-do-endividamento-da-ia_n1771744",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A bolsa nova-iorquina fechou hoje em baixa, depois de conhecer números da inflação piores do que esperado e novas inquietações relativas ao endividamento dos operadores da inteligência artificial (IA) Os resultados da sessão indicam que o índice seletivo Dow Jones Industrial Average cedeu 0,09%, o tecnológico Nasdaq recuou 1,88% e o alargado S&P500 perdeu 1,11% Angelo Kourkafas, da Edward Jones, questionado pela AFP, mencionou \"um golpe duplo\" para a praça bolsista Conhecido ante da abertura da bolsa, o índice de preços no consumidor de setembro mostrou uma subida homóloga de 3,7%, mais do que antecipada, mas sobretudo acima do de agosto A subida foi alimentada pelos combustíveis, mas mesmo excluindo a alimentação e a energia, setores considerados voláteis, a inflação manteve-se a acelerar, com 2,6% Esta informação \"reforça a ideia de que a subida da taxa de juro de referência da Reserva Federal em setembro não foi um acontecimento isolado\", considerou Kourkafas O banco central os EUA tinha então subido a taxa para conter a subida da inflação, uma novidade desde 2023. «Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Wall Street fecha em baixa arrastada pela inflação e custo do endividamento da IA», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 12.9,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar",
-      "summary": "O Governo do Japão vai disponibilizar 1,8 milhão de dólares, através do Programa Alimentar Mundial (PAM), para apoiar cerca de 94 mil pessoas afectadas pelo conflito armado em Cabo Delgado. […]",
-      "why": "«Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-14T14:50:00+00:00",
-      "age_hours": 8.9,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/14/economia/desenvolvimento/cabo-delgado-japao-disponibiliza-18-milhao-de-dolares-para-assistencia-alimentar/",
-      "original_source": true,
-      "event_id": "evt-mocambique-007",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "Diário Económico",
-        "AIM Notícias"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "Japão disponibiliza 1,8 milhões de dólares para assistência alimentar em Cabo Delgado",
-          "link": "https://aimnews.org/2026/10/14/japao-disponibiliza-18-milhoes-de-dolares-para-assistencia-alimentar-em-cabo-delgado/"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo do Japão vai disponibilizar 1,8 milhão de dólares, através do Programa Alimentar Mundial (PAM), para apoiar cerca de 94 mil pessoas afectadas pelo conflito armado em Cabo Delgado. […]. «Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Delgado: Japão Disponibiliza 1,8 Milhão de Dólares Para Assistência Alimentar», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.65,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos",
-      "summary": "Maputo, 14 de Out (AIM)- O Presidente da República, Daniel Chapo, defendeu esta quarta-feira uma maior democratização do mercado de capitais em Moçambique, com vista a ampliar o acesso dos cidadãos à propriedade de empresas e à riqueza produzida no país. Exigiu igualmente o cumprimento da legislação que prevê a participação de investidores nacionais no capital de grandes empreendimentos económicos. A posição foi expressa em Maputo, durante a cerimónia comemorativa dos 28 anos da Bolsa de Valores de Moçambique (BVM), que ficou igualmente marcada pela admissão à cotação da MECTS, S.A., a primeira empresa abrangida pelo regime das Parcerias Público-Privadas (PPP), Projetos de Grande Dimensão e Concessões Empresariais a alcançar este marco. Para Chapo, a abertura do mercado bolsista a um número mais amplo de investidores moçambicanos é fundamental para transformar os cidadãos em participantes diretos na propriedade dos ativos produtivos, ultrapassando o seu papel tradicional de trabalhadores e consumidores.",
-      "why": "«Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-14T21:05:36+00:00",
-      "age_hours": 2.6,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/14/chapo-defende-democratizacao-do-mercado-de-capitais-para-ampliar-participacao-dos-mocambicanos/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 14 de Out (AIM)- O Presidente da República, Daniel Chapo, defendeu esta quarta-feira uma maior democratização do mercado de capitais em Moçambique, com vista a ampliar o acesso dos cidadãos à propriedade de empresas e à riqueza produzida no país. Exigiu igualmente o cumprimento da legislação que prevê a participação de investidores nacionais no capital de grandes empreendimentos económicos. A posição foi expressa em Maputo, durante a cerimónia comemorativa dos 28 anos da Bolsa de Valores de Moçambique (BVM), que ficou igualmente marcada pela admissão à cotação da MECTS, S.A., a primeira empresa abrangida pelo regime das Parcerias Público-Privadas (PPP), Projetos de Grande Dimensão e Concessões Empresariais a alcançar este marco. Para Chapo, a abertura do mercado bolsista a um número mais amplo de investidores moçambicanos é fundamental para transformar os cidadãos em participantes diretos na propriedade dos ativos produtivos, ultrapassando o seu papel tradicional de trabalhadores e consumidores. «Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo defende democratização do mercado de capitais para ampliar participação dos moçambicanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.46,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "PR exige desmantelamento de redes que levam drogas às escola",
-      "summary": "O Presidente da República, Daniel Chapo, exige uma actuação coordenada no desmantelamento de redes que colocam drogas nas escolas, facto que compromete o futuro de adolescentes e jovens. Chapo manifestou esta preocupação na abertura da Conferência Nacional de Combate às Drogas que decorre em Maputo, recordando que as escolas são lugares para a formação. Neste contexto exigiu a reactivação de núcleos contra drogas nas escolas. “Não podemos aceitar que redes de tráfico entreguem veneno às crianças, embrulhados e disfarçados em rebuçados”, avisou. Exigiu à Policia da República de Moçambique, ao Gabinete Central de Combate à Corrupção, Serviço Nacional de Investigação Criminal e outras forças a reforçar o combate às bocas de fumo e aumentar o controlo sobre as substâncias que podem ser usadas para a produção de drogas. Leia mais… O conteúdo PR exige desmantelamento de redes que levam drogas às escola aparece primeiro em Jornal Notícias",
-      "why": "«PR exige desmantelamento de redes que levam drogas às escola» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «PR exige desmantelamento de redes que levam drogas às escola», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-14T09:59:36+00:00",
-      "age_hours": 13.8,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/pr-exige-desmantelamento-de-redes-que-levam-drogas-as-escola/",
-      "original_source": true,
-      "event_id": "evt-mocambique-009",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, exige uma actuação coordenada no desmantelamento de redes que colocam drogas nas escolas, facto que compromete o futuro de adolescentes e jovens. Chapo manifestou esta preocupação na abertura da Conferência Nacional de Combate às Drogas que decorre em Maputo, recordando que as escolas são lugares para a formação. Neste contexto exigiu a reactivação de núcleos contra drogas nas escolas. “Não podemos aceitar que redes de tráfico entreguem veneno às crianças, embrulhados e disfarçados em rebuçados”, avisou. Exigiu à Policia da República de Moçambique, ao Gabinete Central de Combate à Corrupção, Serviço Nacional de Investigação Criminal e outras forças a reforçar o combate às bocas de fumo e aumentar o controlo sobre as substâncias que podem ser usadas para a produção de drogas. Leia mais… O conteúdo PR exige desmantelamento de redes que levam drogas às escola aparece primeiro em Jornal Notícias. «PR exige desmantelamento de redes que levam drogas às escola» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR exige desmantelamento de redes que levam drogas às escola», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 11.12,
+      "editorial_score": 10.33,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -173,76 +199,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo",
-      "summary": "O Governo dinamarquês transmitiu a Donald Trump que ele não tem qualquer direito preferencial sobre a exploração de matérias-primas na Gronelândia. O aviso surge na sequência de o presidente norte-americano ter anunciado \"operações massivas\" na ilha",
-      "why": "«Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-14T23:23:02+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/dinamarca-avisa-trump-sobre-gronelandia-nao-ha-direitos-especiais-para-a-exploracao-do-subsolo_n1771738",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo dinamarquês transmitiu a Donald Trump que ele não tem qualquer direito preferencial sobre a exploração de matérias-primas na Gronelândia. O aviso surge na sequência de o presidente norte-americano ter anunciado \"operações massivas\" na ilha. «Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Dinamarca avisa Trump sobre Gronelândia: Não há \"direitos especiais\" para a exploração do subsolo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.92,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Economia"
-      ],
-      "title": "Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos",
-      "summary": "Estimativa do Pnud leva em conta fatores demográficos e estado atual da tecnologia, marcado pelo avanço da inteligência artificial; agência lança iniciativas para tentar assegurar mais oportunidades profissionais",
-      "why": "«Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "title": "ONU realiza reunião com prefeitos de todo o mundo para pedir reformas",
+      "summary": "Em Genebra, os alcaldes aprovaram plano multilateral para remover impedimentos orçamentários e regulatórios; reunião exigiu dos países uma descentralização fiscal, reforma tributária e fundos voltados a projetos de infraestrutura urbana",
+      "why": "«ONU realiza reunião com prefeitos de todo o mundo para pedir reformas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «ONU realiza reunião com prefeitos de todo o mundo para pedir reformas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Notícias ONU",
       "published": "2026-10-14T12:00:00+00:00",
-      "age_hours": 11.7,
+      "age_hours": 20.1,
       "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854631",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854635",
       "original_source": true,
-      "event_id": "evt-mundo-009",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Estimativa do Pnud leva em conta fatores demográficos e estado atual da tecnologia, marcado pelo avanço da inteligência artificial; agência lança iniciativas para tentar assegurar mais oportunidades profissionais. «Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Agência da ONU diz que 800 milhões de jovens enfrentam futuro sem empregos», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 10.56,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Pecuária global encara desafios para unir nutrição e sustentabilidade",
-      "summary": "Relatório da ONU revela que setor responde por um terço da proteína mundial, mas precisa equilibrar segurança alimentar, impacto ambiental e inclusão socioeconômica; entidades brasileiras como Embrapa são citadas",
-      "why": "«Pecuária global encara desafios para unir nutrição e sustentabilidade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Pecuária global encara desafios para unir nutrição e sustentabilidade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-14T12:00:00+00:00",
-      "age_hours": 11.7,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854619",
-      "original_source": true,
-      "event_id": "evt-mundo-010",
+      "event_id": "evt-mundo-014",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -251,8 +218,8 @@
       "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Relatório da ONU revela que setor responde por um terço da proteína mundial, mas precisa equilibrar segurança alimentar, impacto ambiental e inclusão socioeconômica; entidades brasileiras como Embrapa são citadas. «Pecuária global encara desafios para unir nutrição e sustentabilidade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Pecuária global encara desafios para unir nutrição e sustentabilidade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 9.56,
+      "detailed_summary": "Em Genebra, os alcaldes aprovaram plano multilateral para remover impedimentos orçamentários e regulatórios; reunião exigiu dos países uma descentralização fiscal, reforma tributária e fundos voltados a projetos de infraestrutura urbana. «ONU realiza reunião com prefeitos de todo o mundo para pedir reformas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «ONU realiza reunião com prefeitos de todo o mundo para pedir reformas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.81,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -267,7 +234,7 @@
       "impact": "No caso de «Edson Macuácua Nomeado Novo Ministro da Educação e Cultura», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
       "published": "2026-10-14T20:10:43+00:00",
-      "age_hours": 3.6,
+      "age_hours": 11.9,
       "within_24h": true,
       "link": "https://opais.co.mz/edson-macuacua-nomeado-novo-ministro-da-educacao-e-cultura/",
       "original_source": true,
@@ -281,38 +248,9 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Presidente da República, Daniel Francisco Chapo, fez mexidas no Governo com a nomeação de Edson Macuácua para o cargo de Ministro da Educação e Cultura. ​De acordo com despachos presidenciais enviados à imprensa, a decisão enquadra-se nas competências que a Constituição dá ao Chefe do Estado para exonerar e nomear membros do Executivo. ​Antes […]. «Edson Macuácua Nomeado Novo Ministro da Educação e Cultura» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Edson Macuácua Nomeado Novo Ministro da Educação e Cultura», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.25,
+      "editorial_score": 7.52,
       "source_tier": "B",
       "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo",
-      "summary": "O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos \"Diversos medicamentos que anteriormente apenas podiam ser obtidos mediante pedidos especiais de autorização de importação passam agora a integrar oficialmente a Lista Nacional de Medicamentos\", anunciou o Ministério da Saúde, em comunicado Na prática, prevê-se que a medida \"reduza significativamente a burocracia, acelerando o acesso aos tratamentos e proporcionando maior previsibilidade e segurança aos doentes e aos profissionais de saúde\" O anúncio acompanha a promulgação do decreto-lei que inclui três listas: a nova Lista Nacional de Medicamentos, outra dedicada a dispositivos médicos e uma terceira sobre suplementos alimentares Entre as principais inovações, o Ministério da Saúde assinala a integração de \"medicamentos biológicos e terapias inovadoras\" destinadas ao tratamento de doenças oncológicas, autoimunes, hematológicas e neurológicas A atualização reforça também \"a resposta a doenças crónicas…",
-      "why": "«Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "RTP Notícias",
-      "published": "2026-10-13T21:25:52+00:00",
-      "age_hours": 26.3,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-agiliza-acesso-a-medicamentos-e-acelera-tratamentos-diz-governo_n1771489",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo cabo-verdiano anunciou hoje a aprovação e promulgação da nova Lista Nacional de Medicamentos como forma de agilizar o acesso a produtos farmacêuticos e a tratamentos médicos \"Diversos medicamentos que anteriormente apenas podiam ser obtidos mediante pedidos especiais de autorização de importação passam agora a integrar oficialmente a Lista Nacional de Medicamentos\", anunciou o Ministério da Saúde, em comunicado Na prática, prevê-se que a medida \"reduza significativamente a burocracia, acelerando o acesso aos tratamentos e proporcionando maior previsibilidade e segurança aos doentes e aos profissionais de saúde\" O anúncio acompanha a promulgação do decreto-lei que inclui três listas: a nova Lista Nacional de Medicamentos, outra dedicada a dispositivos médicos e uma terceira sobre suplementos alimentares Entre as principais inovações, o Ministério da Saúde assinala a integração de \"medicamentos biológicos e terapias inovadoras\" destinadas ao tratamento de doenças oncológicas, autoimunes, hematológicas e neurológicas A atualização reforça também \"a resposta a doenças crónicas… «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde agiliza acesso a medicamentos e acelera tratamentos diz Governo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 7.43,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "África",
@@ -326,8 +264,8 @@
       "impact": "No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "Euronews Português",
       "published": "2026-10-14T06:03:19+00:00",
-      "age_hours": 17.7,
-      "within_24h": true,
+      "age_hours": 26.0,
+      "within_24h": false,
       "link": "https://pt.euronews.com/2026/10/14/europe-today-chefe-da-diplomacia-espanhola-ataques-com-drones-no-mar-negro-reaproximacao-u",
       "original_source": true,
       "event_id": "evt-áfrica-001",
@@ -337,12 +275,12 @@
         "Euronews Português"
       ],
       "primary_source": "Euronews Português",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "No programa de hoje:Maria Tadeo fala em exclusivo com o ministro dos Negócios Estrangeiros de Espanha, José Manuel Albares, à margem do Fórum de Segurança de Varsóvia, sobre as pressões que se acumulam sobre o país: a guerra na Ucrânia, a crise da habitação, a incerteza de eleições antecipadas e o reacender das tensões com Marrocos devido a Ceuta.Angela Skujins analisa os ataques de drones que atingiram dois navios comerciais ao largo da costa da Bulgária na manhã de ontem, os mais recentes de uma série de ataques contra embarcações que navegam no Mar Negro, que se está a tornar o próximo palco da agressão russa.Entrevista a Bernd Lange, presidente da Comissão do Comércio Internacional do Parlamento Europeu, que comenta se as conversações do comissário europeu do Comércio, Maroš Šefčovič, na China, que registaram alguns progressos, representam ou não um verdadeiro avanço.Entrevista ao ministro irlandês Neale Richmond, que defende o compromisso alcançado pela Irlanda sobre o próximo orçamento de sete anos da UE, que retira 141 mil milhões de euros ao projeto de 1,7 biliões, na… «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 7.31,
+      "editorial_score": 6.44,
       "source_tier": "C",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Mundo",
@@ -355,11 +293,11 @@
       "impact": "No caso de «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-14T13:43:56+00:00",
-      "age_hours": 10.0,
+      "age_hours": 18.3,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/14/alemanha-apoiantes-concentram-se-em-hamburgo-no-arranque-do-julgamento-das-explosoes-do-no",
       "original_source": true,
-      "event_id": "evt-mundo-008",
+      "event_id": "evt-mundo-013",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -369,7 +307,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Simpatizantes com bandeiras ucranianas concentraram-se à porta de um tribunal de Hamburgo, na quarta-feira, 14 de outubro, em solidariedade com um antigo oficial do exército ucraniano acusado de envolvimento nas explosões de 2022 nos gasodutos Nord Stream no mar Báltico. «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Alemanha: apoiantes concentram-se em Hamburgo no arranque do julgamento das explosões do Nord Stream», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 6.92,
+      "editorial_score": 5.19,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -393,8 +331,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 5,
-    "África": 2,
+    "Moçambique": 4,
+    "África": 1,
     "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",

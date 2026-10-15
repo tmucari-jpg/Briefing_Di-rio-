@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-10-14T23:45:26.484624+00:00",
+  "updated_at": "2026-10-15T08:03:30.965775+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Concursos",
+      "title": "Mozambique: Machipanda border concession tender has not been cancelled – O País",
+      "summary": "The modernisation of the Machipanda border crossing, the largest project on the Beira Corridor, is now before the courts. The US$37 million international public tender has been suspended by a decision of the Maputo City Administrative Court, but the government insists it has not been cancelled. At issue is the International Public Tender launched by… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique: Machipanda border concession tender has not been cancelled – O País” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique: Machipanda border concession tender has not been cancelled – O País”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-15T03:11:19+00:00",
+      "age_hours": 4.9,
+      "link": "https://clubofmozambique.com/news/mozambique-machipanda-border-concession-tender-has-not-been-cancelled-o-pais/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 9
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",
