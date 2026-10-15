@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-10-15T18:55:32.504174+00:00",
+  "updated_at": "2026-10-15T21:59:28.263052+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Concursos",
+      "title": "Integrated project logistics intelligence services",
+      "summary": "Mozambique Rovuma Venture S.p.A (MRV) invites qualified companies for “Integrated project logistics intelligence services”. The deadline shown in the official source is 30-Oct-26. Expression of interest.",
+      "entity": "Mozambique Rovuma Venture S.p.A (MRV)",
+      "deadline": "30-Oct-26",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Integrated project logistics intelligence services” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Integrated project logistics intelligence services”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "ExxonMobil Moçambique",
+      "published": "2026-10-16T00:00:00+00:00",
+      "age_hours": 0,
+      "link": "https://corporate.exxonmobil.com/-/media/Global/Files/locations/Mozambique/EOI/2026/EOI-MRV-IPLI-EN.pdf",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 12
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",

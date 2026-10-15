@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T18:55:14.430479+00:00",
+  "updated_at": "2026-10-15T21:59:09.350342+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,17 +8,75 @@
     {
       "section": "Moçambique",
       "tags": [
+        "Energia"
+      ],
+      "title": "WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza",
+      "summary": "Maputo, 15 de Out (AIM) – A WaterAid Moçambique, com o apoio financeiro da Enabel e em colaboração com o Governo e parceiros do sector, está a implementar o projecto REGASH no distrito de Guijá, província de Gaza, com vista à melhoria da gestão, da resiliência climática e da continuidade dos serviços de abastecimento de água. A iniciativa insere-se nos esforços para garantir o funcionamento sustentável das infra-estruturas de abastecimento de água e a prestação de serviços fiáveis às comunidades beneficiárias. No âmbito do projecto, decorre desde hoje no distrito de Guijá um seminário que reúne representantes do Governo, entidades reguladoras, parceiros de cooperação e organizações do sector, com o objectivo de desenvolver um Plano de Acção de Sustentabilidade dos Sistemas de Abastecimento de Água. A sessão foi antecedida por um encontro de cortesia entre representantes das instituições governamentais, entidades reguladoras, da Enabel em Moçambique e da WaterAid Moçambique com o administrador do distrito de Guijá.",
+      "why": "«WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-15T20:01:06+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/15/wateraid-mocambique-promove-sustentabilidade-dos-sistemas-de-abastecimento-de-agua-em-gaza/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 15 de Out (AIM) – A WaterAid Moçambique, com o apoio financeiro da Enabel e em colaboração com o Governo e parceiros do sector, está a implementar o projecto REGASH no distrito de Guijá, província de Gaza, com vista à melhoria da gestão, da resiliência climática e da continuidade dos serviços de abastecimento de água. A iniciativa insere-se nos esforços para garantir o funcionamento sustentável das infra-estruturas de abastecimento de água e a prestação de serviços fiáveis às comunidades beneficiárias. No âmbito do projecto, decorre desde hoje no distrito de Guijá um seminário que reúne representantes do Governo, entidades reguladoras, parceiros de cooperação e organizações do sector, com o objectivo de desenvolver um Plano de Acção de Sustentabilidade dos Sistemas de Abastecimento de Água. A sessão foi antecedida por um encontro de cortesia entre representantes das instituições governamentais, entidades reguladoras, da Enabel em Moçambique e da WaterAid Moçambique com o administrador do distrito de Guijá. «WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.58,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Pezeshkian assume que República Islâmica enfrenta a maior pressão da sua história",
+      "summary": "O Presidente iraniano reconheceu hoje que a República Islâmica nunca enfrentou, desde a sua fundação, em 1979, \"uma pressão e dificuldades tão intensas\" como as atuais, devido à guerra com os Estados Unidos No entanto, salientou Masoud Pezeshkian, o Irão \"mantém-se firme\" \"Nos 48 anos decorridos desde a Revolução [Islâmica], o país nunca enfrentou uma pressão e dificuldades tão intensas\", declarou o chefe de Estado iraniano durante uma reunião sobre planeamento e desenvolvimento da província do Azerbaijão Oriental, segundo a agência IRNA Pezeshkian recordou que, nos primeiros dias da guerra, iniciada pelos Estados Unidos e por Israel a 28 de fevereiro, foram mortos o então líder supremo, Ali Khamenei, e outros altos responsáveis iranianos, tendo sido também bombardeadas fábricas, centrais elétricas e outras infraestruturas do país \"O inimigo acreditava que tudo se desmoronaria por si só com os ataques\", afirmou, sustentando contudo que, apesar das dificuldades, o Irão conseguiu, \"até agora, manter-se firme\" O Presidente iraniano declarou que os Estados Unidos procuram bloquear o…",
+      "why": "«Pezeshkian assume que República Islâmica enfrenta a maior pressão da sua história» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Pezeshkian assume que República Islâmica enfrenta a maior pressão da sua história», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-15T21:30:00+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/pezeshkian-assume-que-republica-islamica-enfrenta-a-maior-pressao-da-sua-historia_n1771919",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente iraniano reconheceu hoje que a República Islâmica nunca enfrentou, desde a sua fundação, em 1979, \"uma pressão e dificuldades tão intensas\" como as atuais, devido à guerra com os Estados Unidos No entanto, salientou Masoud Pezeshkian, o Irão \"mantém-se firme\" \"Nos 48 anos decorridos desde a Revolução [Islâmica], o país nunca enfrentou uma pressão e dificuldades tão intensas\", declarou o chefe de Estado iraniano durante uma reunião sobre planeamento e desenvolvimento da província do Azerbaijão Oriental, segundo a agência IRNA Pezeshkian recordou que, nos primeiros dias da guerra, iniciada pelos Estados Unidos e por Israel a 28 de fevereiro, foram mortos o então líder supremo, Ali Khamenei, e outros altos responsáveis iranianos, tendo sido também bombardeadas fábricas, centrais elétricas e outras infraestruturas do país \"O inimigo acreditava que tudo se desmoronaria por si só com os ataques\", afirmou, sustentando contudo que, apesar das dificuldades, o Irão conseguiu, \"até agora, manter-se firme\" O Presidente iraniano declarou que os Estados Unidos procuram bloquear o… «Pezeshkian assume que República Islâmica enfrenta a maior pressão da sua história» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Pezeshkian assume que República Islâmica enfrenta a maior pressão da sua história», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.9,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
         "Economia"
       ],
-      "title": "Uganda procura investimento italiano para acelerar a industrialização",
-      "summary": "Maputo, 15 de Outubro (AIM) — O Uganda está a intensificar os esforços para atrair investimentos italianos e acelerar a industrialização da sua economia. A estratégia esteve no centro do primeiro Fórum de Negócios e Investimento Uganda-Itália, realizado em Roma, que reuniu representantes governamentais, empresários e investidores dos dois países para identificar oportunidades de cooperação económica. Sob o lema «Libertar uma prosperidade partilhada», o encontro de dois dias procurou promover as exportações ugandesas, estabelecer parcerias empresariais e incentivar a instalação de empresas italianas no país africano, com destaque para os sectores agro-industrial, energético e farmacêutico. Escreve AGI. A iniciativa foi organizada pela Embaixada do Uganda em Roma, em colaboração com a Confindustria Assafrica & Mediterraneo, a Organização das Nações Unidas para o Desenvolvimento Industrial (ONUDI ITPO), a Beck Italia e a Agência ICE. A primeira-ministra ugandesa, Robinah Nabbanja, participou nos trabalhos.",
-      "why": "«Uganda procura investimento italiano para acelerar a industrialização» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Uganda procura investimento italiano para acelerar a industrialização», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres",
+      "summary": "Maputo, 15 de Outubro (AIM) — O projecto TRISEG vai apoiar 200 Pequenas e Médias Empresas (PME) em Moçambique, das quais 60 por cento deverão ser detidas ou lideradas por mulheres, no âmbito da segunda fase da iniciativa lançada em Maputo, para reforçar a competitividade empresarial, a capacidade de exportação, a transformação digital e a resiliência climática. Financiado pela Global Affairs Canada (GAC) e implementado pela TFO Canada, em parceria com o Instituto para a Promoção das Pequenas e Médias Empresas (IPEME), o projecto visa contribuir para o crescimento económico inclusivo e sustentável, através do fortalecimento das capacidades das empresas nacionais. A iniciativa pretende apoiar as PME na melhoria do seu posicionamento competitivo, na preparação para aceder aos mercados de exportação e na adopção de soluções digitais, bem como no desenvolvimento de capacidades para responder aos desafios das alterações climáticas.",
+      "why": "«Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-15T17:32:45+00:00",
-      "age_hours": 1.4,
+      "published": "2026-10-15T20:08:34+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/15/uganda-procura-investimento-italiano-para-acelerar-a-industrializacao/",
+      "link": "https://aimnews.org/2026/10/15/projecto-triseg-vai-apoiar-200-pme-em-mocambique-60-lideradas-por-mulheres/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -29,8 +87,37 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 15 de Outubro (AIM) — O Uganda está a intensificar os esforços para atrair investimentos italianos e acelerar a industrialização da sua economia. A estratégia esteve no centro do primeiro Fórum de Negócios e Investimento Uganda-Itália, realizado em Roma, que reuniu representantes governamentais, empresários e investidores dos dois países para identificar oportunidades de cooperação económica. Sob o lema «Libertar uma prosperidade partilhada», o encontro de dois dias procurou promover as exportações ugandesas, estabelecer parcerias empresariais e incentivar a instalação de empresas italianas no país africano, com destaque para os sectores agro-industrial, energético e farmacêutico. Escreve AGI. A iniciativa foi organizada pela Embaixada do Uganda em Roma, em colaboração com a Confindustria Assafrica & Mediterraneo, a Organização das Nações Unidas para o Desenvolvimento Industrial (ONUDI ITPO), a Beck Italia e a Agência ICE. A primeira-ministra ugandesa, Robinah Nabbanja, participou nos trabalhos. «Uganda procura investimento italiano para acelerar a industrialização» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Uganda procura investimento italiano para acelerar a industrialização», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 14.71,
+      "detailed_summary": "Maputo, 15 de Outubro (AIM) — O projecto TRISEG vai apoiar 200 Pequenas e Médias Empresas (PME) em Moçambique, das quais 60 por cento deverão ser detidas ou lideradas por mulheres, no âmbito da segunda fase da iniciativa lançada em Maputo, para reforçar a competitividade empresarial, a capacidade de exportação, a transformação digital e a resiliência climática. Financiado pela Global Affairs Canada (GAC) e implementado pela TFO Canada, em parceria com o Instituto para a Promoção das Pequenas e Médias Empresas (IPEME), o projecto visa contribuir para o crescimento económico inclusivo e sustentável, através do fortalecimento das capacidades das empresas nacionais. A iniciativa pretende apoiar as PME na melhoria do seu posicionamento competitivo, na preparação para aceder aos mercados de exportação e na adopção de soluções digitais, bem como no desenvolvimento de capacidades para responder aos desafios das alterações climáticas. «Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.62,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens",
+      "summary": "A taxa de desemprego em Angola recua de 31,5%, em 2024, para 21,3% no primeiro trimestre de 2026, uma redução de 10,2 pontos percentuais, segundo dados apresentados, esta quinta-feira, pelo Presidente da República, João Lourenço, durante o discurso sobre o Estado da Nação, na Assembleia Nacional, em Luanda. Apesar da descida, o mercado de trabalho […]",
+      "why": "«Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
+      "impact": "No caso de «Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "O País",
+      "published": "2026-10-15T19:45:47+00:00",
+      "age_hours": 2.2,
+      "within_24h": true,
+      "link": "https://opais.co.mz/desemprego-cai-para-213-em-angola-mas-atinge-407-dos-jovens/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A taxa de desemprego em Angola recua de 31,5%, em 2024, para 21,3% no primeiro trimestre de 2026, uma redução de 10,2 pontos percentuais, segundo dados apresentados, esta quinta-feira, pelo Presidente da República, João Lourenço, durante o discurso sobre o Estado da Nação, na Assembleia Nacional, em Luanda. Apesar da descida, o mercado de trabalho […]. «Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.54,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -45,11 +132,11 @@
       "impact": "No caso de «FMI prevê crescimento de 4,5% para áfrica em 2026, mas alerta para corte na ajuda externa», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "O País",
       "published": "2026-10-15T18:24:44+00:00",
-      "age_hours": 0.5,
+      "age_hours": 3.6,
       "within_24h": true,
       "link": "https://opais.co.mz/fmi-preve-crescimento-de-45-para-africa-em-2026-mas-alerta-para-corte-na-ajuda-externa/",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -59,8 +146,44 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A economia africana deverá crescer 4,5% em 2026 e acelerar para 5% em 2027, mas a redução da ajuda externa deixa vários países mais vulneráveis a novos choques económicos. A previsão foi avançada esta quinta-feira pelo Fundo Monetário Internacional (FMI), durante as reuniões anuais da instituição e do Banco Mundial, em Banguecoque, na Tailândia. Segundo […]. «FMI prevê crescimento de 4,5% para áfrica em 2026, mas alerta para corte na ajuda externa» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «FMI prevê crescimento de 4,5% para áfrica em 2026, mas alerta para corte na ajuda externa», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.9,
+      "editorial_score": 12.25,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Netanyahu promete afastar radical Ben Gvir da Segurança e Defesa",
+      "summary": "O primeiro-ministro de Israel, Benjamin Netanyahu, prometeu hoje afastar o político radical Itamar Ben Gvir da pasta que ocupa no atual governo, a Segurança Nacional, e também da Defesa, num executivo saído das próximas eleições Num evento na cidade israelita de Acre noticiado pelo `Times of Israel`, Netanyahu rejeitou que Ben Gvir venha a assumir a pasta da Defesa e garantiu que o partido Likud assumirá o controlo do ministério que o político radical atualmente dirige, o da Segurança Nacional Partiu do Presidente, Isaac Herzog, a sugestão de que Ben Gvir, ligado aos setores mais radicais da sociedade e conhecido pelas suas afirmações inflamatórias sobre os palestinianos e árabes, não deveria assumir a pasta da Defesa O líder do partido extremista Poder Judaico reagiu às afirmações de Netanyahu num comunicado, acusando o partido Likud de estar a preparar uma coligação com o antigo chefe do Exército e líder do partido Yasar, Gadi Eisenkot, que lidera as sondagens «Tudo isto reforça a conclusão de que foi tomada a decisão de expulsar os ministros Ben-Gvir e Otzma Yehudit da coligação…",
+      "why": "«Netanyahu promete afastar radical Ben Gvir da Segurança e Defesa» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Netanyahu promete afastar radical Ben Gvir da Segurança e Defesa», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-15T21:48:16+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/netanyahu-promete-afastar-radical-ben-gvir-da-seguranca-e-defesa_n1771956",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 2,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Principal rival eleitoral de Netanyahu promete derrotar Hamas em 18 meses",
+          "link": "https://www.rtp.pt/noticias/mundo/principal-rival-eleitoral-de-netanyahu-promete-derrotar-hamas-em-18-meses_n1771844"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O primeiro-ministro de Israel, Benjamin Netanyahu, prometeu hoje afastar o político radical Itamar Ben Gvir da pasta que ocupa no atual governo, a Segurança Nacional, e também da Defesa, num executivo saído das próximas eleições Num evento na cidade israelita de Acre noticiado pelo `Times of Israel`, Netanyahu rejeitou que Ben Gvir venha a assumir a pasta da Defesa e garantiu que o partido Likud assumirá o controlo do ministério que o político radical atualmente dirige, o da Segurança Nacional Partiu do Presidente, Isaac Herzog, a sugestão de que Ben Gvir, ligado aos setores mais radicais da sociedade e conhecido pelas suas afirmações inflamatórias sobre os palestinianos e árabes, não deveria assumir a pasta da Defesa O líder do partido extremista Poder Judaico reagiu às afirmações de Netanyahu num comunicado, acusando o partido Likud de estar a preparar uma coligação com o antigo chefe do Exército e líder do partido Yasar, Gadi Eisenkot, que lidera as sondagens «Tudo isto reforça a conclusão de que foi tomada a decisão de expulsar os ministros Ben-Gvir e Otzma Yehudit da coligação… «Netanyahu promete afastar radical Ben Gvir da Segurança e Defesa» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Netanyahu promete afastar radical Ben Gvir da Segurança e Defesa», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.96,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -74,11 +197,11 @@
       "impact": "No caso de «Tribunal de menores julga caso de esfaqueamento de menor na zona militar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
       "published": "2026-10-15T15:34:00+00:00",
-      "age_hours": 3.3,
+      "age_hours": 6.4,
       "within_24h": true,
       "link": "https://opais.co.mz/tribunal-de-menores-julga-caso-de-esfaqueamento-de-menor-na-zona-militar/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -88,96 +211,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Iniciou hoje o julgamento do adolescente de 12 anos acusado de ter morto, a facadas, o seu amigo e vizinho de 13 anos, na Zona Militar, cidade Maputo, após um desentendimento entre os dois. O Tribunal de Menores da cidade, marcou para dia 05 de Novembro a segunda audição. O julgamento iniciou às 9 horas […]. «Tribunal de menores julga caso de esfaqueamento de menor na zona militar» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Tribunal de menores julga caso de esfaqueamento de menor na zona militar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.31,
+      "editorial_score": 11.67,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "População de Dondo pede melhorias na estrada de acesso a Matondo",
-      "summary": "Maputo, 15 Out (AIM) – A população do distrito de Dondo, na província de Sofala, apontou hoje a melhoria da estrada de acesso a Matondo como uma das principais prioridades locais, durante um encontro com o Presidente da República, Daniel Chapo, no âmbito da visita de trabalho de três dias que efectua à província. Na ocasião, os residentes apresentaram várias preocupações relacionadas com infra-estruturas públicas e serviços básicos, nomeadamente as condições de atendimento no hospital de Savane, a necessidade de uma ponte para facilitar a circulação durante a época chuvosa e a reabilitação de duas escolas cujas coberturas foram danificadas pelo ciclone Idai, em 2019. Os residentes alertaram que a travessia de um curso de água da região se torna particularmente perigosa durante a época chuvosa, tendo referido que a situação já provocou perdas de vidas humanas. Em resposta às preocupações apresentadas, Chapo afirmou que equipas técnicas do Governo já se deslocaram ao terreno para avaliar algumas das necessidades, incluindo as relacionadas com o hospital e a estrada.",
-      "why": "«População de Dondo pede melhorias na estrada de acesso a Matondo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «População de Dondo pede melhorias na estrada de acesso a Matondo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-15T14:52:21+00:00",
-      "age_hours": 4.0,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/15/populacao-de-dondo-pede-melhorias-na-estrada-de-acesso-a-matondo/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 15 Out (AIM) – A população do distrito de Dondo, na província de Sofala, apontou hoje a melhoria da estrada de acesso a Matondo como uma das principais prioridades locais, durante um encontro com o Presidente da República, Daniel Chapo, no âmbito da visita de trabalho de três dias que efectua à província. Na ocasião, os residentes apresentaram várias preocupações relacionadas com infra-estruturas públicas e serviços básicos, nomeadamente as condições de atendimento no hospital de Savane, a necessidade de uma ponte para facilitar a circulação durante a época chuvosa e a reabilitação de duas escolas cujas coberturas foram danificadas pelo ciclone Idai, em 2019. Os residentes alertaram que a travessia de um curso de água da região se torna particularmente perigosa durante a época chuvosa, tendo referido que a situação já provocou perdas de vidas humanas. Em resposta às preocupações apresentadas, Chapo afirmou que equipas técnicas do Governo já se deslocaram ao terreno para avaliar algumas das necessidades, incluindo as relacionadas com o hospital e a estrada. «População de Dondo pede melhorias na estrada de acesso a Matondo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «População de Dondo pede melhorias na estrada de acesso a Matondo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.17,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Sondagem revela forte descontentamento com Trump",
-      "summary": "A maioria dos eleitores norte-americanos está insatisfeita com o desempenho do Presidente Donald Trump e pretende mudanças nas eleições intercalares de novembro, segundo uma sondagem do AP-NORC hoje divulgada O estudo do Centro de Investigação de Assuntos Públicos (NORC) da agência de notícias norte-americana, The Associated Press (AP), realizado a menos de quatro semanas das eleições, revela também maior mobilização entre os eleitores democratas do que entre os republicanos Cerca de metade dos eleitores prefere que os democratas controlem a Câmara de Representantes ou o Senado, enquanto quatro em cada 10 defendem maiorias republicanas e 15% permanecem indecisos A economia e o custo de vida surgem como as principais preocupações, referidas por cerca de oito em cada 10 eleitores A saúde e a guerra com o Irão são consideradas questões prioritárias por aproximadamente dois terços dos inquiridos, enquanto temas mais favoráveis a Trump, como imigração e criminalidade, surgem abaixo na lista de preocupações A sondagem revela ainda uma forte vontade de mudança na forma como os Estados…",
-      "why": "«Sondagem revela forte descontentamento com Trump» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Sondagem revela forte descontentamento com Trump», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-15T13:24:31+00:00",
-      "age_hours": 5.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/sondagem-revela-forte-descontentamento-com-trump_n1771853",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A maioria dos eleitores norte-americanos está insatisfeita com o desempenho do Presidente Donald Trump e pretende mudanças nas eleições intercalares de novembro, segundo uma sondagem do AP-NORC hoje divulgada O estudo do Centro de Investigação de Assuntos Públicos (NORC) da agência de notícias norte-americana, The Associated Press (AP), realizado a menos de quatro semanas das eleições, revela também maior mobilização entre os eleitores democratas do que entre os republicanos Cerca de metade dos eleitores prefere que os democratas controlem a Câmara de Representantes ou o Senado, enquanto quatro em cada 10 defendem maiorias republicanas e 15% permanecem indecisos A economia e o custo de vida surgem como as principais preocupações, referidas por cerca de oito em cada 10 eleitores A saúde e a guerra com o Irão são consideradas questões prioritárias por aproximadamente dois terços dos inquiridos, enquanto temas mais favoráveis a Trump, como imigração e criminalidade, surgem abaixo na lista de preocupações A sondagem revela ainda uma forte vontade de mudança na forma como os Estados… «Sondagem revela forte descontentamento com Trump» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Sondagem revela forte descontentamento com Trump», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.85,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Houthis atacam sede do Governo do Iémen e fazem pelo menos quatro mortos",
-      "summary": "Os Houthis realizaram, esta quinta-feira, um ataque contra o palácio presidencial de Aden, sede do Governo iemenita. O ataque provocou pelo menos quatro mortos",
-      "why": "«Houthis atacam sede do Governo do Iémen e fazem pelo menos quatro mortos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Houthis atacam sede do Governo do Iémen e fazem pelo menos quatro mortos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-15T18:23:44+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/houthis-atacam-sede-do-governo-do-iemen-e-fazem-pelo-menos-quatro-mortos_n1771930",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Os Houthis realizaram, esta quinta-feira, um ataque contra o palácio presidencial de Aden, sede do Governo iemenita. O ataque provocou pelo menos quatro mortos. «Houthis atacam sede do Governo do Iémen e fazem pelo menos quatro mortos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Houthis atacam sede do Governo do Iémen e fazem pelo menos quatro mortos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.9,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -191,11 +226,11 @@
       "impact": "No caso de «PR Propõe Venda de 36% do BCI a Investidores Nacionais», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
       "published": "2026-10-15T16:00:00+00:00",
-      "age_hours": 2.9,
+      "age_hours": 6.0,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/15/mercados/bolsa-de-valores/pr-propoe-venda-de-36-do-bci-a-investidores-nacionais/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -205,7 +240,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O Presidente da República, Daniel Chapo, propôs que a participação de cerca de 36% que o banco português BPI detém no Banco Comercial e de Investimentos (BCI) seja vendida a […]. «PR Propõe Venda de 36% do BCI a Investidores Nacionais» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «PR Propõe Venda de 36% do BCI a Investidores Nacionais», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.4,
+      "editorial_score": 9.75,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -220,11 +255,11 @@
       "impact": "No caso de «PR Defende Maior Investimento na Prevenção de Desastres Naturais», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
       "published": "2026-10-15T15:30:00+00:00",
-      "age_hours": 3.4,
+      "age_hours": 6.5,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/15/desenvolvimento-2/pr-defende-maior-investimento-na-prevencao-de-desastres-naturais/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -234,8 +269,37 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O Presidente da República, Daniel Chapo, defendeu esta quinta-feira, 15, o reforço do investimento na prevenção e redução do risco de desastres naturais no País e apelou à mobilização de […]. «PR Defende Maior Investimento na Prevenção de Desastres Naturais» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «PR Defende Maior Investimento na Prevenção de Desastres Naturais», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.29,
+      "editorial_score": 9.65,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido",
+      "summary": "Incêndios deflagram no centro de Tirana, manifestantes lançam pedras e a polícia responde com gás lacrimogéneo e canhões de água. Protestos estudantis que exigem a demissão do primeiro-ministro Edi Rama entram no terceiro dia",
+      "why": "«Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-15T21:35:50+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/video/2026/10/15/albania-protestos-violentos-abalam-tirana-pelo-terceiro-dia-seguido",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Incêndios deflagram no centro de Tirana, manifestantes lançam pedras e a polícia responde com gás lacrimogéneo e canhões de água. Protestos estudantis que exigem a demissão do primeiro-ministro Edi Rama entram no terceiro dia. «Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 8.92,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -249,11 +313,11 @@
       "impact": "No caso de «Paquistão: desabamento em escola arrasa salas e mata pelo menos 32 alunos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-15T13:04:24+00:00",
-      "age_hours": 5.8,
+      "age_hours": 8.9,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/15/paquistao-desabamento-em-escola-arrasa-salas-e-mata-pelo-menos-32-alunos",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -263,37 +327,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Ruiu o teto de uma escola em Peshawar, no Paquistão, a 15 de outubro, matando pelo menos 32 alunos e um professor. As autoridades dizem que a estrutura era frágil e estava sobrecarregada por obras. O proprietário foi detido e abriu‑se uma investigação. «Paquistão: desabamento em escola arrasa salas e mata pelo menos 32 alunos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Paquistão: desabamento em escola arrasa salas e mata pelo menos 32 alunos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.79,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Azerbaijão organiza rara cimeira com líderes asiáticos e do Médio Oriente em conflito",
-      "summary": "Pela primeira vez desde o início da guerra do Irão, altas delegações de países do Médio Oriente e da Ásia envolvidos em conflitos políticos e militares em curso reuniram-se em Baku, na quinta-feira, para a Conferência sobre Medidas de Interação e de Consolidação da Confiança na Ásia (CICA), organizada pelo Azerbaijão.O presidente do Azerbaijão, Ilham Aliyev, juntou o presidente israelita Isaac Herzog, o vice-ministro dos Negócios Estrangeiros do Irão, Kazem Gharibabadi, o ministro dos Negócios Estrangeiros da Turquia, Hakan Fidan, o ministro russo dos Negócios Estrangeiros, Sergey Lavrov, o emir do Qatar, xeque Tamim bin Hamad Al-Thani, o ministro de Estado para os Negócios Estrangeiros dos Emirados Árabes Unidos, Khalifa bin Shaheen Al Marar, e uma delegação palestiniana liderada pela ministra dos Negócios Estrangeiros Varsen Aghabekian Shahin, juntamente com dirigentes regionais e asiáticos, incluindo o ministro dos Negócios Estrangeiros da China, Wang Yi, para a sétima edição da cimeira da CICA.No discurso de abertura, Aliyev afirmou que “situado geograficamente na intersecção da…",
-      "why": "«Azerbaijão organiza rara cimeira com líderes asiáticos e do Médio Oriente em conflito» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Azerbaijão organiza rara cimeira com líderes asiáticos e do Médio Oriente em conflito», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-15T11:17:48+00:00",
-      "age_hours": 7.6,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/15/azerbaijao-organiza-rara-cimeira-com-lideres-asiaticos-e-do-medio-oriente-em-conflito",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Pela primeira vez desde o início da guerra do Irão, altas delegações de países do Médio Oriente e da Ásia envolvidos em conflitos políticos e militares em curso reuniram-se em Baku, na quinta-feira, para a Conferência sobre Medidas de Interação e de Consolidação da Confiança na Ásia (CICA), organizada pelo Azerbaijão.O presidente do Azerbaijão, Ilham Aliyev, juntou o presidente israelita Isaac Herzog, o vice-ministro dos Negócios Estrangeiros do Irão, Kazem Gharibabadi, o ministro dos Negócios Estrangeiros da Turquia, Hakan Fidan, o ministro russo dos Negócios Estrangeiros, Sergey Lavrov, o emir do Qatar, xeque Tamim bin Hamad Al-Thani, o ministro de Estado para os Negócios Estrangeiros dos Emirados Árabes Unidos, Khalifa bin Shaheen Al Marar, e uma delegação palestiniana liderada pela ministra dos Negócios Estrangeiros Varsen Aghabekian Shahin, juntamente com dirigentes regionais e asiáticos, incluindo o ministro dos Negócios Estrangeiros da China, Wang Yi, para a sétima edição da cimeira da CICA.No discurso de abertura, Aliyev afirmou que “situado geograficamente na intersecção da… «Azerbaijão organiza rara cimeira com líderes asiáticos e do Médio Oriente em conflito» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Azerbaijão organiza rara cimeira com líderes asiáticos e do Médio Oriente em conflito», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.42,
+      "editorial_score": 7.15,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -309,11 +343,11 @@
       "impact": "No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "Euronews Português",
       "published": "2026-10-14T06:03:19+00:00",
-      "age_hours": 36.9,
+      "age_hours": 39.9,
       "within_24h": false,
       "link": "https://pt.euronews.com/2026/10/14/europe-today-chefe-da-diplomacia-espanhola-ataques-com-drones-no-mar-negro-reaproximacao-u",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -323,7 +357,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "No programa de hoje:Maria Tadeo fala em exclusivo com o ministro dos Negócios Estrangeiros de Espanha, José Manuel Albares, à margem do Fórum de Segurança de Varsóvia, sobre as pressões que se acumulam sobre o país: a guerra na Ucrânia, a crise da habitação, a incerteza de eleições antecipadas e o reacender das tensões com Marrocos devido a Ceuta.Angela Skujins analisa os ataques de drones que atingiram dois navios comerciais ao largo da costa da Bulgária na manhã de ontem, os mais recentes de uma série de ataques contra embarcações que navegam no Mar Negro, que se está a tornar o próximo palco da agressão russa.Entrevista a Bernd Lange, presidente da Comissão do Comércio Internacional do Parlamento Europeu, que comenta se as conversações do comissário europeu do Comércio, Maroš Šefčovič, na China, que registaram alguns progressos, representam ou não um verdadeiro avanço.Entrevista ao ministro irlandês Neale Richmond, que defende o compromisso alcançado pela Irlanda sobre o próximo orçamento de sete anos da UE, que retira 141 mil milhões de euros ao projeto de 1,7 biliões, na… «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Europe Today: chefe da diplomacia espanhola, ataques com drones no mar Negro, reaproximação UE-China», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 6.1,
+      "editorial_score": 6.0,
       "source_tier": "C",
       "editorial_status": "ACTUALIZAÇÃO"
     }
@@ -348,7 +382,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 2,
+    "África": 3,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
