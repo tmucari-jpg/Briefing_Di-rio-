@@ -1,87 +1,27 @@
 {
-  "updated_at": "2026-10-16T07:57:44.134805+00:00",
+  "updated_at": "2026-10-16T13:47:35.503012+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Vibe coding: Game-changer or risky business?",
-      "summary": "Vibe coding lets users build software with AI, but free alternatives to popular programmes raise security concerns",
-      "why": "«Vibe coding: Game-changer or risky business?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Vibe coding: Game-changer or risky business?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-16T06:01:34+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Vibe coding lets users build software with AI, but free alternatives to popular programmes raise security concerns. «Vibe coding: Game-changer or risky business?» deserves attention because it may change political, diplomatic or security risks. For «Vibe coding: Game-changer or risky business?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 13.6,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "summary": "The number of ships that have reported being attacked in and around the Strait of Hormuz has hit a record high, BBC Verify analysis of data from a UK maritime agency shows Twelve vessels were attacked between 5 and 11 October - the largest number of weekly strikes reported to the UK's Maritime Trade Operations (UKMTO) agency since the US-Israeli war with Iran began. The previous week saw 10 ships reporting attacks Six of the vessels were struck last Sunday, according to the UKMTO - a one-day high. So far this week, there have been four reported attacks As the number of strikes has risen, the recovery in oil shipments through the strait seen last month has slowed, industry data suggests BBC Verify collated incident reports published by the UKMTO on its website and created a timeline based on the first date cited in each report.",
-      "why": "«Ship attack reports near Hormuz reach record high as oil exports slow» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Ship attack reports near Hormuz reach record high as oil exports slow», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-16T05:00:17+00:00",
-      "age_hours": 3.0,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The number of ships that have reported being attacked in and around the Strait of Hormuz has hit a record high, BBC Verify analysis of data from a UK maritime agency shows Twelve vessels were attacked between 5 and 11 October - the largest number of weekly strikes reported to the UK's Maritime Trade Operations (UKMTO) agency since the US-Israeli war with Iran began. The previous week saw 10 ships reporting attacks Six of the vessels were struck last Sunday, according to the UKMTO - a one-day high. So far this week, there have been four reported attacks As the number of strikes has risen, the recovery in oil shipments through the strait seen last month has slowed, industry data suggests BBC Verify collated incident reports published by the UKMTO on its website and created a timeline based on the first date cited in each report. «Ship attack reports near Hormuz reach record high as oil exports slow» matters because it may change energy and investment decisions affecting Mundo. For «Ship attack reports near Hormuz reach record high as oil exports slow», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 13.38,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Energia",
+        "Segurança"
       ],
-      "title": "Mozambique’s Sovereign Fund focused on intergenerational wealth creation – minister",
-      "summary": "“The Mozambican Government’s objective is indeed to ensure that revenue from natural gas can generate intergenerational wealth,” Finance Minister Carla Loveira told Lusa in an interview According to the minister, the Sovereign Wealth Fund Law is already producing tangible results by establishing a division of LNG revenue between public expenditure and savings “We do not want all the resources to be entirely consumed by the current budget,” she said Under the model currently in force, around 60% of revenue is channelled to the State Budget, while the remaining 40% goes into a savings account managed by the Bank of Mozambique According to the minister, the funds are already financing major infrastructure projects “Gas revenue is already being channelled into resilient infrastructure, such as roads, schools, bridges and hospitals,” she said Loveira said that US$109 million (€97.22 million) was allocated to the Sovereign Wealth Fund’s savings component in 2025 “Today, the Sovereign Wealth Fund already has a balance of US$151 million (€134.68 million),” she said According to the…",
-      "why": "«Mozambique’s Sovereign Fund focused on intergenerational wealth creation – minister» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Mozambique’s Sovereign Fund focused on intergenerational wealth creation – minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "title": "Mozambique: 2nd edition of the Welding Olympics culminates in national award ceremony",
+      "summary": "The Welding Olympics serve as a strategic platform to elevate technical-vocational education and welding skills, connecting youth, trainers, and professionals directly with companies operating across the oil and gas, construction, and metalworking sectors In this 2nd edition, the initiative expanded its geographic reach through competitions held in Maputo and Cabo Delgado, involving 29 participants from 10 public and private institutions, including four women. The execution in Cabo Delgado received official recognition from the Provincial Government, reinforcing the national footprint of the project and its alignment with a strategic region for the country’s energy development Opening the event, the Secretary of State for Technical-Vocational Education, Leo Elias Jamal, highlighted the importance of viewing the competition as a bridge for recognizing and scaling national talent. Frederico P.",
+      "why": "«Mozambique: 2nd edition of the Welding Olympics culminates in national award ceremony» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Mozambique: 2nd edition of the Welding Olympics culminates in national award ceremony», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-10-15T15:06:25+00:00",
-      "age_hours": 16.9,
+      "published": "2026-10-16T11:30:18+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambiques-sovereign-fund-focused-on-intergenerational-wealth-creation-minister/",
+      "link": "https://clubofmozambique.com/news/mozambique-2nd-edition-of-the-welding-olympics-culminates-in-national-award-ceremony/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -90,27 +30,124 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "“The Mozambican Government’s objective is indeed to ensure that revenue from natural gas can generate intergenerational wealth,” Finance Minister Carla Loveira told Lusa in an interview According to the minister, the Sovereign Wealth Fund Law is already producing tangible results by establishing a division of LNG revenue between public expenditure and savings “We do not want all the resources to be entirely consumed by the current budget,” she said Under the model currently in force, around 60% of revenue is channelled to the State Budget, while the remaining 40% goes into a savings account managed by the Bank of Mozambique According to the minister, the funds are already financing major infrastructure projects “Gas revenue is already being channelled into resilient infrastructure, such as roads, schools, bridges and hospitals,” she said Loveira said that US$109 million (€97.22 million) was allocated to the Sovereign Wealth Fund’s savings component in 2025 “Today, the Sovereign Wealth Fund already has a balance of US$151 million (€134.68 million),” she said According to the… «Mozambique’s Sovereign Fund focused on intergenerational wealth creation – minister» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique’s Sovereign Fund focused on intergenerational wealth creation – minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 12.48,
+      "detailed_summary": "The Welding Olympics serve as a strategic platform to elevate technical-vocational education and welding skills, connecting youth, trainers, and professionals directly with companies operating across the oil and gas, construction, and metalworking sectors In this 2nd edition, the initiative expanded its geographic reach through competitions held in Maputo and Cabo Delgado, involving 29 participants from 10 public and private institutions, including four women. The execution in Cabo Delgado received official recognition from the Provincial Government, reinforcing the national footprint of the project and its alignment with a strategic region for the country’s energy development Opening the event, the Secretary of State for Technical-Vocational Education, Leo Elias Jamal, highlighted the importance of viewing the competition as a bridge for recognizing and scaling national talent. Frederico P. «Mozambique: 2nd edition of the Welding Olympics culminates in national award ceremony» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique: 2nd edition of the Welding Olympics culminates in national award ceremony», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 16.52,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Canada to support 200 Mozambican SMEs",
+      "summary": "Maputo, 16 Oct (AIM) – The Canadian government, through its initiative “Trade for Resilient, Inclusive and Sustainable Economic Growth” (TRISEG), will support 200 Mozambican small and medium-sized enterprises (SMEs), focusing on strengthening business competitiveness, export capacity, digital transformation and climate resilience. The project, which is expected to cover 60 percent of businesses owned or led by women, is Funded by Global Affairs Canada (GAC) and implemented by TFO Canada in partnership with the Mozambique’s Institute for the Promotion of Small and Medium-sized Enterprises (IPEME). TRISEG is a regional initiative to Empower SMEs in Developing Countries. In Africa, it covers eight countries: Mozambique, Côte d’Ivoire, Ethiopia, Kenya, Madagascar, Nigeria, Senegal and Zambia. Speaking at the project launch ceremony, Pascale Thivierge, Head of Cooperation at the High Commission of Canada in Mozambique, reaffirmed Canada’s commitment to strengthening economic and trade relations with Mozambique.",
+      "why": "«Canada to support 200 Mozambican SMEs» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Canada to support 200 Mozambican SMEs», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-16T09:18:56+00:00",
+      "age_hours": 4.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/16/canada-to-support-200-mozambican-smes/",
+      "original_source": true,
+      "event_id": "evt-mocambique-007",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 16 Oct (AIM) – The Canadian government, through its initiative “Trade for Resilient, Inclusive and Sustainable Economic Growth” (TRISEG), will support 200 Mozambican small and medium-sized enterprises (SMEs), focusing on strengthening business competitiveness, export capacity, digital transformation and climate resilience. The project, which is expected to cover 60 percent of businesses owned or led by women, is Funded by Global Affairs Canada (GAC) and implemented by TFO Canada in partnership with the Mozambique’s Institute for the Promotion of Small and Medium-sized Enterprises (IPEME). TRISEG is a regional initiative to Empower SMEs in Developing Countries. In Africa, it covers eight countries: Mozambique, Côte d’Ivoire, Ethiopia, Kenya, Madagascar, Nigeria, Senegal and Zambia. Speaking at the project launch ceremony, Pascale Thivierge, Head of Cooperation at the High Commission of Canada in Mozambique, reaffirmed Canada’s commitment to strengthening economic and trade relations with Mozambique. «Canada to support 200 Mozambican SMEs» matters because it may change energy and investment decisions affecting Moçambique. For «Canada to support 200 Mozambican SMEs», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 16.06,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Revenue from LNG is for current development and future generations – Finance Minister",
+      "summary": "Maputo, 16 Oct (AIM) – The Mozambican Government has stressed that revenue from liquefied natural gas (LNG) production will be used both to finance the country’s current development and to create wealth for future generations. “The Mozambican Government’s objective is indeed to ensure that revenue from natural gas can generate intergenerational wealth. The Sovereign Wealth Fund Law is already producing tangible results by establishing a division of LNG revenue between public expenditure and savings”, said Carla Loveira, Finance Minister. “We do not want all the resources to be entirely consumed by the current budget”, she added. Under the model currently in force, around 60 percent of revenue is channelled to the State Budget, while the remaining 40 percent goes into a savings account managed by the Bank of Mozambique. According to the minister, the funds are already financing major infrastructure projects.",
+      "why": "«Revenue from LNG is for current development and future generations – Finance Minister» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Revenue from LNG is for current development and future generations – Finance Minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-16T09:40:28+00:00",
+      "age_hours": 4.1,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/16/revenue-from-lng-is-for-current-development-and-future-generations-finance-minister/",
+      "original_source": true,
+      "event_id": "evt-mocambique-006",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 16 Oct (AIM) – The Mozambican Government has stressed that revenue from liquefied natural gas (LNG) production will be used both to finance the country’s current development and to create wealth for future generations. “The Mozambican Government’s objective is indeed to ensure that revenue from natural gas can generate intergenerational wealth. The Sovereign Wealth Fund Law is already producing tangible results by establishing a division of LNG revenue between public expenditure and savings”, said Carla Loveira, Finance Minister. “We do not want all the resources to be entirely consumed by the current budget”, she added. Under the model currently in force, around 60 percent of revenue is channelled to the State Budget, while the remaining 40 percent goes into a savings account managed by the Bank of Mozambique. According to the minister, the funds are already financing major infrastructure projects. «Revenue from LNG is for current development and future generations – Finance Minister» matters because it may change energy and investment decisions affecting Moçambique. For «Revenue from LNG is for current development and future generations – Finance Minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 15.15,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "India's 'Cockroaches' to march again after protest crackdown",
-      "summary": "The Cockroach Janta Party has called on people to gather at New Delhi's central business district to wave the Indian national flag as it asserts a right to protest. DW has more Here are the latest developments from India on Friday, October 16: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google.",
-      "why": "«India's 'Cockroaches' to march again after protest crackdown» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «India's 'Cockroaches' to march again after protest crackdown», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "DW English",
-      "published": "2026-10-16T06:04:00+00:00",
-      "age_hours": 1.9,
+      "title": "India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh",
+      "summary": "Bhuvneshwar Kumar added to India squad for fifth and final T20 of series with West Indies, as Arshdeep Singh a doubt",
+      "why": "«India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-16T13:09:56+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.dw.com/en/india-s-cockroaches-to-march-again-after-protest-crackdown/live-79675849?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/india-call-up-bhuvneshwar-for-west-indies-t20-finale-with-doubt-over-singh?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-mundo-002",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "Al Jazeera English",
+        "DW English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "DW English",
+          "title": "India's young workers have a new colleague: AI",
+          "link": "https://www.dw.com/en/india-s-young-workers-have-a-new-colleague-ai/a-79678342?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Bhuvneshwar Kumar added to India squad for fifth and final T20 of series with West Indies, as Arshdeep Singh a doubt. «India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh» deserves attention because it may change political, diplomatic or security risks. For «India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 13.38,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "The EU wants an AI revolution. But on whose terms?",
+      "summary": "As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate? Step-dancers spun across the circular stage in the middle of a dark hall, entrancing an audience of policymakers and tech bosses. Not simply another bureaucratic conference, the International AI Summit , hosted in Dublin this week, aspired to something more spectacular — a grand announcement that Europe is ready for its artificial intelligence (AI) revolution Among the more than 1,500 expected guests were Google DeepMind co-founder and chair Demis Hassabis and Microsoft president Brad Smith, in addition to high-ranking European Union and Irish officials .",
+      "why": "«The EU wants an AI revolution. But on whose terms?» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «The EU wants an AI revolution. But on whose terms?», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "source": "DW English",
+      "published": "2026-10-16T13:12:00+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -119,8 +156,95 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "The Cockroach Janta Party has called on people to gather at New Delhi's central business district to wave the Indian national flag as it asserts a right to protest. DW has more Here are the latest developments from India on Friday, October 16: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google. «India's 'Cockroaches' to march again after protest crackdown» helps explain a concrete economic or business change relevant to Mundo. For «India's 'Cockroaches' to march again after protest crackdown», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.6,
+      "detailed_summary": "As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate? Step-dancers spun across the circular stage in the middle of a dark hall, entrancing an audience of policymakers and tech bosses. Not simply another bureaucratic conference, the International AI Summit , hosted in Dublin this week, aspired to something more spectacular — a grand announcement that Europe is ready for its artificial intelligence (AI) revolution Among the more than 1,500 expected guests were Google DeepMind co-founder and chair Demis Hassabis and Microsoft president Brad Smith, in addition to high-ranking European Union and Irish officials . «The EU wants an AI revolution. But on whose terms?» points to a concrete change in the adoption, regulation or use of technology. For «The EU wants an AI revolution. But on whose terms?», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "editorial_score": 12.88,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique: Operation Smile conducts cleft surgeries for dozens of patients at Nampula Central Hospital",
+      "summary": "This is the third cleft surgery campaign organised by Operation Smile at Nampula Central Hospital in 2026 to correct the congenital malformation, following 17 surgical procedures in February and 20 in April, Nilza Ferrão, the NGO’s programme coordinator in Mozambique, told Lusa According to Ferrão, the current campaign is expected to benefit 44 patients, helping to reduce the province’s waiting list. “We assessed 56 patients and 44 were scheduled to take part in this campaign,” she said The surgeries cover patients aged between 12 months and 50 years from different districts of Nampula province, who were selected following clinical assessments to determine their suitability for surgery Cleft lip and cleft palate are congenital conditions that occur when the tissues forming the upper lip or the roof of the mouth (palate) do not join together completely during foetal development. They can occur separately or together.",
+      "why": "«Mozambique: Operation Smile conducts cleft surgeries for dozens of patients at Nampula Central Hospital» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Mozambique: Operation Smile conducts cleft surgeries for dozens of patients at Nampula Central Hospital», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-16T12:50:32+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-operation-smile-conducts-cleft-surgeries-for-dozens-of-patients-at-nampula-central-hospital/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "This is the third cleft surgery campaign organised by Operation Smile at Nampula Central Hospital in 2026 to correct the congenital malformation, following 17 surgical procedures in February and 20 in April, Nilza Ferrão, the NGO’s programme coordinator in Mozambique, told Lusa According to Ferrão, the current campaign is expected to benefit 44 patients, helping to reduce the province’s waiting list. “We assessed 56 patients and 44 were scheduled to take part in this campaign,” she said The surgeries cover patients aged between 12 months and 50 years from different districts of Nampula province, who were selected following clinical assessments to determine their suitability for surgery Cleft lip and cleft palate are congenital conditions that occur when the tissues forming the upper lip or the roof of the mouth (palate) do not join together completely during foetal development. They can occur separately or together. «Mozambique: Operation Smile conducts cleft surgeries for dozens of patients at Nampula Central Hospital» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Operation Smile conducts cleft surgeries for dozens of patients at Nampula Central Hospital», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.81,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "summary": "Joshua Foster \"lost control\" of his son after placing him on a windowsill, a court in Cyprus heard A father whose two-year-old boy fell from a fourth floor window at a hotel in Cyprus has been fined €3,000 (£2,500) for causing his death Joshua Foster thought the window was closed when he placed his son on a sill to show him the view of a waterpark and \"lost control\" of him , Paphos District Court previously heard The toddler fell nearly 40ft (12.1m) at the five-star King Evelthon Beach Hotel and Resort on 12 July, the first day of the family's holiday in Chlorakas Foster, 37, from Essex, admitted causing death through a reckless, rash or dangerous act and was sentenced on Friday morning He told reporters afterwards: \"Thank you for the support.",
+      "why": "«Dad fined after son, 2, died in Cyprus hotel fall» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Dad fined after son, 2, died in Cyprus hotel fall», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-16T13:01:06+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Joshua Foster \"lost control\" of his son after placing him on a windowsill, a court in Cyprus heard A father whose two-year-old boy fell from a fourth floor window at a hotel in Cyprus has been fined €3,000 (£2,500) for causing his death Joshua Foster thought the window was closed when he placed his son on a sill to show him the view of a waterpark and \"lost control\" of him , Paphos District Court previously heard The toddler fell nearly 40ft (12.1m) at the five-star King Evelthon Beach Hotel and Resort on 12 July, the first day of the family's holiday in Chlorakas Foster, 37, from Essex, admitted causing death through a reckless, rash or dangerous act and was sentenced on Friday morning He told reporters afterwards: \"Thank you for the support. «Dad fined after son, 2, died in Cyprus hotel fall» deserves attention because it may change political, diplomatic or security risks. For «Dad fined after son, 2, died in Cyprus hotel fall», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
+      "summary": "Portugal's ex-PM seeks to resolve crises via patient negotiation, but success relies on leaders' willingness to act",
+      "why": "«How UN chief Antonio Guterres tests the limits of quiet diplomacy» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «How UN chief Antonio Guterres tests the limits of quiet diplomacy», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-16T12:57:47+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Portugal's ex-PM seeks to resolve crises via patient negotiation, but success relies on leaders' willingness to act. «How UN chief Antonio Guterres tests the limits of quiet diplomacy» deserves attention because it may change political, diplomatic or security risks. For «How UN chief Antonio Guterres tests the limits of quiet diplomacy», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.83,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -135,11 +259,11 @@
       "impact": "For «Starlink: How Elon Musk's company influences geopolitics», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "DW English",
       "published": "2026-10-16T05:51:00+00:00",
-      "age_hours": 2.1,
+      "age_hours": 7.9,
       "within_24h": true,
       "link": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-mundo-012",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -149,66 +273,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service Lack of internet access is a major problem in many regions of the world today Starlink was initially developed by the American tech billionaire Elon Musk to solve this problem. It was designed as a way of quickly getting the internet into regions all over the world where this was either impossible to do by conventional methods, or so expensive that it wasn't worth attempting Since then, Starlink's field of application has widened significantly. It's used as a means of communication in disaster zones, but also by armies or protest movements, for example in regions where the existing internet has been destroyed by enemy fire or shut down by authoritarian governments But there is a downside: Ukraine's military, for example, is heavily dependent on Musk's satellite system. «Starlink: How Elon Musk's company influences geopolitics» deserves attention because it may change political, diplomatic or security risks. For «Starlink: How Elon Musk's company influences geopolitics», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.56,
+      "editorial_score": 10.35,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "How Israel’s elections will affect Palestinians",
-      "summary": "How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election",
-      "why": "«How Israel’s elections will affect Palestinians» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «How Israel’s elections will affect Palestinians», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-16T07:04:54+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election. «How Israel’s elections will affect Palestinians» is worth following because of its possible economic, institutional or regional effects. For «How Israel’s elections will affect Palestinians», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.81,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Baku hosted 7th CICA Summit President Ilham Aliyev addressed the event",
-      "summary": "Maputo, October 15, AIM/AZERTAC – On October 15, the 7th Summit of the Conference on Interaction and Confidence Building Measures in Asia (CICA) was held in Baku. President of the Republic of Azerbaijan Ilham Aliyev welcomed the heads of state and government attending the event. Opening the summit, President of Azerbaijan Ilham Aliyev said: – Esteemed heads of state and government, Distinguished heads of delegations, Ladies and gentlemen, I am pleased to welcome you to Baku for the 7th Summit of the Conference on Interaction and Confidence Building Measures in Asia (CICA). I express my gratitude to all of you for accepting our invitation. I declare the 7th Summit of Heads of State and Government of CICA open. First of all, we must approve the agenda.",
-      "why": "«Baku hosted 7th CICA Summit President Ilham Aliyev addressed the event» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Baku hosted 7th CICA Summit President Ilham Aliyev addressed the event», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "AIM News",
-      "published": "2026-10-15T17:45:35+00:00",
-      "age_hours": 14.2,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/15/baku-hosted-7th-cica-summit-president-ilham-aliyev-addressed-the-event/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM News"
-      ],
-      "primary_source": "AIM News",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, October 15, AIM/AZERTAC – On October 15, the 7th Summit of the Conference on Interaction and Confidence Building Measures in Asia (CICA) was held in Baku. President of the Republic of Azerbaijan Ilham Aliyev welcomed the heads of state and government attending the event. Opening the summit, President of Azerbaijan Ilham Aliyev said: – Esteemed heads of state and government, Distinguished heads of delegations, Ladies and gentlemen, I am pleased to welcome you to Baku for the 7th Summit of the Conference on Interaction and Confidence Building Measures in Asia (CICA). I express my gratitude to all of you for accepting our invitation. I declare the 7th Summit of Heads of State and Government of CICA open. First of all, we must approve the agenda. «Baku hosted 7th CICA Summit President Ilham Aliyev addressed the event» is worth following because of its possible economic, institutional or regional effects. For «Baku hosted 7th CICA Summit President Ilham Aliyev addressed the event», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 10.04,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     }
   ],
@@ -231,7 +297,7 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 2,
+    "Moçambique": 4,
     "África": 0,
     "Mundo": 5
   },

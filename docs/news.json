@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T07:57:38.156785+00:00",
+  "updated_at": "2026-10-16T13:47:28.059089+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -10,80 +10,175 @@
       "tags": [
         "Economia"
       ],
-      "title": "Partido Português Questiona Atraso na Operacionalização de Linha de 500 M€ em Moçambique",
-      "summary": "O Partido Socialista (PS) questionou o Governo português sobre o atraso na operacionalização da linha de financiamento de 500 milhões de euros destinada a apoiar o investimento de empresas portuguesas […]",
-      "why": "«Partido Português Questiona Atraso na Operacionalização de Linha de 500 M€ em Moçambique» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Partido Português Questiona Atraso na Operacionalização de Linha de 500 M€ em Moçambique», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-16T07:05:00+00:00",
-      "age_hours": 0.9,
+      "title": "Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura",
+      "summary": "Maputo, 16 Out (AIM) – O Presidente da República, Daniel Chapo, inaugurou hoje um sistema de abastecimento de água que elevou de 36 para 56 por cento a cobertura do serviço na vila de Gorongosa, província de Sofala, representando um aumento de 55,6 por cento em relação à cobertura anterior. A inauguração teve lugar no segundo dia da visita de trabalho de três dias que o Chefe do Estado efectua à província de Sofala. O empreendimento, financiado pelo Governo moçambicano com apoio do banco alemão KfW, representa um investimento de 1,4 milhões de euros e abrange 12 bairros, através da expansão da rede de distribuição em 22 quilómetros e da instalação de 350 novas ligações domiciliárias. A capacidade de produção de água passou de 750 para 1.350 metros cúbicos por dia, enquanto o número de fontenários públicos aumentou de 37 para 51. O sistema conta actualmente com cerca de 1.900 ligações e permite servir aproximadamente 28.600 habitantes, podendo alcançar 36.900 pessoas até 2040, elevando a cobertura para cerca de 72 por cento.",
+      "why": "«Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "AIM Notícias",
+      "published": "2026-10-16T13:09:52+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/16/economia/investimento/partido-portugues-questiona-atraso-na-operacionalizacao-de-linha-de-500-me-em-mocambique/",
+      "link": "https://aimnews.org/2026/10/16/gorongosa-ganha-novo-sistema-de-abastecimento-de-agua-e-sobe-em-mais-de-50-o-nivel-de-cobertura/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 3,
+      "source_count": 2,
+      "sources": [
+        "AIM Notícias",
+        "Jornal Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Jornal Notícias",
+          "title": "PR chega à Gorongosa para entregar sistema de abastecimento de água",
+          "link": "https://www.jornalnoticias.co.mz/destaque/pr-chega-a-gorongosa-para-entregar-sistema-de-abastecimento-de-agua/"
+        },
+        {
+          "source": "AIM Notícias",
+          "title": "WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza",
+          "link": "https://aimnews.org/2026/10/15/wateraid-mocambique-promove-sustentabilidade-dos-sistemas-de-abastecimento-de-agua-em-gaza/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 16 Out (AIM) – O Presidente da República, Daniel Chapo, inaugurou hoje um sistema de abastecimento de água que elevou de 36 para 56 por cento a cobertura do serviço na vila de Gorongosa, província de Sofala, representando um aumento de 55,6 por cento em relação à cobertura anterior. A inauguração teve lugar no segundo dia da visita de trabalho de três dias que o Chefe do Estado efectua à província de Sofala. O empreendimento, financiado pelo Governo moçambicano com apoio do banco alemão KfW, representa um investimento de 1,4 milhões de euros e abrange 12 bairros, através da expansão da rede de distribuição em 22 quilómetros e da instalação de 350 novas ligações domiciliárias. A capacidade de produção de água passou de 750 para 1.350 metros cúbicos por dia, enquanto o número de fontenários públicos aumentou de 37 para 51. O sistema conta actualmente com cerca de 1.900 ligações e permite servir aproximadamente 28.600 habitantes, podendo alcançar 36.900 pessoas até 2040, elevando a cobertura para cerca de 72 por cento. «Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 15.38,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Emitido o alerta do risco de inundações na bacia do rio Maputo",
+      "summary": "Maputo, 16 Out (AIM) – A Direcção Nacional de Gestão de Recursos Hídricos (DNGRH) alerta para o risco moderado de ocorrência de inundações na bacia hidrográfica do rio Maputo, na sequência das descargas anuais da barragem de Pongolapoort, na África do Sul, previstas para 2 de Novembro próximo. Segundo um comunicado de imprensa da DNGRH, as descargas terão um caudal máximo previsto de 700 metros cúbicos por segundo no dia 8 de Novembro, com o objectivo de reabastecer os reservatórios das planícies adjacentes. O aumento do caudal poderá elevar o nível das águas na estação hidrométrica de Madubula, no posto administrativo de Catuane, até dois metros acima do nível de alerta, a partir de 13 de Novembro, com possíveis inundações de campos agrícolas e condicionamento da circulação rodoviária. As zonas potencialmente afectadas incluem os povoados de Catuane, Salamanga e Tinonganine, onde as comunidades ribeirinhas são aconselhadas a evitar a travessia do leito do rio e a redobrar os cuidados na circulação rodoviária.",
+      "why": "«Emitido o alerta do risco de inundações na bacia do rio Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Emitido o alerta do risco de inundações na bacia do rio Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-16T13:45:33+00:00",
+      "age_hours": 0.0,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/16/emitido-o-alerta-do-risco-de-inundacoes-na-bacia-do-rio-maputo/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 16 Out (AIM) – A Direcção Nacional de Gestão de Recursos Hídricos (DNGRH) alerta para o risco moderado de ocorrência de inundações na bacia hidrográfica do rio Maputo, na sequência das descargas anuais da barragem de Pongolapoort, na África do Sul, previstas para 2 de Novembro próximo. Segundo um comunicado de imprensa da DNGRH, as descargas terão um caudal máximo previsto de 700 metros cúbicos por segundo no dia 8 de Novembro, com o objectivo de reabastecer os reservatórios das planícies adjacentes. O aumento do caudal poderá elevar o nível das águas na estação hidrométrica de Madubula, no posto administrativo de Catuane, até dois metros acima do nível de alerta, a partir de 13 de Novembro, com possíveis inundações de campos agrícolas e condicionamento da circulação rodoviária. As zonas potencialmente afectadas incluem os povoados de Catuane, Salamanga e Tinonganine, onde as comunidades ribeirinhas são aconselhadas a evitar a travessia do leito do rio e a redobrar os cuidados na circulação rodoviária. «Emitido o alerta do risco de inundações na bacia do rio Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Emitido o alerta do risco de inundações na bacia do rio Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.0,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "De Araújo aponta falta de divisas como causa da escassez de combustível",
+      "summary": "Edil de Quelimane alerta para os impactos na economia e na gestão dos resíduos sólidos, apesar da normalização do abastecimento na cidade. A falta de divisas é apontada pelo edil de Quelimane, Manuel de Araújo, como uma das principais causas da escassez de combustíveis que se tem verificado em Moçambique. O autarca considera que a […]",
+      "why": "«De Araújo aponta falta de divisas como causa da escassez de combustível» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «De Araújo aponta falta de divisas como causa da escassez de combustível», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-16T11:41:49+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://opais.co.mz/de-araujo-aponta-falta-de-divisas-como-causa-da-escassez-de-combustivel/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Edil de Quelimane alerta para os impactos na economia e na gestão dos resíduos sólidos, apesar da normalização do abastecimento na cidade. A falta de divisas é apontada pelo edil de Quelimane, Manuel de Araújo, como uma das principais causas da escassez de combustíveis que se tem verificado em Moçambique. O autarca considera que a […]. «De Araújo aponta falta de divisas como causa da escassez de combustível» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «De Araújo aponta falta de divisas como causa da escassez de combustível», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.56,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano",
+      "summary": "R aimundo M apanzene A TRIBUNA das Nações Unidas sempre foi o palco por excelência onde a periferia do mundo fala de igual para igual com o centro do poder global. Em Setembro de 2026, ao discursar na 81.ª Sessão da Assembleia Geral da ONU, o Presidente Daniel Chapo levou a voz de Moçambique a Nova Iorque e ensaiou uma postura firmemente contra-hegemónica frente à arquitectura financeira e política internacional. Ao cruzar a necessidade de captação de capital com a soberania sobre as matérias-primas e a obrigatoriedade de políticas de conteúdo local, o discurso moçambicano desafiou abertamente a lógica do capitalismo global subordinante, que insiste em manter o Sul Global confinado à periferia económica. O diagnóstico de Chapo sobre o estado do mundo toca na ferida da anomia institucional. Quando o líder moçambicano afirma que os pilares da ONU enfrentam uma pressão sem precedentes, ele constata a falência de uma ordem social global que já não consegue arbitrar conflitos nem garantir a coesão.",
+      "why": "«A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-16T13:33:37+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/a-voz-da-periferia-na-onu-entre-poder-capital-global-e-o-conteudo-local-mocambicano/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Diário Económico"
+        "Jornal Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Partido Socialista (PS) questionou o Governo português sobre o atraso na operacionalização da linha de financiamento de 500 milhões de euros destinada a apoiar o investimento de empresas portuguesas […]. «Partido Português Questiona Atraso na Operacionalização de Linha de 500 M€ em Moçambique» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Partido Português Questiona Atraso na Operacionalização de Linha de 500 M€ em Moçambique», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.81,
+      "opportunity_flag": false,
+      "detailed_summary": "R aimundo M apanzene A TRIBUNA das Nações Unidas sempre foi o palco por excelência onde a periferia do mundo fala de igual para igual com o centro do poder global. Em Setembro de 2026, ao discursar na 81.ª Sessão da Assembleia Geral da ONU, o Presidente Daniel Chapo levou a voz de Moçambique a Nova Iorque e ensaiou uma postura firmemente contra-hegemónica frente à arquitectura financeira e política internacional. Ao cruzar a necessidade de captação de capital com a soberania sobre as matérias-primas e a obrigatoriedade de políticas de conteúdo local, o discurso moçambicano desafiou abertamente a lógica do capitalismo global subordinante, que insiste em manter o Sul Global confinado à periferia económica. O diagnóstico de Chapo sobre o estado do mundo toca na ferida da anomia institucional. Quando o líder moçambicano afirma que os pilares da ONU enfrentam uma pressão sem precedentes, ele constata a falência de uma ordem social global que já não consegue arbitrar conflitos nem garantir a coesão. «A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 12.96,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Portugal e China reativam na segunda-feira comissão científica suspensa desde 2019",
-      "summary": "Portugal e China vão reativar na segunda-feira a Comissão Mista de Ciência e Tecnologia, suspensa desde 2019, e esperam alcançar um entendimento sobre as prioridades de cooperação bilateral, revelou hoje à Lusa o ministro da Educação \"Penso que teremos na segunda-feira um resultado muito positivo para podermos desenhar a nova forma de colaboração entre Portugal e a China, em domínios estratégicos para os dois países\", afirmou Fernando Alexandre Em declarações à Lusa, à margem da Conferência Mundial sobre o Desenvolvimento do Ensino Profissional e Técnico, na cidade chinesa de Tianjin, o mnistro da Educação, Ciência e Inovação explicou que as equipas técnicas dos dois países têm trabalhado desde a visita que realizou à China, em junho Nessa ocasião, Fernando Alexandre acordou com o ministro chinês da Ciência e Tecnologia, Yin Hejun, a retoma dos trabalhos da comissão bilateral, que não se reúne desde 2019 A X Comissão Mista de Ciência e Tecnologia terá lugar na segunda-feira, em Pequim, estando prevista a assinatura de uma declaração conjunta que deve definir as áreas prioritárias de…",
-      "why": "«Portugal e China reativam na segunda-feira comissão científica suspensa desde 2019» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Portugal e China reativam na segunda-feira comissão científica suspensa desde 2019», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-16T07:19:26+00:00",
-      "age_hours": 0.6,
+      "title": "Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?",
+      "summary": "O Irão atacou pelo menos 24 navios comerciais perto do Estreito de Ormuz num período de duas semanas, afirmou na quinta-feira o Instituto para o Estudo da Guerra (ISW), enquanto dois porta-aviões norte-americanos operam no Mar Arábico e responsáveis de ambos os lados emitem avisos públicos sobre um possível regresso a hostilidades em grande escala.A Maritime Trade Operations (UKMTO) do Reino Unido, um órgão da Marinha Real que monitoriza a segurança da navegação mercante, registou pelo menos mais sete incidentes entre segunda-feira e quarta-feira.O grupo de reflexão sediado em Washington afirmou que os ataques demonstram que o Irão ainda mantém a capacidade de atacar a navegação mercante, apesar dos ataques norte-americanos à sua infraestrutura militar, e citou um oficial militar norte-americano que afirmou que as forças navais iranianas se adaptaram, utilizando pequenas embarcações e observadores para identificar navios, após danos significativos nos seus sistemas de radar.Em Teerão, altos responsáveis militares lançaram avisos nos últimos dias.",
+      "why": "«Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-16T11:54:48+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/portugal-e-china-reativam-na-segunda-feira-comissao-cientifica-suspensa-desde-2019_n1772006",
+      "link": "https://pt.euronews.com/2026/10/16/medio-oriente-estara-a-guerra-entre-os-eua-e-o-irao-prestes-a-agravar-se",
       "original_source": true,
       "event_id": "evt-mundo-001",
-      "cluster_size": 2,
+      "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Euronews Português"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Euronews Português",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Portugal defende ligação entre ensino profissional e superior em conferência na China",
-          "link": "https://www.rtp.pt/noticias/mundo/portugal-defende-ligacao-entre-ensino-profissional-e-superior-em-conferencia-na-china_n1772001"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "Portugal e China vão reativar na segunda-feira a Comissão Mista de Ciência e Tecnologia, suspensa desde 2019, e esperam alcançar um entendimento sobre as prioridades de cooperação bilateral, revelou hoje à Lusa o ministro da Educação \"Penso que teremos na segunda-feira um resultado muito positivo para podermos desenhar a nova forma de colaboração entre Portugal e a China, em domínios estratégicos para os dois países\", afirmou Fernando Alexandre Em declarações à Lusa, à margem da Conferência Mundial sobre o Desenvolvimento do Ensino Profissional e Técnico, na cidade chinesa de Tianjin, o mnistro da Educação, Ciência e Inovação explicou que as equipas técnicas dos dois países têm trabalhado desde a visita que realizou à China, em junho Nessa ocasião, Fernando Alexandre acordou com o ministro chinês da Ciência e Tecnologia, Yin Hejun, a retoma dos trabalhos da comissão bilateral, que não se reúne desde 2019 A X Comissão Mista de Ciência e Tecnologia terá lugar na segunda-feira, em Pequim, estando prevista a assinatura de uma declaração conjunta que deve definir as áreas prioritárias de… «Portugal e China reativam na segunda-feira comissão científica suspensa desde 2019» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Portugal e China reativam na segunda-feira comissão científica suspensa desde 2019», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 11.88,
-      "source_tier": "A",
+      "detailed_summary": "O Irão atacou pelo menos 24 navios comerciais perto do Estreito de Ormuz num período de duas semanas, afirmou na quinta-feira o Instituto para o Estudo da Guerra (ISW), enquanto dois porta-aviões norte-americanos operam no Mar Arábico e responsáveis de ambos os lados emitem avisos públicos sobre um possível regresso a hostilidades em grande escala.A Maritime Trade Operations (UKMTO) do Reino Unido, um órgão da Marinha Real que monitoriza a segurança da navegação mercante, registou pelo menos mais sete incidentes entre segunda-feira e quarta-feira.O grupo de reflexão sediado em Washington afirmou que os ataques demonstram que o Irão ainda mantém a capacidade de atacar a navegação mercante, apesar dos ataques norte-americanos à sua infraestrutura militar, e citou um oficial militar norte-americano que afirmou que as forças navais iranianas se adaptaram, utilizando pequenas embarcações e observadores para identificar navios, após danos significativos nos seus sistemas de radar.Em Teerão, altos responsáveis militares lançaram avisos nos últimos dias. «Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.6,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Segurança"
       ],
-      "title": "Governo afasta regras vinculativas para uso de inteligência artificial nas escolas",
-      "summary": "O ministro da Educação, Ciência e Inovação afirmou hoje que as novas orientações sobre a utilização da inteligência artificial (IA) nas escolas não terão caráter vinculativo, privilegiando uma abordagem pedagógica que permita acompanhar a rápida evolução da tecnologia \"São orientações\", afirmou Fernando Alexandre à agência Lusa, à margem da Conferência Mundial sobre o Desenvolvimento do Ensino Profissional e Técnico, que decorre na cidade chinesa de Tianjin O governante explicou que a IA oferece oportunidades para o desenvolvimento das competências dos alunos e para a melhoria das práticas pedagógicas, mas também apresenta riscos que evoluem à medida que surgem novas aplicações \"Uma das mensagens nas orientações é precisamente a capacidade de adaptação àquilo que são as novas aplicações que vão surgindo, as novas possibilidades\", afirmou Segundo Fernando Alexandre, o objetivo é ajudar as escolas e os professores a utilizar a tecnologia de forma eficaz, tendo como prioridade a melhoria das aprendizagens O ministro sublinhou que o desenvolvimento das competências digitais é central na…",
-      "why": "«Governo afasta regras vinculativas para uso de inteligência artificial nas escolas» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Governo afasta regras vinculativas para uso de inteligência artificial nas escolas», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "title": "Papa recupera da cirurgia e deixa mensagem para o Dia Mundial da Alimentação",
+      "summary": "A nota sobre a efeméride, que se assinala esta sexta-feira, foi escrita no início da semana, um dia antes de Leão XIV ter sido internado. Na carta dirigida ao diretor-geral da FAO, o Papa alerta para a persistência da fome e defende que os alimentos não podem ser usados como armas de guerra",
+      "why": "«Papa recupera da cirurgia e deixa mensagem para o Dia Mundial da Alimentação» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Papa recupera da cirurgia e deixa mensagem para o Dia Mundial da Alimentação», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-16T07:12:38+00:00",
-      "age_hours": 0.7,
+      "published": "2026-10-16T11:36:01+00:00",
+      "age_hours": 2.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/governo-afasta-regras-vinculativas-para-uso-de-inteligencia-artificial-nas-escolas_n1772004",
+      "link": "https://www.rtp.pt/noticias/mundo/papa-recupera-da-cirurgia-e-deixa-mensagem-para-o-dia-mundial-da-alimentacao_n1772064",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -94,38 +189,38 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O ministro da Educação, Ciência e Inovação afirmou hoje que as novas orientações sobre a utilização da inteligência artificial (IA) nas escolas não terão caráter vinculativo, privilegiando uma abordagem pedagógica que permita acompanhar a rápida evolução da tecnologia \"São orientações\", afirmou Fernando Alexandre à agência Lusa, à margem da Conferência Mundial sobre o Desenvolvimento do Ensino Profissional e Técnico, que decorre na cidade chinesa de Tianjin O governante explicou que a IA oferece oportunidades para o desenvolvimento das competências dos alunos e para a melhoria das práticas pedagógicas, mas também apresenta riscos que evoluem à medida que surgem novas aplicações \"Uma das mensagens nas orientações é precisamente a capacidade de adaptação àquilo que são as novas aplicações que vão surgindo, as novas possibilidades\", afirmou Segundo Fernando Alexandre, o objetivo é ajudar as escolas e os professores a utilizar a tecnologia de forma eficaz, tendo como prioridade a melhoria das aprendizagens O ministro sublinhou que o desenvolvimento das competências digitais é central na… «Governo afasta regras vinculativas para uso de inteligência artificial nas escolas» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Governo afasta regras vinculativas para uso de inteligência artificial nas escolas», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 11.85,
+      "detailed_summary": "A nota sobre a efeméride, que se assinala esta sexta-feira, foi escrita no início da semana, um dia antes de Leão XIV ter sido internado. Na carta dirigida ao diretor-geral da FAO, o Papa alerta para a persistência da fome e defende que os alimentos não podem ser usados como armas de guerra. «Papa recupera da cirurgia e deixa mensagem para o Dia Mundial da Alimentação» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Papa recupera da cirurgia e deixa mensagem para o Dia Mundial da Alimentação», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.54,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
         "Energia"
       ],
-      "title": "WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza",
-      "summary": "Maputo, 15 de Out (AIM) – A WaterAid Moçambique, com o apoio financeiro da Enabel e em colaboração com o Governo e parceiros do sector, está a implementar o projecto REGASH no distrito de Guijá, província de Gaza, com vista à melhoria da gestão, da resiliência climática e da continuidade dos serviços de abastecimento de água. A iniciativa insere-se nos esforços para garantir o funcionamento sustentável das infra-estruturas de abastecimento de água e a prestação de serviços fiáveis às comunidades beneficiárias. No âmbito do projecto, decorre desde hoje no distrito de Guijá um seminário que reúne representantes do Governo, entidades reguladoras, parceiros de cooperação e organizações do sector, com o objectivo de desenvolver um Plano de Acção de Sustentabilidade dos Sistemas de Abastecimento de Água. A sessão foi antecedida por um encontro de cortesia entre representantes das instituições governamentais, entidades reguladoras, da Enabel em Moçambique e da WaterAid Moçambique com o administrador do distrito de Guijá.",
-      "why": "«WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-15T20:01:06+00:00",
-      "age_hours": 11.9,
+      "title": "Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro",
+      "summary": "A taxa de inflação homóloga aumentou, em setembro, para 3,8% tanto na zona euro quanto na União Europeia (UE), continuando a ser impulsionada pelos preços da energia, divulgou hoje o Eurostat Segundo os dados do serviço estatístico europeu, na área do euro, o indicador aumentou tanto face aos 2,2% de setembro de 2025 , quanto aos 3,2% de agosto Na UE, a taxa de inflação homóloga também avançou para os 3,8%, que se comparam com 2,6% do mesmo mês de 2025 e 3,2% de agosto Os preços homólogos da energia, por outro lado, subiram 18,9% em setembro, depois de terem recuado 0,4% no mesmo mês de 2025 e subido 14,3% em agosto As taxas anuais mais baixas foram registadas na Suécia (1,0%), na Hungria e na Dinamarca (ambas com 2,1%) e na República Checa (2,4%) Já as taxas anuais mais elevadas, medidas pelo Índice Harmonizado dos Preços no Consumidor (IPHC), registaram-se na Roménia (6,5%), na Lituânia (6,1%) e na Bulgária (5,6%).",
+      "why": "«Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-16T11:00:22+00:00",
+      "age_hours": 2.8,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/15/wateraid-mocambique-promove-sustentabilidade-dos-sistemas-de-abastecimento-de-agua-em-gaza/",
+      "link": "https://www.rtp.pt/noticias/mundo/taxa-de-inflacao-sobe-para-38-na-zona-euro-e-na-ue-em-setembro_n1772065",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM Notícias"
+        "RTP Notícias"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 15 de Out (AIM) – A WaterAid Moçambique, com o apoio financeiro da Enabel e em colaboração com o Governo e parceiros do sector, está a implementar o projecto REGASH no distrito de Guijá, província de Gaza, com vista à melhoria da gestão, da resiliência climática e da continuidade dos serviços de abastecimento de água. A iniciativa insere-se nos esforços para garantir o funcionamento sustentável das infra-estruturas de abastecimento de água e a prestação de serviços fiáveis às comunidades beneficiárias. No âmbito do projecto, decorre desde hoje no distrito de Guijá um seminário que reúne representantes do Governo, entidades reguladoras, parceiros de cooperação e organizações do sector, com o objectivo de desenvolver um Plano de Acção de Sustentabilidade dos Sistemas de Abastecimento de Água. A sessão foi antecedida por um encontro de cortesia entre representantes das instituições governamentais, entidades reguladoras, da Enabel em Moçambique e da WaterAid Moçambique com o administrador do distrito de Guijá. «WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 11.52,
-      "source_tier": "B",
+      "opportunity_flag": false,
+      "detailed_summary": "A taxa de inflação homóloga aumentou, em setembro, para 3,8% tanto na zona euro quanto na União Europeia (UE), continuando a ser impulsionada pelos preços da energia, divulgou hoje o Eurostat Segundo os dados do serviço estatístico europeu, na área do euro, o indicador aumentou tanto face aos 2,2% de setembro de 2025 , quanto aos 3,2% de agosto Na UE, a taxa de inflação homóloga também avançou para os 3,8%, que se comparam com 2,6% do mesmo mês de 2025 e 3,2% de agosto Os preços homólogos da energia, por outro lado, subiram 18,9% em setembro, depois de terem recuado 0,4% no mesmo mês de 2025 e subido 14,3% em agosto As taxas anuais mais baixas foram registadas na Suécia (1,0%), na Hungria e na Dinamarca (ambas com 2,1%) e na República Checa (2,4%) Já as taxas anuais mais elevadas, medidas pelo Índice Harmonizado dos Preços no Consumidor (IPHC), registaram-se na Roménia (6,5%), na Lituânia (6,1%) e na Bulgária (5,6%). «Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 11.42,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -139,7 +234,7 @@
       "impact": "No caso de «Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-15T22:11:38+00:00",
-      "age_hours": 9.8,
+      "age_hours": 15.6,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/presidente-angolano-aponta-fatores-adversos-que-dificultaram-execucao-nos-seus-mandatos_n1771907",
       "original_source": true,
@@ -153,7 +248,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Presidente de Angola, João Lourenço, atribuiu hoje dificuldades na execução do seu Governo ao longo dos seus dois mandatos a \"fatores adversos\" e declarou-se consciente dos \"muitos desafios\" que o país ainda tem pela frente João Lourenço apresentou, durante quase quatro horas, na sua última mensagem sobre o Estado da Nação, na Assembleia Nacional, um balanço dos seus dois mandatos, a um ano de deixar a Presidência da República, apontando avanços e impactos que travaram as metas que definiu para a governação em Angola Empossado pela primeira vez a 26 de setembro de 2022, João Lourenço não pode concorrer às eleições de 2027 por ter atingido o limite de dois mandatos Referindo que o Plano Nacional de Desenvolvimento 2018-2022 e o Plano de Desenvolvimento Nacional 2023-2027 constituíram a \"bússola orientadora na condução da política geral de governação do país\", apontou \"fatores adversos\" que afetaram a sua execução Em particular, destacou \"os conflitos internacionais, as perturbações nas cadeias logísticas, o aumento dos preços internacionais dos alimentos, dos combustíveis e… «Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 10.96,
+      "editorial_score": 9.75,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -162,75 +257,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres",
-      "summary": "Maputo, 15 de Outubro (AIM) — O projecto TRISEG vai apoiar 200 Pequenas e Médias Empresas (PME) em Moçambique, das quais 60 por cento deverão ser detidas ou lideradas por mulheres, no âmbito da segunda fase da iniciativa lançada em Maputo, para reforçar a competitividade empresarial, a capacidade de exportação, a transformação digital e a resiliência climática. Financiado pela Global Affairs Canada (GAC) e implementado pela TFO Canada, em parceria com o Instituto para a Promoção das Pequenas e Médias Empresas (IPEME), o projecto visa contribuir para o crescimento económico inclusivo e sustentável, através do fortalecimento das capacidades das empresas nacionais. A iniciativa pretende apoiar as PME na melhoria do seu posicionamento competitivo, na preparação para aceder aos mercados de exportação e na adopção de soluções digitais, bem como no desenvolvimento de capacidades para responder aos desafios das alterações climáticas.",
-      "why": "«Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-15T20:08:34+00:00",
-      "age_hours": 11.8,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/15/projecto-triseg-vai-apoiar-200-pme-em-mocambique-60-lideradas-por-mulheres/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 15 de Outubro (AIM) — O projecto TRISEG vai apoiar 200 Pequenas e Médias Empresas (PME) em Moçambique, das quais 60 por cento deverão ser detidas ou lideradas por mulheres, no âmbito da segunda fase da iniciativa lançada em Maputo, para reforçar a competitividade empresarial, a capacidade de exportação, a transformação digital e a resiliência climática. Financiado pela Global Affairs Canada (GAC) e implementado pela TFO Canada, em parceria com o Instituto para a Promoção das Pequenas e Médias Empresas (IPEME), o projecto visa contribuir para o crescimento económico inclusivo e sustentável, através do fortalecimento das capacidades das empresas nacionais. A iniciativa pretende apoiar as PME na melhoria do seu posicionamento competitivo, na preparação para aceder aos mercados de exportação e na adopção de soluções digitais, bem como no desenvolvimento de capacidades para responder aos desafios das alterações climáticas. «Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Projecto TRISEG vai apoiar 200 PME em Moçambique, 60% lideradas por mulheres», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.54,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens",
-      "summary": "A taxa de desemprego em Angola recua de 31,5%, em 2024, para 21,3% no primeiro trimestre de 2026, uma redução de 10,2 pontos percentuais, segundo dados apresentados, esta quinta-feira, pelo Presidente da República, João Lourenço, durante o discurso sobre o Estado da Nação, na Assembleia Nacional, em Luanda. Apesar da descida, o mercado de trabalho […]",
-      "why": "«Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
-      "impact": "No caso de «Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo",
+      "summary": "Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo Foi com palavras simples e profundamente humanas que o Presidente da República, Daniel Chapo, explicou nesta sexta-feira(16.10.26), em Gorongosa, o que significa para uma família a chegada da água potável. Ao inaugurar o sistema de abastecimento de água, o Chefe de Estado […]",
+      "why": "«Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
-      "published": "2026-10-15T19:45:47+00:00",
-      "age_hours": 12.2,
+      "published": "2026-10-16T10:07:51+00:00",
+      "age_hours": 3.7,
       "within_24h": true,
-      "link": "https://opais.co.mz/desemprego-cai-para-213-em-angola-mas-atinge-407-dos-jovens/",
+      "link": "https://opais.co.mz/chapo-inaugura-agua-em-gorongosa-e-diz-que-obra-devolve-dignidade-ao-povo/",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A taxa de desemprego em Angola recua de 31,5%, em 2024, para 21,3% no primeiro trimestre de 2026, uma redução de 10,2 pontos percentuais, segundo dados apresentados, esta quinta-feira, pelo Presidente da República, João Lourenço, durante o discurso sobre o Estado da Nação, na Assembleia Nacional, em Luanda. Apesar da descida, o mercado de trabalho […]. «Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Desemprego cai para 21,3% em angola, mas atinge 40,7% dos jovens», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.46,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "FMI prevê crescimento de 4,5% para áfrica em 2026, mas alerta para corte na ajuda externa",
-      "summary": "A economia africana deverá crescer 4,5% em 2026 e acelerar para 5% em 2027, mas a redução da ajuda externa deixa vários países mais vulneráveis a novos choques económicos. A previsão foi avançada esta quinta-feira pelo Fundo Monetário Internacional (FMI), durante as reuniões anuais da instituição e do Banco Mundial, em Banguecoque, na Tailândia. Segundo […]",
-      "why": "«FMI prevê crescimento de 4,5% para áfrica em 2026, mas alerta para corte na ajuda externa» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
-      "impact": "No caso de «FMI prevê crescimento de 4,5% para áfrica em 2026, mas alerta para corte na ajuda externa», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "O País",
-      "published": "2026-10-15T18:24:44+00:00",
-      "age_hours": 13.5,
-      "within_24h": true,
-      "link": "https://opais.co.mz/fmi-preve-crescimento-de-45-para-africa-em-2026-mas-alerta-para-corte-na-ajuda-externa/",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -239,25 +276,25 @@
       "primary_source": "O País",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A economia africana deverá crescer 4,5% em 2026 e acelerar para 5% em 2027, mas a redução da ajuda externa deixa vários países mais vulneráveis a novos choques económicos. A previsão foi avançada esta quinta-feira pelo Fundo Monetário Internacional (FMI), durante as reuniões anuais da instituição e do Banco Mundial, em Banguecoque, na Tailândia. Segundo […]. «FMI prevê crescimento de 4,5% para áfrica em 2026, mas alerta para corte na ajuda externa» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «FMI prevê crescimento de 4,5% para áfrica em 2026, mas alerta para corte na ajuda externa», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.19,
+      "detailed_summary": "Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo Foi com palavras simples e profundamente humanas que o Presidente da República, Daniel Chapo, explicou nesta sexta-feira(16.10.26), em Gorongosa, o que significa para uma família a chegada da água potável. Ao inaugurar o sistema de abastecimento de água, o Chefe de Estado […]. «Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 9.23,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido",
-      "summary": "Incêndios deflagram no centro de Tirana, manifestantes lançam pedras e a polícia responde com gás lacrimogéneo e canhões de água. Protestos estudantis que exigem a demissão do primeiro-ministro Edi Rama entram no terceiro dia",
-      "why": "«Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça",
+      "summary": "As famílias das crianças mortas no desabamento do telhado de uma escola no noroeste do Paquistão exigiram “justiça” esta sexta-feira, um dia depois de mais de 30 alunos e uma professora terem sido esmagados até à morte.Uma professora e 32 alunos, na maioria com menos de 14 anos, morreram no desabamento do edifício na cidade de Peshawar, na manhã de quinta-feira.“Os pais de todas estas crianças têm de obter justiça”, afirmou à agência AFP o alfaiate Muhammad Wahab, que perdeu o sobrinho Hammad, de 11 anos, no acidente, esta sexta-feira.“Apelo aos nossos governantes”, disse, acrescentando que Hammad ‘tinha bons resultados na escola’ antes da tragédia.Dezenas de pessoas juntaram-se junto à escola, na sexta-feira, para fazer luto pelas crianças mortas no desabamento, que as autoridades atribuíram a infraestruturas degradadas.Um pai em luto mostrou à AFP uma fotografia, no telemóvel, da filha pequena, vestida de vermelho e dourado, que perdeu a vida.Outro pai, Asadullah, disse ter perdido um filho, um sobrinho e três outros familiares próximos na tragédia.“As crianças eram boas alunas e…",
+      "why": "«Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-15T21:35:50+00:00",
-      "age_hours": 10.4,
+      "published": "2026-10-16T08:44:53+00:00",
+      "age_hours": 5.0,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/15/albania-protestos-violentos-abalam-tirana-pelo-terceiro-dia-seguido",
+      "link": "https://pt.euronews.com/2026/10/16/paquistao-familias-de-32-criancas-mortas-em-colapso-de-teto-de-escola-exigem-justica",
       "original_source": true,
       "event_id": "evt-mundo-008",
       "cluster_size": 1,
@@ -268,37 +305,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Incêndios deflagram no centro de Tirana, manifestantes lançam pedras e a polícia responde com gás lacrimogéneo e canhões de água. Protestos estudantis que exigem a demissão do primeiro-ministro Edi Rama entram no terceiro dia. «Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Albânia: protestos violentos abalam Tirana pelo terceiro dia seguido», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 6.83,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Paquistão: desabamento em escola arrasa salas e mata pelo menos 32 alunos",
-      "summary": "Ruiu o teto de uma escola em Peshawar, no Paquistão, a 15 de outubro, matando pelo menos 32 alunos e um professor. As autoridades dizem que a estrutura era frágil e estava sobrecarregada por obras. O proprietário foi detido e abriu‑se uma investigação",
-      "why": "«Paquistão: desabamento em escola arrasa salas e mata pelo menos 32 alunos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Paquistão: desabamento em escola arrasa salas e mata pelo menos 32 alunos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-15T13:04:24+00:00",
-      "age_hours": 18.9,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/15/paquistao-desabamento-em-escola-arrasa-salas-e-mata-pelo-menos-32-alunos",
-      "original_source": true,
-      "event_id": "evt-mundo-014",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Ruiu o teto de uma escola em Peshawar, no Paquistão, a 15 de outubro, matando pelo menos 32 alunos e um professor. As autoridades dizem que a estrutura era frágil e estava sobrecarregada por obras. O proprietário foi detido e abriu‑se uma investigação. «Paquistão: desabamento em escola arrasa salas e mata pelo menos 32 alunos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Paquistão: desabamento em escola arrasa salas e mata pelo menos 32 alunos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 5.06,
+      "detailed_summary": "As famílias das crianças mortas no desabamento do telhado de uma escola no noroeste do Paquistão exigiram “justiça” esta sexta-feira, um dia depois de mais de 30 alunos e uma professora terem sido esmagados até à morte.Uma professora e 32 alunos, na maioria com menos de 14 anos, morreram no desabamento do edifício na cidade de Peshawar, na manhã de quinta-feira.“Os pais de todas estas crianças têm de obter justiça”, afirmou à agência AFP o alfaiate Muhammad Wahab, que perdeu o sobrinho Hammad, de 11 anos, no acidente, esta sexta-feira.“Apelo aos nossos governantes”, disse, acrescentando que Hammad ‘tinha bons resultados na escola’ antes da tragédia.Dezenas de pessoas juntaram-se junto à escola, na sexta-feira, para fazer luto pelas crianças mortas no desabamento, que as autoridades atribuíram a infraestruturas degradadas.Um pai em luto mostrou à AFP uma fotografia, no telemóvel, da filha pequena, vestida de vermelho e dourado, que perdeu a vida.Outro pai, Asadullah, disse ter perdido um filho, um sobrinho e três outros familiares próximos na tragédia.“As crianças eram boas alunas e… «Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.96,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -322,8 +330,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 3,
-    "África": 3,
+    "Moçambique": 5,
+    "África": 1,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",

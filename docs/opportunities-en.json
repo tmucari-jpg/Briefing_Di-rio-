@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-10-16T07:57:57.871563+00:00",
+  "updated_at": "2026-10-16T13:47:50.850279+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Energia/LNG",
+      "title": "Mozambique: Government to implement concession system for maritime cabotage",
+      "summary": "Mozambican government plans to implement a concession system for maritime cabotage by June 2027, as part of measures designed to consolidate the maritime transport of goods and strengthen coordination between different modes of transport. According to the Minister of Transport and Logistics, João Matlombe, speaking on Thursday at the close of the Ministry’s 2nd Coordinating… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique: Government to implement concession system for maritime cabotage” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique: Government to implement concession system for maritime cabotage”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-16T11:02:18+00:00",
+      "age_hours": 2.8,
+      "link": "https://clubofmozambique.com/news/mozambique-government-to-implement-concession-system-for-maritime-cabotage/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 8
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",
