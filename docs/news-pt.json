@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T13:47:28.059089+00:00",
+  "updated_at": "2026-10-16T18:40:24.996196+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,101 +8,30 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura",
-      "summary": "Maputo, 16 Out (AIM) – O Presidente da República, Daniel Chapo, inaugurou hoje um sistema de abastecimento de água que elevou de 36 para 56 por cento a cobertura do serviço na vila de Gorongosa, província de Sofala, representando um aumento de 55,6 por cento em relação à cobertura anterior. A inauguração teve lugar no segundo dia da visita de trabalho de três dias que o Chefe do Estado efectua à província de Sofala. O empreendimento, financiado pelo Governo moçambicano com apoio do banco alemão KfW, representa um investimento de 1,4 milhões de euros e abrange 12 bairros, através da expansão da rede de distribuição em 22 quilómetros e da instalação de 350 novas ligações domiciliárias. A capacidade de produção de água passou de 750 para 1.350 metros cúbicos por dia, enquanto o número de fontenários públicos aumentou de 37 para 51. O sistema conta actualmente com cerca de 1.900 ligações e permite servir aproximadamente 28.600 habitantes, podendo alcançar 36.900 pessoas até 2040, elevando a cobertura para cerca de 72 por cento.",
-      "why": "«Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-10-16T13:09:52+00:00",
-      "age_hours": 0.6,
+      "title": "Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado",
+      "summary": "O ministro da Planificação e Desenvolvimento, Salim Valá, defende o crescimento económico inclusivo como uma das principais estratégias para combater a pobreza e acelerar a recuperação de Cabo Delgado, província afectada, desde 2017, por ataques terroristas que comprometem a segurança, os meios de subsistência das populações e o desenvolvimento local. A posição foi manifestada hoje no encontro com organizações da sociedade civil, destinado a avaliar projectos de promoção da coesão social e prevenção do extremismo violento, apoiados pela Agência de Desenvolvimento Integrado do Norte (ADIN). Na ocasião, Valá sublinhou que o crescimento económico deve ser acompanhado pela criação de emprego, expansão das infra-estruturas, melhoria dos serviços públicos e redução das desigualdades sociais e territoriais. “Se a economia não crescer, não ficar mais robusta, não ficar mais diversificada, é muito difícil acabar com a pobreza”, afirmou, destacando igualmente que a paz e a estabilidade são condições indispensáveis para o desenvolvimento sustentável.",
+      "why": "«Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-16T15:02:05+00:00",
+      "age_hours": 3.6,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/16/gorongosa-ganha-novo-sistema-de-abastecimento-de-agua-e-sobe-em-mais-de-50-o-nivel-de-cobertura/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/vala-defende-crescimento-inclusivo-para-combater-pobreza-em-cabo-delgado/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 3,
-      "source_count": 2,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "AIM Notícias",
         "Jornal Notícias"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "Jornal Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Jornal Notícias",
-          "title": "PR chega à Gorongosa para entregar sistema de abastecimento de água",
-          "link": "https://www.jornalnoticias.co.mz/destaque/pr-chega-a-gorongosa-para-entregar-sistema-de-abastecimento-de-agua/"
-        },
-        {
-          "source": "AIM Notícias",
-          "title": "WaterAid Moçambique promove sustentabilidade dos sistemas de abastecimento de água em Gaza",
-          "link": "https://aimnews.org/2026/10/15/wateraid-mocambique-promove-sustentabilidade-dos-sistemas-de-abastecimento-de-agua-em-gaza/"
-        }
-      ],
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 16 Out (AIM) – O Presidente da República, Daniel Chapo, inaugurou hoje um sistema de abastecimento de água que elevou de 36 para 56 por cento a cobertura do serviço na vila de Gorongosa, província de Sofala, representando um aumento de 55,6 por cento em relação à cobertura anterior. A inauguração teve lugar no segundo dia da visita de trabalho de três dias que o Chefe do Estado efectua à província de Sofala. O empreendimento, financiado pelo Governo moçambicano com apoio do banco alemão KfW, representa um investimento de 1,4 milhões de euros e abrange 12 bairros, através da expansão da rede de distribuição em 22 quilómetros e da instalação de 350 novas ligações domiciliárias. A capacidade de produção de água passou de 750 para 1.350 metros cúbicos por dia, enquanto o número de fontenários públicos aumentou de 37 para 51. O sistema conta actualmente com cerca de 1.900 ligações e permite servir aproximadamente 28.600 habitantes, podendo alcançar 36.900 pessoas até 2040, elevando a cobertura para cerca de 72 por cento. «Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Gorongosa ganha novo sistema de abastecimento de água e sobe em mais de 50% o nível de cobertura», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 15.38,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Emitido o alerta do risco de inundações na bacia do rio Maputo",
-      "summary": "Maputo, 16 Out (AIM) – A Direcção Nacional de Gestão de Recursos Hídricos (DNGRH) alerta para o risco moderado de ocorrência de inundações na bacia hidrográfica do rio Maputo, na sequência das descargas anuais da barragem de Pongolapoort, na África do Sul, previstas para 2 de Novembro próximo. Segundo um comunicado de imprensa da DNGRH, as descargas terão um caudal máximo previsto de 700 metros cúbicos por segundo no dia 8 de Novembro, com o objectivo de reabastecer os reservatórios das planícies adjacentes. O aumento do caudal poderá elevar o nível das águas na estação hidrométrica de Madubula, no posto administrativo de Catuane, até dois metros acima do nível de alerta, a partir de 13 de Novembro, com possíveis inundações de campos agrícolas e condicionamento da circulação rodoviária. As zonas potencialmente afectadas incluem os povoados de Catuane, Salamanga e Tinonganine, onde as comunidades ribeirinhas são aconselhadas a evitar a travessia do leito do rio e a redobrar os cuidados na circulação rodoviária.",
-      "why": "«Emitido o alerta do risco de inundações na bacia do rio Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Emitido o alerta do risco de inundações na bacia do rio Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-16T13:45:33+00:00",
-      "age_hours": 0.0,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/16/emitido-o-alerta-do-risco-de-inundacoes-na-bacia-do-rio-maputo/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 16 Out (AIM) – A Direcção Nacional de Gestão de Recursos Hídricos (DNGRH) alerta para o risco moderado de ocorrência de inundações na bacia hidrográfica do rio Maputo, na sequência das descargas anuais da barragem de Pongolapoort, na África do Sul, previstas para 2 de Novembro próximo. Segundo um comunicado de imprensa da DNGRH, as descargas terão um caudal máximo previsto de 700 metros cúbicos por segundo no dia 8 de Novembro, com o objectivo de reabastecer os reservatórios das planícies adjacentes. O aumento do caudal poderá elevar o nível das águas na estação hidrométrica de Madubula, no posto administrativo de Catuane, até dois metros acima do nível de alerta, a partir de 13 de Novembro, com possíveis inundações de campos agrícolas e condicionamento da circulação rodoviária. As zonas potencialmente afectadas incluem os povoados de Catuane, Salamanga e Tinonganine, onde as comunidades ribeirinhas são aconselhadas a evitar a travessia do leito do rio e a redobrar os cuidados na circulação rodoviária. «Emitido o alerta do risco de inundações na bacia do rio Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Emitido o alerta do risco de inundações na bacia do rio Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.0,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "De Araújo aponta falta de divisas como causa da escassez de combustível",
-      "summary": "Edil de Quelimane alerta para os impactos na economia e na gestão dos resíduos sólidos, apesar da normalização do abastecimento na cidade. A falta de divisas é apontada pelo edil de Quelimane, Manuel de Araújo, como uma das principais causas da escassez de combustíveis que se tem verificado em Moçambique. O autarca considera que a […]",
-      "why": "«De Araújo aponta falta de divisas como causa da escassez de combustível» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «De Araújo aponta falta de divisas como causa da escassez de combustível», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-16T11:41:49+00:00",
-      "age_hours": 2.1,
-      "within_24h": true,
-      "link": "https://opais.co.mz/de-araujo-aponta-falta-de-divisas-como-causa-da-escassez-de-combustivel/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Edil de Quelimane alerta para os impactos na economia e na gestão dos resíduos sólidos, apesar da normalização do abastecimento na cidade. A falta de divisas é apontada pelo edil de Quelimane, Manuel de Araújo, como uma das principais causas da escassez de combustíveis que se tem verificado em Moçambique. O autarca considera que a […]. «De Araújo aponta falta de divisas como causa da escassez de combustível» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «De Araújo aponta falta de divisas como causa da escassez de combustível», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.56,
+      "detailed_summary": "O ministro da Planificação e Desenvolvimento, Salim Valá, defende o crescimento económico inclusivo como uma das principais estratégias para combater a pobreza e acelerar a recuperação de Cabo Delgado, província afectada, desde 2017, por ataques terroristas que comprometem a segurança, os meios de subsistência das populações e o desenvolvimento local. A posição foi manifestada hoje no encontro com organizações da sociedade civil, destinado a avaliar projectos de promoção da coesão social e prevenção do extremismo violento, apoiados pela Agência de Desenvolvimento Integrado do Norte (ADIN). Na ocasião, Valá sublinhou que o crescimento económico deve ser acompanhado pela criação de emprego, expansão das infra-estruturas, melhoria dos serviços públicos e redução das desigualdades sociais e territoriais. “Se a economia não crescer, não ficar mais robusta, não ficar mais diversificada, é muito difícil acabar com a pobreza”, afirmou, destacando igualmente que a paz e a estabilidade são condições indispensáveis para o desenvolvimento sustentável. «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 15.25,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -111,17 +40,46 @@
       "tags": [
         "Segurança"
       ],
-      "title": "A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano",
-      "summary": "R aimundo M apanzene A TRIBUNA das Nações Unidas sempre foi o palco por excelência onde a periferia do mundo fala de igual para igual com o centro do poder global. Em Setembro de 2026, ao discursar na 81.ª Sessão da Assembleia Geral da ONU, o Presidente Daniel Chapo levou a voz de Moçambique a Nova Iorque e ensaiou uma postura firmemente contra-hegemónica frente à arquitectura financeira e política internacional. Ao cruzar a necessidade de captação de capital com a soberania sobre as matérias-primas e a obrigatoriedade de políticas de conteúdo local, o discurso moçambicano desafiou abertamente a lógica do capitalismo global subordinante, que insiste em manter o Sul Global confinado à periferia económica. O diagnóstico de Chapo sobre o estado do mundo toca na ferida da anomia institucional. Quando o líder moçambicano afirma que os pilares da ONU enfrentam uma pressão sem precedentes, ele constata a falência de uma ordem social global que já não consegue arbitrar conflitos nem garantir a coesão.",
-      "why": "«A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-16T13:33:37+00:00",
-      "age_hours": 0.2,
+      "title": "Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local",
+      "summary": "Maputo, 16 Out (AIM) – O Distrito Municipal de KaNyaka, na cidade de Maputo, pretende reforçar a transformação e conservação local de produtos agrícolas e pesqueiros para reduzir as perdas alimentares e aumentar os rendimentos das comunidades, no âmbito dos esforços para melhorar a segurança alimentar e nutricional. A iniciativa foi anunciada hoje pelo administrador municipal de KaNyaka, Izidro Mapanga, durante as celebrações do Dia Mundial da Alimentação, assinalado sob o lema “Inovar hoje para nutrir o amanhã”. “De nada vale produzir se perdermos 30 por cento no caminho entre o mar, a machamba e a mesa. O nosso desafio é a cadeia de valor. Por isso, estamos a incentivar a transformação local”, afirmou Mapanga. Segundo o dirigente, a estratégia passa por promover formas de processamento e conservação de produtos locais, incluindo o pescado, a mandioca e a batata-doce, de modo a reduzir as perdas e garantir que uma maior parte do valor gerado pela produção permaneça na comunidade.",
+      "why": "«Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-16T16:41:35+00:00",
+      "age_hours": 2.0,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/a-voz-da-periferia-na-onu-entre-poder-capital-global-e-o-conteudo-local-mocambicano/",
+      "link": "https://aimnews.org/2026/10/16/autoridades-de-kanyaka-pretendem-reduzir-perdas-agricolas-atraves-da-transformacao-local/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 16 Out (AIM) – O Distrito Municipal de KaNyaka, na cidade de Maputo, pretende reforçar a transformação e conservação local de produtos agrícolas e pesqueiros para reduzir as perdas alimentares e aumentar os rendimentos das comunidades, no âmbito dos esforços para melhorar a segurança alimentar e nutricional. A iniciativa foi anunciada hoje pelo administrador municipal de KaNyaka, Izidro Mapanga, durante as celebrações do Dia Mundial da Alimentação, assinalado sob o lema “Inovar hoje para nutrir o amanhã”. “De nada vale produzir se perdermos 30 por cento no caminho entre o mar, a machamba e a mesa. O nosso desafio é a cadeia de valor. Por isso, estamos a incentivar a transformação local”, afirmou Mapanga. Segundo o dirigente, a estratégia passa por promover formas de processamento e conservação de produtos locais, incluindo o pescado, a mandioca e a batata-doce, de modo a reduzir as perdas e garantir que uma maior parte do valor gerado pela produção permaneça na comunidade. «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.58,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Maputo defende cooperação que impulsiona desenvolvimento entre cidades",
+      "summary": "O município de Maputo defende uma cooperação estratégica entre cidades usada como instrumento para impulsionar o desenvolvimento económico e social, promoção da inovação e soluções conjuntas para os desafios enfrentados pelos centros urbanos. Esta posiçao foi defendida pelo presidente do município de Maputo, Rasaque Manhique, num discurso na cidade de Fuzhou, China, em representação de 20 cidades e três Associações Internacionais convidadas para um encontro com a liderança da província chinesa de Fujian, no âmbito do Diálogo sobre a Cooperação entre Governos Locais e Cidades de Amizade Internacionais da Rota Marítima da Seda do Século XXI, que decorre de hoje até segunda-feira (16 a 19 de Outubro), naquele país asiático. Defendeu ainda o fortalecimento das relações de amizade e cooperação entre governos locais, sublinhando que a partilha de experiências, transferência de conhecimentos e mobilização de investimentos constituem factores essenciais para a construção de cidades modernas, inclusivas, resilientes e sustentáveis.",
+      "why": "«Maputo defende cooperação que impulsiona desenvolvimento entre cidades» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Maputo defende cooperação que impulsiona desenvolvimento entre cidades», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-16T15:00:25+00:00",
+      "age_hours": 3.7,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/maputo-defende-cooperacao-que-impulsiona-desenvolvimento-entre-cidades/",
+      "original_source": true,
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -129,10 +87,155 @@
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "R aimundo M apanzene A TRIBUNA das Nações Unidas sempre foi o palco por excelência onde a periferia do mundo fala de igual para igual com o centro do poder global. Em Setembro de 2026, ao discursar na 81.ª Sessão da Assembleia Geral da ONU, o Presidente Daniel Chapo levou a voz de Moçambique a Nova Iorque e ensaiou uma postura firmemente contra-hegemónica frente à arquitectura financeira e política internacional. Ao cruzar a necessidade de captação de capital com a soberania sobre as matérias-primas e a obrigatoriedade de políticas de conteúdo local, o discurso moçambicano desafiou abertamente a lógica do capitalismo global subordinante, que insiste em manter o Sul Global confinado à periferia económica. O diagnóstico de Chapo sobre o estado do mundo toca na ferida da anomia institucional. Quando o líder moçambicano afirma que os pilares da ONU enfrentam uma pressão sem precedentes, ele constata a falência de uma ordem social global que já não consegue arbitrar conflitos nem garantir a coesão. «A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «A voz da periferia na ONU: entre poder, capital global e o conteúdo local moçambicano», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.96,
+      "opportunity_flag": true,
+      "detailed_summary": "O município de Maputo defende uma cooperação estratégica entre cidades usada como instrumento para impulsionar o desenvolvimento económico e social, promoção da inovação e soluções conjuntas para os desafios enfrentados pelos centros urbanos. Esta posiçao foi defendida pelo presidente do município de Maputo, Rasaque Manhique, num discurso na cidade de Fuzhou, China, em representação de 20 cidades e três Associações Internacionais convidadas para um encontro com a liderança da província chinesa de Fujian, no âmbito do Diálogo sobre a Cooperação entre Governos Locais e Cidades de Amizade Internacionais da Rota Marítima da Seda do Século XXI, que decorre de hoje até segunda-feira (16 a 19 de Outubro), naquele país asiático. Defendeu ainda o fortalecimento das relações de amizade e cooperação entre governos locais, sublinhando que a partilha de experiências, transferência de conhecimentos e mobilização de investimentos constituem factores essenciais para a construção de cidades modernas, inclusivas, resilientes e sustentáveis. «Maputo defende cooperação que impulsiona desenvolvimento entre cidades» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Maputo defende cooperação que impulsiona desenvolvimento entre cidades», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.23,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique considera urgente travar violação dos direitos humanos",
+      "summary": "O Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo acabar com os deslocamentos forçados que incluem menores naquela província do norte do país. Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo […]",
+      "why": "«Moçambique considera urgente travar violação dos direitos humanos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Moçambique considera urgente travar violação dos direitos humanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "O País",
+      "published": "2026-10-16T18:03:06+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://opais.co.mz/mocambique-considera-urgente-travar-violacao-dos-direitos-humanos/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo acabar com os deslocamentos forçados que incluem menores naquela província do norte do país. Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo […]. «Moçambique considera urgente travar violação dos direitos humanos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique considera urgente travar violação dos direitos humanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.88,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Em vista transformação das 284 recomendações de direitos humanos em acções concretas",
+      "summary": "Maputo, 16 de Outubro (AIM) – O Governo moçambicano pretende reforçar os mecanismos de implementação das 284 recomendações sobre direitos humanos aceites pelo Estado, através da sua integração nos instrumentos de planificação e orçamentação e da criação de condições para a sua tradução em legislação e acções concretas. A informação foi avançada hoje, em Maputo, pelo representante da Assembleia da República, Suleiman Fonseca, durante uma conferência de imprensa sobre a adopção, pelo Estado moçambicano, das recomendações do IV Ciclo da Revisão Periódica Universal (RPU) dos Direitos Humanos das Nações Unidas. “O compromisso é este: transformar estas recomendações em leis, integrá-las no orçamento e fazer com que a sua implementação tenha em consideração o contexto e a realidade actual do país”, afirmou Fonseca.",
+      "why": "«Em vista transformação das 284 recomendações de direitos humanos em acções concretas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Em vista transformação das 284 recomendações de direitos humanos em acções concretas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-16T16:11:36+00:00",
+      "age_hours": 2.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/16/em-vista-transformacao-das-284-recomendacoes-de-direitos-humanos-em-accoes-concretas/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 16 de Outubro (AIM) – O Governo moçambicano pretende reforçar os mecanismos de implementação das 284 recomendações sobre direitos humanos aceites pelo Estado, através da sua integração nos instrumentos de planificação e orçamentação e da criação de condições para a sua tradução em legislação e acções concretas. A informação foi avançada hoje, em Maputo, pelo representante da Assembleia da República, Suleiman Fonseca, durante uma conferência de imprensa sobre a adopção, pelo Estado moçambicano, das recomendações do IV Ciclo da Revisão Periódica Universal (RPU) dos Direitos Humanos das Nações Unidas. “O compromisso é este: transformar estas recomendações em leis, integrá-las no orçamento e fazer com que a sua implementação tenha em consideração o contexto e a realidade actual do país”, afirmou Fonseca. «Em vista transformação das 284 recomendações de direitos humanos em acções concretas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Em vista transformação das 284 recomendações de direitos humanos em acções concretas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.48,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Presidenciais Brasil. Sondagem põe Flávio Bolsonaro à frente de Lula",
+      "summary": "Flávio Bolsonaro lidera as intenções de voto na segunda volta das eleições presidenciais no Brasil, na disputa com o atual chefe de Estado, Lula da Silva. Os dados são da sondagem da CNT/MDA, divulgada esta sexta-feira",
+      "why": "«Presidenciais Brasil. Sondagem põe Flávio Bolsonaro à frente de Lula» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Presidenciais Brasil. Sondagem põe Flávio Bolsonaro à frente de Lula», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-16T17:02:35+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/presidenciais-brasil-sondagem-poe-flavio-bolsonaro-a-frente-de-lula_n1772142",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Flávio Bolsonaro lidera as intenções de voto na segunda volta das eleições presidenciais no Brasil, na disputa com o atual chefe de Estado, Lula da Silva. Os dados são da sondagem da CNT/MDA, divulgada esta sexta-feira. «Presidenciais Brasil. Sondagem põe Flávio Bolsonaro à frente de Lula» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Presidenciais Brasil. Sondagem põe Flávio Bolsonaro à frente de Lula», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.67,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções",
+      "summary": "Relatório afirma que tecnologia está sendo cada vez mais aplicada em contextos judiciais, ameaçando privacidade e liberdade de pensamento; grandes volumes de dados neurais estão sendo coletados por empresas e podem ser usados por governos",
+      "why": "«ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-16T12:00:00+00:00",
+      "age_hours": 6.7,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854658",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Relatório afirma que tecnologia está sendo cada vez mais aplicada em contextos judiciais, ameaçando privacidade e liberdade de pensamento; grandes volumes de dados neurais estão sendo coletados por empresas e podem ser usados por governos. «ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 10.6,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues",
+      "summary": "Estima-se que existiam entre 270 mil e 500 mil armas ilegais em circulação no país em 2025; para mirar os líderes das facções, é preciso enfrentar as redes que os sustentam, alerta Painel de Peritos Independentes",
+      "why": "«Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-16T12:00:00+00:00",
+      "age_hours": 6.7,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854652",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Estima-se que existiam entre 270 mil e 500 mil armas ilegais em circulação no país em 2025; para mirar os líderes das facções, é preciso enfrentar as redes que os sustentam, alerta Painel de Peritos Independentes. «Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.6,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -147,11 +250,11 @@
       "impact": "No caso de «Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-16T11:54:48+00:00",
-      "age_hours": 1.9,
+      "age_hours": 6.8,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/16/medio-oriente-estara-a-guerra-entre-os-eua-e-o-irao-prestes-a-agravar-se",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -161,7 +264,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Irão atacou pelo menos 24 navios comerciais perto do Estreito de Ormuz num período de duas semanas, afirmou na quinta-feira o Instituto para o Estudo da Guerra (ISW), enquanto dois porta-aviões norte-americanos operam no Mar Arábico e responsáveis de ambos os lados emitem avisos públicos sobre um possível regresso a hostilidades em grande escala.A Maritime Trade Operations (UKMTO) do Reino Unido, um órgão da Marinha Real que monitoriza a segurança da navegação mercante, registou pelo menos mais sete incidentes entre segunda-feira e quarta-feira.O grupo de reflexão sediado em Washington afirmou que os ataques demonstram que o Irão ainda mantém a capacidade de atacar a navegação mercante, apesar dos ataques norte-americanos à sua infraestrutura militar, e citou um oficial militar norte-americano que afirmou que as forças navais iranianas se adaptaram, utilizando pequenas embarcações e observadores para identificar navios, após danos significativos nos seus sistemas de radar.Em Teerão, altos responsáveis militares lançaram avisos nos últimos dias. «Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.6,
+      "editorial_score": 10.58,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -176,11 +279,11 @@
       "impact": "No caso de «Papa recupera da cirurgia e deixa mensagem para o Dia Mundial da Alimentação», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
       "published": "2026-10-16T11:36:01+00:00",
-      "age_hours": 2.2,
+      "age_hours": 7.1,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/papa-recupera-da-cirurgia-e-deixa-mensagem-para-o-dia-mundial-da-alimentacao_n1772064",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -190,36 +293,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A nota sobre a efeméride, que se assinala esta sexta-feira, foi escrita no início da semana, um dia antes de Leão XIV ter sido internado. Na carta dirigida ao diretor-geral da FAO, o Papa alerta para a persistência da fome e defende que os alimentos não podem ser usados como armas de guerra. «Papa recupera da cirurgia e deixa mensagem para o Dia Mundial da Alimentação» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Papa recupera da cirurgia e deixa mensagem para o Dia Mundial da Alimentação», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.54,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro",
-      "summary": "A taxa de inflação homóloga aumentou, em setembro, para 3,8% tanto na zona euro quanto na União Europeia (UE), continuando a ser impulsionada pelos preços da energia, divulgou hoje o Eurostat Segundo os dados do serviço estatístico europeu, na área do euro, o indicador aumentou tanto face aos 2,2% de setembro de 2025 , quanto aos 3,2% de agosto Na UE, a taxa de inflação homóloga também avançou para os 3,8%, que se comparam com 2,6% do mesmo mês de 2025 e 3,2% de agosto Os preços homólogos da energia, por outro lado, subiram 18,9% em setembro, depois de terem recuado 0,4% no mesmo mês de 2025 e subido 14,3% em agosto As taxas anuais mais baixas foram registadas na Suécia (1,0%), na Hungria e na Dinamarca (ambas com 2,1%) e na República Checa (2,4%) Já as taxas anuais mais elevadas, medidas pelo Índice Harmonizado dos Preços no Consumidor (IPHC), registaram-se na Roménia (6,5%), na Lituânia (6,1%) e na Bulgária (5,6%).",
-      "why": "«Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-16T11:00:22+00:00",
-      "age_hours": 2.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/taxa-de-inflacao-sobe-para-38-na-zona-euro-e-na-ue-em-setembro_n1772065",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A taxa de inflação homóloga aumentou, em setembro, para 3,8% tanto na zona euro quanto na União Europeia (UE), continuando a ser impulsionada pelos preços da energia, divulgou hoje o Eurostat Segundo os dados do serviço estatístico europeu, na área do euro, o indicador aumentou tanto face aos 2,2% de setembro de 2025 , quanto aos 3,2% de agosto Na UE, a taxa de inflação homóloga também avançou para os 3,8%, que se comparam com 2,6% do mesmo mês de 2025 e 3,2% de agosto Os preços homólogos da energia, por outro lado, subiram 18,9% em setembro, depois de terem recuado 0,4% no mesmo mês de 2025 e subido 14,3% em agosto As taxas anuais mais baixas foram registadas na Suécia (1,0%), na Hungria e na Dinamarca (ambas com 2,1%) e na República Checa (2,4%) Já as taxas anuais mais elevadas, medidas pelo Índice Harmonizado dos Preços no Consumidor (IPHC), registaram-se na Roménia (6,5%), na Lituânia (6,1%) e na Bulgária (5,6%). «Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Taxa de inflação sobe para 3,8% na zona euro e na UE em setembro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 11.42,
+      "editorial_score": 10.52,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -234,7 +308,7 @@
       "impact": "No caso de «Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-15T22:11:38+00:00",
-      "age_hours": 15.6,
+      "age_hours": 20.5,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/presidente-angolano-aponta-fatores-adversos-que-dificultaram-execucao-nos-seus-mandatos_n1771907",
       "original_source": true,
@@ -248,66 +322,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Presidente de Angola, João Lourenço, atribuiu hoje dificuldades na execução do seu Governo ao longo dos seus dois mandatos a \"fatores adversos\" e declarou-se consciente dos \"muitos desafios\" que o país ainda tem pela frente João Lourenço apresentou, durante quase quatro horas, na sua última mensagem sobre o Estado da Nação, na Assembleia Nacional, um balanço dos seus dois mandatos, a um ano de deixar a Presidência da República, apontando avanços e impactos que travaram as metas que definiu para a governação em Angola Empossado pela primeira vez a 26 de setembro de 2022, João Lourenço não pode concorrer às eleições de 2027 por ter atingido o limite de dois mandatos Referindo que o Plano Nacional de Desenvolvimento 2018-2022 e o Plano de Desenvolvimento Nacional 2023-2027 constituíram a \"bússola orientadora na condução da política geral de governação do país\", apontou \"fatores adversos\" que afetaram a sua execução Em particular, destacou \"os conflitos internacionais, as perturbações nas cadeias logísticas, o aumento dos preços internacionais dos alimentos, dos combustíveis e… «Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 9.75,
+      "editorial_score": 8.73,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo",
-      "summary": "Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo Foi com palavras simples e profundamente humanas que o Presidente da República, Daniel Chapo, explicou nesta sexta-feira(16.10.26), em Gorongosa, o que significa para uma família a chegada da água potável. Ao inaugurar o sistema de abastecimento de água, o Chefe de Estado […]",
-      "why": "«Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-10-16T10:07:51+00:00",
-      "age_hours": 3.7,
-      "within_24h": true,
-      "link": "https://opais.co.mz/chapo-inaugura-agua-em-gorongosa-e-diz-que-obra-devolve-dignidade-ao-povo/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo Foi com palavras simples e profundamente humanas que o Presidente da República, Daniel Chapo, explicou nesta sexta-feira(16.10.26), em Gorongosa, o que significa para uma família a chegada da água potável. Ao inaugurar o sistema de abastecimento de água, o Chefe de Estado […]. «Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo inaugura água em Gorongosa e diz que obra devolve dignidade ao povo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.23,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça",
-      "summary": "As famílias das crianças mortas no desabamento do telhado de uma escola no noroeste do Paquistão exigiram “justiça” esta sexta-feira, um dia depois de mais de 30 alunos e uma professora terem sido esmagados até à morte.Uma professora e 32 alunos, na maioria com menos de 14 anos, morreram no desabamento do edifício na cidade de Peshawar, na manhã de quinta-feira.“Os pais de todas estas crianças têm de obter justiça”, afirmou à agência AFP o alfaiate Muhammad Wahab, que perdeu o sobrinho Hammad, de 11 anos, no acidente, esta sexta-feira.“Apelo aos nossos governantes”, disse, acrescentando que Hammad ‘tinha bons resultados na escola’ antes da tragédia.Dezenas de pessoas juntaram-se junto à escola, na sexta-feira, para fazer luto pelas crianças mortas no desabamento, que as autoridades atribuíram a infraestruturas degradadas.Um pai em luto mostrou à AFP uma fotografia, no telemóvel, da filha pequena, vestida de vermelho e dourado, que perdeu a vida.Outro pai, Asadullah, disse ter perdido um filho, um sobrinho e três outros familiares próximos na tragédia.“As crianças eram boas alunas e…",
-      "why": "«Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-16T08:44:53+00:00",
-      "age_hours": 5.0,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/16/paquistao-familias-de-32-criancas-mortas-em-colapso-de-teto-de-escola-exigem-justica",
-      "original_source": true,
-      "event_id": "evt-mundo-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "As famílias das crianças mortas no desabamento do telhado de uma escola no noroeste do Paquistão exigiram “justiça” esta sexta-feira, um dia depois de mais de 30 alunos e uma professora terem sido esmagados até à morte.Uma professora e 32 alunos, na maioria com menos de 14 anos, morreram no desabamento do edifício na cidade de Peshawar, na manhã de quinta-feira.“Os pais de todas estas crianças têm de obter justiça”, afirmou à agência AFP o alfaiate Muhammad Wahab, que perdeu o sobrinho Hammad, de 11 anos, no acidente, esta sexta-feira.“Apelo aos nossos governantes”, disse, acrescentando que Hammad ‘tinha bons resultados na escola’ antes da tragédia.Dezenas de pessoas juntaram-se junto à escola, na sexta-feira, para fazer luto pelas crianças mortas no desabamento, que as autoridades atribuíram a infraestruturas degradadas.Um pai em luto mostrou à AFP uma fotografia, no telemóvel, da filha pequena, vestida de vermelho e dourado, que perdeu a vida.Outro pai, Asadullah, disse ter perdido um filho, um sobrinho e três outros familiares próximos na tragédia.“As crianças eram boas alunas e… «Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Paquistão: famílias de 32 crianças mortas em colapso de teto de escola exigem justiça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.96,
-      "source_tier": "C",
       "editorial_status": "HOJE"
     }
   ],
@@ -332,7 +348,7 @@
   "section_counts": {
     "Moçambique": 5,
     "África": 1,
-    "Mundo": 4
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
