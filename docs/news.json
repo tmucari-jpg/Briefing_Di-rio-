@@ -1,10 +1,47 @@
 {
-  "updated_at": "2026-10-16T21:57:26.281945+00:00",
+  "updated_at": "2026-10-17T07:35:25.310989+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão",
+      "summary": "Um total de 135 incidentes marítimos e 76 feridos ou mortos no mar foram registados desde início da guerra dos Estados Unidos e de Israel contra o Irão, em fevereiro, indicou hoje a organização britânica de segurança marítima UKMTO Dos 135 incidentes marítimos registados no período, 114 resultaram em danos em embarcações, adiantou a mesma fonte Na última semana, a UKMTO registou 12 ataques contra embarcações: 10 no Estreito de Ormuz, um no Golfo Pérsico e outro no Golfo de Omã Os incidentes incluem o afundamento de um navio porta-contentores, atingido por um projétil no dia 13 de outubro, sem registo de feridos entre a tripulação Um outro ataque, contra um navio-petroleiro no dia 11 de outubro, resultou no desaparecimento de dois tripulantes, segundo as autoridades indianas citadas no relatório A UKMTO não detalha a divisão das 76 vítimas entre feridos e mortos, e alerta que o número real de ataques pode ser superior ao registado, uma vez que muitas embarcações afetadas não comunicam os incidentes Por sua vez, a Organização Marítima Internacional (OMI), com sede em Londres…",
+      "why": "«135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-17T00:49:09+00:00",
+      "age_hours": 6.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/135-incidentes-maritimos-e-76-vitimas-desde-inicio-de-guerra-contra-irao_n1772239",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "RTP Notícias",
+        "Euronews Português"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Euronews Português",
+          "title": "Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?",
+          "link": "https://pt.euronews.com/2026/10/16/medio-oriente-estara-a-guerra-entre-os-eua-e-o-irao-prestes-a-agravar-se"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Um total de 135 incidentes marítimos e 76 feridos ou mortos no mar foram registados desde início da guerra dos Estados Unidos e de Israel contra o Irão, em fevereiro, indicou hoje a organização britânica de segurança marítima UKMTO Dos 135 incidentes marítimos registados no período, 114 resultaram em danos em embarcações, adiantou a mesma fonte Na última semana, a UKMTO registou 12 ataques contra embarcações: 10 no Estreito de Ormuz, um no Golfo Pérsico e outro no Golfo de Omã Os incidentes incluem o afundamento de um navio porta-contentores, atingido por um projétil no dia 13 de outubro, sem registo de feridos entre a tripulação Um outro ataque, contra um navio-petroleiro no dia 11 de outubro, resultou no desaparecimento de dois tripulantes, segundo as autoridades indianas citadas no relatório A UKMTO não detalha a divisão das 76 vítimas entre feridos e mortos, e alerta que o número real de ataques pode ser superior ao registado, uma vez que muitas embarcações afetadas não comunicam os incidentes Por sua vez, a Organização Marítima Internacional (OMI), com sede em Londres… «135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 13.08,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -17,7 +54,7 @@
       "impact": "No caso de «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-16T15:02:05+00:00",
-      "age_hours": 6.9,
+      "age_hours": 16.6,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/vala-defende-crescimento-inclusivo-para-combater-pobreza-em-cabo-delgado/",
       "original_source": true,
@@ -31,7 +68,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O ministro da Planificação e Desenvolvimento, Salim Valá, defende o crescimento económico inclusivo como uma das principais estratégias para combater a pobreza e acelerar a recuperação de Cabo Delgado, província afectada, desde 2017, por ataques terroristas que comprometem a segurança, os meios de subsistência das populações e o desenvolvimento local. A posição foi manifestada hoje no encontro com organizações da sociedade civil, destinado a avaliar projectos de promoção da coesão social e prevenção do extremismo violento, apoiados pela Agência de Desenvolvimento Integrado do Norte (ADIN). Na ocasião, Valá sublinhou que o crescimento económico deve ser acompanhado pela criação de emprego, expansão das infra-estruturas, melhoria dos serviços públicos e redução das desigualdades sociais e territoriais. “Se a economia não crescer, não ficar mais robusta, não ficar mais diversificada, é muito difícil acabar com a pobreza”, afirmou, destacando igualmente que a paz e a estabilidade são condições indispensáveis para o desenvolvimento sustentável. «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 14.56,
+      "editorial_score": 12.54,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -46,7 +83,7 @@
       "impact": "No caso de «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-16T16:41:35+00:00",
-      "age_hours": 5.3,
+      "age_hours": 14.9,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/16/autoridades-de-kanyaka-pretendem-reduzir-perdas-agricolas-atraves-da-transformacao-local/",
       "original_source": true,
@@ -60,7 +97,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 16 Out (AIM) – O Distrito Municipal de KaNyaka, na cidade de Maputo, pretende reforçar a transformação e conservação local de produtos agrícolas e pesqueiros para reduzir as perdas alimentares e aumentar os rendimentos das comunidades, no âmbito dos esforços para melhorar a segurança alimentar e nutricional. A iniciativa foi anunciada hoje pelo administrador municipal de KaNyaka, Izidro Mapanga, durante as celebrações do Dia Mundial da Alimentação, assinalado sob o lema “Inovar hoje para nutrir o amanhã”. “De nada vale produzir se perdermos 30 por cento no caminho entre o mar, a machamba e a mesa. O nosso desafio é a cadeia de valor. Por isso, estamos a incentivar a transformação local”, afirmou Mapanga. Segundo o dirigente, a estratégia passa por promover formas de processamento e conservação de produtos locais, incluindo o pescado, a mandioca e a batata-doce, de modo a reduzir as perdas e garantir que uma maior parte do valor gerado pela produção permaneça na comunidade. «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.9,
+      "editorial_score": 10.9,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -75,7 +112,7 @@
       "impact": "No caso de «Maputo defende cooperação que impulsiona desenvolvimento entre cidades», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Jornal Notícias",
       "published": "2026-10-16T15:00:25+00:00",
-      "age_hours": 6.9,
+      "age_hours": 16.6,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/maputo-defende-cooperacao-que-impulsiona-desenvolvimento-entre-cidades/",
       "original_source": true,
@@ -89,7 +126,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O município de Maputo defende uma cooperação estratégica entre cidades usada como instrumento para impulsionar o desenvolvimento económico e social, promoção da inovação e soluções conjuntas para os desafios enfrentados pelos centros urbanos. Esta posiçao foi defendida pelo presidente do município de Maputo, Rasaque Manhique, num discurso na cidade de Fuzhou, China, em representação de 20 cidades e três Associações Internacionais convidadas para um encontro com a liderança da província chinesa de Fujian, no âmbito do Diálogo sobre a Cooperação entre Governos Locais e Cidades de Amizade Internacionais da Rota Marítima da Seda do Século XXI, que decorre de hoje até segunda-feira (16 a 19 de Outubro), naquele país asiático. Defendeu ainda o fortalecimento das relações de amizade e cooperação entre governos locais, sublinhando que a partilha de experiências, transferência de conhecimentos e mobilização de investimentos constituem factores essenciais para a construção de cidades modernas, inclusivas, resilientes e sustentáveis. «Maputo defende cooperação que impulsiona desenvolvimento entre cidades» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Maputo defende cooperação que impulsiona desenvolvimento entre cidades», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.56,
+      "editorial_score": 10.54,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -104,7 +141,7 @@
       "impact": "No caso de «Moçambique considera urgente travar violação dos direitos humanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
       "published": "2026-10-16T18:03:06+00:00",
-      "age_hours": 3.9,
+      "age_hours": 13.5,
       "within_24h": true,
       "link": "https://opais.co.mz/mocambique-considera-urgente-travar-violacao-dos-direitos-humanos/",
       "original_source": true,
@@ -118,7 +155,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo acabar com os deslocamentos forçados que incluem menores naquela província do norte do país. Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo […]. «Moçambique considera urgente travar violação dos direitos humanos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique considera urgente travar violação dos direitos humanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.19,
+      "editorial_score": 10.19,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -133,7 +170,7 @@
       "impact": "No caso de «Em vista transformação das 284 recomendações de direitos humanos em acções concretas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-16T16:11:36+00:00",
-      "age_hours": 5.8,
+      "age_hours": 15.4,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/16/em-vista-transformacao-das-284-recomendacoes-de-direitos-humanos-em-accoes-concretas/",
       "original_source": true,
@@ -147,37 +184,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 16 de Outubro (AIM) – O Governo moçambicano pretende reforçar os mecanismos de implementação das 284 recomendações sobre direitos humanos aceites pelo Estado, através da sua integração nos instrumentos de planificação e orçamentação e da criação de condições para a sua tradução em legislação e acções concretas. A informação foi avançada hoje, em Maputo, pelo representante da Assembleia da República, Suleiman Fonseca, durante uma conferência de imprensa sobre a adopção, pelo Estado moçambicano, das recomendações do IV Ciclo da Revisão Periódica Universal (RPU) dos Direitos Humanos das Nações Unidas. “O compromisso é este: transformar estas recomendações em leis, integrá-las no orçamento e fazer com que a sua implementação tenha em consideração o contexto e a realidade actual do país”, afirmou Fonseca. «Em vista transformação das 284 recomendações de direitos humanos em acções concretas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Em vista transformação das 284 recomendações de direitos humanos em acções concretas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.79,
+      "editorial_score": 9.79,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Líderes mostraram \"apoio inequívoco e unânime\" a Zelensky diz Montenegro",
-      "summary": "O primeiro-ministro afirmou hoje que os líderes da União Europeia manifestaram \"apoio inequívoco e unânime\" ao Presidente da Ucrânia e concordaram em manter a ajuda \"política, militar e financeira\" a Kiev Houve um \"apoio inequívoco e unânime à Ucrânia e ao Presidente Zelensky, que tem revelado uma especial intervenção e empenho em obter uma solução de paz, que infelizmente não teve ainda eco por parte da outra parte envolvida, a Federação Russa\", afirmou Luís Montenegro numa conferência de imprensa no final da cimeira do Conselho Europeu, em Bruxelas O primeiro-ministro referiu que, na cimeira, que contou com a participação de Volodymyr Zelensky, houve \"entendimento unânime\" entre os líderes em \"continuar a dar apoio político, militar e financeiro à Ucrânia\" Da mesma maneira, Montenegro indicou que os chefes de Estado e de Governo da UE concordaram em \"manter o nível de pressão sobre a Rússia e as respetivas sanções\", ao mesmo tempo em que procuram \"manter todas as pontes de diálogo com aqueles que, na comunidade internacional, podem ser relevantes na procura de uma paz justa e…",
-      "why": "«Líderes mostraram \"apoio inequívoco e unânime\" a Zelensky diz Montenegro» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Líderes mostraram \"apoio inequívoco e unânime\" a Zelensky diz Montenegro», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-16T21:50:20+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/lideres-mostraram-apoio-inequivoco-e-unanime-a-zelensky-diz-montenegro_n1772188",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O primeiro-ministro afirmou hoje que os líderes da União Europeia manifestaram \"apoio inequívoco e unânime\" ao Presidente da Ucrânia e concordaram em manter a ajuda \"política, militar e financeira\" a Kiev Houve um \"apoio inequívoco e unânime à Ucrânia e ao Presidente Zelensky, que tem revelado uma especial intervenção e empenho em obter uma solução de paz, que infelizmente não teve ainda eco por parte da outra parte envolvida, a Federação Russa\", afirmou Luís Montenegro numa conferência de imprensa no final da cimeira do Conselho Europeu, em Bruxelas O primeiro-ministro referiu que, na cimeira, que contou com a participação de Volodymyr Zelensky, houve \"entendimento unânime\" entre os líderes em \"continuar a dar apoio político, militar e financeiro à Ucrânia\" Da mesma maneira, Montenegro indicou que os chefes de Estado e de Governo da UE concordaram em \"manter o nível de pressão sobre a Rússia e as respetivas sanções\", ao mesmo tempo em que procuram \"manter todas as pontes de diálogo com aqueles que, na comunidade internacional, podem ser relevantes na procura de uma paz justa e… «Líderes mostraram \"apoio inequívoco e unânime\" a Zelensky diz Montenegro» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Líderes mostraram \"apoio inequívoco e unânime\" a Zelensky diz Montenegro», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 10.98,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -185,17 +193,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Acampamento em Madrid resiste à terceira tentativa de despejo sem aval judicial",
-      "summary": "O governo regional de Madrid voltou a forçar o fim do acampamento dos manifestantes na Porta do Sol. O protesto dura já há três semanas e não há data prevista para o fim do diferendo entre ativistas e forças políticas",
-      "why": "«Acampamento em Madrid resiste à terceira tentativa de despejo sem aval judicial» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Acampamento em Madrid resiste à terceira tentativa de despejo sem aval judicial», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Jornalista agredida por colonos israelitas estava perfeitamente identificada",
+      "summary": "O diário norte-americano `Washington Post` repudiou as evasivas do Governo israelita perante a agressão sofrida hoje pela sua fotojornalista Heidi Levine às mãos de um grupo de colonos na Cisjordânia Depois de o primeiro-ministro israelita, Benjamin Netanyahu, ter lançado \"sérias dúvidas\" sobre o que descreveu como um \"enfrentamento\", o editor-chefe do diário, Matt Murray, respondeu nas redes sociais que não existe qualquer tipo de ambiguidade quanto ao que aconteceu a Levine enquanto fazia a cobertura da colheita de azeitonas na localidade cisjordana de Abú Falá \"Para ficar claro: alguns factos não estão em discussão nem são ambíguos. A nossa fotógrafa estava claramente identificada como imprensa\", afirmou Murray. \"Foi claramente agredida. Estas não são declarações partidárias nem ridículas, mas indiscutíveis. Exigimos uma investigação exaustiva e que se prestem contas\", concluiu editor-chefe do diário Num vídeo difundido a partir do hospital, a jornalista denunciou uma agressão \"brutal\" por \"pelo menos 50 homens mascarados\" \"Atacaram-me e atiraram-me ao chão.",
+      "why": "«Jornalista agredida por colonos israelitas estava perfeitamente identificada» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Jornalista agredida por colonos israelitas estava perfeitamente identificada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-16T19:03:25+00:00",
-      "age_hours": 2.9,
+      "published": "2026-10-17T00:27:36+00:00",
+      "age_hours": 7.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/acampamento-em-madrid-resiste-a-terceira-tentativa-de-despejo-sem-aval-judicial_n1772175",
+      "link": "https://www.rtp.pt/noticias/mundo/jornalista-agredida-por-colonos-israelitas-estava-perfeitamente-identificada_n1772238",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -203,9 +211,68 @@
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O diário norte-americano `Washington Post` repudiou as evasivas do Governo israelita perante a agressão sofrida hoje pela sua fotojornalista Heidi Levine às mãos de um grupo de colonos na Cisjordânia Depois de o primeiro-ministro israelita, Benjamin Netanyahu, ter lançado \"sérias dúvidas\" sobre o que descreveu como um \"enfrentamento\", o editor-chefe do diário, Matt Murray, respondeu nas redes sociais que não existe qualquer tipo de ambiguidade quanto ao que aconteceu a Levine enquanto fazia a cobertura da colheita de azeitonas na localidade cisjordana de Abú Falá \"Para ficar claro: alguns factos não estão em discussão nem são ambíguos. A nossa fotógrafa estava claramente identificada como imprensa\", afirmou Murray. \"Foi claramente agredida. Estas não são declarações partidárias nem ridículas, mas indiscutíveis. Exigimos uma investigação exaustiva e que se prestem contas\", concluiu editor-chefe do diário Num vídeo difundido a partir do hospital, a jornalista denunciou uma agressão \"brutal\" por \"pelo menos 50 homens mascarados\" \"Atacaram-me e atiraram-me ao chão. «Jornalista agredida por colonos israelitas estava perfeitamente identificada» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Jornalista agredida por colonos israelitas estava perfeitamente identificada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.52,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Rússia: Trump assina decreto que suspende novo pacote de sanções",
+      "summary": "O Presidente dos Estados Unidos, Donald Trump, assinou na sexta-feira uma ordem executiva para suspender um novo pacote de sanções e tarifas contra a Rússia, poucas horas antes de este entrar em vigor, alegando perante o Congresso que a decisão era do interesse nacional dos EUA.Trump tinha promulgado, em setembro, a lei “Lindsey O. Graham Sanctioning Russia e Iran Act of 2026”, destinada a aumentar a pressão sobre o Kremlin e a economia russa.A legislação, batizada em homenagem ao falecido senador norte-americano Lindsey Graham, que impulsionou as medidas, previa sanções contra responsáveis governamentais e militares russos, grandes bancos e navios da chamada frota “sombra” russa.",
+      "why": "«Rússia: Trump assina decreto que suspende novo pacote de sanções» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Rússia: Trump assina decreto que suspende novo pacote de sanções», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-17T07:14:55+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/17/russia-trump-assina-decreto-que-suspende-novo-pacote-de-sancoes",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O governo regional de Madrid voltou a forçar o fim do acampamento dos manifestantes na Porta do Sol. O protesto dura já há três semanas e não há data prevista para o fim do diferendo entre ativistas e forças políticas. «Acampamento em Madrid resiste à terceira tentativa de despejo sem aval judicial» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Acampamento em Madrid resiste à terceira tentativa de despejo sem aval judicial», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.4,
+      "detailed_summary": "O Presidente dos Estados Unidos, Donald Trump, assinou na sexta-feira uma ordem executiva para suspender um novo pacote de sanções e tarifas contra a Rússia, poucas horas antes de este entrar em vigor, alegando perante o Congresso que a decisão era do interesse nacional dos EUA.Trump tinha promulgado, em setembro, a lei “Lindsey O. Graham Sanctioning Russia e Iran Act of 2026”, destinada a aumentar a pressão sobre o Kremlin e a economia russa.A legislação, batizada em homenagem ao falecido senador norte-americano Lindsey Graham, que impulsionou as medidas, previa sanções contra responsáveis governamentais e militares russos, grandes bancos e navios da chamada frota “sombra” russa. «Rússia: Trump assina decreto que suspende novo pacote de sanções» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia: Trump assina decreto que suspende novo pacote de sanções», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.94,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde",
+      "summary": "Pelo menos 328 pessoas morreram 2,1 mil ficaram feridas em setembro; famílias ucranianas enfrentam piora de serviços essenciais, perda de rendimentos e destruição de moradias; ambos os lados atacam infraestruturas energéticas",
+      "why": "«Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-16T12:00:00+00:00",
+      "age_hours": 19.6,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854666",
+      "original_source": true,
+      "event_id": "evt-mundo-011",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Pelo menos 328 pessoas morreram 2,1 mil ficaram feridas em setembro; famílias ucranianas enfrentam piora de serviços essenciais, perda de rendimentos e destruição de moradias; ambos os lados atacam infraestruturas energéticas. «Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.92,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -220,11 +287,11 @@
       "impact": "No caso de «ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
       "source": "Notícias ONU",
       "published": "2026-10-16T12:00:00+00:00",
-      "age_hours": 10.0,
+      "age_hours": 19.6,
       "within_24h": true,
       "link": "https://news.un.org/feed/view/pt/story/2026/10/1854658",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-012",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -234,95 +301,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Relatório afirma que tecnologia está sendo cada vez mais aplicada em contextos judiciais, ameaçando privacidade e liberdade de pensamento; grandes volumes de dados neurais estão sendo coletados por empresas e podem ser usados por governos. «ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 9.92,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues",
-      "summary": "Estima-se que existiam entre 270 mil e 500 mil armas ilegais em circulação no país em 2025; para mirar os líderes das facções, é preciso enfrentar as redes que os sustentam, alerta Painel de Peritos Independentes",
-      "why": "«Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-16T12:00:00+00:00",
-      "age_hours": 10.0,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854652",
-      "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Estima-se que existiam entre 270 mil e 500 mil armas ilegais em circulação no país em 2025; para mirar os líderes das facções, é preciso enfrentar as redes que os sustentam, alerta Painel de Peritos Independentes. «Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Conselho de Segurança da ONU renova sanções ao Haiti para combater gangues», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 9.92,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?",
-      "summary": "O Irão atacou pelo menos 24 navios comerciais perto do Estreito de Ormuz num período de duas semanas, afirmou na quinta-feira o Instituto para o Estudo da Guerra (ISW), enquanto dois porta-aviões norte-americanos operam no Mar Arábico e responsáveis de ambos os lados emitem avisos públicos sobre um possível regresso a hostilidades em grande escala.A Maritime Trade Operations (UKMTO) do Reino Unido, um órgão da Marinha Real que monitoriza a segurança da navegação mercante, registou pelo menos mais sete incidentes entre segunda-feira e quarta-feira.O grupo de reflexão sediado em Washington afirmou que os ataques demonstram que o Irão ainda mantém a capacidade de atacar a navegação mercante, apesar dos ataques norte-americanos à sua infraestrutura militar, e citou um oficial militar norte-americano que afirmou que as forças navais iranianas se adaptaram, utilizando pequenas embarcações e observadores para identificar navios, após danos significativos nos seus sistemas de radar.Em Teerão, altos responsáveis militares lançaram avisos nos últimos dias.",
-      "why": "«Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-16T11:54:48+00:00",
-      "age_hours": 10.0,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/16/medio-oriente-estara-a-guerra-entre-os-eua-e-o-irao-prestes-a-agravar-se",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Irão atacou pelo menos 24 navios comerciais perto do Estreito de Ormuz num período de duas semanas, afirmou na quinta-feira o Instituto para o Estudo da Guerra (ISW), enquanto dois porta-aviões norte-americanos operam no Mar Arábico e responsáveis de ambos os lados emitem avisos públicos sobre um possível regresso a hostilidades em grande escala.A Maritime Trade Operations (UKMTO) do Reino Unido, um órgão da Marinha Real que monitoriza a segurança da navegação mercante, registou pelo menos mais sete incidentes entre segunda-feira e quarta-feira.O grupo de reflexão sediado em Washington afirmou que os ataques demonstram que o Irão ainda mantém a capacidade de atacar a navegação mercante, apesar dos ataques norte-americanos à sua infraestrutura militar, e citou um oficial militar norte-americano que afirmou que as forças navais iranianas se adaptaram, utilizando pequenas embarcações e observadores para identificar navios, após danos significativos nos seus sistemas de radar.Em Teerão, altos responsáveis militares lançaram avisos nos últimos dias. «Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 9.92,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos",
-      "summary": "O Presidente de Angola, João Lourenço, atribuiu hoje dificuldades na execução do seu Governo ao longo dos seus dois mandatos a \"fatores adversos\" e declarou-se consciente dos \"muitos desafios\" que o país ainda tem pela frente João Lourenço apresentou, durante quase quatro horas, na sua última mensagem sobre o Estado da Nação, na Assembleia Nacional, um balanço dos seus dois mandatos, a um ano de deixar a Presidência da República, apontando avanços e impactos que travaram as metas que definiu para a governação em Angola Empossado pela primeira vez a 26 de setembro de 2022, João Lourenço não pode concorrer às eleições de 2027 por ter atingido o limite de dois mandatos Referindo que o Plano Nacional de Desenvolvimento 2018-2022 e o Plano de Desenvolvimento Nacional 2023-2027 constituíram a \"bússola orientadora na condução da política geral de governação do país\", apontou \"fatores adversos\" que afetaram a sua execução Em particular, destacou \"os conflitos internacionais, as perturbações nas cadeias logísticas, o aumento dos preços internacionais dos alimentos, dos combustíveis e…",
-      "why": "«Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "RTP Notícias",
-      "published": "2026-10-15T22:11:38+00:00",
-      "age_hours": 23.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/presidente-angolano-aponta-fatores-adversos-que-dificultaram-execucao-nos-seus-mandatos_n1771907",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente de Angola, João Lourenço, atribuiu hoje dificuldades na execução do seu Governo ao longo dos seus dois mandatos a \"fatores adversos\" e declarou-se consciente dos \"muitos desafios\" que o país ainda tem pela frente João Lourenço apresentou, durante quase quatro horas, na sua última mensagem sobre o Estado da Nação, na Assembleia Nacional, um balanço dos seus dois mandatos, a um ano de deixar a Presidência da República, apontando avanços e impactos que travaram as metas que definiu para a governação em Angola Empossado pela primeira vez a 26 de setembro de 2022, João Lourenço não pode concorrer às eleições de 2027 por ter atingido o limite de dois mandatos Referindo que o Plano Nacional de Desenvolvimento 2018-2022 e o Plano de Desenvolvimento Nacional 2023-2027 constituíram a \"bússola orientadora na condução da política geral de governação do país\", apontou \"fatores adversos\" que afetaram a sua execução Em particular, destacou \"os conflitos internacionais, as perturbações nas cadeias logísticas, o aumento dos preços internacionais dos alimentos, dos combustíveis e… «Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Presidente angolano aponta \"fatores adversos\" que dificultaram execução nos seus mandatos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 8.04,
+      "editorial_score": 7.92,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -347,7 +326,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
+    "África": 0,
     "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
