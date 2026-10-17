@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T07:35:25.310989+00:00",
+  "updated_at": "2026-10-17T12:44:52.278856+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,20 +8,22 @@
     {
       "section": "Mundo",
       "tags": [
+        "Energia",
+        "Economia",
         "Segurança"
       ],
-      "title": "135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão",
-      "summary": "Um total de 135 incidentes marítimos e 76 feridos ou mortos no mar foram registados desde início da guerra dos Estados Unidos e de Israel contra o Irão, em fevereiro, indicou hoje a organização britânica de segurança marítima UKMTO Dos 135 incidentes marítimos registados no período, 114 resultaram em danos em embarcações, adiantou a mesma fonte Na última semana, a UKMTO registou 12 ataques contra embarcações: 10 no Estreito de Ormuz, um no Golfo Pérsico e outro no Golfo de Omã Os incidentes incluem o afundamento de um navio porta-contentores, atingido por um projétil no dia 13 de outubro, sem registo de feridos entre a tripulação Um outro ataque, contra um navio-petroleiro no dia 11 de outubro, resultou no desaparecimento de dois tripulantes, segundo as autoridades indianas citadas no relatório A UKMTO não detalha a divisão das 76 vítimas entre feridos e mortos, e alerta que o número real de ataques pode ser superior ao registado, uma vez que muitas embarcações afetadas não comunicam os incidentes Por sua vez, a Organização Marítima Internacional (OMI), com sede em Londres…",
-      "why": "«135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Rússia elogia decisão de Trump de suspender novo pacote de sanções",
+      "summary": "O Kremlin saudou hoje a suspensão de um novo pacote de sanções dos EUA destinado à economia russo, decretada pelo Presidente Donald Trump contra a vontade do Congresso norte-americano Para Kirill Dmitriev, conselheiro do Kremlin para a cooperação económica internacional, esta decisão do Presidente norte-americano constitui um \"momento histórico\" na relação entre os dois países \"A suspensão da lei Graham pela administração Trump é um momento importante e verdadeiramente histórico\", referiu, nas redes sociais, Kirill Dmitriev, algumas horas após a assinatura, por Trump, de um decreto que suspende as novas sanções contra Moscovo A legislação, promulgada no mês passado e batizada em homenagem ao falecido senador Lindsey Graham, visava restringir mais rapidamente o fluxo de recursos financeiros que alimentam a guerra contra a Ucrânia A medida surge uma semana depois de Trump afirmar, de forma surpreendente, que os Estados Unidos concordaram em comprar gasóleo à Rússia para tentar baixar os preços globais da energia, apesar de isso poder prejudicar a Ucrânia na guerra com Moscovo A…",
+      "why": "«Rússia elogia decisão de Trump de suspender novo pacote de sanções» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Rússia elogia decisão de Trump de suspender novo pacote de sanções», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-17T00:49:09+00:00",
-      "age_hours": 6.8,
+      "published": "2026-10-17T08:50:02+00:00",
+      "age_hours": 3.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/135-incidentes-maritimos-e-76-vitimas-desde-inicio-de-guerra-contra-irao_n1772239",
+      "link": "https://www.rtp.pt/noticias/mundo/russia-elogia-decisao-de-trump-de-suspender-novo-pacote-de-sancoes_n1772266",
       "original_source": true,
       "event_id": "evt-mundo-002",
-      "cluster_size": 2,
+      "cluster_size": 3,
       "source_count": 2,
       "sources": [
         "RTP Notícias",
@@ -31,14 +33,78 @@
       "status": "today",
       "confirmations": [
         {
+          "source": "RTP Notícias",
+          "title": "Trump adia novas sanções contra Rússia aprovadas pelo Congresso",
+          "link": "https://www.rtp.pt/noticias/mundo/trump-adia-novas-sancoes-contra-russia-aprovadas-pelo-congresso_n1772245"
+        },
+        {
           "source": "Euronews Português",
-          "title": "Médio Oriente: estará a guerra entre os EUA e o Irão prestes a agravar-se?",
-          "link": "https://pt.euronews.com/2026/10/16/medio-oriente-estara-a-guerra-entre-os-eua-e-o-irao-prestes-a-agravar-se"
+          "title": "Rússia: Trump assina decreto que suspende novo pacote de sanções",
+          "link": "https://pt.euronews.com/2026/10/17/russia-trump-assina-decreto-que-suspende-novo-pacote-de-sancoes"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Um total de 135 incidentes marítimos e 76 feridos ou mortos no mar foram registados desde início da guerra dos Estados Unidos e de Israel contra o Irão, em fevereiro, indicou hoje a organização britânica de segurança marítima UKMTO Dos 135 incidentes marítimos registados no período, 114 resultaram em danos em embarcações, adiantou a mesma fonte Na última semana, a UKMTO registou 12 ataques contra embarcações: 10 no Estreito de Ormuz, um no Golfo Pérsico e outro no Golfo de Omã Os incidentes incluem o afundamento de um navio porta-contentores, atingido por um projétil no dia 13 de outubro, sem registo de feridos entre a tripulação Um outro ataque, contra um navio-petroleiro no dia 11 de outubro, resultou no desaparecimento de dois tripulantes, segundo as autoridades indianas citadas no relatório A UKMTO não detalha a divisão das 76 vítimas entre feridos e mortos, e alerta que o número real de ataques pode ser superior ao registado, uma vez que muitas embarcações afetadas não comunicam os incidentes Por sua vez, a Organização Marítima Internacional (OMI), com sede em Londres… «135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «135 incidentes marítimos e 76 vítimas desde início de guerra contra Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 13.08,
+      "detailed_summary": "O Kremlin saudou hoje a suspensão de um novo pacote de sanções dos EUA destinado à economia russo, decretada pelo Presidente Donald Trump contra a vontade do Congresso norte-americano Para Kirill Dmitriev, conselheiro do Kremlin para a cooperação económica internacional, esta decisão do Presidente norte-americano constitui um \"momento histórico\" na relação entre os dois países \"A suspensão da lei Graham pela administração Trump é um momento importante e verdadeiramente histórico\", referiu, nas redes sociais, Kirill Dmitriev, algumas horas após a assinatura, por Trump, de um decreto que suspende as novas sanções contra Moscovo A legislação, promulgada no mês passado e batizada em homenagem ao falecido senador Lindsey Graham, visava restringir mais rapidamente o fluxo de recursos financeiros que alimentam a guerra contra a Ucrânia A medida surge uma semana depois de Trump afirmar, de forma surpreendente, que os Estados Unidos concordaram em comprar gasóleo à Rússia para tentar baixar os preços globais da energia, apesar de isso poder prejudicar a Ucrânia na guerra com Moscovo A… «Rússia elogia decisão de Trump de suspender novo pacote de sanções» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Rússia elogia decisão de Trump de suspender novo pacote de sanções», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 15.69,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água",
+      "summary": "A vila de Gorongosa, na província de Sofala, centro de Moçambique, passou a contar com um sistema de abastecimento de água potável ampliado, resultado de um investimento de aproximadamente 1,5 […]",
+      "why": "«Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-10-17T09:00:00+00:00",
+      "age_hours": 3.7,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/17/negocios/infra-estruturas/sofala-gorongosa-beneficia-de-investimento-de-15-milhao-de-euros-no-abastecimento-de-agua/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A vila de Gorongosa, na província de Sofala, centro de Moçambique, passou a contar com um sistema de abastecimento de água potável ampliado, resultado de um investimento de aproximadamente 1,5 […]. «Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.23,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta",
+      "summary": "O Kremlin saúda a travagem a fundo, pela mão do presidente norte-americano, na aplicação de um novo pacote de sanções com a economia russa por alvo. Medida da Casa Branca que atropelou uma anterior decisão do Capitólio As forças da Rússia e da Ucrânia desencadearam, às primeiras horas deste sábado, múltiplos ataques com recurso a drones na Península da Crimeia e outros territórios russos e ucranianos. Ações que se sucedem à decisão, por parte de Donald Trump, de suspender um novo conjunto de sanções contra a Rússia - pacote que fora adotado pelo Congresso norte-americano. De acordo com as autoridades ucranianas, pelo menos uma pessoa morreu em Sloviansk, na região oriental de Donetsk, durante um bombardeamento russo contra uma zona residencial . Em Vinnitsa, no centro-oeste do país, ocorreu um dos ataques mais pesados desde o início da invasão russa , na descrição da responsável pela Administração Militar Regional, Natalia Zabolotna. Foram abatidos 24 drones e registados danos em infraestruturas civis e críticas, com notícia de seis feridos .",
+      "why": "«Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-17T10:30:45+00:00",
+      "age_hours": 2.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/moscovo-e-kiev-multiplicam-ataques-enquanto-putin-agradece-a-trump-e-zelensky-lamenta_n1772272",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Kremlin saúda a travagem a fundo, pela mão do presidente norte-americano, na aplicação de um novo pacote de sanções com a economia russa por alvo. Medida da Casa Branca que atropelou uma anterior decisão do Capitólio As forças da Rússia e da Ucrânia desencadearam, às primeiras horas deste sábado, múltiplos ataques com recurso a drones na Península da Crimeia e outros territórios russos e ucranianos. Ações que se sucedem à decisão, por parte de Donald Trump, de suspender um novo conjunto de sanções contra a Rússia - pacote que fora adotado pelo Congresso norte-americano. De acordo com as autoridades ucranianas, pelo menos uma pessoa morreu em Sloviansk, na região oriental de Donetsk, durante um bombardeamento russo contra uma zona residencial . Em Vinnitsa, no centro-oeste do país, ocorreu um dos ataques mais pesados desde o início da invasão russa , na descrição da responsável pela Administração Militar Regional, Natalia Zabolotna. Foram abatidos 24 drones e registados danos em infraestruturas civis e críticas, com notícia de seis feridos . «Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.54,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -54,11 +120,11 @@
       "impact": "No caso de «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-16T15:02:05+00:00",
-      "age_hours": 16.6,
+      "age_hours": 21.7,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/vala-defende-crescimento-inclusivo-para-combater-pobreza-em-cabo-delgado/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -68,7 +134,36 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O ministro da Planificação e Desenvolvimento, Salim Valá, defende o crescimento económico inclusivo como uma das principais estratégias para combater a pobreza e acelerar a recuperação de Cabo Delgado, província afectada, desde 2017, por ataques terroristas que comprometem a segurança, os meios de subsistência das populações e o desenvolvimento local. A posição foi manifestada hoje no encontro com organizações da sociedade civil, destinado a avaliar projectos de promoção da coesão social e prevenção do extremismo violento, apoiados pela Agência de Desenvolvimento Integrado do Norte (ADIN). Na ocasião, Valá sublinhou que o crescimento económico deve ser acompanhado pela criação de emprego, expansão das infra-estruturas, melhoria dos serviços públicos e redução das desigualdades sociais e territoriais. “Se a economia não crescer, não ficar mais robusta, não ficar mais diversificada, é muito difícil acabar com a pobreza”, afirmou, destacando igualmente que a paz e a estabilidade são condições indispensáveis para o desenvolvimento sustentável. «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.54,
+      "editorial_score": 11.48,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "RDC proíbe actividades de 13 partidos políticos ligados a kabila",
+      "summary": "O Governo da República Democrática do Congo invoca razões de segurança nacional, enquanto a oposição denuncia uma tentativa de restringir as liberdades políticas. A decisão abrange o Partido Popular para a Reconstrução e a Democracia, fundado pelo antigo Presidente Joseph Kabila. O Governo da República Democrática do Congo (RDC) proibiu as actividades de 13 partidos […]",
+      "why": "«RDC proíbe actividades de 13 partidos políticos ligados a kabila» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «RDC proíbe actividades de 13 partidos políticos ligados a kabila», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "O País",
+      "published": "2026-10-17T09:40:09+00:00",
+      "age_hours": 3.1,
+      "within_24h": true,
+      "link": "https://opais.co.mz/rdc-proibe-actividades-de-13-partidos-politicos-ligados-a-kabila/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo da República Democrática do Congo invoca razões de segurança nacional, enquanto a oposição denuncia uma tentativa de restringir as liberdades políticas. A decisão abrange o Partido Popular para a Reconstrução e a Democracia, fundado pelo antigo Presidente Joseph Kabila. O Governo da República Democrática do Congo (RDC) proibiu as actividades de 13 partidos […]. «RDC proíbe actividades de 13 partidos políticos ligados a kabila» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «RDC proíbe actividades de 13 partidos políticos ligados a kabila», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 10.35,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -83,11 +178,11 @@
       "impact": "No caso de «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-16T16:41:35+00:00",
-      "age_hours": 14.9,
+      "age_hours": 20.0,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/16/autoridades-de-kanyaka-pretendem-reduzir-perdas-agricolas-atraves-da-transformacao-local/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -97,36 +192,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 16 Out (AIM) – O Distrito Municipal de KaNyaka, na cidade de Maputo, pretende reforçar a transformação e conservação local de produtos agrícolas e pesqueiros para reduzir as perdas alimentares e aumentar os rendimentos das comunidades, no âmbito dos esforços para melhorar a segurança alimentar e nutricional. A iniciativa foi anunciada hoje pelo administrador municipal de KaNyaka, Izidro Mapanga, durante as celebrações do Dia Mundial da Alimentação, assinalado sob o lema “Inovar hoje para nutrir o amanhã”. “De nada vale produzir se perdermos 30 por cento no caminho entre o mar, a machamba e a mesa. O nosso desafio é a cadeia de valor. Por isso, estamos a incentivar a transformação local”, afirmou Mapanga. Segundo o dirigente, a estratégia passa por promover formas de processamento e conservação de produtos locais, incluindo o pescado, a mandioca e a batata-doce, de modo a reduzir as perdas e garantir que uma maior parte do valor gerado pela produção permaneça na comunidade. «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 10.9,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Maputo defende cooperação que impulsiona desenvolvimento entre cidades",
-      "summary": "O município de Maputo defende uma cooperação estratégica entre cidades usada como instrumento para impulsionar o desenvolvimento económico e social, promoção da inovação e soluções conjuntas para os desafios enfrentados pelos centros urbanos. Esta posiçao foi defendida pelo presidente do município de Maputo, Rasaque Manhique, num discurso na cidade de Fuzhou, China, em representação de 20 cidades e três Associações Internacionais convidadas para um encontro com a liderança da província chinesa de Fujian, no âmbito do Diálogo sobre a Cooperação entre Governos Locais e Cidades de Amizade Internacionais da Rota Marítima da Seda do Século XXI, que decorre de hoje até segunda-feira (16 a 19 de Outubro), naquele país asiático. Defendeu ainda o fortalecimento das relações de amizade e cooperação entre governos locais, sublinhando que a partilha de experiências, transferência de conhecimentos e mobilização de investimentos constituem factores essenciais para a construção de cidades modernas, inclusivas, resilientes e sustentáveis.",
-      "why": "«Maputo defende cooperação que impulsiona desenvolvimento entre cidades» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Maputo defende cooperação que impulsiona desenvolvimento entre cidades», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-16T15:00:25+00:00",
-      "age_hours": 16.6,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/maputo-defende-cooperacao-que-impulsiona-desenvolvimento-entre-cidades/",
-      "original_source": true,
-      "event_id": "evt-mocambique-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O município de Maputo defende uma cooperação estratégica entre cidades usada como instrumento para impulsionar o desenvolvimento económico e social, promoção da inovação e soluções conjuntas para os desafios enfrentados pelos centros urbanos. Esta posiçao foi defendida pelo presidente do município de Maputo, Rasaque Manhique, num discurso na cidade de Fuzhou, China, em representação de 20 cidades e três Associações Internacionais convidadas para um encontro com a liderança da província chinesa de Fujian, no âmbito do Diálogo sobre a Cooperação entre Governos Locais e Cidades de Amizade Internacionais da Rota Marítima da Seda do Século XXI, que decorre de hoje até segunda-feira (16 a 19 de Outubro), naquele país asiático. Defendeu ainda o fortalecimento das relações de amizade e cooperação entre governos locais, sublinhando que a partilha de experiências, transferência de conhecimentos e mobilização de investimentos constituem factores essenciais para a construção de cidades modernas, inclusivas, resilientes e sustentáveis. «Maputo defende cooperação que impulsiona desenvolvimento entre cidades» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Maputo defende cooperação que impulsiona desenvolvimento entre cidades», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.54,
+      "editorial_score": 9.83,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -141,11 +207,11 @@
       "impact": "No caso de «Moçambique considera urgente travar violação dos direitos humanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
       "published": "2026-10-16T18:03:06+00:00",
-      "age_hours": 13.5,
+      "age_hours": 18.7,
       "within_24h": true,
       "link": "https://opais.co.mz/mocambique-considera-urgente-travar-violacao-dos-direitos-humanos/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -155,7 +221,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo acabar com os deslocamentos forçados que incluem menores naquela província do norte do país. Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo […]. «Moçambique considera urgente travar violação dos direitos humanos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique considera urgente travar violação dos direitos humanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.19,
+      "editorial_score": 9.1,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -170,11 +236,11 @@
       "impact": "No caso de «Em vista transformação das 284 recomendações de direitos humanos em acções concretas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-16T16:11:36+00:00",
-      "age_hours": 15.4,
+      "age_hours": 20.5,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/16/em-vista-transformacao-das-284-recomendacoes-de-direitos-humanos-em-accoes-concretas/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -184,56 +250,26 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 16 de Outubro (AIM) – O Governo moçambicano pretende reforçar os mecanismos de implementação das 284 recomendações sobre direitos humanos aceites pelo Estado, através da sua integração nos instrumentos de planificação e orçamentação e da criação de condições para a sua tradução em legislação e acções concretas. A informação foi avançada hoje, em Maputo, pelo representante da Assembleia da República, Suleiman Fonseca, durante uma conferência de imprensa sobre a adopção, pelo Estado moçambicano, das recomendações do IV Ciclo da Revisão Periódica Universal (RPU) dos Direitos Humanos das Nações Unidas. “O compromisso é este: transformar estas recomendações em leis, integrá-las no orçamento e fazer com que a sua implementação tenha em consideração o contexto e a realidade actual do país”, afirmou Fonseca. «Em vista transformação das 284 recomendações de direitos humanos em acções concretas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Em vista transformação das 284 recomendações de direitos humanos em acções concretas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.79,
+      "editorial_score": 8.73,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "IA"
       ],
-      "title": "Jornalista agredida por colonos israelitas estava perfeitamente identificada",
-      "summary": "O diário norte-americano `Washington Post` repudiou as evasivas do Governo israelita perante a agressão sofrida hoje pela sua fotojornalista Heidi Levine às mãos de um grupo de colonos na Cisjordânia Depois de o primeiro-ministro israelita, Benjamin Netanyahu, ter lançado \"sérias dúvidas\" sobre o que descreveu como um \"enfrentamento\", o editor-chefe do diário, Matt Murray, respondeu nas redes sociais que não existe qualquer tipo de ambiguidade quanto ao que aconteceu a Levine enquanto fazia a cobertura da colheita de azeitonas na localidade cisjordana de Abú Falá \"Para ficar claro: alguns factos não estão em discussão nem são ambíguos. A nossa fotógrafa estava claramente identificada como imprensa\", afirmou Murray. \"Foi claramente agredida. Estas não são declarações partidárias nem ridículas, mas indiscutíveis. Exigimos uma investigação exaustiva e que se prestem contas\", concluiu editor-chefe do diário Num vídeo difundido a partir do hospital, a jornalista denunciou uma agressão \"brutal\" por \"pelo menos 50 homens mascarados\" \"Atacaram-me e atiraram-me ao chão.",
-      "why": "«Jornalista agredida por colonos israelitas estava perfeitamente identificada» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Jornalista agredida por colonos israelitas estava perfeitamente identificada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-17T00:27:36+00:00",
-      "age_hours": 7.1,
+      "title": "Coreia do Norte testa novo sistema de torpedos com IA",
+      "summary": "A Coreia do Norte anunciou este sábado que testou um novo sistema de torpedos com inteligência artificial, dando seguimento a uma série recente de demonstrações de armamento.A agência noticiosa estatal KCNA informou que o ensaio envolveu o sistema de torpedos Zam-2.0, descrito como “super-rápido e de guiamento preciso”, que utiliza inteligência artificial para ajudar na deteção de alvos e na orientação.Segundo a mesma fonte, o teste permitiu confirmar os sistemas de propulsão da arma.O anúncio surge depois de Pyongyang ter testado, na quarta-feira, dois tipos de mísseis de cruzeiro estratégicos lançados debaixo de água, num movimento visto como uma tentativa de reforçar as suas capacidades navais.",
+      "why": "«Coreia do Norte testa novo sistema de torpedos com IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Coreia do Norte testa novo sistema de torpedos com IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-17T08:26:43+00:00",
+      "age_hours": 4.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/jornalista-agredida-por-colonos-israelitas-estava-perfeitamente-identificada_n1772238",
+      "link": "https://pt.euronews.com/2026/10/17/coreia-do-norte-testa-novo-sistema-de-torpedos-com-ia",
       "original_source": true,
       "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O diário norte-americano `Washington Post` repudiou as evasivas do Governo israelita perante a agressão sofrida hoje pela sua fotojornalista Heidi Levine às mãos de um grupo de colonos na Cisjordânia Depois de o primeiro-ministro israelita, Benjamin Netanyahu, ter lançado \"sérias dúvidas\" sobre o que descreveu como um \"enfrentamento\", o editor-chefe do diário, Matt Murray, respondeu nas redes sociais que não existe qualquer tipo de ambiguidade quanto ao que aconteceu a Levine enquanto fazia a cobertura da colheita de azeitonas na localidade cisjordana de Abú Falá \"Para ficar claro: alguns factos não estão em discussão nem são ambíguos. A nossa fotógrafa estava claramente identificada como imprensa\", afirmou Murray. \"Foi claramente agredida. Estas não são declarações partidárias nem ridículas, mas indiscutíveis. Exigimos uma investigação exaustiva e que se prestem contas\", concluiu editor-chefe do diário Num vídeo difundido a partir do hospital, a jornalista denunciou uma agressão \"brutal\" por \"pelo menos 50 homens mascarados\" \"Atacaram-me e atiraram-me ao chão. «Jornalista agredida por colonos israelitas estava perfeitamente identificada» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Jornalista agredida por colonos israelitas estava perfeitamente identificada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 9.52,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Rússia: Trump assina decreto que suspende novo pacote de sanções",
-      "summary": "O Presidente dos Estados Unidos, Donald Trump, assinou na sexta-feira uma ordem executiva para suspender um novo pacote de sanções e tarifas contra a Rússia, poucas horas antes de este entrar em vigor, alegando perante o Congresso que a decisão era do interesse nacional dos EUA.Trump tinha promulgado, em setembro, a lei “Lindsey O. Graham Sanctioning Russia e Iran Act of 2026”, destinada a aumentar a pressão sobre o Kremlin e a economia russa.A legislação, batizada em homenagem ao falecido senador norte-americano Lindsey Graham, que impulsionou as medidas, previa sanções contra responsáveis governamentais e militares russos, grandes bancos e navios da chamada frota “sombra” russa.",
-      "why": "«Rússia: Trump assina decreto que suspende novo pacote de sanções» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Rússia: Trump assina decreto que suspende novo pacote de sanções», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-17T07:14:55+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/17/russia-trump-assina-decreto-que-suspende-novo-pacote-de-sancoes",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -242,67 +278,9 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Presidente dos Estados Unidos, Donald Trump, assinou na sexta-feira uma ordem executiva para suspender um novo pacote de sanções e tarifas contra a Rússia, poucas horas antes de este entrar em vigor, alegando perante o Congresso que a decisão era do interesse nacional dos EUA.Trump tinha promulgado, em setembro, a lei “Lindsey O. Graham Sanctioning Russia e Iran Act of 2026”, destinada a aumentar a pressão sobre o Kremlin e a economia russa.A legislação, batizada em homenagem ao falecido senador norte-americano Lindsey Graham, que impulsionou as medidas, previa sanções contra responsáveis governamentais e militares russos, grandes bancos e navios da chamada frota “sombra” russa. «Rússia: Trump assina decreto que suspende novo pacote de sanções» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia: Trump assina decreto que suspende novo pacote de sanções», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.94,
+      "detailed_summary": "A Coreia do Norte anunciou este sábado que testou um novo sistema de torpedos com inteligência artificial, dando seguimento a uma série recente de demonstrações de armamento.A agência noticiosa estatal KCNA informou que o ensaio envolveu o sistema de torpedos Zam-2.0, descrito como “super-rápido e de guiamento preciso”, que utiliza inteligência artificial para ajudar na deteção de alvos e na orientação.Segundo a mesma fonte, o teste permitiu confirmar os sistemas de propulsão da arma.O anúncio surge depois de Pyongyang ter testado, na quarta-feira, dois tipos de mísseis de cruzeiro estratégicos lançados debaixo de água, num movimento visto como uma tentativa de reforçar as suas capacidades navais. «Coreia do Norte testa novo sistema de torpedos com IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Coreia do Norte testa novo sistema de torpedos com IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 7.1,
       "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde",
-      "summary": "Pelo menos 328 pessoas morreram 2,1 mil ficaram feridas em setembro; famílias ucranianas enfrentam piora de serviços essenciais, perda de rendimentos e destruição de moradias; ambos os lados atacam infraestruturas energéticas",
-      "why": "«Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-16T12:00:00+00:00",
-      "age_hours": 19.6,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854666",
-      "original_source": true,
-      "event_id": "evt-mundo-011",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Pelo menos 328 pessoas morreram 2,1 mil ficaram feridas em setembro; famílias ucranianas enfrentam piora de serviços essenciais, perda de rendimentos e destruição de moradias; ambos os lados atacam infraestruturas energéticas. «Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Missão sobre Ucrânia diz que mortes de civis chegam a nível recorde», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.92,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções",
-      "summary": "Relatório afirma que tecnologia está sendo cada vez mais aplicada em contextos judiciais, ameaçando privacidade e liberdade de pensamento; grandes volumes de dados neurais estão sendo coletados por empresas e podem ser usados por governos",
-      "why": "«ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-16T12:00:00+00:00",
-      "age_hours": 19.6,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854658",
-      "original_source": true,
-      "event_id": "evt-mundo-012",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Relatório afirma que tecnologia está sendo cada vez mais aplicada em contextos judiciais, ameaçando privacidade e liberdade de pensamento; grandes volumes de dados neurais estão sendo coletados por empresas e podem ser usados por governos. «ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «ONU pede limites ao uso da neurotecnologia para ler pensamentos e intenções», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 7.92,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     }
   ],
@@ -326,8 +304,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 0,
-    "Mundo": 5
+    "África": 1,
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
