@@ -1,52 +1,75 @@
 {
-  "updated_at": "2026-10-17T12:44:52.278856+00:00",
+  "updated_at": "2026-10-17T16:10:28.377040+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
-        "Energia",
-        "Economia",
-        "Segurança"
+        "Energia"
       ],
-      "title": "Rússia elogia decisão de Trump de suspender novo pacote de sanções",
-      "summary": "O Kremlin saudou hoje a suspensão de um novo pacote de sanções dos EUA destinado à economia russo, decretada pelo Presidente Donald Trump contra a vontade do Congresso norte-americano Para Kirill Dmitriev, conselheiro do Kremlin para a cooperação económica internacional, esta decisão do Presidente norte-americano constitui um \"momento histórico\" na relação entre os dois países \"A suspensão da lei Graham pela administração Trump é um momento importante e verdadeiramente histórico\", referiu, nas redes sociais, Kirill Dmitriev, algumas horas após a assinatura, por Trump, de um decreto que suspende as novas sanções contra Moscovo A legislação, promulgada no mês passado e batizada em homenagem ao falecido senador Lindsey Graham, visava restringir mais rapidamente o fluxo de recursos financeiros que alimentam a guerra contra a Ucrânia A medida surge uma semana depois de Trump afirmar, de forma surpreendente, que os Estados Unidos concordaram em comprar gasóleo à Rússia para tentar baixar os preços globais da energia, apesar de isso poder prejudicar a Ucrânia na guerra com Moscovo A…",
-      "why": "«Rússia elogia decisão de Trump de suspender novo pacote de sanções» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Rússia elogia decisão de Trump de suspender novo pacote de sanções», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-17T08:50:02+00:00",
-      "age_hours": 3.9,
+      "title": "Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado",
+      "summary": "O Programa BRILHO, desenvolvido em Moçambique desde 2019 para promover o acesso à energia limpa fora da rede eléctrica nacional, mobilizou mais de 78 milhões de dólares em financiamento privado […]",
+      "why": "«Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-17T16:00:00+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/russia-elogia-decisao-de-trump-de-suspender-novo-pacote-de-sancoes_n1772266",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/17/energia-3/energia-limpa-brilho-atrai-mais-de-78-milhoes-de-dolares-de-capital-privado/",
       "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 3,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 2,
       "source_count": 2,
       "sources": [
-        "RTP Notícias",
-        "Euronews Português"
+        "Diário Económico",
+        "Jornal Notícias"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Diário Económico",
       "status": "today",
       "confirmations": [
         {
-          "source": "RTP Notícias",
-          "title": "Trump adia novas sanções contra Rússia aprovadas pelo Congresso",
-          "link": "https://www.rtp.pt/noticias/mundo/trump-adia-novas-sancoes-contra-russia-aprovadas-pelo-congresso_n1772245"
-        },
-        {
-          "source": "Euronews Português",
-          "title": "Rússia: Trump assina decreto que suspende novo pacote de sanções",
-          "link": "https://pt.euronews.com/2026/10/17/russia-trump-assina-decreto-que-suspende-novo-pacote-de-sancoes"
+          "source": "Jornal Notícias",
+          "title": "BADEA financia construção do Porto de Angoche em 20 milhões de dólares",
+          "link": "https://www.jornalnoticias.co.mz/destaque/badea-financia-construcao-do-porto-de-angoche-em-20-milhoes-de-dolares/"
         }
       ],
-      "opportunity_flag": false,
-      "detailed_summary": "O Kremlin saudou hoje a suspensão de um novo pacote de sanções dos EUA destinado à economia russo, decretada pelo Presidente Donald Trump contra a vontade do Congresso norte-americano Para Kirill Dmitriev, conselheiro do Kremlin para a cooperação económica internacional, esta decisão do Presidente norte-americano constitui um \"momento histórico\" na relação entre os dois países \"A suspensão da lei Graham pela administração Trump é um momento importante e verdadeiramente histórico\", referiu, nas redes sociais, Kirill Dmitriev, algumas horas após a assinatura, por Trump, de um decreto que suspende as novas sanções contra Moscovo A legislação, promulgada no mês passado e batizada em homenagem ao falecido senador Lindsey Graham, visava restringir mais rapidamente o fluxo de recursos financeiros que alimentam a guerra contra a Ucrânia A medida surge uma semana depois de Trump afirmar, de forma surpreendente, que os Estados Unidos concordaram em comprar gasóleo à Rússia para tentar baixar os preços globais da energia, apesar de isso poder prejudicar a Ucrânia na guerra com Moscovo A… «Rússia elogia decisão de Trump de suspender novo pacote de sanções» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Rússia elogia decisão de Trump de suspender novo pacote de sanções», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 15.69,
-      "source_tier": "A",
+      "opportunity_flag": true,
+      "detailed_summary": "O Programa BRILHO, desenvolvido em Moçambique desde 2019 para promover o acesso à energia limpa fora da rede eléctrica nacional, mobilizou mais de 78 milhões de dólares em financiamento privado […]. «Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 15.46,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Fábrica de cimento de Dondo aumenta capacidade de produção",
+      "summary": "A fábrica de cimento do Dondo, em Sofala, acaba de reforçar a sua capacidade de produção com a entrada em funcionamento de uma nova linha de produção de clínquer, com capacidade para três mil toneladas por dia, reduzindo a dependência de importações desta matéria-prima. A infra-estrutura entrou em operação este Outubro, na sequência de um projecto de ampliação e modernização iniciado em Maio de 2025, cujas obras foram executadas pela China Railway No.20 Bureau (Moçambique), Lda. Com o investimento, a capacidade anual de moagem de cimento deverá aumentar de 750 mil para 1,3 milhão de toneladas, reforçando o abastecimento do mercado da região Centro do país. O projecto inclui um sistema de geração de energia eléctrica a partir do calor residual, com capacidade de cinco megawatts, destinado a melhorar a eficiência energética da unidade industrial. A fábrica pertence à Huaxin Cement e foi fundada em 1949. O conteúdo Fábrica de cimento de Dondo aumenta capacidade de produção aparece primeiro em Jornal Notícias",
+      "why": "«Fábrica de cimento de Dondo aumenta capacidade de produção» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Fábrica de cimento de Dondo aumenta capacidade de produção», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-17T14:01:22+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/fabrica-de-cimento-de-dondo-aumenta-capacidade-de-producao/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A fábrica de cimento do Dondo, em Sofala, acaba de reforçar a sua capacidade de produção com a entrada em funcionamento de uma nova linha de produção de clínquer, com capacidade para três mil toneladas por dia, reduzindo a dependência de importações desta matéria-prima. A infra-estrutura entrou em operação este Outubro, na sequência de um projecto de ampliação e modernização iniciado em Maio de 2025, cujas obras foram executadas pela China Railway No.20 Bureau (Moçambique), Lda. Com o investimento, a capacidade anual de moagem de cimento deverá aumentar de 750 mil para 1,3 milhão de toneladas, reforçando o abastecimento do mercado da região Centro do país. O projecto inclui um sistema de geração de energia eléctrica a partir do calor residual, com capacidade de cinco megawatts, destinado a melhorar a eficiência energética da unidade industrial. A fábrica pertence à Huaxin Cement e foi fundada em 1949. O conteúdo Fábrica de cimento de Dondo aumenta capacidade de produção aparece primeiro em Jornal Notícias. «Fábrica de cimento de Dondo aumenta capacidade de produção» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Fábrica de cimento de Dondo aumenta capacidade de produção», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.56,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -54,17 +77,46 @@
       "tags": [
         "Economia"
       ],
-      "title": "Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água",
-      "summary": "A vila de Gorongosa, na província de Sofala, centro de Moçambique, passou a contar com um sistema de abastecimento de água potável ampliado, resultado de um investimento de aproximadamente 1,5 […]",
-      "why": "«Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-17T09:00:00+00:00",
-      "age_hours": 3.7,
+      "title": "Chapo defende reforço do financiamento aos pequenos negócios em sofala",
+      "summary": "O Presidente da República, Daniel Chapo, defende o reforço do financiamento aos pequenos negócios como forma de estimular a criação de emprego, aumentar os rendimentos das famílias e impulsionar o desenvolvimento económico de Sofala. O Chefe do Estado falava este sábado, em Maputo, durante o balanço da visita de trabalho de três dias à província, […]",
+      "why": "«Chapo defende reforço do financiamento aos pequenos negócios em sofala» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Chapo defende reforço do financiamento aos pequenos negócios em sofala», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "O País",
+      "published": "2026-10-17T15:25:46+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/17/negocios/infra-estruturas/sofala-gorongosa-beneficia-de-investimento-de-15-milhao-de-euros-no-abastecimento-de-agua/",
+      "link": "https://opais.co.mz/chapo-defende-reforco-do-financiamento-aos-pequenos-negocios-em-sofala/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, defende o reforço do financiamento aos pequenos negócios como forma de estimular a criação de emprego, aumentar os rendimentos das famílias e impulsionar o desenvolvimento económico de Sofala. O Chefe do Estado falava este sábado, em Maputo, durante o balanço da visita de trabalho de três dias à província, […]. «Chapo defende reforço do financiamento aos pequenos negócios em sofala» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Chapo defende reforço do financiamento aos pequenos negócios em sofala», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.85,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca",
+      "summary": "O Conselho Municipal de Maputo está a procurar atrair investimentos chineses para impulsionar o desenvolvimento económico dos distritos municipais de KaTembe e KaNyaka, na Ilha de Inhaca, com destaque para […]",
+      "why": "«Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-10-17T15:00:00+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/17/economia/investimento/maputo-procura-investimento-chines-para-desenvolver-katembe-e-inhaca/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -73,8 +125,74 @@
       "primary_source": "Diário Económico",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "A vila de Gorongosa, na província de Sofala, centro de Moçambique, passou a contar com um sistema de abastecimento de água potável ampliado, resultado de um investimento de aproximadamente 1,5 […]. «Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Sofala: Gorongosa Beneficia de Investimento de 1,5 Milhão de Euros no Abastecimento de Água», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.23,
+      "detailed_summary": "O Conselho Municipal de Maputo está a procurar atrair investimentos chineses para impulsionar o desenvolvimento económico dos distritos municipais de KaTembe e KaNyaka, na Ilha de Inhaca, com destaque para […]. «Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.75,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Kalime solodariza-se com vítimas do terrorismo em Nangade",
+      "summary": "O primeiro secretário do comité provincial da Frelimo em Cabo Delgado, José Kalime, solidarizou-se esta tarde com a população do distrito de Nangade, que tem sofridos ataques sistemáticos de grupos terroristas. A mensagem de conforto às vítimas, foi transmitida na sede do posto administrativo de Ntamba, depois de kalime ter recebido informações através das FDS, que deram conta de um ataque terrorista ocorrido na noite de ontem para hoje, na aldeia Nkonga, cerca de 35 quilómetros da vila sede. “Ainda ontem recebemos a triste notícia de mais um ataque terroristas que deixou em pânico a nossa população. Não perca esperança, um dia este problema vai ter fim. O nosso presidente está a trabalhar igualmente incansavelmente, para acabar com a guerra. As nossas FDS continuam a perseguir os terroristas”.",
+      "why": "«Kalime solodariza-se com vítimas do terrorismo em Nangade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Kalime solodariza-se com vítimas do terrorismo em Nangade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-17T13:47:26+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/kalime-solodariza-se-com-vitimas-do-terrorismo-em-nangade/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O primeiro secretário do comité provincial da Frelimo em Cabo Delgado, José Kalime, solidarizou-se esta tarde com a população do distrito de Nangade, que tem sofridos ataques sistemáticos de grupos terroristas. A mensagem de conforto às vítimas, foi transmitida na sede do posto administrativo de Ntamba, depois de kalime ter recebido informações através das FDS, que deram conta de um ataque terrorista ocorrido na noite de ontem para hoje, na aldeia Nkonga, cerca de 35 quilómetros da vila sede. “Ainda ontem recebemos a triste notícia de mais um ataque terroristas que deixou em pânico a nossa população. Não perca esperança, um dia este problema vai ter fim. O nosso presidente está a trabalhar igualmente incansavelmente, para acabar com a guerra. As nossas FDS continuam a perseguir os terroristas”. «Kalime solodariza-se com vítimas do terrorismo em Nangade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Kalime solodariza-se com vítimas do terrorismo em Nangade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.5,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU",
+      "summary": "O antigo Presidente do Senegal, Macky Sall, desistiu da corrida ao cargo de secretário-geral das Nações Unidas, um dia depois de uma votação informal no Conselho de Segurança ter revelado dificuldades para a sua candidatura. Numa declaração publicada nas redes sociais, Sall afirmou que espera contribuir para o surgimento de um candidato de consenso. Na […]",
+      "why": "«Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "O País",
+      "published": "2026-10-17T15:13:01+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://opais.co.mz/macky-sall-desiste-da-candidatura-ao-cargo-de-secretario-geral-da-onu/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "O País",
+        "RTP Notícias"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU",
+          "link": "https://www.rtp.pt/noticias/mundo/ex-presidente-do-senegal-retira-se-da-corrida-a-secretario-geral-da-onu_n1772329"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O antigo Presidente do Senegal, Macky Sall, desistiu da corrida ao cargo de secretário-geral das Nações Unidas, um dia depois de uma votação informal no Conselho de Segurança ter revelado dificuldades para a sua candidatura. Numa declaração publicada nas redes sociais, Sall afirmou que espera contribuir para o surgimento de um candidato de consenso. Na […]. «Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 12.29,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -84,15 +202,15 @@
         "Economia",
         "Segurança"
       ],
-      "title": "Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta",
-      "summary": "O Kremlin saúda a travagem a fundo, pela mão do presidente norte-americano, na aplicação de um novo pacote de sanções com a economia russa por alvo. Medida da Casa Branca que atropelou uma anterior decisão do Capitólio As forças da Rússia e da Ucrânia desencadearam, às primeiras horas deste sábado, múltiplos ataques com recurso a drones na Península da Crimeia e outros territórios russos e ucranianos. Ações que se sucedem à decisão, por parte de Donald Trump, de suspender um novo conjunto de sanções contra a Rússia - pacote que fora adotado pelo Congresso norte-americano. De acordo com as autoridades ucranianas, pelo menos uma pessoa morreu em Sloviansk, na região oriental de Donetsk, durante um bombardeamento russo contra uma zona residencial . Em Vinnitsa, no centro-oeste do país, ocorreu um dos ataques mais pesados desde o início da invasão russa , na descrição da responsável pela Administração Militar Regional, Natalia Zabolotna. Foram abatidos 24 drones e registados danos em infraestruturas civis e críticas, com notícia de seis feridos .",
-      "why": "«Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Irão diz apoiar \"processo político\" para resolver conflito entre Riade e houthis",
+      "summary": "O ministro dos Negócios Estrangeiros iraniano, Abbas Araghchi, afirmou hoje que o seu país apoia um \"processo político\" no conflito que opõe os houthis pró-iranianos do Iémen à Arábia Saudita Após anos de acalmia, os confrontos recomeçaram em julho no Iémen, onde a Arábia Saudita presta apoio militar às forças governamentais face aos houthis, que lançam ataques contra o reino \"Apoiamos a soberania, a independência, a unidade e a integridade territorial do Iémen, bem como as da Arábia Saudita.",
+      "why": "«Irão diz apoiar \"processo político\" para resolver conflito entre Riade e houthis» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Irão diz apoiar \"processo político\" para resolver conflito entre Riade e houthis», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-17T10:30:45+00:00",
-      "age_hours": 2.2,
+      "published": "2026-10-17T14:40:29+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/moscovo-e-kiev-multiplicam-ataques-enquanto-putin-agradece-a-trump-e-zelensky-lamenta_n1772272",
+      "link": "https://www.rtp.pt/noticias/mundo/irao-diz-apoiar-processo-politico-para-resolver-conflito-entre-riade-e-houthis_n1772337",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -103,155 +221,9 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Kremlin saúda a travagem a fundo, pela mão do presidente norte-americano, na aplicação de um novo pacote de sanções com a economia russa por alvo. Medida da Casa Branca que atropelou uma anterior decisão do Capitólio As forças da Rússia e da Ucrânia desencadearam, às primeiras horas deste sábado, múltiplos ataques com recurso a drones na Península da Crimeia e outros territórios russos e ucranianos. Ações que se sucedem à decisão, por parte de Donald Trump, de suspender um novo conjunto de sanções contra a Rússia - pacote que fora adotado pelo Congresso norte-americano. De acordo com as autoridades ucranianas, pelo menos uma pessoa morreu em Sloviansk, na região oriental de Donetsk, durante um bombardeamento russo contra uma zona residencial . Em Vinnitsa, no centro-oeste do país, ocorreu um dos ataques mais pesados desde o início da invasão russa , na descrição da responsável pela Administração Militar Regional, Natalia Zabolotna. Foram abatidos 24 drones e registados danos em infraestruturas civis e críticas, com notícia de seis feridos . «Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moscovo e Kiev multiplicam ataques enquanto Putin agradece a Trump e Zelensky lamenta», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.54,
+      "detailed_summary": "O ministro dos Negócios Estrangeiros iraniano, Abbas Araghchi, afirmou hoje que o seu país apoia um \"processo político\" no conflito que opõe os houthis pró-iranianos do Iémen à Arábia Saudita Após anos de acalmia, os confrontos recomeçaram em julho no Iémen, onde a Arábia Saudita presta apoio militar às forças governamentais face aos houthis, que lançam ataques contra o reino \"Apoiamos a soberania, a independência, a unidade e a integridade territorial do Iémen, bem como as da Arábia Saudita. «Irão diz apoiar \"processo político\" para resolver conflito entre Riade e houthis» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão diz apoiar \"processo político\" para resolver conflito entre Riade e houthis», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.69,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado",
-      "summary": "O ministro da Planificação e Desenvolvimento, Salim Valá, defende o crescimento económico inclusivo como uma das principais estratégias para combater a pobreza e acelerar a recuperação de Cabo Delgado, província afectada, desde 2017, por ataques terroristas que comprometem a segurança, os meios de subsistência das populações e o desenvolvimento local. A posição foi manifestada hoje no encontro com organizações da sociedade civil, destinado a avaliar projectos de promoção da coesão social e prevenção do extremismo violento, apoiados pela Agência de Desenvolvimento Integrado do Norte (ADIN). Na ocasião, Valá sublinhou que o crescimento económico deve ser acompanhado pela criação de emprego, expansão das infra-estruturas, melhoria dos serviços públicos e redução das desigualdades sociais e territoriais. “Se a economia não crescer, não ficar mais robusta, não ficar mais diversificada, é muito difícil acabar com a pobreza”, afirmou, destacando igualmente que a paz e a estabilidade são condições indispensáveis para o desenvolvimento sustentável.",
-      "why": "«Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-16T15:02:05+00:00",
-      "age_hours": 21.7,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/vala-defende-crescimento-inclusivo-para-combater-pobreza-em-cabo-delgado/",
-      "original_source": true,
-      "event_id": "evt-mocambique-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O ministro da Planificação e Desenvolvimento, Salim Valá, defende o crescimento económico inclusivo como uma das principais estratégias para combater a pobreza e acelerar a recuperação de Cabo Delgado, província afectada, desde 2017, por ataques terroristas que comprometem a segurança, os meios de subsistência das populações e o desenvolvimento local. A posição foi manifestada hoje no encontro com organizações da sociedade civil, destinado a avaliar projectos de promoção da coesão social e prevenção do extremismo violento, apoiados pela Agência de Desenvolvimento Integrado do Norte (ADIN). Na ocasião, Valá sublinhou que o crescimento económico deve ser acompanhado pela criação de emprego, expansão das infra-estruturas, melhoria dos serviços públicos e redução das desigualdades sociais e territoriais. “Se a economia não crescer, não ficar mais robusta, não ficar mais diversificada, é muito difícil acabar com a pobreza”, afirmou, destacando igualmente que a paz e a estabilidade são condições indispensáveis para o desenvolvimento sustentável. «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Valá defende crescimento inclusivo para combater pobreza em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 11.48,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "RDC proíbe actividades de 13 partidos políticos ligados a kabila",
-      "summary": "O Governo da República Democrática do Congo invoca razões de segurança nacional, enquanto a oposição denuncia uma tentativa de restringir as liberdades políticas. A decisão abrange o Partido Popular para a Reconstrução e a Democracia, fundado pelo antigo Presidente Joseph Kabila. O Governo da República Democrática do Congo (RDC) proibiu as actividades de 13 partidos […]",
-      "why": "«RDC proíbe actividades de 13 partidos políticos ligados a kabila» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «RDC proíbe actividades de 13 partidos políticos ligados a kabila», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "O País",
-      "published": "2026-10-17T09:40:09+00:00",
-      "age_hours": 3.1,
-      "within_24h": true,
-      "link": "https://opais.co.mz/rdc-proibe-actividades-de-13-partidos-politicos-ligados-a-kabila/",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo da República Democrática do Congo invoca razões de segurança nacional, enquanto a oposição denuncia uma tentativa de restringir as liberdades políticas. A decisão abrange o Partido Popular para a Reconstrução e a Democracia, fundado pelo antigo Presidente Joseph Kabila. O Governo da República Democrática do Congo (RDC) proibiu as actividades de 13 partidos […]. «RDC proíbe actividades de 13 partidos políticos ligados a kabila» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «RDC proíbe actividades de 13 partidos políticos ligados a kabila», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 10.35,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local",
-      "summary": "Maputo, 16 Out (AIM) – O Distrito Municipal de KaNyaka, na cidade de Maputo, pretende reforçar a transformação e conservação local de produtos agrícolas e pesqueiros para reduzir as perdas alimentares e aumentar os rendimentos das comunidades, no âmbito dos esforços para melhorar a segurança alimentar e nutricional. A iniciativa foi anunciada hoje pelo administrador municipal de KaNyaka, Izidro Mapanga, durante as celebrações do Dia Mundial da Alimentação, assinalado sob o lema “Inovar hoje para nutrir o amanhã”. “De nada vale produzir se perdermos 30 por cento no caminho entre o mar, a machamba e a mesa. O nosso desafio é a cadeia de valor. Por isso, estamos a incentivar a transformação local”, afirmou Mapanga. Segundo o dirigente, a estratégia passa por promover formas de processamento e conservação de produtos locais, incluindo o pescado, a mandioca e a batata-doce, de modo a reduzir as perdas e garantir que uma maior parte do valor gerado pela produção permaneça na comunidade.",
-      "why": "«Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-16T16:41:35+00:00",
-      "age_hours": 20.0,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/16/autoridades-de-kanyaka-pretendem-reduzir-perdas-agricolas-atraves-da-transformacao-local/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 16 Out (AIM) – O Distrito Municipal de KaNyaka, na cidade de Maputo, pretende reforçar a transformação e conservação local de produtos agrícolas e pesqueiros para reduzir as perdas alimentares e aumentar os rendimentos das comunidades, no âmbito dos esforços para melhorar a segurança alimentar e nutricional. A iniciativa foi anunciada hoje pelo administrador municipal de KaNyaka, Izidro Mapanga, durante as celebrações do Dia Mundial da Alimentação, assinalado sob o lema “Inovar hoje para nutrir o amanhã”. “De nada vale produzir se perdermos 30 por cento no caminho entre o mar, a machamba e a mesa. O nosso desafio é a cadeia de valor. Por isso, estamos a incentivar a transformação local”, afirmou Mapanga. Segundo o dirigente, a estratégia passa por promover formas de processamento e conservação de produtos locais, incluindo o pescado, a mandioca e a batata-doce, de modo a reduzir as perdas e garantir que uma maior parte do valor gerado pela produção permaneça na comunidade. «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Autoridades de KaNyaka pretendem reduzir perdas agricolas através da transformação local», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 9.83,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique considera urgente travar violação dos direitos humanos",
-      "summary": "O Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo acabar com os deslocamentos forçados que incluem menores naquela província do norte do país. Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo […]",
-      "why": "«Moçambique considera urgente travar violação dos direitos humanos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Moçambique considera urgente travar violação dos direitos humanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-10-16T18:03:06+00:00",
-      "age_hours": 18.7,
-      "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-considera-urgente-travar-violacao-dos-direitos-humanos/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo acabar com os deslocamentos forçados que incluem menores naquela província do norte do país. Governo moçambicano admitiu hoje que é urgente travar a violência decorrente da violação dos direitos humanos em Cabo Delgado, incluindo […]. «Moçambique considera urgente travar violação dos direitos humanos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique considera urgente travar violação dos direitos humanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.1,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Em vista transformação das 284 recomendações de direitos humanos em acções concretas",
-      "summary": "Maputo, 16 de Outubro (AIM) – O Governo moçambicano pretende reforçar os mecanismos de implementação das 284 recomendações sobre direitos humanos aceites pelo Estado, através da sua integração nos instrumentos de planificação e orçamentação e da criação de condições para a sua tradução em legislação e acções concretas. A informação foi avançada hoje, em Maputo, pelo representante da Assembleia da República, Suleiman Fonseca, durante uma conferência de imprensa sobre a adopção, pelo Estado moçambicano, das recomendações do IV Ciclo da Revisão Periódica Universal (RPU) dos Direitos Humanos das Nações Unidas. “O compromisso é este: transformar estas recomendações em leis, integrá-las no orçamento e fazer com que a sua implementação tenha em consideração o contexto e a realidade actual do país”, afirmou Fonseca.",
-      "why": "«Em vista transformação das 284 recomendações de direitos humanos em acções concretas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Em vista transformação das 284 recomendações de direitos humanos em acções concretas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-16T16:11:36+00:00",
-      "age_hours": 20.5,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/16/em-vista-transformacao-das-284-recomendacoes-de-direitos-humanos-em-accoes-concretas/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 16 de Outubro (AIM) – O Governo moçambicano pretende reforçar os mecanismos de implementação das 284 recomendações sobre direitos humanos aceites pelo Estado, através da sua integração nos instrumentos de planificação e orçamentação e da criação de condições para a sua tradução em legislação e acções concretas. A informação foi avançada hoje, em Maputo, pelo representante da Assembleia da República, Suleiman Fonseca, durante uma conferência de imprensa sobre a adopção, pelo Estado moçambicano, das recomendações do IV Ciclo da Revisão Periódica Universal (RPU) dos Direitos Humanos das Nações Unidas. “O compromisso é este: transformar estas recomendações em leis, integrá-las no orçamento e fazer com que a sua implementação tenha em consideração o contexto e a realidade actual do país”, afirmou Fonseca. «Em vista transformação das 284 recomendações de direitos humanos em acções concretas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Em vista transformação das 284 recomendações de direitos humanos em acções concretas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 8.73,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -265,11 +237,11 @@
       "impact": "No caso de «Coreia do Norte testa novo sistema de torpedos com IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-17T08:26:43+00:00",
-      "age_hours": 4.3,
+      "age_hours": 7.7,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/17/coreia-do-norte-testa-novo-sistema-de-torpedos-com-ia",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -279,7 +251,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A Coreia do Norte anunciou este sábado que testou um novo sistema de torpedos com inteligência artificial, dando seguimento a uma série recente de demonstrações de armamento.A agência noticiosa estatal KCNA informou que o ensaio envolveu o sistema de torpedos Zam-2.0, descrito como “super-rápido e de guiamento preciso”, que utiliza inteligência artificial para ajudar na deteção de alvos e na orientação.Segundo a mesma fonte, o teste permitiu confirmar os sistemas de propulsão da arma.O anúncio surge depois de Pyongyang ter testado, na quarta-feira, dois tipos de mísseis de cruzeiro estratégicos lançados debaixo de água, num movimento visto como uma tentativa de reforçar as suas capacidades navais. «Coreia do Norte testa novo sistema de torpedos com IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Coreia do Norte testa novo sistema de torpedos com IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 7.1,
+      "editorial_score": 6.4,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -305,7 +277,7 @@
   "section_counts": {
     "Moçambique": 5,
     "África": 1,
-    "Mundo": 3
+    "Mundo": 2
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

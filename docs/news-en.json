@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T12:44:59.684177+00:00",
+  "updated_at": "2026-10-17T16:10:34.537794+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -10,41 +10,101 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "Donald Trump has blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens The sanctions were passed by the US Congress and signed into law by Trump in September But the US president issued an executive order on Friday night saying that suspending some was in the US \"national interest\", prompting a backlash from US lawmakers. Zelensky said it was unfortunate the US has decided to \"completely disregard\" the sanctions Relations between Washington and Kyiv frayed after the US struck a controversial deal to import Russian diesel . Ukraine then accused the Trump administration of withdrawing key military support Trump and Zelensky have exchanged sharp words about one another.",
-      "why": "«Trump waives several Russia sanctions as row with Zelensky intensifies» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Trump waives several Russia sanctions as row with Zelensky intensifies», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-17T11:56:06+00:00",
+      "title": "How big is Russia's threat against Germany?",
+      "summary": "Experts believe that, so far, Germany has been ill-prepared — both militarily and mentally — for Russian provocations. They also warn against the idea that ending support for Ukraine would make Germany safer Warnings keep mounting about Russia's threat to Germany. On October 12, Sinan Selen, president of Germany's domestic intelligence agency, the BfV, said that Russia's covert attacks and destabilization efforts against Germany and other European countries are \"not a temporary development but a long-term hybrid attack.\" Even if the war in Ukraine were to end, said Selen, the Russian threat would not disappear.",
+      "why": "«How big is Russia's threat against Germany?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «How big is Russia's threat against Germany?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-17T15:23:00+00:00",
       "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
       "event_id": "evt-mundo-001",
-      "cluster_size": 3,
+      "cluster_size": 5,
       "source_count": 3,
       "sources": [
+        "DW English",
         "BBC World",
-        "Al Jazeera English",
-        "DW English"
+        "Al Jazeera English"
       ],
-      "primary_source": "BBC World",
+      "primary_source": "DW English",
       "status": "today",
       "confirmations": [
         {
-          "source": "Al Jazeera English",
-          "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-          "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss"
+          "source": "BBC World",
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "DW English",
-          "title": "Trump puts new Russia sanctions on hold",
-          "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf"
+          "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+          "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Donald Trump has blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens The sanctions were passed by the US Congress and signed into law by Trump in September But the US president issued an executive order on Friday night saying that suspending some was in the US \"national interest\", prompting a backlash from US lawmakers. Zelensky said it was unfortunate the US has decided to \"completely disregard\" the sanctions Relations between Washington and Kyiv frayed after the US struck a controversial deal to import Russian diesel . Ukraine then accused the Trump administration of withdrawing key military support Trump and Zelensky have exchanged sharp words about one another. «Trump waives several Russia sanctions as row with Zelensky intensifies» deserves attention because it may change political, diplomatic or security risks. For «Trump waives several Russia sanctions as row with Zelensky intensifies», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 12.33,
+      "detailed_summary": "Experts believe that, so far, Germany has been ill-prepared — both militarily and mentally — for Russian provocations. They also warn against the idea that ending support for Ukraine would make Germany safer Warnings keep mounting about Russia's threat to Germany. On October 12, Sinan Selen, president of Germany's domestic intelligence agency, the BfV, said that Russia's covert attacks and destabilization efforts against Germany and other European countries are \"not a temporary development but a long-term hybrid attack.\" Even if the war in Ukraine were to end, said Selen, the Russian threat would not disappear. «How big is Russia's threat against Germany?» deserves attention because it may change political, diplomatic or security risks. For «How big is Russia's threat against Germany?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 13.33,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Canada to support 200 Mozambican SMEs",
+      "summary": "Maputo, 16 Oct (AIM) – The Canadian government, through its initiative “Trade for Resilient, Inclusive and Sustainable Economic Growth” (TRISEG), will support 200 Mozambican small and medium-sized enterprises (SMEs), focusing on strengthening business competitiveness, export capacity, digital transformation and climate resilience. The project, which is expected to cover 60 percent of businesses owned or led by women, is Funded by Global Affairs Canada (GAC) and implemented by TFO Canada in partnership with the Mozambique’s Institute for the Promotion of Small and Medium-sized Enterprises (IPEME). TRISEG is a regional initiative to Empower SMEs in Developing Countries. In Africa, it covers eight countries: Mozambique, Côte d’Ivoire, Ethiopia, Kenya, Madagascar, Nigeria, Senegal and Zambia. Speaking at the project launch ceremony, Pascale Thivierge, Head of Cooperation at the High Commission of Canada in Mozambique, reaffirmed Canada’s commitment to strengthening economic and trade relations with Mozambique.",
+      "why": "«Canada to support 200 Mozambican SMEs» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Canada to support 200 Mozambican SMEs», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-16T09:18:56+00:00",
+      "age_hours": 30.9,
+      "within_24h": false,
+      "link": "https://aimnews.org/2026/10/16/canada-to-support-200-mozambican-smes/",
+      "original_source": true,
+      "event_id": "evt-mocambique-009",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "update",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 16 Oct (AIM) – The Canadian government, through its initiative “Trade for Resilient, Inclusive and Sustainable Economic Growth” (TRISEG), will support 200 Mozambican small and medium-sized enterprises (SMEs), focusing on strengthening business competitiveness, export capacity, digital transformation and climate resilience. The project, which is expected to cover 60 percent of businesses owned or led by women, is Funded by Global Affairs Canada (GAC) and implemented by TFO Canada in partnership with the Mozambique’s Institute for the Promotion of Small and Medium-sized Enterprises (IPEME). TRISEG is a regional initiative to Empower SMEs in Developing Countries. In Africa, it covers eight countries: Mozambique, Côte d’Ivoire, Ethiopia, Kenya, Madagascar, Nigeria, Senegal and Zambia. Speaking at the project launch ceremony, Pascale Thivierge, Head of Cooperation at the High Commission of Canada in Mozambique, reaffirmed Canada’s commitment to strengthening economic and trade relations with Mozambique. «Canada to support 200 Mozambican SMEs» matters because it may change energy and investment decisions affecting Moçambique. For «Canada to support 200 Mozambican SMEs», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 12.28,
+      "source_tier": "B",
+      "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "China's influence in the gaming industry is growing",
+      "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world In a dark underground hideout, dim light spills from a handful of oil lamps. A comrade fiddles with a rifle. A red flag hangs on one of the roughly hewn stone walls, bearing a hammer and sickle on a white star — the symbol of the Chinese Workers' and Peasants' Red Army. Weapons are scattered on the ground. One is picked up, and soon the action moves into the snowy forest, where gunfire erupts among the trees Such a scene could fit in a new installment of \"Call of Duty,\" the popular first-person shooter game that transports players to battlefields past, present, and future.",
+      "why": "«China's influence in the gaming industry is growing» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «China's influence in the gaming industry is growing», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-17T14:49:00+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world In a dark underground hideout, dim light spills from a handful of oil lamps. A comrade fiddles with a rifle. A red flag hangs on one of the roughly hewn stone walls, bearing a hammer and sickle on a white star — the symbol of the Chinese Workers' and Peasants' Red Army. Weapons are scattered on the ground. One is picked up, and soon the action moves into the snowy forest, where gunfire erupts among the trees Such a scene could fit in a new installment of \"Call of Duty,\" the popular first-person shooter game that transports players to battlefields past, present, and future. «China's influence in the gaming industry is growing» matters because it may change energy and investment decisions affecting Mundo. For «China's influence in the gaming industry is growing», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 11.71,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -59,7 +119,7 @@
       "impact": "For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-17T04:01:42+00:00",
-      "age_hours": 8.7,
+      "age_hours": 12.1,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-ane-awards-20-6-billion-meticais-for-inhambane-and-sofala-road-contracts/",
       "original_source": true,
@@ -73,7 +133,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "According to the contract award notices published by ANE’s provincial delegations, the contracts concern new lots for road engineering and paving projects, five of which are located in Inhambane province, in southern Mozambique, and four in Sofala, in the centre of the country The awards fall under the 2026–2031 Accelerated National Road Rehabilitation and Construction Programme, known as “More Roads – 2031”, and cover national and regional road links In Inhambane province, the contracts total 285 kilometres and 10,104,807,009 meticais (€143.6 million) The contracts were awarded to a consortium comprising the companies Maripoma Entreprise Limitada, from Mozambique, Maripoma Entreprise Limitada, from Ghana, CC Building Limitada and GWIC Moçambique Limitada The largest lot in Inhambane covers the 70-kilometre Sitila–Funhalouro section of road R444, awarded for 2,469,027,132 meticais (€35 million) On the same road corridor, the 40-kilometre Massinga–Sitila section was awarded for 1,612,980,998 meticais (€22.9 million) On national road N222, the 58-kilometre Mapinhane–Macumene section… «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 12.19,
+      "editorial_score": 11.48,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -88,8 +148,8 @@
       "impact": "For «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-16T14:59:40+00:00",
-      "age_hours": 21.8,
-      "within_24h": true,
+      "age_hours": 25.2,
+      "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambique-grain-institute-explores-cooperation-opportunities-at-trade-expo-indonesia/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
@@ -99,68 +159,68 @@
         "Club of Mozambique"
       ],
       "primary_source": "Club of Mozambique",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "The Mozambique Grain Institute (ICM), represented by its Director-General, Luís Jobe Fazenda, is participating in the 41st edition of Trade Expo Indonesia (TEI), the largest trade and investment platform in Southeast Asia, taking place from 14 to 18 October at the Indonesia Convention Exhibition (ICE), in Greater Jakarta Photo: Instituto de Cereais de Moçambique, IP The ICM is part of the official delegation of the Ministry of Economy, headed by the Secretary of State for Trade, António Grispos As a central player in the agricultural marketing value chain, the ICM is taking part in this global forum to develop cooperation opportunities covering everything from strategic supply to the final marketing of products. «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "editorial_score": 11.46,
       "source_tier": "B",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Revenue from LNG is for current development and future generations – Finance Minister",
+      "summary": "Maputo, 16 Oct (AIM) – The Mozambican Government has stressed that revenue from liquefied natural gas (LNG) production will be used both to finance the country’s current development and to create wealth for future generations. “The Mozambican Government’s objective is indeed to ensure that revenue from natural gas can generate intergenerational wealth. The Sovereign Wealth Fund Law is already producing tangible results by establishing a division of LNG revenue between public expenditure and savings”, said Carla Loveira, Finance Minister. “We do not want all the resources to be entirely consumed by the current budget”, she added. Under the model currently in force, around 60 percent of revenue is channelled to the State Budget, while the remaining 40 percent goes into a savings account managed by the Bank of Mozambique. According to the minister, the funds are already financing major infrastructure projects.",
+      "why": "«Revenue from LNG is for current development and future generations – Finance Minister» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Revenue from LNG is for current development and future generations – Finance Minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-16T09:40:28+00:00",
+      "age_hours": 30.5,
+      "within_24h": false,
+      "link": "https://aimnews.org/2026/10/16/revenue-from-lng-is-for-current-development-and-future-generations-finance-minister/",
+      "original_source": true,
+      "event_id": "evt-mocambique-008",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "update",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 16 Oct (AIM) – The Mozambican Government has stressed that revenue from liquefied natural gas (LNG) production will be used both to finance the country’s current development and to create wealth for future generations. “The Mozambican Government’s objective is indeed to ensure that revenue from natural gas can generate intergenerational wealth. The Sovereign Wealth Fund Law is already producing tangible results by establishing a division of LNG revenue between public expenditure and savings”, said Carla Loveira, Finance Minister. “We do not want all the resources to be entirely consumed by the current budget”, she added. Under the model currently in force, around 60 percent of revenue is channelled to the State Budget, while the remaining 40 percent goes into a savings account managed by the Bank of Mozambique. According to the minister, the funds are already financing major infrastructure projects. «Revenue from LNG is for current development and future generations – Finance Minister» matters because it may change energy and investment decisions affecting Moçambique. For «Revenue from LNG is for current development and future generations – Finance Minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 11.3,
+      "source_tier": "B",
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "France braces for nationwide protests",
-      "summary": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Authorities say they fear the rallies could turn violent",
-      "why": "«France braces for nationwide protests» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «France braces for nationwide protests», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "DW English",
-      "published": "2026-10-17T08:02:00+00:00",
-      "age_hours": 4.7,
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "summary": "Marineland was once an iconic Canadian attraction, known for its Everyone loves Marineland jingle Tofino approached each of his handlers in turn as they knelt in shallow water and stroked his sides Shortly after, a crane hoisted the more than 1,500kg beluga whale into a lorry to be shipped out of Canada to his new home, SeaWorld San Antonio - the last of 30 belugas and four dolphins to leave Marineland, a shuttered sea park near Niagara Falls Marineland needed to find a new home for its whales. But when the Canadian government rejected its plan to sell them to China over concerns about animal welfare, the park's operations said they would have to be euthanised That spurred an international rescue operation by several aquariums, leading to the largest ever transfer of captive whales this summer.",
+      "why": "«The uncertain future of Canada's 30 rescued belugas» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «The uncertain future of Canada's 30 rescued belugas», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-17T01:18:08+00:00",
+      "age_hours": 14.9,
       "within_24h": true,
-      "link": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "DW English"
+        "BBC World"
       ],
-      "primary_source": "DW English",
+      "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Authorities say they fear the rallies could turn violent. «France braces for nationwide protests» helps explain a concrete economic or business change relevant to Mundo. For «France braces for nationwide protests», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.02,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-      "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin",
-      "why": "«Russia wants blackout in Ukraine as winter comes — Zelenskyy» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Russia wants blackout in Ukraine as winter comes — Zelenskyy», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-17T11:34:00+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin. «Russia wants blackout in Ukraine as winter comes — Zelenskyy» deserves attention because it may change political, diplomatic or security risks. For «Russia wants blackout in Ukraine as winter comes — Zelenskyy», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 10.75,
+      "detailed_summary": "Marineland was once an iconic Canadian attraction, known for its Everyone loves Marineland jingle Tofino approached each of his handlers in turn as they knelt in shallow water and stroked his sides Shortly after, a crane hoisted the more than 1,500kg beluga whale into a lorry to be shipped out of Canada to his new home, SeaWorld San Antonio - the last of 30 belugas and four dolphins to leave Marineland, a shuttered sea park near Niagara Falls Marineland needed to find a new home for its whales. But when the Canadian government rejected its plan to sell them to China over concerns about animal welfare, the park's operations said they would have to be euthanised That spurred an international rescue operation by several aquariums, leading to the largest ever transfer of captive whales this summer. «The uncertain future of Canada's 30 rescued belugas» matters because it may change energy and investment decisions affecting Mundo. For «The uncertain future of Canada's 30 rescued belugas», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 8.9,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -175,7 +235,7 @@
       "impact": "For «Brazil sees record fall in Amazon deforestation as key election looms», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "BBC World",
       "published": "2026-10-17T02:33:09+00:00",
-      "age_hours": 10.2,
+      "age_hours": 13.6,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -189,7 +249,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Brazil's government says deforestation rates in the country's Amazon and savanna regions have fallen to record lows ahead of a presidential election run-off in which the rainforest's future is a key issue Left-wing President Luiz Inácio Lula da Silva, when he assumed office three years ago, pledged to end deforestation by 2030 in the Amazon. It had surged under his right-wing predecessor, Jair Bolsonaro Lula will face Bolsonaro's son Flavio in the run-off on 25 October, with polls suggesting a neck-and-neck race. Flavio is expected to continue his father's policies if he wins, though he has pledged to fight organised crime in the Amazon Satellite data shows that in the year to July 2026, the deforestation rate fell by 41.8% in the Amazon - the biggest drop since records began in 1988. «Brazil sees record fall in Amazon deforestation as key election looms» is worth following because of its possible economic, institutional or regional effects. For «Brazil sees record fall in Amazon deforestation as key election looms», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 8.88,
+      "editorial_score": 8.17,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -204,7 +264,7 @@
       "impact": "For «Ethiopia's Abiy Ahmed appoints interim Tigray government», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "DW English",
       "published": "2026-10-16T16:19:00+00:00",
-      "age_hours": 20.4,
+      "age_hours": 23.9,
       "within_24h": true,
       "link": "https://www.dw.com/en/ethiopia-s-abiy-ahmed-appoints-interim-tigray-government/a-79683519?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
@@ -218,7 +278,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Abiy Ahmed's office said there would be elections held in Tigray within 6 months. The move comes after an escalation in fighting between federal forces and a rebel alliance. «Ethiopia's Abiy Ahmed appoints interim Tigray government» is worth following because of its possible economic, institutional or regional effects. For «Ethiopia's Abiy Ahmed appoints interim Tigray government», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 6.75,
+      "editorial_score": 6.02,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -242,7 +302,7 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 2,
+    "Moçambique": 4,
     "África": 1,
     "Mundo": 4
   },
