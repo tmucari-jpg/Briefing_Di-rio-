@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T19:04:34.850681+00:00",
+  "updated_at": "2026-10-17T22:56:32.633709+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -17,7 +17,7 @@
       "impact": "For «Canada to support 200 Mozambican SMEs», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-16T09:18:56+00:00",
-      "age_hours": 33.8,
+      "age_hours": 37.6,
       "within_24h": false,
       "link": "https://aimnews.org/2026/10/16/canada-to-support-200-mozambican-smes/",
       "original_source": true,
@@ -31,50 +31,65 @@
       "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 16 Oct (AIM) – The Canadian government, through its initiative “Trade for Resilient, Inclusive and Sustainable Economic Growth” (TRISEG), will support 200 Mozambican small and medium-sized enterprises (SMEs), focusing on strengthening business competitiveness, export capacity, digital transformation and climate resilience. The project, which is expected to cover 60 percent of businesses owned or led by women, is Funded by Global Affairs Canada (GAC) and implemented by TFO Canada in partnership with the Mozambique’s Institute for the Promotion of Small and Medium-sized Enterprises (IPEME). TRISEG is a regional initiative to Empower SMEs in Developing Countries. In Africa, it covers eight countries: Mozambique, Côte d’Ivoire, Ethiopia, Kenya, Madagascar, Nigeria, Senegal and Zambia. Speaking at the project launch ceremony, Pascale Thivierge, Head of Cooperation at the High Commission of Canada in Mozambique, reaffirmed Canada’s commitment to strengthening economic and trade relations with Mozambique. «Canada to support 200 Mozambican SMEs» matters because it may change energy and investment decisions affecting Moçambique. For «Canada to support 200 Mozambican SMEs», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 12.19,
+      "editorial_score": 12.07,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine",
-      "why": "«Trump faces bipartisan backlash over Russia sanctions waiver» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Trump faces bipartisan backlash over Russia sanctions waiver», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T17:24:07+00:00",
-      "age_hours": 1.7,
+      "title": "Anti-government protesters battle with police in Albania",
+      "summary": "Watch: The BBC reports from Tirana, where violent protests grew on Saturday Demonstrators and riot police fought pitched battles in the centre of Tirana on Saturday for the fifth day in a row Masked protesters, many of them high school and university students, hurled rocks and petrol bombs at riot police trying to defend the education ministry, one of the focal points of the protests The police responded with water cannon and volleys of tear gas, sending the crowds scattering.",
+      "why": "«Anti-government protesters battle with police in Albania» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Anti-government protesters battle with police in Albania», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-17T20:53:00+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
+      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 5,
-      "source_count": 3,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "Al Jazeera English",
-        "DW English",
         "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Watch: The BBC reports from Tirana, where violent protests grew on Saturday Demonstrators and riot police fought pitched battles in the centre of Tirana on Saturday for the fifth day in a row Masked protesters, many of them high school and university students, hurled rocks and petrol bombs at riot police trying to defend the education ministry, one of the focal points of the protests The police responded with water cannon and volleys of tear gas, sending the crowds scattering. «Anti-government protesters battle with police in Albania» matters because it may change energy and investment decisions affecting Mundo. For «Anti-government protesters battle with police in Albania», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 11.56,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
+      "summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz",
+      "why": "«Iranian TV airs video said to show tanker explosion in Hormuz» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Iranian TV airs video said to show tanker explosion in Hormuz», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T20:02:22+00:00",
+      "age_hours": 2.9,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
       ],
       "primary_source": "Al Jazeera English",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "DW English",
-          "title": "How big is Russia's threat against Germany?",
-          "link": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "BBC World",
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine. «Trump faces bipartisan backlash over Russia sanctions waiver» deserves attention because it may change political, diplomatic or security risks. For «Trump faces bipartisan backlash over Russia sanctions waiver», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 12.15,
+      "detailed_summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz. «Iranian TV airs video said to show tanker explosion in Hormuz» matters because it may change energy and investment decisions affecting Mundo. For «Iranian TV airs video said to show tanker explosion in Hormuz», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 11.4,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -89,7 +104,7 @@
       "impact": "For «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-16T14:59:40+00:00",
-      "age_hours": 28.1,
+      "age_hours": 31.9,
       "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambique-grain-institute-explores-cooperation-opportunities-at-trade-expo-indonesia/",
       "original_source": true,
@@ -103,7 +118,7 @@
       "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "The Mozambique Grain Institute (ICM), represented by its Director-General, Luís Jobe Fazenda, is participating in the 41st edition of Trade Expo Indonesia (TEI), the largest trade and investment platform in Southeast Asia, taking place from 14 to 18 October at the Indonesia Convention Exhibition (ICE), in Greater Jakarta Photo: Instituto de Cereais de Moçambique, IP The ICM is part of the official delegation of the Ministry of Economy, headed by the Secretary of State for Trade, António Grispos As a central player in the agricultural marketing value chain, the ICM is taking part in this global forum to develop cooperation opportunities covering everything from strategic supply to the final marketing of products. «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.37,
+      "editorial_score": 11.25,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
     },
@@ -118,7 +133,7 @@
       "impact": "For «Revenue from LNG is for current development and future generations – Finance Minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-16T09:40:28+00:00",
-      "age_hours": 33.4,
+      "age_hours": 37.3,
       "within_24h": false,
       "link": "https://aimnews.org/2026/10/16/revenue-from-lng-is-for-current-development-and-future-generations-finance-minister/",
       "original_source": true,
@@ -132,9 +147,67 @@
       "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 16 Oct (AIM) – The Mozambican Government has stressed that revenue from liquefied natural gas (LNG) production will be used both to finance the country’s current development and to create wealth for future generations. “The Mozambican Government’s objective is indeed to ensure that revenue from natural gas can generate intergenerational wealth. The Sovereign Wealth Fund Law is already producing tangible results by establishing a division of LNG revenue between public expenditure and savings”, said Carla Loveira, Finance Minister. “We do not want all the resources to be entirely consumed by the current budget”, she added. Under the model currently in force, around 60 percent of revenue is channelled to the State Budget, while the remaining 40 percent goes into a savings account managed by the Bank of Mozambique. According to the minister, the funds are already financing major infrastructure projects. «Revenue from LNG is for current development and future generations – Finance Minister» matters because it may change energy and investment decisions affecting Moçambique. For «Revenue from LNG is for current development and future generations – Finance Minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 11.21,
+      "editorial_score": 11.08,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "summary": "An 80m (263ft) luxury vessel has been repeatedly spotted in satellite images off North Korea's Wonsan coast from July to mid-October this year What stands out is the 50m swimming pool along the deck, with a cluster of waterslides at one end After sitting idle for months at a maintenance facility, it relocated in early July to waters off a strip of coastline known as the Kalma Peninsula This is close to Wonsan, a seaside resort with a sprawling villa used by North Korean leader Kim Jong Un and his family It was not the only large vessel on the move. A handful of others were also repeatedly seen near Kim's villa, in satellite images analysed by the BBC The vessels are widely believed to be used by Kim and his family. Former North Korean officials, defectors and experts say it would be difficult for anyone unconnected to the regime's leadership to own or freely use vessels of this size \"In winter, they would keep them at the shipyard.",
+      "why": "«Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-17T22:09:50+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "An 80m (263ft) luxury vessel has been repeatedly spotted in satellite images off North Korea's Wonsan coast from July to mid-October this year What stands out is the 50m swimming pool along the deck, with a cluster of waterslides at one end After sitting idle for months at a maintenance facility, it relocated in early July to waters off a strip of coastline known as the Kalma Peninsula This is close to Wonsan, a seaside resort with a sprawling villa used by North Korean leader Kim Jong Un and his family It was not the only large vessel on the move. A handful of others were also repeatedly seen near Kim's villa, in satellite images analysed by the BBC The vessels are widely believed to be used by Kim and his family. Former North Korean officials, defectors and experts say it would be difficult for anyone unconnected to the regime's leadership to own or freely use vessels of this size \"In winter, they would keep them at the shipyard. «Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat» is worth following because of its possible economic, institutional or regional effects. For «Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+      "summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU",
+      "why": "«Cost of living protests hit Belgium, Italy, Portugal and France» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Cost of living protests hit Belgium, Italy, Portugal and France», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-17T21:02:26+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU. «Cost of living protests hit Belgium, Italy, Portugal and France» is worth following because of its possible economic, institutional or regional effects. For «Cost of living protests hit Belgium, Italy, Portugal and France», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.6,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
@@ -148,11 +221,11 @@
       "impact": "For «China's influence in the gaming industry is growing», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "DW English",
       "published": "2026-10-17T14:49:00+00:00",
-      "age_hours": 4.3,
+      "age_hours": 8.1,
       "within_24h": true,
       "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -162,7 +235,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world In a dark underground hideout, dim light spills from a handful of oil lamps. A comrade fiddles with a rifle. A red flag hangs on one of the roughly hewn stone walls, bearing a hammer and sickle on a white star — the symbol of the Chinese Workers' and Peasants' Red Army. Weapons are scattered on the ground. One is picked up, and soon the action moves into the snowy forest, where gunfire erupts among the trees Such a scene could fit in a new installment of \"Call of Duty,\" the popular first-person shooter game that transports players to battlefields past, present, and future. «China's influence in the gaming industry is growing» matters because it may change energy and investment decisions affecting Mundo. For «China's influence in the gaming industry is growing», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.1,
+      "editorial_score": 10.31,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -177,7 +250,7 @@
       "impact": "For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-17T04:01:42+00:00",
-      "age_hours": 15.0,
+      "age_hours": 18.9,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-ane-awards-20-6-billion-meticais-for-inhambane-and-sofala-road-contracts/",
       "original_source": true,
@@ -191,66 +264,8 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "According to the contract award notices published by ANE’s provincial delegations, the contracts concern new lots for road engineering and paving projects, five of which are located in Inhambane province, in southern Mozambique, and four in Sofala, in the centre of the country The awards fall under the 2026–2031 Accelerated National Road Rehabilitation and Construction Programme, known as “More Roads – 2031”, and cover national and regional road links In Inhambane province, the contracts total 285 kilometres and 10,104,807,009 meticais (€143.6 million) The contracts were awarded to a consortium comprising the companies Maripoma Entreprise Limitada, from Mozambique, Maripoma Entreprise Limitada, from Ghana, CC Building Limitada and GWIC Moçambique Limitada The largest lot in Inhambane covers the 70-kilometre Sitila–Funhalouro section of road R444, awarded for 2,469,027,132 meticais (€35 million) On the same road corridor, the 40-kilometre Massinga–Sitila section was awarded for 1,612,980,998 meticais (€22.9 million) On national road N222, the 58-kilometre Mapinhane–Macumene section… «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 10.88,
+      "editorial_score": 10.06,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "France: Police and protesters clash in nationwide protests",
-      "summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police and protesters have already clashed in Paris and Marseille",
-      "why": "«France: Police and protesters clash in nationwide protests» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «France: Police and protesters clash in nationwide protests», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "DW English",
-      "published": "2026-10-17T08:02:00+00:00",
-      "age_hours": 11.0,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police and protesters have already clashed in Paris and Marseille. «France: Police and protesters clash in nationwide protests» helps explain a concrete economic or business change relevant to Mundo. For «France: Police and protesters clash in nationwide protests», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 9.71,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "summary": "Brazil's government says deforestation rates in the country's Amazon and savanna regions have fallen to record lows ahead of a presidential election run-off in which the rainforest's future is a key issue Left-wing President Luiz Inácio Lula da Silva, when he assumed office three years ago, pledged to end deforestation by 2030 in the Amazon. It had surged under his right-wing predecessor, Jair Bolsonaro Lula will face Bolsonaro's son Flavio in the run-off on 25 October, with polls suggesting a neck-and-neck race. Flavio is expected to continue his father's policies if he wins, though he has pledged to fight organised crime in the Amazon Satellite data shows that in the year to July 2026, the deforestation rate fell by 41.8% in the Amazon - the biggest drop since records began in 1988.",
-      "why": "«Brazil sees record fall in Amazon deforestation as key election looms» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Brazil sees record fall in Amazon deforestation as key election looms», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-17T02:33:09+00:00",
-      "age_hours": 16.5,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Brazil's government says deforestation rates in the country's Amazon and savanna regions have fallen to record lows ahead of a presidential election run-off in which the rainforest's future is a key issue Left-wing President Luiz Inácio Lula da Silva, when he assumed office three years ago, pledged to end deforestation by 2030 in the Amazon. It had surged under his right-wing predecessor, Jair Bolsonaro Lula will face Bolsonaro's son Flavio in the run-off on 25 October, with polls suggesting a neck-and-neck race. Flavio is expected to continue his father's policies if he wins, though he has pledged to fight organised crime in the Amazon Satellite data shows that in the year to July 2026, the deforestation rate fell by 41.8% in the Amazon - the biggest drop since records began in 1988. «Brazil sees record fall in Amazon deforestation as key election looms» is worth following because of its possible economic, institutional or regional effects. For «Brazil sees record fall in Amazon deforestation as key election looms», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 7.56,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     }
   ],
@@ -275,7 +290,7 @@
   "section_counts": {
     "Moçambique": 4,
     "África": 0,
-    "Mundo": 4
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
