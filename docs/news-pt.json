@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T07:50:27.341559+00:00",
+  "updated_at": "2026-10-18T13:01:59.578889+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,80 +8,116 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "Mulheres de Sofala pedem mais oportunidades e protecção",
-      "summary": "Maputo, 17 Out (AIM) – As mulheres da província de Sofala defendem o reforço do empoderamento económico, a melhoria do acesso à educação para as raparigas e a prevenção da violência baseada no género, como medidas essenciais para promover o bem-estar das famílias e uma sociedade mais justa e inclusiva. As preocupações foram apresentadas ao Presidente da República, Daniel Francisco Chapo, durante um encontro com mulheres provenientes dos diferentes distritos da província, realizado no terceiro dia da visita de trabalho do Chefe de Estado a Sofala. Na ocasião, a representante das participantes destacou a necessidade de garantir que mulheres de diferentes condições sociais sejam respeitadas, valorizadas e tenham oportunidades para participar activamente nas decisões que influenciam o presente e o futuro do país. Entre as prioridades apresentadas constam o empoderamento económico da mulher, a educação das raparigas, o bem-estar feminino, a prevenção da violência baseada no género e o apoio às mulheres afectadas por situações de vulnerabilidade.",
-      "why": "«Mulheres de Sofala pedem mais oportunidades e protecção» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Mulheres de Sofala pedem mais oportunidades e protecção», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "title": "Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas",
+      "summary": "Maputo, 18 de Out (AIM)— Moçambique defendeu, em Bagdade, uma acção internacional coordenada para combater o terrorismo e o extremismo violento, reforçar a adaptação às alterações climáticas e promover a paz e a segurança internacionais, considerando o diálogo, a diplomacia e a cooperação entre os Estados fundamentais para enfrentar os actuais desafios globais. A posição foi apresentada pelo ministro da Justiça, Assuntos Constitucionais e Religiosos, Mateus Saize, na 52.ª Sessão do Conselho de Ministros da Organização da Cooperação Islâmica (OCI), que decorreu nos dias 17 e 18 de Outubro, na capital iraquiana, sob o lema «O Diálogo e a Solidariedade são Pilares Fundamentais para Avançar na Paz e no Desenvolvimento Sustentável». Na sua intervenção, o ministro apontou o terrorismo, as disputas comerciais entre as principais potências mundiais e os efeitos das alterações climáticas, incluindo ciclones, cheias e secas, entre os desafios que afectam Moçambique no actual contexto internacional.",
+      "why": "«Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-18T07:10:53+00:00",
-      "age_hours": 0.7,
+      "published": "2026-10-18T11:13:52+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/18/mulheres-de-sofala-pedem-mais-oportunidades-e-proteccao/",
+      "link": "https://aimnews.org/2026/10/18/mocambique-defende-accao-internacional-coordenada-contra-terrorismo-e-alteracoes-climaticas/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
-      "cluster_size": 2,
-      "source_count": 2,
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "AIM Notícias",
-        "O País"
+        "AIM Notícias"
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "O País",
-          "title": "Chapo defende reforço do financiamento aos pequenos negócios em sofala",
-          "link": "https://opais.co.mz/chapo-defende-reforco-do-financiamento-aos-pequenos-negocios-em-sofala/"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 17 Out (AIM) – As mulheres da província de Sofala defendem o reforço do empoderamento económico, a melhoria do acesso à educação para as raparigas e a prevenção da violência baseada no género, como medidas essenciais para promover o bem-estar das famílias e uma sociedade mais justa e inclusiva. As preocupações foram apresentadas ao Presidente da República, Daniel Francisco Chapo, durante um encontro com mulheres provenientes dos diferentes distritos da província, realizado no terceiro dia da visita de trabalho do Chefe de Estado a Sofala. Na ocasião, a representante das participantes destacou a necessidade de garantir que mulheres de diferentes condições sociais sejam respeitadas, valorizadas e tenham oportunidades para participar activamente nas decisões que influenciam o presente e o futuro do país. Entre as prioridades apresentadas constam o empoderamento económico da mulher, a educação das raparigas, o bem-estar feminino, a prevenção da violência baseada no género e o apoio às mulheres afectadas por situações de vulnerabilidade. «Mulheres de Sofala pedem mais oportunidades e protecção» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Mulheres de Sofala pedem mais oportunidades e protecção», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 15.35,
+      "detailed_summary": "Maputo, 18 de Out (AIM)— Moçambique defendeu, em Bagdade, uma acção internacional coordenada para combater o terrorismo e o extremismo violento, reforçar a adaptação às alterações climáticas e promover a paz e a segurança internacionais, considerando o diálogo, a diplomacia e a cooperação entre os Estados fundamentais para enfrentar os actuais desafios globais. A posição foi apresentada pelo ministro da Justiça, Assuntos Constitucionais e Religiosos, Mateus Saize, na 52.ª Sessão do Conselho de Ministros da Organização da Cooperação Islâmica (OCI), que decorreu nos dias 17 e 18 de Outubro, na capital iraquiana, sob o lema «O Diálogo e a Solidariedade são Pilares Fundamentais para Avançar na Paz e no Desenvolvimento Sustentável». Na sua intervenção, o ministro apontou o terrorismo, as disputas comerciais entre as principais potências mundiais e os efeitos das alterações climáticas, incluindo ciclones, cheias e secas, entre os desafios que afectam Moçambique no actual contexto internacional. «Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 14.62,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Chapo apela à condução responsável após acidente que matou 13 pessoas em Tete",
+      "summary": "Maputo, 18 de Out (AIM) – O Presidente da República, Daniel Chapo, manifestou hoje, profunda consternação pela morte de 13 cidadãos num acidente de viação ocorrido no sábado, 17 de Outubro, no povoado de Mazoe, distrito de Changara, província de Tete, e apelou aos utentes das vias públicas para o cumprimento rigoroso das regras de trânsito, como forma de prevenir novas tragédias. O Chefe do Estado endereçou uma mensagem de condolências às famílias das vítimas mortais, em que expressa, em nome do Governo, do Povo moçambicano e em seu próprio, o seu profundo pesar pela perda de vidas humanas. Na mensagem, Chapo transmite às famílias enlutadas as mais sentidas condolências, desejando-lhes conforto e força para enfrentar a perda irreparável dos seus entes queridos. O acidente provocou ainda ferimentos em 16 cidadãos. Perante a situação, o Presidente da República manifestou solidariedade para com as vítimas e formulou votos de rápida recuperação e pleno restabelecimento.",
+      "why": "«Chapo apela à condução responsável após acidente que matou 13 pessoas em Tete» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Chapo apela à condução responsável após acidente que matou 13 pessoas em Tete», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-18T11:02:23+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/18/chapo-apela-a-conducao-responsavel-apos-acidente-que-matou-13-pessoas-em-tete/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 18 de Out (AIM) – O Presidente da República, Daniel Chapo, manifestou hoje, profunda consternação pela morte de 13 cidadãos num acidente de viação ocorrido no sábado, 17 de Outubro, no povoado de Mazoe, distrito de Changara, província de Tete, e apelou aos utentes das vias públicas para o cumprimento rigoroso das regras de trânsito, como forma de prevenir novas tragédias. O Chefe do Estado endereçou uma mensagem de condolências às famílias das vítimas mortais, em que expressa, em nome do Governo, do Povo moçambicano e em seu próprio, o seu profundo pesar pela perda de vidas humanas. Na mensagem, Chapo transmite às famílias enlutadas as mais sentidas condolências, desejando-lhes conforto e força para enfrentar a perda irreparável dos seus entes queridos. O acidente provocou ainda ferimentos em 16 cidadãos. Perante a situação, o Presidente da República manifestou solidariedade para com as vítimas e formulou votos de rápida recuperação e pleno restabelecimento. «Chapo apela à condução responsável após acidente que matou 13 pessoas em Tete» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo apela à condução responsável após acidente que matou 13 pessoas em Tete», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.58,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
-        "Economia",
         "Segurança"
       ],
-      "title": "Chefe da diplomacia dos EUA relativiza isenção de sanções contra Moscovo",
-      "summary": "O chefe da diplomacia norte-americana, Marco Rubio, relativizou a decisão de Donald Trump de isentar a Rússia de novas sanções, assegurando que se trata de uma pausa destinada \"a analisar\" as repercussões económicas destas medidas A suspensão da aplicação das medidas previstas numa lei recentemente aprovada pelo Congresso, que visa especificamente o setor energético russo, foi condenada pela Ucrânia, agravando as tensões que se têm vindo a acumular entre Kiev e Washington desde a semana passada \"O Presidente pretende utilizar este período de 60 dias para analisar o efeito tanto das sanções como dos direitos aduaneiros na economia mundial e até mesmo na economia norte-americana\", declarou no sábado Rubio antes de partir para uma visita ao Uzbequistão e à Índia O secretário de Estado norte-americano salientou o impacto dos recentes conflitos nos preços da energia, incluindo a guerra travada pelos Estados Unidos contra o Irão e os ataques dos rebeldes Huthis do Iémen, pró-Irão, contra a Arábia Saudita \"Estes conflitos em todo o mundo começam a sobrepor-se uns aos outros e têm…",
-      "why": "«Chefe da diplomacia dos EUA relativiza isenção de sanções contra Moscovo» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Chefe da diplomacia dos EUA relativiza isenção de sanções contra Moscovo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO",
+      "summary": "O drone terá entrado em espaço aéreo lituano a partir da Polónia, segundo a estação televisiva pública do país báltico, LRT Um drone obrigou este domingo à emissão de alertas aéreos na Lituânia e na Letónia e à descolagem de caças da NATO. O aparelho acabou por cair nas imediações de Pasvalys, no norte do território lituano, sobre a linha de fronteira com a Letónia. \"A guerra da Rússia contra a Ucrânia está a alargar-se ao flanco oriental da NATO e da União Europeia\", escreveu no X o presidente lituano, Gitanas Nauseda, sem, todavia, avançar com mais pormenores sobre a origem do aparelho A Polícia Militar lituana começou por ser alertada para uma aparente explosão em Pasvalys.",
+      "why": "«\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-18T07:49:39+00:00",
-      "age_hours": 0.0,
+      "published": "2026-10-18T11:59:22+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/chefe-da-diplomacia-dos-eua-relativiza-isencao-de-sancoes-contra-moscovo_n1772419",
+      "link": "https://www.rtp.pt/noticias/mundo/guerra-esta-a-alargar-se-drone-gera-alertas-no-baltico-e-aciona-cacas-da-nato_n1772465",
       "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 3,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Trump levanta várias sanções contra a Rússia",
-          "link": "https://www.rtp.pt/noticias/mundo/trump-levanta-varias-sancoes-contra-a-russia_v1772400"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Rússia elogia decisão de Trump de suspender novo pacote de sanções",
-          "link": "https://www.rtp.pt/noticias/mundo/russia-elogia-decisao-de-trump-de-suspender-novo-pacote-de-sancoes_n1772266"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "O chefe da diplomacia norte-americana, Marco Rubio, relativizou a decisão de Donald Trump de isentar a Rússia de novas sanções, assegurando que se trata de uma pausa destinada \"a analisar\" as repercussões económicas destas medidas A suspensão da aplicação das medidas previstas numa lei recentemente aprovada pelo Congresso, que visa especificamente o setor energético russo, foi condenada pela Ucrânia, agravando as tensões que se têm vindo a acumular entre Kiev e Washington desde a semana passada \"O Presidente pretende utilizar este período de 60 dias para analisar o efeito tanto das sanções como dos direitos aduaneiros na economia mundial e até mesmo na economia norte-americana\", declarou no sábado Rubio antes de partir para uma visita ao Uzbequistão e à Índia O secretário de Estado norte-americano salientou o impacto dos recentes conflitos nos preços da energia, incluindo a guerra travada pelos Estados Unidos contra o Irão e os ataques dos rebeldes Huthis do Iémen, pró-Irão, contra a Arábia Saudita \"Estes conflitos em todo o mundo começam a sobrepor-se uns aos outros e têm… «Chefe da diplomacia dos EUA relativiza isenção de sanções contra Moscovo» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Chefe da diplomacia dos EUA relativiza isenção de sanções contra Moscovo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 15.0,
+      "detailed_summary": "O drone terá entrado em espaço aéreo lituano a partir da Polónia, segundo a estação televisiva pública do país báltico, LRT Um drone obrigou este domingo à emissão de alertas aéreos na Lituânia e na Letónia e à descolagem de caças da NATO. O aparelho acabou por cair nas imediações de Pasvalys, no norte do território lituano, sobre a linha de fronteira com a Letónia. \"A guerra da Rússia contra a Ucrânia está a alargar-se ao flanco oriental da NATO e da União Europeia\", escreveu no X o presidente lituano, Gitanas Nauseda, sem, todavia, avançar com mais pormenores sobre a origem do aparelho A Polícia Militar lituana começou por ser alertada para uma aparente explosão em Pasvalys. «\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra",
+      "summary": "Mehrdad Akhlaghi, alvo de sanções da ONU, assumiu hoje formalmente a pasta da Defesa no Governo do Irão, substituindo no cargo o anterior ministro, morto no primeiro dia do ataque israelo-americano em 28 de fevereiro, foi hoje anunciado Segundo a televisão estatal iraniana, Mehrdad Akhlaghi recebeu hoje o voto de confiança do parlamento, que tem de dar sistematicamente o seu aval para que um ministro possa assumir funções, mas que também pode destituí-lo \"O reforço da Frente de Resistência [grupos armados hostis a Israel e aliados do Irão], ainda mais do que anteriormente, constituirá também um dos eixos principais do meu programa\", declarou o novo ministro perante o parlamento, segundo declarações citadas pela agência de notícias Tasnim Mehrdad Akhlaghi, de 68 anos, não é militar, tendo trabalhado 42 anos para o Ministério da Defesa, que irá agora dirigir Desde 2013, estava à frente da Organização das Indústrias de Defesa Iranianas, um organismo ligado ao Ministério da Defesa responsável pela conceção e fabrico de equipamento militar Segundo a imprensa local, Mehrdad Akhlaghi…",
+      "why": "«Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-18T11:14:23+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/mehrdad-akhlaghi-nomeado-ministro-da-defesa-oito-meses-apos-inicio-da-guerra_n1772452",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Mehrdad Akhlaghi, alvo de sanções da ONU, assumiu hoje formalmente a pasta da Defesa no Governo do Irão, substituindo no cargo o anterior ministro, morto no primeiro dia do ataque israelo-americano em 28 de fevereiro, foi hoje anunciado Segundo a televisão estatal iraniana, Mehrdad Akhlaghi recebeu hoje o voto de confiança do parlamento, que tem de dar sistematicamente o seu aval para que um ministro possa assumir funções, mas que também pode destituí-lo \"O reforço da Frente de Resistência [grupos armados hostis a Israel e aliados do Irão], ainda mais do que anteriormente, constituirá também um dos eixos principais do meu programa\", declarou o novo ministro perante o parlamento, segundo declarações citadas pela agência de notícias Tasnim Mehrdad Akhlaghi, de 68 anos, não é militar, tendo trabalhado 42 anos para o Ministério da Defesa, que irá agora dirigir Desde 2013, estava à frente da Organização das Indústrias de Defesa Iranianas, um organismo ligado ao Ministério da Defesa responsável pela conceção e fabrico de equipamento militar Segundo a imprensa local, Mehrdad Akhlaghi… «Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.62,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -96,11 +132,11 @@
       "impact": "No caso de «Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-17T16:00:00+00:00",
-      "age_hours": 15.8,
+      "age_hours": 21.0,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/17/energia-3/energia-limpa-brilho-atrai-mais-de-78-milhoes-de-dolares-de-capital-privado/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 2,
       "source_count": 2,
       "sources": [
@@ -118,54 +154,53 @@
       ],
       "opportunity_flag": true,
       "detailed_summary": "O Programa BRILHO, desenvolvido em Moçambique desde 2019 para promover o acesso à energia limpa fora da rede eléctrica nacional, mobilizou mais de 78 milhões de dólares em financiamento privado […]. «Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.21,
+      "editorial_score": 11.12,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "EUA \"muito preocupados\" com imagens de fotojornalista agredida na Cisjordânia",
-      "summary": "O chefe da diplomacia norte-americana declarou que os Estados Unidos estão \"muito preocupados\" com as imagens da agressão a uma fotojornalista do Washington Post por colonos israelitas e apelou a Israel para tomar medidas contra estes atos \"Estamos muito preocupados com estas imagens\", afirmou no sábado Marco Rubio aos jornalistas antes de partir para uma visita ao Uzbequistão e à Índia. \"Apelámos aos israelitas - e continuamos a apelar - para que tomem medidas firmes\", acrescentou Heidi Levine, fotojornalista norte-americana do Washington Post, foi transportada para o hospital com fraturas nas vértebras.",
-      "why": "«EUA \"muito preocupados\" com imagens de fotojornalista agredida na Cisjordânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «EUA \"muito preocupados\" com imagens de fotojornalista agredida na Cisjordânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-18T07:47:36+00:00",
-      "age_hours": 0.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/eua-muito-preocupados-com-imagens-de-fotojornalista-agredida-na-cisjordania_n1772421",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O chefe da diplomacia norte-americana declarou que os Estados Unidos estão \"muito preocupados\" com as imagens da agressão a uma fotojornalista do Washington Post por colonos israelitas e apelou a Israel para tomar medidas contra estes atos \"Estamos muito preocupados com estas imagens\", afirmou no sábado Marco Rubio aos jornalistas antes de partir para uma visita ao Uzbequistão e à Índia. \"Apelámos aos israelitas - e continuamos a apelar - para que tomem medidas firmes\", acrescentou Heidi Levine, fotojornalista norte-americana do Washington Post, foi transportada para o hospital com fraturas nas vértebras. «EUA \"muito preocupados\" com imagens de fotojornalista agredida na Cisjordânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «EUA \"muito preocupados\" com imagens de fotojornalista agredida na Cisjordânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.0,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
         "Economia"
       ],
-      "title": "Fábrica de cimento de Dondo aumenta capacidade de produção",
-      "summary": "A fábrica de cimento do Dondo, em Sofala, acaba de reforçar a sua capacidade de produção com a entrada em funcionamento de uma nova linha de produção de clínquer, com capacidade para três mil toneladas por dia, reduzindo a dependência de importações desta matéria-prima. A infra-estrutura entrou em operação este Outubro, na sequência de um projecto de ampliação e modernização iniciado em Maio de 2025, cujas obras foram executadas pela China Railway No.20 Bureau (Moçambique), Lda. Com o investimento, a capacidade anual de moagem de cimento deverá aumentar de 750 mil para 1,3 milhão de toneladas, reforçando o abastecimento do mercado da região Centro do país. O projecto inclui um sistema de geração de energia eléctrica a partir do calor residual, com capacidade de cinco megawatts, destinado a melhorar a eficiência energética da unidade industrial. A fábrica pertence à Huaxin Cement e foi fundada em 1949. O conteúdo Fábrica de cimento de Dondo aumenta capacidade de produção aparece primeiro em Jornal Notícias",
-      "why": "«Fábrica de cimento de Dondo aumenta capacidade de produção» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Fábrica de cimento de Dondo aumenta capacidade de produção», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "title": "Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL",
+      "summary": "Mais de 100 quilómetros de valas de rega e drenagem, no Regadio de Baixo Limpopo (RBL), nós distritos de Xai-Xai , Chongoene e Limpopo, em Gaza, serão limpos e reabilitadas, no âmbito das acções de recuperação pós-cheias. Para o efeito, foram disponibilizadas duas máquinas, financiadas pelo Programa de Desenvolvimento Inclusivo de Cadeias de Valor Agro-alimentares (PROCAVA) e pelo Fundo Nacional de Desenvolvimento Sustentável (FNDS), cuja entrega oficial foi feita, sábado (17), pelo Governador da província de Gaza, Alfeu Constantino Cuna. Com duração prevista de três meses e um orçamento superior a 12 milhões de Meticais, a intervenção irá abranger mais de 17 mil hectares de terras agrícolas e beneficiar 9 mil produtores. Falando aos órgãos de comunicação social, Alfeu Cuna referiu que a iniciativa visa melhorar o escoamento das águas, recuperar as infra-estruturas hidroagrícolas afectadas pelas cheias e criar melhores condições para a retoma da produção. O conteúdo Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL aparece primeiro em Jornal Notícias",
+      "why": "«Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-17T14:01:22+00:00",
-      "age_hours": 17.8,
+      "published": "2026-10-18T09:53:05+00:00",
+      "age_hours": 3.1,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/fabrica-de-cimento-de-dondo-aumenta-capacidade-de-producao/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/mais-de-100-quilometros-de-valas-de-drenagem-serao-reabilitadas-no-rbl/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Mais de 100 quilómetros de valas de rega e drenagem, no Regadio de Baixo Limpopo (RBL), nós distritos de Xai-Xai , Chongoene e Limpopo, em Gaza, serão limpos e reabilitadas, no âmbito das acções de recuperação pós-cheias. Para o efeito, foram disponibilizadas duas máquinas, financiadas pelo Programa de Desenvolvimento Inclusivo de Cadeias de Valor Agro-alimentares (PROCAVA) e pelo Fundo Nacional de Desenvolvimento Sustentável (FNDS), cuja entrega oficial foi feita, sábado (17), pelo Governador da província de Gaza, Alfeu Constantino Cuna. Com duração prevista de três meses e um orçamento superior a 12 milhões de Meticais, a intervenção irá abranger mais de 17 mil hectares de terras agrícolas e beneficiar 9 mil produtores. Falando aos órgãos de comunicação social, Alfeu Cuna referiu que a iniciativa visa melhorar o escoamento das águas, recuperar as infra-estruturas hidroagrícolas afectadas pelas cheias e criar melhores condições para a retoma da produção. O conteúdo Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL aparece primeiro em Jornal Notícias. «Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 9.35,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Chapo lamenta morte de 13 pessoas em acidente de viação",
+      "summary": "O Presidente da República, Daniel Chapo, endereça uma mensagem de condolências às famílias dos 13 cidadãos que morreram na sequência de um acidente de viação ocorrido no sábado (17), no povoado de Mazoe, distrito de Changara, província de Tete. Na missiva, o Chefe do Estado manifesta, em nome do Governo e do povo moçambicanos, e em seu próprio, profunda consternação pela perda de vidas humanas e endereça às famílias enlutadas as mais sentidas condolências, desejando-lhes conforto e força para enfrentar a irreparável perda dos seus entes queridos. O Presidente da República manifesta, igualmente, a sua solidariedade para com os 16 cidadãos que ficaram feridos em consequência do acidente, formulando votos de rápida recuperação e de pleno restabelecimento. Perante esta tragédia, o Presidente Daniel Chapo associa-se à dor das famílias afectadas e da população da província de Tete, partilhando o sentimento de pesar que acompanha esta perda de vidas humanas.",
+      "why": "«Chapo lamenta morte de 13 pessoas em acidente de viação» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Chapo lamenta morte de 13 pessoas em acidente de viação», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-18T09:40:37+00:00",
+      "age_hours": 3.4,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/chapo-lamenta-morte-de-13-pessoas-em-acidente-de-viacao/",
       "original_source": true,
       "event_id": "evt-mocambique-004",
       "cluster_size": 1,
@@ -175,123 +210,28 @@
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A fábrica de cimento do Dondo, em Sofala, acaba de reforçar a sua capacidade de produção com a entrada em funcionamento de uma nova linha de produção de clínquer, com capacidade para três mil toneladas por dia, reduzindo a dependência de importações desta matéria-prima. A infra-estrutura entrou em operação este Outubro, na sequência de um projecto de ampliação e modernização iniciado em Maio de 2025, cujas obras foram executadas pela China Railway No.20 Bureau (Moçambique), Lda. Com o investimento, a capacidade anual de moagem de cimento deverá aumentar de 750 mil para 1,3 milhão de toneladas, reforçando o abastecimento do mercado da região Centro do país. O projecto inclui um sistema de geração de energia eléctrica a partir do calor residual, com capacidade de cinco megawatts, destinado a melhorar a eficiência energética da unidade industrial. A fábrica pertence à Huaxin Cement e foi fundada em 1949. O conteúdo Fábrica de cimento de Dondo aumenta capacidade de produção aparece primeiro em Jornal Notícias. «Fábrica de cimento de Dondo aumenta capacidade de produção» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Fábrica de cimento de Dondo aumenta capacidade de produção», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 11.29,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca",
-      "summary": "O Conselho Municipal de Maputo está a procurar atrair investimentos chineses para impulsionar o desenvolvimento económico dos distritos municipais de KaTembe e KaNyaka, na Ilha de Inhaca, com destaque para […]",
-      "why": "«Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-17T15:00:00+00:00",
-      "age_hours": 16.8,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/17/economia/investimento/maputo-procura-investimento-chines-para-desenvolver-katembe-e-inhaca/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Conselho Municipal de Maputo está a procurar atrair investimentos chineses para impulsionar o desenvolvimento económico dos distritos municipais de KaTembe e KaNyaka, na Ilha de Inhaca, com destaque para […]. «Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Maputo Procura Investimento Chinês Para Desenvolver KaTembe e Inhaca», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.5,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Kalime solodariza-se com vítimas do terrorismo em Nangade",
-      "summary": "O primeiro secretário do comité provincial da Frelimo em Cabo Delgado, José Kalime, solidarizou-se esta tarde com a população do distrito de Nangade, que tem sofridos ataques sistemáticos de grupos terroristas. A mensagem de conforto às vítimas, foi transmitida na sede do posto administrativo de Ntamba, depois de kalime ter recebido informações através das FDS, que deram conta de um ataque terrorista ocorrido na noite de ontem para hoje, na aldeia Nkonga, cerca de 35 quilómetros da vila sede. “Ainda ontem recebemos a triste notícia de mais um ataque terroristas que deixou em pânico a nossa população. Não perca esperança, um dia este problema vai ter fim. O nosso presidente está a trabalhar igualmente incansavelmente, para acabar com a guerra. As nossas FDS continuam a perseguir os terroristas”.",
-      "why": "«Kalime solodariza-se com vítimas do terrorismo em Nangade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Kalime solodariza-se com vítimas do terrorismo em Nangade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-17T13:47:26+00:00",
-      "age_hours": 18.0,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/kalime-solodariza-se-com-vitimas-do-terrorismo-em-nangade/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O primeiro secretário do comité provincial da Frelimo em Cabo Delgado, José Kalime, solidarizou-se esta tarde com a população do distrito de Nangade, que tem sofridos ataques sistemáticos de grupos terroristas. A mensagem de conforto às vítimas, foi transmitida na sede do posto administrativo de Ntamba, depois de kalime ter recebido informações através das FDS, que deram conta de um ataque terrorista ocorrido na noite de ontem para hoje, na aldeia Nkonga, cerca de 35 quilómetros da vila sede. “Ainda ontem recebemos a triste notícia de mais um ataque terroristas que deixou em pânico a nossa população. Não perca esperança, um dia este problema vai ter fim. O nosso presidente está a trabalhar igualmente incansavelmente, para acabar com a guerra. As nossas FDS continuam a perseguir os terroristas”. «Kalime solodariza-se com vítimas do terrorismo em Nangade» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Kalime solodariza-se com vítimas do terrorismo em Nangade», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 10.25,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU",
-      "summary": "O antigo Presidente do Senegal, Macky Sall, desistiu da corrida ao cargo de secretário-geral das Nações Unidas, um dia depois de uma votação informal no Conselho de Segurança ter revelado dificuldades para a sua candidatura. Numa declaração publicada nas redes sociais, Sall afirmou que espera contribuir para o surgimento de um candidato de consenso. Na […]",
-      "why": "«Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "O País",
-      "published": "2026-10-17T15:13:01+00:00",
-      "age_hours": 16.6,
-      "within_24h": true,
-      "link": "https://opais.co.mz/macky-sall-desiste-da-candidatura-ao-cargo-de-secretario-geral-da-onu/",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "O País",
-        "RTP Notícias"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU",
-          "link": "https://www.rtp.pt/noticias/mundo/ex-presidente-do-senegal-retira-se-da-corrida-a-secretario-geral-da-onu_n1772329"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "O antigo Presidente do Senegal, Macky Sall, desistiu da corrida ao cargo de secretário-geral das Nações Unidas, um dia depois de uma votação informal no Conselho de Segurança ter revelado dificuldades para a sua candidatura. Numa declaração publicada nas redes sociais, Sall afirmou que espera contribuir para o surgimento de um candidato de consenso. Na […]. «Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Macky Sall desiste da candidatura ao cargo de secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 9.04,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, endereça uma mensagem de condolências às famílias dos 13 cidadãos que morreram na sequência de um acidente de viação ocorrido no sábado (17), no povoado de Mazoe, distrito de Changara, província de Tete. Na missiva, o Chefe do Estado manifesta, em nome do Governo e do povo moçambicanos, e em seu próprio, profunda consternação pela perda de vidas humanas e endereça às famílias enlutadas as mais sentidas condolências, desejando-lhes conforto e força para enfrentar a irreparável perda dos seus entes queridos. O Presidente da República manifesta, igualmente, a sua solidariedade para com os 16 cidadãos que ficaram feridos em consequência do acidente, formulando votos de rápida recuperação e de pleno restabelecimento. Perante esta tragédia, o Presidente Daniel Chapo associa-se à dor das famílias afectadas e da população da província de Tete, partilhando o sentimento de pesar que acompanha esta perda de vidas humanas. «Chapo lamenta morte de 13 pessoas em acidente de viação» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo lamenta morte de 13 pessoas em acidente de viação», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 9.29,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Economia"
       ],
-      "title": "Coreia do Norte testa novo sistema de torpedos com IA",
-      "summary": "A Coreia do Norte anunciou este sábado que testou um novo sistema de torpedos com inteligência artificial, dando seguimento a uma série recente de demonstrações de armamento.A agência noticiosa estatal KCNA informou que o ensaio envolveu o sistema de torpedos Zam-2.0, descrito como “super-rápido e de guiamento preciso”, que utiliza inteligência artificial para ajudar na deteção de alvos e na orientação.Segundo a mesma fonte, o teste permitiu confirmar os sistemas de propulsão da arma.O anúncio surge depois de Pyongyang ter testado, na quarta-feira, dois tipos de mísseis de cruzeiro estratégicos lançados debaixo de água, num movimento visto como uma tentativa de reforçar as suas capacidades navais.",
-      "why": "«Coreia do Norte testa novo sistema de torpedos com IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Coreia do Norte testa novo sistema de torpedos com IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "title": "Vários mortos e feridos após incidente em base militar do Canadá",
+      "summary": "Um \"incidente\" numa base militar canadiana provocou várias mortes e feridos, anunciou o ministro da Defesa do Canadá na noite de sábado.“Lamento ter de informar que houve mortos e feridos na sequência de um incidente na base”, declarou David McGuinty em comunicado, identificando o local como a Base das Forças Armadas Canadianas de Wainwright, em Alberta.O primeiro-ministro canadiano, Mark Carney, afirmou que no local “ocorreu um incidente grave que provocou um grande incêndio”.“Os nossos pensamentos estão com todas as mulheres e todos os homens corajosos afetados.",
+      "why": "«Vários mortos e feridos após incidente em base militar do Canadá» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Vários mortos e feridos após incidente em base militar do Canadá», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-17T08:26:43+00:00",
-      "age_hours": 23.4,
+      "published": "2026-10-18T12:02:34+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/17/coreia-do-norte-testa-novo-sistema-de-torpedos-com-ia",
+      "link": "https://pt.euronews.com/2026/10/18/varios-mortos-e-feridos-apos-incidente-em-base-militar-do-canada",
       "original_source": true,
-      "event_id": "evt-mundo-011",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -300,9 +240,38 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Coreia do Norte anunciou este sábado que testou um novo sistema de torpedos com inteligência artificial, dando seguimento a uma série recente de demonstrações de armamento.A agência noticiosa estatal KCNA informou que o ensaio envolveu o sistema de torpedos Zam-2.0, descrito como “super-rápido e de guiamento preciso”, que utiliza inteligência artificial para ajudar na deteção de alvos e na orientação.Segundo a mesma fonte, o teste permitiu confirmar os sistemas de propulsão da arma.O anúncio surge depois de Pyongyang ter testado, na quarta-feira, dois tipos de mísseis de cruzeiro estratégicos lançados debaixo de água, num movimento visto como uma tentativa de reforçar as suas capacidades navais. «Coreia do Norte testa novo sistema de torpedos com IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Coreia do Norte testa novo sistema de torpedos com IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 3.13,
+      "detailed_summary": "Um \"incidente\" numa base militar canadiana provocou várias mortes e feridos, anunciou o ministro da Defesa do Canadá na noite de sábado.“Lamento ter de informar que houve mortos e feridos na sequência de um incidente na base”, declarou David McGuinty em comunicado, identificando o local como a Base das Forças Armadas Canadianas de Wainwright, em Alberta.O primeiro-ministro canadiano, Mark Carney, afirmou que no local “ocorreu um incidente grave que provocou um grande incêndio”.“Os nossos pensamentos estão com todas as mulheres e todos os homens corajosos afetados. «Vários mortos e feridos após incidente em base militar do Canadá» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Vários mortos e feridos após incidente em base militar do Canadá», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.79,
       "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU",
+      "summary": "O antigo Presidente do Senegal Macky Sall anunciou hoje que retirava a sua candidatura ao cargo de secretário-geral da ONU, na sequência de uma primeira votação indicativa do Conselho de Segurança, onde nenhum candidato obteve consenso Numa declaração publicada nas redes sociais, Macky Sall afirmou ter tomado esta decisão \"na esperança de contribuir assim para o surgimento de uma candidatura consensual no seio do Conselho de Segurança\" Na sexta-feira à noite, os membros permanentes do Conselho de Segurança vetaram todos os atuais candidatos ao cargo de secretário-geral da ONU, numa votação informal, segundo fontes diplomáticas Fonte diplomática afirmou à AFP que na votação, com carácter indicativo, nenhum dos sete candidatos conseguiu evitar um voto negativo das cinco potências --- Grã-Bretanha, França, Estados Unidos, China e Rússia ---, o que abre caminho ao surgimento de prováveis novas candidaturas Na sexta votação à porta fechada (conhecida como straw poll), e que deverá ser a última consulta, os 15 membros atribuíram, de forma anónima, uma classificação a cada candidato…",
+      "why": "«Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "RTP Notícias",
+      "published": "2026-10-17T14:19:35+00:00",
+      "age_hours": 22.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/ex-presidente-do-senegal-retira-se-da-corrida-a-secretario-geral-da-onu_n1772329",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O antigo Presidente do Senegal Macky Sall anunciou hoje que retirava a sua candidatura ao cargo de secretário-geral da ONU, na sequência de uma primeira votação indicativa do Conselho de Segurança, onde nenhum candidato obteve consenso Numa declaração publicada nas redes sociais, Macky Sall afirmou ter tomado esta decisão \"na esperança de contribuir assim para o surgimento de uma candidatura consensual no seio do Conselho de Segurança\" Na sexta-feira à noite, os membros permanentes do Conselho de Segurança vetaram todos os atuais candidatos ao cargo de secretário-geral da ONU, numa votação informal, segundo fontes diplomáticas Fonte diplomática afirmou à AFP que na votação, com carácter indicativo, nenhum dos sete candidatos conseguiu evitar um voto negativo das cinco potências --- Grã-Bretanha, França, Estados Unidos, China e Rússia ---, o que abre caminho ao surgimento de prováveis novas candidaturas Na sexta votação à porta fechada (conhecida como straw poll), e que deverá ser a última consulta, os 15 membros atribuíram, de forma anónima, uma classificação a cada candidato… «Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 7.27,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     }
   ],
