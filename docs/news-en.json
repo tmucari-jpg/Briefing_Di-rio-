@@ -1,10 +1,47 @@
 {
-  "updated_at": "2026-10-17T22:56:32.633709+00:00",
+  "updated_at": "2026-10-18T07:50:32.127344+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Several dead or injured in major fire at Canada military base",
+      "summary": "Canadian Forces Base Wainwright is a busy military training base used for live-fire exercises Several people have been killed or injured as a result of a large fire near a Canadian military base in Alberta, the nation's defence minister has said David McGuinty did not confirm the cause or the number of casualties, describing the situation as \"very, very active and delicate\".",
+      "why": "«Several dead or injured in major fire at Canada military base» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Several dead or injured in major fire at Canada military base», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-18T07:09:23+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "DW English"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "DW English",
+          "title": "Canada: Major fire reported at military base in Alberta",
+          "link": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Canadian Forces Base Wainwright is a busy military training base used for live-fire exercises Several people have been killed or injured as a result of a large fire near a Canadian military base in Alberta, the nation's defence minister has said David McGuinty did not confirm the cause or the number of casualties, describing the situation as \"very, very active and delicate\". «Several dead or injured in major fire at Canada military base» is worth following because of its possible economic, institutional or regional effects. For «Several dead or injured in major fire at Canada military base», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 12.35,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -17,7 +54,7 @@
       "impact": "For «Canada to support 200 Mozambican SMEs», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-16T09:18:56+00:00",
-      "age_hours": 37.6,
+      "age_hours": 46.5,
       "within_24h": false,
       "link": "https://aimnews.org/2026/10/16/canada-to-support-200-mozambican-smes/",
       "original_source": true,
@@ -31,53 +68,24 @@
       "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 16 Oct (AIM) – The Canadian government, through its initiative “Trade for Resilient, Inclusive and Sustainable Economic Growth” (TRISEG), will support 200 Mozambican small and medium-sized enterprises (SMEs), focusing on strengthening business competitiveness, export capacity, digital transformation and climate resilience. The project, which is expected to cover 60 percent of businesses owned or led by women, is Funded by Global Affairs Canada (GAC) and implemented by TFO Canada in partnership with the Mozambique’s Institute for the Promotion of Small and Medium-sized Enterprises (IPEME). TRISEG is a regional initiative to Empower SMEs in Developing Countries. In Africa, it covers eight countries: Mozambique, Côte d’Ivoire, Ethiopia, Kenya, Madagascar, Nigeria, Senegal and Zambia. Speaking at the project launch ceremony, Pascale Thivierge, Head of Cooperation at the High Commission of Canada in Mozambique, reaffirmed Canada’s commitment to strengthening economic and trade relations with Mozambique. «Canada to support 200 Mozambican SMEs» matters because it may change energy and investment decisions affecting Moçambique. For «Canada to support 200 Mozambican SMEs», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 12.07,
+      "editorial_score": 11.8,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "Anti-government protesters battle with police in Albania",
-      "summary": "Watch: The BBC reports from Tirana, where violent protests grew on Saturday Demonstrators and riot police fought pitched battles in the centre of Tirana on Saturday for the fifth day in a row Masked protesters, many of them high school and university students, hurled rocks and petrol bombs at riot police trying to defend the education ministry, one of the focal points of the protests The police responded with water cannon and volleys of tear gas, sending the crowds scattering.",
-      "why": "«Anti-government protesters battle with police in Albania» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Anti-government protesters battle with police in Albania», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-17T20:53:00+00:00",
-      "age_hours": 2.1,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Watch: The BBC reports from Tirana, where violent protests grew on Saturday Demonstrators and riot police fought pitched battles in the centre of Tirana on Saturday for the fifth day in a row Masked protesters, many of them high school and university students, hurled rocks and petrol bombs at riot police trying to defend the education ministry, one of the focal points of the protests The police responded with water cannon and volleys of tear gas, sending the crowds scattering. «Anti-government protesters battle with police in Albania» matters because it may change energy and investment decisions affecting Mundo. For «Anti-government protesters battle with police in Albania», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.56,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-      "summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz",
-      "why": "«Iranian TV airs video said to show tanker explosion in Hormuz» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Iranian TV airs video said to show tanker explosion in Hormuz», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+      "summary": "Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic",
+      "why": "«Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-10-17T20:02:22+00:00",
-      "age_hours": 2.9,
+      "published": "2026-10-18T06:34:02+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
+      "link": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-mundo-004",
       "cluster_size": 1,
@@ -88,8 +96,8 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz. «Iranian TV airs video said to show tanker explosion in Hormuz» matters because it may change energy and investment decisions affecting Mundo. For «Iranian TV airs video said to show tanker explosion in Hormuz», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.4,
+      "detailed_summary": "Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic. «Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title» deserves attention because it may change political, diplomatic or security risks. For «Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.73,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -104,7 +112,7 @@
       "impact": "For «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-16T14:59:40+00:00",
-      "age_hours": 31.9,
+      "age_hours": 40.8,
       "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambique-grain-institute-explores-cooperation-opportunities-at-trade-expo-indonesia/",
       "original_source": true,
@@ -118,9 +126,67 @@
       "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "The Mozambique Grain Institute (ICM), represented by its Director-General, Luís Jobe Fazenda, is participating in the 41st edition of Trade Expo Indonesia (TEI), the largest trade and investment platform in Southeast Asia, taking place from 14 to 18 October at the Indonesia Convention Exhibition (ICE), in Greater Jakarta Photo: Instituto de Cereais de Moçambique, IP The ICM is part of the official delegation of the Ministry of Economy, headed by the Secretary of State for Trade, António Grispos As a central player in the agricultural marketing value chain, the ICM is taking part in this global forum to develop cooperation opportunities covering everything from strategic supply to the final marketing of products. «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.25,
+      "editorial_score": 10.97,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Israel’s ties with Europe are fraying. Can its election change that?",
+      "summary": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians",
+      "why": "«Israel’s ties with Europe are fraying. Can its election change that?» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Israel’s ties with Europe are fraying. Can its election change that?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-18T07:05:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians. «Israel’s ties with Europe are fraying. Can its election change that?» is worth following because of its possible economic, institutional or regional effects. For «Israel’s ties with Europe are fraying. Can its election change that?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
+      "summary": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition The ruling coalition of populist billionaire Czech Prime Minister Andrej Babis has failed to win a single seat in elections in the Senate The result means pro-Western opposition parties control the chamber, the upper house of parliament The election on Saturday was the first electoral test for Babis after he won parliamentary elections in October 2025 that returned him to power after a break of four years since his first term as premier Final results from the two-day ballot showed that candidates directly linked to the opposition parties won 22 of the 27 seats up for grabs in the 81-member Senate, retaining a previous opposition majority The centrist ANO (or YES) movement led by Babis failed to win any more seats, leaving it with 14 Senate lawmakers Babis called the result \"catastrophic.\" \"We certainly didn't expect that we wouldn't win a single Senate seat in this election,\" he said, but vowed to nonetheless go ahead with his government's agenda That…",
+      "why": "«Populist Czech PM Babis goes empty-handed in Senate elections» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Populist Czech PM Babis goes empty-handed in Senate elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "DW English",
+      "published": "2026-10-18T07:03:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition The ruling coalition of populist billionaire Czech Prime Minister Andrej Babis has failed to win a single seat in elections in the Senate The result means pro-Western opposition parties control the chamber, the upper house of parliament The election on Saturday was the first electoral test for Babis after he won parliamentary elections in October 2025 that returned him to power after a break of four years since his first term as premier Final results from the two-day ballot showed that candidates directly linked to the opposition parties won 22 of the 27 seats up for grabs in the 81-member Senate, retaining a previous opposition majority The centrist ANO (or YES) movement led by Babis failed to win any more seats, leaving it with 14 Senate lawmakers Babis called the result \"catastrophic.\" \"We certainly didn't expect that we wouldn't win a single Senate seat in this election,\" he said, but vowed to nonetheless go ahead with his government's agenda That… «Populist Czech PM Babis goes empty-handed in Senate elections» is worth following because of its possible economic, institutional or regional effects. For «Populist Czech PM Babis goes empty-handed in Senate elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
@@ -133,7 +199,7 @@
       "impact": "For «Revenue from LNG is for current development and future generations – Finance Minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-16T09:40:28+00:00",
-      "age_hours": 37.3,
+      "age_hours": 46.2,
       "within_24h": false,
       "link": "https://aimnews.org/2026/10/16/revenue-from-lng-is-for-current-development-and-future-generations-finance-minister/",
       "original_source": true,
@@ -147,7 +213,7 @@
       "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 16 Oct (AIM) – The Mozambican Government has stressed that revenue from liquefied natural gas (LNG) production will be used both to finance the country’s current development and to create wealth for future generations. “The Mozambican Government’s objective is indeed to ensure that revenue from natural gas can generate intergenerational wealth. The Sovereign Wealth Fund Law is already producing tangible results by establishing a division of LNG revenue between public expenditure and savings”, said Carla Loveira, Finance Minister. “We do not want all the resources to be entirely consumed by the current budget”, she added. Under the model currently in force, around 60 percent of revenue is channelled to the State Budget, while the remaining 40 percent goes into a savings account managed by the Bank of Mozambique. According to the minister, the funds are already financing major infrastructure projects. «Revenue from LNG is for current development and future generations – Finance Minister» matters because it may change energy and investment decisions affecting Moçambique. For «Revenue from LNG is for current development and future generations – Finance Minister», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 11.08,
+      "editorial_score": 10.81,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
     },
@@ -156,76 +222,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "summary": "An 80m (263ft) luxury vessel has been repeatedly spotted in satellite images off North Korea's Wonsan coast from July to mid-October this year What stands out is the 50m swimming pool along the deck, with a cluster of waterslides at one end After sitting idle for months at a maintenance facility, it relocated in early July to waters off a strip of coastline known as the Kalma Peninsula This is close to Wonsan, a seaside resort with a sprawling villa used by North Korean leader Kim Jong Un and his family It was not the only large vessel on the move. A handful of others were also repeatedly seen near Kim's villa, in satellite images analysed by the BBC The vessels are widely believed to be used by Kim and his family. Former North Korean officials, defectors and experts say it would be difficult for anyone unconnected to the regime's leadership to own or freely use vessels of this size \"In winter, they would keep them at the shipyard.",
-      "why": "«Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-17T22:09:50+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "An 80m (263ft) luxury vessel has been repeatedly spotted in satellite images off North Korea's Wonsan coast from July to mid-October this year What stands out is the 50m swimming pool along the deck, with a cluster of waterslides at one end After sitting idle for months at a maintenance facility, it relocated in early July to waters off a strip of coastline known as the Kalma Peninsula This is close to Wonsan, a seaside resort with a sprawling villa used by North Korean leader Kim Jong Un and his family It was not the only large vessel on the move. A handful of others were also repeatedly seen near Kim's villa, in satellite images analysed by the BBC The vessels are widely believed to be used by Kim and his family. Former North Korean officials, defectors and experts say it would be difficult for anyone unconnected to the regime's leadership to own or freely use vessels of this size \"In winter, they would keep them at the shipyard. «Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat» is worth following because of its possible economic, institutional or regional effects. For «Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.83,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
-      "summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU",
-      "why": "«Cost of living protests hit Belgium, Italy, Portugal and France» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Cost of living protests hit Belgium, Italy, Portugal and France», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-17T21:02:26+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU. «Cost of living protests hit Belgium, Italy, Portugal and France» is worth following because of its possible economic, institutional or regional effects. For «Cost of living protests hit Belgium, Italy, Portugal and France», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.6,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "China's influence in the gaming industry is growing",
-      "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world In a dark underground hideout, dim light spills from a handful of oil lamps. A comrade fiddles with a rifle. A red flag hangs on one of the roughly hewn stone walls, bearing a hammer and sickle on a white star — the symbol of the Chinese Workers' and Peasants' Red Army. Weapons are scattered on the ground. One is picked up, and soon the action moves into the snowy forest, where gunfire erupts among the trees Such a scene could fit in a new installment of \"Call of Duty,\" the popular first-person shooter game that transports players to battlefields past, present, and future.",
-      "why": "«China's influence in the gaming industry is growing» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «China's influence in the gaming industry is growing», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "India: CJP leader Abhijeet Dipke released after detention",
+      "summary": "Two other prominent CJP leaders are set to be released on Sunday. India has seen huge rallies calling on the country's top election official to step down over alleged manipulation of voter rolls Abhijeet Dipke, the founder of the Cockroach Janta Party (CJP), was released on Saturday, a day after he was detained by the Delhi police during protests against the election authority in India The 31-year-old youth leader was detained while he was trying to join the protest rally which the CJP movement had called in the capital's central Connaught Place district The movement published a photo of him on X in which it referred to Dipke as \"a free man.\" \"Abhijeet Dipke released,\" CJP legal affairs chief Ratna Singh said on social media Singh said Dipke was released after agreeing to certain conditions.",
+      "why": "«India: CJP leader Abhijeet Dipke released after detention» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «India: CJP leader Abhijeet Dipke released after detention», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "DW English",
-      "published": "2026-10-17T14:49:00+00:00",
-      "age_hours": 8.1,
+      "published": "2026-10-18T06:29:00+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-008",
+      "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -234,8 +241,8 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world In a dark underground hideout, dim light spills from a handful of oil lamps. A comrade fiddles with a rifle. A red flag hangs on one of the roughly hewn stone walls, bearing a hammer and sickle on a white star — the symbol of the Chinese Workers' and Peasants' Red Army. Weapons are scattered on the ground. One is picked up, and soon the action moves into the snowy forest, where gunfire erupts among the trees Such a scene could fit in a new installment of \"Call of Duty,\" the popular first-person shooter game that transports players to battlefields past, present, and future. «China's influence in the gaming industry is growing» matters because it may change energy and investment decisions affecting Mundo. For «China's influence in the gaming industry is growing», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 10.31,
+      "detailed_summary": "Two other prominent CJP leaders are set to be released on Sunday. India has seen huge rallies calling on the country's top election official to step down over alleged manipulation of voter rolls Abhijeet Dipke, the founder of the Cockroach Janta Party (CJP), was released on Saturday, a day after he was detained by the Delhi police during protests against the election authority in India The 31-year-old youth leader was detained while he was trying to join the protest rally which the CJP movement had called in the capital's central Connaught Place district The movement published a photo of him on X in which it referred to Dipke as \"a free man.\" \"Abhijeet Dipke released,\" CJP legal affairs chief Ratna Singh said on social media Singh said Dipke was released after agreeing to certain conditions. «India: CJP leader Abhijeet Dipke released after detention» is worth following because of its possible economic, institutional or regional effects. For «India: CJP leader Abhijeet Dipke released after detention», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.71,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -250,8 +257,8 @@
       "impact": "For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-17T04:01:42+00:00",
-      "age_hours": 18.9,
-      "within_24h": true,
+      "age_hours": 27.8,
+      "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambique-ane-awards-20-6-billion-meticais-for-inhambane-and-sofala-road-contracts/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
@@ -261,12 +268,12 @@
         "Club of Mozambique"
       ],
       "primary_source": "Club of Mozambique",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "According to the contract award notices published by ANE’s provincial delegations, the contracts concern new lots for road engineering and paving projects, five of which are located in Inhambane province, in southern Mozambique, and four in Sofala, in the centre of the country The awards fall under the 2026–2031 Accelerated National Road Rehabilitation and Construction Programme, known as “More Roads – 2031”, and cover national and regional road links In Inhambane province, the contracts total 285 kilometres and 10,104,807,009 meticais (€143.6 million) The contracts were awarded to a consortium comprising the companies Maripoma Entreprise Limitada, from Mozambique, Maripoma Entreprise Limitada, from Ghana, CC Building Limitada and GWIC Moçambique Limitada The largest lot in Inhambane covers the 70-kilometre Sitila–Funhalouro section of road R444, awarded for 2,469,027,132 meticais (€35 million) On the same road corridor, the 40-kilometre Massinga–Sitila section was awarded for 1,612,980,998 meticais (€22.9 million) On national road N222, the 58-kilometre Mapinhane–Macumene section… «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 10.06,
+      "editorial_score": 9.38,
       "source_tier": "B",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
