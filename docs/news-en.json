@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T13:02:05.470885+00:00",
+  "updated_at": "2026-10-18T17:53:04.895252+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,37 +8,58 @@
     {
       "section": "Mundo",
       "tags": [
+        "Segurança"
+      ],
+      "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+      "summary": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'",
+      "why": "«‘Hybrid warfare’: Taiwan drives away 16 Chinese ships» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «‘Hybrid warfare’: Taiwan drives away 16 Chinese ships», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-18T16:25:52+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'. «‘Hybrid warfare’: Taiwan drives away 16 Chinese ships» deserves attention because it may change political, diplomatic or security risks. For «‘Hybrid warfare’: Taiwan drives away 16 Chinese ships», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.69,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Energia"
       ],
-      "title": "Several dead or injured in major fire at Canada military base",
-      "summary": "Ambulances lined up outside Wainwright Health Centre after the deadly blast at Canadian Forces Base Wainwright Several people have been killed or injured as a result of a large fire near a Canadian military base in Alberta, the nation's military has said The Canadian Armed Forces (CAF) said the full extent of the incident's impact was being assessed and that details of casualties and injuries would not be made public until that was complete Canadian Forces Base Wainwright, where the fire broke out around 16:00 local time (22:00 GMT) on Saturday, is one of the country's busiest military training bases Canadian TV network Global News reported that at least seven were killed and dozens more injured when a gas line or gas well was hit during a live-fire training exercise, citing unnamed military sources Defence Minister David McGuinty said the CAF and local authorities were managing the fire, describing the situation as \"very, very active and delicate\" Canada's Prime Minister Mark Carney said his \"thoughts are with all the brave women and men affected\" The Canadian Broadcasting…",
-      "why": "«Several dead or injured in major fire at Canada military base» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Several dead or injured in major fire at Canada military base», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "summary": "The St Petersburg Oil Terminal was among targets hit in the city overnight At least one person has been killed in an overnight attack on St Petersburg that successfully targeted two of the city's oil facilities The region's Governor Alexander Beglov said fires were being extinguished at the St Petersburg Oil Terminal and the Ruchyi oil depot following the attack, which also injured at least five A logistics centre belonging to Ozon - known as Russia's Amazon - and a data centre belonging to Facebook equivalent VKontakte were also hit Kyiv has not yet commented on the strikes.",
+      "why": "«Oil facilities hit in deadly overnight attack on St Petersburg» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Oil facilities hit in deadly overnight attack on St Petersburg», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "BBC World",
-      "published": "2026-10-18T12:41:59+00:00",
-      "age_hours": 0.3,
+      "published": "2026-10-18T15:46:10+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 2,
-      "source_count": 2,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "BBC World",
-        "DW English"
+        "BBC World"
       ],
       "primary_source": "BBC World",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "DW English",
-          "title": "Canada: Major fire reported at military base in Alberta",
-          "link": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "Ambulances lined up outside Wainwright Health Centre after the deadly blast at Canadian Forces Base Wainwright Several people have been killed or injured as a result of a large fire near a Canadian military base in Alberta, the nation's military has said The Canadian Armed Forces (CAF) said the full extent of the incident's impact was being assessed and that details of casualties and injuries would not be made public until that was complete Canadian Forces Base Wainwright, where the fire broke out around 16:00 local time (22:00 GMT) on Saturday, is one of the country's busiest military training bases Canadian TV network Global News reported that at least seven were killed and dozens more injured when a gas line or gas well was hit during a live-fire training exercise, citing unnamed military sources Defence Minister David McGuinty said the CAF and local authorities were managing the fire, describing the situation as \"very, very active and delicate\" Canada's Prime Minister Mark Carney said his \"thoughts are with all the brave women and men affected\" The Canadian Broadcasting… «Several dead or injured in major fire at Canada military base» matters because it may change energy and investment decisions affecting Mundo. For «Several dead or injured in major fire at Canada military base», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 13.44,
+      "detailed_summary": "The St Petersburg Oil Terminal was among targets hit in the city overnight At least one person has been killed in an overnight attack on St Petersburg that successfully targeted two of the city's oil facilities The region's Governor Alexander Beglov said fires were being extinguished at the St Petersburg Oil Terminal and the Ruchyi oil depot following the attack, which also injured at least five A logistics centre belonging to Ozon - known as Russia's Amazon - and a data centre belonging to Facebook equivalent VKontakte were also hit Kyiv has not yet commented on the strikes. «Oil facilities hit in deadly overnight attack on St Petersburg» matters because it may change energy and investment decisions affecting Mundo. For «Oil facilities hit in deadly overnight attack on St Petersburg», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 11.56,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -53,11 +74,11 @@
       "impact": "For «European diplomats attacked by Israeli settlers in West Bank», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "BBC World",
       "published": "2026-10-18T12:16:14+00:00",
-      "age_hours": 0.8,
+      "age_hours": 5.6,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -67,26 +88,26 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Masked settlers are accused of attacking the convoy A delegation of European diplomats has been attacked by masked Israeli settlers in the occupied West Bank Belgium condemned the assault on its consul general and the other envoys, while France decried the attack as \"appalling\". Both called for Israel to bring those responsible to justice The Israel Defense Forces (IDF) also condemned what they called \"the severe act of violence\" and said they were investigating But the office of the Prime Minister Benjamin Netanyahu cast doubt on what happened, suggesting it was part of a \"co-ordinated campaign to smear Israel\" The attack came only a day after a number of Palestinians and Heidi Levine, a Washington Post photographer, were injured in a separate assault by settlers in another village in the West Bank US Secretary of State Marco Rubio said the attack on Levine was \"disturbing\" and \"not a good look\" It was also condemned by the US ambassador to Israel, Mike Huckabee, who called it a \"despicable act of terror carried out by masked cowards\". «European diplomats attacked by Israeli settlers in West Bank» deserves attention because it may change political, diplomatic or security risks. For «European diplomats attacked by Israeli settlers in West Bank», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.83,
+      "editorial_score": 10.83,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
-      "summary": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it",
-      "why": "«There’s a ‘New Middle East’, but not the one Israel planned» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «There’s a ‘New Middle East’, but not the one Israel planned», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "title": "Trump endorses Netanyahu in Israeli legislative elections",
+      "summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader",
+      "why": "«Trump endorses Netanyahu in Israeli legislative elections» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Trump endorses Netanyahu in Israeli legislative elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-10-18T12:07:34+00:00",
-      "age_hours": 0.9,
+      "published": "2026-10-18T16:36:26+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -95,37 +116,8 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it. «There’s a ‘New Middle East’, but not the one Israel planned» deserves attention because it may change political, diplomatic or security risks. For «There’s a ‘New Middle East’, but not the one Israel planned», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.81,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
-      "summary": "Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production",
-      "why": "«Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?» points to a concrete change in the adoption, regulation or use of technology.",
-      "impact": "For «Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-18T12:00:04+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production. «Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?» points to a concrete change in the adoption, regulation or use of technology. For «Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
-      "editorial_score": 11.79,
+      "detailed_summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader. «Trump endorses Netanyahu in Israeli legislative elections» is worth following because of its possible economic, institutional or regional effects. For «Trump endorses Netanyahu in Israeli legislative elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.73,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -140,28 +132,21 @@
       "impact": "For «What help can Egypt offer Saudi Arabia in the war against the Houthis?», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "Al Jazeera English",
       "published": "2026-10-18T11:11:26+00:00",
-      "age_hours": 1.8,
+      "age_hours": 6.7,
       "within_24h": true,
       "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 2,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "Al Jazeera English"
       ],
       "primary_source": "Al Jazeera English",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Al Jazeera English",
-          "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
-          "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss"
-        }
-      ],
       "opportunity_flag": false,
       "detailed_summary": "Analysts say that any move from Egypt will remain 'strictly defensive', as the conflict in Yemen intensifies. «What help can Egypt offer Saudi Arabia in the war against the Houthis?» deserves attention because it may change political, diplomatic or security risks. For «What help can Egypt offer Saudi Arabia in the war against the Houthis?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 11.62,
+      "editorial_score": 10.6,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -176,11 +161,11 @@
       "impact": "For «Vietnam signs free trade deal with four European countries», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "DW English",
       "published": "2026-10-18T09:19:00+00:00",
-      "age_hours": 3.7,
+      "age_hours": 8.6,
       "within_24h": true,
       "link": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-009",
+      "event_id": "evt-mundo-011",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -190,38 +175,38 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Vietnam has signed a deal with four non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development, among other areas Vietnam and four European countries signed a free trade agreement in Hanoi on Sunday The deal was announced by the governments of Vietnam and Norway Vietnam's Trade Ministry said it signed the deal with the European Free Trade Association (EFTA), which is made up Norway , Switzerland , Iceland and Liechtenstein The four European countries are not part of the European Union (EU) The official talks between Vietnam and the EFTA began in 2012. «Vietnam signs free trade deal with four European countries» helps explain a concrete economic or business change relevant to Mundo. For «Vietnam signs free trade deal with four European countries», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.23,
+      "editorial_score": 10.21,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia",
-      "summary": "The Mozambique Grain Institute (ICM), represented by its Director-General, Luís Jobe Fazenda, is participating in the 41st edition of Trade Expo Indonesia (TEI), the largest trade and investment platform in Southeast Asia, taking place from 14 to 18 October at the Indonesia Convention Exhibition (ICE), in Greater Jakarta Photo: Instituto de Cereais de Moçambique, IP The ICM is part of the official delegation of the Ministry of Economy, headed by the Secretary of State for Trade, António Grispos As a central player in the agricultural marketing value chain, the ICM is taking part in this global forum to develop cooperation opportunities covering everything from strategic supply to the final marketing of products.",
-      "why": "«Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-16T14:59:40+00:00",
-      "age_hours": 46.0,
-      "within_24h": false,
-      "link": "https://clubofmozambique.com/news/mozambique-grain-institute-explores-cooperation-opportunities-at-trade-expo-indonesia/",
+      "title": "Sudan army accused of drone strike on livestock market",
+      "summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit",
+      "why": "«Sudan army accused of drone strike on livestock market» helps explain a concrete economic or business change relevant to África.",
+      "impact": "For «Sudan army accused of drone strike on livestock market», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-18T13:37:03+00:00",
+      "age_hours": 4.3,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Club of Mozambique"
+        "Al Jazeera English"
       ],
-      "primary_source": "Club of Mozambique",
-      "status": "update",
-      "opportunity_flag": true,
-      "detailed_summary": "The Mozambique Grain Institute (ICM), represented by its Director-General, Luís Jobe Fazenda, is participating in the 41st edition of Trade Expo Indonesia (TEI), the largest trade and investment platform in Southeast Asia, taking place from 14 to 18 October at the Indonesia Convention Exhibition (ICE), in Greater Jakarta Photo: Instituto de Cereais de Moçambique, IP The ICM is part of the official delegation of the Ministry of Economy, headed by the Secretary of State for Trade, António Grispos As a central player in the agricultural marketing value chain, the ICM is taking part in this global forum to develop cooperation opportunities covering everything from strategic supply to the final marketing of products. «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Grain Institute explores cooperation opportunities at Trade Expo Indonesia», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 10.81,
-      "source_tier": "B",
-      "editorial_status": "ACTUALIZAÇÃO"
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit. «Sudan army accused of drone strike on livestock market» helps explain a concrete economic or business change relevant to África. For «Sudan army accused of drone strike on livestock market», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 10.1,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
@@ -234,7 +219,7 @@
       "impact": "For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-17T04:01:42+00:00",
-      "age_hours": 33.0,
+      "age_hours": 37.9,
       "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambique-ane-awards-20-6-billion-meticais-for-inhambane-and-sofala-road-contracts/",
       "original_source": true,
@@ -248,7 +233,7 @@
       "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "According to the contract award notices published by ANE’s provincial delegations, the contracts concern new lots for road engineering and paving projects, five of which are located in Inhambane province, in southern Mozambique, and four in Sofala, in the centre of the country The awards fall under the 2026–2031 Accelerated National Road Rehabilitation and Construction Programme, known as “More Roads – 2031”, and cover national and regional road links In Inhambane province, the contracts total 285 kilometres and 10,104,807,009 meticais (€143.6 million) The contracts were awarded to a consortium comprising the companies Maripoma Entreprise Limitada, from Mozambique, Maripoma Entreprise Limitada, from Ghana, CC Building Limitada and GWIC Moçambique Limitada The largest lot in Inhambane covers the 70-kilometre Sitila–Funhalouro section of road R444, awarded for 2,469,027,132 meticais (€35 million) On the same road corridor, the 40-kilometre Massinga–Sitila section was awarded for 1,612,980,998 meticais (€22.9 million) On national road N222, the 58-kilometre Mapinhane–Macumene section… «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 9.22,
+      "editorial_score": 9.07,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
     }
@@ -272,8 +257,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 2,
-    "África": 1,
+    "Moçambique": 1,
+    "África": 2,
     "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",

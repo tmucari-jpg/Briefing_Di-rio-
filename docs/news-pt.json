@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T13:01:59.578889+00:00",
+  "updated_at": "2026-10-18T17:52:59.663377+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,11 +16,11 @@
       "impact": "No caso de «Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-18T11:13:52+00:00",
-      "age_hours": 1.8,
+      "age_hours": 6.6,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/18/mocambique-defende-accao-internacional-coordenada-contra-terrorismo-e-alteracoes-climaticas/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,7 +30,36 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 18 de Out (AIM)— Moçambique defendeu, em Bagdade, uma acção internacional coordenada para combater o terrorismo e o extremismo violento, reforçar a adaptação às alterações climáticas e promover a paz e a segurança internacionais, considerando o diálogo, a diplomacia e a cooperação entre os Estados fundamentais para enfrentar os actuais desafios globais. A posição foi apresentada pelo ministro da Justiça, Assuntos Constitucionais e Religiosos, Mateus Saize, na 52.ª Sessão do Conselho de Ministros da Organização da Cooperação Islâmica (OCI), que decorreu nos dias 17 e 18 de Outubro, na capital iraquiana, sob o lema «O Diálogo e a Solidariedade são Pilares Fundamentais para Avançar na Paz e no Desenvolvimento Sustentável». Na sua intervenção, o ministro apontou o terrorismo, as disputas comerciais entre as principais potências mundiais e os efeitos das alterações climáticas, incluindo ciclones, cheias e secas, entre os desafios que afectam Moçambique no actual contexto internacional. «Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 14.62,
+      "editorial_score": 13.62,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas",
+      "summary": "Moçambique exportou 6400 toneladas de gergelim para a União Europeia e o Japão nos últimos seis meses, sem registar qualquer rejeição dos produtos nestes mercados, um resultado alcançado pela primeira […]",
+      "why": "«Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-18T13:00:00+00:00",
+      "age_hours": 4.9,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/18/negocios/agronegocios/exportacoes-de-gergelim-para-ue-e-japao-atingem-64-mil-toneladas/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Moçambique exportou 6400 toneladas de gergelim para a União Europeia e o Japão nos últimos seis meses, sem registar qualquer rejeição dos produtos nestes mercados, um resultado alcançado pela primeira […]. «Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 11.98,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -45,11 +74,11 @@
       "impact": "No caso de «Chapo apela à condução responsável após acidente que matou 13 pessoas em Tete», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-18T11:02:23+00:00",
-      "age_hours": 2.0,
+      "age_hours": 6.8,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/18/chapo-apela-a-conducao-responsavel-apos-acidente-que-matou-13-pessoas-em-tete/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -59,24 +88,53 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 18 de Out (AIM) – O Presidente da República, Daniel Chapo, manifestou hoje, profunda consternação pela morte de 13 cidadãos num acidente de viação ocorrido no sábado, 17 de Outubro, no povoado de Mazoe, distrito de Changara, província de Tete, e apelou aos utentes das vias públicas para o cumprimento rigoroso das regras de trânsito, como forma de prevenir novas tragédias. O Chefe do Estado endereçou uma mensagem de condolências às famílias das vítimas mortais, em que expressa, em nome do Governo, do Povo moçambicano e em seu próprio, o seu profundo pesar pela perda de vidas humanas. Na mensagem, Chapo transmite às famílias enlutadas as mais sentidas condolências, desejando-lhes conforto e força para enfrentar a perda irreparável dos seus entes queridos. O acidente provocou ainda ferimentos em 16 cidadãos. Perante a situação, o Presidente da República manifestou solidariedade para com as vítimas e formulou votos de rápida recuperação e pleno restabelecimento. «Chapo apela à condução responsável após acidente que matou 13 pessoas em Tete» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo apela à condução responsável após acidente que matou 13 pessoas em Tete», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.58,
+      "editorial_score": 11.58,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio",
+      "summary": "O Instituto de Cereais de Moçambique (ICM) está a explorar oportunidades de cooperação comercial com empresas indonésias, com o objectivo de estabelecer canais directos e estáveis para a importação e […]",
+      "why": "«ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-18T11:00:00+00:00",
+      "age_hours": 6.9,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/18/negocios/comercio/icn-procura-novos-fornecedores-de-trigo-e-arroz-no-mercado-indonesio/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Instituto de Cereais de Moçambique (ICM) está a explorar oportunidades de cooperação comercial com empresas indonésias, com o objectivo de estabelecer canais directos e estáveis para a importação e […]. «ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 11.56,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO",
-      "summary": "O drone terá entrado em espaço aéreo lituano a partir da Polónia, segundo a estação televisiva pública do país báltico, LRT Um drone obrigou este domingo à emissão de alertas aéreos na Lituânia e na Letónia e à descolagem de caças da NATO. O aparelho acabou por cair nas imediações de Pasvalys, no norte do território lituano, sobre a linha de fronteira com a Letónia. \"A guerra da Rússia contra a Ucrânia está a alargar-se ao flanco oriental da NATO e da União Europeia\", escreveu no X o presidente lituano, Gitanas Nauseda, sem, todavia, avançar com mais pormenores sobre a origem do aparelho A Polícia Militar lituana começou por ser alertada para uma aparente explosão em Pasvalys.",
-      "why": "«\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Trump declara apoio \"total e irrestrito\" a Netanyahu nas eleições em Israel",
+      "summary": "O presidente norte-americano declarou este domingo o seu apoio ao atual líder israelita nas eleições legislativas que se realizam a 27 de outubro de 2026",
+      "why": "«Trump declara apoio \"total e irrestrito\" a Netanyahu nas eleições em Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Trump declara apoio \"total e irrestrito\" a Netanyahu nas eleições em Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-18T11:59:22+00:00",
-      "age_hours": 1.0,
+      "published": "2026-10-18T16:20:06+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/guerra-esta-a-alargar-se-drone-gera-alertas-no-baltico-e-aciona-cacas-da-nato_n1772465",
+      "link": "https://www.rtp.pt/noticias/mundo/trump-declara-apoio-total-e-irrestrito-a-netanyahu-nas-eleicoes-em-israel_n1772495",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -87,25 +145,25 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O drone terá entrado em espaço aéreo lituano a partir da Polónia, segundo a estação televisiva pública do país báltico, LRT Um drone obrigou este domingo à emissão de alertas aéreos na Lituânia e na Letónia e à descolagem de caças da NATO. O aparelho acabou por cair nas imediações de Pasvalys, no norte do território lituano, sobre a linha de fronteira com a Letónia. \"A guerra da Rússia contra a Ucrânia está a alargar-se ao flanco oriental da NATO e da União Europeia\", escreveu no X o presidente lituano, Gitanas Nauseda, sem, todavia, avançar com mais pormenores sobre a origem do aparelho A Polícia Militar lituana começou por ser alertada para uma aparente explosão em Pasvalys. «\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «\"Guerra está a alargar-se\". Drone gera alertas no Báltico e aciona caças da NATO», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.79,
+      "detailed_summary": "O presidente norte-americano declarou este domingo o seu apoio ao atual líder israelita nas eleições legislativas que se realizam a 27 de outubro de 2026. «Trump declara apoio \"total e irrestrito\" a Netanyahu nas eleições em Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Trump declara apoio \"total e irrestrito\" a Netanyahu nas eleições em Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.69,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra",
-      "summary": "Mehrdad Akhlaghi, alvo de sanções da ONU, assumiu hoje formalmente a pasta da Defesa no Governo do Irão, substituindo no cargo o anterior ministro, morto no primeiro dia do ataque israelo-americano em 28 de fevereiro, foi hoje anunciado Segundo a televisão estatal iraniana, Mehrdad Akhlaghi recebeu hoje o voto de confiança do parlamento, que tem de dar sistematicamente o seu aval para que um ministro possa assumir funções, mas que também pode destituí-lo \"O reforço da Frente de Resistência [grupos armados hostis a Israel e aliados do Irão], ainda mais do que anteriormente, constituirá também um dos eixos principais do meu programa\", declarou o novo ministro perante o parlamento, segundo declarações citadas pela agência de notícias Tasnim Mehrdad Akhlaghi, de 68 anos, não é militar, tendo trabalhado 42 anos para o Ministério da Defesa, que irá agora dirigir Desde 2013, estava à frente da Organização das Indústrias de Defesa Iranianas, um organismo ligado ao Ministério da Defesa responsável pela conceção e fabrico de equipamento militar Segundo a imprensa local, Mehrdad Akhlaghi…",
-      "why": "«Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Brasileiros em Lisboa lutam pela \"virada\" na segunda volta",
+      "summary": "Várias centenas de brasileiros encheram hoje o largo Camões, no Chiado (Lisboa), para uma marcha que quer a \"virada\" na segunda volta das eleições presidenciais, reelegendo Lula da Silva \"Não queremos o terror que o país viveu com Bolsonaro pai\", explicou, referindo-se a Jair, progenitor de Flávio Bolsonaro, vencedor da primeira volta das presidenciais e favorito à vitória no dia 25 Organizado pelo núcleo do Partido dos Trabalhadores em Portugal, a marcha inscreve-se numa estratégia global, com ações simultâneas em vários pontos do Brasil e do mundo \"Esta marcha que estamos a fazer hoje está integrada nas mobilizações que estão ocorrendo no Brasil, em apoio a Lula Presidente, pela virada, pela soberania do Brasil e contra a política de morte protagonizada por Flávio Bolsonaro\", afirmou à Lusa Pedro Prola, coordenador do núcleo do PT \"Contra o retorno dos bolsonaros ao poder\", Pedro Prola admitiu que é difícil a vitória, mas tem confiança \"Não está decidido o jogo: podemos ser derrotados ou podemos sair vitoriosos, isso depende da capacidade de diálogo, da capacidade de conversar\"…",
+      "why": "«Brasileiros em Lisboa lutam pela \"virada\" na segunda volta» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Brasileiros em Lisboa lutam pela \"virada\" na segunda volta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-18T11:14:23+00:00",
-      "age_hours": 1.8,
+      "published": "2026-10-18T13:29:37+00:00",
+      "age_hours": 4.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/mehrdad-akhlaghi-nomeado-ministro-da-defesa-oito-meses-apos-inicio-da-guerra_n1772452",
+      "link": "https://www.rtp.pt/noticias/mundo/brasileiros-em-lisboa-lutam-pela-virada-na-segunda-volta_n1772473",
       "original_source": true,
       "event_id": "evt-mundo-003",
       "cluster_size": 1,
@@ -116,46 +174,9 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Mehrdad Akhlaghi, alvo de sanções da ONU, assumiu hoje formalmente a pasta da Defesa no Governo do Irão, substituindo no cargo o anterior ministro, morto no primeiro dia do ataque israelo-americano em 28 de fevereiro, foi hoje anunciado Segundo a televisão estatal iraniana, Mehrdad Akhlaghi recebeu hoje o voto de confiança do parlamento, que tem de dar sistematicamente o seu aval para que um ministro possa assumir funções, mas que também pode destituí-lo \"O reforço da Frente de Resistência [grupos armados hostis a Israel e aliados do Irão], ainda mais do que anteriormente, constituirá também um dos eixos principais do meu programa\", declarou o novo ministro perante o parlamento, segundo declarações citadas pela agência de notícias Tasnim Mehrdad Akhlaghi, de 68 anos, não é militar, tendo trabalhado 42 anos para o Ministério da Defesa, que irá agora dirigir Desde 2013, estava à frente da Organização das Indústrias de Defesa Iranianas, um organismo ligado ao Ministério da Defesa responsável pela conceção e fabrico de equipamento militar Segundo a imprensa local, Mehrdad Akhlaghi… «Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mehrdad Akhlaghi nomeado ministro da Defesa, oito meses após início da guerra», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.62,
+      "detailed_summary": "Várias centenas de brasileiros encheram hoje o largo Camões, no Chiado (Lisboa), para uma marcha que quer a \"virada\" na segunda volta das eleições presidenciais, reelegendo Lula da Silva \"Não queremos o terror que o país viveu com Bolsonaro pai\", explicou, referindo-se a Jair, progenitor de Flávio Bolsonaro, vencedor da primeira volta das presidenciais e favorito à vitória no dia 25 Organizado pelo núcleo do Partido dos Trabalhadores em Portugal, a marcha inscreve-se numa estratégia global, com ações simultâneas em vários pontos do Brasil e do mundo \"Esta marcha que estamos a fazer hoje está integrada nas mobilizações que estão ocorrendo no Brasil, em apoio a Lula Presidente, pela virada, pela soberania do Brasil e contra a política de morte protagonizada por Flávio Bolsonaro\", afirmou à Lusa Pedro Prola, coordenador do núcleo do PT \"Contra o retorno dos bolsonaros ao poder\", Pedro Prola admitiu que é difícil a vitória, mas tem confiança \"Não está decidido o jogo: podemos ser derrotados ou podemos sair vitoriosos, isso depende da capacidade de diálogo, da capacidade de conversar\"… «Brasileiros em Lisboa lutam pela \"virada\" na segunda volta» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasileiros em Lisboa lutam pela \"virada\" na segunda volta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.08,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado",
-      "summary": "O Programa BRILHO, desenvolvido em Moçambique desde 2019 para promover o acesso à energia limpa fora da rede eléctrica nacional, mobilizou mais de 78 milhões de dólares em financiamento privado […]",
-      "why": "«Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-17T16:00:00+00:00",
-      "age_hours": 21.0,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/17/energia-3/energia-limpa-brilho-atrai-mais-de-78-milhoes-de-dolares-de-capital-privado/",
-      "original_source": true,
-      "event_id": "evt-mocambique-007",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "Diário Económico",
-        "Jornal Notícias"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Jornal Notícias",
-          "title": "BADEA financia construção do Porto de Angoche em 20 milhões de dólares",
-          "link": "https://www.jornalnoticias.co.mz/destaque/badea-financia-construcao-do-porto-de-angoche-em-20-milhoes-de-dolares/"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "O Programa BRILHO, desenvolvido em Moçambique desde 2019 para promover o acesso à energia limpa fora da rede eléctrica nacional, mobilizou mais de 78 milhões de dólares em financiamento privado […]. «Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Energia Limpa: BRILHO Atrai Mais de 78 Milhões de Dólares de Capital Privado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 11.12,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -169,11 +190,11 @@
       "impact": "No caso de «Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-18T09:53:05+00:00",
-      "age_hours": 3.1,
+      "age_hours": 8.0,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/mais-de-100-quilometros-de-valas-de-drenagem-serao-reabilitadas-no-rbl/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -183,36 +204,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Mais de 100 quilómetros de valas de rega e drenagem, no Regadio de Baixo Limpopo (RBL), nós distritos de Xai-Xai , Chongoene e Limpopo, em Gaza, serão limpos e reabilitadas, no âmbito das acções de recuperação pós-cheias. Para o efeito, foram disponibilizadas duas máquinas, financiadas pelo Programa de Desenvolvimento Inclusivo de Cadeias de Valor Agro-alimentares (PROCAVA) e pelo Fundo Nacional de Desenvolvimento Sustentável (FNDS), cuja entrega oficial foi feita, sábado (17), pelo Governador da província de Gaza, Alfeu Constantino Cuna. Com duração prevista de três meses e um orçamento superior a 12 milhões de Meticais, a intervenção irá abranger mais de 17 mil hectares de terras agrícolas e beneficiar 9 mil produtores. Falando aos órgãos de comunicação social, Alfeu Cuna referiu que a iniciativa visa melhorar o escoamento das águas, recuperar as infra-estruturas hidroagrícolas afectadas pelas cheias e criar melhores condições para a retoma da produção. O conteúdo Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL aparece primeiro em Jornal Notícias. «Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Mais de 100 quilómetros de valas de drenagem serão reabilitadas no RBL», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.35,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Chapo lamenta morte de 13 pessoas em acidente de viação",
-      "summary": "O Presidente da República, Daniel Chapo, endereça uma mensagem de condolências às famílias dos 13 cidadãos que morreram na sequência de um acidente de viação ocorrido no sábado (17), no povoado de Mazoe, distrito de Changara, província de Tete. Na missiva, o Chefe do Estado manifesta, em nome do Governo e do povo moçambicanos, e em seu próprio, profunda consternação pela perda de vidas humanas e endereça às famílias enlutadas as mais sentidas condolências, desejando-lhes conforto e força para enfrentar a irreparável perda dos seus entes queridos. O Presidente da República manifesta, igualmente, a sua solidariedade para com os 16 cidadãos que ficaram feridos em consequência do acidente, formulando votos de rápida recuperação e de pleno restabelecimento. Perante esta tragédia, o Presidente Daniel Chapo associa-se à dor das famílias afectadas e da população da província de Tete, partilhando o sentimento de pesar que acompanha esta perda de vidas humanas.",
-      "why": "«Chapo lamenta morte de 13 pessoas em acidente de viação» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Chapo lamenta morte de 13 pessoas em acidente de viação», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-18T09:40:37+00:00",
-      "age_hours": 3.4,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/chapo-lamenta-morte-de-13-pessoas-em-acidente-de-viacao/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, endereça uma mensagem de condolências às famílias dos 13 cidadãos que morreram na sequência de um acidente de viação ocorrido no sábado (17), no povoado de Mazoe, distrito de Changara, província de Tete. Na missiva, o Chefe do Estado manifesta, em nome do Governo e do povo moçambicanos, e em seu próprio, profunda consternação pela perda de vidas humanas e endereça às famílias enlutadas as mais sentidas condolências, desejando-lhes conforto e força para enfrentar a irreparável perda dos seus entes queridos. O Presidente da República manifesta, igualmente, a sua solidariedade para com os 16 cidadãos que ficaram feridos em consequência do acidente, formulando votos de rápida recuperação e de pleno restabelecimento. Perante esta tragédia, o Presidente Daniel Chapo associa-se à dor das famílias afectadas e da população da província de Tete, partilhando o sentimento de pesar que acompanha esta perda de vidas humanas. «Chapo lamenta morte de 13 pessoas em acidente de viação» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo lamenta morte de 13 pessoas em acidente de viação», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.29,
+      "editorial_score": 8.33,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -221,15 +213,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Vários mortos e feridos após incidente em base militar do Canadá",
-      "summary": "Um \"incidente\" numa base militar canadiana provocou várias mortes e feridos, anunciou o ministro da Defesa do Canadá na noite de sábado.“Lamento ter de informar que houve mortos e feridos na sequência de um incidente na base”, declarou David McGuinty em comunicado, identificando o local como a Base das Forças Armadas Canadianas de Wainwright, em Alberta.O primeiro-ministro canadiano, Mark Carney, afirmou que no local “ocorreu um incidente grave que provocou um grande incêndio”.“Os nossos pensamentos estão com todas as mulheres e todos os homens corajosos afetados.",
-      "why": "«Vários mortos e feridos após incidente em base militar do Canadá» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Vários mortos e feridos após incidente em base militar do Canadá», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha",
+      "summary": "Espera-se que o debate televisivo nesta noite de domingo seja decisivo numa campanha marcada por escândalos e insultos.Flávio Bolsonaro, de 45 anos, filho do ex-presidente de extrema-direita Jair Bolsonaro, conseguiu uma vantagem surpreendente sobre Lula da Silva, na primeira volta, no início deste mês, contrariando as previsões das sondagens.Lula da Silva, candidato de esquerda, tem-se recusado a participar em debates com o seu rival e com os outros candidatos na primeira volta. O mesmo tem feito Flávio Bolsonaro, que chegou a recusar o debate desta noite na Band, mas depois voltou atrás.O frente a frente deste domingo à noite terá duração aproximada de 2 horas (1:40) e será dividido em 3 blocos com perguntas dos jornalistas que compõem a pool acordada entre vários meios de comunicação (Band, Estadão, TV Cultura, Gazeta e Jovem Pan).",
+      "why": "«Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-18T12:02:34+00:00",
-      "age_hours": 1.0,
+      "published": "2026-10-18T17:10:10+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/18/varios-mortos-e-feridos-apos-incidente-em-base-militar-do-canada",
+      "link": "https://pt.euronews.com/2026/10/18/bolsonaro-e-lula-enfrentam-se-no-primeiro-debate-televisivo-desde-o-inicio-da-campanha",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -240,8 +232,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Um \"incidente\" numa base militar canadiana provocou várias mortes e feridos, anunciou o ministro da Defesa do Canadá na noite de sábado.“Lamento ter de informar que houve mortos e feridos na sequência de um incidente na base”, declarou David McGuinty em comunicado, identificando o local como a Base das Forças Armadas Canadianas de Wainwright, em Alberta.O primeiro-ministro canadiano, Mark Carney, afirmou que no local “ocorreu um incidente grave que provocou um grande incêndio”.“Os nossos pensamentos estão com todas as mulheres e todos os homens corajosos afetados. «Vários mortos e feridos após incidente em base militar do Canadá» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Vários mortos e feridos após incidente em base militar do Canadá», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.79,
+      "detailed_summary": "Espera-se que o debate televisivo nesta noite de domingo seja decisivo numa campanha marcada por escândalos e insultos.Flávio Bolsonaro, de 45 anos, filho do ex-presidente de extrema-direita Jair Bolsonaro, conseguiu uma vantagem surpreendente sobre Lula da Silva, na primeira volta, no início deste mês, contrariando as previsões das sondagens.Lula da Silva, candidato de esquerda, tem-se recusado a participar em debates com o seu rival e com os outros candidatos na primeira volta. O mesmo tem feito Flávio Bolsonaro, que chegou a recusar o debate desta noite na Band, mas depois voltou atrás.O frente a frente deste domingo à noite terá duração aproximada de 2 horas (1:40) e será dividido em 3 blocos com perguntas dos jornalistas que compõem a pool acordada entre vários meios de comunicação (Band, Estadão, TV Cultura, Gazeta e Jovem Pan). «Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.85,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -256,8 +248,8 @@
       "impact": "No caso de «Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-17T14:19:35+00:00",
-      "age_hours": 22.7,
-      "within_24h": true,
+      "age_hours": 27.6,
+      "within_24h": false,
       "link": "https://www.rtp.pt/noticias/mundo/ex-presidente-do-senegal-retira-se-da-corrida-a-secretario-geral-da-onu_n1772329",
       "original_source": true,
       "event_id": "evt-áfrica-001",
@@ -267,11 +259,40 @@
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "O antigo Presidente do Senegal Macky Sall anunciou hoje que retirava a sua candidatura ao cargo de secretário-geral da ONU, na sequência de uma primeira votação indicativa do Conselho de Segurança, onde nenhum candidato obteve consenso Numa declaração publicada nas redes sociais, Macky Sall afirmou ter tomado esta decisão \"na esperança de contribuir assim para o surgimento de uma candidatura consensual no seio do Conselho de Segurança\" Na sexta-feira à noite, os membros permanentes do Conselho de Segurança vetaram todos os atuais candidatos ao cargo de secretário-geral da ONU, numa votação informal, segundo fontes diplomáticas Fonte diplomática afirmou à AFP que na votação, com carácter indicativo, nenhum dos sete candidatos conseguiu evitar um voto negativo das cinco potências --- Grã-Bretanha, França, Estados Unidos, China e Rússia ---, o que abre caminho ao surgimento de prováveis novas candidaturas Na sexta votação à porta fechada (conhecida como straw poll), e que deverá ser a última consulta, os 15 membros atribuíram, de forma anónima, uma classificação a cada candidato… «Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 7.27,
+      "editorial_score": 7.39,
       "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Vários mortos e feridos após incidente em base militar do Canadá",
+      "summary": "Um \"incidente\" numa base militar canadiana provocou várias mortes e feridos, anunciou o ministro da Defesa do Canadá na noite de sábado.“Lamento ter de informar que houve mortos e feridos na sequência de um incidente na base”, declarou David McGuinty em comunicado, identificando o local como a Base das Forças Armadas Canadianas de Wainwright, em Alberta.O primeiro-ministro canadiano, Mark Carney, afirmou que no local “ocorreu um incidente grave que provocou um grande incêndio”.“Os nossos pensamentos estão com todas as mulheres e todos os homens corajosos afetados.",
+      "why": "«Vários mortos e feridos após incidente em base militar do Canadá» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Vários mortos e feridos após incidente em base militar do Canadá», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-18T12:02:34+00:00",
+      "age_hours": 5.8,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/18/varios-mortos-e-feridos-apos-incidente-em-base-militar-do-canada",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Um \"incidente\" numa base militar canadiana provocou várias mortes e feridos, anunciou o ministro da Defesa do Canadá na noite de sábado.“Lamento ter de informar que houve mortos e feridos na sequência de um incidente na base”, declarou David McGuinty em comunicado, identificando o local como a Base das Forças Armadas Canadianas de Wainwright, em Alberta.O primeiro-ministro canadiano, Mark Carney, afirmou que no local “ocorreu um incidente grave que provocou um grande incêndio”.“Os nossos pensamentos estão com todas as mulheres e todos os homens corajosos afetados. «Vários mortos e feridos após incidente em base militar do Canadá» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Vários mortos e feridos após incidente em base militar do Canadá», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 6.79,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     }
   ],
@@ -296,7 +317,7 @@
   "section_counts": {
     "Moçambique": 5,
     "África": 1,
-    "Mundo": 3
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
