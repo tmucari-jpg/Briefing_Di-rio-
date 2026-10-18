@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:53:04.895252+00:00",
+  "updated_at": "2026-10-18T21:18:49.587861+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,135 +8,77 @@
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
-      ],
-      "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
-      "summary": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'",
-      "why": "«‘Hybrid warfare’: Taiwan drives away 16 Chinese ships» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «‘Hybrid warfare’: Taiwan drives away 16 Chinese ships», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-18T16:25:52+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'. «‘Hybrid warfare’: Taiwan drives away 16 Chinese ships» deserves attention because it may change political, diplomatic or security risks. For «‘Hybrid warfare’: Taiwan drives away 16 Chinese ships», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.69,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
         "Energia"
       ],
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "summary": "The St Petersburg Oil Terminal was among targets hit in the city overnight At least one person has been killed in an overnight attack on St Petersburg that successfully targeted two of the city's oil facilities The region's Governor Alexander Beglov said fires were being extinguished at the St Petersburg Oil Terminal and the Ruchyi oil depot following the attack, which also injured at least five A logistics centre belonging to Ozon - known as Russia's Amazon - and a data centre belonging to Facebook equivalent VKontakte were also hit Kyiv has not yet commented on the strikes.",
-      "why": "«Oil facilities hit in deadly overnight attack on St Petersburg» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Oil facilities hit in deadly overnight attack on St Petersburg», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "What we know so far about deadly fire at Canadian military base",
+      "summary": "The busy training base is located behind fences on remote land in Alberta A huge fire swept through a Canadian military base on Saturday, killing at least four people and seriously injuring dozens more Prime Minister Mark Carney described it as one of the worst peace time tragedies on Canadian soil in the history of the military Here is what we know about the deadly incident so far Few details about what triggered the deadly fire at Canadian Forces Base Wainwright, which broke out at around 16:00 local time (22:00 GMT), have been confirmed by authorities so far Local media reported it may have been started when a gas main was struck during a live firing exercise taking place on the grounds Carney said a \"violent, fast-moving fire swept through the base\" without confirming what started it Minister of National Defence David McGuinty said those caught up in the fire were \"training on the range\" The Municipal District of Wainwright posted on social media that the fire had \"spread rapidly due to high winds\" The prime minister said military and civilian fire crews \"fought this fire…",
+      "why": "«What we know so far about deadly fire at Canadian military base» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «What we know so far about deadly fire at Canadian military base», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "BBC World",
-      "published": "2026-10-18T15:46:10+00:00",
-      "age_hours": 2.1,
+      "published": "2026-10-18T21:16:42+00:00",
+      "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The St Petersburg Oil Terminal was among targets hit in the city overnight At least one person has been killed in an overnight attack on St Petersburg that successfully targeted two of the city's oil facilities The region's Governor Alexander Beglov said fires were being extinguished at the St Petersburg Oil Terminal and the Ruchyi oil depot following the attack, which also injured at least five A logistics centre belonging to Ozon - known as Russia's Amazon - and a data centre belonging to Facebook equivalent VKontakte were also hit Kyiv has not yet commented on the strikes. «Oil facilities hit in deadly overnight attack on St Petersburg» matters because it may change energy and investment decisions affecting Mundo. For «Oil facilities hit in deadly overnight attack on St Petersburg», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.56,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary": "Masked settlers are accused of attacking the convoy A delegation of European diplomats has been attacked by masked Israeli settlers in the occupied West Bank Belgium condemned the assault on its consul general and the other envoys, while France decried the attack as \"appalling\". Both called for Israel to bring those responsible to justice The Israel Defense Forces (IDF) also condemned what they called \"the severe act of violence\" and said they were investigating But the office of the Prime Minister Benjamin Netanyahu cast doubt on what happened, suggesting it was part of a \"co-ordinated campaign to smear Israel\" The attack came only a day after a number of Palestinians and Heidi Levine, a Washington Post photographer, were injured in a separate assault by settlers in another village in the West Bank US Secretary of State Marco Rubio said the attack on Levine was \"disturbing\" and \"not a good look\" It was also condemned by the US ambassador to Israel, Mike Huckabee, who called it a \"despicable act of terror carried out by masked cowards\".",
-      "why": "«European diplomats attacked by Israeli settlers in West Bank» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «European diplomats attacked by Israeli settlers in West Bank», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-18T12:16:14+00:00",
-      "age_hours": 5.6,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Masked settlers are accused of attacking the convoy A delegation of European diplomats has been attacked by masked Israeli settlers in the occupied West Bank Belgium condemned the assault on its consul general and the other envoys, while France decried the attack as \"appalling\". Both called for Israel to bring those responsible to justice The Israel Defense Forces (IDF) also condemned what they called \"the severe act of violence\" and said they were investigating But the office of the Prime Minister Benjamin Netanyahu cast doubt on what happened, suggesting it was part of a \"co-ordinated campaign to smear Israel\" The attack came only a day after a number of Palestinians and Heidi Levine, a Washington Post photographer, were injured in a separate assault by settlers in another village in the West Bank US Secretary of State Marco Rubio said the attack on Levine was \"disturbing\" and \"not a good look\" It was also condemned by the US ambassador to Israel, Mike Huckabee, who called it a \"despicable act of terror carried out by masked cowards\". «European diplomats attacked by Israeli settlers in West Bank» deserves attention because it may change political, diplomatic or security risks. For «European diplomats attacked by Israeli settlers in West Bank», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 10.83,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Trump endorses Netanyahu in Israeli legislative elections",
-      "summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader",
-      "why": "«Trump endorses Netanyahu in Israeli legislative elections» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Trump endorses Netanyahu in Israeli legislative elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-18T16:36:26+00:00",
-      "age_hours": 1.3,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Al Jazeera English"
+        "BBC World"
       ],
-      "primary_source": "Al Jazeera English",
+      "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader. «Trump endorses Netanyahu in Israeli legislative elections» is worth following because of its possible economic, institutional or regional effects. For «Trump endorses Netanyahu in Israeli legislative elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.73,
+      "detailed_summary": "The busy training base is located behind fences on remote land in Alberta A huge fire swept through a Canadian military base on Saturday, killing at least four people and seriously injuring dozens more Prime Minister Mark Carney described it as one of the worst peace time tragedies on Canadian soil in the history of the military Here is what we know about the deadly incident so far Few details about what triggered the deadly fire at Canadian Forces Base Wainwright, which broke out at around 16:00 local time (22:00 GMT), have been confirmed by authorities so far Local media reported it may have been started when a gas main was struck during a live firing exercise taking place on the grounds Carney said a \"violent, fast-moving fire swept through the base\" without confirming what started it Minister of National Defence David McGuinty said those caught up in the fire were \"training on the range\" The Municipal District of Wainwright posted on social media that the fire had \"spread rapidly due to high winds\" The prime minister said military and civilian fire crews \"fought this fire… «What we know so far about deadly fire at Canadian military base» matters because it may change energy and investment decisions affecting Mundo. For «What we know so far about deadly fire at Canadian military base», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 13.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Segurança"
       ],
-      "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
-      "summary": "Analysts say that any move from Egypt will remain 'strictly defensive', as the conflict in Yemen intensifies",
-      "why": "«What help can Egypt offer Saudi Arabia in the war against the Houthis?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «What help can Egypt offer Saudi Arabia in the war against the Houthis?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-18T11:11:26+00:00",
-      "age_hours": 6.7,
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "summary": "Warning: This video contains descriptions of drug-taking and distressing images A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis Earlier this year, President Donald Trump pledged a crackdown on drug cartels, proscribing many as terrorist organisations Drug overdose deaths have fallen from a peak of around 110,000 in 2022, down to roughly 70,000 last year However, America's decades-long drug crisis may be accelerating and authorities are increasingly concerned about cheaper, more powerful synthetic drugs, including an animal tranquilliser called tranq The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis",
+      "why": "«Inside Chicago's battle against the synthetic drugs flooding the US» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Inside Chicago's battle against the synthetic drugs flooding the US», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-18T21:00:22+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
+      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Warning: This video contains descriptions of drug-taking and distressing images A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis Earlier this year, President Donald Trump pledged a crackdown on drug cartels, proscribing many as terrorist organisations Drug overdose deaths have fallen from a peak of around 110,000 in 2022, down to roughly 70,000 last year However, America's decades-long drug crisis may be accelerating and authorities are increasingly concerned about cheaper, more powerful synthetic drugs, including an animal tranquilliser called tranq The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis. «Inside Chicago's battle against the synthetic drugs flooding the US» deserves attention because it may change political, diplomatic or security risks. For «Inside Chicago's battle against the synthetic drugs flooding the US», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.94,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+      "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew",
+      "why": "«‘Anger and shame’: Macron denounces France’s nationwide rioting, looting» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «‘Anger and shame’: Macron denounces France’s nationwide rioting, looting», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-18T20:19:22+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -145,8 +87,8 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Analysts say that any move from Egypt will remain 'strictly defensive', as the conflict in Yemen intensifies. «What help can Egypt offer Saudi Arabia in the war against the Houthis?» deserves attention because it may change political, diplomatic or security risks. For «What help can Egypt offer Saudi Arabia in the war against the Houthis?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 10.6,
+      "detailed_summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew. «‘Anger and shame’: Macron denounces France’s nationwide rioting, looting» deserves attention because it may change political, diplomatic or security risks. For «‘Anger and shame’: Macron denounces France’s nationwide rioting, looting», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.79,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -155,17 +97,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Vietnam signs free trade deal with four European countries",
-      "summary": "Vietnam has signed a deal with four non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development, among other areas Vietnam and four European countries signed a free trade agreement in Hanoi on Sunday The deal was announced by the governments of Vietnam and Norway Vietnam's Trade Ministry said it signed the deal with the European Free Trade Association (EFTA), which is made up Norway , Switzerland , Iceland and Liechtenstein The four European countries are not part of the European Union (EU) The official talks between Vietnam and the EFTA began in 2012.",
-      "why": "«Vietnam signs free trade deal with four European countries» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «Vietnam signs free trade deal with four European countries», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
+      "summary": "Anti-government protesters continued calls for Edi Rama to step down as violent clashes between demonstrators and police again took place Student-led protests continued in Albania for a sixth day with continued demands for Prime Minister Edi Rama to resign Despite those calls, Rama is refusing to step down , saying the demonstrations were not a threat to government but rather a threat to Albania's ambition of accession to the European Union \"I ​am not being challenged, the government is not being challenged, a government majority or a winning party in the elections is not being challenged but a path is being challenged, a mission is being challenged,\" Rama said in a live address on Facebook \"Albanians need to think ​very clearly: Do they want this, do they want that, or do they want the EU?” Rama asked Rama ruled out resigning and said that the protests are the \"work of an outside hand.\" Earlier in the week Rama ruled out resigning, saying that governments were changed through elections Student-led demonstrations, spurred by discontent over alleged government corruption…",
+      "why": "«Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "DW English",
-      "published": "2026-10-18T09:19:00+00:00",
-      "age_hours": 8.6,
+      "published": "2026-10-18T19:47:00+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-011",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -174,37 +116,8 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Vietnam has signed a deal with four non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development, among other areas Vietnam and four European countries signed a free trade agreement in Hanoi on Sunday The deal was announced by the governments of Vietnam and Norway Vietnam's Trade Ministry said it signed the deal with the European Free Trade Association (EFTA), which is made up Norway , Switzerland , Iceland and Liechtenstein The four European countries are not part of the European Union (EU) The official talks between Vietnam and the EFTA began in 2012. «Vietnam signs free trade deal with four European countries» helps explain a concrete economic or business change relevant to Mundo. For «Vietnam signs free trade deal with four European countries», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 10.21,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Sudan army accused of drone strike on livestock market",
-      "summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit",
-      "why": "«Sudan army accused of drone strike on livestock market» helps explain a concrete economic or business change relevant to África.",
-      "impact": "For «Sudan army accused of drone strike on livestock market», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-18T13:37:03+00:00",
-      "age_hours": 4.3,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit. «Sudan army accused of drone strike on livestock market» helps explain a concrete economic or business change relevant to África. For «Sudan army accused of drone strike on livestock market», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 10.1,
+      "detailed_summary": "Anti-government protesters continued calls for Edi Rama to step down as violent clashes between demonstrators and police again took place Student-led protests continued in Albania for a sixth day with continued demands for Prime Minister Edi Rama to resign Despite those calls, Rama is refusing to step down , saying the demonstrations were not a threat to government but rather a threat to Albania's ambition of accession to the European Union \"I ​am not being challenged, the government is not being challenged, a government majority or a winning party in the elections is not being challenged but a path is being challenged, a mission is being challenged,\" Rama said in a live address on Facebook \"Albanians need to think ​very clearly: Do they want this, do they want that, or do they want the EU?” Rama asked Rama ruled out resigning and said that the protests are the \"work of an outside hand.\" Earlier in the week Rama ruled out resigning, saying that governments were changed through elections Student-led demonstrations, spurred by discontent over alleged government corruption… «Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes» is worth following because of its possible economic, institutional or regional effects. For «Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.69,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -219,7 +132,7 @@
       "impact": "For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-17T04:01:42+00:00",
-      "age_hours": 37.9,
+      "age_hours": 41.3,
       "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambique-ane-awards-20-6-billion-meticais-for-inhambane-and-sofala-road-contracts/",
       "original_source": true,
@@ -233,7 +146,7 @@
       "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "According to the contract award notices published by ANE’s provincial delegations, the contracts concern new lots for road engineering and paving projects, five of which are located in Inhambane province, in southern Mozambique, and four in Sofala, in the centre of the country The awards fall under the 2026–2031 Accelerated National Road Rehabilitation and Construction Programme, known as “More Roads – 2031”, and cover national and regional road links In Inhambane province, the contracts total 285 kilometres and 10,104,807,009 meticais (€143.6 million) The contracts were awarded to a consortium comprising the companies Maripoma Entreprise Limitada, from Mozambique, Maripoma Entreprise Limitada, from Ghana, CC Building Limitada and GWIC Moçambique Limitada The largest lot in Inhambane covers the 70-kilometre Sitila–Funhalouro section of road R444, awarded for 2,469,027,132 meticais (€35 million) On the same road corridor, the 40-kilometre Massinga–Sitila section was awarded for 1,612,980,998 meticais (€22.9 million) On national road N222, the 58-kilometre Mapinhane–Macumene section… «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 9.07,
+      "editorial_score": 8.96,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
     }
@@ -258,8 +171,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 1,
-    "África": 2,
-    "Mundo": 5
+    "África": 0,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
