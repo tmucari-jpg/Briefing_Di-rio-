@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T08:34:22.000295+00:00",
+  "updated_at": "2026-10-19T16:16:09.420305+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,46 +8,54 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas",
-      "summary": "AS comunidades dos postos administrativos de Muhipiti e Matondovela, nos distritos de Nipepe e Mecula, na província do Niassa, poderão ser iluminados até ao fim do presente ano, com a conclusão do processo da electrificação que é levado a cabo pelo Fundo de Energia (FUNAE), no âmbito do programa governamental designado Energia para Todos, uma iniciativa que visa promover o desenvolvimento local e melhorar a qualidade de vida da população. A garantia foi dada por Victor Raul, delegado provincial do FUNAE, no Niassa, em entrevista ao “Notícias”, na qual falou dos trabalhos em curso de electrificação dos postos administrativos de Nacumua, Chiúta e Gomba, nos distritos de Metarica, Mecanhelas e Mecula, respectivamente. Segundo Raul, a parte da rede eléctrica de todos estes projectos será executada pela Electricidade de Moçambique (EDM), que poderá levantar os equipamentos nos armazéns do FUNAE, assim que terminar o processo burocrático. Avançou que a instituição comprometeu-se para que os residentes destas comunidades possam passar a quadra festiva que se avizinha, com iluminação.",
-      "why": "«VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-19T07:57:20+00:00",
-      "age_hours": 0.6,
+      "title": "Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças climáticas",
+      "summary": "Maputo, 19 Out (AIM) – O Governo moçambicano prevê investir cerca de 235 milhões de dólares norte-americanos, equivalentes a mais de 15 mil milhões de meticais, na adaptação do sector da saúde às mudanças climáticas, com o objectivo de evitar cerca de 30 mil mortes e mais de 1,6 milhões de anos de vida perdidos. O investimento está previsto num roteiro destinado a reforçar a resiliência do Sistema Nacional de Saúde face aos efeitos das mudanças climáticas, cada vez mais frequentes e intensos no país. Os dados foram avançados hoje, em Maputo, pelo ministro da Saúde, Ussene Isse, na abertura da Terceira Conferência sobre o Impacto das Mudanças Climáticas na Saúde. “É uma declaração inequívoca de que Moçambique não será uma vítima passiva das mudanças climáticas, mas construirá um sistema de saúde que proteja os cidadãos, fortaleça a economia e contribua para a estabilidade regional”, afirmou o governante.",
+      "why": "«Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "AIM Notícias",
+      "published": "2026-10-19T16:01:25+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/victor-raul-em-entrevista-ao-noticias-ate-as-festas-do-fim-de-ano-mais-comunidades-estarao-iluminadas/",
+      "link": "https://aimnews.org/2026/10/19/governo-preve-investir-235-milhoes-de-dolares-para-tornar-sector-da-saude-resiliente-as-mudancas-climaticas/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 2,
+      "source_count": 2,
       "sources": [
-        "Jornal Notícias"
+        "AIM Notícias",
+        "Diário Económico"
       ],
-      "primary_source": "Jornal Notícias",
+      "primary_source": "AIM Notícias",
       "status": "today",
+      "confirmations": [
+        {
+          "source": "Diário Económico",
+          "title": "Nampula: Governo e Sector Privado Discutem Oportunidades de Investimento no Sector Mineiro",
+          "link": "https://www.diarioeconomico.co.mz/2026/10/19/economia/investimento/nampula-governo-e-sector-privado-discutem-oportunidades-de-investimento-no-sector-mineiro/"
+        }
+      ],
       "opportunity_flag": true,
-      "detailed_summary": "AS comunidades dos postos administrativos de Muhipiti e Matondovela, nos distritos de Nipepe e Mecula, na província do Niassa, poderão ser iluminados até ao fim do presente ano, com a conclusão do processo da electrificação que é levado a cabo pelo Fundo de Energia (FUNAE), no âmbito do programa governamental designado Energia para Todos, uma iniciativa que visa promover o desenvolvimento local e melhorar a qualidade de vida da população. A garantia foi dada por Victor Raul, delegado provincial do FUNAE, no Niassa, em entrevista ao “Notícias”, na qual falou dos trabalhos em curso de electrificação dos postos administrativos de Nacumua, Chiúta e Gomba, nos distritos de Metarica, Mecanhelas e Mecula, respectivamente. Segundo Raul, a parte da rede eléctrica de todos estes projectos será executada pela Electricidade de Moçambique (EDM), que poderá levantar os equipamentos nos armazéns do FUNAE, assim que terminar o processo burocrático. Avançou que a instituição comprometeu-se para que os residentes destas comunidades possam passar a quadra festiva que se avizinha, com iluminação. «VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.88,
+      "detailed_summary": "Maputo, 19 Out (AIM) – O Governo moçambicano prevê investir cerca de 235 milhões de dólares norte-americanos, equivalentes a mais de 15 mil milhões de meticais, na adaptação do sector da saúde às mudanças climáticas, com o objectivo de evitar cerca de 30 mil mortes e mais de 1,6 milhões de anos de vida perdidos. O investimento está previsto num roteiro destinado a reforçar a resiliência do Sistema Nacional de Saúde face aos efeitos das mudanças climáticas, cada vez mais frequentes e intensos no país. Os dados foram avançados hoje, em Maputo, pelo ministro da Saúde, Ussene Isse, na abertura da Terceira Conferência sobre o Impacto das Mudanças Climáticas na Saúde. “É uma declaração inequívoca de que Moçambique não será uma vítima passiva das mudanças climáticas, mas construirá um sistema de saúde que proteja os cidadãos, fortaleça a economia e contribua para a estabilidade regional”, afirmou o governante. «Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 16.46,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas",
-      "summary": "O Governo defendeu o reforço da cooperação internacional no combate ao terrorismo e na resposta às alterações climáticas, considerando que estes desafios exigem não só medidas de segurança, mas também […]",
-      "why": "«Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "title": "ENH e Sasol Discutem Novo Projecto de Gás Natural em Moçambique",
+      "summary": "A Empresa Nacional de Hidrocarbonetos (ENH) está a negociar com potenciais investidores, incluindo a sul-africana Sasol e a operadora de gasodutos ROMPCO, o desenvolvimento de um projecto de gás natural […]",
+      "why": "«ENH e Sasol Discutem Novo Projecto de Gás Natural em Moçambique» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «ENH e Sasol Discutem Novo Projecto de Gás Natural em Moçambique», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Diário Económico",
-      "published": "2026-10-19T06:30:00+00:00",
-      "age_hours": 2.1,
+      "published": "2026-10-19T14:35:00+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/19/desenvolvimento-2/mocambique-defende-mais-cooperacao-internacional-contra-terrorismo-e-alteracoes-climaticas/",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/19/oilgas/enh-e-sasol-discutem-novo-projecto-de-gas-natural-em-mocambique/",
       "original_source": true,
       "event_id": "evt-mocambique-003",
       "cluster_size": 1,
@@ -57,115 +65,57 @@
       ],
       "primary_source": "Diário Económico",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo defendeu o reforço da cooperação internacional no combate ao terrorismo e na resposta às alterações climáticas, considerando que estes desafios exigem não só medidas de segurança, mas também […]. «Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.56,
+      "opportunity_flag": true,
+      "detailed_summary": "A Empresa Nacional de Hidrocarbonetos (ENH) está a negociar com potenciais investidores, incluindo a sul-africana Sasol e a operadora de gasodutos ROMPCO, o desenvolvimento de um projecto de gás natural […]. «ENH e Sasol Discutem Novo Projecto de Gás Natural em Moçambique» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «ENH e Sasol Discutem Novo Projecto de Gás Natural em Moçambique», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.65,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Marco Rubio nega pausa na partilha de informações com Kiev",
-      "summary": "O chefe da diplomacia dos Estados Unidos (EUA), Marco Rubio, afirmou hoje que não houve \"nenhuma pausa\" na partilha de informações de inteligência com Kiev e instou a Ucrânia a \"terminar a guerra\" No domingo, o Presidente ucraniano, Volodymyr Zelensky, revelou que os EUA voltaram a partilhar informações com Kiev ao fim de \"três dias\", agradecendo a Washington o fim do bloqueio, que dificultou a resposta da Ucrânia aos ataques russos Numa entrevista ao canal norte-americano NBC, Zelensky disse que a partilha de informações \"esteve bloqueada durante algum tempo e, depois, foi desbloqueada pelo lado norte-americano\", referiu \"Estamos gratos por isso. Agora está a funcionar\", afirmou, acrescentando que a ausência durou \"três dias, durante os ataques balísticos\" de Moscovo \"Não sei onde é que ele vai buscar tudo isto ou porque é que partilha isto com a imprensa. Deviam perguntar-lhe.",
-      "why": "«Marco Rubio nega pausa na partilha de informações com Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Marco Rubio nega pausa na partilha de informações com Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-19T07:47:54+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/marco-rubio-nega-pausa-na-partilha-de-informacoes-com-kiev_n1772602",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O chefe da diplomacia dos Estados Unidos (EUA), Marco Rubio, afirmou hoje que não houve \"nenhuma pausa\" na partilha de informações de inteligência com Kiev e instou a Ucrânia a \"terminar a guerra\" No domingo, o Presidente ucraniano, Volodymyr Zelensky, revelou que os EUA voltaram a partilhar informações com Kiev ao fim de \"três dias\", agradecendo a Washington o fim do bloqueio, que dificultou a resposta da Ucrânia aos ataques russos Numa entrevista ao canal norte-americano NBC, Zelensky disse que a partilha de informações \"esteve bloqueada durante algum tempo e, depois, foi desbloqueada pelo lado norte-americano\", referiu \"Estamos gratos por isso. Agora está a funcionar\", afirmou, acrescentando que a ausência durou \"três dias, durante os ataques balísticos\" de Moscovo \"Não sei onde é que ele vai buscar tudo isto ou porque é que partilha isto com a imprensa. Deviam perguntar-lhe. «Marco Rubio nega pausa na partilha de informações com Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Marco Rubio nega pausa na partilha de informações com Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.83,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Governo anuncia fim do diferendo com Kenmare",
-      "summary": "O GOVERNO confirmou o encerramento formal do diferendo com a Kenmare Resources, concessionária da mina de areias pesadas de Moma, distrito de Larde, província de Nampula. O anúncio foi feito pelo Ministério dos Recursos Minerais e Energia (MIREME), através de um comunicado que aponta para a assinatura de um acordo de regularização definitiva que substitui o acordo de desenvolvimento local de 2004. Um dos pontos acordados, refere-se ao compromisso assumido pela Kenmare para manter os 1.682 trabalhadores, dos quais 96 por cento moçambicanos, e a concluir até 2027 a nova central solar de 15 megawatss para reduzir o consumo de gasóleo. O entendimento põe fim, assim, a quase três anos de negociações tensas sobre obrigações fiscais e sociais. Desde 2023, a Autoridade Tributária (AT) reclamava à empresa exploradora cerca de 30 milhões de dólares em impostos sobre mais-valias e royalties mal calculados entre 2019-2022. A empresa contestava, alegando que usava preços de referência do mercado internacional.",
-      "why": "«Governo anuncia fim do diferendo com Kenmare» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Governo anuncia fim do diferendo com Kenmare», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-19T07:42:02+00:00",
-      "age_hours": 0.9,
+      "title": "Montepuez Ruby Mining Arrecada 52 Milhões de Dólares em Leilão de Rubis",
+      "summary": "A Montepuez Ruby Mining (MRM), que explora rubis em Cabo Delgado, arrecadou 52 milhões de dólares num leilão internacional realizado entre 5 e 16 de Outubro. Os resultados, divulgados esta […]",
+      "why": "«Montepuez Ruby Mining Arrecada 52 Milhões de Dólares em Leilão de Rubis» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Montepuez Ruby Mining Arrecada 52 Milhões de Dólares em Leilão de Rubis», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-19T13:00:00+00:00",
+      "age_hours": 3.3,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/governo-anuncia-fim-do-diferendo-com-kenmare/",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/19/negocios/empresas/montepuez-ruby-mining-arrecada-52-milhoes-de-dolares-em-leilao-de-rubis/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Jornal Notícias"
+        "Diário Económico"
       ],
-      "primary_source": "Jornal Notícias",
+      "primary_source": "Diário Económico",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O GOVERNO confirmou o encerramento formal do diferendo com a Kenmare Resources, concessionária da mina de areias pesadas de Moma, distrito de Larde, província de Nampula. O anúncio foi feito pelo Ministério dos Recursos Minerais e Energia (MIREME), através de um comunicado que aponta para a assinatura de um acordo de regularização definitiva que substitui o acordo de desenvolvimento local de 2004. Um dos pontos acordados, refere-se ao compromisso assumido pela Kenmare para manter os 1.682 trabalhadores, dos quais 96 por cento moçambicanos, e a concluir até 2027 a nova central solar de 15 megawatss para reduzir o consumo de gasóleo. O entendimento põe fim, assim, a quase três anos de negociações tensas sobre obrigações fiscais e sociais. Desde 2023, a Autoridade Tributária (AT) reclamava à empresa exploradora cerca de 30 milhões de dólares em impostos sobre mais-valias e royalties mal calculados entre 2019-2022. A empresa contestava, alegando que usava preços de referência do mercado internacional. «Governo anuncia fim do diferendo com Kenmare» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Governo anuncia fim do diferendo com Kenmare», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 11.81,
+      "detailed_summary": "A Montepuez Ruby Mining (MRM), que explora rubis em Cabo Delgado, arrecadou 52 milhões de dólares num leilão internacional realizado entre 5 e 16 de Outubro. Os resultados, divulgados esta […]. «Montepuez Ruby Mining Arrecada 52 Milhões de Dólares em Leilão de Rubis» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Montepuez Ruby Mining Arrecada 52 Milhões de Dólares em Leilão de Rubis», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 13.31,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019",
-      "summary": "Milhares de pessoas assinalaram, no domingo, o sétimo aniversário da revolta social chilena de 2019 com uma manifestação não autorizada, que foi alvo de uma intervenção policial, com gás lacrimogéneo e veículos blindados com canhões de água Pelo menos 29 pessoas foram detidas, informaram as autoridades chilenas O chefe da força policial para a capital, Manuel Cifuentes, explicou que a marcha decorreu com normalidade, mas que, por volta das 13:00 (17:00 em Lisboa), um grupo de pessoas encapuzadas \"começou a atacar os carabineros com objectos contundentes e, posteriormente, com objectos incendiários, do tipo cocktails molotov\" Cifuentes não descartou novas detenções e sublinhou que há vários agentes feridos, que necessitaram de ser assistidos em diferentes unidades de saúde A marcha, que juntou milhares de pessoas na emblemática Praça Itália, foi organizada por várias entidades sociais e estudantis A maioria dos manifestantes protestava contra os cortes na despesa pública promovidos pelo Presidente José Antonio Kast Desde que assumiu funções, Kast tem defendido reduções da despesa…",
-      "why": "«Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-19T06:59:05+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/confrontos-marcam-protestos-no-chile-no-setimo-aniversario-da-revolta-social-de-2019_n1772580",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Milhares de pessoas assinalaram, no domingo, o sétimo aniversário da revolta social chilena de 2019 com uma manifestação não autorizada, que foi alvo de uma intervenção policial, com gás lacrimogéneo e veículos blindados com canhões de água Pelo menos 29 pessoas foram detidas, informaram as autoridades chilenas O chefe da força policial para a capital, Manuel Cifuentes, explicou que a marcha decorreu com normalidade, mas que, por volta das 13:00 (17:00 em Lisboa), um grupo de pessoas encapuzadas \"começou a atacar os carabineros com objectos contundentes e, posteriormente, com objectos incendiários, do tipo cocktails molotov\" Cifuentes não descartou novas detenções e sublinhou que há vários agentes feridos, que necessitaram de ser assistidos em diferentes unidades de saúde A marcha, que juntou milhares de pessoas na emblemática Praça Itália, foi organizada por várias entidades sociais e estudantis A maioria dos manifestantes protestava contra os cortes na despesa pública promovidos pelo Presidente José Antonio Kast Desde que assumiu funções, Kast tem defendido reduções da despesa… «Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 11.67,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Brasil e Moçambique defendem cooperação no combate ao narcotráfico",
-      "summary": "Maputo, 18 Out (AIM) – O promotor de Justiça de São Paulo e investigador do Grupo de Actuação Especial de Combate ao Crime Organizado (GAECO), no Brasil, Lincoln Gakiya, defende o estabelecimento de uma cooperação internacional para combater o tráfico de drogas, em linha com o posicionamento de Moçambique sobre a necessidade de reforçar a colaboração entre os países no combate ao crime organizado transnacional. Segundo Gakiya, o Brasil tem cerca de 88 facções criminosas, entre as quais se destacam o Primeiro Comando da Capital (PCC), criado a 31 de Agosto de 1993, e o Comando Vermelho (CV), fundado em 1979, no Instituto Penal Cândido Mendes, na Ilha Grande, Estado do Rio de Janeiro. O investigador explicou que o tráfico de cocaína constitui uma das principais actividades criminosas do PCC, cuja rede de abastecimento tem origem em países sul-americanos, nomeadamente a Bolívia, o Paraguai e o Peru. A droga é posteriormente comercializada em diferentes mercados internacionais, incluindo a Europa, com trânsito pela África Austral.",
-      "why": "«Brasil e Moçambique defendem cooperação no combate ao narcotráfico» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Brasil e Moçambique defendem cooperação no combate ao narcotráfico», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "title": "OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique",
+      "summary": "Maputo, 20 Out (AIM) – A Organização Mundial da Saúde (OMS) e o Banco Mundial alertam que a crise climática agrava as desigualdades no acesso e na prestação de cuidados de saúde em Moçambique, com impactos mais acentuados sobre as populações vulneráveis, estimando que a inacção perante os riscos climáticos poderá custar cerca de 11 mil milhões de dólares ao sistema de saúde. O alerta foi lançado hoje, em Maputo, durante a III Conferência sobre o Impacto das Mudanças Climáticas na Saúde Humana, que decorre de 19 a 20 de Outubro, com a participação de representantes do Governo, parceiros de cooperação, investigadores e profissionais de saúde. A representante da OMS em Moçambique, Nélida Cabral, afirmou que o país regista um aumento de casos de malária e doenças diarreicas associado a fenómenos como ciclones, inundações e calor extremo. Segundo a responsável, estes impactos afectam de forma desproporcional as populações mais vulneráveis, agravando as desigualdades existentes.",
+      "why": "«OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-18T20:13:58+00:00",
-      "age_hours": 12.3,
+      "published": "2026-10-19T16:11:18+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/18/brasil-e-mocambique-defendem-cooperacao-no-combate-ao-narcotrafico/",
+      "link": "https://aimnews.org/2026/10/19/oms-e-banco-mundial-alertam-que-crise-climatica-agrava-desigualdades-na-saude-em-mocambique/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -174,38 +124,80 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 18 Out (AIM) – O promotor de Justiça de São Paulo e investigador do Grupo de Actuação Especial de Combate ao Crime Organizado (GAECO), no Brasil, Lincoln Gakiya, defende o estabelecimento de uma cooperação internacional para combater o tráfico de drogas, em linha com o posicionamento de Moçambique sobre a necessidade de reforçar a colaboração entre os países no combate ao crime organizado transnacional. Segundo Gakiya, o Brasil tem cerca de 88 facções criminosas, entre as quais se destacam o Primeiro Comando da Capital (PCC), criado a 31 de Agosto de 1993, e o Comando Vermelho (CV), fundado em 1979, no Instituto Penal Cândido Mendes, na Ilha Grande, Estado do Rio de Janeiro. O investigador explicou que o tráfico de cocaína constitui uma das principais actividades criminosas do PCC, cuja rede de abastecimento tem origem em países sul-americanos, nomeadamente a Bolívia, o Paraguai e o Peru. A droga é posteriormente comercializada em diferentes mercados internacionais, incluindo a Europa, com trânsito pela África Austral. «Brasil e Moçambique defendem cooperação no combate ao narcotráfico» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Brasil e Moçambique defendem cooperação no combate ao narcotráfico», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 11.44,
+      "detailed_summary": "Maputo, 20 Out (AIM) – A Organização Mundial da Saúde (OMS) e o Banco Mundial alertam que a crise climática agrava as desigualdades no acesso e na prestação de cuidados de saúde em Moçambique, com impactos mais acentuados sobre as populações vulneráveis, estimando que a inacção perante os riscos climáticos poderá custar cerca de 11 mil milhões de dólares ao sistema de saúde. O alerta foi lançado hoje, em Maputo, durante a III Conferência sobre o Impacto das Mudanças Climáticas na Saúde Humana, que decorre de 19 a 20 de Outubro, com a participação de representantes do Governo, parceiros de cooperação, investigadores e profissionais de saúde. A representante da OMS em Moçambique, Nélida Cabral, afirmou que o país regista um aumento de casos de malária e doenças diarreicas associado a fenómenos como ciclones, inundações e calor extremo. Segundo a responsável, estes impactos afectam de forma desproporcional as populações mais vulneráveis, agravando as desigualdades existentes. «OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.98,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma",
+      "summary": "O Governo de Moçambique foi distinguido com o Prémio Internacional de Género 2026, atribuído pelo Fundo Internacional de Desenvolvimento Agrícola (FIDA), em reconhecimento dos resultados alcançados na promoção da igualdade de género e do empoderamento económico das mulheres rurais, através do Programa de Desenvolvimento Inclusivo de Cadeias de Valor Agro-Alimentares (PROCAVA). A distinção, atribuída na […]",
+      "why": "«Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "O País",
+      "published": "2026-10-19T13:02:14+00:00",
+      "age_hours": 3.2,
+      "within_24h": true,
+      "link": "https://opais.co.mz/governo-de-mocambique-distinguido-com-o-premio-internacional-de-genero-2026-em-roma/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo de Moçambique foi distinguido com o Prémio Internacional de Género 2026, atribuído pelo Fundo Internacional de Desenvolvimento Agrícola (FIDA), em reconhecimento dos resultados alcançados na promoção da igualdade de género e do empoderamento económico das mulheres rurais, através do Programa de Desenvolvimento Inclusivo de Cadeias de Valor Agro-Alimentares (PROCAVA). A distinção, atribuída na […]. «Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.33,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "França: imagens de drone revelam danos na câmara de Limoges",
-      "summary": "Incêndio destrói câmara do século XIX em Limoges durante protestos contra custo de vida em França; dezenas de detenções e feridos, Macron promete reforçar segurança",
-      "why": "«França: imagens de drone revelam danos na câmara de Limoges» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «França: imagens de drone revelam danos na câmara de Limoges», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-19T07:51:59+00:00",
-      "age_hours": 0.7,
+      "title": "Debate aceso entre Lula e Bolsonaro",
+      "summary": "A uma semana para a segunda volta das eleições do Brasil, os dois candidatos participaram num debate que decorreu na madrugada desta segunda-feira",
+      "why": "«Debate aceso entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Debate aceso entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-19T14:22:48+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/19/franca-imagens-de-drone-revelam-danos-na-camara-de-limoges",
+      "link": "https://www.rtp.pt/noticias/mundo/debate-aceso-entre-lula-e-bolsonaro_v1772688",
       "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 3,
+      "source_count": 2,
       "sources": [
+        "RTP Notícias",
         "Euronews Português"
       ],
-      "primary_source": "Euronews Português",
+      "primary_source": "RTP Notícias",
       "status": "today",
+      "confirmations": [
+        {
+          "source": "Euronews Português",
+          "title": "Brasil: este pode ser o caminho de Lula da Silva para virar a eleição",
+          "link": "https://pt.euronews.com/2026/10/19/brasil-este-pode-ser-o-caminho-de-lula-da-silva-para-virar-a-eleicao"
+        },
+        {
+          "source": "Euronews Português",
+          "title": "Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha",
+          "link": "https://pt.euronews.com/2026/10/18/bolsonaro-e-lula-enfrentam-se-no-primeiro-debate-televisivo-desde-o-inicio-da-campanha"
+        }
+      ],
       "opportunity_flag": false,
-      "detailed_summary": "Incêndio destrói câmara do século XIX em Limoges durante protestos contra custo de vida em França; dezenas de detenções e feridos, Macron promete reforçar segurança. «França: imagens de drone revelam danos na câmara de Limoges» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «França: imagens de drone revelam danos na câmara de Limoges», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.85,
-      "source_tier": "C",
+      "detailed_summary": "A uma semana para a segunda volta das eleições do Brasil, os dois candidatos participaram num debate que decorreu na madrugada desta segunda-feira. «Debate aceso entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Debate aceso entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 12.1,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -213,17 +205,75 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido",
-      "summary": "A província de Alberta decide na segunda-feira se quer avançar para um referendo vinculativo sobre a secessão do Canadá, com o primeiro-ministro Mark Carney a alertar que uma vitória dos separatistas traria uma incerteza perigosa numa altura de guerra comercial com os Estados Unidos.As sondagens indicam que menos de um quarto da população desta província do oeste do Canadá apoia a independência.Mas, nos dias que antecedem a votação, as atenções centram-se na participação eleitoral e em saber se um campo separatista mobilizado poderá contrariar as sondagens, beneficiando de federalistas complacentes.“Não deixem que vos digam que isto já está decidido.",
-      "why": "«Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-19T07:15:04+00:00",
-      "age_hours": 1.3,
+      "title": "Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis",
+      "summary": "Pelo menos 53 soldados das forças leais ao Governo do Iémen morreram e cerca de 200 ficaram feridos num ataque com mísseis balísticos hoje atribuído aos rebeldes huthis O ataque atingiu o campo militar de Al Alam, na província de Shabwa, no centro-sul do país, segundo as autoridades locais, que avisaram que o balanço de vítimas é ainda provisório O vice-governador de Shabwa, Fahad al-Khalifi, confirmou pelo menos 50 mortos e mais de 100 feridos, alguns em estado crítico, informando que os hospitais da região estavam sobrelotados De acordo com as autoridades locais, três mísseis atingiram o campo quando os militares recebiam formação em matéria de segurança Um dos projéteis atingiu um batalhão composto por cerca de 700 novos recrutas recentemente incorporados nas forças alinhadas com o Governo internacionalmente reconhecido, enquanto os outros dois caíram nas proximidades As autoridades de Shabwa apelaram ao Conselho Presidencial de Liderança, ao Governo e à coligação liderada pela Arábia Saudita, que apoia as forças governamentais reconhecidas internacionalmente, para reforçarem as…",
+      "why": "«Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-19T15:06:40+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/19/canada-alberta-decide-se-avanca-para-referendo-pela-independencia-carney-tenta-manter-pais",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/iemen-pelo-menos-53-soldados-mortos-em-ataque-atribuido-aos-huthis_n1772700",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Pelo menos 53 soldados das forças leais ao Governo do Iémen morreram e cerca de 200 ficaram feridos num ataque com mísseis balísticos hoje atribuído aos rebeldes huthis O ataque atingiu o campo militar de Al Alam, na província de Shabwa, no centro-sul do país, segundo as autoridades locais, que avisaram que o balanço de vítimas é ainda provisório O vice-governador de Shabwa, Fahad al-Khalifi, confirmou pelo menos 50 mortos e mais de 100 feridos, alguns em estado crítico, informando que os hospitais da região estavam sobrelotados De acordo com as autoridades locais, três mísseis atingiram o campo quando os militares recebiam formação em matéria de segurança Um dos projéteis atingiu um batalhão composto por cerca de 700 novos recrutas recentemente incorporados nas forças alinhadas com o Governo internacionalmente reconhecido, enquanto os outros dois caíram nas proximidades As autoridades de Shabwa apelaram ao Conselho Presidencial de Liderança, ao Governo e à coligação liderada pela Arábia Saudita, que apoia as forças governamentais reconhecidas internacionalmente, para reforçarem as… «Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.75,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Comando da inteligência artificial concentra mais homens que mulheres",
+      "summary": "As mulheres representam apenas cerca de 22% dos profissionais de IA em todo o mundo e ocupam apenas 14% dos cargos de liderança; um em cada quatro incidentes de violência online contra defensoras dos direitos humanos, ativistas e jornalistas envolveu o uso de IA",
+      "why": "«Comando da inteligência artificial concentra mais homens que mulheres» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Comando da inteligência artificial concentra mais homens que mulheres», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-19T12:00:00+00:00",
+      "age_hours": 4.3,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854665",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "As mulheres representam apenas cerca de 22% dos profissionais de IA em todo o mundo e ocupam apenas 14% dos cargos de liderança; um em cada quatro incidentes de violência online contra defensoras dos direitos humanos, ativistas e jornalistas envolveu o uso de IA. «Comando da inteligência artificial concentra mais homens que mulheres» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Comando da inteligência artificial concentra mais homens que mulheres», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 10.1,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Austrália revela armamento secreto do drone submarino Ghost Shark",
+      "summary": "A Austrália revelou três cargas antes secretas do seu drone submarino autónomo Ghost Shark: minas marítimas, reservas logísticas e drones aéreos Altius capazes de vigilância e ataques",
+      "why": "«Austrália revela armamento secreto do drone submarino Ghost Shark» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Austrália revela armamento secreto do drone submarino Ghost Shark», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-19T09:33:52+00:00",
+      "age_hours": 6.7,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/19/australia-revela-armamento-secreto-do-drone-submarino-ghost-shark",
+      "original_source": true,
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -232,8 +282,37 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A província de Alberta decide na segunda-feira se quer avançar para um referendo vinculativo sobre a secessão do Canadá, com o primeiro-ministro Mark Carney a alertar que uma vitória dos separatistas traria uma incerteza perigosa numa altura de guerra comercial com os Estados Unidos.As sondagens indicam que menos de um quarto da população desta província do oeste do Canadá apoia a independência.Mas, nos dias que antecedem a votação, as atenções centram-se na participação eleitoral e em saber se um campo separatista mobilizado poderá contrariar as sondagens, beneficiando de federalistas complacentes.“Não deixem que vos digam que isto já está decidido. «Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.73,
+      "detailed_summary": "A Austrália revelou três cargas antes secretas do seu drone submarino autónomo Ghost Shark: minas marítimas, reservas logísticas e drones aéreos Altius capazes de vigilância e ataques. «Austrália revela armamento secreto do drone submarino Ghost Shark» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Austrália revela armamento secreto do drone submarino Ghost Shark», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 7.6,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta",
+      "summary": "Lula da Silva e Flávio Bolsonaro confrontam-se num debate tenso sobre despesa pública, corrupção e relações com os EUA, com sondagens a indicarem disputa renhida 51–49",
+      "why": "«Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-19T12:54:43+00:00",
+      "age_hours": 3.4,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/video/2026/10/19/brasil-apoiantes-de-lula-escrevem-nome-nas-aguas-do-rio-antes-da-segunda-volta",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Lula da Silva e Flávio Bolsonaro confrontam-se num debate tenso sobre despesa pública, corrupção e relações com os EUA, com sondagens a indicarem disputa renhida 51–49. «Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.29,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -257,9 +336,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
+    "Moçambique": 5,
     "África": 0,
-    "Mundo": 4
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
