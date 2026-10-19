@@ -1,24 +1,54 @@
 {
-  "updated_at": "2026-10-18T21:18:49.587861+00:00",
+  "updated_at": "2026-10-19T08:34:26.356344+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Government of Mozambique, ECA, UNCTAD and the private sector unite to advance green industrialisation in Southern Africa",
+      "summary": "The commitment was underscored during the Workshop on Regional Studies on Innovative Climate Action to Accelerate Green Industrialization in Southern Africa, held in Maputo under the United Nations Development Account (UNDA) 17th Tranche Project. The event brought together government officials, development partners, private sector representatives, academia, and civil society to review regional studies and identify practical pathways to advance green industrial development Opening the workshop, H.E. Custódia Paunde, State Secretary for Industry at Mozambique’s Ministry of Economy, emphasised that industrialisation remains a fundamental national priority and that sustainability should be seen as an opportunity to modernise production systems and enhance competitiveness “Industrialization remains a central, priority and non-negotiable strategic objective in Mozambique’s development agenda.",
+      "why": "«Government of Mozambique, ECA, UNCTAD and the private sector unite to advance green industrialisation in…» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Government of Mozambique, ECA, UNCTAD and the private sector unite to advance green industrialisation in…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-19T07:18:45+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/government-of-mozambique-eca-unctad-and-the-private-sector-unite-to-advance-green-industrialisation-in-southern-africa/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "The commitment was underscored during the Workshop on Regional Studies on Innovative Climate Action to Accelerate Green Industrialization in Southern Africa, held in Maputo under the United Nations Development Account (UNDA) 17th Tranche Project. The event brought together government officials, development partners, private sector representatives, academia, and civil society to review regional studies and identify practical pathways to advance green industrial development Opening the workshop, H.E. Custódia Paunde, State Secretary for Industry at Mozambique’s Ministry of Economy, emphasised that industrialisation remains a fundamental national priority and that sustainability should be seen as an opportunity to modernise production systems and enhance competitiveness “Industrialization remains a central, priority and non-negotiable strategic objective in Mozambique’s development agenda. «Government of Mozambique, ECA, UNCTAD and the private sector unite to advance green industrialisation in…» helps explain a concrete economic or business change relevant to Moçambique. For «Government of Mozambique, ECA, UNCTAD and the private sector unite to advance green industrialisation in…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 13.73,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "IA",
+        "Economia"
       ],
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "The busy training base is located behind fences on remote land in Alberta A huge fire swept through a Canadian military base on Saturday, killing at least four people and seriously injuring dozens more Prime Minister Mark Carney described it as one of the worst peace time tragedies on Canadian soil in the history of the military Here is what we know about the deadly incident so far Few details about what triggered the deadly fire at Canadian Forces Base Wainwright, which broke out at around 16:00 local time (22:00 GMT), have been confirmed by authorities so far Local media reported it may have been started when a gas main was struck during a live firing exercise taking place on the grounds Carney said a \"violent, fast-moving fire swept through the base\" without confirming what started it Minister of National Defence David McGuinty said those caught up in the fire were \"training on the range\" The Municipal District of Wainwright posted on social media that the fire had \"spread rapidly due to high winds\" The prime minister said military and civilian fire crews \"fought this fire…",
-      "why": "«What we know so far about deadly fire at Canadian military base» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «What we know so far about deadly fire at Canadian military base», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "summary": "Jack Clark, a co-founder and Head of Public Benefit of Anthropic Artificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the \"public good\" The announcement comes as Anthropic lays the ground for a potential blockbuster stock market listing that could value the firm at more than $1tn (£750bn) The AI industry has come under intense scrutiny recently over safety concerns and fears about its impact on society and the economy.",
+      "why": "«Anthropic says it will commit 5% of its shares to 'public benefit fund'» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «Anthropic says it will commit 5% of its shares to 'public benefit fund'», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
       "source": "BBC World",
-      "published": "2026-10-18T21:16:42+00:00",
+      "published": "2026-10-19T08:31:32+00:00",
       "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -29,95 +59,8 @@
       "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "The busy training base is located behind fences on remote land in Alberta A huge fire swept through a Canadian military base on Saturday, killing at least four people and seriously injuring dozens more Prime Minister Mark Carney described it as one of the worst peace time tragedies on Canadian soil in the history of the military Here is what we know about the deadly incident so far Few details about what triggered the deadly fire at Canadian Forces Base Wainwright, which broke out at around 16:00 local time (22:00 GMT), have been confirmed by authorities so far Local media reported it may have been started when a gas main was struck during a live firing exercise taking place on the grounds Carney said a \"violent, fast-moving fire swept through the base\" without confirming what started it Minister of National Defence David McGuinty said those caught up in the fire were \"training on the range\" The Municipal District of Wainwright posted on social media that the fire had \"spread rapidly due to high winds\" The prime minister said military and civilian fire crews \"fought this fire… «What we know so far about deadly fire at Canadian military base» matters because it may change energy and investment decisions affecting Mundo. For «What we know so far about deadly fire at Canadian military base», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "detailed_summary": "Jack Clark, a co-founder and Head of Public Benefit of Anthropic Artificial intelligence (AI) giant Anthropic says it will commit 5% of its shares to a fund that will make donations for the \"public good\" The announcement comes as Anthropic lays the ground for a potential blockbuster stock market listing that could value the firm at more than $1tn (£750bn) The AI industry has come under intense scrutiny recently over safety concerns and fears about its impact on society and the economy. «Anthropic says it will commit 5% of its shares to 'public benefit fund'» points to a concrete change in the adoption, regulation or use of technology. For «Anthropic says it will commit 5% of its shares to 'public benefit fund'», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
       "editorial_score": 13.0,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-      "summary": "Warning: This video contains descriptions of drug-taking and distressing images A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis Earlier this year, President Donald Trump pledged a crackdown on drug cartels, proscribing many as terrorist organisations Drug overdose deaths have fallen from a peak of around 110,000 in 2022, down to roughly 70,000 last year However, America's decades-long drug crisis may be accelerating and authorities are increasingly concerned about cheaper, more powerful synthetic drugs, including an animal tranquilliser called tranq The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis",
-      "why": "«Inside Chicago's battle against the synthetic drugs flooding the US» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Inside Chicago's battle against the synthetic drugs flooding the US», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-18T21:00:22+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Warning: This video contains descriptions of drug-taking and distressing images A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis Earlier this year, President Donald Trump pledged a crackdown on drug cartels, proscribing many as terrorist organisations Drug overdose deaths have fallen from a peak of around 110,000 in 2022, down to roughly 70,000 last year However, America's decades-long drug crisis may be accelerating and authorities are increasingly concerned about cheaper, more powerful synthetic drugs, including an animal tranquilliser called tranq The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis. «Inside Chicago's battle against the synthetic drugs flooding the US» deserves attention because it may change political, diplomatic or security risks. For «Inside Chicago's battle against the synthetic drugs flooding the US», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.94,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
-      "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew",
-      "why": "«‘Anger and shame’: Macron denounces France’s nationwide rioting, looting» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «‘Anger and shame’: Macron denounces France’s nationwide rioting, looting», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-18T20:19:22+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew. «‘Anger and shame’: Macron denounces France’s nationwide rioting, looting» deserves attention because it may change political, diplomatic or security risks. For «‘Anger and shame’: Macron denounces France’s nationwide rioting, looting», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.79,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
-      "summary": "Anti-government protesters continued calls for Edi Rama to step down as violent clashes between demonstrators and police again took place Student-led protests continued in Albania for a sixth day with continued demands for Prime Minister Edi Rama to resign Despite those calls, Rama is refusing to step down , saying the demonstrations were not a threat to government but rather a threat to Albania's ambition of accession to the European Union \"I ​am not being challenged, the government is not being challenged, a government majority or a winning party in the elections is not being challenged but a path is being challenged, a mission is being challenged,\" Rama said in a live address on Facebook \"Albanians need to think ​very clearly: Do they want this, do they want that, or do they want the EU?” Rama asked Rama ruled out resigning and said that the protests are the \"work of an outside hand.\" Earlier in the week Rama ruled out resigning, saying that governments were changed through elections Student-led demonstrations, spurred by discontent over alleged government corruption…",
-      "why": "«Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-10-18T19:47:00+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Anti-government protesters continued calls for Edi Rama to step down as violent clashes between demonstrators and police again took place Student-led protests continued in Albania for a sixth day with continued demands for Prime Minister Edi Rama to resign Despite those calls, Rama is refusing to step down , saying the demonstrations were not a threat to government but rather a threat to Albania's ambition of accession to the European Union \"I ​am not being challenged, the government is not being challenged, a government majority or a winning party in the elections is not being challenged but a path is being challenged, a mission is being challenged,\" Rama said in a live address on Facebook \"Albanians need to think ​very clearly: Do they want this, do they want that, or do they want the EU?” Rama asked Rama ruled out resigning and said that the protests are the \"work of an outside hand.\" Earlier in the week Rama ruled out resigning, saying that governments were changed through elections Student-led demonstrations, spurred by discontent over alleged government corruption… «Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes» is worth following because of its possible economic, institutional or regional effects. For «Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.69,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -126,29 +69,175 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts",
-      "summary": "According to the contract award notices published by ANE’s provincial delegations, the contracts concern new lots for road engineering and paving projects, five of which are located in Inhambane province, in southern Mozambique, and four in Sofala, in the centre of the country The awards fall under the 2026–2031 Accelerated National Road Rehabilitation and Construction Programme, known as “More Roads – 2031”, and cover national and regional road links In Inhambane province, the contracts total 285 kilometres and 10,104,807,009 meticais (€143.6 million) The contracts were awarded to a consortium comprising the companies Maripoma Entreprise Limitada, from Mozambique, Maripoma Entreprise Limitada, from Ghana, CC Building Limitada and GWIC Moçambique Limitada The largest lot in Inhambane covers the 70-kilometre Sitila–Funhalouro section of road R444, awarded for 2,469,027,132 meticais (€35 million) On the same road corridor, the 40-kilometre Massinga–Sitila section was awarded for 1,612,980,998 meticais (€22.9 million) On national road N222, the 58-kilometre Mapinhane–Macumene section…",
-      "why": "«Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-17T04:01:42+00:00",
-      "age_hours": 41.3,
-      "within_24h": false,
-      "link": "https://clubofmozambique.com/news/mozambique-ane-awards-20-6-billion-meticais-for-inhambane-and-sofala-road-contracts/",
+      "title": "Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED",
+      "summary": "Maputo, 19 Oct (AIM) – Islamic State Mozambique (ISM) has increasingly targeted civilians in the districts of Mocimboa da Praia, Muidumbe, and Macomia, in the southern Mozambican province of Cabo Delgado over the months of August and September. According to the latest report carried out by the independent conflict registration project ACLED (Armed Conflict Location and Event Data Project), the terrorists have been tightening security measures in Mocimboa da Praia, constraining commercial and humanitarian activity. “As a result, the town is likely to become tense. That tension may be directed toward the state, either through protests or increased collaboration with ISM. Evidence suggests that ISM’s return to Nangade is to draw on support from neighboring Tanzania, a development likely to lead to tightened security measures on both sides of the border”, reads the report. Meanwhile, the early October release of hostages taken by ISM in Niassa province last month in return for ransom is likely to embolden the group to target foreigners for abduction in the future.",
+      "why": "«Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-18T22:16:12+00:00",
+      "age_hours": 10.3,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/19/terrorists-increasingly-targeting-civilians-in-three-cabo-delgado-districts-acled/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 19 Oct (AIM) – Islamic State Mozambique (ISM) has increasingly targeted civilians in the districts of Mocimboa da Praia, Muidumbe, and Macomia, in the southern Mozambican province of Cabo Delgado over the months of August and September. According to the latest report carried out by the independent conflict registration project ACLED (Armed Conflict Location and Event Data Project), the terrorists have been tightening security measures in Mocimboa da Praia, constraining commercial and humanitarian activity. “As a result, the town is likely to become tense. That tension may be directed toward the state, either through protests or increased collaboration with ISM. Evidence suggests that ISM’s return to Nangade is to draw on support from neighboring Tanzania, a development likely to lead to tightened security measures on both sides of the border”, reads the report. Meanwhile, the early October release of hostages taken by ISM in Niassa province last month in return for ransom is likely to embolden the group to target foreigners for abduction in the future. «Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED» deserves attention because it may change political, diplomatic or security risks. For «Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "editorial_score": 12.85,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
+      "summary": "President Emmanuel Macron urged calm in a national address following widespread looting and violence France's Prime Minister Sébastien Lecornu is holding a crisis cabinet meeting on Monday to assess a weekend of violence and looting across the country, in what were some of the worst scenes of public disorder in modern French history Interior Minister Laurent Nuñez tried to hand in his resignation, the Élysée Palace (French President Macron's HQ) announced on Monday morning. But instead, Macron has asked him to examine how to make France's streets safer and to bring the perpetrators of the weekend violence to justice Over half a million mainly peaceful protesters demonstrated on Saturday against rising living costs and dwindling access to decent public services, including a good state education. But the protests turned nasty after groups of black-clad, masked activists and vandals appeared An estimated 1,500 shops and businesses were looted and destroyed. Riot police fired tear gas and turned water cannon on crowds. They were seen hitting people with batons in several places.",
+      "why": "«Katya Adler: France's government under pressure after weekend of widespread violence» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Katya Adler: France's government under pressure after weekend of widespread violence», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-19T07:46:54+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "President Emmanuel Macron urged calm in a national address following widespread looting and violence France's Prime Minister Sébastien Lecornu is holding a crisis cabinet meeting on Monday to assess a weekend of violence and looting across the country, in what were some of the worst scenes of public disorder in modern French history Interior Minister Laurent Nuñez tried to hand in his resignation, the Élysée Palace (French President Macron's HQ) announced on Monday morning. But instead, Macron has asked him to examine how to make France's streets safer and to bring the perpetrators of the weekend violence to justice Over half a million mainly peaceful protesters demonstrated on Saturday against rising living costs and dwindling access to decent public services, including a good state education. But the protests turned nasty after groups of black-clad, masked activists and vandals appeared An estimated 1,500 shops and businesses were looted and destroyed. Riot police fired tear gas and turned water cannon on crowds. They were seen hitting people with batons in several places. «Katya Adler: France's government under pressure after weekend of widespread violence» matters because it may change energy and investment decisions affecting Mundo. For «Katya Adler: France's government under pressure after weekend of widespread violence», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 12.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique: Zero sesame export rejections in the EU and Japan in 2026",
+      "summary": "A total of 6,400 tonnes were exported, of which 1,400 tonnes went to the European Union, across 33 consignments, and 5,000 tonnes to Japan, across 31 consignments Mozambique’s total sesame exports to all destinations during the January-to-September period stood at 48,915 tonnes, with no returns recorded, according to the available data This result was achieved for the first time in the past five years, following the rejection of 14 consignments of Mozambican origin in the two markets over the previous three years By contrast, during the period under review, the European Union recorded 56 rejections of imported sesame and Japan recorded nine, associated with the presence of Salmonella, pesticide residues and aflatoxins Among the countries of origin of the rejected products, Nigeria stood out with 31 cases, followed by India with 12, Sudan with 11 and Tanzania with five, according to data from the European Union’s Rapid Alert System for Food and Feed (RASFF) and Japan’s Ministry of Health, Labour and Welfare (MHLW), covering January to September 2026 The result reflects progress in…",
+      "why": "«Mozambique: Zero sesame export rejections in the EU and Japan in 2026» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique: Zero sesame export rejections in the EU and Japan in 2026», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-19T06:39:10+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-zero-sesame-export-rejections-in-the-eu-and-japan-in-2026/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "Club of Mozambique"
       ],
       "primary_source": "Club of Mozambique",
-      "status": "update",
-      "opportunity_flag": true,
-      "detailed_summary": "According to the contract award notices published by ANE’s provincial delegations, the contracts concern new lots for road engineering and paving projects, five of which are located in Inhambane province, in southern Mozambique, and four in Sofala, in the centre of the country The awards fall under the 2026–2031 Accelerated National Road Rehabilitation and Construction Programme, known as “More Roads – 2031”, and cover national and regional road links In Inhambane province, the contracts total 285 kilometres and 10,104,807,009 meticais (€143.6 million) The contracts were awarded to a consortium comprising the companies Maripoma Entreprise Limitada, from Mozambique, Maripoma Entreprise Limitada, from Ghana, CC Building Limitada and GWIC Moçambique Limitada The largest lot in Inhambane covers the 70-kilometre Sitila–Funhalouro section of road R444, awarded for 2,469,027,132 meticais (€35 million) On the same road corridor, the 40-kilometre Massinga–Sitila section was awarded for 1,612,980,998 meticais (€22.9 million) On national road N222, the 58-kilometre Mapinhane–Macumene section… «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: ANE awards 20.6 billion meticais for Inhambane and Sofala road contracts», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 8.96,
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A total of 6,400 tonnes were exported, of which 1,400 tonnes went to the European Union, across 33 consignments, and 5,000 tonnes to Japan, across 31 consignments Mozambique’s total sesame exports to all destinations during the January-to-September period stood at 48,915 tonnes, with no returns recorded, according to the available data This result was achieved for the first time in the past five years, following the rejection of 14 consignments of Mozambican origin in the two markets over the previous three years By contrast, during the period under review, the European Union recorded 56 rejections of imported sesame and Japan recorded nine, associated with the presence of Salmonella, pesticide residues and aflatoxins Among the countries of origin of the rejected products, Nigeria stood out with 31 cases, followed by India with 12, Sudan with 11 and Tanzania with five, according to data from the European Union’s Rapid Alert System for Food and Feed (RASFF) and Japan’s Ministry of Health, Labour and Welfare (MHLW), covering January to September 2026 The result reflects progress in… «Mozambique: Zero sesame export rejections in the EU and Japan in 2026» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Zero sesame export rejections in the EU and Japan in 2026», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 12.6,
       "source_tier": "B",
-      "editorial_status": "ACTUALIZAÇÃO"
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
+      "summary": "For the first time, AI is playing a major role in Israel's elections. Observers warn that deepfakes, bots and influence campaigns could sway voters In a 19-second clip posted to X, Gadi Eisenkot, a candidate for prime minister, stands with his arms outstretched and a huge smile on his face. In slow motion, he runs through a meadow toward a person who resembles his son, wearing a shirt with the words \"Israeli Unity.\" But Eisenkot sails past him and instead embraces Mansour Abbas, a prominent Arab politician who leads the Ra'am party , running in the elections The video was posted on Prime Minister Benjamin Netanyahu's account. Opinion polls show Netanyahu and Eisenkot, who also happens to be a former chief of staff of the Israel Defense Forces, in a tight race. The AI-generated video appears to be designed to play on anti-Arab sentiment — a big part of Netanyahu's campaign The clip was viewed more than 1 million times and stirred outrage.",
+      "why": "«Deepfakes, bots and distrust: How AI is shaping Israel's election» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Deepfakes, bots and distrust: How AI is shaping Israel's election», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-19T08:26:00+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "For the first time, AI is playing a major role in Israel's elections. Observers warn that deepfakes, bots and influence campaigns could sway voters In a 19-second clip posted to X, Gadi Eisenkot, a candidate for prime minister, stands with his arms outstretched and a huge smile on his face. In slow motion, he runs through a meadow toward a person who resembles his son, wearing a shirt with the words \"Israeli Unity.\" But Eisenkot sails past him and instead embraces Mansour Abbas, a prominent Arab politician who leads the Ra'am party , running in the elections The video was posted on Prime Minister Benjamin Netanyahu's account. Opinion polls show Netanyahu and Eisenkot, who also happens to be a former chief of staff of the Israel Defense Forces, in a tight race. The AI-generated video appears to be designed to play on anti-Arab sentiment — a big part of Netanyahu's campaign The clip was viewed more than 1 million times and stirred outrage. «Deepfakes, bots and distrust: How AI is shaping Israel's election» deserves attention because it may change political, diplomatic or security risks. For «Deepfakes, bots and distrust: How AI is shaping Israel's election», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.98,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "No ‘turmoil’ at the White House",
+      "summary": "The media had a field day with Zacharia’s short tenure, but claims of chaos in Trump administration are exaggerated",
+      "why": "«No ‘turmoil’ at the White House» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «No ‘turmoil’ at the White House», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-19T06:50:43+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The media had a field day with Zacharia’s short tenure, but claims of chaos in Trump administration are exaggerated. «No ‘turmoil’ at the White House» matters because it may change energy and investment decisions affecting Mundo. For «No ‘turmoil’ at the White House», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 11.65,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Germany news: Berlin conference seeks to drum up investment",
+      "summary": "The \"Invest in Germany Summit\" is set to kick off in Berlin as the government looks to fill gaps in public funding. DW has more This is a roundup of the stories from and about Germany that are hitting the headlines on Monday, October 19, 2026: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google .",
+      "why": "«Germany news: Berlin conference seeks to drum up investment» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «Germany news: Berlin conference seeks to drum up investment», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "DW English",
+      "published": "2026-10-19T06:49:00+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "The \"Invest in Germany Summit\" is set to kick off in Berlin as the government looks to fill gaps in public funding. DW has more This is a roundup of the stories from and about Germany that are hitting the headlines on Monday, October 19, 2026: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google . «Germany news: Berlin conference seeks to drum up investment» helps explain a concrete economic or business change relevant to Mundo. For «Germany news: Berlin conference seeks to drum up investment», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 11.62,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     }
   ],
   "watch": [
@@ -170,9 +259,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 1,
+    "Moçambique": 3,
     "África": 0,
-    "Mundo": 4
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

@@ -1,10 +1,155 @@
 {
-  "updated_at": "2026-10-18T21:18:44.534447+00:00",
+  "updated_at": "2026-10-19T08:34:22.000295+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas",
+      "summary": "AS comunidades dos postos administrativos de Muhipiti e Matondovela, nos distritos de Nipepe e Mecula, na província do Niassa, poderão ser iluminados até ao fim do presente ano, com a conclusão do processo da electrificação que é levado a cabo pelo Fundo de Energia (FUNAE), no âmbito do programa governamental designado Energia para Todos, uma iniciativa que visa promover o desenvolvimento local e melhorar a qualidade de vida da população. A garantia foi dada por Victor Raul, delegado provincial do FUNAE, no Niassa, em entrevista ao “Notícias”, na qual falou dos trabalhos em curso de electrificação dos postos administrativos de Nacumua, Chiúta e Gomba, nos distritos de Metarica, Mecanhelas e Mecula, respectivamente. Segundo Raul, a parte da rede eléctrica de todos estes projectos será executada pela Electricidade de Moçambique (EDM), que poderá levantar os equipamentos nos armazéns do FUNAE, assim que terminar o processo burocrático. Avançou que a instituição comprometeu-se para que os residentes destas comunidades possam passar a quadra festiva que se avizinha, com iluminação.",
+      "why": "«VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-19T07:57:20+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/victor-raul-em-entrevista-ao-noticias-ate-as-festas-do-fim-de-ano-mais-comunidades-estarao-iluminadas/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "AS comunidades dos postos administrativos de Muhipiti e Matondovela, nos distritos de Nipepe e Mecula, na província do Niassa, poderão ser iluminados até ao fim do presente ano, com a conclusão do processo da electrificação que é levado a cabo pelo Fundo de Energia (FUNAE), no âmbito do programa governamental designado Energia para Todos, uma iniciativa que visa promover o desenvolvimento local e melhorar a qualidade de vida da população. A garantia foi dada por Victor Raul, delegado provincial do FUNAE, no Niassa, em entrevista ao “Notícias”, na qual falou dos trabalhos em curso de electrificação dos postos administrativos de Nacumua, Chiúta e Gomba, nos distritos de Metarica, Mecanhelas e Mecula, respectivamente. Segundo Raul, a parte da rede eléctrica de todos estes projectos será executada pela Electricidade de Moçambique (EDM), que poderá levantar os equipamentos nos armazéns do FUNAE, assim que terminar o processo burocrático. Avançou que a instituição comprometeu-se para que os residentes destas comunidades possam passar a quadra festiva que se avizinha, com iluminação. «VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «VICTOR RAUL, EM ENTREVISTA AO “NOTÍCIAS”: Até às festas do fim-de-ano mais comunidades estarão iluminadas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.88,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas",
+      "summary": "O Governo defendeu o reforço da cooperação internacional no combate ao terrorismo e na resposta às alterações climáticas, considerando que estes desafios exigem não só medidas de segurança, mas também […]",
+      "why": "«Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-19T06:30:00+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/19/desenvolvimento-2/mocambique-defende-mais-cooperacao-internacional-contra-terrorismo-e-alteracoes-climaticas/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo defendeu o reforço da cooperação internacional no combate ao terrorismo e na resposta às alterações climáticas, considerando que estes desafios exigem não só medidas de segurança, mas também […]. «Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique Defende Mais Cooperação Internacional Contra Terrorismo e Alterações Climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.56,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Marco Rubio nega pausa na partilha de informações com Kiev",
+      "summary": "O chefe da diplomacia dos Estados Unidos (EUA), Marco Rubio, afirmou hoje que não houve \"nenhuma pausa\" na partilha de informações de inteligência com Kiev e instou a Ucrânia a \"terminar a guerra\" No domingo, o Presidente ucraniano, Volodymyr Zelensky, revelou que os EUA voltaram a partilhar informações com Kiev ao fim de \"três dias\", agradecendo a Washington o fim do bloqueio, que dificultou a resposta da Ucrânia aos ataques russos Numa entrevista ao canal norte-americano NBC, Zelensky disse que a partilha de informações \"esteve bloqueada durante algum tempo e, depois, foi desbloqueada pelo lado norte-americano\", referiu \"Estamos gratos por isso. Agora está a funcionar\", afirmou, acrescentando que a ausência durou \"três dias, durante os ataques balísticos\" de Moscovo \"Não sei onde é que ele vai buscar tudo isto ou porque é que partilha isto com a imprensa. Deviam perguntar-lhe.",
+      "why": "«Marco Rubio nega pausa na partilha de informações com Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Marco Rubio nega pausa na partilha de informações com Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-19T07:47:54+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/marco-rubio-nega-pausa-na-partilha-de-informacoes-com-kiev_n1772602",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O chefe da diplomacia dos Estados Unidos (EUA), Marco Rubio, afirmou hoje que não houve \"nenhuma pausa\" na partilha de informações de inteligência com Kiev e instou a Ucrânia a \"terminar a guerra\" No domingo, o Presidente ucraniano, Volodymyr Zelensky, revelou que os EUA voltaram a partilhar informações com Kiev ao fim de \"três dias\", agradecendo a Washington o fim do bloqueio, que dificultou a resposta da Ucrânia aos ataques russos Numa entrevista ao canal norte-americano NBC, Zelensky disse que a partilha de informações \"esteve bloqueada durante algum tempo e, depois, foi desbloqueada pelo lado norte-americano\", referiu \"Estamos gratos por isso. Agora está a funcionar\", afirmou, acrescentando que a ausência durou \"três dias, durante os ataques balísticos\" de Moscovo \"Não sei onde é que ele vai buscar tudo isto ou porque é que partilha isto com a imprensa. Deviam perguntar-lhe. «Marco Rubio nega pausa na partilha de informações com Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Marco Rubio nega pausa na partilha de informações com Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Governo anuncia fim do diferendo com Kenmare",
+      "summary": "O GOVERNO confirmou o encerramento formal do diferendo com a Kenmare Resources, concessionária da mina de areias pesadas de Moma, distrito de Larde, província de Nampula. O anúncio foi feito pelo Ministério dos Recursos Minerais e Energia (MIREME), através de um comunicado que aponta para a assinatura de um acordo de regularização definitiva que substitui o acordo de desenvolvimento local de 2004. Um dos pontos acordados, refere-se ao compromisso assumido pela Kenmare para manter os 1.682 trabalhadores, dos quais 96 por cento moçambicanos, e a concluir até 2027 a nova central solar de 15 megawatss para reduzir o consumo de gasóleo. O entendimento põe fim, assim, a quase três anos de negociações tensas sobre obrigações fiscais e sociais. Desde 2023, a Autoridade Tributária (AT) reclamava à empresa exploradora cerca de 30 milhões de dólares em impostos sobre mais-valias e royalties mal calculados entre 2019-2022. A empresa contestava, alegando que usava preços de referência do mercado internacional.",
+      "why": "«Governo anuncia fim do diferendo com Kenmare» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Governo anuncia fim do diferendo com Kenmare», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-19T07:42:02+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/governo-anuncia-fim-do-diferendo-com-kenmare/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O GOVERNO confirmou o encerramento formal do diferendo com a Kenmare Resources, concessionária da mina de areias pesadas de Moma, distrito de Larde, província de Nampula. O anúncio foi feito pelo Ministério dos Recursos Minerais e Energia (MIREME), através de um comunicado que aponta para a assinatura de um acordo de regularização definitiva que substitui o acordo de desenvolvimento local de 2004. Um dos pontos acordados, refere-se ao compromisso assumido pela Kenmare para manter os 1.682 trabalhadores, dos quais 96 por cento moçambicanos, e a concluir até 2027 a nova central solar de 15 megawatss para reduzir o consumo de gasóleo. O entendimento põe fim, assim, a quase três anos de negociações tensas sobre obrigações fiscais e sociais. Desde 2023, a Autoridade Tributária (AT) reclamava à empresa exploradora cerca de 30 milhões de dólares em impostos sobre mais-valias e royalties mal calculados entre 2019-2022. A empresa contestava, alegando que usava preços de referência do mercado internacional. «Governo anuncia fim do diferendo com Kenmare» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Governo anuncia fim do diferendo com Kenmare», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 11.81,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019",
+      "summary": "Milhares de pessoas assinalaram, no domingo, o sétimo aniversário da revolta social chilena de 2019 com uma manifestação não autorizada, que foi alvo de uma intervenção policial, com gás lacrimogéneo e veículos blindados com canhões de água Pelo menos 29 pessoas foram detidas, informaram as autoridades chilenas O chefe da força policial para a capital, Manuel Cifuentes, explicou que a marcha decorreu com normalidade, mas que, por volta das 13:00 (17:00 em Lisboa), um grupo de pessoas encapuzadas \"começou a atacar os carabineros com objectos contundentes e, posteriormente, com objectos incendiários, do tipo cocktails molotov\" Cifuentes não descartou novas detenções e sublinhou que há vários agentes feridos, que necessitaram de ser assistidos em diferentes unidades de saúde A marcha, que juntou milhares de pessoas na emblemática Praça Itália, foi organizada por várias entidades sociais e estudantis A maioria dos manifestantes protestava contra os cortes na despesa pública promovidos pelo Presidente José Antonio Kast Desde que assumiu funções, Kast tem defendido reduções da despesa…",
+      "why": "«Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-19T06:59:05+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/confrontos-marcam-protestos-no-chile-no-setimo-aniversario-da-revolta-social-de-2019_n1772580",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Milhares de pessoas assinalaram, no domingo, o sétimo aniversário da revolta social chilena de 2019 com uma manifestação não autorizada, que foi alvo de uma intervenção policial, com gás lacrimogéneo e veículos blindados com canhões de água Pelo menos 29 pessoas foram detidas, informaram as autoridades chilenas O chefe da força policial para a capital, Manuel Cifuentes, explicou que a marcha decorreu com normalidade, mas que, por volta das 13:00 (17:00 em Lisboa), um grupo de pessoas encapuzadas \"começou a atacar os carabineros com objectos contundentes e, posteriormente, com objectos incendiários, do tipo cocktails molotov\" Cifuentes não descartou novas detenções e sublinhou que há vários agentes feridos, que necessitaram de ser assistidos em diferentes unidades de saúde A marcha, que juntou milhares de pessoas na emblemática Praça Itália, foi organizada por várias entidades sociais e estudantis A maioria dos manifestantes protestava contra os cortes na despesa pública promovidos pelo Presidente José Antonio Kast Desde que assumiu funções, Kast tem defendido reduções da despesa… «Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Confrontos marcam protestos no Chile no sétimo aniversário da revolta social de 2019», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 11.67,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -16,38 +161,9 @@
       "impact": "No caso de «Brasil e Moçambique defendem cooperação no combate ao narcotráfico», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-18T20:13:58+00:00",
-      "age_hours": 1.1,
+      "age_hours": 12.3,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/18/brasil-e-mocambique-defendem-cooperacao-no-combate-ao-narcotrafico/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 18 Out (AIM) – O promotor de Justiça de São Paulo e investigador do Grupo de Actuação Especial de Combate ao Crime Organizado (GAECO), no Brasil, Lincoln Gakiya, defende o estabelecimento de uma cooperação internacional para combater o tráfico de drogas, em linha com o posicionamento de Moçambique sobre a necessidade de reforçar a colaboração entre os países no combate ao crime organizado transnacional. Segundo Gakiya, o Brasil tem cerca de 88 facções criminosas, entre as quais se destacam o Primeiro Comando da Capital (PCC), criado a 31 de Agosto de 1993, e o Comando Vermelho (CV), fundado em 1979, no Instituto Penal Cândido Mendes, na Ilha Grande, Estado do Rio de Janeiro. O investigador explicou que o tráfico de cocaína constitui uma das principais actividades criminosas do PCC, cuja rede de abastecimento tem origem em países sul-americanos, nomeadamente a Bolívia, o Paraguai e o Peru. A droga é posteriormente comercializada em diferentes mercados internacionais, incluindo a Europa, com trânsito pela África Austral. «Brasil e Moçambique defendem cooperação no combate ao narcotráfico» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Brasil e Moçambique defendem cooperação no combate ao narcotráfico», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.77,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas",
-      "summary": "Maputo, 18 de Out (AIM)— Moçambique defendeu, em Bagdade, uma acção internacional coordenada para combater o terrorismo e o extremismo violento, reforçar a adaptação às alterações climáticas e promover a paz e a segurança internacionais, considerando o diálogo, a diplomacia e a cooperação entre os Estados fundamentais para enfrentar os actuais desafios globais. A posição foi apresentada pelo ministro da Justiça, Assuntos Constitucionais e Religiosos, Mateus Saize, na 52.ª Sessão do Conselho de Ministros da Organização da Cooperação Islâmica (OCI), que decorreu nos dias 17 e 18 de Outubro, na capital iraquiana, sob o lema «O Diálogo e a Solidariedade são Pilares Fundamentais para Avançar na Paz e no Desenvolvimento Sustentável». Na sua intervenção, o ministro apontou o terrorismo, as disputas comerciais entre as principais potências mundiais e os efeitos das alterações climáticas, incluindo ciclones, cheias e secas, entre os desafios que afectam Moçambique no actual contexto internacional.",
-      "why": "«Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-18T11:13:52+00:00",
-      "age_hours": 10.1,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/18/mocambique-defende-accao-internacional-coordenada-contra-terrorismo-e-alteracoes-climaticas/",
       "original_source": true,
       "event_id": "evt-mocambique-004",
       "cluster_size": 1,
@@ -57,207 +173,55 @@
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 18 de Out (AIM)— Moçambique defendeu, em Bagdade, uma acção internacional coordenada para combater o terrorismo e o extremismo violento, reforçar a adaptação às alterações climáticas e promover a paz e a segurança internacionais, considerando o diálogo, a diplomacia e a cooperação entre os Estados fundamentais para enfrentar os actuais desafios globais. A posição foi apresentada pelo ministro da Justiça, Assuntos Constitucionais e Religiosos, Mateus Saize, na 52.ª Sessão do Conselho de Ministros da Organização da Cooperação Islâmica (OCI), que decorreu nos dias 17 e 18 de Outubro, na capital iraquiana, sob o lema «O Diálogo e a Solidariedade são Pilares Fundamentais para Avançar na Paz e no Desenvolvimento Sustentável». Na sua intervenção, o ministro apontou o terrorismo, as disputas comerciais entre as principais potências mundiais e os efeitos das alterações climáticas, incluindo ciclones, cheias e secas, entre os desafios que afectam Moçambique no actual contexto internacional. «Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique defende acção internacional coordenada contra terrorismo e alterações climáticas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.9,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas",
-      "summary": "Moçambique exportou 6400 toneladas de gergelim para a União Europeia e o Japão nos últimos seis meses, sem registar qualquer rejeição dos produtos nestes mercados, um resultado alcançado pela primeira […]",
-      "why": "«Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-18T13:00:00+00:00",
-      "age_hours": 8.3,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/18/negocios/agronegocios/exportacoes-de-gergelim-para-ue-e-japao-atingem-64-mil-toneladas/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Moçambique exportou 6400 toneladas de gergelim para a União Europeia e o Japão nos últimos seis meses, sem registar qualquer rejeição dos produtos nestes mercados, um resultado alcançado pela primeira […]. «Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Exportações de Gergelim Para UE e Japão Atingem 6,4 Mil Toneladas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.27,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio",
-      "summary": "O Instituto de Cereais de Moçambique (ICM) está a explorar oportunidades de cooperação comercial com empresas indonésias, com o objectivo de estabelecer canais directos e estáveis para a importação e […]",
-      "why": "«ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-18T11:00:00+00:00",
-      "age_hours": 10.3,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/18/negocios/comercio/icn-procura-novos-fornecedores-de-trigo-e-arroz-no-mercado-indonesio/",
-      "original_source": true,
-      "event_id": "evt-mocambique-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "O Instituto de Cereais de Moçambique (ICM) está a explorar oportunidades de cooperação comercial com empresas indonésias, com o objectivo de estabelecer canais directos e estáveis para a importação e […]. «ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «ICN Procura Novos Fornecedores de Trigo e Arroz no Mercado Indonésio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.85,
+      "detailed_summary": "Maputo, 18 Out (AIM) – O promotor de Justiça de São Paulo e investigador do Grupo de Actuação Especial de Combate ao Crime Organizado (GAECO), no Brasil, Lincoln Gakiya, defende o estabelecimento de uma cooperação internacional para combater o tráfico de drogas, em linha com o posicionamento de Moçambique sobre a necessidade de reforçar a colaboração entre os países no combate ao crime organizado transnacional. Segundo Gakiya, o Brasil tem cerca de 88 facções criminosas, entre as quais se destacam o Primeiro Comando da Capital (PCC), criado a 31 de Agosto de 1993, e o Comando Vermelho (CV), fundado em 1979, no Instituto Penal Cândido Mendes, na Ilha Grande, Estado do Rio de Janeiro. O investigador explicou que o tráfico de cocaína constitui uma das principais actividades criminosas do PCC, cuja rede de abastecimento tem origem em países sul-americanos, nomeadamente a Bolívia, o Paraguai e o Peru. A droga é posteriormente comercializada em diferentes mercados internacionais, incluindo a Europa, com trânsito pela África Austral. «Brasil e Moçambique defendem cooperação no combate ao narcotráfico» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Brasil e Moçambique defendem cooperação no combate ao narcotráfico», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 11.44,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Macron exprime \"vergonha\" após tumultos e apela ao diálogo responsável a seis meses das eleições",
-      "summary": "O presidente francês dirigiu-se este domingo ao país depois da onda de violência que assolou várias cidades daquele país, com vandalismo e pilhagens",
-      "why": "«Macron exprime \"vergonha\" após tumultos e apela ao diálogo responsável a seis meses das eleições» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Macron exprime \"vergonha\" após tumultos e apela ao diálogo responsável a seis meses das eleições», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-18T19:24:22+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/macron-exprime-vergonha-apos-tumultos-e-apela-ao-dialogo-responsavel-a-seis-meses-das-eleicoes_n1772532",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Macron vai falar. França em estilhaços e cinzas após jornada de protestos e confrontos",
-          "link": "https://www.rtp.pt/noticias/mundo/macron-vai-falar-franca-em-estilhacos-e-cinzas-apos-jornada-de-protestos-e-confrontos_n1772441"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "O presidente francês dirigiu-se este domingo ao país depois da onda de violência que assolou várias cidades daquele país, com vandalismo e pilhagens. «Macron exprime \"vergonha\" após tumultos e apela ao diálogo responsável a seis meses das eleições» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Macron exprime \"vergonha\" após tumultos e apela ao diálogo responsável a seis meses das eleições», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.6,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Prémio Nobel Maria Corina Machado confirmada como líder da oposição na Venezuela",
-      "summary": "A oposição venezuelana anunciou hoje um \"grande acordo nacional\" que confirma a Nobel da Paz Maria Corina Machado como sua líder, quando decorrem negociações com o Governo interino para avançar para a transição democrática no país",
-      "why": "«Prémio Nobel Maria Corina Machado confirmada como líder da oposição na Venezuela» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Prémio Nobel Maria Corina Machado confirmada como líder da oposição na Venezuela», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-18T18:20:33+00:00",
-      "age_hours": 3.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/premio-nobel-maria-corina-machado-confirmada-como-lider-da-oposicao-na-venezuela_n1772512",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A oposição venezuelana anunciou hoje um \"grande acordo nacional\" que confirma a Nobel da Paz Maria Corina Machado como sua líder, quando decorrem negociações com o Governo interino para avançar para a transição democrática no país. «Prémio Nobel Maria Corina Machado confirmada como líder da oposição na Venezuela» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Prémio Nobel Maria Corina Machado confirmada como líder da oposição na Venezuela», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.38,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo de Tete entrega 180 cabeças de gado a produtores de três distritos",
-      "summary": "O Governo da província de Tete entregou 180 cabeças de gado bovino a produtores dos distritos de Angónia, Tsangano e Macanga, numa iniciativa destinada a aumentar a produção e a produtividade agrícola, bem como a melhorar as condições de vida das famílias rurais. Do total de animais distribuídos, 60 foram destinados ao distrito de Angónia, […]",
-      "why": "«Governo de Tete entrega 180 cabeças de gado a produtores de três distritos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo de Tete entrega 180 cabeças de gado a produtores de três distritos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-10-18T17:50:38+00:00",
-      "age_hours": 3.5,
-      "within_24h": true,
-      "link": "https://opais.co.mz/governo-de-tete-entrega-180-cabecas-de-gado-a-produtores-de-tres-distritos/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo da província de Tete entregou 180 cabeças de gado bovino a produtores dos distritos de Angónia, Tsangano e Macanga, numa iniciativa destinada a aumentar a produção e a produtividade agrícola, bem como a melhorar as condições de vida das famílias rurais. Do total de animais distribuídos, 60 foram destinados ao distrito de Angónia, […]. «Governo de Tete entrega 180 cabeças de gado a produtores de três distritos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo de Tete entrega 180 cabeças de gado a produtores de três distritos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.27,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
       "tags": [
         "Segurança"
       ],
-      "title": "Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU",
-      "summary": "O antigo Presidente do Senegal Macky Sall anunciou hoje que retirava a sua candidatura ao cargo de secretário-geral da ONU, na sequência de uma primeira votação indicativa do Conselho de Segurança, onde nenhum candidato obteve consenso Numa declaração publicada nas redes sociais, Macky Sall afirmou ter tomado esta decisão \"na esperança de contribuir assim para o surgimento de uma candidatura consensual no seio do Conselho de Segurança\" Na sexta-feira à noite, os membros permanentes do Conselho de Segurança vetaram todos os atuais candidatos ao cargo de secretário-geral da ONU, numa votação informal, segundo fontes diplomáticas Fonte diplomática afirmou à AFP que na votação, com carácter indicativo, nenhum dos sete candidatos conseguiu evitar um voto negativo das cinco potências --- Grã-Bretanha, França, Estados Unidos, China e Rússia ---, o que abre caminho ao surgimento de prováveis novas candidaturas Na sexta votação à porta fechada (conhecida como straw poll), e que deverá ser a última consulta, os 15 membros atribuíram, de forma anónima, uma classificação a cada candidato…",
-      "why": "«Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "RTP Notícias",
-      "published": "2026-10-17T14:19:35+00:00",
-      "age_hours": 31.0,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/ex-presidente-do-senegal-retira-se-da-corrida-a-secretario-geral-da-onu_n1772329",
+      "title": "França: imagens de drone revelam danos na câmara de Limoges",
+      "summary": "Incêndio destrói câmara do século XIX em Limoges durante protestos contra custo de vida em França; dezenas de detenções e feridos, Macron promete reforçar segurança",
+      "why": "«França: imagens de drone revelam danos na câmara de Limoges» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «França: imagens de drone revelam danos na câmara de Limoges», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-19T07:51:59+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/video/2026/10/19/franca-imagens-de-drone-revelam-danos-na-camara-de-limoges",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Euronews Português"
       ],
-      "primary_source": "RTP Notícias",
-      "status": "update",
+      "primary_source": "Euronews Português",
+      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O antigo Presidente do Senegal Macky Sall anunciou hoje que retirava a sua candidatura ao cargo de secretário-geral da ONU, na sequência de uma primeira votação indicativa do Conselho de Segurança, onde nenhum candidato obteve consenso Numa declaração publicada nas redes sociais, Macky Sall afirmou ter tomado esta decisão \"na esperança de contribuir assim para o surgimento de uma candidatura consensual no seio do Conselho de Segurança\" Na sexta-feira à noite, os membros permanentes do Conselho de Segurança vetaram todos os atuais candidatos ao cargo de secretário-geral da ONU, numa votação informal, segundo fontes diplomáticas Fonte diplomática afirmou à AFP que na votação, com carácter indicativo, nenhum dos sete candidatos conseguiu evitar um voto negativo das cinco potências --- Grã-Bretanha, França, Estados Unidos, China e Rússia ---, o que abre caminho ao surgimento de prováveis novas candidaturas Na sexta votação à porta fechada (conhecida como straw poll), e que deverá ser a última consulta, os 15 membros atribuíram, de forma anónima, uma classificação a cada candidato… «Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Ex-Presidente do Senegal retira-se da corrida a secretário-geral da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 7.28,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
+      "detailed_summary": "Incêndio destrói câmara do século XIX em Limoges durante protestos contra custo de vida em França; dezenas de detenções e feridos, Macron promete reforçar segurança. «França: imagens de drone revelam danos na câmara de Limoges» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «França: imagens de drone revelam danos na câmara de Limoges», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.85,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha",
-      "summary": "Espera-se que o debate televisivo nesta noite de domingo seja decisivo numa campanha marcada por escândalos e insultos.Flávio Bolsonaro, de 45 anos, filho do ex-presidente de extrema-direita Jair Bolsonaro, conseguiu uma vantagem surpreendente sobre Lula da Silva, na primeira volta, no início deste mês, contrariando as previsões das sondagens.Lula da Silva, candidato de esquerda, tem-se recusado a participar em debates com o seu rival e com os outros candidatos na primeira volta. O mesmo tem feito Flávio Bolsonaro, que chegou a recusar o debate desta noite na Band, mas depois voltou atrás.O frente a frente deste domingo à noite terá duração aproximada de 2 horas (1:40) e será dividido em 3 blocos com perguntas dos jornalistas que compõem a pool acordada entre vários meios de comunicação (Band, Estadão, TV Cultura, Gazeta e Jovem Pan).",
-      "why": "«Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido",
+      "summary": "A província de Alberta decide na segunda-feira se quer avançar para um referendo vinculativo sobre a secessão do Canadá, com o primeiro-ministro Mark Carney a alertar que uma vitória dos separatistas traria uma incerteza perigosa numa altura de guerra comercial com os Estados Unidos.As sondagens indicam que menos de um quarto da população desta província do oeste do Canadá apoia a independência.Mas, nos dias que antecedem a votação, as atenções centram-se na participação eleitoral e em saber se um campo separatista mobilizado poderá contrariar as sondagens, beneficiando de federalistas complacentes.“Não deixem que vos digam que isto já está decidido.",
+      "why": "«Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-18T17:10:10+00:00",
-      "age_hours": 4.1,
+      "published": "2026-10-19T07:15:04+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/18/bolsonaro-e-lula-enfrentam-se-no-primeiro-debate-televisivo-desde-o-inicio-da-campanha",
+      "link": "https://pt.euronews.com/2026/10/19/canada-alberta-decide-se-avanca-para-referendo-pela-independencia-carney-tenta-manter-pais",
       "original_source": true,
       "event_id": "evt-mundo-003",
       "cluster_size": 1,
@@ -268,37 +232,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Espera-se que o debate televisivo nesta noite de domingo seja decisivo numa campanha marcada por escândalos e insultos.Flávio Bolsonaro, de 45 anos, filho do ex-presidente de extrema-direita Jair Bolsonaro, conseguiu uma vantagem surpreendente sobre Lula da Silva, na primeira volta, no início deste mês, contrariando as previsões das sondagens.Lula da Silva, candidato de esquerda, tem-se recusado a participar em debates com o seu rival e com os outros candidatos na primeira volta. O mesmo tem feito Flávio Bolsonaro, que chegou a recusar o debate desta noite na Band, mas depois voltou atrás.O frente a frente deste domingo à noite terá duração aproximada de 2 horas (1:40) e será dividido em 3 blocos com perguntas dos jornalistas que compõem a pool acordada entre vários meios de comunicação (Band, Estadão, TV Cultura, Gazeta e Jovem Pan). «Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.15,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Vários mortos e feridos após incidente em base militar do Canadá",
-      "summary": "Um \"incidente\" numa base militar canadiana provocou várias mortes e feridos, anunciou o ministro da Defesa do Canadá na noite de sábado.“Lamento ter de informar que houve mortos e feridos na sequência de um incidente na base”, declarou David McGuinty em comunicado, identificando o local como a Base das Forças Armadas Canadianas de Wainwright, em Alberta.O primeiro-ministro canadiano, Mark Carney, afirmou que no local “ocorreu um incidente grave que provocou um grande incêndio”.“Os nossos pensamentos estão com todas as mulheres e todos os homens corajosos afetados.",
-      "why": "«Vários mortos e feridos após incidente em base militar do Canadá» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Vários mortos e feridos após incidente em base militar do Canadá», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-18T12:02:34+00:00",
-      "age_hours": 9.3,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/18/varios-mortos-e-feridos-apos-incidente-em-base-militar-do-canada",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Um \"incidente\" numa base militar canadiana provocou várias mortes e feridos, anunciou o ministro da Defesa do Canadá na noite de sábado.“Lamento ter de informar que houve mortos e feridos na sequência de um incidente na base”, declarou David McGuinty em comunicado, identificando o local como a Base das Forças Armadas Canadianas de Wainwright, em Alberta.O primeiro-ministro canadiano, Mark Carney, afirmou que no local “ocorreu um incidente grave que provocou um grande incêndio”.“Os nossos pensamentos estão com todas as mulheres e todos os homens corajosos afetados. «Vários mortos e feridos após incidente em base militar do Canadá» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Vários mortos e feridos após incidente em base militar do Canadá», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 6.06,
+      "detailed_summary": "A província de Alberta decide na segunda-feira se quer avançar para um referendo vinculativo sobre a secessão do Canadá, com o primeiro-ministro Mark Carney a alertar que uma vitória dos separatistas traria uma incerteza perigosa numa altura de guerra comercial com os Estados Unidos.As sondagens indicam que menos de um quarto da população desta província do oeste do Canadá apoia a independência.Mas, nos dias que antecedem a votação, as atenções centram-se na participação eleitoral e em saber se um campo separatista mobilizado poderá contrariar as sondagens, beneficiando de federalistas complacentes.“Não deixem que vos digam que isto já está decidido. «Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Canadá: Alberta decide se avança para referendo pela independência, Carney tenta manter país unido», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.73,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -322,8 +257,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 5,
-    "África": 1,
+    "Moçambique": 4,
+    "África": 0,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
