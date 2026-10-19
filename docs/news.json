@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:16:09.420305+00:00",
+  "updated_at": "2026-10-19T21:22:26.406406+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,37 +8,30 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças climáticas",
-      "summary": "Maputo, 19 Out (AIM) – O Governo moçambicano prevê investir cerca de 235 milhões de dólares norte-americanos, equivalentes a mais de 15 mil milhões de meticais, na adaptação do sector da saúde às mudanças climáticas, com o objectivo de evitar cerca de 30 mil mortes e mais de 1,6 milhões de anos de vida perdidos. O investimento está previsto num roteiro destinado a reforçar a resiliência do Sistema Nacional de Saúde face aos efeitos das mudanças climáticas, cada vez mais frequentes e intensos no país. Os dados foram avançados hoje, em Maputo, pelo ministro da Saúde, Ussene Isse, na abertura da Terceira Conferência sobre o Impacto das Mudanças Climáticas na Saúde. “É uma declaração inequívoca de que Moçambique não será uma vítima passiva das mudanças climáticas, mas construirá um sistema de saúde que proteja os cidadãos, fortaleça a economia e contribua para a estabilidade regional”, afirmou o governante.",
-      "why": "«Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-10-19T16:01:25+00:00",
-      "age_hours": 0.2,
+      "title": "INSS pode investir até 25% da sua carteira no Banco de Desenvolvimento",
+      "summary": "Os fundos da Segurança Social Obrigatória e da Previdência Social poderão canalizar até 25% das respectivas carteiras de investimento para o Banco de Desenvolvimento de Moçambique (BDM). A aplicação dos recursos deverá ser gradual e não poderá comprometer a solvência, a liquidez e o cumprimento das responsabilidades dos fundos perante os seus beneficiários, segundo o […]",
+      "why": "«INSS pode investir até 25% da sua carteira no Banco de Desenvolvimento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «INSS pode investir até 25% da sua carteira no Banco de Desenvolvimento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-19T16:35:11+00:00",
+      "age_hours": 4.8,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/19/governo-preve-investir-235-milhoes-de-dolares-para-tornar-sector-da-saude-resiliente-as-mudancas-climaticas/",
+      "link": "https://opais.co.mz/inss-pode-investir-ate-25-da-sua-carteira-no-banco-de-desenvolvimento/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 2,
-      "source_count": 2,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "AIM Notícias",
-        "Diário Económico"
+        "O País"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "O País",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Diário Económico",
-          "title": "Nampula: Governo e Sector Privado Discutem Oportunidades de Investimento no Sector Mineiro",
-          "link": "https://www.diarioeconomico.co.mz/2026/10/19/economia/investimento/nampula-governo-e-sector-privado-discutem-oportunidades-de-investimento-no-sector-mineiro/"
-        }
-      ],
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 19 Out (AIM) – O Governo moçambicano prevê investir cerca de 235 milhões de dólares norte-americanos, equivalentes a mais de 15 mil milhões de meticais, na adaptação do sector da saúde às mudanças climáticas, com o objectivo de evitar cerca de 30 mil mortes e mais de 1,6 milhões de anos de vida perdidos. O investimento está previsto num roteiro destinado a reforçar a resiliência do Sistema Nacional de Saúde face aos efeitos das mudanças climáticas, cada vez mais frequentes e intensos no país. Os dados foram avançados hoje, em Maputo, pelo ministro da Saúde, Ussene Isse, na abertura da Terceira Conferência sobre o Impacto das Mudanças Climáticas na Saúde. “É uma declaração inequívoca de que Moçambique não será uma vítima passiva das mudanças climáticas, mas construirá um sistema de saúde que proteja os cidadãos, fortaleça a economia e contribua para a estabilidade regional”, afirmou o governante. «Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 16.46,
+      "detailed_summary": "Os fundos da Segurança Social Obrigatória e da Previdência Social poderão canalizar até 25% das respectivas carteiras de investimento para o Banco de Desenvolvimento de Moçambique (BDM). A aplicação dos recursos deverá ser gradual e não poderá comprometer a solvência, a liquidez e o cumprimento das responsabilidades dos fundos perante os seus beneficiários, segundo o […]. «INSS pode investir até 25% da sua carteira no Banco de Desenvolvimento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «INSS pode investir até 25% da sua carteira no Banco de Desenvolvimento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 14.0,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -53,11 +46,11 @@
       "impact": "No caso de «ENH e Sasol Discutem Novo Projecto de Gás Natural em Moçambique», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-19T14:35:00+00:00",
-      "age_hours": 1.7,
+      "age_hours": 6.8,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/19/oilgas/enh-e-sasol-discutem-novo-projecto-de-gas-natural-em-mocambique/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -67,7 +60,50 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "A Empresa Nacional de Hidrocarbonetos (ENH) está a negociar com potenciais investidores, incluindo a sul-africana Sasol e a operadora de gasodutos ROMPCO, o desenvolvimento de um projecto de gás natural […]. «ENH e Sasol Discutem Novo Projecto de Gás Natural em Moçambique» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «ENH e Sasol Discutem Novo Projecto de Gás Natural em Moçambique», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.65,
+      "editorial_score": 13.58,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Gaza projecta central solar de 126 milhões de dólares para a indústria mineira",
+      "summary": "Por Samuel Nhamurave, da AIM Nacala-Porto, 19 Out (AIM) – A província de Gaza prevê investir cerca de 126 milhões de dólares na instalação de uma central fotovoltaica para reforçar o fornecimento de energia às empresas mineiras, numa iniciativa que visa apoiar a expansão da actividade industrial e o processamento local dos recursos minerais. O projecto foi anunciado esta segunda-feira, em Nacala-Porto, província de Nampula, pelo governador de Gaza, Alfeu Constantino Cuna, durante um painel de debate sobre a adição de valor aos recursos minerais e energéticos. “Contamos com um investimento de cerca de 126 milhões de dólares, que é para mesmo montarmos uma fotovoltaica através da empresa Golden East Engineering”, afirmou Cuna, referindo-se à central projectada para apoiar as actividades de exploração mineira na região de Chibuto.",
+      "why": "«Gaza projecta central solar de 126 milhões de dólares para a indústria mineira» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Gaza projecta central solar de 126 milhões de dólares para a indústria mineira», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-19T16:50:07+00:00",
+      "age_hours": 4.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/19/gaza-projecta-central-solar-de-126-milhoes-de-dolares-para-a-industria-mineira/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 3,
+      "source_count": 2,
+      "sources": [
+        "AIM Notícias",
+        "Diário Económico"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM Notícias",
+          "title": "Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças climáticas",
+          "link": "https://aimnews.org/2026/10/19/governo-preve-investir-235-milhoes-de-dolares-para-tornar-sector-da-saude-resiliente-as-mudancas-climaticas/"
+        },
+        {
+          "source": "Diário Económico",
+          "title": "Nampula: Governo e Sector Privado Discutem Oportunidades de Investimento no Sector Mineiro",
+          "link": "https://www.diarioeconomico.co.mz/2026/10/19/economia/investimento/nampula-governo-e-sector-privado-discutem-oportunidades-de-investimento-no-sector-mineiro/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "Por Samuel Nhamurave, da AIM Nacala-Porto, 19 Out (AIM) – A província de Gaza prevê investir cerca de 126 milhões de dólares na instalação de uma central fotovoltaica para reforçar o fornecimento de energia às empresas mineiras, numa iniciativa que visa apoiar a expansão da actividade industrial e o processamento local dos recursos minerais. O projecto foi anunciado esta segunda-feira, em Nacala-Porto, província de Nampula, pelo governador de Gaza, Alfeu Constantino Cuna, durante um painel de debate sobre a adição de valor aos recursos minerais e energéticos. “Contamos com um investimento de cerca de 126 milhões de dólares, que é para mesmo montarmos uma fotovoltaica através da empresa Golden East Engineering”, afirmou Cuna, referindo-se à central projectada para apoiar as actividades de exploração mineira na região de Chibuto. «Gaza projecta central solar de 126 milhões de dólares para a indústria mineira» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Gaza projecta central solar de 126 milhões de dólares para a indústria mineira», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 12.56,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -82,11 +118,11 @@
       "impact": "No caso de «Montepuez Ruby Mining Arrecada 52 Milhões de Dólares em Leilão de Rubis», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-19T13:00:00+00:00",
-      "age_hours": 3.3,
+      "age_hours": 8.4,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/19/negocios/empresas/montepuez-ruby-mining-arrecada-52-milhoes-de-dolares-em-leilao-de-rubis/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -96,108 +132,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A Montepuez Ruby Mining (MRM), que explora rubis em Cabo Delgado, arrecadou 52 milhões de dólares num leilão internacional realizado entre 5 e 16 de Outubro. Os resultados, divulgados esta […]. «Montepuez Ruby Mining Arrecada 52 Milhões de Dólares em Leilão de Rubis» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Montepuez Ruby Mining Arrecada 52 Milhões de Dólares em Leilão de Rubis», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 13.31,
+      "editorial_score": 12.25,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique",
-      "summary": "Maputo, 20 Out (AIM) – A Organização Mundial da Saúde (OMS) e o Banco Mundial alertam que a crise climática agrava as desigualdades no acesso e na prestação de cuidados de saúde em Moçambique, com impactos mais acentuados sobre as populações vulneráveis, estimando que a inacção perante os riscos climáticos poderá custar cerca de 11 mil milhões de dólares ao sistema de saúde. O alerta foi lançado hoje, em Maputo, durante a III Conferência sobre o Impacto das Mudanças Climáticas na Saúde Humana, que decorre de 19 a 20 de Outubro, com a participação de representantes do Governo, parceiros de cooperação, investigadores e profissionais de saúde. A representante da OMS em Moçambique, Nélida Cabral, afirmou que o país regista um aumento de casos de malária e doenças diarreicas associado a fenómenos como ciclones, inundações e calor extremo. Segundo a responsável, estes impactos afectam de forma desproporcional as populações mais vulneráveis, agravando as desigualdades existentes.",
-      "why": "«OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-19T16:11:18+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/19/oms-e-banco-mundial-alertam-que-crise-climatica-agrava-desigualdades-na-saude-em-mocambique/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 20 Out (AIM) – A Organização Mundial da Saúde (OMS) e o Banco Mundial alertam que a crise climática agrava as desigualdades no acesso e na prestação de cuidados de saúde em Moçambique, com impactos mais acentuados sobre as populações vulneráveis, estimando que a inacção perante os riscos climáticos poderá custar cerca de 11 mil milhões de dólares ao sistema de saúde. O alerta foi lançado hoje, em Maputo, durante a III Conferência sobre o Impacto das Mudanças Climáticas na Saúde Humana, que decorre de 19 a 20 de Outubro, com a participação de representantes do Governo, parceiros de cooperação, investigadores e profissionais de saúde. A representante da OMS em Moçambique, Nélida Cabral, afirmou que o país regista um aumento de casos de malária e doenças diarreicas associado a fenómenos como ciclones, inundações e calor extremo. Segundo a responsável, estes impactos afectam de forma desproporcional as populações mais vulneráveis, agravando as desigualdades existentes. «OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «OMS e Banco Mundial alertam que crise climática agrava desigualdades na saúde em Moçambique», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.98,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma",
-      "summary": "O Governo de Moçambique foi distinguido com o Prémio Internacional de Género 2026, atribuído pelo Fundo Internacional de Desenvolvimento Agrícola (FIDA), em reconhecimento dos resultados alcançados na promoção da igualdade de género e do empoderamento económico das mulheres rurais, através do Programa de Desenvolvimento Inclusivo de Cadeias de Valor Agro-Alimentares (PROCAVA). A distinção, atribuída na […]",
-      "why": "«Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-10-19T13:02:14+00:00",
-      "age_hours": 3.2,
-      "within_24h": true,
-      "link": "https://opais.co.mz/governo-de-mocambique-distinguido-com-o-premio-internacional-de-genero-2026-em-roma/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo de Moçambique foi distinguido com o Prémio Internacional de Género 2026, atribuído pelo Fundo Internacional de Desenvolvimento Agrícola (FIDA), em reconhecimento dos resultados alcançados na promoção da igualdade de género e do empoderamento económico das mulheres rurais, através do Programa de Desenvolvimento Inclusivo de Cadeias de Valor Agro-Alimentares (PROCAVA). A distinção, atribuída na […]. «Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo de Moçambique distinguido com o Prémio Internacional de Género 2026 em Roma», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.33,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Debate aceso entre Lula e Bolsonaro",
-      "summary": "A uma semana para a segunda volta das eleições do Brasil, os dois candidatos participaram num debate que decorreu na madrugada desta segunda-feira",
-      "why": "«Debate aceso entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Debate aceso entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-19T14:22:48+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/debate-aceso-entre-lula-e-bolsonaro_v1772688",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 3,
-      "source_count": 2,
-      "sources": [
-        "RTP Notícias",
-        "Euronews Português"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Euronews Português",
-          "title": "Brasil: este pode ser o caminho de Lula da Silva para virar a eleição",
-          "link": "https://pt.euronews.com/2026/10/19/brasil-este-pode-ser-o-caminho-de-lula-da-silva-para-virar-a-eleicao"
-        },
-        {
-          "source": "Euronews Português",
-          "title": "Bolsonaro e Lula enfrentam-se no primeiro debate televisivo desde o início da campanha",
-          "link": "https://pt.euronews.com/2026/10/18/bolsonaro-e-lula-enfrentam-se-no-primeiro-debate-televisivo-desde-o-inicio-da-campanha"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "A uma semana para a segunda volta das eleições do Brasil, os dois candidatos participaram num debate que decorreu na madrugada desta segunda-feira. «Debate aceso entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Debate aceso entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 12.1,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -205,15 +141,15 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis",
-      "summary": "Pelo menos 53 soldados das forças leais ao Governo do Iémen morreram e cerca de 200 ficaram feridos num ataque com mísseis balísticos hoje atribuído aos rebeldes huthis O ataque atingiu o campo militar de Al Alam, na província de Shabwa, no centro-sul do país, segundo as autoridades locais, que avisaram que o balanço de vítimas é ainda provisório O vice-governador de Shabwa, Fahad al-Khalifi, confirmou pelo menos 50 mortos e mais de 100 feridos, alguns em estado crítico, informando que os hospitais da região estavam sobrelotados De acordo com as autoridades locais, três mísseis atingiram o campo quando os militares recebiam formação em matéria de segurança Um dos projéteis atingiu um batalhão composto por cerca de 700 novos recrutas recentemente incorporados nas forças alinhadas com o Governo internacionalmente reconhecido, enquanto os outros dois caíram nas proximidades As autoridades de Shabwa apelaram ao Conselho Presidencial de Liderança, ao Governo e à coligação liderada pela Arábia Saudita, que apoia as forças governamentais reconhecidas internacionalmente, para reforçarem as…",
-      "why": "«Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Diplomacia americana confirma esforços para uma cimeira trilateral",
+      "summary": "O encontro entre Trump, Putin e Xi Jinping poderá acontecer na China e tem por objectivo avançar para um acordo para a paz entre Rússia e Ucrânia",
+      "why": "«Diplomacia americana confirma esforços para uma cimeira trilateral» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Diplomacia americana confirma esforços para uma cimeira trilateral», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-19T15:06:40+00:00",
-      "age_hours": 1.2,
+      "published": "2026-10-19T21:19:47+00:00",
+      "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/iemen-pelo-menos-53-soldados-mortos-em-ataque-atribuido-aos-huthis_n1772700",
+      "link": "https://www.rtp.pt/noticias/mundo/diplomacia-americana-confirma-esforcos-para-uma-cimeira-trilateral_v1772783",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -224,27 +160,56 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Pelo menos 53 soldados das forças leais ao Governo do Iémen morreram e cerca de 200 ficaram feridos num ataque com mísseis balísticos hoje atribuído aos rebeldes huthis O ataque atingiu o campo militar de Al Alam, na província de Shabwa, no centro-sul do país, segundo as autoridades locais, que avisaram que o balanço de vítimas é ainda provisório O vice-governador de Shabwa, Fahad al-Khalifi, confirmou pelo menos 50 mortos e mais de 100 feridos, alguns em estado crítico, informando que os hospitais da região estavam sobrelotados De acordo com as autoridades locais, três mísseis atingiram o campo quando os militares recebiam formação em matéria de segurança Um dos projéteis atingiu um batalhão composto por cerca de 700 novos recrutas recentemente incorporados nas forças alinhadas com o Governo internacionalmente reconhecido, enquanto os outros dois caíram nas proximidades As autoridades de Shabwa apelaram ao Conselho Presidencial de Liderança, ao Governo e à coligação liderada pela Arábia Saudita, que apoia as forças governamentais reconhecidas internacionalmente, para reforçarem as… «Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Iémen. Pelo menos 53 soldados mortos em ataque atribuído aos huthis», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.75,
+      "detailed_summary": "O encontro entre Trump, Putin e Xi Jinping poderá acontecer na China e tem por objectivo avançar para um acordo para a paz entre Rússia e Ucrânia. «Diplomacia americana confirma esforços para uma cimeira trilateral» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Diplomacia americana confirma esforços para uma cimeira trilateral», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Economia"
       ],
-      "title": "Comando da inteligência artificial concentra mais homens que mulheres",
-      "summary": "As mulheres representam apenas cerca de 22% dos profissionais de IA em todo o mundo e ocupam apenas 14% dos cargos de liderança; um em cada quatro incidentes de violência online contra defensoras dos direitos humanos, ativistas e jornalistas envolveu o uso de IA",
-      "why": "«Comando da inteligência artificial concentra mais homens que mulheres» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Comando da inteligência artificial concentra mais homens que mulheres», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "title": "Eleições em Israel: Lista Conjunta admite entendimento para fazer cair Netanyahu",
+      "summary": "A coligação Lista Conjunta, que agrega os partidos árabes e judaico-árabes - Hadash, Ta'al e Balad, admite um entendimento para permitir a formação de um governo que signifique a saída do actual primeiro ministro Benjamin Netanyahu",
+      "why": "«Eleições em Israel: Lista Conjunta admite entendimento para fazer cair Netanyahu» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Eleições em Israel: Lista Conjunta admite entendimento para fazer cair Netanyahu», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-19T21:13:45+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-em-israel-lista-conjunta-admite-entendimento-para-fazer-cair-netanyahu_n1772778",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A coligação Lista Conjunta, que agrega os partidos árabes e judaico-árabes - Hadash, Ta'al e Balad, admite um entendimento para permitir a formação de um governo que signifique a saída do actual primeiro ministro Benjamin Netanyahu. «Eleições em Israel: Lista Conjunta admite entendimento para fazer cair Netanyahu» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições em Israel: Lista Conjunta admite entendimento para fazer cair Netanyahu», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.98,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Conselho de Segurança debate violência de gangues e crise humanitária no Haiti",
+      "summary": "Mais de mil mortes ocorreram entre junho e setembro; quase 1,5 milhão de deslocados ilustram dimensão da violência; ONU quer ações de segurança ao lado de ajuda internacional urgente para restaurar estabilidade no país caribenho",
+      "why": "«Conselho de Segurança debate violência de gangues e crise humanitária no Haiti» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Conselho de Segurança debate violência de gangues e crise humanitária no Haiti», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Notícias ONU",
       "published": "2026-10-19T12:00:00+00:00",
-      "age_hours": 4.3,
+      "age_hours": 9.4,
       "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854665",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854675",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-mundo-010",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -253,38 +218,67 @@
       "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "As mulheres representam apenas cerca de 22% dos profissionais de IA em todo o mundo e ocupam apenas 14% dos cargos de liderança; um em cada quatro incidentes de violência online contra defensoras dos direitos humanos, ativistas e jornalistas envolveu o uso de IA. «Comando da inteligência artificial concentra mais homens que mulheres» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Comando da inteligência artificial concentra mais homens que mulheres», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 10.1,
+      "detailed_summary": "Mais de mil mortes ocorreram entre junho e setembro; quase 1,5 milhão de deslocados ilustram dimensão da violência; ONU quer ações de segurança ao lado de ajuda internacional urgente para restaurar estabilidade no país caribenho. «Conselho de Segurança debate violência de gangues e crise humanitária no Haiti» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Conselho de Segurança debate violência de gangues e crise humanitária no Haiti», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.04,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mineração em Nampula: Conflitos persistem entre empresas e comunidades",
+      "summary": "Por Samuel Nhamurave, da AIM Nampula, 19 Out (AIM) – O governador da província de Nampula, Eduardo Abdula, defende o reforço da presença das autoridades nas zonas de exploração mineira, o cumprimento da legislação e a industrialização dos recursos naturais como medidas para reduzir os conflitos entre as comunidades e as empresas do sector. Falando num painel sobre a adição de valor aos recursos minerais e energéticos, Abdula afirmou que persistem dúvidas nas comunidades sobre os benefícios da exploração mineira, numa província com mais de seis milhões de habitantes e que dispõe de recursos como areias pesadas, pedras preciosas e outros minerais. “Menos promessas, mais lei e mais presença no terreno e mais industrialização”, declarou o governante, ao apontar as áreas que considera prioritárias para melhorar a relação entre as comunidades, as empresas e as autoridades envolvidas na exploração dos recursos minerais.",
+      "why": "«Mineração em Nampula: Conflitos persistem entre empresas e comunidades» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Mineração em Nampula: Conflitos persistem entre empresas e comunidades», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-19T16:35:53+00:00",
+      "age_hours": 4.8,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/19/mineracao-em-nampula-conflitos-persistem-entre-empresas-e-comunidades/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Por Samuel Nhamurave, da AIM Nampula, 19 Out (AIM) – O governador da província de Nampula, Eduardo Abdula, defende o reforço da presença das autoridades nas zonas de exploração mineira, o cumprimento da legislação e a industrialização dos recursos naturais como medidas para reduzir os conflitos entre as comunidades e as empresas do sector. Falando num painel sobre a adição de valor aos recursos minerais e energéticos, Abdula afirmou que persistem dúvidas nas comunidades sobre os benefícios da exploração mineira, numa província com mais de seis milhões de habitantes e que dispõe de recursos como areias pesadas, pedras preciosas e outros minerais. “Menos promessas, mais lei e mais presença no terreno e mais industrialização”, declarou o governante, ao apontar as áreas que considera prioritárias para melhorar a relação entre as comunidades, as empresas e as autoridades envolvidas na exploração dos recursos minerais. «Mineração em Nampula: Conflitos persistem entre empresas e comunidades» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mineração em Nampula: Conflitos persistem entre empresas e comunidades», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 10.0,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Austrália revela armamento secreto do drone submarino Ghost Shark",
-      "summary": "A Austrália revelou três cargas antes secretas do seu drone submarino autónomo Ghost Shark: minas marítimas, reservas logísticas e drones aéreos Altius capazes de vigilância e ataques",
-      "why": "«Austrália revela armamento secreto do drone submarino Ghost Shark» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Austrália revela armamento secreto do drone submarino Ghost Shark», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-19T09:33:52+00:00",
-      "age_hours": 6.7,
+      "title": "COP17 busca soluções para reverter perda de biodiversidade do planeta",
+      "summary": "Encontro na Armênia reúne governos, especialistas e ativistas para balanço global de avanços realizados nos últimos quatro anos; meta de conservar 30% das terras e dos mares até 2030 enfrenta obstáculos como falta de recursos e implementação insuficiente de planos nacionais",
+      "why": "«COP17 busca soluções para reverter perda de biodiversidade do planeta» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «COP17 busca soluções para reverter perda de biodiversidade do planeta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-19T12:00:00+00:00",
+      "age_hours": 9.4,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/19/australia-revela-armamento-secreto-do-drone-submarino-ghost-shark",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854678",
       "original_source": true,
-      "event_id": "evt-mundo-008",
+      "event_id": "evt-mundo-009",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Euronews Português"
+        "Notícias ONU"
       ],
-      "primary_source": "Euronews Português",
+      "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Austrália revelou três cargas antes secretas do seu drone submarino autónomo Ghost Shark: minas marítimas, reservas logísticas e drones aéreos Altius capazes de vigilância e ataques. «Austrália revela armamento secreto do drone submarino Ghost Shark» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Austrália revela armamento secreto do drone submarino Ghost Shark», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 7.6,
-      "source_tier": "C",
+      "detailed_summary": "Encontro na Armênia reúne governos, especialistas e ativistas para balanço global de avanços realizados nos últimos quatro anos; meta de conservar 30% das terras e dos mares até 2030 enfrenta obstáculos como falta de recursos e implementação insuficiente de planos nacionais. «COP17 busca soluções para reverter perda de biodiversidade do planeta» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «COP17 busca soluções para reverter perda de biodiversidade do planeta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.04,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -298,11 +292,11 @@
       "impact": "No caso de «Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-19T12:54:43+00:00",
-      "age_hours": 3.4,
+      "age_hours": 8.5,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/19/brasil-apoiantes-de-lula-escrevem-nome-nas-aguas-do-rio-antes-da-segunda-volta",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -312,7 +306,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Lula da Silva e Flávio Bolsonaro confrontam-se num debate tenso sobre despesa pública, corrupção e relações com os EUA, com sondagens a indicarem disputa renhida 51–49. «Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.29,
+      "editorial_score": 6.23,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
