@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T14:10:02.810050+00:00",
+  "updated_at": "2026-10-20T18:59:35.837638+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,42 +8,42 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
         "Economia"
       ],
-      "title": "Government to auction seized minerals",
-      "summary": "Maputo, 20 Oct (AIM) – The Mozambican government plans to auction minerals seized as part of efforts to promote transparent and legal mineral trading. Speaking on Monday at the Conference on Adding Value to Mineral Resources (CAVAME-d 2026), which is taking place in the port city of Nacala, in the northern province of Nampula, the Minister Mineral Resources and Energy, Estêvão Pale, the action is aimed at strengthening the fight against illegal trade and ensuring the proper handling of resources seized by the State. According to Pale, there is a need to turn the country’s minerals and energy resources into productive investment that supports industrialization, creates jobs, increases revenue and strengthens domestic companies. As part of the event, the government is presenting investment packages for Northern Province of Niassa and Nampula, as well as southern provinces of Inhambane and Gaza.",
-      "why": "«Government to auction seized minerals» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Government to auction seized minerals», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "source": "AIM News",
-      "published": "2026-10-20T10:20:31+00:00",
-      "age_hours": 3.8,
+      "title": "Mozambique: Government plans to track and monitor businesses on digital platforms",
+      "summary": "The intention was announced today in Maputo by the spokesperson for the Council of Ministers, Inocêncio Impissa, on the sidelines of the body’s 30th ordinary session, in response to questions about the growth of digital platforms providing credit and other economic activities carried out in the virtual space According to the official, the measure falls within the implementation of the recently approved decree on electronic transactions and digital commerce, as well as new mechanisms for monitoring activities carried out online “Recently, a decree was approved on electronic transactions involving various types of businesses and electronic commerce,” he said The spokesperson added that the new legislation should ensure “the compliance of these activities”, “the formalisation of these activities” and define how they participate “in the process of collectively building Mozambique” According to Impissa, entities such as the Digital Transformation Agency will be responsible for monitoring operators that conduct economic activities through digital platforms The official said that the…",
+      "why": "«Mozambique: Government plans to track and monitor businesses on digital platforms» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique: Government plans to track and monitor businesses on digital platforms», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-20T14:44:50+00:00",
+      "age_hours": 4.2,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/20/government-to-auction-seized-minerals/",
+      "link": "https://clubofmozambique.com/news/mozambique-government-plans-to-track-and-monitor-businesses-on-digital-platforms/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 3,
-      "source_count": 1,
+      "source_count": 2,
       "sources": [
+        "Club of Mozambique",
         "AIM News"
       ],
-      "primary_source": "AIM News",
+      "primary_source": "Club of Mozambique",
       "status": "today",
       "confirmations": [
         {
           "source": "AIM News",
-          "title": "Government plans to invest 235 million dollars in health",
-          "link": "https://aimnews.org/2026/10/20/government-plans-to-invest-235-million-dollars-in-health/"
+          "title": "Government to auction seized minerals",
+          "link": "https://aimnews.org/2026/10/20/government-to-auction-seized-minerals/"
         },
         {
           "source": "AIM News",
-          "title": "Gemfields records 52 million dollars in revenue from ruby auction",
-          "link": "https://aimnews.org/2026/10/20/gemfields-records-52-million-dollars-in-revenue-from-ruby-auction/"
+          "title": "Government plans to invest 235 million dollars in health",
+          "link": "https://aimnews.org/2026/10/20/government-plans-to-invest-235-million-dollars-in-health/"
         }
       ],
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 20 Oct (AIM) – The Mozambican government plans to auction minerals seized as part of efforts to promote transparent and legal mineral trading. Speaking on Monday at the Conference on Adding Value to Mineral Resources (CAVAME-d 2026), which is taking place in the port city of Nacala, in the northern province of Nampula, the Minister Mineral Resources and Energy, Estêvão Pale, the action is aimed at strengthening the fight against illegal trade and ensuring the proper handling of resources seized by the State. According to Pale, there is a need to turn the country’s minerals and energy resources into productive investment that supports industrialization, creates jobs, increases revenue and strengthens domestic companies. As part of the event, the government is presenting investment packages for Northern Province of Niassa and Nampula, as well as southern provinces of Inhambane and Gaza. «Government to auction seized minerals» matters because it may change energy and investment decisions affecting Moçambique. For «Government to auction seized minerals», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 16.21,
+      "opportunity_flag": false,
+      "detailed_summary": "The intention was announced today in Maputo by the spokesperson for the Council of Ministers, Inocêncio Impissa, on the sidelines of the body’s 30th ordinary session, in response to questions about the growth of digital platforms providing credit and other economic activities carried out in the virtual space According to the official, the measure falls within the implementation of the recently approved decree on electronic transactions and digital commerce, as well as new mechanisms for monitoring activities carried out online “Recently, a decree was approved on electronic transactions involving various types of businesses and electronic commerce,” he said The spokesperson added that the new legislation should ensure “the compliance of these activities”, “the formalisation of these activities” and define how they participate “in the process of collectively building Mozambique” According to Impissa, entities such as the Digital Transformation Agency will be responsible for monitoring operators that conduct economic activities through digital platforms The official said that the… «Mozambique: Government plans to track and monitor businesses on digital platforms» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Government plans to track and monitor businesses on digital platforms», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 15.62,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -58,39 +58,9 @@
       "impact": "For «Mozambique: Government advocates mobilising sustainable financing to boost development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-20T13:46:07+00:00",
-      "age_hours": 0.4,
+      "age_hours": 5.2,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-government-advocates-mobilising-sustainable-financing-to-boost-development/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "The Secretary of State for Treasury and Budget, Amílcar Tivane, stressed the need to strengthen domestic resource mobilisation, improve public expenditure efficiency and attract responsible private investment as essential measures to drive Mozambique’s economic development In his address at the report launch on Friday, 16 October 2026, Tivane highlighted the longstanding partnership between Mozambique and the AfDB, established in 1977, which has resulted in the financing of major development projects and the production of technical knowledge to support public policy formulation The Secretary of State noted that economic growth slowed from 2.1% in 2024 to 0.2% in 2025. Amílcar Tivane explained that this slowdown reflects the effects of post-election disruptions, climate shocks, financing constraints and the weak performance of important sectors of the economy. «Mozambique: Government advocates mobilising sustainable financing to boost development» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Government advocates mobilising sustainable financing to boost development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 14.92,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Mozambique: Social Security to invest in Development Bank",
-      "summary": "The regulation of the law establishing the Development Bank of Mozambique (BDM), recently published by the Government and accessed by Lusa today, stipulates that resources equivalent to “up to 25% of the investment portfolios of the Mandatory Social Security Funds managed by the National Social Security Institute (INSS)” may be invested in the bank “gradually” However, the legislation defines this limit only as the “maximum overall exposure” to the bank, with the actual amount depending on the financial position of the Social Security system, cash-flow requirements and the INSS investment strategy The regulation also provides that the INSS may “suspend, reduce or review” these investments if financial or actuarial studies indicate risks to the solvency, liquidity or profitability of the funds The BDM was established with share capital of 32,000 million meticais (€444.4 million), fully subscribed by the State, although the legislation allows for other investors to join in the future: “Part of it [the share capital] may be sold, up to a limit of 49%, to other entities, namely…",
-      "why": "«Mozambique: Social Security to invest in Development Bank» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Mozambique: Social Security to invest in Development Bank», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-20T11:55:24+00:00",
-      "age_hours": 2.2,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-social-security-to-invest-in-development-bank/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -101,9 +71,99 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "The regulation of the law establishing the Development Bank of Mozambique (BDM), recently published by the Government and accessed by Lusa today, stipulates that resources equivalent to “up to 25% of the investment portfolios of the Mandatory Social Security Funds managed by the National Social Security Institute (INSS)” may be invested in the bank “gradually” However, the legislation defines this limit only as the “maximum overall exposure” to the bank, with the actual amount depending on the financial position of the Social Security system, cash-flow requirements and the INSS investment strategy The regulation also provides that the INSS may “suspend, reduce or review” these investments if financial or actuarial studies indicate risks to the solvency, liquidity or profitability of the funds The BDM was established with share capital of 32,000 million meticais (€444.4 million), fully subscribed by the State, although the legislation allows for other investors to join in the future: “Part of it [the share capital] may be sold, up to a limit of 49%, to other entities, namely… «Mozambique: Social Security to invest in Development Bank» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: Social Security to invest in Development Bank», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 14.54,
+      "detailed_summary": "The Secretary of State for Treasury and Budget, Amílcar Tivane, stressed the need to strengthen domestic resource mobilisation, improve public expenditure efficiency and attract responsible private investment as essential measures to drive Mozambique’s economic development In his address at the report launch on Friday, 16 October 2026, Tivane highlighted the longstanding partnership between Mozambique and the AfDB, established in 1977, which has resulted in the financing of major development projects and the production of technical knowledge to support public policy formulation The Secretary of State noted that economic growth slowed from 2.1% in 2024 to 0.2% in 2025. Amílcar Tivane explained that this slowdown reflects the effects of post-election disruptions, climate shocks, financing constraints and the weak performance of important sectors of the economy. «Mozambique: Government advocates mobilising sustainable financing to boost development» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Government advocates mobilising sustainable financing to boost development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 13.92,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "New EU plan for Arctic warily eyes influence of Russia, US",
+      "summary": "The EU unveiled its priorities in the Arctic as it vies with Russia, China and the US for influence. EU foreign affairs chief Kaja Kallas said drone incursions, GPS jamming and cable sabotage undermine Arctic security The EU on Tuesday presented a new Arctic Strategy that outlines the bloc's priorities in the key region amid challenges such as security threats, climate change and mining Russia is building up its military power in the Arctic, and US President Donald Trump has threatened Greenland , saying the Danish territory is needed for American security interests but later signed a deal with Denmark over US military access to the territory . China is also investing in the region and has shipping ambitions there The northern parts of Finland and Sweden, along with Greenland are located within the Arctic, meaning part of the region is in the European neighborhood.",
+      "why": "«New EU plan for Arctic warily eyes influence of Russia, US» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «New EU plan for Arctic warily eyes influence of Russia, US», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-20T16:44:00+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "The EU unveiled its priorities in the Arctic as it vies with Russia, China and the US for influence. EU foreign affairs chief Kaja Kallas said drone incursions, GPS jamming and cable sabotage undermine Arctic security The EU on Tuesday presented a new Arctic Strategy that outlines the bloc's priorities in the key region amid challenges such as security threats, climate change and mining Russia is building up its military power in the Arctic, and US President Donald Trump has threatened Greenland , saying the Danish territory is needed for American security interests but later signed a deal with Denmark over US military access to the territory . China is also investing in the region and has shipping ambitions there The northern parts of Finland and Sweden, along with Greenland are located within the Arctic, meaning part of the region is in the European neighborhood. «New EU plan for Arctic warily eyes influence of Russia, US» deserves attention because it may change political, diplomatic or security risks. For «New EU plan for Arctic warily eyes influence of Russia, US», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 13.52,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "summary": "Ameth Bek Hospital in Abyei town has been treating people wounded in Monday's attack on the market Sudan's army has been accused of launching several drone strikes that have reportedly killed more than 300 people, including dozens travelling to a funeral The death toll from strikes in two areas of West Kordofan state on Sunday evening was 150, sources told the Sudan War Observatory, which tracks the conflict that erupted in 2023 between the army and the paramilitary Rapid Support Forces (RSF) In Abyei, a disputed border area between Sudan and South Sudan, 153 people were killed when drones hit a market on Monday, the region's information minister said A military source told the BBC the army had carried out the Abyei attack, saying the market was a fuel supply site for the RSF The attack has raised tensions between South Sudan and Sudan, which jointly administer Abyei, as they both claim ownership to the oil-rich region in a dispute that has remained unresolved since South Sudan ceded in 2011 South Sudan has summoned Sudan's ambassador to lodge a formal protest.",
+      "why": "«Sudan army drones hit mourners and fuel market killing more than 300 people, sources say» matters because it may change energy and investment decisions affecting África.",
+      "impact": "For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-10-20T17:30:15+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Ameth Bek Hospital in Abyei town has been treating people wounded in Monday's attack on the market Sudan's army has been accused of launching several drone strikes that have reportedly killed more than 300 people, including dozens travelling to a funeral The death toll from strikes in two areas of West Kordofan state on Sunday evening was 150, sources told the Sudan War Observatory, which tracks the conflict that erupted in 2023 between the army and the paramilitary Rapid Support Forces (RSF) In Abyei, a disputed border area between Sudan and South Sudan, 153 people were killed when drones hit a market on Monday, the region's information minister said A military source told the BBC the army had carried out the Abyei attack, saying the market was a fuel supply site for the RSF The attack has raised tensions between South Sudan and Sudan, which jointly administer Abyei, as they both claim ownership to the oil-rich region in a dispute that has remained unresolved since South Sudan ceded in 2011 South Sudan has summoned Sudan's ambassador to lodge a formal protest. «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say» matters because it may change energy and investment decisions affecting África. For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "editorial_score": 12.69,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
+      "summary": "President Macron's Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns",
+      "why": "«As Macron visits Gulf, can France forge its own energy-for-security future?» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «As Macron visits Gulf, can France forge its own energy-for-security future?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-20T17:22:05+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "President Macron's Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns. «As Macron visits Gulf, can France forge its own energy-for-security future?» matters because it may change energy and investment decisions affecting Mundo. For «As Macron visits Gulf, can France forge its own energy-for-security future?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 12.67,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -117,11 +177,11 @@
       "impact": "For «Residents warned not to drink tap water after hundreds fall sick near South Africa capital», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-10-20T11:09:09+00:00",
-      "age_hours": 3.0,
+      "age_hours": 7.8,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -131,7 +191,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Tests found traces of E. coli in water supplied to residents living near Pretoria Residents living near South Africa's capital, Pretoria, have been warned not to drink or cook with tap water after more than 400 people, mostly children under four, fell ill after drinking contaminated water The cases were detected in Tshwane, the area which includes Pretoria, after people reported to their local hospital with \"stomach cramps and diarrhoea\" over a two-week period, officials said No deaths have been reported but high levels of E. coli were found in the water Tshwane has faced numerous outbreaks from waterborne diseases in recent years. In 2023, 29 people were killed by a cholera outbreak in a township just outside Pretoria That outbreak, in Hammanskraal, was linked to substandard water purification practices In 2025, officials confirmed 48 cases of typhoid in the same area east of Pretoria. «Residents warned not to drink tap water after hundreds fall sick near South Africa capital» deserves attention because it may change political, diplomatic or security risks. For «Residents warned not to drink tap water after hundreds fall sick near South Africa capital», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 13.38,
+      "editorial_score": 12.38,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -147,11 +207,11 @@
       "impact": "For «How is the US economy really doing under President Trump?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "BBC World",
       "published": "2026-10-20T05:00:45+00:00",
-      "age_hours": 9.2,
+      "age_hours": 14.0,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-018",
+      "event_id": "evt-mundo-016",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -161,7 +221,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "President Donald Trump has been boasting about the performance of the US economy ahead of the midterm congressional elections, claiming he has boosted incomes, reduced inflation and created jobs Trump has repeatedly said: \"We have the hottest country anywhere in the world.\" While the overall US economy is faring better than many expected after Trump launched his sweeping \"Liberation Day\" tariffs in 2025, there's evidence those import taxes and the impact of the US-Israel war with Iran have pushed up inflation, with the harmful effects felt by most American households The US economy is also being helped by an AI investment boom, and could falter if that spending were to dry up So how does all this feel for the average American? «How is the US economy really doing under President Trump?» deserves attention because it may change political, diplomatic or security risks. For «How is the US economy really doing under President Trump?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 13.08,
+      "editorial_score": 12.08,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -176,7 +236,7 @@
       "impact": "For «Lawyers must practice their profession free from threats», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "AIM News",
       "published": "2026-10-20T10:01:09+00:00",
-      "age_hours": 4.1,
+      "age_hours": 9.0,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/20/lawyers-must-practice-their-profession-free-from-threats/",
       "original_source": true,
@@ -190,26 +250,27 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 20 Oct (AIM) – The chairwoman of the Mozambican Bar Association, Thera Dai, said on Monday that every single lawyer must be able to practice their profession free from threats , in an environment of freedom and independence Thera Dai was speaking to reporters in Maputo following a march by lawyers in memory of Elvino Dias, who was murdered on October 19, 2024. Dias was the lawyer and legal advisor of the presidential candidate Venâncio Mondlane, backed by the Optimistic Party for the Development of Mozambique (Podemos), in the general elections held on 9 October. Dias and Paulo Guambe, a Podemos election agent, were shot dead by unknown assailants in central Maputo on 19 October. Dias was murdered when he was preparing a challenge to be submitted to the Constitutional Council, Mozambique’s highest body in matters of electoral law, in order to denounce the alleged irregularities that occurred during the elections. “In paying this tribute, we reaffirm that no lawyer should be intimidated, threatened, or placed at risk for the legitimate practice of their profession. «Lawyers must practice their profession free from threats» is worth following because of its possible economic, institutional or regional effects. For «Lawyers must practice their profession free from threats», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 12.15,
+      "editorial_score": 11.12,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
+        "Energia",
         "Economia"
       ],
-      "title": "Why US investors are snapping up Germany's famed Mittelstand",
-      "summary": "Increasing amounts of US capital are flowing into Germany's traditional industrial firms and family-owned businesses. As many business owners struggle to find successors, more companies are becoming acquisition targets What do the long-established German companies Birkenstock, Viessmann, Linde and ebm-papst have in common? All have fallen into American hands Traditional German family-owned businesses and small-to-medium-sized enterprises (SMEs) have become increasingly attractive to US companies and investors Last year, US investors were involved in 76 acquisitions and investments in German industrial and manufacturing companies, according to an analysis by financial data provider PitchBook. The transactions were valued at about $29.5 billion (€26.3 billion) in 2025, nearly double the 2022 total.",
-      "why": "«Why US investors are snapping up Germany's famed Mittelstand» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «Why US investors are snapping up Germany's famed Mittelstand», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Sudan drone strike kills around 150 in Abyei market",
+      "summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military",
+      "why": "«Sudan drone strike kills around 150 in Abyei market» matters because it may change energy and investment decisions affecting África.",
+      "impact": "For «Sudan drone strike kills around 150 in Abyei market», the effects may reach prices, projects, suppliers and supply chains connected to África.",
       "source": "DW English",
-      "published": "2026-10-20T09:06:00+00:00",
-      "age_hours": 5.1,
+      "published": "2026-10-20T18:09:00+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-013",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -217,9 +278,9 @@
       ],
       "primary_source": "DW English",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Increasing amounts of US capital are flowing into Germany's traditional industrial firms and family-owned businesses. As many business owners struggle to find successors, more companies are becoming acquisition targets What do the long-established German companies Birkenstock, Viessmann, Linde and ebm-papst have in common? All have fallen into American hands Traditional German family-owned businesses and small-to-medium-sized enterprises (SMEs) have become increasingly attractive to US companies and investors Last year, US investors were involved in 76 acquisitions and investments in German industrial and manufacturing companies, according to an analysis by financial data provider PitchBook. The transactions were valued at about $29.5 billion (€26.3 billion) in 2025, nearly double the 2022 total. «Why US investors are snapping up Germany's famed Mittelstand» helps explain a concrete economic or business change relevant to Mundo. For «Why US investors are snapping up Germany's famed Mittelstand», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.94,
+      "opportunity_flag": false,
+      "detailed_summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military. «Sudan drone strike kills around 150 in Abyei market» matters because it may change energy and investment decisions affecting África. For «Sudan drone strike kills around 150 in Abyei market», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "editorial_score": 10.83,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -228,17 +289,17 @@
       "tags": [
         "Energia"
       ],
-      "title": "Indonesians protest over land-clearing fires",
-      "summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations",
-      "why": "«Indonesians protest over land-clearing fires» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Indonesians protest over land-clearing fires», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
+      "summary": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption",
+      "why": "«Macron lines up more Gulf diesel as France battles soaring fuel prices» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Macron lines up more Gulf diesel as France battles soaring fuel prices», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-10-20T13:23:44+00:00",
-      "age_hours": 0.8,
+      "published": "2026-10-20T16:33:43+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -247,8 +308,8 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations. «Indonesians protest over land-clearing fires» matters because it may change energy and investment decisions affecting Mundo. For «Indonesians protest over land-clearing fires», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.83,
+      "detailed_summary": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption. «Macron lines up more Gulf diesel as France battles soaring fuel prices» matters because it may change energy and investment decisions affecting Mundo. For «Macron lines up more Gulf diesel as France battles soaring fuel prices», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 10.5,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -257,17 +318,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "French authorities impose partial curfews in Paris, Nice",
-      "summary": "French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest Follow below for the latest on the protests and unrest in France and other parts of Europe on Tuesday, October 20: The Paris police prefecture has launched an online portal inviting people to upload evidence of criminal unrest over the weekend \"Withness to violence, damage, or looting in recent days?",
-      "why": "«French authorities impose partial curfews in Paris, Nice» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «French authorities impose partial curfews in Paris, Nice», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "title": "France plans 'massive' weekend police surge amid protests",
+      "summary": "French Prime Minister Sebastien Lecornu told parliament the government would respond and reinforce police in major cities. He also accused extreme-left groups of trying to hijack what began as protests. DW has more Follow below for the latest on the protests and unrest in France and other parts of Europe on Tuesday, October 20: Italian Prime Minister Giorgia Meloni said 500 troops would be sent to the city of Milan until January. They will help police after violent clashes in the city over the weekend Meloni said a Cabinet meeting also approved measures to make the detention of minors easier, to impose fines on their parents for any damage and to introduce the crime of \"violent participation in a demonstration.\" \"Protesting is a right, devastating our cities is not,\" Meloni said in a video on X At least four other cities — Lyon, Bordeaux, Nice and Marseille — have announced continued localized restrictions that will take effect on Tuesday night In Lyon, the prefect of the Rhone region, ordered another curfew from 9 p.m. to 6 a.m.",
+      "why": "«France plans 'massive' weekend police surge amid protests» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «France plans 'massive' weekend police surge amid protests», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "DW English",
-      "published": "2026-10-20T08:49:00+00:00",
-      "age_hours": 5.3,
+      "published": "2026-10-20T15:44:00+00:00",
+      "age_hours": 3.3,
       "within_24h": true,
-      "link": "https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-014",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -276,37 +337,8 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest Follow below for the latest on the protests and unrest in France and other parts of Europe on Tuesday, October 20: The Paris police prefecture has launched an online portal inviting people to upload evidence of criminal unrest over the weekend \"Withness to violence, damage, or looting in recent days? «French authorities impose partial curfews in Paris, Nice» is worth following because of its possible economic, institutional or regional effects. For «French authorities impose partial curfews in Paris, Nice», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 9.9,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
-      "summary": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war Ethiopian Prime Minister Abiy Ahmed has announced an interim government in the country's northern Tigray region, giving it six months to prepare for regional elections and restore stability Abiy's announcement on Friday followed a military offensive launched in September by the Tigray People's Liberation Front (TPLF) and six other armed groups.",
-      "why": "«Can diplomacy stop another Ethiopia-Eritrea war?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Can diplomacy stop another Ethiopia-Eritrea war?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-10-19T15:07:00+00:00",
-      "age_hours": 23.0,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war Ethiopian Prime Minister Abiy Ahmed has announced an interim government in the country's northern Tigray region, giving it six months to prepare for regional elections and restore stability Abiy's announcement on Friday followed a military offensive launched in September by the Tigray People's Liberation Front (TPLF) and six other armed groups. «Can diplomacy stop another Ethiopia-Eritrea war?» deserves attention because it may change political, diplomatic or security risks. For «Can diplomacy stop another Ethiopia-Eritrea war?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 8.21,
+      "detailed_summary": "French Prime Minister Sebastien Lecornu told parliament the government would respond and reinforce police in major cities. He also accused extreme-left groups of trying to hijack what began as protests. DW has more Follow below for the latest on the protests and unrest in France and other parts of Europe on Tuesday, October 20: Italian Prime Minister Giorgia Meloni said 500 troops would be sent to the city of Milan until January. They will help police after violent clashes in the city over the weekend Meloni said a Cabinet meeting also approved measures to make the detention of minors easier, to impose fines on their parents for any damage and to introduce the crime of \"violent participation in a demonstration.\" \"Protesting is a right, devastating our cities is not,\" Meloni said in a video on X At least four other cities — Lyon, Bordeaux, Nice and Marseille — have announced continued localized restrictions that will take effect on Tuesday night In Lyon, the prefect of the Rhone region, ordered another curfew from 9 p.m. to 6 a.m. «France plans 'massive' weekend police surge amid protests» is worth following because of its possible economic, institutional or regional effects. For «France plans 'massive' weekend police surge amid protests», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.31,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -330,9 +362,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
-    "África": 2,
-    "Mundo": 4
+    "Moçambique": 3,
+    "África": 3,
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
