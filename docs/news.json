@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:59:28.972258+00:00",
+  "updated_at": "2026-10-20T22:13:44.759920+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,7 +16,7 @@
       "impact": "No caso de «Chapo defende transformação mineral para inverter balança de pagamentos», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "AIM Notícias",
       "published": "2026-10-20T18:16:57+00:00",
-      "age_hours": 0.7,
+      "age_hours": 3.9,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/20/chapo-defende-transformacao-mineral-para-inverter-balanca-de-pagamentos/",
       "original_source": true,
@@ -30,8 +30,38 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Por Samuel Nhamurave, da AIM Nacala-Porto, 20 Out (AIM) – O Presidente da República, Daniel Chapo, defende o processamento dos recursos minerais em território nacional como uma das vias para inverter a balança de pagamentos de Moçambique, através da industrialização, da criação de emprego e do aumento dos rendimentos da população. “isto vai gerar renda para o povo moçambicano, vai gerar emprego, com a industrialização, principalmente para jovens e mulheres, e sobretudo vai inverter a nossa balança de pagamentos”, afirmou Chapo, na abertura da Conferência Anual de Valorização dos Minerais e Desenvolvimento (CAVAME-d 2026), realizada em Nacala-Porto, província de Nampula. O Chefe do Estado defendeu a transformação local dos recursos minerais, de modo a permitir que o país retenha uma maior parcela do valor gerado pela exploração dos seus recursos naturais, em vez de exportar matérias-primas sem processamento. «Chapo defende transformação mineral para inverter balança de pagamentos» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Chapo defende transformação mineral para inverter balança de pagamentos», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.85,
+      "editorial_score": 13.19,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Trump volta a instar Zelensky a fechar um acordo de paz com Putin",
+      "summary": "O Presidente norte-americano, Donald Trump, que tem exercido mais pressão sobre Volodymyr Zelensky do que sobre Vladimir Putin, referiu hoje que \"quer que a Ucrânia feche um acordo\" com a Rússia para pôr fim à guerra \"É preciso que Zelensky tenha a vontade de acabar com esta guerra e, se não for esse o caso, as coisas vão acabar muito mal\", advertiu o chefe de Estado norte-americano numa conversa com os jornalistas na Casa Branca sobre o encontro realizado hoje em Oslo entre o líder ucraniano e o negociador da Casa Branca, Steve Witkoff O republicano frisou que \"gostaria de ver um acordo alcançado\" e disse acreditar que \"o ódio imenso\" entre Zelensky e Putin é, \"em grande medida, a razão pela qual não conseguiram chegar a um acordo\" que encerre a guerra iniciada por Moscovo em fevereiro de 2022 \"Queremos que Zelensky chegue a um acordo. Ele pode fazê-lo (...). A Ucrânia deve ter a vontade de assinar um acordo, dado que os Estados Unidos gastaram uma fortuna, tal como a Europa.",
+      "why": "«Trump volta a instar Zelensky a fechar um acordo de paz com Putin» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Trump volta a instar Zelensky a fechar um acordo de paz com Putin», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-20T22:04:47+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/trump-volta-a-instar-zelensky-a-fechar-um-acordo-de-paz-com-putin_n1773091",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente norte-americano, Donald Trump, que tem exercido mais pressão sobre Volodymyr Zelensky do que sobre Vladimir Putin, referiu hoje que \"quer que a Ucrânia feche um acordo\" com a Rússia para pôr fim à guerra \"É preciso que Zelensky tenha a vontade de acabar com esta guerra e, se não for esse o caso, as coisas vão acabar muito mal\", advertiu o chefe de Estado norte-americano numa conversa com os jornalistas na Casa Branca sobre o encontro realizado hoje em Oslo entre o líder ucraniano e o negociador da Casa Branca, Steve Witkoff O republicano frisou que \"gostaria de ver um acordo alcançado\" e disse acreditar que \"o ódio imenso\" entre Zelensky e Putin é, \"em grande medida, a razão pela qual não conseguiram chegar a um acordo\" que encerre a guerra iniciada por Moscovo em fevereiro de 2022 \"Queremos que Zelensky chegue a um acordo. Ele pode fazê-lo (...). A Ucrânia deve ter a vontade de assinar um acordo, dado que os Estados Unidos gastaram uma fortuna, tal como a Europa. «Trump volta a instar Zelensky a fechar um acordo de paz com Putin» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Trump volta a instar Zelensky a fechar um acordo de paz com Putin», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 12.98,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -45,7 +75,7 @@
       "impact": "No caso de «Laboratório de TB aberto à outros países», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Jornal Notícias",
       "published": "2026-10-20T11:19:07+00:00",
-      "age_hours": 7.7,
+      "age_hours": 10.9,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/ciencia-e-ambiente/laboratorio-de-tb-aberto-a-outros-paises/",
       "original_source": true,
@@ -59,7 +89,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O LABORATÓRIO Nacional de Referência de Tuberculose (TB), do Instituto Nacional de Saúde (INS), passa a integrar a Rede Global de Laboratórios Supranacionais de TB. A distinção é da Organização Mundial da Saúde (OMS) e foi feita ontem em Maputo, pelo ministro da Saúde, Ussene Isse, destacando que a designação representa um reconhecimento internacional da excelência técnico-científica na área de diagnóstico da TB. “Com este feito, Moçambique passa a assumir uma responsabilidade acrescida na prestação de apoio técnico especializado a outros países”, disse. Segundo o ministro, este feito representa, igualmente, uma conquista para o país e avanço no continente, na medida em que África dispunha de apenas quatro laboratórios supranacionais, uma conquista que resulta de um investimento sustentado do Governo, através do Ministério da Saúde (MISAU). Isse falava na 3.ª Conferência Nacional sobre o Impacto das Mudanças Climáticas na Saúde, realizada sob o lema “Promovendo a acção climática para a saúde através da geração de evidência científica e inovação”. «Laboratório de TB aberto à outros países» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Laboratório de TB aberto à outros países», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.4,
+      "editorial_score": 11.73,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -68,15 +98,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Rangel considera prematuro, mas \"obviamente\" favorável a regresso de Londres à UE",
-      "summary": "O ministro dos Negócios Estrangeiros, Paulo Rangel, afirmou hoje que Portugal será \"obviamente\" favorável a um eventual regresso do Reino Unido à União Europeia, mas considera \"prematuro\" falar nessa hipótese, defendendo que a prioridade é aproximar Londres aos 27 \"Portugal obviamente será, com certeza, um dos defensores da linha na frente de um regresso do Reino Unido à União Europeia.",
-      "why": "«Rangel considera prematuro, mas \"obviamente\" favorável a regresso de Londres à UE» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Rangel considera prematuro, mas \"obviamente\" favorável a regresso de Londres à UE», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Lula precisa convencer quem teme Flávio mas está cansado dele diz analista",
+      "summary": "O politólogo Leandro Gabiati afirmou que o Presidente brasileiro, Lula da Silva, precisa de reconhecer erros e apresentar propostas de futuro para conquistar os eleitores que receiam votar em Flávio Bolsonaro mas estão cansados do seu Governo \"O Lula teria que utilizar esses poucos dias que tem para convencer esse eleitor que não quer votar no Bolsonaro, mas que também está cansado do Lula\", disse à Lusa o cientista político e diretor da Dominium Consultoria Nesta segunda volta das presidenciais brasileiras, que se disputa no domingo, Lula procura inverter o resultado da primeira volta, na qual Flávio Bolsonaro obteve 47,03% dos votos válidos, contra os seus 45,16%, uma diferença de cerca de 2,2 milhões de votos Para Gabiati, o candidato à reeleição, e ao quarto mandato na sua história, precisa melhorar a comunicação com essa parcela do eleitorado, reconhecendo falhas da governação e apresentando respostas para o futuro, em vez de insistir no legado dos seus Governos \"O Lula olha muito para o passado, mas pouco fala do futuro\", considerou, acrescentando que tem de convencer quem tem…",
+      "why": "«Lula precisa convencer quem teme Flávio mas está cansado dele diz analista» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Lula precisa convencer quem teme Flávio mas está cansado dele diz analista», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-20T18:53:25+00:00",
-      "age_hours": 0.1,
+      "published": "2026-10-20T22:12:07+00:00",
+      "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/rangel-considera-prematuro-mas-obviamente-favoravel-a-regresso-de-londres-a-ue_n1773037",
+      "link": "https://www.rtp.pt/noticias/brasil-2026/lula-precisa-convencer-quem-teme-flavio-mas-esta-cansado-dele-diz-analista_n1773066",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -87,37 +117,8 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O ministro dos Negócios Estrangeiros, Paulo Rangel, afirmou hoje que Portugal será \"obviamente\" favorável a um eventual regresso do Reino Unido à União Europeia, mas considera \"prematuro\" falar nessa hipótese, defendendo que a prioridade é aproximar Londres aos 27 \"Portugal obviamente será, com certeza, um dos defensores da linha na frente de um regresso do Reino Unido à União Europeia. «Rangel considera prematuro, mas \"obviamente\" favorável a regresso de Londres à UE» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Rangel considera prematuro, mas \"obviamente\" favorável a regresso de Londres à UE», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.98,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Campanha de Lula pede anulação da candidatura de Flávio Bolsonaro por \"ingerência\" da Meta",
-      "summary": "As eleições brasileiras têm sido marcadas por campanhas de desinformação nas redes sociais. Candidatura de Lula acusa empresa proprietária do Facebook, Instagram e Whatsapp de \"manipulação algorítmica\"",
-      "why": "«Campanha de Lula pede anulação da candidatura de Flávio Bolsonaro por \"ingerência\" da Meta» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Campanha de Lula pede anulação da candidatura de Flávio Bolsonaro por \"ingerência\" da Meta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-20T18:35:08+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/brasil-2026/campanha-de-lula-pede-anulacao-da-candidatura-de-flavio-bolsonaro-por-ingerencia-da-meta_n1773040",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "As eleições brasileiras têm sido marcadas por campanhas de desinformação nas redes sociais. Candidatura de Lula acusa empresa proprietária do Facebook, Instagram e Whatsapp de \"manipulação algorítmica\". «Campanha de Lula pede anulação da candidatura de Flávio Bolsonaro por \"ingerência\" da Meta» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Campanha de Lula pede anulação da candidatura de Flávio Bolsonaro por \"ingerência\" da Meta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.92,
+      "detailed_summary": "O politólogo Leandro Gabiati afirmou que o Presidente brasileiro, Lula da Silva, precisa de reconhecer erros e apresentar propostas de futuro para conquistar os eleitores que receiam votar em Flávio Bolsonaro mas estão cansados do seu Governo \"O Lula teria que utilizar esses poucos dias que tem para convencer esse eleitor que não quer votar no Bolsonaro, mas que também está cansado do Lula\", disse à Lusa o cientista político e diretor da Dominium Consultoria Nesta segunda volta das presidenciais brasileiras, que se disputa no domingo, Lula procura inverter o resultado da primeira volta, na qual Flávio Bolsonaro obteve 47,03% dos votos válidos, contra os seus 45,16%, uma diferença de cerca de 2,2 milhões de votos Para Gabiati, o candidato à reeleição, e ao quarto mandato na sua história, precisa melhorar a comunicação com essa parcela do eleitorado, reconhecendo falhas da governação e apresentando respostas para o futuro, em vez de insistir no legado dos seus Governos \"O Lula olha muito para o passado, mas pouco fala do futuro\", considerou, acrescentando que tem de convencer quem tem… «Lula precisa convencer quem teme Flávio mas está cansado dele diz analista» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Lula precisa convencer quem teme Flávio mas está cansado dele diz analista», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 11.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -132,7 +133,7 @@
       "impact": "No caso de «Chapo anuncia construção de Parques Industriais em Nacala», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "AIM Notícias",
       "published": "2026-10-20T18:11:57+00:00",
-      "age_hours": 0.8,
+      "age_hours": 4.0,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/20/chapo-anuncia-construcao-de-parques-industriais-em-nacala/",
       "original_source": true,
@@ -146,8 +147,66 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Por: Samuel Nhamurave da AIM, em Nacala Nacala-Porto, 20 Out (AIM) – O Presidente da República, Daniel Chapo, anunciou a intenção do Governo de iniciar a construção dos primeiros parques industriais na Zona Económica Especial de Nacala, província de Nampula, com vista à atracção de investimentos, ao processamento local dos recursos minerais e à criação de postos de trabalho. “Queremos pólos de desenvolvimento que gerem actividade económica. Por isso, nesta Zona Económica Especial de Nacala, queremos começar a construção dos primeiros parques industriais”, afirmou Chapo, hoje, em Nacala-Porto, na abertura da Conferência Anual de Valorização dos Minerais e Desenvolvimento (CAVAME-d 2026). Na ocasião, o Chefe do Estado referiu que a iniciativa pretende transformar Nacala num centro de desenvolvimento industrial, através da instalação de unidades de produção e processamento capazes de acrescentar valor aos recursos naturais antes da sua exportação. «Chapo anuncia construção de Parques Industriais em Nacala» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Chapo anuncia construção de Parques Industriais em Nacala», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.83,
+      "editorial_score": 10.17,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Iêmen: Cerco à cidade de Taiz deixa civis sem água nem comida",
+      "summary": "Combatentes houthis sitiaram o local e fecharam rotas de abastecimento, em meio a retomada do conflito com forças do governo; ONU apela por entrada de ajuda humanitária para civis que estão em condições precárias; acúmulo de lixo pode gerar crise de saúde",
+      "why": "«Iêmen: Cerco à cidade de Taiz deixa civis sem água nem comida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Iêmen: Cerco à cidade de Taiz deixa civis sem água nem comida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-20T12:00:00+00:00",
+      "age_hours": 10.2,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854687",
+      "original_source": true,
+      "event_id": "evt-mundo-013",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Combatentes houthis sitiaram o local e fecharam rotas de abastecimento, em meio a retomada do conflito com forças do governo; ONU apela por entrada de ajuda humanitária para civis que estão em condições precárias; acúmulo de lixo pode gerar crise de saúde. «Iêmen: Cerco à cidade de Taiz deixa civis sem água nem comida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Iêmen: Cerco à cidade de Taiz deixa civis sem água nem comida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.88,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Fome atinge mais de um quarto da população mundial",
+      "summary": "Em discurso, Volker Turk criticou a concentração de terras, o desperdício de alimentos e o uso da privação alimentar em áreas de conflito, defendendo reformas para fortalecer a proteção social",
+      "why": "«Fome atinge mais de um quarto da população mundial» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Fome atinge mais de um quarto da população mundial», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-20T12:00:00+00:00",
+      "age_hours": 10.2,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854684",
+      "original_source": true,
+      "event_id": "evt-mundo-014",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Em discurso, Volker Turk criticou a concentração de terras, o desperdício de alimentos e o uso da privação alimentar em áreas de conflito, defendendo reformas para fortalecer a proteção social. «Fome atinge mais de um quarto da população mundial» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Fome atinge mais de um quarto da população mundial», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.88,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -161,11 +220,11 @@
       "impact": "No caso de «Albânia: protestos agravam-se com fogo-de-artifício, cocktails Molotov e canhões de água», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-20T13:13:36+00:00",
-      "age_hours": 5.8,
+      "age_hours": 9.0,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/20/albania-protestos-agravam-se-com-fogo-de-artificio-cocktails-molotov-e-canhoes-de-agua",
       "original_source": true,
-      "event_id": "evt-mundo-006",
+      "event_id": "evt-mundo-012",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -175,36 +234,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Manifestantes atiraram cocktails Molotov e fogo-de-artifício contra a polícia em Tirana, na segunda-feira, enquanto protestos antigovernamentais se intensificavam e a polícia de choque respondia com canhões de água, gás lacrimogéneo e balas de borracha. «Albânia: protestos agravam-se com fogo-de-artifício, cocktails Molotov e canhões de água» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Albânia: protestos agravam-se com fogo-de-artifício, cocktails Molotov e canhões de água», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 7.79,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Ucrânia retira ferido na primeira operação com drone",
-      "summary": "Brigada de Assalto 92 da Ucrânia afirma ter realizado a primeira evacuação aérea por drone de um militar ferido, numa zona minada e vigiada por drones russos, onde um resgate convencional era impossível",
-      "why": "«Ucrânia retira ferido na primeira operação com drone» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Ucrânia retira ferido na primeira operação com drone», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-20T08:11:45+00:00",
-      "age_hours": 10.8,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/20/ucrania-evacua-ferido-na-primeira-operacao-com-drone",
-      "original_source": true,
-      "event_id": "evt-mundo-011",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Brigada de Assalto 92 da Ucrânia afirma ter realizado a primeira evacuação aérea por drone de um militar ferido, numa zona minada e vigiada por drones russos, onde um resgate convencional era impossível. «Ucrânia retira ferido na primeira operação com drone» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Ucrânia retira ferido na primeira operação com drone», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 5.75,
+      "editorial_score": 7.12,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -230,7 +260,7 @@
   "section_counts": {
     "Moçambique": 3,
     "África": 0,
-    "Mundo": 4
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
