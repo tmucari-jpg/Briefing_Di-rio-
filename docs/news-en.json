@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T21:22:33.362501+00:00",
+  "updated_at": "2026-10-20T08:15:55.893442+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,17 +8,106 @@
     {
       "section": "Moçambique",
       "tags": [
+        "Energia",
         "Economia"
       ],
-      "title": "Mozambique: Government and partners review lessons learned from NCRP – ADIN",
-      "summary": "The meeting served to present an assessment of the project, discuss challenges and share lessons learned as the project closes and unfinished interventions are transferred to Moz Community, also funded by the World Bank, with a budget of US$25 million Photo: ADIN – Agência de Desenvolvimento Integrado do Norte Of the 80 infrastructure projects initially planned under the NCRP, 42 were completed during the implementation period, while the remaining interventions were transferred to Moz Community, under the leadership of the Northern Integrated Development Agency (ADIN) Photo: ADIN – Agência de Desenvolvimento Integrado do Norte On the occasion, the minister highlighted the importance of institutional coordination, compliance with procurement rules and dialogue with the business sector to improve the implementation of development projects The meeting also provided an opportunity to gather contributions from businesspeople in Cabo Delgado on the participation of local companies and the implementation and supervision of works.",
-      "why": "«Mozambique: Government and partners review lessons learned from NCRP – ADIN» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Mozambique: Government and partners review lessons learned from NCRP – ADIN», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies",
+      "summary": "“We are not in favour of occasional contracting for services, but rather of a relationship that develops into lasting commercial relations, which could allow local companies to potentially move into other markets,” Cabo Delgado governor Valige Tauabo said The official was speaking at the Conference on Value Addition Based on Available Mineral and Energy Resources (CAVAME-d), organised by the government in the city of Nacala, in Nampula province, in the north of the country “Young people and women, and the population as a whole, should not be spectators of major investments, but rather an active part of them (…).",
+      "why": "«Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-10-19T13:17:04+00:00",
-      "age_hours": 8.1,
+      "published": "2026-10-20T06:53:12+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-government-and-partners-review-lessons-learned-from-ncrp-adin/",
+      "link": "https://clubofmozambique.com/news/cabo-delgado-governor-not-in-favour-of-megaprojects-occasional-contracting-of-mozambican-companies/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "“We are not in favour of occasional contracting for services, but rather of a relationship that develops into lasting commercial relations, which could allow local companies to potentially move into other markets,” Cabo Delgado governor Valige Tauabo said The official was speaking at the Conference on Value Addition Based on Available Mineral and Energy Resources (CAVAME-d), organised by the government in the city of Nacala, in Nampula province, in the north of the country “Young people and women, and the population as a whole, should not be spectators of major investments, but rather an active part of them (…). «Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies» matters because it may change energy and investment decisions affecting Moçambique. For «Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 14.71,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "How is the US economy really doing under President Trump?",
+      "summary": "President Donald Trump has been boasting about the performance of the US economy ahead of the midterm congressional elections, claiming he has boosted incomes, reduced inflation and created jobs Trump has repeatedly said: \"We have the hottest country anywhere in the world.\" While the overall US economy is faring better than many expected after Trump launched his sweeping \"Liberation Day\" tariffs in 2025, there's evidence those import taxes and the impact of the US-Israel war with Iran have pushed up inflation, with the harmful effects felt by most American households The US economy is also being helped by an AI investment boom, and could falter if that spending were to dry up So how does all this feel for the average American?",
+      "why": "«How is the US economy really doing under President Trump?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «How is the US economy really doing under President Trump?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-20T05:00:45+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "President Donald Trump has been boasting about the performance of the US economy ahead of the midterm congressional elections, claiming he has boosted incomes, reduced inflation and created jobs Trump has repeatedly said: \"We have the hottest country anywhere in the world.\" While the overall US economy is faring better than many expected after Trump launched his sweeping \"Liberation Day\" tariffs in 2025, there's evidence those import taxes and the impact of the US-Israel war with Iran have pushed up inflation, with the harmful effects felt by most American households The US economy is also being helped by an AI investment boom, and could falter if that spending were to dry up So how does all this feel for the average American? «How is the US economy really doing under President Trump?» deserves attention because it may change political, diplomatic or security risks. For «How is the US economy really doing under President Trump?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 14.31,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Gemfields records 52 million dollars in revenue from ruby auction",
+      "summary": "Maputo, 20 Oct (AIM) – The London-based mining company Gemfields has recorded total revenue of 52 million dollars as a result of the latest mixed-quality ruby auction held by Montepuez Ruby Mining (MRM). Gemfields owns 75 per cent of MRM, the main ruby mining company in Mozambique, which employs over 1900people, of whom approximately 95 percent were Mozambican. In a statement, the company revealed 564.54 per carat was the average selling price, and 90 of the 99 lots offered for sale were sold, representing a sell-through rate of 90.9 percent. “102,099 carats were offered for sale, of which 92,153 were sold, representing 90 percent of the total. This result will help strengthen the company’s liquidity and support the continuation of its operations during a period marked by significant operational and financial constraints”, reads the statement.",
+      "why": "«Gemfields records 52 million dollars in revenue from ruby auction» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Gemfields records 52 million dollars in revenue from ruby auction», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-20T08:11:22+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/20/gemfields-records-52-million-dollars-in-revenue-from-ruby-auction/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 20 Oct (AIM) – The London-based mining company Gemfields has recorded total revenue of 52 million dollars as a result of the latest mixed-quality ruby auction held by Montepuez Ruby Mining (MRM). Gemfields owns 75 per cent of MRM, the main ruby mining company in Mozambique, which employs over 1900people, of whom approximately 95 percent were Mozambican. In a statement, the company revealed 564.54 per carat was the average selling price, and 90 of the 99 lots offered for sale were sold, representing a sell-through rate of 90.9 percent. “102,099 carats were offered for sale, of which 92,153 were sold, representing 90 percent of the total. This result will help strengthen the company’s liquidity and support the continuation of its operations during a period marked by significant operational and financial constraints”, reads the statement. «Gemfields records 52 million dollars in revenue from ruby auction» is worth following because of its possible economic, institutional or regional effects. For «Gemfields records 52 million dollars in revenue from ruby auction», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 13.98,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and embroidery",
+      "summary": "In BLOOM, Wishman Oliveira combines oil painting with textile elements, incorporating embroidered details and wool threads that extend beyond the edges of the canvas. The dialogue between paint, thread and texture creates depth, movement and a tactile dimension in each portrait. Through her depictions of women, the artist reflects on the complexity of the female experience, exploring strength and vulnerability, individual expression and personal growth. The title BLOOM evokes the idea of continual growth and transformation, embracing the many moments of womanhood Photo: Instagram/ccma.goethe.maputo.de Wishman Oliveira is a British-Mozambican visual artist based in Maputo, where she has been developing her artistic practice since 2009. Her work focuses on contemporary portraiture andmixed media, combining oil painting, embroidery and textile materials to create a distinctive visual language. Her works are held in private collections in Brazil, Australia, the United States, Canada, France and the United Kingdom.",
+      "why": "«BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and…» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-20T07:16:09+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/bloom-british-mozambican-artist-fiona-wishman-oliveira-explores-femininity-through-painting-and-embroidery/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -28,57 +117,94 @@
       ],
       "primary_source": "Club of Mozambique",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "The meeting served to present an assessment of the project, discuss challenges and share lessons learned as the project closes and unfinished interventions are transferred to Moz Community, also funded by the World Bank, with a budget of US$25 million Photo: ADIN – Agência de Desenvolvimento Integrado do Norte Of the 80 infrastructure projects initially planned under the NCRP, 42 were completed during the implementation period, while the remaining interventions were transferred to Moz Community, under the leadership of the Northern Integrated Development Agency (ADIN) Photo: ADIN – Agência de Desenvolvimento Integrado do Norte On the occasion, the minister highlighted the importance of institutional coordination, compliance with procurement rules and dialogue with the business sector to improve the implementation of development projects The meeting also provided an opportunity to gather contributions from businesspeople in Cabo Delgado on the participation of local companies and the implementation and supervision of works. «Mozambique: Government and partners review lessons learned from NCRP – ADIN» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Government and partners review lessons learned from NCRP – ADIN», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 13.31,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mozambique: INAM warns of strong winds",
-      "summary": "It states that gusts of strong winds could reach up to 80 kilometres per hour south of the 25th parallel It adds that the atmospheric conditions could roughen the sea and generate waves up to five metres high, affecting maritime navigation Additionally, showers and thunderstorms are expected across the coastal districts of the country’s southern region. INAM recommends taking precautionary and safety measures for maritime navigation",
-      "why": "«Mozambique: INAM warns of strong winds» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Mozambique: INAM warns of strong winds», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-19T13:52:09+00:00",
-      "age_hours": 7.5,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-inam-warns-of-strong-winds/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "It states that gusts of strong winds could reach up to 80 kilometres per hour south of the 25th parallel It adds that the atmospheric conditions could roughen the sea and generate waves up to five metres high, affecting maritime navigation Additionally, showers and thunderstorms are expected across the coastal districts of the country’s southern region. INAM recommends taking precautionary and safety measures for maritime navigation. «Mozambique: INAM warns of strong winds» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: INAM warns of strong winds», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 12.44,
+      "detailed_summary": "In BLOOM, Wishman Oliveira combines oil painting with textile elements, incorporating embroidered details and wool threads that extend beyond the edges of the canvas. The dialogue between paint, thread and texture creates depth, movement and a tactile dimension in each portrait. Through her depictions of women, the artist reflects on the complexity of the female experience, exploring strength and vulnerability, individual expression and personal growth. The title BLOOM evokes the idea of continual growth and transformation, embracing the many moments of womanhood Photo: Instagram/ccma.goethe.maputo.de Wishman Oliveira is a British-Mozambican visual artist based in Maputo, where she has been developing her artistic practice since 2009. Her work focuses on contemporary portraiture andmixed media, combining oil painting, embroidery and textile materials to create a distinctive visual language. Her works are held in private collections in Brazil, Australia, the United States, Canada, France and the United Kingdom. «BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and…» matters because it may change energy and investment decisions affecting Moçambique. For «BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 13.79,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
+        "Economia",
         "Segurança"
       ],
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "summary": "Serhii Beskrestnov said \"people have already died\" due to lack of warnings about incoming missile attacks Ukrainians have died because Kyiv is still not receiving reliable US warnings of incoming Russian attacks, according to a key adviser to President Volodymyr Zelensky Serhii \"Flash\" Beskrestnov told the BBC that lives had been lost because there had not been time to warn citizens about ballistic missile strikes, saying: \"It's dangerous... I think it's really very bad...",
-      "why": "«Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-19T20:49:00+00:00",
-      "age_hours": 0.6,
+      "title": "Canada: Alberta rejects separation bid, CBC projects",
+      "summary": "Voters have decisively rejected a proposal to begin the legal process toward Alberta's independence, dealing a major blow to a movement driven largely by economic grievances Canada's Alberta province has overwhelmingly rejected a plan to begin the process of seeking independence from Canada Canadian public broadcaster CBC projects a decisive victory for the federalist side, with official results showing more than 76% support for remaining in Canada after roughly a third of the votes had been counted According to unofficial results from the chief provincial electoral office, Elections Alberta, nearly 77% favored staying with Canada with roughly one million votes counted, whereas 23% sought independenced The nonbinding referendum asked residents whether they wanted to stay in Canada or start the legal steps needed for a future binding vote on separation.",
+      "why": "«Canada: Alberta rejects separation bid, CBC projects» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Canada: Alberta rejects separation bid, CBC projects», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-20T06:13:00+00:00",
+      "age_hours": 2.0,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
       "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Voters have decisively rejected a proposal to begin the legal process toward Alberta's independence, dealing a major blow to a movement driven largely by economic grievances Canada's Alberta province has overwhelmingly rejected a plan to begin the process of seeking independence from Canada Canadian public broadcaster CBC projects a decisive victory for the federalist side, with official results showing more than 76% support for remaining in Canada after roughly a third of the votes had been counted According to unofficial results from the chief provincial electoral office, Elections Alberta, nearly 77% favored staying with Canada with roughly one million votes counted, whereas 23% sought independenced The nonbinding referendum asked residents whether they wanted to stay in Canada or start the legal steps needed for a future binding vote on separation. «Canada: Alberta rejects separation bid, CBC projects» deserves attention because it may change political, diplomatic or security risks. For «Canada: Alberta rejects separation bid, CBC projects», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 12.58,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "India news: Rubio set to hold talks with S Jaishankar",
+      "summary": "Marco Rubio's talks with Indian FM S Jaishankar come as the two countries struggle to finalise a trade deal. Follow DW for more Here's a roundup of our coverage from India on Tuesday, October 20: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google.",
+      "why": "«India news: Rubio set to hold talks with S Jaishankar» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «India news: Rubio set to hold talks with S Jaishankar», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "DW English",
+      "published": "2026-10-20T06:22:00+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/india-news-rubio-set-to-hold-talks-with-s-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 2,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "DW English",
+          "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
+          "link": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Marco Rubio's talks with Indian FM S Jaishankar come as the two countries struggle to finalise a trade deal. Follow DW for more Here's a roundup of our coverage from India on Tuesday, October 20: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google. «India news: Rubio set to hold talks with S Jaishankar» helps explain a concrete economic or business change relevant to Mundo. For «India news: Rubio set to hold talks with S Jaishankar», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 11.6,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "summary": "Fairbarn was seen on CCTV in an elevator on the way to his hotel room with the flamingo A Canadian man has been found guilty of animal cruelty after he took a flamingo from its enclosure in Las Vegas and brought it back to his hotel room during an alcohol-fuelled bender Mitchell Fairbarn, who was visiting the US city, took the Chilean flamingo named Peachy from the Flamingo Las Vegas Hotel and Casino in March Videos shown at his trial showed a smiling Fairbarn carrying the bird by the neck as he took a lift to his room. He testified that he had drunk 30 to 40 beers before the incident and said he never meant to harm the animal.",
+      "why": "«Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-20T03:10:39+00:00",
+      "age_hours": 5.1,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -87,8 +213,37 @@
       "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Serhii Beskrestnov said \"people have already died\" due to lack of warnings about incoming missile attacks Ukrainians have died because Kyiv is still not receiving reliable US warnings of incoming Russian attacks, according to a key adviser to President Volodymyr Zelensky Serhii \"Flash\" Beskrestnov told the BBC that lives had been lost because there had not been time to warn citizens about ballistic missile strikes, saying: \"It's dangerous... I think it's really very bad... «Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC» deserves attention because it may change political, diplomatic or security risks. For «Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.88,
+      "detailed_summary": "Fairbarn was seen on CCTV in an elevator on the way to his hotel room with the flamingo A Canadian man has been found guilty of animal cruelty after he took a flamingo from its enclosure in Las Vegas and brought it back to his hotel room during an alcohol-fuelled bender Mitchell Fairbarn, who was visiting the US city, took the Chilean flamingo named Peachy from the Flamingo Las Vegas Hotel and Casino in March Videos shown at his trial showed a smiling Fairbarn carrying the bird by the neck as he took a lift to his room. He testified that he had drunk 30 to 40 beers before the incident and said he never meant to harm the animal. «Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure» matters because it may change energy and investment decisions affecting Mundo. For «Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 10.94,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Israel’s elections 2026 explained in maps and charts",
+      "summary": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out",
+      "why": "«Israel’s elections 2026 explained in maps and charts» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Israel’s elections 2026 explained in maps and charts», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-20T05:25:31+00:00",
+      "age_hours": 2.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out. «Israel’s elections 2026 explained in maps and charts» is worth following because of its possible economic, institutional or regional effects. For «Israel’s elections 2026 explained in maps and charts», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.42,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -103,11 +258,11 @@
       "impact": "For «Can diplomacy stop another Ethiopia-Eritrea war?», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "DW English",
       "published": "2026-10-19T15:07:00+00:00",
-      "age_hours": 6.3,
+      "age_hours": 17.1,
       "within_24h": true,
       "link": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -117,124 +272,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war Ethiopian Prime Minister Abiy Ahmed has announced an interim government in the country's northern Tigray region, giving it six months to prepare for regional elections and restore stability Abiy's announcement on Friday followed a military offensive launched in September by the Tigray People's Liberation Front (TPLF) and six other armed groups. «Can diplomacy stop another Ethiopia-Eritrea war?» deserves attention because it may change political, diplomatic or security risks. For «Can diplomacy stop another Ethiopia-Eritrea war?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 11.69,
+      "editorial_score": 9.44,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
-      "summary": "The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government",
-      "why": "«Florida issues arrest warrant for Cuban leader Raul Castro» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Florida issues arrest warrant for Cuban leader Raul Castro», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-19T19:48:53+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The announcement mirrors a federal indictment from May as the US steps up pressure on the Cuban government. «Florida issues arrest warrant for Cuban leader Raul Castro» deserves attention because it may change political, diplomatic or security risks. For «Florida issues arrest warrant for Cuban leader Raul Castro», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.67,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "summary": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing , external in California US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in \"frequent communication...",
-      "why": "«Ex-OpenAI worker accused of planting device had Saudi support, says court filing» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Ex-OpenAI worker accused of planting device had Saudi support, says court filing», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-19T21:12:30+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A Saudi national charged with secretly planting a recording device in one of OpenAI's meeting rooms has been accused of having \"considerable support\" from the Saudi government, according to a court filing , external in California US prosecutors claimed Abdulrahman Alfozan, who worked for the AI firm, was in \"frequent communication... «Ex-OpenAI worker accused of planting device had Saudi support, says court filing» is worth following because of its possible economic, institutional or regional effects. For «Ex-OpenAI worker accused of planting device had Saudi support, says court filing», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.96,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "France: Curfews issued in Paris, Nice after unrest",
-      "summary": "French authorities imposed curfews in parts of several cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest",
-      "why": "«France: Curfews issued in Paris, Nice after unrest» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «France: Curfews issued in Paris, Nice after unrest», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-10-19T19:57:00+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "French authorities imposed curfews in parts of several cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest. «France: Curfews issued in Paris, Nice after unrest» is worth following because of its possible economic, institutional or regional effects. For «France: Curfews issued in Paris, Nice after unrest», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.71,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED",
-      "summary": "Maputo, 19 Oct (AIM) – Islamic State Mozambique (ISM) has increasingly targeted civilians in the districts of Mocimboa da Praia, Muidumbe, and Macomia, in the southern Mozambican province of Cabo Delgado over the months of August and September. According to the latest report carried out by the independent conflict registration project ACLED (Armed Conflict Location and Event Data Project), the terrorists have been tightening security measures in Mocimboa da Praia, constraining commercial and humanitarian activity. “As a result, the town is likely to become tense. That tension may be directed toward the state, either through protests or increased collaboration with ISM. Evidence suggests that ISM’s return to Nangade is to draw on support from neighboring Tanzania, a development likely to lead to tightened security measures on both sides of the border”, reads the report. Meanwhile, the early October release of hostages taken by ISM in Niassa province last month in return for ransom is likely to embolden the group to target foreigners for abduction in the future.",
-      "why": "«Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "AIM News",
-      "published": "2026-10-18T22:16:12+00:00",
-      "age_hours": 23.1,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/19/terrorists-increasingly-targeting-civilians-in-three-cabo-delgado-districts-acled/",
-      "original_source": true,
-      "event_id": "evt-mocambique-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM News"
-      ],
-      "primary_source": "AIM News",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 19 Oct (AIM) – Islamic State Mozambique (ISM) has increasingly targeted civilians in the districts of Mocimboa da Praia, Muidumbe, and Macomia, in the southern Mozambican province of Cabo Delgado over the months of August and September. According to the latest report carried out by the independent conflict registration project ACLED (Armed Conflict Location and Event Data Project), the terrorists have been tightening security measures in Mocimboa da Praia, constraining commercial and humanitarian activity. “As a result, the town is likely to become tense. That tension may be directed toward the state, either through protests or increased collaboration with ISM. Evidence suggests that ISM’s return to Nangade is to draw on support from neighboring Tanzania, a development likely to lead to tightened security measures on both sides of the border”, reads the report. Meanwhile, the early October release of hostages taken by ISM in Niassa province last month in return for ransom is likely to embolden the group to target foreigners for abduction in the future. «Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED» deserves attention because it may change political, diplomatic or security risks. For «Terrorists increasingly targeting civilians in three Cabo Delgado districts – ACLED», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 10.19,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     }
   ],
@@ -259,7 +298,7 @@
   "section_counts": {
     "Moçambique": 3,
     "África": 1,
-    "Mundo": 4
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
