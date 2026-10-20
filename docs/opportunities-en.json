@@ -1,9 +1,46 @@
 {
-  "updated_at": "2026-10-20T08:16:38.644559+00:00",
+  "updated_at": "2026-10-20T14:10:15.334402+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Aquisições",
+      "title": "Mozambique: Cabinet approves measures on retirement, provincial State Secretaries, public procurement and more",
+      "summary": "The Government has approved legal instruments to regulate compulsory retirement on reaching the age limit, reorganise the representation of the State in the provinces and strengthen transparency in public procurement processes for goods and services. The decisions were taken during a session of the Council of Ministers (Cabinet), which also approved the concession of sports… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique: Cabinet approves measures on retirement, provincial State Secretaries, public procurement and more” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique: Cabinet approves measures on retirement, provincial State Secretaries, public procurement and more”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-20T12:18:08+00:00",
+      "age_hours": 1.9,
+      "link": "https://clubofmozambique.com/news/mozambique-cabinet-approves-measures-on-retirement-provincial-state-secretaries-public-procurement-and-more/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 9
+    },
+    {
+      "section": "Moçambique",
+      "category": "Energia/LNG",
+      "title": "Mozambique: Government grants concession to manage Parque dos Continuadores to Black Bulls Association",
+      "summary": "The Government on Tuesday approved, by decree, the concession of Parque dos Continuadores, in Maputo, to the Black Bulls Association (ABB). The concession was approved at a meeting of the Council of Ministers held in Maputo. The measure aims to ensure better management of the sports facility under the public-private partnership framework. READ: Mozambique: Government… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique: Government grants concession to manage Parque dos Continuadores to Black Bulls Association” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique: Government grants concession to manage Parque dos Continuadores to Black Bulls Association”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-20T10:33:41+00:00",
+      "age_hours": 3.6,
+      "link": "https://clubofmozambique.com/news/mozambique-government-grants-concession-to-manage-parque-dos-continuadores-to-black-bulls-association/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 8
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:15:55.893442+00:00",
+  "updated_at": "2026-10-20T14:10:02.810050+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -11,17 +11,58 @@
         "Energia",
         "Economia"
       ],
-      "title": "Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies",
-      "summary": "“We are not in favour of occasional contracting for services, but rather of a relationship that develops into lasting commercial relations, which could allow local companies to potentially move into other markets,” Cabo Delgado governor Valige Tauabo said The official was speaking at the Conference on Value Addition Based on Available Mineral and Energy Resources (CAVAME-d), organised by the government in the city of Nacala, in Nampula province, in the north of the country “Young people and women, and the population as a whole, should not be spectators of major investments, but rather an active part of them (…).",
-      "why": "«Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-20T06:53:12+00:00",
-      "age_hours": 1.4,
+      "title": "Government to auction seized minerals",
+      "summary": "Maputo, 20 Oct (AIM) – The Mozambican government plans to auction minerals seized as part of efforts to promote transparent and legal mineral trading. Speaking on Monday at the Conference on Adding Value to Mineral Resources (CAVAME-d 2026), which is taking place in the port city of Nacala, in the northern province of Nampula, the Minister Mineral Resources and Energy, Estêvão Pale, the action is aimed at strengthening the fight against illegal trade and ensuring the proper handling of resources seized by the State. According to Pale, there is a need to turn the country’s minerals and energy resources into productive investment that supports industrialization, creates jobs, increases revenue and strengthens domestic companies. As part of the event, the government is presenting investment packages for Northern Province of Niassa and Nampula, as well as southern provinces of Inhambane and Gaza.",
+      "why": "«Government to auction seized minerals» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Government to auction seized minerals», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-20T10:20:31+00:00",
+      "age_hours": 3.8,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/cabo-delgado-governor-not-in-favour-of-megaprojects-occasional-contracting-of-mozambican-companies/",
+      "link": "https://aimnews.org/2026/10/20/government-to-auction-seized-minerals/",
       "original_source": true,
       "event_id": "evt-mocambique-003",
+      "cluster_size": 3,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM News",
+          "title": "Government plans to invest 235 million dollars in health",
+          "link": "https://aimnews.org/2026/10/20/government-plans-to-invest-235-million-dollars-in-health/"
+        },
+        {
+          "source": "AIM News",
+          "title": "Gemfields records 52 million dollars in revenue from ruby auction",
+          "link": "https://aimnews.org/2026/10/20/gemfields-records-52-million-dollars-in-revenue-from-ruby-auction/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 20 Oct (AIM) – The Mozambican government plans to auction minerals seized as part of efforts to promote transparent and legal mineral trading. Speaking on Monday at the Conference on Adding Value to Mineral Resources (CAVAME-d 2026), which is taking place in the port city of Nacala, in the northern province of Nampula, the Minister Mineral Resources and Energy, Estêvão Pale, the action is aimed at strengthening the fight against illegal trade and ensuring the proper handling of resources seized by the State. According to Pale, there is a need to turn the country’s minerals and energy resources into productive investment that supports industrialization, creates jobs, increases revenue and strengthens domestic companies. As part of the event, the government is presenting investment packages for Northern Province of Niassa and Nampula, as well as southern provinces of Inhambane and Gaza. «Government to auction seized minerals» matters because it may change energy and investment decisions affecting Moçambique. For «Government to auction seized minerals», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 16.21,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique: Government advocates mobilising sustainable financing to boost development",
+      "summary": "The Secretary of State for Treasury and Budget, Amílcar Tivane, stressed the need to strengthen domestic resource mobilisation, improve public expenditure efficiency and attract responsible private investment as essential measures to drive Mozambique’s economic development In his address at the report launch on Friday, 16 October 2026, Tivane highlighted the longstanding partnership between Mozambique and the AfDB, established in 1977, which has resulted in the financing of major development projects and the production of technical knowledge to support public policy formulation The Secretary of State noted that economic growth slowed from 2.1% in 2024 to 0.2% in 2025. Amílcar Tivane explained that this slowdown reflects the effects of post-election disruptions, climate shocks, financing constraints and the weak performance of important sectors of the economy.",
+      "why": "«Mozambique: Government advocates mobilising sustainable financing to boost development» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique: Government advocates mobilising sustainable financing to boost development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-20T13:46:07+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-government-advocates-mobilising-sustainable-financing-to-boost-development/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,9 +71,68 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "“We are not in favour of occasional contracting for services, but rather of a relationship that develops into lasting commercial relations, which could allow local companies to potentially move into other markets,” Cabo Delgado governor Valige Tauabo said The official was speaking at the Conference on Value Addition Based on Available Mineral and Energy Resources (CAVAME-d), organised by the government in the city of Nacala, in Nampula province, in the north of the country “Young people and women, and the population as a whole, should not be spectators of major investments, but rather an active part of them (…). «Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies» matters because it may change energy and investment decisions affecting Moçambique. For «Cabo Delgado governor ‘not in favour’ of megaprojects’ occasional contracting of Mozambican companies», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 14.71,
+      "detailed_summary": "The Secretary of State for Treasury and Budget, Amílcar Tivane, stressed the need to strengthen domestic resource mobilisation, improve public expenditure efficiency and attract responsible private investment as essential measures to drive Mozambique’s economic development In his address at the report launch on Friday, 16 October 2026, Tivane highlighted the longstanding partnership between Mozambique and the AfDB, established in 1977, which has resulted in the financing of major development projects and the production of technical knowledge to support public policy formulation The Secretary of State noted that economic growth slowed from 2.1% in 2024 to 0.2% in 2025. Amílcar Tivane explained that this slowdown reflects the effects of post-election disruptions, climate shocks, financing constraints and the weak performance of important sectors of the economy. «Mozambique: Government advocates mobilising sustainable financing to boost development» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Government advocates mobilising sustainable financing to boost development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 14.92,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Mozambique: Social Security to invest in Development Bank",
+      "summary": "The regulation of the law establishing the Development Bank of Mozambique (BDM), recently published by the Government and accessed by Lusa today, stipulates that resources equivalent to “up to 25% of the investment portfolios of the Mandatory Social Security Funds managed by the National Social Security Institute (INSS)” may be invested in the bank “gradually” However, the legislation defines this limit only as the “maximum overall exposure” to the bank, with the actual amount depending on the financial position of the Social Security system, cash-flow requirements and the INSS investment strategy The regulation also provides that the INSS may “suspend, reduce or review” these investments if financial or actuarial studies indicate risks to the solvency, liquidity or profitability of the funds The BDM was established with share capital of 32,000 million meticais (€444.4 million), fully subscribed by the State, although the legislation allows for other investors to join in the future: “Part of it [the share capital] may be sold, up to a limit of 49%, to other entities, namely…",
+      "why": "«Mozambique: Social Security to invest in Development Bank» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Mozambique: Social Security to invest in Development Bank», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-20T11:55:24+00:00",
+      "age_hours": 2.2,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-social-security-to-invest-in-development-bank/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "The regulation of the law establishing the Development Bank of Mozambique (BDM), recently published by the Government and accessed by Lusa today, stipulates that resources equivalent to “up to 25% of the investment portfolios of the Mandatory Social Security Funds managed by the National Social Security Institute (INSS)” may be invested in the bank “gradually” However, the legislation defines this limit only as the “maximum overall exposure” to the bank, with the actual amount depending on the financial position of the Social Security system, cash-flow requirements and the INSS investment strategy The regulation also provides that the INSS may “suspend, reduce or review” these investments if financial or actuarial studies indicate risks to the solvency, liquidity or profitability of the funds The BDM was established with share capital of 32,000 million meticais (€444.4 million), fully subscribed by the State, although the legislation allows for other investors to join in the future: “Part of it [the share capital] may be sold, up to a limit of 49%, to other entities, namely… «Mozambique: Social Security to invest in Development Bank» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: Social Security to invest in Development Bank», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "editorial_score": 14.54,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+      "summary": "Tests found traces of E. coli in water supplied to residents living near Pretoria Residents living near South Africa's capital, Pretoria, have been warned not to drink or cook with tap water after more than 400 people, mostly children under four, fell ill after drinking contaminated water The cases were detected in Tshwane, the area which includes Pretoria, after people reported to their local hospital with \"stomach cramps and diarrhoea\" over a two-week period, officials said No deaths have been reported but high levels of E. coli were found in the water Tshwane has faced numerous outbreaks from waterborne diseases in recent years. In 2023, 29 people were killed by a cholera outbreak in a township just outside Pretoria That outbreak, in Hammanskraal, was linked to substandard water purification practices In 2025, officials confirmed 48 cases of typhoid in the same area east of Pretoria.",
+      "why": "«Residents warned not to drink tap water after hundreds fall sick near South Africa capital» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Residents warned not to drink tap water after hundreds fall sick near South Africa capital», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-10-20T11:09:09+00:00",
+      "age_hours": 3.0,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Tests found traces of E. coli in water supplied to residents living near Pretoria Residents living near South Africa's capital, Pretoria, have been warned not to drink or cook with tap water after more than 400 people, mostly children under four, fell ill after drinking contaminated water The cases were detected in Tshwane, the area which includes Pretoria, after people reported to their local hospital with \"stomach cramps and diarrhoea\" over a two-week period, officials said No deaths have been reported but high levels of E. coli were found in the water Tshwane has faced numerous outbreaks from waterborne diseases in recent years. In 2023, 29 people were killed by a cholera outbreak in a township just outside Pretoria That outbreak, in Hammanskraal, was linked to substandard water purification practices In 2025, officials confirmed 48 cases of typhoid in the same area east of Pretoria. «Residents warned not to drink tap water after hundreds fall sick near South Africa capital» deserves attention because it may change political, diplomatic or security risks. For «Residents warned not to drink tap water after hundreds fall sick near South Africa capital», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 13.38,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -47,11 +147,11 @@
       "impact": "For «How is the US economy really doing under President Trump?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "BBC World",
       "published": "2026-10-20T05:00:45+00:00",
-      "age_hours": 3.3,
+      "age_hours": 9.2,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-018",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -61,7 +161,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "President Donald Trump has been boasting about the performance of the US economy ahead of the midterm congressional elections, claiming he has boosted incomes, reduced inflation and created jobs Trump has repeatedly said: \"We have the hottest country anywhere in the world.\" While the overall US economy is faring better than many expected after Trump launched his sweeping \"Liberation Day\" tariffs in 2025, there's evidence those import taxes and the impact of the US-Israel war with Iran have pushed up inflation, with the harmful effects felt by most American households The US economy is also being helped by an AI investment boom, and could falter if that spending were to dry up So how does all this feel for the average American? «How is the US economy really doing under President Trump?» deserves attention because it may change political, diplomatic or security risks. For «How is the US economy really doing under President Trump?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 14.31,
+      "editorial_score": 13.08,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -70,17 +170,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Gemfields records 52 million dollars in revenue from ruby auction",
-      "summary": "Maputo, 20 Oct (AIM) – The London-based mining company Gemfields has recorded total revenue of 52 million dollars as a result of the latest mixed-quality ruby auction held by Montepuez Ruby Mining (MRM). Gemfields owns 75 per cent of MRM, the main ruby mining company in Mozambique, which employs over 1900people, of whom approximately 95 percent were Mozambican. In a statement, the company revealed 564.54 per carat was the average selling price, and 90 of the 99 lots offered for sale were sold, representing a sell-through rate of 90.9 percent. “102,099 carats were offered for sale, of which 92,153 were sold, representing 90 percent of the total. This result will help strengthen the company’s liquidity and support the continuation of its operations during a period marked by significant operational and financial constraints”, reads the statement.",
-      "why": "«Gemfields records 52 million dollars in revenue from ruby auction» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Gemfields records 52 million dollars in revenue from ruby auction», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "title": "Lawyers must practice their profession free from threats",
+      "summary": "Maputo, 20 Oct (AIM) – The chairwoman of the Mozambican Bar Association, Thera Dai, said on Monday that every single lawyer must be able to practice their profession free from threats , in an environment of freedom and independence Thera Dai was speaking to reporters in Maputo following a march by lawyers in memory of Elvino Dias, who was murdered on October 19, 2024. Dias was the lawyer and legal advisor of the presidential candidate Venâncio Mondlane, backed by the Optimistic Party for the Development of Mozambique (Podemos), in the general elections held on 9 October. Dias and Paulo Guambe, a Podemos election agent, were shot dead by unknown assailants in central Maputo on 19 October. Dias was murdered when he was preparing a challenge to be submitted to the Constitutional Council, Mozambique’s highest body in matters of electoral law, in order to denounce the alleged irregularities that occurred during the elections. “In paying this tribute, we reaffirm that no lawyer should be intimidated, threatened, or placed at risk for the legitimate practice of their profession.",
+      "why": "«Lawyers must practice their profession free from threats» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Lawyers must practice their profession free from threats», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "AIM News",
-      "published": "2026-10-20T08:11:22+00:00",
-      "age_hours": 0.1,
+      "published": "2026-10-20T10:01:09+00:00",
+      "age_hours": 4.1,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/20/gemfields-records-52-million-dollars-in-revenue-from-ruby-auction/",
+      "link": "https://aimnews.org/2026/10/20/lawyers-must-practice-their-profession-free-from-threats/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -89,57 +189,27 @@
       "primary_source": "AIM News",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 20 Oct (AIM) – The London-based mining company Gemfields has recorded total revenue of 52 million dollars as a result of the latest mixed-quality ruby auction held by Montepuez Ruby Mining (MRM). Gemfields owns 75 per cent of MRM, the main ruby mining company in Mozambique, which employs over 1900people, of whom approximately 95 percent were Mozambican. In a statement, the company revealed 564.54 per carat was the average selling price, and 90 of the 99 lots offered for sale were sold, representing a sell-through rate of 90.9 percent. “102,099 carats were offered for sale, of which 92,153 were sold, representing 90 percent of the total. This result will help strengthen the company’s liquidity and support the continuation of its operations during a period marked by significant operational and financial constraints”, reads the statement. «Gemfields records 52 million dollars in revenue from ruby auction» is worth following because of its possible economic, institutional or regional effects. For «Gemfields records 52 million dollars in revenue from ruby auction», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 13.98,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and embroidery",
-      "summary": "In BLOOM, Wishman Oliveira combines oil painting with textile elements, incorporating embroidered details and wool threads that extend beyond the edges of the canvas. The dialogue between paint, thread and texture creates depth, movement and a tactile dimension in each portrait. Through her depictions of women, the artist reflects on the complexity of the female experience, exploring strength and vulnerability, individual expression and personal growth. The title BLOOM evokes the idea of continual growth and transformation, embracing the many moments of womanhood Photo: Instagram/ccma.goethe.maputo.de Wishman Oliveira is a British-Mozambican visual artist based in Maputo, where she has been developing her artistic practice since 2009. Her work focuses on contemporary portraiture andmixed media, combining oil painting, embroidery and textile materials to create a distinctive visual language. Her works are held in private collections in Brazil, Australia, the United States, Canada, France and the United Kingdom.",
-      "why": "«BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and…» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-20T07:16:09+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/bloom-british-mozambican-artist-fiona-wishman-oliveira-explores-femininity-through-painting-and-embroidery/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "In BLOOM, Wishman Oliveira combines oil painting with textile elements, incorporating embroidered details and wool threads that extend beyond the edges of the canvas. The dialogue between paint, thread and texture creates depth, movement and a tactile dimension in each portrait. Through her depictions of women, the artist reflects on the complexity of the female experience, exploring strength and vulnerability, individual expression and personal growth. The title BLOOM evokes the idea of continual growth and transformation, embracing the many moments of womanhood Photo: Instagram/ccma.goethe.maputo.de Wishman Oliveira is a British-Mozambican visual artist based in Maputo, where she has been developing her artistic practice since 2009. Her work focuses on contemporary portraiture andmixed media, combining oil painting, embroidery and textile materials to create a distinctive visual language. Her works are held in private collections in Brazil, Australia, the United States, Canada, France and the United Kingdom. «BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and…» matters because it may change energy and investment decisions affecting Moçambique. For «BLOOM: British-Mozambican artist Fiona Wishman Oliveira explores femininity through painting and…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 13.79,
+      "detailed_summary": "Maputo, 20 Oct (AIM) – The chairwoman of the Mozambican Bar Association, Thera Dai, said on Monday that every single lawyer must be able to practice their profession free from threats , in an environment of freedom and independence Thera Dai was speaking to reporters in Maputo following a march by lawyers in memory of Elvino Dias, who was murdered on October 19, 2024. Dias was the lawyer and legal advisor of the presidential candidate Venâncio Mondlane, backed by the Optimistic Party for the Development of Mozambique (Podemos), in the general elections held on 9 October. Dias and Paulo Guambe, a Podemos election agent, were shot dead by unknown assailants in central Maputo on 19 October. Dias was murdered when he was preparing a challenge to be submitted to the Constitutional Council, Mozambique’s highest body in matters of electoral law, in order to denounce the alleged irregularities that occurred during the elections. “In paying this tribute, we reaffirm that no lawyer should be intimidated, threatened, or placed at risk for the legitimate practice of their profession. «Lawyers must practice their profession free from threats» is worth following because of its possible economic, institutional or regional effects. For «Lawyers must practice their profession free from threats», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.15,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Canada: Alberta rejects separation bid, CBC projects",
-      "summary": "Voters have decisively rejected a proposal to begin the legal process toward Alberta's independence, dealing a major blow to a movement driven largely by economic grievances Canada's Alberta province has overwhelmingly rejected a plan to begin the process of seeking independence from Canada Canadian public broadcaster CBC projects a decisive victory for the federalist side, with official results showing more than 76% support for remaining in Canada after roughly a third of the votes had been counted According to unofficial results from the chief provincial electoral office, Elections Alberta, nearly 77% favored staying with Canada with roughly one million votes counted, whereas 23% sought independenced The nonbinding referendum asked residents whether they wanted to stay in Canada or start the legal steps needed for a future binding vote on separation.",
-      "why": "«Canada: Alberta rejects separation bid, CBC projects» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Canada: Alberta rejects separation bid, CBC projects», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "title": "Why US investors are snapping up Germany's famed Mittelstand",
+      "summary": "Increasing amounts of US capital are flowing into Germany's traditional industrial firms and family-owned businesses. As many business owners struggle to find successors, more companies are becoming acquisition targets What do the long-established German companies Birkenstock, Viessmann, Linde and ebm-papst have in common? All have fallen into American hands Traditional German family-owned businesses and small-to-medium-sized enterprises (SMEs) have become increasingly attractive to US companies and investors Last year, US investors were involved in 76 acquisitions and investments in German industrial and manufacturing companies, according to an analysis by financial data provider PitchBook. The transactions were valued at about $29.5 billion (€26.3 billion) in 2025, nearly double the 2022 total.",
+      "why": "«Why US investors are snapping up Germany's famed Mittelstand» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «Why US investors are snapping up Germany's famed Mittelstand», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "DW English",
-      "published": "2026-10-20T06:13:00+00:00",
-      "age_hours": 2.0,
+      "published": "2026-10-20T09:06:00+00:00",
+      "age_hours": 5.1,
       "within_24h": true,
-      "link": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-013",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -148,44 +218,8 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Voters have decisively rejected a proposal to begin the legal process toward Alberta's independence, dealing a major blow to a movement driven largely by economic grievances Canada's Alberta province has overwhelmingly rejected a plan to begin the process of seeking independence from Canada Canadian public broadcaster CBC projects a decisive victory for the federalist side, with official results showing more than 76% support for remaining in Canada after roughly a third of the votes had been counted According to unofficial results from the chief provincial electoral office, Elections Alberta, nearly 77% favored staying with Canada with roughly one million votes counted, whereas 23% sought independenced The nonbinding referendum asked residents whether they wanted to stay in Canada or start the legal steps needed for a future binding vote on separation. «Canada: Alberta rejects separation bid, CBC projects» deserves attention because it may change political, diplomatic or security risks. For «Canada: Alberta rejects separation bid, CBC projects», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 12.58,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "India news: Rubio set to hold talks with S Jaishankar",
-      "summary": "Marco Rubio's talks with Indian FM S Jaishankar come as the two countries struggle to finalise a trade deal. Follow DW for more Here's a roundup of our coverage from India on Tuesday, October 20: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google.",
-      "why": "«India news: Rubio set to hold talks with S Jaishankar» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «India news: Rubio set to hold talks with S Jaishankar», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "DW English",
-      "published": "2026-10-20T06:22:00+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/india-news-rubio-set-to-hold-talks-with-s-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "DW English",
-          "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
-          "link": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Marco Rubio's talks with Indian FM S Jaishankar come as the two countries struggle to finalise a trade deal. Follow DW for more Here's a roundup of our coverage from India on Tuesday, October 20: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google. «India news: Rubio set to hold talks with S Jaishankar» helps explain a concrete economic or business change relevant to Mundo. For «India news: Rubio set to hold talks with S Jaishankar», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.6,
+      "detailed_summary": "Increasing amounts of US capital are flowing into Germany's traditional industrial firms and family-owned businesses. As many business owners struggle to find successors, more companies are becoming acquisition targets What do the long-established German companies Birkenstock, Viessmann, Linde and ebm-papst have in common? All have fallen into American hands Traditional German family-owned businesses and small-to-medium-sized enterprises (SMEs) have become increasingly attractive to US companies and investors Last year, US investors were involved in 76 acquisitions and investments in German industrial and manufacturing companies, according to an analysis by financial data provider PitchBook. The transactions were valued at about $29.5 billion (€26.3 billion) in 2025, nearly double the 2022 total. «Why US investors are snapping up Germany's famed Mittelstand» helps explain a concrete economic or business change relevant to Mundo. For «Why US investors are snapping up Germany's famed Mittelstand», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 11.94,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -194,46 +228,17 @@
       "tags": [
         "Energia"
       ],
-      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-      "summary": "Fairbarn was seen on CCTV in an elevator on the way to his hotel room with the flamingo A Canadian man has been found guilty of animal cruelty after he took a flamingo from its enclosure in Las Vegas and brought it back to his hotel room during an alcohol-fuelled bender Mitchell Fairbarn, who was visiting the US city, took the Chilean flamingo named Peachy from the Flamingo Las Vegas Hotel and Casino in March Videos shown at his trial showed a smiling Fairbarn carrying the bird by the neck as he took a lift to his room. He testified that he had drunk 30 to 40 beers before the incident and said he never meant to harm the animal.",
-      "why": "«Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-20T03:10:39+00:00",
-      "age_hours": 5.1,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Fairbarn was seen on CCTV in an elevator on the way to his hotel room with the flamingo A Canadian man has been found guilty of animal cruelty after he took a flamingo from its enclosure in Las Vegas and brought it back to his hotel room during an alcohol-fuelled bender Mitchell Fairbarn, who was visiting the US city, took the Chilean flamingo named Peachy from the Flamingo Las Vegas Hotel and Casino in March Videos shown at his trial showed a smiling Fairbarn carrying the bird by the neck as he took a lift to his room. He testified that he had drunk 30 to 40 beers before the incident and said he never meant to harm the animal. «Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure» matters because it may change energy and investment decisions affecting Mundo. For «Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 10.94,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Israel’s elections 2026 explained in maps and charts",
-      "summary": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out",
-      "why": "«Israel’s elections 2026 explained in maps and charts» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Israel’s elections 2026 explained in maps and charts», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "title": "Indonesians protest over land-clearing fires",
+      "summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations",
+      "why": "«Indonesians protest over land-clearing fires» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Indonesians protest over land-clearing fires», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-10-20T05:25:31+00:00",
-      "age_hours": 2.8,
+      "published": "2026-10-20T13:23:44+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -242,8 +247,37 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out. «Israel’s elections 2026 explained in maps and charts» is worth following because of its possible economic, institutional or regional effects. For «Israel’s elections 2026 explained in maps and charts», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.42,
+      "detailed_summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations. «Indonesians protest over land-clearing fires» matters because it may change energy and investment decisions affecting Mundo. For «Indonesians protest over land-clearing fires», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 11.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "French authorities impose partial curfews in Paris, Nice",
+      "summary": "French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest Follow below for the latest on the protests and unrest in France and other parts of Europe on Tuesday, October 20: The Paris police prefecture has launched an online portal inviting people to upload evidence of criminal unrest over the weekend \"Withness to violence, damage, or looting in recent days?",
+      "why": "«French authorities impose partial curfews in Paris, Nice» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «French authorities impose partial curfews in Paris, Nice», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "DW English",
+      "published": "2026-10-20T08:49:00+00:00",
+      "age_hours": 5.3,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-014",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest Follow below for the latest on the protests and unrest in France and other parts of Europe on Tuesday, October 20: The Paris police prefecture has launched an online portal inviting people to upload evidence of criminal unrest over the weekend \"Withness to violence, damage, or looting in recent days? «French authorities impose partial curfews in Paris, Nice» is worth following because of its possible economic, institutional or regional effects. For «French authorities impose partial curfews in Paris, Nice», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 9.9,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -258,7 +292,7 @@
       "impact": "For «Can diplomacy stop another Ethiopia-Eritrea war?», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "DW English",
       "published": "2026-10-19T15:07:00+00:00",
-      "age_hours": 17.1,
+      "age_hours": 23.0,
       "within_24h": true,
       "link": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
@@ -272,7 +306,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war Ethiopian Prime Minister Abiy Ahmed has announced an interim government in the country's northern Tigray region, giving it six months to prepare for regional elections and restore stability Abiy's announcement on Friday followed a military offensive launched in September by the Tigray People's Liberation Front (TPLF) and six other armed groups. «Can diplomacy stop another Ethiopia-Eritrea war?» deserves attention because it may change political, diplomatic or security risks. For «Can diplomacy stop another Ethiopia-Eritrea war?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 9.44,
+      "editorial_score": 8.21,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -296,9 +330,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 3,
-    "África": 1,
-    "Mundo": 5
+    "Moçambique": 4,
+    "África": 2,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

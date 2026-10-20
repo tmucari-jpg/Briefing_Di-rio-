@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:15:46.049550+00:00",
+  "updated_at": "2026-10-20T14:09:56.367568+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,29 +8,29 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Moçambique distinguido pela UA pela promoção da inclusão das mulheres",
-      "summary": "Moçambique foi distinguido, ontem, pela União Africana como primeiro Estado-Membro a lançar oficialmente, a iniciativa WYFEI – Women e Youth Financial e Economic Inclusion, na sessão de abertura do 2.º Diálogo Egumeni sobre Inclusão Financeira e Económca das Mulheres, que decorre de 19 até 21 de Outubro, em Addis Abeba, Etiópia. A Ministra do Trabalho, Género e Acção Social, Ivete Alane, recebeu o reconhecimento em representação do Governo de Moçambique e interveio na cerimónia de abertura de alto nível que reúne governos, instituições financeiras, sector privado, parceiros de desenvolvimento e organizações de mulheres para acelerar soluções concretas de inclusão financeira e económica no continente. Na sua intervenção, a Ministra destacou que Moçambique colocou o empoderamento económico das mulheres no centro da agenda de desenvolvimento e da ambição de Zero Pobreza, traduzindo este compromisso em medidas concretas, entre as quais o Fundo de Empoderamento da Mulher e a Rede Nacional de Mulheres para a Inclusão Financeira e Económica.",
-      "why": "«Moçambique distinguido pela UA pela promoção da inclusão das mulheres» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Moçambique distinguido pela UA pela promoção da inclusão das mulheres», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-20T07:46:27+00:00",
-      "age_hours": 0.5,
+      "title": "Governo Reafirma Garantia Soberana Aos Financiadores do Mozambique LNG",
+      "summary": "O Governo reafirmou, esta terça-feira (20), a garantia soberana concedida aos financiadores do megaprojecto de gás natural liquefeito (GNL) Mozambique LNG, liderado pela multinacional francesa TotalEnergies, com o objectivo de […]",
+      "why": "«Governo Reafirma Garantia Soberana Aos Financiadores do Mozambique LNG» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Governo Reafirma Garantia Soberana Aos Financiadores do Mozambique LNG», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-20T13:00:00+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/mocambique-distinguido-pela-ua-pela-promocao-da-inclusao-das-mulheres/",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/20/oilgas/governo-reafirma-garantia-soberana-aos-financiadores-do-mozambique-lng/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Jornal Notícias"
+        "Diário Económico"
       ],
-      "primary_source": "Jornal Notícias",
+      "primary_source": "Diário Económico",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Moçambique foi distinguido, ontem, pela União Africana como primeiro Estado-Membro a lançar oficialmente, a iniciativa WYFEI – Women e Youth Financial e Economic Inclusion, na sessão de abertura do 2.º Diálogo Egumeni sobre Inclusão Financeira e Económca das Mulheres, que decorre de 19 até 21 de Outubro, em Addis Abeba, Etiópia. A Ministra do Trabalho, Género e Acção Social, Ivete Alane, recebeu o reconhecimento em representação do Governo de Moçambique e interveio na cerimónia de abertura de alto nível que reúne governos, instituições financeiras, sector privado, parceiros de desenvolvimento e organizações de mulheres para acelerar soluções concretas de inclusão financeira e económica no continente. Na sua intervenção, a Ministra destacou que Moçambique colocou o empoderamento económico das mulheres no centro da agenda de desenvolvimento e da ambição de Zero Pobreza, traduzindo este compromisso em medidas concretas, entre as quais o Fundo de Empoderamento da Mulher e a Rede Nacional de Mulheres para a Inclusão Financeira e Económica. «Moçambique distinguido pela UA pela promoção da inclusão das mulheres» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Moçambique distinguido pela UA pela promoção da inclusão das mulheres», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.9,
+      "opportunity_flag": true,
+      "detailed_summary": "O Governo reafirmou, esta terça-feira (20), a garantia soberana concedida aos financiadores do megaprojecto de gás natural liquefeito (GNL) Mozambique LNG, liderado pela multinacional francesa TotalEnergies, com o objectivo de […]. «Governo Reafirma Garantia Soberana Aos Financiadores do Mozambique LNG» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Governo Reafirma Garantia Soberana Aos Financiadores do Mozambique LNG», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.75,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -39,15 +39,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "PR abre conferência sobre cadeia de valor dos recursos minerais e energéticos em Nacala",
-      "summary": "O Presidente da República, Daniel Chapo, orienta, hoje (20 de Outubro), na cidade de Nacala, província de Nampula, a abertura da Conferência sobre Adição de Valor aos Recursos Minerais e Energéticos Disponíveis, uma iniciativa destinada a promover a transformação local dos recursos naturais e a atrair investimentos para a industrialização do país. O encontro constitui uma plataforma de diálogo entre o Governo, sector empresarial e investidores, visando identificar oportunidades de valorização dos recursos minerais e energéticos disponíveis em Moçambique, indica o comunicado de imprensa na posse do “Notícias”. A conferência pretende impulsionar uma abordagem económica que ultrapasse a extracção e exportação de matérias-primas, promovendo o desenvolvimento de capacidades nacionais de processamento e transformação industrial, com vista a ampliar os benefícios económicos resultantes da exploração dos recursos naturais, destaca o documento.",
-      "why": "«PR abre conferência sobre cadeia de valor dos recursos minerais e energéticos em Nacala» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «PR abre conferência sobre cadeia de valor dos recursos minerais e energéticos em Nacala», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Laboratório de TB aberto à outros países",
+      "summary": "O LABORATÓRIO Nacional de Referência de Tuberculose (TB), do Instituto Nacional de Saúde (INS), passa a integrar a Rede Global de Laboratórios Supranacionais de TB. A distinção é da Organização Mundial da Saúde (OMS) e foi feita ontem em Maputo, pelo ministro da Saúde, Ussene Isse, destacando que a designação representa um reconhecimento internacional da excelência técnico-científica na área de diagnóstico da TB. “Com este feito, Moçambique passa a assumir uma responsabilidade acrescida na prestação de apoio técnico especializado a outros países”, disse. Segundo o ministro, este feito representa, igualmente, uma conquista para o país e avanço no continente, na medida em que África dispunha de apenas quatro laboratórios supranacionais, uma conquista que resulta de um investimento sustentado do Governo, através do Ministério da Saúde (MISAU). Isse falava na 3.ª Conferência Nacional sobre o Impacto das Mudanças Climáticas na Saúde, realizada sob o lema “Promovendo a acção climática para a saúde através da geração de evidência científica e inovação”.",
+      "why": "«Laboratório de TB aberto à outros países» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Laboratório de TB aberto à outros países», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Jornal Notícias",
-      "published": "2026-10-20T07:42:14+00:00",
-      "age_hours": 0.6,
+      "published": "2026-10-20T11:19:07+00:00",
+      "age_hours": 2.8,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/pr-abre-conferencia-sobre-cadeia-de-valor-dos-recursos-minerais-e-energeticos-em-nacala/",
+      "link": "https://www.jornalnoticias.co.mz/ciencia-e-ambiente/laboratorio-de-tb-aberto-a-outros-paises/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -58,26 +58,54 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, orienta, hoje (20 de Outubro), na cidade de Nacala, província de Nampula, a abertura da Conferência sobre Adição de Valor aos Recursos Minerais e Energéticos Disponíveis, uma iniciativa destinada a promover a transformação local dos recursos naturais e a atrair investimentos para a industrialização do país. O encontro constitui uma plataforma de diálogo entre o Governo, sector empresarial e investidores, visando identificar oportunidades de valorização dos recursos minerais e energéticos disponíveis em Moçambique, indica o comunicado de imprensa na posse do “Notícias”. A conferência pretende impulsionar uma abordagem económica que ultrapasse a extracção e exportação de matérias-primas, promovendo o desenvolvimento de capacidades nacionais de processamento e transformação industrial, com vista a ampliar os benefícios económicos resultantes da exploração dos recursos naturais, destaca o documento. «PR abre conferência sobre cadeia de valor dos recursos minerais e energéticos em Nacala» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «PR abre conferência sobre cadeia de valor dos recursos minerais e energéticos em Nacala», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.88,
+      "detailed_summary": "O LABORATÓRIO Nacional de Referência de Tuberculose (TB), do Instituto Nacional de Saúde (INS), passa a integrar a Rede Global de Laboratórios Supranacionais de TB. A distinção é da Organização Mundial da Saúde (OMS) e foi feita ontem em Maputo, pelo ministro da Saúde, Ussene Isse, destacando que a designação representa um reconhecimento internacional da excelência técnico-científica na área de diagnóstico da TB. “Com este feito, Moçambique passa a assumir uma responsabilidade acrescida na prestação de apoio técnico especializado a outros países”, disse. Segundo o ministro, este feito representa, igualmente, uma conquista para o país e avanço no continente, na medida em que África dispunha de apenas quatro laboratórios supranacionais, uma conquista que resulta de um investimento sustentado do Governo, através do Ministério da Saúde (MISAU). Isse falava na 3.ª Conferência Nacional sobre o Impacto das Mudanças Climáticas na Saúde, realizada sob o lema “Promovendo a acção climática para a saúde através da geração de evidência científica e inovação”. «Laboratório de TB aberto à outros países» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Laboratório de TB aberto à outros países», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.42,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Inclusão económica das mulheres/Moçambique distinguido pela União Africana",
+      "summary": "Addis Abeba, 20 Out (AIM) – Moçambique foi publicamente reconhecido pela União Africana como o primeiro Estado-Membro a lançar oficialmente, a nível nacional, a iniciativa WYFEI – Women e Youth Financial e Economic Inclusion. O facto ocorreu esta segunda-feira (19), durante a sessão de abertura do 2.º Diálogo Egumeni sobre Inclusão Financeira e Económica das Mulheres, que decorre em Addis Abeba, Etiópia, até quarta-feira (21) do corrente mês. A Ministra do Trabalho, Género e Acção Social, Ivete Alane, recebeu o reconhecimento em representação do Governo de Moçambique e interveio na cerimónia de abertura de alto nível do encontro, que reúne governos, instituições financeiras, sector privado, parceiros de desenvolvimento e organizações de mulheres para acelerar soluções concretas de inclusão financeira e económica no continente.",
+      "why": "«Inclusão económica das mulheres/Moçambique distinguido pela União Africana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Inclusão económica das mulheres/Moçambique distinguido pela União Africana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "AIM Notícias",
+      "published": "2026-10-20T08:17:15+00:00",
+      "age_hours": 5.9,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/20/inclusao-economica-das-mulheres-mocambique-distinguido-pela-uniao-africana/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Addis Abeba, 20 Out (AIM) – Moçambique foi publicamente reconhecido pela União Africana como o primeiro Estado-Membro a lançar oficialmente, a nível nacional, a iniciativa WYFEI – Women e Youth Financial e Economic Inclusion. O facto ocorreu esta segunda-feira (19), durante a sessão de abertura do 2.º Diálogo Egumeni sobre Inclusão Financeira e Económica das Mulheres, que decorre em Addis Abeba, Etiópia, até quarta-feira (21) do corrente mês. A Ministra do Trabalho, Género e Acção Social, Ivete Alane, recebeu o reconhecimento em representação do Governo de Moçambique e interveio na cerimónia de abertura de alto nível do encontro, que reúne governos, instituições financeiras, sector privado, parceiros de desenvolvimento e organizações de mulheres para acelerar soluções concretas de inclusão financeira e económica no continente. «Inclusão económica das mulheres/Moçambique distinguido pela União Africana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Inclusão económica das mulheres/Moçambique distinguido pela União Africana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.77,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Energia"
       ],
-      "title": "Coreia do Sul anuncia retirada de parte do pessoal da embaixada em Kiev",
-      "summary": "A Coreia do Sul anunciou hoje a retirada de parte da equipa da embaixada em Kiev, face ao adensar da disputa diplomática sobre a transferência de prisioneiros de guerra norte-coreanos para Seul \"Após a `convocatória` do embaixador [sul-coreano] na Ucrânia, medida que não gerou qualquer reação construtiva por parte das autoridades ucranianas, e perante a ameaça persistente de ataques aéreos em todo o território, o que torna difícil garantir a segurança da equipa, o Governo decidiu repatriar parte dos membros da sua missão diplomática\", declarou Park Doo-soon, porta-voz do Ministério dos Negócios Estrangeiros da Coreia do Sul O embaixador da Coreia do Sul na Ucrânia, Park Ki-chang, regressou ao país em 10 de outubro, dias depois de Seul ter repreendido o Presidente ucraniano, Volodymyr Zelensky, por ter referido publicamente a transferência para Seul de dois soldados norte-coreanos capturados pelo exército ucraniano As autoridades sul-coreanas pretendiam manter o sigilo em torno deste caso A decisão de Seul surge também na sequência das revelações feitas pelo jornal britânico The…",
-      "why": "«Coreia do Sul anuncia retirada de parte do pessoal da embaixada em Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Coreia do Sul anuncia retirada de parte do pessoal da embaixada em Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Crise dos combustíveis leva Macron ao Golfo e expõe \"batalha\" política na Europa",
+      "summary": "A escalada dos preços da energia está a pressionar governos, a alimentar protestos e a dar argumentos à extrema-direita. Enquanto Macron procura garantir fornecimentos adicionais de gasóleo no Golfo, Marco Rubio visita a Índia numa altura em que Washington tenta conciliar os interesses energéticos com as negociações comerciais",
+      "why": "«Crise dos combustíveis leva Macron ao Golfo e expõe \"batalha\" política na Europa» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Crise dos combustíveis leva Macron ao Golfo e expõe \"batalha\" política na Europa», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-20T08:02:06+00:00",
-      "age_hours": 0.2,
+      "published": "2026-10-20T11:51:29+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/coreia-do-sul-anuncia-retirada-de-parte-do-pessoal-da-embaixada-em-kiev_n1772845",
+      "link": "https://www.rtp.pt/noticias/mundo/crise-dos-combustiveis-leva-macron-ao-golfo-e-expoe-batalha-politica-na-europa_n1772914",
       "original_source": true,
       "event_id": "evt-mundo-003",
       "cluster_size": 1,
@@ -88,51 +116,38 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Coreia do Sul anunciou hoje a retirada de parte da equipa da embaixada em Kiev, face ao adensar da disputa diplomática sobre a transferência de prisioneiros de guerra norte-coreanos para Seul \"Após a `convocatória` do embaixador [sul-coreano] na Ucrânia, medida que não gerou qualquer reação construtiva por parte das autoridades ucranianas, e perante a ameaça persistente de ataques aéreos em todo o território, o que torna difícil garantir a segurança da equipa, o Governo decidiu repatriar parte dos membros da sua missão diplomática\", declarou Park Doo-soon, porta-voz do Ministério dos Negócios Estrangeiros da Coreia do Sul O embaixador da Coreia do Sul na Ucrânia, Park Ki-chang, regressou ao país em 10 de outubro, dias depois de Seul ter repreendido o Presidente ucraniano, Volodymyr Zelensky, por ter referido publicamente a transferência para Seul de dois soldados norte-coreanos capturados pelo exército ucraniano As autoridades sul-coreanas pretendiam manter o sigilo em torno deste caso A decisão de Seul surge também na sequência das revelações feitas pelo jornal britânico The… «Coreia do Sul anuncia retirada de parte do pessoal da embaixada em Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Coreia do Sul anuncia retirada de parte do pessoal da embaixada em Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.96,
+      "detailed_summary": "A escalada dos preços da energia está a pressionar governos, a alimentar protestos e a dar argumentos à extrema-direita. Enquanto Macron procura garantir fornecimentos adicionais de gasóleo no Golfo, Marco Rubio visita a Índia numa altura em que Washington tenta conciliar os interesses energéticos com as negociações comerciais. «Crise dos combustíveis leva Macron ao Golfo e expõe \"batalha\" política na Europa» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Crise dos combustíveis leva Macron ao Golfo e expõe \"batalha\" política na Europa», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 12.52,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Gaza: Golden East Engineering Vai Desenvolver Central Fotovoltaica de 126 M$",
-      "summary": "A província de Gaza tem em perspectiva a instalação de uma central fotovoltaica, num investimento estimado em 126 milhões de dólares, para reforçar o abastecimento de electricidade às empresas mineiras […]",
-      "why": "«Gaza: Golden East Engineering Vai Desenvolver Central Fotovoltaica de 126 M$» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Gaza: Golden East Engineering Vai Desenvolver Central Fotovoltaica de 126 M$», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-20T06:45:00+00:00",
-      "age_hours": 1.5,
+      "title": "EUA negam reter deliberadamente ajuda militar a Kiev",
+      "summary": "O secretário de Estado norte-americano, Marco Rubio, negou hoje que Washington esteja a reter deliberadamente fornecimentos militares destinados à Ucrânia e rejeitou acusações de interrupção da partilha de informações \"Nada está a ser deliberadamente recusado\" à Ucrânia, assegurou Rubio durante uma visita à Índia O chefe da diplomacia norte-americana explicou que Washington procura encontrar um equilíbrio entre os compromissos assumidos com diferentes parceiros e as próprias necessidades militares dos Estados Unidos Rubio acrescentou que o Presidente norte-americano, Donald Trump, está \"irritado\" com as acusações de que estaria deliberadamente a prejudicar a Ucrânia, nomeadamente através da suspensão da partilha de informações de inteligência \"O Presidente está irritado porque, antes de mais, não gosta de ser responsabilizado por coisas que não são verdadeiras, incluindo acusações de que teria, de alguma forma, ordenado a interrupção da partilha de informações\", afirmou Rubio Segundo o chefe da diplomacia norte-americana, Trump reage \"particularmente à insinuação de que estaria a…",
+      "why": "«EUA negam reter deliberadamente ajuda militar a Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «EUA negam reter deliberadamente ajuda militar a Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-20T13:16:25+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/20/oilgas/energia/gaza-golden-east-engineering-vai-desenvolver-central-fotovoltaica-de-126-m/",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/eua-negam-reter-deliberadamente-ajuda-militar-a-kiev_n1772940",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 3,
-      "source_count": 2,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "Diário Económico",
-        "AIM Notícias"
+        "RTP Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "RTP Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "Gaza projecta central solar de 126 milhões de dólares para a indústria mineira",
-          "link": "https://aimnews.org/2026/10/19/gaza-projecta-central-solar-de-126-milhoes-de-dolares-para-a-industria-mineira/"
-        },
-        {
-          "source": "AIM Notícias",
-          "title": "Governo prevê investir 235 milhões de dólares para tornar sector da saúde resiliente às mudanças climáticas",
-          "link": "https://aimnews.org/2026/10/19/governo-preve-investir-235-milhoes-de-dolares-para-tornar-sector-da-saude-resiliente-as-mudancas-climaticas/"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "A província de Gaza tem em perspectiva a instalação de uma central fotovoltaica, num investimento estimado em 126 milhões de dólares, para reforçar o abastecimento de electricidade às empresas mineiras […]. «Gaza: Golden East Engineering Vai Desenvolver Central Fotovoltaica de 126 M$» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Gaza: Golden East Engineering Vai Desenvolver Central Fotovoltaica de 126 M$», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.19,
-      "source_tier": "B",
+      "opportunity_flag": false,
+      "detailed_summary": "O secretário de Estado norte-americano, Marco Rubio, negou hoje que Washington esteja a reter deliberadamente fornecimentos militares destinados à Ucrânia e rejeitou acusações de interrupção da partilha de informações \"Nada está a ser deliberadamente recusado\" à Ucrânia, assegurou Rubio durante uma visita à Índia O chefe da diplomacia norte-americana explicou que Washington procura encontrar um equilíbrio entre os compromissos assumidos com diferentes parceiros e as próprias necessidades militares dos Estados Unidos Rubio acrescentou que o Presidente norte-americano, Donald Trump, está \"irritado\" com as acusações de que estaria deliberadamente a prejudicar a Ucrânia, nomeadamente através da suspensão da partilha de informações de inteligência \"O Presidente está irritado porque, antes de mais, não gosta de ser responsabilizado por coisas que não são verdadeiras, incluindo acusações de que teria, de alguma forma, ordenado a interrupção da partilha de informações\", afirmou Rubio Segundo o chefe da diplomacia norte-americana, Trump reage \"particularmente à insinuação de que estaria a… «EUA negam reter deliberadamente ajuda militar a Kiev» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «EUA negam reter deliberadamente ajuda militar a Kiev», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.81,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -146,11 +161,11 @@
       "impact": "No caso de «Samora Machel Jr. apela à preservação do legado do pai», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-20T04:21:53+00:00",
-      "age_hours": 3.9,
+      "age_hours": 9.8,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/20/samora-machel-jr-apela-a-preservacao-do-legado-do-pai/",
       "original_source": true,
-      "event_id": "evt-mocambique-006",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -160,142 +175,55 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "MBUZINI, 19 Out (AIM) – Samora Machel Jr. apela à preservação do legado do pai, Samora Machel, defendendo a consolidação da paz, a honestidade na gestão dos recursos públicos e a unidade nacional como pilares fundamentais para o desenvolvimento de Moçambique. Falando segunda-feira, em Mbuzini, na África do Sul, durante as cerimónias alusivas aos 40 anos da morte do primeiro Presidente de Moçambique, o filho do antigo estadista apelou ao diálogo, à justiça social e à gestão responsável das riquezas nacionais, como forma de dar continuidade aos ideais pelos quais o pai lutou. “Hoje, mais do que lamentarmos ou chorarmos, queremos projectar aquilo em que Samora acreditava e que se pode resumir em três pilares essenciais”, afirmou Samora Machel Jr. Apontou a paz verdadeira, a honestidade e a unidade nacional como princípios fundamentais para o futuro do país. Em relação à paz, defendeu o diálogo como instrumento para a resolução de diferenças e a prevenção de conflitos. «Samora Machel Jr. apela à preservação do legado do pai» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Samora Machel Jr. apela à preservação do legado do pai», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.19,
+      "editorial_score": 10.96,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Brasileiros muito divididos a cinco dias das presidenciais",
-      "summary": "A poucos dias da segunda volta das eleições presidenciais no Brasil, as sondagens continuam a apontar para um empate técnico entre Lula e Bolsonaro, filho. Mas mesmo com multa há quem não vá votar",
-      "why": "«Brasileiros muito divididos a cinco dias das presidenciais» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Brasileiros muito divididos a cinco dias das presidenciais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-20T08:06:17+00:00",
-      "age_hours": 0.2,
+      "title": "Albânia: protestos agravam-se com fogo-de-artifício, cocktails Molotov e canhões de água",
+      "summary": "Manifestantes atiraram cocktails Molotov e fogo-de-artifício contra a polícia em Tirana, na segunda-feira, enquanto protestos antigovernamentais se intensificavam e a polícia de choque respondia com canhões de água, gás lacrimogéneo e balas de borracha",
+      "why": "«Albânia: protestos agravam-se com fogo-de-artifício, cocktails Molotov e canhões de água» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Albânia: protestos agravam-se com fogo-de-artifício, cocktails Molotov e canhões de água», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-20T13:13:36+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/brasileiros-muito-divididos-a-cinco-dias-das-presidenciais_n1772848",
+      "link": "https://pt.euronews.com/video/2026/10/20/albania-protestos-agravam-se-com-fogo-de-artificio-cocktails-molotov-e-canhoes-de-agua",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A poucos dias da segunda volta das eleições presidenciais no Brasil, as sondagens continuam a apontar para um empate técnico entre Lula e Bolsonaro, filho. Mas mesmo com multa há quem não vá votar. «Brasileiros muito divididos a cinco dias das presidenciais» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasileiros muito divididos a cinco dias das presidenciais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.96,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Antigo PR sul-africano nega obstrução à investigação do “apartheid”",
-      "summary": "O antigo Presidente sul-africano Thabo Mbeki negou ter ordenado aos procuradores que arquivassem processos relacionados com crimes da era do “apartheid”, ou celebrado acordos secretos para proteger antigos agentes de segurança da justiça. Ele afirmou que as alegações são uma invenção total. “É uma invenção total. Nada disso aconteceu”, afirmou Mbeki perante uma comissão de […]",
-      "why": "«Antigo PR sul-africano nega obstrução à investigação do “apartheid”» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Antigo PR sul-africano nega obstrução à investigação do “apartheid”», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "O País",
-      "published": "2026-10-19T19:30:59+00:00",
-      "age_hours": 12.7,
-      "within_24h": true,
-      "link": "https://opais.co.mz/antigo-pr-sul-africano-nega-obstrucao-a-investigacao-do-apartheid/",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O antigo Presidente sul-africano Thabo Mbeki negou ter ordenado aos procuradores que arquivassem processos relacionados com crimes da era do “apartheid”, ou celebrado acordos secretos para proteger antigos agentes de segurança da justiça. Ele afirmou que as alegações são uma invenção total. “É uma invenção total. Nada disso aconteceu”, afirmou Mbeki perante uma comissão de […]. «Antigo PR sul-africano nega obstrução à investigação do “apartheid”» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Antigo PR sul-africano nega obstrução à investigação do “apartheid”», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 10.35,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Ucrânia evacua ferido na primeira operação com drone",
-      "summary": "Brigada de Assalto 92 da Ucrânia afirma ter realizado a primeira evacuação aérea por drone de um militar ferido, numa zona minada e vigiada por drones russos, onde um resgate convencional era impossível",
-      "why": "«Ucrânia evacua ferido na primeira operação com drone» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Ucrânia evacua ferido na primeira operação com drone», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-20T08:11:45+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/20/ucrania-evacua-ferido-na-primeira-operacao-com-drone",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
         "Euronews Português"
       ],
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Brigada de Assalto 92 da Ucrânia afirma ter realizado a primeira evacuação aérea por drone de um militar ferido, numa zona minada e vigiada por drones russos, onde um resgate convencional era impossível. «Ucrânia evacua ferido na primeira operação com drone» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Ucrânia evacua ferido na primeira operação com drone», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.98,
+      "detailed_summary": "Manifestantes atiraram cocktails Molotov e fogo-de-artifício contra a polícia em Tirana, na segunda-feira, enquanto protestos antigovernamentais se intensificavam e a polícia de choque respondia com canhões de água, gás lacrimogéneo e balas de borracha. «Albânia: protestos agravam-se com fogo-de-artifício, cocktails Molotov e canhões de água» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Albânia: protestos agravam-se com fogo-de-artifício, cocktails Molotov e canhões de água», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 8.81,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mineração em Nampula: Conflitos persistem entre empresas e comunidades",
-      "summary": "Por Samuel Nhamurave, da AIM Nampula, 19 Out (AIM) – O governador da província de Nampula, Eduardo Abdula, defende o reforço da presença das autoridades nas zonas de exploração mineira, o cumprimento da legislação e a industrialização dos recursos naturais como medidas para reduzir os conflitos entre as comunidades e as empresas do sector. Falando num painel sobre a adição de valor aos recursos minerais e energéticos, Abdula afirmou que persistem dúvidas nas comunidades sobre os benefícios da exploração mineira, numa província com mais de seis milhões de habitantes e que dispõe de recursos como areias pesadas, pedras preciosas e outros minerais. “Menos promessas, mais lei e mais presença no terreno e mais industrialização”, declarou o governante, ao apontar as áreas que considera prioritárias para melhorar a relação entre as comunidades, as empresas e as autoridades envolvidas na exploração dos recursos minerais.",
-      "why": "«Mineração em Nampula: Conflitos persistem entre empresas e comunidades» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Mineração em Nampula: Conflitos persistem entre empresas e comunidades», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-19T16:35:53+00:00",
-      "age_hours": 15.7,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/19/mineracao-em-nampula-conflitos-persistem-entre-empresas-e-comunidades/",
-      "original_source": true,
-      "event_id": "evt-mocambique-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Por Samuel Nhamurave, da AIM Nampula, 19 Out (AIM) – O governador da província de Nampula, Eduardo Abdula, defende o reforço da presença das autoridades nas zonas de exploração mineira, o cumprimento da legislação e a industrialização dos recursos naturais como medidas para reduzir os conflitos entre as comunidades e as empresas do sector. Falando num painel sobre a adição de valor aos recursos minerais e energéticos, Abdula afirmou que persistem dúvidas nas comunidades sobre os benefícios da exploração mineira, numa província com mais de seis milhões de habitantes e que dispõe de recursos como areias pesadas, pedras preciosas e outros minerais. “Menos promessas, mais lei e mais presença no terreno e mais industrialização”, declarou o governante, ao apontar as áreas que considera prioritárias para melhorar a relação entre as comunidades, as empresas e as autoridades envolvidas na exploração dos recursos minerais. «Mineração em Nampula: Conflitos persistem entre empresas e comunidades» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mineração em Nampula: Conflitos persistem entre empresas e comunidades», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 7.73,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta",
-      "summary": "Lula da Silva e Flávio Bolsonaro confrontam-se num debate tenso sobre despesa pública, corrupção e relações com os EUA, com sondagens a indicarem disputa renhida 51–49",
-      "why": "«Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Ucrânia retira ferido na primeira operação com drone",
+      "summary": "Brigada de Assalto 92 da Ucrânia afirma ter realizado a primeira evacuação aérea por drone de um militar ferido, numa zona minada e vigiada por drones russos, onde um resgate convencional era impossível",
+      "why": "«Ucrânia retira ferido na primeira operação com drone» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Ucrânia retira ferido na primeira operação com drone», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-19T12:54:43+00:00",
-      "age_hours": 19.3,
+      "published": "2026-10-20T08:11:45+00:00",
+      "age_hours": 6.0,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/19/brasil-apoiantes-de-lula-escrevem-nome-nas-aguas-do-rio-antes-da-segunda-volta",
+      "link": "https://pt.euronews.com/2026/10/20/ucrania-evacua-ferido-na-primeira-operacao-com-drone",
       "original_source": true,
-      "event_id": "evt-mundo-016",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -304,8 +232,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Lula da Silva e Flávio Bolsonaro confrontam-se num debate tenso sobre despesa pública, corrupção e relações com os EUA, com sondagens a indicarem disputa renhida 51–49. «Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasil: apoiantes de Lula escrevem nome nas águas do Rio antes da segunda volta», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 3.98,
+      "detailed_summary": "Brigada de Assalto 92 da Ucrânia afirma ter realizado a primeira evacuação aérea por drone de um militar ferido, numa zona minada e vigiada por drones russos, onde um resgate convencional era impossível. «Ucrânia retira ferido na primeira operação com drone» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Ucrânia retira ferido na primeira operação com drone», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 6.75,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -329,8 +257,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 5,
-    "África": 1,
+    "Moçambique": 4,
+    "África": 0,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
