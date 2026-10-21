@@ -1,48 +1,10 @@
 {
-  "updated_at": "2026-10-21T19:09:33.653672+00:00",
+  "updated_at": "2026-10-21T23:56:00.354082+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "summary": "The latest talks between Putin (right) and Witkoff lasted about three hours in St Petersburg Russia is \"ready in principle\" to resume talks with the US and Ukraine on ending the conflict, Vladimir Putin's top aide has said Yuri Ushakov was speaking after Putin met US President Donald Trump's special envoy Steve Witkoff in the Russian city of St Petersburg Ukraine's President Volodymyr Zelensky and his European allies have been pressing Moscow for an immediate resumption of the talks suspended in February, and Ushakov said a new round could be held next month Russia has for months refused talks as it believes it is winning on the battlefield with Ukraine facing an acute shortage of interceptors against deadly Russian missile attacks Witkoff went to St Petersburg after meeting Zelensky as well as the leaders of Norway and Finland in the Norwegian capital, Oslo, on Monday It is not clear what specific proposals Witkoff brought to Putin, but Zelensky said after talks in Oslo that \"strong\" security guarantees for Ukraine and energy ceasefire proposals had been discussed Ushakov said…",
-      "why": "«Russia says it is ready to resume talks with Ukraine and US to end war» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Russia says it is ready to resume talks with Ukraine and US to end war», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-21T17:42:34+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "BBC World",
-        "DW English"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "DW English",
-          "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
-          "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "The latest talks between Putin (right) and Witkoff lasted about three hours in St Petersburg Russia is \"ready in principle\" to resume talks with the US and Ukraine on ending the conflict, Vladimir Putin's top aide has said Yuri Ushakov was speaking after Putin met US President Donald Trump's special envoy Steve Witkoff in the Russian city of St Petersburg Ukraine's President Volodymyr Zelensky and his European allies have been pressing Moscow for an immediate resumption of the talks suspended in February, and Ushakov said a new round could be held next month Russia has for months refused talks as it believes it is winning on the battlefield with Ukraine facing an acute shortage of interceptors against deadly Russian missile attacks Witkoff went to St Petersburg after meeting Zelensky as well as the leaders of Norway and Finland in the Norwegian capital, Oslo, on Monday It is not clear what specific proposals Witkoff brought to Putin, but Zelensky said after talks in Oslo that \"strong\" security guarantees for Ukraine and energy ceasefire proposals had been discussed Ushakov said… «Russia says it is ready to resume talks with Ukraine and US to end war» matters because it may change energy and investment decisions affecting Mundo. For «Russia says it is ready to resume talks with Ukraine and US to end war», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 15.21,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
     {
       "section": "Moçambique",
       "tags": [
@@ -54,7 +16,7 @@
       "impact": "For «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-21T14:06:18+00:00",
-      "age_hours": 5.1,
+      "age_hours": 9.8,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-chapo-announces-20-state-stake-in-mining-projects-through-new-state-owned-company/",
       "original_source": true,
@@ -68,7 +30,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "In his opening speech at the CAVAME-d 2026 conference, Chapo said that the creation of the state-owned Empresa Nacional de Minas, amendments to the Mining Law and the Petroleum Law, and the Local Content Law form part of the government’s new economic direction According to the President, the legal instruments were approved by the Assembly of the Republic, and their respective regulations were approved by the Council of Ministers last week Shareholding does not mean guaranteed revenue The state’s presence in the capital of mining projects could allow it to participate directly in the economic results of the ventures, in addition to the taxes and fees levied on mining activities The model nevertheless requires management and financing capacity. An equity stake may entail financial responsibilities and exposure to investment risks A 20% stake also does not mean that the state automatically receives that proportion of the value of production. «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 14.94,
+      "editorial_score": 13.96,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -77,27 +39,40 @@
       "tags": [
         "Segurança"
       ],
-      "title": "PHP developers say key patches available after global scare",
-      "summary": "Newly discovered vulnerabilities in the PHP programming language have put millions of websites at risk, with government agencies sounding alarms and taking down sites. Developers say updating systems is \"imperative.\" The updates patching the recently leaked PHP security issues are now online , developers of the open-source programming language said on Wednesday afternoon \"All PHP users are strongly encouraged to update immediately,\" the team said in an online statement Millions of websites worldwide, including critical infrastructure and government portals, as well as news sites and online shops, rely on PHP. The software is free The new patches aim to fix two \"critical vulnerabilities\" hackers could exploit to remotely take control of websites and servers, bypassing usual obstacles such as password-protected accounts.",
-      "why": "«PHP developers say key patches available after global scare» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «PHP developers say key patches available after global scare», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-21T16:56:00+00:00",
-      "age_hours": 2.2,
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "summary": "Russia has in recent weeks intensified its deadly missile and drone attacks on Kyiv and other Ukrainian cities Ukraine's capital has come under a new missile attack, hours after Russia said it was \"ready in principle\" to resume peace talks and the US president said the world was \"the closest we've been\" to ending the war Several houses were hit on Wednesday night, injuring six people, Kyiv Mayor Vitaliy Klitschko said The attack came amid a new diplomatic push led by Donald Trump's envoys Steve Witkoff and Jared Kushner.",
+      "why": "«Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-21T21:27:41+00:00",
+      "age_hours": 2.5,
       "within_24h": true,
-      "link": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-008",
-      "cluster_size": 1,
-      "source_count": 1,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 3,
+      "source_count": 2,
       "sources": [
+        "BBC World",
         "DW English"
       ],
-      "primary_source": "DW English",
+      "primary_source": "BBC World",
       "status": "today",
+      "confirmations": [
+        {
+          "source": "BBC World",
+          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "DW English",
+          "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+          "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
       "opportunity_flag": false,
-      "detailed_summary": "Newly discovered vulnerabilities in the PHP programming language have put millions of websites at risk, with government agencies sounding alarms and taking down sites. Developers say updating systems is \"imperative.\" The updates patching the recently leaked PHP security issues are now online , developers of the open-source programming language said on Wednesday afternoon \"All PHP users are strongly encouraged to update immediately,\" the team said in an online statement Millions of websites worldwide, including critical infrastructure and government portals, as well as news sites and online shops, rely on PHP. The software is free The new patches aim to fix two \"critical vulnerabilities\" hackers could exploit to remotely take control of websites and servers, bypassing usual obstacles such as password-protected accounts. «PHP developers say key patches available after global scare» deserves attention because it may change political, diplomatic or security risks. For «PHP developers say key patches available after global scare», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 13.54,
+      "detailed_summary": "Russia has in recent weeks intensified its deadly missile and drone attacks on Kyiv and other Ukrainian cities Ukraine's capital has come under a new missile attack, hours after Russia said it was \"ready in principle\" to resume peace talks and the US president said the world was \"the closest we've been\" to ending the war Several houses were hit on Wednesday night, injuring six people, Kyiv Mayor Vitaliy Klitschko said The attack came amid a new diplomatic push led by Donald Trump's envoys Steve Witkoff and Jared Kushner. «Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks» deserves attention because it may change political, diplomatic or security risks. For «Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 12.98,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -113,7 +88,7 @@
       "impact": "For «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-21T09:53:58+00:00",
-      "age_hours": 9.3,
+      "age_hours": 14.0,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/21/funding-bdm-from-revenues-generated-by-extractive-industry-may-increase-pressure-on-the-state-budget/",
       "original_source": true,
@@ -127,7 +102,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 21 Oct (AIM) – The prominent anti-corruption NGO, the Centre for Public Integrity (CIP), believes that the government’s plan to use revenues from the extractive industry to fund funding the Mozambique’s Development Bank of (BDM) may increase pressure on the State Budget. The organization’s reaction follows a regulation pointing out that a percentage of State revenues from the extractive sector must be channeled to the BDM. The BDM may also be funded by a portion (25%) of the investment portfolio derived from social security contributions, as well as by resources from institutions within the State’s indirect administration and the State-owned enterprise sector. According to CIP, funding the BDM from extractive sector revenues may reduce the resources available within the State Budget, which are aimed at directly financing other public investment priorities. “Although the regulation establishes certain safeguards, it leaves two issues unaddressed. «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget» deserves attention because it may change political, diplomatic or security risks. For «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 13.06,
+      "editorial_score": 12.08,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -136,27 +111,27 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
-      "summary": "Tehran had 'nothing new' to tell Washington after latest nuclear proposals reportedly offered by mediators",
-      "why": "«Iran determined to keep uranium amid increased war odds, flurry of meetings» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Iran determined to keep uranium amid increased war odds, flurry of meetings», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-21T18:58:29+00:00",
-      "age_hours": 0.2,
+      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree",
+      "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part? The administration of US President Donald Trump has stepped up diplomatic efforts this autumn to revive stalled negotiations aimed at ending Russia's war in Ukraine Washington has increased pressure on Kyiv and its European partners while seeking to draw Moscow back to the negotiating table through a series of concessions, including a deal involving Russian diesel exports to the US and the temporary easing of some sanctions Yet the Kremlin appears in no hurry to resume meaningful peace talks. Moscow is ready to hold negotiations with Ukraine at a technical level next month, the Kremlin said after the meeting between US special envoy Steve Witkoff and Russian President Vladimir Putin in St. Petersburg on November 21 Putin agreed to resume the peace talks mediated by Washington after November 10, his aide Yury Ushakov said after the meeting.",
+      "why": "«Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing…» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing…», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-21T19:32:00+00:00",
+      "age_hours": 4.4,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
+      "link": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Al Jazeera English"
+        "DW English"
       ],
-      "primary_source": "Al Jazeera English",
+      "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Tehran had 'nothing new' to tell Washington after latest nuclear proposals reportedly offered by mediators. «Iran determined to keep uranium amid increased war odds, flurry of meetings» deserves attention because it may change political, diplomatic or security risks. For «Iran determined to keep uranium amid increased war odds, flurry of meetings», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.96,
+      "detailed_summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part? The administration of US President Donald Trump has stepped up diplomatic efforts this autumn to revive stalled negotiations aimed at ending Russia's war in Ukraine Washington has increased pressure on Kyiv and its European partners while seeking to draw Moscow back to the negotiating table through a series of concessions, including a deal involving Russian diesel exports to the US and the temporary easing of some sanctions Yet the Kremlin appears in no hurry to resume meaningful peace talks. Moscow is ready to hold negotiations with Ukraine at a technical level next month, the Kremlin said after the meeting between US special envoy Steve Witkoff and Russian President Vladimir Putin in St. Petersburg on November 21 Putin agreed to resume the peace talks mediated by Washington after November 10, his aide Yury Ushakov said after the meeting. «Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing…» deserves attention because it may change political, diplomatic or security risks. For «Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing…», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.08,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -171,7 +146,7 @@
       "impact": "For «Fábrica de Painéis Solares de Moçambique resumes operations under private management», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-21T13:19:37+00:00",
-      "age_hours": 5.8,
+      "age_hours": 10.6,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/fabrica-de-paineis-solares-de-mocambique-resumes-operations-under-private-management/",
       "original_source": true,
@@ -185,24 +160,24 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Photo: Gabinete do Governador da Província de Maputo Photo: Gabinete do Governador da Província de Maputo Manuel Tule was speaking at the ceremony marking the transfer of the factory to private management, where he also called for local young people to receive training and develop the skills needed to join the factory’s permanent workforce Photo: Gabinete do Governador da Província de Maputo Source: Gabinete do Governador da Província de Maputo / Press Release. «Fábrica de Painéis Solares de Moçambique resumes operations under private management» is worth following because of its possible economic, institutional or regional effects. For «Fábrica de Painéis Solares de Moçambique resumes operations under private management», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 11.79,
+      "editorial_score": 10.79,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
-      "summary": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military",
-      "why": "«Farmers blocked from olive harvest in occ. West Bank, volunteers detained» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Farmers blocked from olive harvest in occ. West Bank, volunteers detained», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
+      "summary": "Moscow dispatches its inaugural diesel shipment to the US, aiming to ease fuel shortages as midterm elections loom",
+      "why": "«Will Russia’s diesel shipment to the US lower prices before midterms?» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Will Russia’s diesel shipment to the US lower prices before midterms?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-10-21T18:51:07+00:00",
-      "age_hours": 0.3,
+      "published": "2026-10-21T20:54:27+00:00",
+      "age_hours": 3.0,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
+      "link": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -213,8 +188,37 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military. «Farmers blocked from olive harvest in occ. West Bank, volunteers detained» is worth following because of its possible economic, institutional or regional effects. For «Farmers blocked from olive harvest in occ. West Bank, volunteers detained», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.94,
+      "detailed_summary": "Moscow dispatches its inaugural diesel shipment to the US, aiming to ease fuel shortages as midterm elections loom. «Will Russia’s diesel shipment to the US lower prices before midterms?» matters because it may change energy and investment decisions affecting Mundo. For «Will Russia’s diesel shipment to the US lower prices before midterms?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 10.38,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Tunisia jails opposition politician for four years over social media posts",
+      "summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders",
+      "why": "«Tunisia jails opposition politician for four years over social media posts» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Tunisia jails opposition politician for four years over social media posts», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-21T19:14:49+00:00",
+      "age_hours": 4.7,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders. «Tunisia jails opposition politician for four years over social media posts» is worth following because of its possible economic, institutional or regional effects. For «Tunisia jails opposition politician for four years over social media posts», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.02,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -229,7 +233,7 @@
       "impact": "For «Government approves regulations on decentralized governance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "AIM News",
       "published": "2026-10-21T08:58:33+00:00",
-      "age_hours": 10.2,
+      "age_hours": 15.0,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/21/government-approves-regulations-on-decentralized-governance/",
       "original_source": true,
@@ -243,7 +247,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 21 Oct (AIM) – The Mozambican government on Tuesday approved regulations defining the functioning of executive bodies responsible for decentralized governance. The regulations are aimed at harmonizing the administrative procedures and clarify responsibilities under the law that establishes the legal framework for State representative bodies at provincial level. Speaking to reporters on Tuesday after a meeting of the Council of Ministers (cabinet), the government spokesperson and Minister of State Administration, Inocêncio Impissa, said the regulations also strengthen institutional coordination and establish procedures for overseeing and supervising services that remain under central government control. “They aim to ensure consistent implementation of the legal framework across the country”, he said. Also on Tuesday, the government approved regulations governing mandatory retirement upon reaching the statutory age limit and procedures for extending that limit. «Government approves regulations on decentralized governance» is worth following because of its possible economic, institutional or regional effects. For «Government approves regulations on decentralized governance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 10.88,
+      "editorial_score": 9.88,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -258,11 +262,11 @@
       "impact": "For «India 'cockroach' leaders who called on election chief to quit are freed from jail», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "BBC World",
       "published": "2026-10-21T18:22:28+00:00",
-      "age_hours": 0.8,
+      "age_hours": 5.6,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -272,7 +276,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Saurav Das and Ashutosh Ranka have spent a week in jail after being accused of trespassing Two leaders of the Gen Z-led Cockroach Janta Party (CJP) have been freed from jail a week after they were arrested for trespassing at a banned protest site in Delhi Saurav Das and Ashutosh Ranka walked out of Tihar jail hours after a magistrate ordered their release. They had been detained by police and jailed after they crossed barricades and climbed over the locked gate at Jantar Mantar The historic venue was recently removed from a list of designated protest sites The men, who denied wrongdoing, have been calling on India's chief election commissioner to resign. Critics accuse the commission of manipulating voter rolls to benefit India's governing party, charges the commission rejects A special executive magistrate court in Delhi, passed their release order, legal news website Bar and Bench reported After bail was granted, Das told reporters from a police van: \"Truth alone triumphs. «India 'cockroach' leaders who called on election chief to quit are freed from jail» is worth following because of its possible economic, institutional or regional effects. For «India 'cockroach' leaders who called on election chief to quit are freed from jail», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.83,
+      "editorial_score": 9.83,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -287,7 +291,7 @@
       "impact": "For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-10-21T09:55:15+00:00",
-      "age_hours": 9.2,
+      "age_hours": 14.0,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -301,7 +305,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Nearly 5,000 healthcare workers have been trained to deal with Ebola Kenya is grappling with its first ever outbreak of Ebola, a disease which neighbouring countries, such as Uganda and Democratic Republic of Congo, are used to dealing with Nine cases have now been confirmed including its first patient, who travelled from DR Congo and died two weeks ago Four relatives of the first victim, three health workers and a hospital cleaner have now tested positive, meaning they are all linked to him But concerns are rising that the virus could start spreading further, even as the government has sought to assure citizens The US has warned it citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert Kenyans have been expressing their concerns that the disease could spread more widely More than 4,000 people have died since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according… «Is Ebola under control in Kenya after nine cases confirmed?» deserves attention because it may change political, diplomatic or security risks. For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 10.08,
+      "editorial_score": 9.08,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -318,7 +322,7 @@
       "impact": "For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-10-20T17:30:15+00:00",
-      "age_hours": 25.7,
+      "age_hours": 30.4,
       "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -332,7 +336,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "Ameth Bek Hospital in Abyei town has been treating people wounded in Monday's attack on the market Sudan's army has been accused of launching several drone strikes that have reportedly killed more than 300 people, including dozens travelling to a funeral The death toll from strikes in two areas of West Kordofan state on Sunday evening was 150, sources told the Sudan War Observatory, which tracks the conflict that erupted in 2023 between the army and the paramilitary Rapid Support Forces (RSF) In Abyei, a disputed border area between Sudan and South Sudan, 153 people were killed when drones hit a market on Monday, the region's information minister said A military source told the BBC the army had carried out the Abyei attack, saying the market was a fuel supply site for the RSF The attack has raised tensions between South Sudan and Sudan, which jointly administer Abyei, as they both claim ownership to the oil-rich region in a dispute that has remained unresolved since South Sudan ceded in 2011 South Sudan has summoned Sudan's ambassador to lodge a formal protest. «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say» matters because it may change energy and investment decisions affecting África. For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 8.45,
+      "editorial_score": 8.3,
       "source_tier": "A",
       "editorial_status": "ACTUALIZAÇÃO"
     }
