@@ -1,10 +1,48 @@
 {
-  "updated_at": "2026-10-21T14:23:09.890328+00:00",
+  "updated_at": "2026-10-21T19:09:33.653672+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "summary": "The latest talks between Putin (right) and Witkoff lasted about three hours in St Petersburg Russia is \"ready in principle\" to resume talks with the US and Ukraine on ending the conflict, Vladimir Putin's top aide has said Yuri Ushakov was speaking after Putin met US President Donald Trump's special envoy Steve Witkoff in the Russian city of St Petersburg Ukraine's President Volodymyr Zelensky and his European allies have been pressing Moscow for an immediate resumption of the talks suspended in February, and Ushakov said a new round could be held next month Russia has for months refused talks as it believes it is winning on the battlefield with Ukraine facing an acute shortage of interceptors against deadly Russian missile attacks Witkoff went to St Petersburg after meeting Zelensky as well as the leaders of Norway and Finland in the Norwegian capital, Oslo, on Monday It is not clear what specific proposals Witkoff brought to Putin, but Zelensky said after talks in Oslo that \"strong\" security guarantees for Ukraine and energy ceasefire proposals had been discussed Ushakov said…",
+      "why": "«Russia says it is ready to resume talks with Ukraine and US to end war» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Russia says it is ready to resume talks with Ukraine and US to end war», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-21T17:42:34+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "DW English"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "DW English",
+          "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+          "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "The latest talks between Putin (right) and Witkoff lasted about three hours in St Petersburg Russia is \"ready in principle\" to resume talks with the US and Ukraine on ending the conflict, Vladimir Putin's top aide has said Yuri Ushakov was speaking after Putin met US President Donald Trump's special envoy Steve Witkoff in the Russian city of St Petersburg Ukraine's President Volodymyr Zelensky and his European allies have been pressing Moscow for an immediate resumption of the talks suspended in February, and Ushakov said a new round could be held next month Russia has for months refused talks as it believes it is winning on the battlefield with Ukraine facing an acute shortage of interceptors against deadly Russian missile attacks Witkoff went to St Petersburg after meeting Zelensky as well as the leaders of Norway and Finland in the Norwegian capital, Oslo, on Monday It is not clear what specific proposals Witkoff brought to Putin, but Zelensky said after talks in Oslo that \"strong\" security guarantees for Ukraine and energy ceasefire proposals had been discussed Ushakov said… «Russia says it is ready to resume talks with Ukraine and US to end war» matters because it may change energy and investment decisions affecting Mundo. For «Russia says it is ready to resume talks with Ukraine and US to end war», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 15.21,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -16,7 +54,7 @@
       "impact": "For «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-21T14:06:18+00:00",
-      "age_hours": 0.3,
+      "age_hours": 5.1,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-chapo-announces-20-state-stake-in-mining-projects-through-new-state-owned-company/",
       "original_source": true,
@@ -30,8 +68,37 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "In his opening speech at the CAVAME-d 2026 conference, Chapo said that the creation of the state-owned Empresa Nacional de Minas, amendments to the Mining Law and the Petroleum Law, and the Local Content Law form part of the government’s new economic direction According to the President, the legal instruments were approved by the Assembly of the Republic, and their respective regulations were approved by the Council of Ministers last week Shareholding does not mean guaranteed revenue The state’s presence in the capital of mining projects could allow it to participate directly in the economic results of the ventures, in addition to the taxes and fees levied on mining activities The model nevertheless requires management and financing capacity. An equity stake may entail financial responsibilities and exposure to investment risks A 20% stake also does not mean that the state automatically receives that proportion of the value of production. «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 15.94,
+      "editorial_score": 14.94,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "PHP developers say key patches available after global scare",
+      "summary": "Newly discovered vulnerabilities in the PHP programming language have put millions of websites at risk, with government agencies sounding alarms and taking down sites. Developers say updating systems is \"imperative.\" The updates patching the recently leaked PHP security issues are now online , developers of the open-source programming language said on Wednesday afternoon \"All PHP users are strongly encouraged to update immediately,\" the team said in an online statement Millions of websites worldwide, including critical infrastructure and government portals, as well as news sites and online shops, rely on PHP. The software is free The new patches aim to fix two \"critical vulnerabilities\" hackers could exploit to remotely take control of websites and servers, bypassing usual obstacles such as password-protected accounts.",
+      "why": "«PHP developers say key patches available after global scare» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «PHP developers say key patches available after global scare», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-21T16:56:00+00:00",
+      "age_hours": 2.2,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-008",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Newly discovered vulnerabilities in the PHP programming language have put millions of websites at risk, with government agencies sounding alarms and taking down sites. Developers say updating systems is \"imperative.\" The updates patching the recently leaked PHP security issues are now online , developers of the open-source programming language said on Wednesday afternoon \"All PHP users are strongly encouraged to update immediately,\" the team said in an online statement Millions of websites worldwide, including critical infrastructure and government portals, as well as news sites and online shops, rely on PHP. The software is free The new patches aim to fix two \"critical vulnerabilities\" hackers could exploit to remotely take control of websites and servers, bypassing usual obstacles such as password-protected accounts. «PHP developers say key patches available after global scare» deserves attention because it may change political, diplomatic or security risks. For «PHP developers say key patches available after global scare», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 13.54,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -46,7 +113,7 @@
       "impact": "For «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-21T09:53:58+00:00",
-      "age_hours": 4.5,
+      "age_hours": 9.3,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/21/funding-bdm-from-revenues-generated-by-extractive-industry-may-increase-pressure-on-the-state-budget/",
       "original_source": true,
@@ -60,37 +127,36 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 21 Oct (AIM) – The prominent anti-corruption NGO, the Centre for Public Integrity (CIP), believes that the government’s plan to use revenues from the extractive industry to fund funding the Mozambique’s Development Bank of (BDM) may increase pressure on the State Budget. The organization’s reaction follows a regulation pointing out that a percentage of State revenues from the extractive sector must be channeled to the BDM. The BDM may also be funded by a portion (25%) of the investment portfolio derived from social security contributions, as well as by resources from institutions within the State’s indirect administration and the State-owned enterprise sector. According to CIP, funding the BDM from extractive sector revenues may reduce the resources available within the State Budget, which are aimed at directly financing other public investment priorities. “Although the regulation establishes certain safeguards, it leaves two issues unaddressed. «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget» deserves attention because it may change political, diplomatic or security risks. For «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 14.06,
+      "editorial_score": 13.06,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
-        "Economia"
+        "Segurança"
       ],
-      "title": "Germany news: Nvidia CEO optimistic about EU's AI economy",
-      "summary": "Jensen Huang, the head of the chip giant, was in Berlin to talk to developers and investors. Meanwhile, a cigarette tax hike came into effect early due to a \"technical error.\" DW has more Nvidia's Jensen Huang had words of encouragement for Europe's growing AI economy during a conference in Berlin Germany's Finance Ministry has erroneously introduced an approved tax hike on tobacco products months before it was scheduled to come into effect Germany's Bundesbank has forecast growth for the fourth quarter after a dip in the third quarter Alice Weidel of the AfD will pitch what she is calling \"A New Deal for Europe\" in Strasbourg this afternoon Here is a round-up of top stories from and about Germany on Wednesday, October 21, 2026: If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first German trade with Russia collapsed following the 2022 full-scale invasion of Ukraine , especially due to the decision to cut all imports of Russian gas.",
-      "why": "«Germany news: Nvidia CEO optimistic about EU's AI economy» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Germany news: Nvidia CEO optimistic about EU's AI economy», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-21T13:14:00+00:00",
-      "age_hours": 1.2,
+      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+      "summary": "Tehran had 'nothing new' to tell Washington after latest nuclear proposals reportedly offered by mediators",
+      "why": "«Iran determined to keep uranium amid increased war odds, flurry of meetings» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Iran determined to keep uranium amid increased war odds, flurry of meetings», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-21T18:58:29+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.dw.com/en/germany-news-nvidia-ceo-optimistic-about-eu-s-ai-economy/live-79719483?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "DW English"
+        "Al Jazeera English"
       ],
-      "primary_source": "DW English",
+      "primary_source": "Al Jazeera English",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Jensen Huang, the head of the chip giant, was in Berlin to talk to developers and investors. Meanwhile, a cigarette tax hike came into effect early due to a \"technical error.\" DW has more Nvidia's Jensen Huang had words of encouragement for Europe's growing AI economy during a conference in Berlin Germany's Finance Ministry has erroneously introduced an approved tax hike on tobacco products months before it was scheduled to come into effect Germany's Bundesbank has forecast growth for the fourth quarter after a dip in the third quarter Alice Weidel of the AfD will pitch what she is calling \"A New Deal for Europe\" in Strasbourg this afternoon Here is a round-up of top stories from and about Germany on Wednesday, October 21, 2026: If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first German trade with Russia collapsed following the 2022 full-scale invasion of Ukraine , especially due to the decision to cut all imports of Russian gas. «Germany news: Nvidia CEO optimistic about EU's AI economy» matters because it may change energy and investment decisions affecting Mundo. For «Germany news: Nvidia CEO optimistic about EU's AI economy», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 13.75,
+      "opportunity_flag": false,
+      "detailed_summary": "Tehran had 'nothing new' to tell Washington after latest nuclear proposals reportedly offered by mediators. «Iran determined to keep uranium amid increased war odds, flurry of meetings» deserves attention because it may change political, diplomatic or security risks. For «Iran determined to keep uranium amid increased war odds, flurry of meetings», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.96,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -105,7 +171,7 @@
       "impact": "For «Fábrica de Painéis Solares de Moçambique resumes operations under private management», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-21T13:19:37+00:00",
-      "age_hours": 1.1,
+      "age_hours": 5.8,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/fabrica-de-paineis-solares-de-mocambique-resumes-operations-under-private-management/",
       "original_source": true,
@@ -119,36 +185,36 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Photo: Gabinete do Governador da Província de Maputo Photo: Gabinete do Governador da Província de Maputo Manuel Tule was speaking at the ceremony marking the transfer of the factory to private management, where he also called for local young people to receive training and develop the skills needed to join the factory’s permanent workforce Photo: Gabinete do Governador da Província de Maputo Source: Gabinete do Governador da Província de Maputo / Press Release. «Fábrica de Painéis Solares de Moçambique resumes operations under private management» is worth following because of its possible economic, institutional or regional effects. For «Fábrica de Painéis Solares de Moçambique resumes operations under private management», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 12.77,
+      "editorial_score": 11.79,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
-      "summary": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr Russia 's Federal Security Service (FSB) domestic intelligence agency said on Wednesday that it had arrested a German national on allegations of mercenary activity, calling him an \"active member of the Ukrainian armed forces.\" The news came on the same day that Russia released a retired teacher from the US, Stephen Hubbard, after years in detention on similar mercenary charges, which he denied Russia has detained a number of foreign nationals since its 2022 full-scale invasion of Ukraine , accusing them of assisting Kyiv in some way or another There was no immediate comment from Germany's government, besides acknowledging that it had seen the reports and was pursuing them The FSB said in a statement carried widely by Russian media that the man was a former Bundeswehr soldier and trained sniper.",
-      "why": "«Russia arrests German man, calls him a Ukraine 'mercenary'» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Russia arrests German man, calls him a Ukraine 'mercenary'», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-21T14:17:00+00:00",
-      "age_hours": 0.1,
+      "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
+      "summary": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military",
+      "why": "«Farmers blocked from olive harvest in occ. West Bank, volunteers detained» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Farmers blocked from olive harvest in occ. West Bank, volunteers detained», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-21T18:51:07+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "DW English"
+        "Al Jazeera English"
       ],
-      "primary_source": "DW English",
+      "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr Russia 's Federal Security Service (FSB) domestic intelligence agency said on Wednesday that it had arrested a German national on allegations of mercenary activity, calling him an \"active member of the Ukrainian armed forces.\" The news came on the same day that Russia released a retired teacher from the US, Stephen Hubbard, after years in detention on similar mercenary charges, which he denied Russia has detained a number of foreign nationals since its 2022 full-scale invasion of Ukraine , accusing them of assisting Kyiv in some way or another There was no immediate comment from Germany's government, besides acknowledging that it had seen the reports and was pursuing them The FSB said in a statement carried widely by Russian media that the man was a former Bundeswehr soldier and trained sniper. «Russia arrests German man, calls him a Ukraine 'mercenary'» deserves attention because it may change political, diplomatic or security risks. For «Russia arrests German man, calls him a Ukraine 'mercenary'», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.98,
+      "detailed_summary": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military. «Farmers blocked from olive harvest in occ. West Bank, volunteers detained» is worth following because of its possible economic, institutional or regional effects. For «Farmers blocked from olive harvest in occ. West Bank, volunteers detained», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.94,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -163,7 +229,7 @@
       "impact": "For «Government approves regulations on decentralized governance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "AIM News",
       "published": "2026-10-21T08:58:33+00:00",
-      "age_hours": 5.4,
+      "age_hours": 10.2,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/21/government-approves-regulations-on-decentralized-governance/",
       "original_source": true,
@@ -177,8 +243,37 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 21 Oct (AIM) – The Mozambican government on Tuesday approved regulations defining the functioning of executive bodies responsible for decentralized governance. The regulations are aimed at harmonizing the administrative procedures and clarify responsibilities under the law that establishes the legal framework for State representative bodies at provincial level. Speaking to reporters on Tuesday after a meeting of the Council of Ministers (cabinet), the government spokesperson and Minister of State Administration, Inocêncio Impissa, said the regulations also strengthen institutional coordination and establish procedures for overseeing and supervising services that remain under central government control. “They aim to ensure consistent implementation of the legal framework across the country”, he said. Also on Tuesday, the government approved regulations governing mandatory retirement upon reaching the statutory age limit and procedures for extending that limit. «Government approves regulations on decentralized governance» is worth following because of its possible economic, institutional or regional effects. For «Government approves regulations on decentralized governance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 11.88,
+      "editorial_score": 10.88,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+      "summary": "Saurav Das and Ashutosh Ranka have spent a week in jail after being accused of trespassing Two leaders of the Gen Z-led Cockroach Janta Party (CJP) have been freed from jail a week after they were arrested for trespassing at a banned protest site in Delhi Saurav Das and Ashutosh Ranka walked out of Tihar jail hours after a magistrate ordered their release. They had been detained by police and jailed after they crossed barricades and climbed over the locked gate at Jantar Mantar The historic venue was recently removed from a list of designated protest sites The men, who denied wrongdoing, have been calling on India's chief election commissioner to resign. Critics accuse the commission of manipulating voter rolls to benefit India's governing party, charges the commission rejects A special executive magistrate court in Delhi, passed their release order, legal news website Bar and Bench reported After bail was granted, Das told reporters from a police van: \"Truth alone triumphs.",
+      "why": "«India 'cockroach' leaders who called on election chief to quit are freed from jail» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «India 'cockroach' leaders who called on election chief to quit are freed from jail», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-21T18:22:28+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Saurav Das and Ashutosh Ranka have spent a week in jail after being accused of trespassing Two leaders of the Gen Z-led Cockroach Janta Party (CJP) have been freed from jail a week after they were arrested for trespassing at a banned protest site in Delhi Saurav Das and Ashutosh Ranka walked out of Tihar jail hours after a magistrate ordered their release. They had been detained by police and jailed after they crossed barricades and climbed over the locked gate at Jantar Mantar The historic venue was recently removed from a list of designated protest sites The men, who denied wrongdoing, have been calling on India's chief election commissioner to resign. Critics accuse the commission of manipulating voter rolls to benefit India's governing party, charges the commission rejects A special executive magistrate court in Delhi, passed their release order, legal news website Bar and Bench reported After bail was granted, Das told reporters from a police van: \"Truth alone triumphs. «India 'cockroach' leaders who called on election chief to quit are freed from jail» is worth following because of its possible economic, institutional or regional effects. For «India 'cockroach' leaders who called on election chief to quit are freed from jail», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.83,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -192,7 +287,7 @@
       "impact": "For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-10-21T09:55:15+00:00",
-      "age_hours": 4.5,
+      "age_hours": 9.2,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -206,36 +301,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Nearly 5,000 healthcare workers have been trained to deal with Ebola Kenya is grappling with its first ever outbreak of Ebola, a disease which neighbouring countries, such as Uganda and Democratic Republic of Congo, are used to dealing with Nine cases have now been confirmed including its first patient, who travelled from DR Congo and died two weeks ago Four relatives of the first victim, three health workers and a hospital cleaner have now tested positive, meaning they are all linked to him But concerns are rising that the virus could start spreading further, even as the government has sought to assure citizens The US has warned it citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert Kenyans have been expressing their concerns that the disease could spread more widely More than 4,000 people have died since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according… «Is Ebola under control in Kenya after nine cases confirmed?» deserves attention because it may change political, diplomatic or security risks. For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 11.06,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
-      "summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity",
-      "why": "«How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-21T13:58:17+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity. «How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties» deserves attention because it may change political, diplomatic or security risks. For «How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 10.92,
+      "editorial_score": 10.08,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -252,82 +318,23 @@
       "impact": "For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-10-20T17:30:15+00:00",
-      "age_hours": 20.9,
-      "within_24h": true,
+      "age_hours": 25.7,
+      "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-004",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "BBC Africa"
       ],
       "primary_source": "BBC Africa",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "Ameth Bek Hospital in Abyei town has been treating people wounded in Monday's attack on the market Sudan's army has been accused of launching several drone strikes that have reportedly killed more than 300 people, including dozens travelling to a funeral The death toll from strikes in two areas of West Kordofan state on Sunday evening was 150, sources told the Sudan War Observatory, which tracks the conflict that erupted in 2023 between the army and the paramilitary Rapid Support Forces (RSF) In Abyei, a disputed border area between Sudan and South Sudan, 153 people were killed when drones hit a market on Monday, the region's information minister said A military source told the BBC the army had carried out the Abyei attack, saying the market was a fuel supply site for the RSF The attack has raised tensions between South Sudan and Sudan, which jointly administer Abyei, as they both claim ownership to the oil-rich region in a dispute that has remained unresolved since South Sudan ceded in 2011 South Sudan has summoned Sudan's ambassador to lodge a formal protest. «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say» matters because it may change energy and investment decisions affecting África. For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 8.65,
+      "editorial_score": 8.45,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
-      "summary": "Firefighters have been battling the stubborn blaze for weeks now When the sun hits the smog enveloping Indonesian Borneo, it turns everything the colour of rust. Cars, houses and streets appear and disappear out of a dim russet fog. There are few better words than \"apocalyptic\" to describe the way this looks But it's at night, in the quiet darkness, that mother-of-three Dianyra Eka Nastiti grows most fearful \"Sometimes at night my baby's chest makes a rattling sound,\" she says. \"She was hospitalised for bronchopneumonia when she was just a month and a half old, and every single night I worry: Will my child cough tomorrow? \"Those thoughts haunt me every night.\" Nastiti lives in Palangkaraya, at the frontline of a months-long environmental catastrophe that has blanketed large parts of Southeast Asia in a toxic haze Wildfires have torched some 1.9 million hectares across Indonesia since the start of the year, according to open-access satellite platform Nusantara Atlas – an area roughly the size of the US state of New Jersey, or the entire landmass of Fiji.",
-      "why": "«Borneo burning: Life on the frontline of South East Asia's toxic haze» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Borneo burning: Life on the frontline of South East Asia's toxic haze», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-20T23:51:43+00:00",
-      "age_hours": 14.5,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-017",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Firefighters have been battling the stubborn blaze for weeks now When the sun hits the smog enveloping Indonesian Borneo, it turns everything the colour of rust. Cars, houses and streets appear and disappear out of a dim russet fog. There are few better words than \"apocalyptic\" to describe the way this looks But it's at night, in the quiet darkness, that mother-of-three Dianyra Eka Nastiti grows most fearful \"Sometimes at night my baby's chest makes a rattling sound,\" she says. \"She was hospitalised for bronchopneumonia when she was just a month and a half old, and every single night I worry: Will my child cough tomorrow? \"Those thoughts haunt me every night.\" Nastiti lives in Palangkaraya, at the frontline of a months-long environmental catastrophe that has blanketed large parts of Southeast Asia in a toxic haze Wildfires have torched some 1.9 million hectares across Indonesia since the start of the year, according to open-access satellite platform Nusantara Atlas – an area roughly the size of the US state of New Jersey, or the entire landmass of Fiji. «Borneo burning: Life on the frontline of South East Asia's toxic haze» is worth following because of its possible economic, institutional or regional effects. For «Borneo burning: Life on the frontline of South East Asia's toxic haze», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 7.98,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "Sudan drone strike kills around 150 in Abyei market",
-      "summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military",
-      "why": "«Sudan drone strike kills around 150 in Abyei market» matters because it may change energy and investment decisions affecting África.",
-      "impact": "For «Sudan drone strike kills around 150 in Abyei market», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-10-20T18:09:00+00:00",
-      "age_hours": 20.2,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military. «Sudan drone strike kills around 150 in Abyei market» matters because it may change energy and investment decisions affecting África. For «Sudan drone strike kills around 150 in Abyei market», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 6.79,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -350,8 +357,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 4,
-    "África": 3,
-    "Mundo": 4
+    "África": 2,
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
