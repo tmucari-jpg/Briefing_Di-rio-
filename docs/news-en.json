@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T08:20:54.086703+00:00",
+  "updated_at": "2026-10-21T14:23:09.890328+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -10,58 +10,104 @@
       "tags": [
         "Economia"
       ],
-      "title": "Gaza plans to invest 126 million US dollar in photovoltaic power plant",
-      "summary": "Maputo, 21 Oct (AIM) – The Mozambican government plans to invest about 126 million US dollars in a photovoltaic power plant to supply electricity to mining companies in the southern province of Gaza. According to the governor of Gaza Province, Alfeu Cuna, who was speaking on at the Conference on Adding Value to Mineral Resources (CAVAME-d 2026), which is taking place in the port city of Nacala, in the northern province of Nampula, the plant is expected to strengthen electricity supplies to mining companies operating in the province, creating conditions for the development of industries linked to mineral extraction. The governor highlighted existing electricity infrastructure, including the Lionde and Xai-Xai substations and power transmission lines, which could support the expansion of industrial activities. He also pointed to the importance of reliable electricity supplies for establishing mineral processing facilities in Mabalane and Mapai, two districts in Gaza province where limestone deposits have been identified.",
-      "why": "«Gaza plans to invest 126 million US dollar in photovoltaic power plant» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Gaza plans to invest 126 million US dollar in photovoltaic power plant», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "AIM News",
-      "published": "2026-10-21T08:05:00+00:00",
+      "title": "Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company",
+      "summary": "In his opening speech at the CAVAME-d 2026 conference, Chapo said that the creation of the state-owned Empresa Nacional de Minas, amendments to the Mining Law and the Petroleum Law, and the Local Content Law form part of the government’s new economic direction According to the President, the legal instruments were approved by the Assembly of the Republic, and their respective regulations were approved by the Council of Ministers last week Shareholding does not mean guaranteed revenue The state’s presence in the capital of mining projects could allow it to participate directly in the economic results of the ventures, in addition to the taxes and fees levied on mining activities The model nevertheless requires management and financing capacity. An equity stake may entail financial responsibilities and exposure to investment risks A 20% stake also does not mean that the state automatically receives that proportion of the value of production.",
+      "why": "«Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-21T14:06:18+00:00",
       "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/21/gaza-plans-to-invest-126-million-us-dollar-in-photovoltaic-power-plant/",
+      "link": "https://clubofmozambique.com/news/mozambique-chapo-announces-20-state-stake-in-mining-projects-through-new-state-owned-company/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
-      "cluster_size": 3,
-      "source_count": 2,
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "AIM News",
         "Club of Mozambique"
       ],
-      "primary_source": "AIM News",
+      "primary_source": "Club of Mozambique",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Club of Mozambique",
-          "title": "Mozambique: Government plans US$235 million investment to help health sector adapt to climate change",
-          "link": "https://clubofmozambique.com/news/mozambique-government-plans-us235-million-investment-to-help-health-sector-adapt-to-climate-change/"
-        },
-        {
-          "source": "Club of Mozambique",
-          "title": "Mozambique: Government plans to track and monitor businesses on digital platforms",
-          "link": "https://clubofmozambique.com/news/mozambique-government-plans-to-track-and-monitor-businesses-on-digital-platforms/"
-        }
-      ],
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 21 Oct (AIM) – The Mozambican government plans to invest about 126 million US dollars in a photovoltaic power plant to supply electricity to mining companies in the southern province of Gaza. According to the governor of Gaza Province, Alfeu Cuna, who was speaking on at the Conference on Adding Value to Mineral Resources (CAVAME-d 2026), which is taking place in the port city of Nacala, in the northern province of Nampula, the plant is expected to strengthen electricity supplies to mining companies operating in the province, creating conditions for the development of industries linked to mineral extraction. The governor highlighted existing electricity infrastructure, including the Lionde and Xai-Xai substations and power transmission lines, which could support the expansion of industrial activities. He also pointed to the importance of reliable electricity supplies for establishing mineral processing facilities in Mabalane and Mapai, two districts in Gaza province where limestone deposits have been identified. «Gaza plans to invest 126 million US dollar in photovoltaic power plant» is worth following because of its possible economic, institutional or regional effects. For «Gaza plans to invest 126 million US dollar in photovoltaic power plant», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 16.44,
+      "detailed_summary": "In his opening speech at the CAVAME-d 2026 conference, Chapo said that the creation of the state-owned Empresa Nacional de Minas, amendments to the Mining Law and the Petroleum Law, and the Local Content Law form part of the government’s new economic direction According to the President, the legal instruments were approved by the Assembly of the Republic, and their respective regulations were approved by the Council of Ministers last week Shareholding does not mean guaranteed revenue The state’s presence in the capital of mining projects could allow it to participate directly in the economic results of the ventures, in addition to the taxes and fees levied on mining activities The model nevertheless requires management and financing capacity. An equity stake may entail financial responsibilities and exposure to investment risks A 20% stake also does not mean that the state automatically receives that proportion of the value of production. «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 15.94,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget",
+      "summary": "Maputo, 21 Oct (AIM) – The prominent anti-corruption NGO, the Centre for Public Integrity (CIP), believes that the government’s plan to use revenues from the extractive industry to fund funding the Mozambique’s Development Bank of (BDM) may increase pressure on the State Budget. The organization’s reaction follows a regulation pointing out that a percentage of State revenues from the extractive sector must be channeled to the BDM. The BDM may also be funded by a portion (25%) of the investment portfolio derived from social security contributions, as well as by resources from institutions within the State’s indirect administration and the State-owned enterprise sector. According to CIP, funding the BDM from extractive sector revenues may reduce the resources available within the State Budget, which are aimed at directly financing other public investment priorities. “Although the regulation establishes certain safeguards, it leaves two issues unaddressed.",
+      "why": "«Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-21T09:53:58+00:00",
+      "age_hours": 4.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/21/funding-bdm-from-revenues-generated-by-extractive-industry-may-increase-pressure-on-the-state-budget/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 21 Oct (AIM) – The prominent anti-corruption NGO, the Centre for Public Integrity (CIP), believes that the government’s plan to use revenues from the extractive industry to fund funding the Mozambique’s Development Bank of (BDM) may increase pressure on the State Budget. The organization’s reaction follows a regulation pointing out that a percentage of State revenues from the extractive sector must be channeled to the BDM. The BDM may also be funded by a portion (25%) of the investment portfolio derived from social security contributions, as well as by resources from institutions within the State’s indirect administration and the State-owned enterprise sector. According to CIP, funding the BDM from extractive sector revenues may reduce the resources available within the State Budget, which are aimed at directly financing other public investment priorities. “Although the regulation establishes certain safeguards, it leaves two issues unaddressed. «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget» deserves attention because it may change political, diplomatic or security risks. For «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "editorial_score": 14.06,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Energia",
         "Economia"
       ],
-      "title": "Mozambique: Govt signs investment memorandums for mineral processing projects estimated at US$4.2 billion",
-      "summary": "Mozambique on Tuesday signed memorandums covering proposed investments worth US$4.2 billion in mineral resource processing plants in Nacala-Porto, Nampula province, in the north of the country. The memoranda cover projects related to graphite, copper, gemstones, silica sand, quartz and other mineral resources. They were signed with the Ministry of Mineral Resources and Energy (MIREME) on… Source",
-      "why": "«Mozambique: Govt signs investment memorandums for mineral processing projects estimated at US$4.2 billion» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Mozambique: Govt signs investment memorandums for mineral processing projects estimated at US$4.2 billion», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-21T07:40:01+00:00",
-      "age_hours": 0.7,
+      "title": "Germany news: Nvidia CEO optimistic about EU's AI economy",
+      "summary": "Jensen Huang, the head of the chip giant, was in Berlin to talk to developers and investors. Meanwhile, a cigarette tax hike came into effect early due to a \"technical error.\" DW has more Nvidia's Jensen Huang had words of encouragement for Europe's growing AI economy during a conference in Berlin Germany's Finance Ministry has erroneously introduced an approved tax hike on tobacco products months before it was scheduled to come into effect Germany's Bundesbank has forecast growth for the fourth quarter after a dip in the third quarter Alice Weidel of the AfD will pitch what she is calling \"A New Deal for Europe\" in Strasbourg this afternoon Here is a round-up of top stories from and about Germany on Wednesday, October 21, 2026: If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first German trade with Russia collapsed following the 2022 full-scale invasion of Ukraine , especially due to the decision to cut all imports of Russian gas.",
+      "why": "«Germany news: Nvidia CEO optimistic about EU's AI economy» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Germany news: Nvidia CEO optimistic about EU's AI economy», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-21T13:14:00+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-govt-signs-investment-memorandums-for-mineral-processing-projects-estimated-at-us4-2-billion/",
+      "link": "https://www.dw.com/en/germany-news-nvidia-ceo-optimistic-about-eu-s-ai-economy/live-79719483?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Jensen Huang, the head of the chip giant, was in Berlin to talk to developers and investors. Meanwhile, a cigarette tax hike came into effect early due to a \"technical error.\" DW has more Nvidia's Jensen Huang had words of encouragement for Europe's growing AI economy during a conference in Berlin Germany's Finance Ministry has erroneously introduced an approved tax hike on tobacco products months before it was scheduled to come into effect Germany's Bundesbank has forecast growth for the fourth quarter after a dip in the third quarter Alice Weidel of the AfD will pitch what she is calling \"A New Deal for Europe\" in Strasbourg this afternoon Here is a round-up of top stories from and about Germany on Wednesday, October 21, 2026: If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first German trade with Russia collapsed following the 2022 full-scale invasion of Ukraine , especially due to the decision to cut all imports of Russian gas. «Germany news: Nvidia CEO optimistic about EU's AI economy» matters because it may change energy and investment decisions affecting Mundo. For «Germany news: Nvidia CEO optimistic about EU's AI economy», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 13.75,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Fábrica de Painéis Solares de Moçambique resumes operations under private management",
+      "summary": "Photo: Gabinete do Governador da Província de Maputo Photo: Gabinete do Governador da Província de Maputo Manuel Tule was speaking at the ceremony marking the transfer of the factory to private management, where he also called for local young people to receive training and develop the skills needed to join the factory’s permanent workforce Photo: Gabinete do Governador da Província de Maputo Source: Gabinete do Governador da Província de Maputo / Press Release",
+      "why": "«Fábrica de Painéis Solares de Moçambique resumes operations under private management» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Fábrica de Painéis Solares de Moçambique resumes operations under private management», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-21T13:19:37+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/fabrica-de-paineis-solares-de-mocambique-resumes-operations-under-private-management/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -71,208 +117,68 @@
       ],
       "primary_source": "Club of Mozambique",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Mozambique on Tuesday signed memorandums covering proposed investments worth US$4.2 billion in mineral resource processing plants in Nacala-Porto, Nampula province, in the north of the country. The memoranda cover projects related to graphite, copper, gemstones, silica sand, quartz and other mineral resources. They were signed with the Ministry of Mineral Resources and Energy (MIREME) on… Source. «Mozambique: Govt signs investment memorandums for mineral processing projects estimated at US$4.2 billion» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique: Govt signs investment memorandums for mineral processing projects estimated at US$4.2 billion», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 14.85,
+      "opportunity_flag": false,
+      "detailed_summary": "Photo: Gabinete do Governador da Província de Maputo Photo: Gabinete do Governador da Província de Maputo Manuel Tule was speaking at the ceremony marking the transfer of the factory to private management, where he also called for local young people to receive training and develop the skills needed to join the factory’s permanent workforce Photo: Gabinete do Governador da Província de Maputo Source: Gabinete do Governador da Província de Maputo / Press Release. «Fábrica de Painéis Solares de Moçambique resumes operations under private management» is worth following because of its possible economic, institutional or regional effects. For «Fábrica de Painéis Solares de Moçambique resumes operations under private management», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.77,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+      "summary": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr Russia 's Federal Security Service (FSB) domestic intelligence agency said on Wednesday that it had arrested a German national on allegations of mercenary activity, calling him an \"active member of the Ukrainian armed forces.\" The news came on the same day that Russia released a retired teacher from the US, Stephen Hubbard, after years in detention on similar mercenary charges, which he denied Russia has detained a number of foreign nationals since its 2022 full-scale invasion of Ukraine , accusing them of assisting Kyiv in some way or another There was no immediate comment from Germany's government, besides acknowledging that it had seen the reports and was pursuing them The FSB said in a statement carried widely by Russian media that the man was a former Bundeswehr soldier and trained sniper.",
+      "why": "«Russia arrests German man, calls him a Ukraine 'mercenary'» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Russia arrests German man, calls him a Ukraine 'mercenary'», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-21T14:17:00+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr Russia 's Federal Security Service (FSB) domestic intelligence agency said on Wednesday that it had arrested a German national on allegations of mercenary activity, calling him an \"active member of the Ukrainian armed forces.\" The news came on the same day that Russia released a retired teacher from the US, Stephen Hubbard, after years in detention on similar mercenary charges, which he denied Russia has detained a number of foreign nationals since its 2022 full-scale invasion of Ukraine , accusing them of assisting Kyiv in some way or another There was no immediate comment from Germany's government, besides acknowledging that it had seen the reports and was pursuing them The FSB said in a statement carried widely by Russian media that the man was a former Bundeswehr soldier and trained sniper. «Russia arrests German man, calls him a Ukraine 'mercenary'» deserves attention because it may change political, diplomatic or security risks. For «Russia arrests German man, calls him a Ukraine 'mercenary'», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.98,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "SACBM and SAPCC sign landmark partnership to strengthen business cooperation between South Africa and Mozambique",
-      "summary": "Founded in 2013, the SAPCC is a member-driven, non-profit organisation representing more than 2,000 members across Southern Africa. It is recognised by both Portuguese and South African authorities and plays an important role in fostering business relationships and promoting commercial opportunities SACBM represented at the SAPCC Gala 2026 SACBM was honoured to attend the SAPCC Cell C Business Excellence Awards 2026, represented by its Chairman, Filipe Raposo, and CEO, Dra Sonia Chembeze The prestigious gala brought together approximately 500 guests for an evening celebrating business excellence, leadership, entrepreneurship, Portuguese culture and the strength of the regional business community A major highlight of the day was the signing of the MOU between SACBM and SAPCC.",
-      "why": "«SACBM and SAPCC sign landmark partnership to strengthen business cooperation between South Africa and…» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «SACBM and SAPCC sign landmark partnership to strengthen business cooperation between South Africa and…», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-21T06:46:36+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/sacbm-and-sapcc-sign-landmark-partnership-to-strengthen-business-cooperation-between-south-africa-and-mozambique/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Founded in 2013, the SAPCC is a member-driven, non-profit organisation representing more than 2,000 members across Southern Africa. It is recognised by both Portuguese and South African authorities and plays an important role in fostering business relationships and promoting commercial opportunities SACBM represented at the SAPCC Gala 2026 SACBM was honoured to attend the SAPCC Cell C Business Excellence Awards 2026, represented by its Chairman, Filipe Raposo, and CEO, Dra Sonia Chembeze The prestigious gala brought together approximately 500 guests for an evening celebrating business excellence, leadership, entrepreneurship, Portuguese culture and the strength of the regional business community A major highlight of the day was the signing of the MOU between SACBM and SAPCC. «SACBM and SAPCC sign landmark partnership to strengthen business cooperation between South Africa and…» deserves attention because it may change political, diplomatic or security risks. For «SACBM and SAPCC sign landmark partnership to strengthen business cooperation between South Africa and…», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 14.67,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
-      "summary": "Watch: Zelensky says US military intelligence sharing \"works now\" US special envoy Steve Witkoff has arrived in Russia to meet President Vladimir Putin after Ukraine's leader said American intelligence sharing about deadly Russian strikes \"works now\" Kyiv had accused the US of recently withholding such intelligence, causing Ukrainians to lose their lives - a claim rejected as \"scandalous\" by Washington Volodymyr Zelensky was speaking after meeting Witkoff in Oslo on Tuesday for talks later described as \"constructive\" by a US official The Ukrainian president and his European allies said it was now up to Russia to respond to the proposals agreed in Oslo when Witkoff meets Putin in St Petersburg on Wednesday to discuss measures to end the war Putin is yet to publicly comment on the latest developments, but Foreign Minister Sergei Lavrov has said the Kremlin will listen to what Witkoff offers while ruling out \"any political concessions\" Witkoff was met by Russian envoy Kirill Dmitriev on the runway when he arrived in St Petersburg on Wednesday morning Finnish President Alexander Stubb…",
-      "why": "«Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-21T08:18:53+00:00",
-      "age_hours": 0.0,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 3,
-      "source_count": 3,
-      "sources": [
-        "BBC World",
-        "Al Jazeera English",
-        "DW English"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Al Jazeera English",
-          "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
-          "link": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss"
-        },
-        {
-          "source": "DW English",
-          "title": "US envoy to meet Putin after 'positive' talks with Zelenskyy",
-          "link": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Watch: Zelensky says US military intelligence sharing \"works now\" US special envoy Steve Witkoff has arrived in Russia to meet President Vladimir Putin after Ukraine's leader said American intelligence sharing about deadly Russian strikes \"works now\" Kyiv had accused the US of recently withholding such intelligence, causing Ukrainians to lose their lives - a claim rejected as \"scandalous\" by Washington Volodymyr Zelensky was speaking after meeting Witkoff in Oslo on Tuesday for talks later described as \"constructive\" by a US official The Ukrainian president and his European allies said it was now up to Russia to respond to the proposals agreed in Oslo when Witkoff meets Putin in St Petersburg on Wednesday to discuss measures to end the war Putin is yet to publicly comment on the latest developments, but Foreign Minister Sergei Lavrov has said the Kremlin will listen to what Witkoff offers while ruling out \"any political concessions\" Witkoff was met by Russian envoy Kirill Dmitriev on the runway when he arrived in St Petersburg on Wednesday morning Finnish President Alexander Stubb… «Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia» deserves attention because it may change political, diplomatic or security risks. For «Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 13.5,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
-      "summary": "Messaging service WhatsApp and parent company Meta are embroiled in legal attacks by Brazil's presidential candidates",
-      "why": "«Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-21T04:58:03+00:00",
-      "age_hours": 3.4,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "Al Jazeera English",
-        "DW English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "DW English",
-          "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
-          "link": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Messaging service WhatsApp and parent company Meta are embroiled in legal attacks by Brazil's presidential candidates. «Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff» matters because it may change energy and investment decisions affecting Mundo. For «Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 12.79,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Musk says SpaceX-Tesla merger 'good idea' as companies explore union",
-      "summary": "Musk confirmed the long standing speculation of a possible merger between Tesla and SpaceX but warned that it would be premature to assume it is happening for sure Tech billionaire Elon Musk on Tursday said a merger between his two companies, SpaceX and Tesla, would be a \"good idea\" and that they had formed special committees to discuss the matter — confirming speculation of a possibly union \"I think it would be a good idea, but it's really up to the special committees of both companies,\" Musk said \"Because ​I'm a conflicted party, I can't actually be in the discussions of the special committees,\" which was comprised of independent directors, he told investors on a conference call Shares of the space tech company rose 8% in trade over Musk's comment, while Tesla's shares rose 1.8%.",
-      "why": "«Musk says SpaceX-Tesla merger 'good idea' as companies explore union» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Musk says SpaceX-Tesla merger 'good idea' as companies explore union», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-21T05:53:00+00:00",
-      "age_hours": 2.5,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Musk confirmed the long standing speculation of a possible merger between Tesla and SpaceX but warned that it would be premature to assume it is happening for sure Tech billionaire Elon Musk on Tursday said a merger between his two companies, SpaceX and Tesla, would be a \"good idea\" and that they had formed special committees to discuss the matter — confirming speculation of a possibly union \"I think it would be a good idea, but it's really up to the special committees of both companies,\" Musk said \"Because ​I'm a conflicted party, I can't actually be in the discussions of the special committees,\" which was comprised of independent directors, he told investors on a conference call Shares of the space tech company rose 8% in trade over Musk's comment, while Tesla's shares rose 1.8%. «Musk says SpaceX-Tesla merger 'good idea' as companies explore union» deserves attention because it may change political, diplomatic or security risks. For «Musk says SpaceX-Tesla merger 'good idea' as companies explore union», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 12.48,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
         "Economia"
       ],
-      "title": "India news: India-US trade deal 'pretty close,' says Trump",
-      "summary": "US President Donald Trump hinted that the US-India trade deal could look different from the previous ones. Follow DW for more Here's a roundup of our coverage from India from Wednesday, October 21: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google.",
-      "why": "«India news: India-US trade deal 'pretty close,' says Trump» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «India news: India-US trade deal 'pretty close,' says Trump», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "DW English",
-      "published": "2026-10-21T06:31:00+00:00",
-      "age_hours": 1.8,
+      "title": "Government approves regulations on decentralized governance",
+      "summary": "Maputo, 21 Oct (AIM) – The Mozambican government on Tuesday approved regulations defining the functioning of executive bodies responsible for decentralized governance. The regulations are aimed at harmonizing the administrative procedures and clarify responsibilities under the law that establishes the legal framework for State representative bodies at provincial level. Speaking to reporters on Tuesday after a meeting of the Council of Ministers (cabinet), the government spokesperson and Minister of State Administration, Inocêncio Impissa, said the regulations also strengthen institutional coordination and establish procedures for overseeing and supervising services that remain under central government control. “They aim to ensure consistent implementation of the legal framework across the country”, he said. Also on Tuesday, the government approved regulations governing mandatory retirement upon reaching the statutory age limit and procedures for extending that limit.",
+      "why": "«Government approves regulations on decentralized governance» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Government approves regulations on decentralized governance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-21T08:58:33+00:00",
+      "age_hours": 5.4,
       "within_24h": true,
-      "link": "https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-rdf",
+      "link": "https://aimnews.org/2026/10/21/government-approves-regulations-on-decentralized-governance/",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "DW English"
+        "AIM News"
       ],
-      "primary_source": "DW English",
+      "primary_source": "AIM News",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "US President Donald Trump hinted that the US-India trade deal could look different from the previous ones. Follow DW for more Here's a roundup of our coverage from India from Wednesday, October 21: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google. «India news: India-US trade deal 'pretty close,' says Trump» helps explain a concrete economic or business change relevant to Mundo. For «India news: India-US trade deal 'pretty close,' says Trump», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.62,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Which countries and players have won the most Ballon d’Or awards?",
-      "summary": "Argentina's Lionel Messi has won all of his country's eight prizes, while Portugal's Cristiano Ronaldo has won five",
-      "why": "«Which countries and players have won the most Ballon d’Or awards?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Which countries and players have won the most Ballon d’Or awards?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-21T05:29:28+00:00",
-      "age_hours": 2.9,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Argentina's Lionel Messi has won all of his country's eight prizes, while Portugal's Cristiano Ronaldo has won five. «Which countries and players have won the most Ballon d’Or awards?» deserves attention because it may change political, diplomatic or security risks. For «Which countries and players have won the most Ballon d’Or awards?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.4,
-      "source_tier": "A",
+      "detailed_summary": "Maputo, 21 Oct (AIM) – The Mozambican government on Tuesday approved regulations defining the functioning of executive bodies responsible for decentralized governance. The regulations are aimed at harmonizing the administrative procedures and clarify responsibilities under the law that establishes the legal framework for State representative bodies at provincial level. Speaking to reporters on Tuesday after a meeting of the Council of Ministers (cabinet), the government spokesperson and Minister of State Administration, Inocêncio Impissa, said the regulations also strengthen institutional coordination and establish procedures for overseeing and supervising services that remain under central government control. “They aim to ensure consistent implementation of the legal framework across the country”, he said. Also on Tuesday, the government approved regulations governing mandatory retirement upon reaching the statutory age limit and procedures for extending that limit. «Government approves regulations on decentralized governance» is worth following because of its possible economic, institutional or regional effects. For «Government approves regulations on decentralized governance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 11.88,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -285,8 +191,8 @@
       "why": "«Is Ebola under control in Kenya after nine cases confirmed?» deserves attention because it may change political, diplomatic or security risks.",
       "impact": "For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
-      "published": "2026-10-20T23:41:30+00:00",
-      "age_hours": 8.7,
+      "published": "2026-10-21T09:55:15+00:00",
+      "age_hours": 4.5,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -300,7 +206,36 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Nearly 5,000 healthcare workers have been trained to deal with Ebola Kenya is grappling with its first ever outbreak of Ebola, a disease which neighbouring countries, such as Uganda and Democratic Republic of Congo, are used to dealing with Nine cases have now been confirmed including its first patient, who travelled from DR Congo and died two weeks ago Four relatives of the first victim, three health workers and a hospital cleaner have now tested positive, meaning they are all linked to him But concerns are rising that the virus could start spreading further, even as the government has sought to assure citizens The US has warned it citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert Kenyans have been expressing their concerns that the disease could spread more widely More than 4,000 people have died since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according… «Is Ebola under control in Kenya after nine cases confirmed?» deserves attention because it may change political, diplomatic or security risks. For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 10.19,
+      "editorial_score": 11.06,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+      "summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity",
+      "why": "«How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-21T13:58:17+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity. «How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties» deserves attention because it may change political, diplomatic or security risks. For «How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 10.92,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -317,11 +252,11 @@
       "impact": "For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-10-20T17:30:15+00:00",
-      "age_hours": 14.8,
+      "age_hours": 20.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -331,7 +266,36 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Ameth Bek Hospital in Abyei town has been treating people wounded in Monday's attack on the market Sudan's army has been accused of launching several drone strikes that have reportedly killed more than 300 people, including dozens travelling to a funeral The death toll from strikes in two areas of West Kordofan state on Sunday evening was 150, sources told the Sudan War Observatory, which tracks the conflict that erupted in 2023 between the army and the paramilitary Rapid Support Forces (RSF) In Abyei, a disputed border area between Sudan and South Sudan, 153 people were killed when drones hit a market on Monday, the region's information minister said A military source told the BBC the army had carried out the Abyei attack, saying the market was a fuel supply site for the RSF The attack has raised tensions between South Sudan and Sudan, which jointly administer Abyei, as they both claim ownership to the oil-rich region in a dispute that has remained unresolved since South Sudan ceded in 2011 South Sudan has summoned Sudan's ambassador to lodge a formal protest. «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say» matters because it may change energy and investment decisions affecting África. For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 9.92,
+      "editorial_score": 8.65,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+      "summary": "Firefighters have been battling the stubborn blaze for weeks now When the sun hits the smog enveloping Indonesian Borneo, it turns everything the colour of rust. Cars, houses and streets appear and disappear out of a dim russet fog. There are few better words than \"apocalyptic\" to describe the way this looks But it's at night, in the quiet darkness, that mother-of-three Dianyra Eka Nastiti grows most fearful \"Sometimes at night my baby's chest makes a rattling sound,\" she says. \"She was hospitalised for bronchopneumonia when she was just a month and a half old, and every single night I worry: Will my child cough tomorrow? \"Those thoughts haunt me every night.\" Nastiti lives in Palangkaraya, at the frontline of a months-long environmental catastrophe that has blanketed large parts of Southeast Asia in a toxic haze Wildfires have torched some 1.9 million hectares across Indonesia since the start of the year, according to open-access satellite platform Nusantara Atlas – an area roughly the size of the US state of New Jersey, or the entire landmass of Fiji.",
+      "why": "«Borneo burning: Life on the frontline of South East Asia's toxic haze» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Borneo burning: Life on the frontline of South East Asia's toxic haze», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-20T23:51:43+00:00",
+      "age_hours": 14.5,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-017",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Firefighters have been battling the stubborn blaze for weeks now When the sun hits the smog enveloping Indonesian Borneo, it turns everything the colour of rust. Cars, houses and streets appear and disappear out of a dim russet fog. There are few better words than \"apocalyptic\" to describe the way this looks But it's at night, in the quiet darkness, that mother-of-three Dianyra Eka Nastiti grows most fearful \"Sometimes at night my baby's chest makes a rattling sound,\" she says. \"She was hospitalised for bronchopneumonia when she was just a month and a half old, and every single night I worry: Will my child cough tomorrow? \"Those thoughts haunt me every night.\" Nastiti lives in Palangkaraya, at the frontline of a months-long environmental catastrophe that has blanketed large parts of Southeast Asia in a toxic haze Wildfires have torched some 1.9 million hectares across Indonesia since the start of the year, according to open-access satellite platform Nusantara Atlas – an area roughly the size of the US state of New Jersey, or the entire landmass of Fiji. «Borneo burning: Life on the frontline of South East Asia's toxic haze» is worth following because of its possible economic, institutional or regional effects. For «Borneo burning: Life on the frontline of South East Asia's toxic haze», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 7.98,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -347,11 +311,11 @@
       "impact": "For «Sudan drone strike kills around 150 in Abyei market», the effects may reach prices, projects, suppliers and supply chains connected to África.",
       "source": "DW English",
       "published": "2026-10-20T18:09:00+00:00",
-      "age_hours": 14.2,
+      "age_hours": 20.2,
       "within_24h": true,
       "link": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -361,7 +325,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military. «Sudan drone strike kills around 150 in Abyei market» matters because it may change energy and investment decisions affecting África. For «Sudan drone strike kills around 150 in Abyei market», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 8.04,
+      "editorial_score": 6.79,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -385,9 +349,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 3,
+    "Moçambique": 4,
     "África": 3,
-    "Mundo": 5
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
