@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T08:22:35.042078+00:00",
+  "updated_at": "2026-10-22T14:23:55.243640+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,113 +8,75 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Chapo ausculta empreiteiros sobre desafios do sector",
-      "summary": "Maputo, 22 de Out (AIM) – O Presidente da República, Daniel Chapo, concedeu uma audiência à Federação Moçambicana de Empreiteiros (FME), liderada por Bento Machaila, para analisar os principais constrangimentos do sector da construção civil e promover reformas destinadas a fortalecer as empresas nacionais, ampliar o acesso à contratação pública e garantir a sustentabilidade financeira dos empreiteiros. O encontro serviu para apresentar a agenda da Federação, avaliar os progressos alcançados nos processos de reforma em curso e solicitar orientação presidencial sobre matérias que continuam a exigir maior intervenção institucional, com destaque para as dívidas do Estado às empresas, o licenciamento dos empreiteiros e a aplicação efectiva da legislação de apoio às micro, pequenas e médias empresas (MPME). Durante a audiência, a FME defendeu a necessidade de transformar o diálogo entre o Governo e o sector privado em resultados concretos, capazes de impulsionar a economia nacional, gerar emprego e reforçar a participação das empresas moçambicanas nos projectos de desenvolvimento.",
-      "why": "«Chapo ausculta empreiteiros sobre desafios do sector» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Chapo ausculta empreiteiros sobre desafios do sector», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-10-22T08:13:13+00:00",
-      "age_hours": 0.2,
+      "title": "Cabo Delgado despede-se do sonorizador Samuel António",
+      "summary": "Colegas de profissão, amigos, jornalistas e familiares despedem-se, esta tarde, de Samuel António, sonorizador da Rádio Moçambique (RM) afecto ao Emissor Provincial de Cabo Delgado, que morreu, ontem, vítima de doença. A cerimónia fúnebre está prevista para esta tarde no cemitério local da aldeia de Mesa, no distrito de Ancuabe, província de Cabo Delgado, onde os participantes vão prestar a última homenagem ao profissional. A morte de Samuel António representa uma perda para os seus familiares, amigos e colegas de trabalho, que se juntam hoje para assinalar a sua partida e lhe prestar o último adeus. Leia mais… O conteúdo Cabo Delgado despede-se do sonorizador Samuel António aparece primeiro em Jornal Notícias",
+      "why": "«Cabo Delgado despede-se do sonorizador Samuel António» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Cabo Delgado despede-se do sonorizador Samuel António», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-22T14:01:27+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/22/chapo-ausculta-empreiteiros-sobre-desafios-do-sector/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "AIM Notícias",
-        "O País"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "O País",
-          "title": "Governo reforça compromisso com o desenvolvimento dos empreiteiros nacionais",
-          "link": "https://opais.co.mz/governo-reforca-compromisso-com-o-desenvolvimento-dos-empreiteiros-nacionais/"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 22 de Out (AIM) – O Presidente da República, Daniel Chapo, concedeu uma audiência à Federação Moçambicana de Empreiteiros (FME), liderada por Bento Machaila, para analisar os principais constrangimentos do sector da construção civil e promover reformas destinadas a fortalecer as empresas nacionais, ampliar o acesso à contratação pública e garantir a sustentabilidade financeira dos empreiteiros. O encontro serviu para apresentar a agenda da Federação, avaliar os progressos alcançados nos processos de reforma em curso e solicitar orientação presidencial sobre matérias que continuam a exigir maior intervenção institucional, com destaque para as dívidas do Estado às empresas, o licenciamento dos empreiteiros e a aplicação efectiva da legislação de apoio às micro, pequenas e médias empresas (MPME). Durante a audiência, a FME defendeu a necessidade de transformar o diálogo entre o Governo e o sector privado em resultados concretos, capazes de impulsionar a economia nacional, gerar emprego e reforçar a participação das empresas moçambicanas nos projectos de desenvolvimento. «Chapo ausculta empreiteiros sobre desafios do sector» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Chapo ausculta empreiteiros sobre desafios do sector», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 16.46,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Cultura e Turismo Preparam Promoção Conjunta de Moçambique",
-      "summary": "A Secretaria de Estado das Artes e Cultura e a Agência Nacional para o Desenvolvimento e Investimento Turístico (ANDITUR) estão a preparar iniciativas conjuntas para integrar a cultura na promoção […]",
-      "why": "«Cultura e Turismo Preparam Promoção Conjunta de Moçambique» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Cultura e Turismo Preparam Promoção Conjunta de Moçambique», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-22T07:30:00+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/22/negocios/turismo/cultura-e-turismo-preparam-promocao-conjunta-de-mocambique/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/cabo-delgado-despede-se-do-sonorizador-samuel-antonio/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Diário Económico"
+        "Jornal Notícias"
       ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A Secretaria de Estado das Artes e Cultura e a Agência Nacional para o Desenvolvimento e Investimento Turístico (ANDITUR) estão a preparar iniciativas conjuntas para integrar a cultura na promoção […]. «Cultura e Turismo Preparam Promoção Conjunta de Moçambique» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Cultura e Turismo Preparam Promoção Conjunta de Moçambique», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.81,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "FUNAE Entrega Gestão da Fábrica de Painéis Solares a Grupo Dos Emirados",
-      "summary": "O Fundo Nacional de Energia (FUNAE) entregou a gestão da Fábrica de Painéis Solares de Moçambique (FPSM) ao Jampur Group, dos Emirados Árabes Unidos. O objectivo é relançar a produção, […]",
-      "why": "«FUNAE Entrega Gestão da Fábrica de Painéis Solares a Grupo Dos Emirados» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «FUNAE Entrega Gestão da Fábrica de Painéis Solares a Grupo Dos Emirados», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-22T07:15:00+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/22/oilgas/renovaveis/funae-entrega-gestao-da-fabrica-de-paineis-solares-a-grupo-dos-emirados/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
+      "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Fundo Nacional de Energia (FUNAE) entregou a gestão da Fábrica de Painéis Solares de Moçambique (FPSM) ao Jampur Group, dos Emirados Árabes Unidos. O objectivo é relançar a produção, […]. «FUNAE Entrega Gestão da Fábrica de Painéis Solares a Grupo Dos Emirados» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «FUNAE Entrega Gestão da Fábrica de Painéis Solares a Grupo Dos Emirados», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.77,
+      "detailed_summary": "Colegas de profissão, amigos, jornalistas e familiares despedem-se, esta tarde, de Samuel António, sonorizador da Rádio Moçambique (RM) afecto ao Emissor Provincial de Cabo Delgado, que morreu, ontem, vítima de doença. A cerimónia fúnebre está prevista para esta tarde no cemitério local da aldeia de Mesa, no distrito de Ancuabe, província de Cabo Delgado, onde os participantes vão prestar a última homenagem ao profissional. A morte de Samuel António representa uma perda para os seus familiares, amigos e colegas de trabalho, que se juntam hoje para assinalar a sua partida e lhe prestar o último adeus. Leia mais… O conteúdo Cabo Delgado despede-se do sonorizador Samuel António aparece primeiro em Jornal Notícias. «Cabo Delgado despede-se do sonorizador Samuel António» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Cabo Delgado despede-se do sonorizador Samuel António», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.92,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
         "Segurança"
       ],
-      "title": "China e Djibuti reforçam cooperação em segurança face a ameaças no mar Vermelho",
-      "summary": "A China e o Djibuti acordaram reforçar a cooperação em matéria de segurança face às ameaças às rotas marítimas do mar Vermelho e do golfo de Áden, agravadas pelo alastramento dos conflitos no Médio Oriente Segundo um comunicado divulgado hoje pelo Ministério dos Negócios Estrangeiros chinês, o acordo foi alcançado durante uma reunião, em Pequim, entre o chefe da diplomacia chinesa, Wang Yi, e o homólogo do Djibuti, Abdoulkader Houssein Omar Após o encontro, os dois países assinaram um memorando de entendimento para promover a cooperação no âmbito da Iniciativa de Segurança Global, lançada por Pequim Os dois ministros divulgaram também uma declaração conjunta sobre a manutenção da paz e da estabilidade no Corno de África e a segurança das rotas marítimas do mar Vermelho e do golfo de Áden Durante a reunião, Wang alertou que \"os conflitos no Médio Oriente estão a estender cada vez mais as suas repercussões ao Corno de África e à região do mar Vermelho\", enquanto \"a segurança das rotas marítimas do mar Vermelho e do golfo de Áden enfrenta novas ameaças\" O chefe da diplomacia chinesa…",
-      "why": "«China e Djibuti reforçam cooperação em segurança face a ameaças no mar Vermelho» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «China e Djibuti reforçam cooperação em segurança face a ameaças no mar Vermelho», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Rússia e Ucrânia trocam ataques durante a madrugada",
+      "summary": "A diplomacia diz que o fim da guerra está mais perto. Mas houve oito mortos em mais uma noite de ataques russos e ucranianos",
+      "why": "«Rússia e Ucrânia trocam ataques durante a madrugada» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Rússia e Ucrânia trocam ataques durante a madrugada», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-22T06:42:42+00:00",
-      "age_hours": 1.7,
+      "published": "2026-10-22T13:46:47+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/china-e-djibuti-reforcam-cooperacao-em-seguranca-face-a-ameacas-no-mar-vermelho_n1773401",
+      "link": "https://www.rtp.pt/noticias/mundo/russia-e-ucrania-trocam-ataques-durante-a-madrugada_v1773513",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A diplomacia diz que o fim da guerra está mais perto. Mas houve oito mortos em mais uma noite de ataques russos e ucranianos. «Rússia e Ucrânia trocam ataques durante a madrugada» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia e Ucrânia trocam ataques durante a madrugada», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.88,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Macron reúne o Conselho de Defesa e Segurança Nacional",
+      "summary": "Depois dos distúrbios violentos do último fim de semana e a ameaça do regresso das manifestações. Emmanuel Macron, regressado do Médio Oriente, convocou para esta manhã o Conselho de Defesa e Segurança Nacional",
+      "why": "«Macron reúne o Conselho de Defesa e Segurança Nacional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Macron reúne o Conselho de Defesa e Segurança Nacional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-22T11:04:08+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/macron-reune-o-conselho-de-defesa-e-seguranca-nacional_n1773473",
       "original_source": true,
       "event_id": "evt-mundo-003",
       "cluster_size": 1,
@@ -124,9 +86,9 @@
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A China e o Djibuti acordaram reforçar a cooperação em matéria de segurança face às ameaças às rotas marítimas do mar Vermelho e do golfo de Áden, agravadas pelo alastramento dos conflitos no Médio Oriente Segundo um comunicado divulgado hoje pelo Ministério dos Negócios Estrangeiros chinês, o acordo foi alcançado durante uma reunião, em Pequim, entre o chefe da diplomacia chinesa, Wang Yi, e o homólogo do Djibuti, Abdoulkader Houssein Omar Após o encontro, os dois países assinaram um memorando de entendimento para promover a cooperação no âmbito da Iniciativa de Segurança Global, lançada por Pequim Os dois ministros divulgaram também uma declaração conjunta sobre a manutenção da paz e da estabilidade no Corno de África e a segurança das rotas marítimas do mar Vermelho e do golfo de Áden Durante a reunião, Wang alertou que \"os conflitos no Médio Oriente estão a estender cada vez mais as suas repercussões ao Corno de África e à região do mar Vermelho\", enquanto \"a segurança das rotas marítimas do mar Vermelho e do golfo de Áden enfrenta novas ameaças\" O chefe da diplomacia chinesa… «China e Djibuti reforçam cooperação em segurança face a ameaças no mar Vermelho» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «China e Djibuti reforçam cooperação em segurança face a ameaças no mar Vermelho», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.65,
+      "opportunity_flag": false,
+      "detailed_summary": "Depois dos distúrbios violentos do último fim de semana e a ameaça do regresso das manifestações. Emmanuel Macron, regressado do Médio Oriente, convocou para esta manhã o Conselho de Defesa e Segurança Nacional. «Macron reúne o Conselho de Defesa e Segurança Nacional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Macron reúne o Conselho de Defesa e Segurança Nacional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.31,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -135,17 +97,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "PR dirige abertura da Conferência Nacional Inter-Religiosa",
-      "summary": "O Presidente da República, Daniel Chapo, dirige, esta quinta-feira (22), na cidade da Matola, província de Maputo, a abertura da Conferência Nacional Inter-Religiosa. O evento constitui uma oportunidade de reflexão e diálogo entre as diferentes confissões religiosas sobre a importância da paz, reconciliação nacional e da convivência harmoniosa entre os moçambicanos, valorizando o contributo das instituições religiosas para a preservação da estabilidade social, indica o comunicado de imprensa da Presidência da República. A conferência visa igualmente promover a fraternidade, o respeito pela diversidade religiosa e a união entre os cidadãos, através do diálogo e da partilha de valores que contribuam para a prevenção de conflitos e o fortalecimento da coesão social. O conteúdo PR dirige abertura da Conferência Nacional Inter-Religiosa aparece primeiro em Jornal Notícias",
-      "why": "«PR dirige abertura da Conferência Nacional Inter-Religiosa» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «PR dirige abertura da Conferência Nacional Inter-Religiosa», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "title": "Saize reforça acesso a serviços de Justiça em Manica",
+      "summary": "O ministro da Justiça, Assuntos Constitucionais e Religiosos, Mateus Saize, efectua a partir hoje (22 até 24 de Outubro), uma visita de trabalho à província de Manica, com o objectivo de impulsionar a expansão e a modernização da rede de infra-estruturas do sector, através do lançamento de iniciativas de edificação de Conservatórias Distritais e da entrega de instalações destinadas ao melhorar a prestação de serviços. A iniciativa enquadra-se nos esforços do Governo de descentralização e expansão dos serviços públicos, com vista a facilitar o acesso ao registo civil, aos actos notariais e a outros serviços essenciais à garantia dos direitos e à segurança jurídica dos cidadãos. No decurso da visita, o governante vai lançar as obras de construção das conservatórias distritais de Gondola, Macate e Sussundenga. De acordo com o comunicado de imprensa, consta ainda da agenda a entrega de infra-estruturas, acções estas que representam um passo importante no reforço da presença institucional do sector de Justiça ao nível local.",
+      "why": "«Saize reforça acesso a serviços de Justiça em Manica» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Saize reforça acesso a serviços de Justiça em Manica», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-22T05:43:14+00:00",
-      "age_hours": 2.7,
+      "published": "2026-10-22T14:15:56+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/pr-dirige-abertura-da-conferencia-nacional-inter-religiosa/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/saize-reforca-acesso-a-servicos-de-justica-em-manica/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -154,50 +116,9 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, dirige, esta quinta-feira (22), na cidade da Matola, província de Maputo, a abertura da Conferência Nacional Inter-Religiosa. O evento constitui uma oportunidade de reflexão e diálogo entre as diferentes confissões religiosas sobre a importância da paz, reconciliação nacional e da convivência harmoniosa entre os moçambicanos, valorizando o contributo das instituições religiosas para a preservação da estabilidade social, indica o comunicado de imprensa da Presidência da República. A conferência visa igualmente promover a fraternidade, o respeito pela diversidade religiosa e a união entre os cidadãos, através do diálogo e da partilha de valores que contribuam para a prevenção de conflitos e o fortalecimento da coesão social. O conteúdo PR dirige abertura da Conferência Nacional Inter-Religiosa aparece primeiro em Jornal Notícias. «PR dirige abertura da Conferência Nacional Inter-Religiosa» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «PR dirige abertura da Conferência Nacional Inter-Religiosa», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.44,
+      "detailed_summary": "O ministro da Justiça, Assuntos Constitucionais e Religiosos, Mateus Saize, efectua a partir hoje (22 até 24 de Outubro), uma visita de trabalho à província de Manica, com o objectivo de impulsionar a expansão e a modernização da rede de infra-estruturas do sector, através do lançamento de iniciativas de edificação de Conservatórias Distritais e da entrega de instalações destinadas ao melhorar a prestação de serviços. A iniciativa enquadra-se nos esforços do Governo de descentralização e expansão dos serviços públicos, com vista a facilitar o acesso ao registo civil, aos actos notariais e a outros serviços essenciais à garantia dos direitos e à segurança jurídica dos cidadãos. No decurso da visita, o governante vai lançar as obras de construção das conservatórias distritais de Gondola, Macate e Sussundenga. De acordo com o comunicado de imprensa, consta ainda da agenda a entrega de infra-estruturas, acções estas que representam um passo importante no reforço da presença institucional do sector de Justiça ao nível local. «Saize reforça acesso a serviços de Justiça em Manica» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Saize reforça acesso a serviços de Justiça em Manica», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 10.98,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Trump diz que guerra na Ucrânia está cada vez mais perto do fim. Moscovo classifica conversações sem substância",
-      "summary": "Nos últimos dois dias, representantes das Ucrânia, Rússia e Estados Unidos estiveram reunidos em conversações entre Oslo e Moscovo. O fim da guerra é o motivo, com as partes a contradizerem-se nas conclusões",
-      "why": "«Trump diz que guerra na Ucrânia está cada vez mais perto do fim. Moscovo classifica conversações sem…» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Trump diz que guerra na Ucrânia está cada vez mais perto do fim. Moscovo classifica conversações sem…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-22T08:21:30+00:00",
-      "age_hours": 0.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/trump-diz-que-guerra-na-ucrania-esta-cada-vez-mais-perto-do-fim-moscovo-classifica-conversacoes-sem-substancia_n1773440",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 3,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Ucrânia. Trump insiste que fim da guerra nunca esteve \"tão próximo\"",
-          "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/ucrania-trump-insiste-que-fim-da-guerra-nunca-esteve-tao-proximo_n1773375"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Enviado dos EUA na Rússia para debater com Putin soluções para a guerra na Ucrânia",
-          "link": "https://www.rtp.pt/noticias/mundo/enviado-dos-eua-na-russia-para-debater-com-putin-solucoes-para-a-guerra-na-ucrania_n1773165"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Nos últimos dois dias, representantes das Ucrânia, Rússia e Estados Unidos estiveram reunidos em conversações entre Oslo e Moscovo. O fim da guerra é o motivo, com as partes a contradizerem-se nas conclusões. «Trump diz que guerra na Ucrânia está cada vez mais perto do fim. Moscovo classifica conversações sem…» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Trump diz que guerra na Ucrânia está cada vez mais perto do fim. Moscovo classifica conversações sem…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.0,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -205,17 +126,75 @@
       "tags": [
         "Economia"
       ],
-      "title": "Comissões de Contas Públicas indispensáveis na utilização de recursos públicos – Injojo",
-      "summary": "Maputo, 21 Out (AIM) – As Comissões de Contas Públicas e as estruturas parlamentares com atribuições similares desempenham papel fundamental na utilização dos recursos públicos por garantirem independência e rigor técnico na sua execução. Com efeito, de acordo com o primeiro vice-presidente da Assembleia da República (AR), o parlamento moçambicano, Hélder Injojo, estas estruturas “procuram assegurar que a execução orçamental respeite não apenas as exigências de legalidade, como também os princípios de economia, eficiência, eficácia e boa governação”. Injojo falava hoje, em Maputo, na abertura dos trabalhos do Programa de Avaliação pelos Pares e Capacitação da SADCOPAC (Organização das Comissões de Contas Públicas dos Parlamentos da SADC). Disse que o encontro, cujos trabalhos prosseguem esta quinta-feira (22), “devera nos convocar a reflectir sobre uma das responsabilidades fundamentais das instituições representativas dos cidadãos”.",
-      "why": "«Comissões de Contas Públicas indispensáveis na utilização de recursos públicos – Injojo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Comissões de Contas Públicas indispensáveis na utilização de recursos públicos – Injojo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-10-21T18:26:34+00:00",
-      "age_hours": 13.9,
+      "title": "Mercado Central de Quelimane com melhores condições de conservação de produtos",
+      "summary": "As infra-estruturas inauguradas representam uma mudança nas condições de trabalho de centenas de comerciantes, que agora dispõem de cerca de 300 bancas, melhores condições de conservação dos produtos e maior protecção contra o sol e a chuva. O investimento ultrapassa 44 milhões de meticais, com financiamento da GAIN, proveniente de fundos da Noruega. As novas […]",
+      "why": "«Mercado Central de Quelimane com melhores condições de conservação de produtos» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Mercado Central de Quelimane com melhores condições de conservação de produtos», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "O País",
+      "published": "2026-10-22T13:02:42+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/21/comissoes-de-contas-publicas-indispensaveis-na-utilizacao-de-recursos-publicos-injojo/",
+      "link": "https://opais.co.mz/mercado-central-de-quelimane-com-melhores-condicoes-de-conservacao-de-produtos/",
       "original_source": true,
-      "event_id": "evt-mocambique-006",
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "As infra-estruturas inauguradas representam uma mudança nas condições de trabalho de centenas de comerciantes, que agora dispõem de cerca de 300 bancas, melhores condições de conservação dos produtos e maior protecção contra o sol e a chuva. O investimento ultrapassa 44 milhões de meticais, com financiamento da GAIN, proveniente de fundos da Noruega. As novas […]. «Mercado Central de Quelimane com melhores condições de conservação de produtos» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Mercado Central de Quelimane com melhores condições de conservação de produtos», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 10.73,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "FAGENA procura aproximar ciência e negócio mineiro",
+      "summary": "Nacala-Porto, 22 Out (AIM) – O Governo moçambicano pretende reforçar a ligação entre a investigação científica e a actividade mineira, promovendo o conhecimento geocientífico como instrumento para melhorar a prospecção, o processamento, a certificação e a comercialização de gemas e metais preciosos. O facto foi revelado hoje (22), em Nacala-Porto, província nortenha de Nampula, pelo ministro dos Recursos Minerais e Energia, Estêvão Pale, durante a abertura da exposição de gemas e metais preciosos, integrada na oitava edição da Feira Anual de Gemas de Nampula (FAGENA 2026) e na primeira Conferência de Adição de Valor aos Recursos Minerais e Energéticos Disponíveis (CAVAME-d). “A adição de valor começa no conhecimento. Por isso, a FAGENA não se esgota na exposição. Hoje e amanhã decorrerão sessões de comunicações científicas, que trazem a ciência para o centro do negócio mineiro”, sublinhou.",
+      "why": "«FAGENA procura aproximar ciência e negócio mineiro» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «FAGENA procura aproximar ciência e negócio mineiro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-22T12:07:47+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/22/fagena-procura-aproximar-ciencia-e-negocio-mineiro/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Nacala-Porto, 22 Out (AIM) – O Governo moçambicano pretende reforçar a ligação entre a investigação científica e a actividade mineira, promovendo o conhecimento geocientífico como instrumento para melhorar a prospecção, o processamento, a certificação e a comercialização de gemas e metais preciosos. O facto foi revelado hoje (22), em Nacala-Porto, província nortenha de Nampula, pelo ministro dos Recursos Minerais e Energia, Estêvão Pale, durante a abertura da exposição de gemas e metais preciosos, integrada na oitava edição da Feira Anual de Gemas de Nampula (FAGENA 2026) e na primeira Conferência de Adição de Valor aos Recursos Minerais e Energéticos Disponíveis (CAVAME-d). “A adição de valor começa no conhecimento. Por isso, a FAGENA não se esgota na exposição. Hoje e amanhã decorrerão sessões de comunicações científicas, que trazem a ciência para o centro do negócio mineiro”, sublinhou. «FAGENA procura aproximar ciência e negócio mineiro» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «FAGENA procura aproximar ciência e negócio mineiro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 10.52,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo",
+      "summary": "Matola, 22 Out (AIM) – O Presidente da República, Daniel Francisco Chapo, apelou às confissões religiosas para que contribuam activamente para o diálogo nacional inclusivo e a reconciliação entre os moçambicanos, através da promoção da paz, da tolerância e da resolução pacífica de conflitos. O Presidente assim se pronunciou na abertura oficial hoje (22), na cidade da Matola, da Conferência Nacional Inter-religiosa, evento que decorreu sob o lema “Clamando por 50 vezes 50 anos de paz”, e que juntou líderes religiosos, representantes de partidos políticos e organizações da sociedade civil. “Não sejam apenas observadores do diálogo nacional inclusivo. Sejam promotores activos da cultura de diálogo que o país necessita”, afirmou Chapo que destacou o papel das instituições religiosas na aproximação entre as comunidades e no reforço da confiança entre os cidadãos.",
+      "why": "«Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-22T12:46:30+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/22/sejam-promotores-activos-da-cultura-de-dialogo-e-reconciliacao-nacional-chapo/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -224,25 +203,25 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 21 Out (AIM) – As Comissões de Contas Públicas e as estruturas parlamentares com atribuições similares desempenham papel fundamental na utilização dos recursos públicos por garantirem independência e rigor técnico na sua execução. Com efeito, de acordo com o primeiro vice-presidente da Assembleia da República (AR), o parlamento moçambicano, Hélder Injojo, estas estruturas “procuram assegurar que a execução orçamental respeite não apenas as exigências de legalidade, como também os princípios de economia, eficiência, eficácia e boa governação”. Injojo falava hoje, em Maputo, na abertura dos trabalhos do Programa de Avaliação pelos Pares e Capacitação da SADCOPAC (Organização das Comissões de Contas Públicas dos Parlamentos da SADC). Disse que o encontro, cujos trabalhos prosseguem esta quinta-feira (22), “devera nos convocar a reflectir sobre uma das responsabilidades fundamentais das instituições representativas dos cidadãos”. «Comissões de Contas Públicas indispensáveis na utilização de recursos públicos – Injojo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Comissões de Contas Públicas indispensáveis na utilização de recursos públicos – Injojo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.1,
+      "detailed_summary": "Matola, 22 Out (AIM) – O Presidente da República, Daniel Francisco Chapo, apelou às confissões religiosas para que contribuam activamente para o diálogo nacional inclusivo e a reconciliação entre os moçambicanos, através da promoção da paz, da tolerância e da resolução pacífica de conflitos. O Presidente assim se pronunciou na abertura oficial hoje (22), na cidade da Matola, da Conferência Nacional Inter-religiosa, evento que decorreu sob o lema “Clamando por 50 vezes 50 anos de paz”, e que juntou líderes religiosos, representantes de partidos políticos e organizações da sociedade civil. “Não sejam apenas observadores do diálogo nacional inclusivo. Sejam promotores activos da cultura de diálogo que o país necessita”, afirmou Chapo que destacou o papel das instituições religiosas na aproximação entre as comunidades e no reforço da confiança entre os cidadãos. «Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 9.67,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Eleições no Brasil: Meta debaixo de fogo por alegado tratamento desigual dos candidatos",
-      "summary": "A Meta, dona do Facebook, Instagram e WhatsApp, está debaixo de fogo no Brasil devido a uma alegada interferência nas eleições presidenciais do país.A situação levou dezenas de manifestantes a protestar em frente aos escritórios da gigante tecnológica em São Paulo na passada segunda-feira.\"Nos últimos dias, o grupo Meta interferiu profundamente nas eleições brasileiras. Eles dizem que são falhas, mas não são.",
-      "why": "«Eleições no Brasil: Meta debaixo de fogo por alegado tratamento desigual dos candidatos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Eleições no Brasil: Meta debaixo de fogo por alegado tratamento desigual dos candidatos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão",
+      "summary": "Os países do Golfo e todo o Médio Oriente preparam‑se para uma possível retoma das hostilidades na guerra com o Irão, numa altura em que se multiplicam avisos oficiais e relatos mediáticos cada vez mais detalhados, acompanhados por um vasto reforço militar dos Estados Unidos no Golfo e pelas forças israelitas e iranianas em estado de máxima alerta, alimentando receios de uma escalada iminente com consequências devastadoras para a região.Num contexto de crescente especulação, nas últimas semanas, de que os Estados Unidos e Israel possam lançar um novo ataque contra o Irão antes ou depois das intercalares norte‑americanas e das eleições da próxima semana em Israel, um novo alerta de viagem do Departamento de Estado dos EUA, emitido na noite de quarta‑feira, foi divulgado pelas agências noticiosas e pelos meios de comunicação como um sinal urgente da possível reativação da guerra, com os países do Golfo a suportarem o peso de um conflito potencialmente mais amplo.O Departamento de Estado dos EUA anunciou que ordenou a saída da Arábia Saudita de funcionários não essenciais do governo…",
+      "why": "«Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-22T07:25:40+00:00",
-      "age_hours": 0.9,
+      "published": "2026-10-22T13:20:11+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/22/eleicoes-no-brasil-meta-debaixo-de-fogo-por-alegado-tratamento-desigual-dos-candidatos",
+      "link": "https://pt.euronews.com/2026/10/22/paises-do-golfo-preparam-se-para-possivel-regresso-a-guerra-total-entre-os-eua-e-o-irao",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -253,8 +232,37 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Meta, dona do Facebook, Instagram e WhatsApp, está debaixo de fogo no Brasil devido a uma alegada interferência nas eleições presidenciais do país.A situação levou dezenas de manifestantes a protestar em frente aos escritórios da gigante tecnológica em São Paulo na passada segunda-feira.\"Nos últimos dias, o grupo Meta interferiu profundamente nas eleições brasileiras. Eles dizem que são falhas, mas não são. «Eleições no Brasil: Meta debaixo de fogo por alegado tratamento desigual dos candidatos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições no Brasil: Meta debaixo de fogo por alegado tratamento desigual dos candidatos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.81,
+      "detailed_summary": "Os países do Golfo e todo o Médio Oriente preparam‑se para uma possível retoma das hostilidades na guerra com o Irão, numa altura em que se multiplicam avisos oficiais e relatos mediáticos cada vez mais detalhados, acompanhados por um vasto reforço militar dos Estados Unidos no Golfo e pelas forças israelitas e iranianas em estado de máxima alerta, alimentando receios de uma escalada iminente com consequências devastadoras para a região.Num contexto de crescente especulação, nas últimas semanas, de que os Estados Unidos e Israel possam lançar um novo ataque contra o Irão antes ou depois das intercalares norte‑americanas e das eleições da próxima semana em Israel, um novo alerta de viagem do Departamento de Estado dos EUA, emitido na noite de quarta‑feira, foi divulgado pelas agências noticiosas e pelos meios de comunicação como um sinal urgente da possível reativação da guerra, com os países do Golfo a suportarem o peso de um conflito potencialmente mais amplo.O Departamento de Estado dos EUA anunciou que ordenou a saída da Arábia Saudita de funcionários não essenciais do governo… «Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.77,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Itália: protestos de camionistas deixam prateleiras vazias no sul",
+      "summary": "Protestos de camionistas contra os preços elevados dos combustíveis estão a afetar entregas a supermercados no sul de Itália, deixando prateleiras parcialmente vazias e alguns postos de combustível sem carburante",
+      "why": "«Itália: protestos de camionistas deixam prateleiras vazias no sul» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Itália: protestos de camionistas deixam prateleiras vazias no sul», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-22T11:02:08+00:00",
+      "age_hours": 3.4,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/22/italia-protestos-de-camionistas-deixam-prateleiras-vazias-no-sul",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Protestos de camionistas contra os preços elevados dos combustíveis estão a afetar entregas a supermercados no sul de Itália, deixando prateleiras parcialmente vazias e alguns postos de combustível sem carburante. «Itália: protestos de camionistas deixam prateleiras vazias no sul» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Itália: protestos de camionistas deixam prateleiras vazias no sul», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 8.29,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -269,7 +277,7 @@
       "impact": "No caso de «Mais de 150 mortos em Abyei. Ataque na fronteira Sudão-Sudão do Sul», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
       "source": "RTP Notícias",
       "published": "2026-10-21T15:46:47+00:00",
-      "age_hours": 16.6,
+      "age_hours": 22.6,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/mais-de-150-mortos-em-abyei-ataque-na-fronteira-sudao-sudao-do-sul_v1773273",
       "original_source": true,
@@ -283,65 +291,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Mais de 150 pessoas morreram num ataque com drones contra um mercado em Abyei, região rica em petróleo e reinvindicada tanto pelo Sudão como pelo Sudão do Sul. As autoridades sul-sudanesas acusam o exército sudanês de ter lançado o ataque. Um depósito de combustível foi atingido provocando um incêndio que continua a dificultar a recuperação dos corpos. «Mais de 150 mortos em Abyei. Ataque na fronteira Sudão-Sudão do Sul» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Mais de 150 mortos em Abyei. Ataque na fronteira Sudão-Sudão do Sul», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "editorial_score": 7.54,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Canadá apresenta plano de 6,2 mil milhões para proteger indústria face a tarifas de Trump",
-      "summary": "O Canadá anunciou um pacote de 6,2 mil milhões de dólares (5,7 mil milhões de euros) para proteger as suas indústrias do aço e automóvel das tarifas dos Estados Unidos, numa altura em que o primeiro‑ministro Mark Carney avisou que Washington alterou de forma permanente uma relação comercial construída ao longo de décadas.Carney e o chefe do governo de Ontário, Doug Ford, apresentaram conjuntamente o plano na quarta‑feira, destinando 3,7 mil milhões de dólares (3,4 mil milhões de euros) aos produtores de aço e 1,8 mil milhões de dólares (1,65 mil milhões de euros) às construtoras automóveis ao longo de cinco anos, sendo 1,1 mil milhões de dólares (1 mil milhão de euros) da componente automóvel assegurados pelo governo federal em Otava.O anúncio foi feito no mesmo dia em que a empresa norte‑americana Cleveland‑Cliffs confirmou despedimentos na sua fábrica de Hamilton, em Ontário, sublinhando o custo humano do diferendo comercial.“As tarifas norte‑americanas desfizeram um acordo comercial que existia há décadas”, afirmou Carney.",
-      "why": "«Canadá apresenta plano de 6,2 mil milhões para proteger indústria face a tarifas de Trump» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Canadá apresenta plano de 6,2 mil milhões para proteger indústria face a tarifas de Trump», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-22T04:51:35+00:00",
-      "age_hours": 3.5,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/22/canada-apresenta-plano-de-62-mil-milhoes-para-proteger-industria-face-a-tarifas-de-trump",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Canadá anunciou um pacote de 6,2 mil milhões de dólares (5,7 mil milhões de euros) para proteger as suas indústrias do aço e automóvel das tarifas dos Estados Unidos, numa altura em que o primeiro‑ministro Mark Carney avisou que Washington alterou de forma permanente uma relação comercial construída ao longo de décadas.Carney e o chefe do governo de Ontário, Doug Ford, apresentaram conjuntamente o plano na quarta‑feira, destinando 3,7 mil milhões de dólares (3,4 mil milhões de euros) aos produtores de aço e 1,8 mil milhões de dólares (1,65 mil milhões de euros) às construtoras automóveis ao longo de cinco anos, sendo 1,1 mil milhões de dólares (1 mil milhão de euros) da componente automóvel assegurados pelo governo federal em Otava.O anúncio foi feito no mesmo dia em que a empresa norte‑americana Cleveland‑Cliffs confirmou despedimentos na sua fábrica de Hamilton, em Ontário, sublinhando o custo humano do diferendo comercial.“As tarifas norte‑americanas desfizeram um acordo comercial que existia há décadas”, afirmou Carney. «Canadá apresenta plano de 6,2 mil milhões para proteger indústria face a tarifas de Trump» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Canadá apresenta plano de 6,2 mil milhões para proteger indústria face a tarifas de Trump», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.27,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Especialistas da ONU alertam para desequilíbrio digital nas eleições brasileiras",
-      "summary": "Peritos apontam restrições de contas, quedas de visibilidade e assimetria algorítmica em plataformas da Meta; medidas teriam impacto afetando a equidade do debate político",
-      "why": "«Especialistas da ONU alertam para desequilíbrio digital nas eleições brasileiras» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Especialistas da ONU alertam para desequilíbrio digital nas eleições brasileiras», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-21T12:00:00+00:00",
-      "age_hours": 20.4,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854708",
-      "original_source": true,
-      "event_id": "evt-mundo-015",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Peritos apontam restrições de contas, quedas de visibilidade e assimetria algorítmica em plataformas da Meta; medidas teriam impacto afetando a equidade do debate político. «Especialistas da ONU alertam para desequilíbrio digital nas eleições brasileiras» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Especialistas da ONU alertam para desequilíbrio digital nas eleições brasileiras», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 6.75,
+      "editorial_score": 6.29,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -367,7 +317,7 @@
   "section_counts": {
     "Moçambique": 5,
     "África": 1,
-    "Mundo": 5
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
