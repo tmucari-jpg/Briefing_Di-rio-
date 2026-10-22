@@ -1,10 +1,150 @@
 {
-  "updated_at": "2026-10-21T23:56:00.354082+00:00",
+  "updated_at": "2026-10-22T08:22:41.724448+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "Agriculture accounts for 75% of Mozambique’s workforce but generates only 25% of the economy’s value added",
+      "summary": "Salim Valá was speaking at the launch in Maputo of the book Agriculture and Economic Transformation in Mozambique: Evidence, Policies and Pathways to Development, which brings together the findings of around a decade of research into the challenges and opportunities facing the agricultural sector In his presentation, the minister advocated investment in technology, mechanisation, irrigation and technical assistance, as well as financing and risk management instruments adapted to the circumstances of small-scale producers Among the figures presented on Wednesday, it stands out that only 0.2% of Mozambique’s small and medium-sized agricultural holdings have access to agricultural credit, while 6.2% use irrigation Valá recalled that data from the National Statistics Institute’s (INE) third Agricultural Census, conducted in 2023–2024, also indicate that 9.3% of holdings use fertilisers, 6.7% benefit from agricultural extension services and 1.7% use tractors, while 59.9% use mobile wallets (banking services provided via mobile phone) He highlighted that Mozambique has around 36 million…",
+      "why": "«Agriculture accounts for 75% of Mozambique’s workforce but generates only 25% of the economy’s value…» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «Agriculture accounts for 75% of Mozambique’s workforce but generates only 25% of the economy’s value…», the effects may include changes in skills demand, productivity, costs and digital opportunities in Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-22T07:04:14+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/agriculture-accounts-for-75-of-mozambiques-workforce-but-generates-only-25-of-the-economys-value-added/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Salim Valá was speaking at the launch in Maputo of the book Agriculture and Economic Transformation in Mozambique: Evidence, Policies and Pathways to Development, which brings together the findings of around a decade of research into the challenges and opportunities facing the agricultural sector In his presentation, the minister advocated investment in technology, mechanisation, irrigation and technical assistance, as well as financing and risk management instruments adapted to the circumstances of small-scale producers Among the figures presented on Wednesday, it stands out that only 0.2% of Mozambique’s small and medium-sized agricultural holdings have access to agricultural credit, while 6.2% use irrigation Valá recalled that data from the National Statistics Institute’s (INE) third Agricultural Census, conducted in 2023–2024, also indicate that 9.3% of holdings use fertilisers, 6.7% benefit from agricultural extension services and 1.7% use tractors, while 59.9% use mobile wallets (banking services provided via mobile phone) He highlighted that Mozambique has around 36 million… «Agriculture accounts for 75% of Mozambique’s workforce but generates only 25% of the economy’s value…» points to a concrete change in the adoption, regulation or use of technology. For «Agriculture accounts for 75% of Mozambique’s workforce but generates only 25% of the economy’s value…», the effects may include changes in skills demand, productivity, costs and digital opportunities in Moçambique.",
+      "editorial_score": 15.73,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Management of solar panel factory transferred to private company",
+      "summary": "Maputo, 22 Oct (AIM) – The Mozambican government has decided to transfer the management of Beluluane solar panel factory, which was managed by the country’s Energy Fund (FUNAE), to the Emirati Company Jampur Group. According to FUNAE chairman, Mety Gondola, the measure is aimed at modernizing the factory, which is located in Boane district, southern province of Maputo. The measure will also increase the capacity to supply equipment for the electrification of communities, particularly in rural areas. The management transfer was formalized on Wednesday through the signing of an agreement between the FUNAE and Jampur Group. Gondola explained that the decision to transfer management to the private sector stems, among other factors, from technological limitations that have constrained the industrial unit’s production capacity and competitiveness.",
+      "why": "«Management of solar panel factory transferred to private company» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Management of solar panel factory transferred to private company», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-22T07:22:37+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/22/management-of-solar-panel-factory-transferred-to-private-company/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "AIM News",
+        "Club of Mozambique"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Club of Mozambique",
+          "title": "Fábrica de Painéis Solares de Moçambique resumes operations under private management",
+          "link": "https://clubofmozambique.com/news/fabrica-de-paineis-solares-de-mocambique-resumes-operations-under-private-management/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 22 Oct (AIM) – The Mozambican government has decided to transfer the management of Beluluane solar panel factory, which was managed by the country’s Energy Fund (FUNAE), to the Emirati Company Jampur Group. According to FUNAE chairman, Mety Gondola, the measure is aimed at modernizing the factory, which is located in Boane district, southern province of Maputo. The measure will also increase the capacity to supply equipment for the electrification of communities, particularly in rural areas. The management transfer was formalized on Wednesday through the signing of an agreement between the FUNAE and Jampur Group. Gondola explained that the decision to transfer management to the private sector stems, among other factors, from technological limitations that have constrained the industrial unit’s production capacity and competitiveness. «Management of solar panel factory transferred to private company» matters because it may change energy and investment decisions affecting Moçambique. For «Management of solar panel factory transferred to private company», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 15.29,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Ukraine, Russia trade strikes after Witkoff talks",
+      "summary": "Soon after Putin and Zelenskyy expressed willingness to resume US-mediated talks, Russia and Ukraine traded major attacks on each other's capitals Russia and Ukraine traded major attacks overnight, authorities from both countries said on Thursday, shortly after US envoy Steve Witkoff held talks with Russian President Vladimir Putin in St. Petersburg Missiles struck Kyiv in the early hours of Thursday, wounding at least 15 people, eight of whom have been hospitalized, city authorities said The subway infrastructure on the Southern Bridge over the Dnipro river in Kyiv was also damaged, Mayor ⁠Vitali ​Klitschko ​said ​on Telegram \"Overnight, Kyiv residents heard what Russian 'humanism' truly sounds like: a brutal attack with dozens of ballistic missiles striking energy infrastructure, medical facilities, shopping centers, and residential Areas,\" Ukrainian foreign Minister Andrii Sybiha said on social media His post referred to Witkoff recently calling Putin a \"humanitarian\" for freeing US citizen Stephen Hubbard on Wednesday.",
+      "why": "«Ukraine, Russia trade strikes after Witkoff talks» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Ukraine, Russia trade strikes after Witkoff talks», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-22T04:57:00+00:00",
+      "age_hours": 3.4,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 4,
+      "source_count": 2,
+      "sources": [
+        "DW English",
+        "BBC World"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "BBC World",
+          "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+          "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Soon after Putin and Zelenskyy expressed willingness to resume US-mediated talks, Russia and Ukraine traded major attacks on each other's capitals Russia and Ukraine traded major attacks overnight, authorities from both countries said on Thursday, shortly after US envoy Steve Witkoff held talks with Russian President Vladimir Putin in St. Petersburg Missiles struck Kyiv in the early hours of Thursday, wounding at least 15 people, eight of whom have been hospitalized, city authorities said The subway infrastructure on the Southern Bridge over the Dnipro river in Kyiv was also damaged, Mayor ⁠Vitali ​Klitschko ​said ​on Telegram \"Overnight, Kyiv residents heard what Russian 'humanism' truly sounds like: a brutal attack with dozens of ballistic missiles striking energy infrastructure, medical facilities, shopping centers, and residential Areas,\" Ukrainian foreign Minister Andrii Sybiha said on social media His post referred to Witkoff recently calling Putin a \"humanitarian\" for freeing US citizen Stephen Hubbard on Wednesday. «Ukraine, Russia trade strikes after Witkoff talks» matters because it may change energy and investment decisions affecting Mundo. For «Ukraine, Russia trade strikes after Witkoff talks», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 14.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "For more than a decade, serious flaws had gone undetected in the technology underpinning much of the internet It took artificial intelligence (AI) to bring them to light and caused a global cyber-security alert The vulnerabilities lie within a programming language called PHP, which has been used internationally since the 2000s to build websites Governments and cyber-security agencies around the world are scrambling to contain the fallout of the discovery on Wednesday, and have urged website operators to install a new emergency fix or consider taking their platforms offline Cyber-security firm Wiz - one of the companies whose researchers uncovered the vulnerabilities - described the flaws as the \"most severe\" ever detected by AI OpenAI, whose technology was used to find the flaws, called the discovery \"one of the most impactful security issues in recent memory\" Most people may not have heard of PHP, but they probably interact with it daily Short for PHP: Hypertext Preprocessor, it powers a vast number of platforms, including online shops, Wikipedia and WordPress – the content…",
+      "why": "«What is PHP and why did it spark a global cyber-security scramble?» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «What is PHP and why did it spark a global cyber-security scramble?», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-22T06:24:59+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "For more than a decade, serious flaws had gone undetected in the technology underpinning much of the internet It took artificial intelligence (AI) to bring them to light and caused a global cyber-security alert The vulnerabilities lie within a programming language called PHP, which has been used internationally since the 2000s to build websites Governments and cyber-security agencies around the world are scrambling to contain the fallout of the discovery on Wednesday, and have urged website operators to install a new emergency fix or consider taking their platforms offline Cyber-security firm Wiz - one of the companies whose researchers uncovered the vulnerabilities - described the flaws as the \"most severe\" ever detected by AI OpenAI, whose technology was used to find the flaws, called the discovery \"one of the most impactful security issues in recent memory\" Most people may not have heard of PHP, but they probably interact with it daily Short for PHP: Hypertext Preprocessor, it powers a vast number of platforms, including online shops, Wikipedia and WordPress – the content… «What is PHP and why did it spark a global cyber-security scramble?» points to a concrete change in the adoption, regulation or use of technology. For «What is PHP and why did it spark a global cyber-security scramble?», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "editorial_score": 13.58,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -16,11 +156,11 @@
       "impact": "For «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-21T14:06:18+00:00",
-      "age_hours": 9.8,
+      "age_hours": 18.3,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-chapo-announces-20-state-stake-in-mining-projects-through-new-state-owned-company/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,154 +170,24 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "In his opening speech at the CAVAME-d 2026 conference, Chapo said that the creation of the state-owned Empresa Nacional de Minas, amendments to the Mining Law and the Petroleum Law, and the Local Content Law form part of the government’s new economic direction According to the President, the legal instruments were approved by the Assembly of the Republic, and their respective regulations were approved by the Council of Ministers last week Shareholding does not mean guaranteed revenue The state’s presence in the capital of mining projects could allow it to participate directly in the economic results of the ventures, in addition to the taxes and fees levied on mining activities The model nevertheless requires management and financing capacity. An equity stake may entail financial responsibilities and exposure to investment risks A 20% stake also does not mean that the state automatically receives that proportion of the value of production. «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Chapo announces 20% state stake in mining projects through new state-owned company», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 13.96,
+      "editorial_score": 12.19,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "summary": "Russia has in recent weeks intensified its deadly missile and drone attacks on Kyiv and other Ukrainian cities Ukraine's capital has come under a new missile attack, hours after Russia said it was \"ready in principle\" to resume peace talks and the US president said the world was \"the closest we've been\" to ending the war Several houses were hit on Wednesday night, injuring six people, Kyiv Mayor Vitaliy Klitschko said The attack came amid a new diplomatic push led by Donald Trump's envoys Steve Witkoff and Jared Kushner.",
-      "why": "«Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-21T21:27:41+00:00",
-      "age_hours": 2.5,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 3,
-      "source_count": 2,
-      "sources": [
-        "BBC World",
-        "DW English"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "BBC World",
-          "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-          "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "DW English",
-          "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
-          "link": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Russia has in recent weeks intensified its deadly missile and drone attacks on Kyiv and other Ukrainian cities Ukraine's capital has come under a new missile attack, hours after Russia said it was \"ready in principle\" to resume peace talks and the US president said the world was \"the closest we've been\" to ending the war Several houses were hit on Wednesday night, injuring six people, Kyiv Mayor Vitaliy Klitschko said The attack came amid a new diplomatic push led by Donald Trump's envoys Steve Witkoff and Jared Kushner. «Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks» deserves attention because it may change political, diplomatic or security risks. For «Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 12.98,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget",
-      "summary": "Maputo, 21 Oct (AIM) – The prominent anti-corruption NGO, the Centre for Public Integrity (CIP), believes that the government’s plan to use revenues from the extractive industry to fund funding the Mozambique’s Development Bank of (BDM) may increase pressure on the State Budget. The organization’s reaction follows a regulation pointing out that a percentage of State revenues from the extractive sector must be channeled to the BDM. The BDM may also be funded by a portion (25%) of the investment portfolio derived from social security contributions, as well as by resources from institutions within the State’s indirect administration and the State-owned enterprise sector. According to CIP, funding the BDM from extractive sector revenues may reduce the resources available within the State Budget, which are aimed at directly financing other public investment priorities. “Although the regulation establishes certain safeguards, it leaves two issues unaddressed.",
-      "why": "«Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "AIM News",
-      "published": "2026-10-21T09:53:58+00:00",
-      "age_hours": 14.0,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/21/funding-bdm-from-revenues-generated-by-extractive-industry-may-increase-pressure-on-the-state-budget/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM News"
-      ],
-      "primary_source": "AIM News",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 21 Oct (AIM) – The prominent anti-corruption NGO, the Centre for Public Integrity (CIP), believes that the government’s plan to use revenues from the extractive industry to fund funding the Mozambique’s Development Bank of (BDM) may increase pressure on the State Budget. The organization’s reaction follows a regulation pointing out that a percentage of State revenues from the extractive sector must be channeled to the BDM. The BDM may also be funded by a portion (25%) of the investment portfolio derived from social security contributions, as well as by resources from institutions within the State’s indirect administration and the State-owned enterprise sector. According to CIP, funding the BDM from extractive sector revenues may reduce the resources available within the State Budget, which are aimed at directly financing other public investment priorities. “Although the regulation establishes certain safeguards, it leaves two issues unaddressed. «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget» deserves attention because it may change political, diplomatic or security risks. For «Funding BDM from revenues generated by extractive industry may increase pressure on the State Budget», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 12.08,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree",
-      "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part? The administration of US President Donald Trump has stepped up diplomatic efforts this autumn to revive stalled negotiations aimed at ending Russia's war in Ukraine Washington has increased pressure on Kyiv and its European partners while seeking to draw Moscow back to the negotiating table through a series of concessions, including a deal involving Russian diesel exports to the US and the temporary easing of some sanctions Yet the Kremlin appears in no hurry to resume meaningful peace talks. Moscow is ready to hold negotiations with Ukraine at a technical level next month, the Kremlin said after the meeting between US special envoy Steve Witkoff and Russian President Vladimir Putin in St. Petersburg on November 21 Putin agreed to resume the peace talks mediated by Washington after November 10, his aide Yury Ushakov said after the meeting.",
-      "why": "«Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing…» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing…», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-21T19:32:00+00:00",
-      "age_hours": 4.4,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part? The administration of US President Donald Trump has stepped up diplomatic efforts this autumn to revive stalled negotiations aimed at ending Russia's war in Ukraine Washington has increased pressure on Kyiv and its European partners while seeking to draw Moscow back to the negotiating table through a series of concessions, including a deal involving Russian diesel exports to the US and the temporary easing of some sanctions Yet the Kremlin appears in no hurry to resume meaningful peace talks. Moscow is ready to hold negotiations with Ukraine at a technical level next month, the Kremlin said after the meeting between US special envoy Steve Witkoff and Russian President Vladimir Putin in St. Petersburg on November 21 Putin agreed to resume the peace talks mediated by Washington after November 10, his aide Yury Ushakov said after the meeting. «Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing…» deserves attention because it may change political, diplomatic or security risks. For «Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing…», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.08,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
       "tags": [
         "Economia"
       ],
-      "title": "Fábrica de Painéis Solares de Moçambique resumes operations under private management",
-      "summary": "Photo: Gabinete do Governador da Província de Maputo Photo: Gabinete do Governador da Província de Maputo Manuel Tule was speaking at the ceremony marking the transfer of the factory to private management, where he also called for local young people to receive training and develop the skills needed to join the factory’s permanent workforce Photo: Gabinete do Governador da Província de Maputo Source: Gabinete do Governador da Província de Maputo / Press Release",
-      "why": "«Fábrica de Painéis Solares de Moçambique resumes operations under private management» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Fábrica de Painéis Solares de Moçambique resumes operations under private management», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-21T13:19:37+00:00",
-      "age_hours": 10.6,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/fabrica-de-paineis-solares-de-mocambique-resumes-operations-under-private-management/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Photo: Gabinete do Governador da Província de Maputo Photo: Gabinete do Governador da Província de Maputo Manuel Tule was speaking at the ceremony marking the transfer of the factory to private management, where he also called for local young people to receive training and develop the skills needed to join the factory’s permanent workforce Photo: Gabinete do Governador da Província de Maputo Source: Gabinete do Governador da Província de Maputo / Press Release. «Fábrica de Painéis Solares de Moçambique resumes operations under private management» is worth following because of its possible economic, institutional or regional effects. For «Fábrica de Painéis Solares de Moçambique resumes operations under private management», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 10.79,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Will Russia’s diesel shipment to the US lower prices before midterms?",
-      "summary": "Moscow dispatches its inaugural diesel shipment to the US, aiming to ease fuel shortages as midterm elections loom",
-      "why": "«Will Russia’s diesel shipment to the US lower prices before midterms?» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Will Russia’s diesel shipment to the US lower prices before midterms?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+      "summary": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti",
+      "why": "«El Salvador’s Bukele threatens Haitian gangs over abducted soldiers» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «El Salvador’s Bukele threatens Haitian gangs over abducted soldiers», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-10-21T20:54:27+00:00",
-      "age_hours": 3.0,
+      "published": "2026-10-22T05:36:33+00:00",
+      "age_hours": 2.8,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/10/21/will-russias-diesel-shipment-to-the-us-lower-prices-before-midterms?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -188,8 +198,8 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Moscow dispatches its inaugural diesel shipment to the US, aiming to ease fuel shortages as midterm elections loom. «Will Russia’s diesel shipment to the US lower prices before midterms?» matters because it may change energy and investment decisions affecting Mundo. For «Will Russia’s diesel shipment to the US lower prices before midterms?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 10.38,
+      "detailed_summary": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti. «El Salvador’s Bukele threatens Haitian gangs over abducted soldiers» is worth following because of its possible economic, institutional or regional effects. For «El Salvador’s Bukele threatens Haitian gangs over abducted soldiers», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.42,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -198,75 +208,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Tunisia jails opposition politician for four years over social media posts",
-      "summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders",
-      "why": "«Tunisia jails opposition politician for four years over social media posts» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Tunisia jails opposition politician for four years over social media posts», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-21T19:14:49+00:00",
-      "age_hours": 4.7,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of 'plotting' and 'inciting' military to disobey orders. «Tunisia jails opposition politician for four years over social media posts» is worth following because of its possible economic, institutional or regional effects. For «Tunisia jails opposition politician for four years over social media posts», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.02,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Government approves regulations on decentralized governance",
-      "summary": "Maputo, 21 Oct (AIM) – The Mozambican government on Tuesday approved regulations defining the functioning of executive bodies responsible for decentralized governance. The regulations are aimed at harmonizing the administrative procedures and clarify responsibilities under the law that establishes the legal framework for State representative bodies at provincial level. Speaking to reporters on Tuesday after a meeting of the Council of Ministers (cabinet), the government spokesperson and Minister of State Administration, Inocêncio Impissa, said the regulations also strengthen institutional coordination and establish procedures for overseeing and supervising services that remain under central government control. “They aim to ensure consistent implementation of the legal framework across the country”, he said. Also on Tuesday, the government approved regulations governing mandatory retirement upon reaching the statutory age limit and procedures for extending that limit.",
-      "why": "«Government approves regulations on decentralized governance» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Government approves regulations on decentralized governance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "AIM News",
-      "published": "2026-10-21T08:58:33+00:00",
-      "age_hours": 15.0,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/21/government-approves-regulations-on-decentralized-governance/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM News"
-      ],
-      "primary_source": "AIM News",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 21 Oct (AIM) – The Mozambican government on Tuesday approved regulations defining the functioning of executive bodies responsible for decentralized governance. The regulations are aimed at harmonizing the administrative procedures and clarify responsibilities under the law that establishes the legal framework for State representative bodies at provincial level. Speaking to reporters on Tuesday after a meeting of the Council of Ministers (cabinet), the government spokesperson and Minister of State Administration, Inocêncio Impissa, said the regulations also strengthen institutional coordination and establish procedures for overseeing and supervising services that remain under central government control. “They aim to ensure consistent implementation of the legal framework across the country”, he said. Also on Tuesday, the government approved regulations governing mandatory retirement upon reaching the statutory age limit and procedures for extending that limit. «Government approves regulations on decentralized governance» is worth following because of its possible economic, institutional or regional effects. For «Government approves regulations on decentralized governance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 9.88,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-      "summary": "Saurav Das and Ashutosh Ranka have spent a week in jail after being accused of trespassing Two leaders of the Gen Z-led Cockroach Janta Party (CJP) have been freed from jail a week after they were arrested for trespassing at a banned protest site in Delhi Saurav Das and Ashutosh Ranka walked out of Tihar jail hours after a magistrate ordered their release. They had been detained by police and jailed after they crossed barricades and climbed over the locked gate at Jantar Mantar The historic venue was recently removed from a list of designated protest sites The men, who denied wrongdoing, have been calling on India's chief election commissioner to resign. Critics accuse the commission of manipulating voter rolls to benefit India's governing party, charges the commission rejects A special executive magistrate court in Delhi, passed their release order, legal news website Bar and Bench reported After bail was granted, Das told reporters from a police van: \"Truth alone triumphs.",
-      "why": "«India 'cockroach' leaders who called on election chief to quit are freed from jail» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «India 'cockroach' leaders who called on election chief to quit are freed from jail», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "summary": "Students in Nazareth are handing out leaflets encouraging Arab Israelis to vote in next week's election At rush hour in Nazareth, the largest Arab-majority city in Israel, students are handing out leaflets by the roadside urging motorists to vote in next week's closely fought, general election. Polls indicate that Arab parties could be left holding a critical balance of power Disaffection has often driven down past turnout among Arab Israelis - who account for about a fifth of the population and often describe themselves as Palestinian citizens of Israel. But this election, there is a strong push to get rid of the most right-wing governing coalition in the country's history - an alliance between veteran Prime Minister Benjamin Netanyahu and far-right and ultra-Orthodox parties \"I see it as our duty to bring down this extremist government. They treat us as second-class,\" says Arkan Badran, 23, who is with the students giving out flyers.",
+      "why": "«How Arab parties could hold critical balance of power in Israeli election» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «How Arab parties could hold critical balance of power in Israeli election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "BBC World",
-      "published": "2026-10-21T18:22:28+00:00",
-      "age_hours": 5.6,
+      "published": "2026-10-22T05:30:22+00:00",
+      "age_hours": 2.9,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-007",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -275,37 +227,8 @@
       "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Saurav Das and Ashutosh Ranka have spent a week in jail after being accused of trespassing Two leaders of the Gen Z-led Cockroach Janta Party (CJP) have been freed from jail a week after they were arrested for trespassing at a banned protest site in Delhi Saurav Das and Ashutosh Ranka walked out of Tihar jail hours after a magistrate ordered their release. They had been detained by police and jailed after they crossed barricades and climbed over the locked gate at Jantar Mantar The historic venue was recently removed from a list of designated protest sites The men, who denied wrongdoing, have been calling on India's chief election commissioner to resign. Critics accuse the commission of manipulating voter rolls to benefit India's governing party, charges the commission rejects A special executive magistrate court in Delhi, passed their release order, legal news website Bar and Bench reported After bail was granted, Das told reporters from a police van: \"Truth alone triumphs. «India 'cockroach' leaders who called on election chief to quit are freed from jail» is worth following because of its possible economic, institutional or regional effects. For «India 'cockroach' leaders who called on election chief to quit are freed from jail», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 9.83,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-      "summary": "Nearly 5,000 healthcare workers have been trained to deal with Ebola Kenya is grappling with its first ever outbreak of Ebola, a disease which neighbouring countries, such as Uganda and Democratic Republic of Congo, are used to dealing with Nine cases have now been confirmed including its first patient, who travelled from DR Congo and died two weeks ago Four relatives of the first victim, three health workers and a hospital cleaner have now tested positive, meaning they are all linked to him But concerns are rising that the virus could start spreading further, even as the government has sought to assure citizens The US has warned it citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert Kenyans have been expressing their concerns that the disease could spread more widely More than 4,000 people have died since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according…",
-      "why": "«Is Ebola under control in Kenya after nine cases confirmed?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "BBC Africa",
-      "published": "2026-10-21T09:55:15+00:00",
-      "age_hours": 14.0,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC Africa"
-      ],
-      "primary_source": "BBC Africa",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Nearly 5,000 healthcare workers have been trained to deal with Ebola Kenya is grappling with its first ever outbreak of Ebola, a disease which neighbouring countries, such as Uganda and Democratic Republic of Congo, are used to dealing with Nine cases have now been confirmed including its first patient, who travelled from DR Congo and died two weeks ago Four relatives of the first victim, three health workers and a hospital cleaner have now tested positive, meaning they are all linked to him But concerns are rising that the virus could start spreading further, even as the government has sought to assure citizens The US has warned it citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert Kenyans have been expressing their concerns that the disease could spread more widely More than 4,000 people have died since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according… «Is Ebola under control in Kenya after nine cases confirmed?» deserves attention because it may change political, diplomatic or security risks. For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 9.08,
+      "detailed_summary": "Students in Nazareth are handing out leaflets encouraging Arab Israelis to vote in next week's election At rush hour in Nazareth, the largest Arab-majority city in Israel, students are handing out leaflets by the roadside urging motorists to vote in next week's closely fought, general election. Polls indicate that Arab parties could be left holding a critical balance of power Disaffection has often driven down past turnout among Arab Israelis - who account for about a fifth of the population and often describe themselves as Palestinian citizens of Israel. But this election, there is a strong push to get rid of the most right-wing governing coalition in the country's history - an alliance between veteran Prime Minister Benjamin Netanyahu and far-right and ultra-Orthodox parties \"I see it as our duty to bring down this extremist government. They treat us as second-class,\" says Arkan Badran, 23, who is with the students giving out flyers. «How Arab parties could hold critical balance of power in Israeli election» is worth following because of its possible economic, institutional or regional effects. For «How Arab parties could hold critical balance of power in Israeli election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.4,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -322,7 +245,7 @@
       "impact": "For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-10-20T17:30:15+00:00",
-      "age_hours": 30.4,
+      "age_hours": 38.9,
       "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -336,9 +259,38 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "Ameth Bek Hospital in Abyei town has been treating people wounded in Monday's attack on the market Sudan's army has been accused of launching several drone strikes that have reportedly killed more than 300 people, including dozens travelling to a funeral The death toll from strikes in two areas of West Kordofan state on Sunday evening was 150, sources told the Sudan War Observatory, which tracks the conflict that erupted in 2023 between the army and the paramilitary Rapid Support Forces (RSF) In Abyei, a disputed border area between Sudan and South Sudan, 153 people were killed when drones hit a market on Monday, the region's information minister said A military source told the BBC the army had carried out the Abyei attack, saying the market was a fuel supply site for the RSF The attack has raised tensions between South Sudan and Sudan, which jointly administer Abyei, as they both claim ownership to the oil-rich region in a dispute that has remained unresolved since South Sudan ceded in 2011 South Sudan has summoned Sudan's ambassador to lodge a formal protest. «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say» matters because it may change energy and investment decisions affecting África. For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 8.3,
+      "editorial_score": 8.03,
       "source_tier": "A",
       "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "summary": "Nearly 5,000 healthcare workers have been trained to deal with Ebola Kenya is grappling with its first ever outbreak of Ebola, a disease which neighbouring countries, such as Uganda and Democratic Republic of Congo, are used to dealing with Nine cases have now been confirmed including its first patient, who travelled from DR Congo and died two weeks ago Four relatives of the first victim, three health workers and a hospital cleaner have now tested positive, meaning they are all linked to him But concerns are rising that the virus could start spreading further, even as the government has sought to assure citizens The US has warned it citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert Kenyans have been expressing their concerns that the disease could spread more widely More than 4,000 people have died since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according…",
+      "why": "«Is Ebola under control in Kenya after nine cases confirmed?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-10-21T09:55:15+00:00",
+      "age_hours": 22.5,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Nearly 5,000 healthcare workers have been trained to deal with Ebola Kenya is grappling with its first ever outbreak of Ebola, a disease which neighbouring countries, such as Uganda and Democratic Republic of Congo, are used to dealing with Nine cases have now been confirmed including its first patient, who travelled from DR Congo and died two weeks ago Four relatives of the first victim, three health workers and a hospital cleaner have now tested positive, meaning they are all linked to him But concerns are rising that the virus could start spreading further, even as the government has sought to assure citizens The US has warned it citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert Kenyans have been expressing their concerns that the disease could spread more widely More than 4,000 people have died since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according… «Is Ebola under control in Kenya after nine cases confirmed?» deserves attention because it may change political, diplomatic or security risks. For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 7.31,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     }
   ],
   "watch": [
@@ -360,9 +312,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
+    "Moçambique": 3,
     "África": 2,
-    "Mundo": 5
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
