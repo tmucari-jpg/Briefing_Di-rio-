@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T19:04:48.372829+00:00",
+  "updated_at": "2026-10-22T23:54:30.692654+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,9 +16,68 @@
       "impact": "No caso de «Coordenar para reduzir custos de exportação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-22T17:52:20+00:00",
-      "age_hours": 1.2,
+      "age_hours": 6.0,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/22/coordenar-para-reduzir-custos-de-exportacao/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Nacala-Porto, 22 Out (AIM) – A Twigg Exploration & Mining Limitada defende a criação de uma plataforma de diálogo entre produtores, exportadores, alfândegas, portos e linhas de navegação, para harmonizar procedimentos e reduzir custos e demora no processo de exportação em Moçambique. De acordo com Laura Mateus, representante da empresa que opera a mina de grafite natural de Balama, na província nortenha de Cabo Delgado, uma das maiores do mundo, tem de se garantir que todos os intervenientes estejam alinhados. “Eu acredito que tem de haver uma plataforma de conversa entre esses intervenientes todos, para garantir que todos nós saibamos quais são as necessidades de cada um, para que o nosso processo [de produção e comercialização] esteja alinhado”, afirmou. «Coordenar para reduzir custos de exportação» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Coordenar para reduzir custos de exportação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.75,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Moçambique e Malawi reforçam comércio agrário",
+      "summary": "Moçambique e Malawi assinam, nesta quinta-feira, na cidade de Tete, um memorando de entendimento sobre medidas sanitárias e fitossanitárias, com vista a facilitar o comércio de produtos agrários, reduzir barreiras comerciais e reforçar a segurança sanitária. A iniciativa pretende melhorar a circulação de mercadorias entre os dois países, com particular incidência nos corredores da Beira […]",
+      "why": "«Moçambique e Malawi reforçam comércio agrário» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Moçambique e Malawi reforçam comércio agrário», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-22T20:00:37+00:00",
+      "age_hours": 3.9,
+      "within_24h": true,
+      "link": "https://opais.co.mz/mocambique-e-malawi-reforcam-comercio-agrario/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Moçambique e Malawi assinam, nesta quinta-feira, na cidade de Tete, um memorando de entendimento sobre medidas sanitárias e fitossanitárias, com vista a facilitar o comércio de produtos agrários, reduzir barreiras comerciais e reforçar a segurança sanitária. A iniciativa pretende melhorar a circulação de mercadorias entre os dois países, com particular incidência nos corredores da Beira […]. «Moçambique e Malawi reforçam comércio agrário» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique e Malawi reforçam comércio agrário», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.19,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África",
+      "summary": "Maputo, 22 Out (AIM) – O Presidente da República de Moçambique, Daniel Francisco Chapo, participa, este sábado (24), no 12.º Fórum de Alto Nível de Tana sobre Segurança em África. O evento terá lugar em Bahir Dar, Etiópia, onde será orador principal num painel sobre paz e soberania africanas numa era de rivalidade geopolítica. O gabinete de Imprensa da Presidência da República refere, em comunicado, recebido hoje na redacção da AIM, que o encontro reúne líderes e especialistas para debater soluções africanas para os desafios de paz, segurança, soberania económica e desenvolvimento do continente. (AIM) Redacção/mz",
+      "why": "«Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-22T19:23:26+00:00",
+      "age_hours": 4.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/22/presidente-chapo-orador-principal-no-forum-de-alto-nivel-sobre-seguranca-em-africa/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -29,37 +88,8 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Nacala-Porto, 22 Out (AIM) – A Twigg Exploration & Mining Limitada defende a criação de uma plataforma de diálogo entre produtores, exportadores, alfândegas, portos e linhas de navegação, para harmonizar procedimentos e reduzir custos e demora no processo de exportação em Moçambique. De acordo com Laura Mateus, representante da empresa que opera a mina de grafite natural de Balama, na província nortenha de Cabo Delgado, uma das maiores do mundo, tem de se garantir que todos os intervenientes estejam alinhados. “Eu acredito que tem de haver uma plataforma de conversa entre esses intervenientes todos, para garantir que todos nós saibamos quais são as necessidades de cada um, para que o nosso processo [de produção e comercialização] esteja alinhado”, afirmou. «Coordenar para reduzir custos de exportação» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Coordenar para reduzir custos de exportação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.75,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica",
-      "summary": "O antigo Presidente da República, Joaquim Chissano, explica que a escolha de Roma para as negociações tendo em vista a Assinatura do Acordo Geral de Paz (AGP) entre a Frelimo e Renamo foi estratégica, uma vez que em Moçambique não havia condições devido à guerra. Falando no contexto da celebração do seu aniversário, o antigo […]",
-      "why": "«Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-22T17:51:37+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://opais.co.mz/escolha-de-roma-para-assinatura-do-agp-foi-estrategica/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O antigo Presidente da República, Joaquim Chissano, explica que a escolha de Roma para as negociações tendo em vista a Assinatura do Acordo Geral de Paz (AGP) entre a Frelimo e Renamo foi estratégica, uma vez que em Moçambique não havia condições devido à guerra. Falando no contexto da celebração do seu aniversário, o antigo […]. «Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.75,
+      "detailed_summary": "Maputo, 22 Out (AIM) – O Presidente da República de Moçambique, Daniel Francisco Chapo, participa, este sábado (24), no 12.º Fórum de Alto Nível de Tana sobre Segurança em África. O evento terá lugar em Bahir Dar, Etiópia, onde será orador principal num painel sobre paz e soberania africanas numa era de rivalidade geopolítica. O gabinete de Imprensa da Presidência da República refere, em comunicado, recebido hoje na redacção da AIM, que o encontro reúne líderes e especialistas para debater soluções africanas para os desafios de paz, segurança, soberania económica e desenvolvimento do continente. (AIM) Redacção/mz. «Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.06,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -74,11 +104,11 @@
       "impact": "No caso de «AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-22T15:45:00+00:00",
-      "age_hours": 3.3,
+      "age_hours": 8.2,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/22/negocios/empresas/aimo-e-energy-works-lancam-programa-de-certificacao-iso-com-desconto-de-10/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -88,36 +118,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A Associação Industrial de Moçambique (AIMO) e a Energy Works, empresa especializada em consultoria e apoio técnico na implementação de sistemas de gestão, lançaram, esta quinta-feira (22), em Maputo, a […]. «AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.31,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Frelimo avalia situação do país",
-      "summary": "A Comissão Política da Frelimo reuniu-se ontem em Maputo, sob a direcção do Presidente desta formação e da República, Daniel Chapo, para avaliar a situação política, económica e social do país, bem como a dinâmica e o funcionamento do partido. Reunidos na sua 76ª sessão ordinária, a Frelimo exaltou a obra e o legado histórico de luta de Samora Moisés Machel, na construção da nação moçambicana, no âmbito da passagem dos 40 anos da sua morte, ocorrida a 19 de Outubro de 1986, na localidade de Mbuzini, na África do Sul. Na sessão dirigida pelo Presidente da Frelimo e da República, Daniel Chapo, debruçou-se ainda sobre acção governativa, trabalho político nacional e internacional, desempenho da bancada parlamentar e das desempenho das Forças de Defesa e Segurança. O conteúdo Frelimo avalia situação do país aparece primeiro em Jornal Notícias",
-      "why": "«Frelimo avalia situação do país» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Frelimo avalia situação do país», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-22T14:30:23+00:00",
-      "age_hours": 4.6,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/frelimo-avalia-situacao-do-pais/",
-      "original_source": true,
-      "event_id": "evt-mocambique-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A Comissão Política da Frelimo reuniu-se ontem em Maputo, sob a direcção do Presidente desta formação e da República, Daniel Chapo, para avaliar a situação política, económica e social do país, bem como a dinâmica e o funcionamento do partido. Reunidos na sua 76ª sessão ordinária, a Frelimo exaltou a obra e o legado histórico de luta de Samora Moisés Machel, na construção da nação moçambicana, no âmbito da passagem dos 40 anos da sua morte, ocorrida a 19 de Outubro de 1986, na localidade de Mbuzini, na África do Sul. Na sessão dirigida pelo Presidente da Frelimo e da República, Daniel Chapo, debruçou-se ainda sobre acção governativa, trabalho político nacional e internacional, desempenho da bancada parlamentar e das desempenho das Forças de Defesa e Segurança. O conteúdo Frelimo avalia situação do país aparece primeiro em Jornal Notícias. «Frelimo avalia situação do país» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Frelimo avalia situação do país», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.04,
+      "editorial_score": 12.29,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -132,11 +133,11 @@
       "impact": "No caso de «INNOQ reforça fiscalização do peso do pão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "O País",
       "published": "2026-10-22T18:00:02+00:00",
-      "age_hours": 1.1,
+      "age_hours": 5.9,
       "within_24h": true,
       "link": "https://opais.co.mz/innoq-reforca-fiscalizacao-do-peso-do-pao/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -146,8 +147,66 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O INNOQ anunciou o reforço da fiscalização do peso do pão em Moçambique, exigindo balanças verificadas e advertindo sobre sanções para os estabelecimentos que não cumpram a legislação. Assim, os estabelecimentos são obrigados a disponibilizar balanças verificadas aos consumidores. Em comunicado, o INNOQ indica que a medida visa assegurar o cumprimento da legislação metrológica e […]. «INNOQ reforça fiscalização do peso do pão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «INNOQ reforça fiscalização do peso do pão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.77,
+      "editorial_score": 11.77,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros",
+      "summary": "No Brasil, a insegurança diária, a grande carga fiscal e os problemas económicos das famílias têm um peso significativo na escolha política. A mais recente sondagem das presidencias dá um empate entre Lula da Silva e Flávio Bolsonaro na votação de domingo",
+      "why": "«Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-22T20:44:47+00:00",
+      "age_hours": 3.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/inseguranca-carga-fiscal-e-problemas-economicos-pesam-na-escolha-dos-brasileiros_v1773598",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "No Brasil, a insegurança diária, a grande carga fiscal e os problemas económicos das famílias têm um peso significativo na escolha política. A mais recente sondagem das presidencias dá um empate entre Lula da Silva e Flávio Bolsonaro na votação de domingo. «Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.33,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no Parlamento marroquino",
+      "summary": "Os partidos marroquinos da coligação governamental e da oposição reclamaram hoje a soberania do seu país sobre as cidades espanholas de Ceuta e Melilla, localizadas no norte de África O nacionalista Istiqlal alertou que a parceria com Espanha não pode ser feita à custa da integridade territorial de Marrocos Estas posições foram expressas no Parlamento marroquino durante o debate sobre o programa do novo Governo, presidido por Fatima Ezzahra el Mansouri e formado após as eleições legislativas do mês passado em Marrocos O Partido Autenticidade e Modernidade (PAM, liberal), que lidera a coligação governamental, pediu que se continue o trabalho nacional e diplomático para \"completar a unidade territorial\" de Marrocos e defender o seu \"direito legítimo de recuperar Ceuta, Melilla e as ilhas marroquinas ocupadas\" Aquela estrutura partidária especificou que esta ação deve realizar-se no quadro de \"uma visão nacional responsável, baseada na legitimidade histórica e jurídica, bem como no diálogo e nos meios pacíficos\" Istiqlal (PI, que faz parte da coligação governamental) assegurou que por…",
+      "why": "«\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "source": "RTP Notícias",
+      "published": "2026-10-22T21:18:23+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/completar-a-unidade-territorial-partidos-do-governo-e-da-oposicao-reivindicam-ceuta-e-melilla-no-parlamento-marroquino_n1773608",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Os partidos marroquinos da coligação governamental e da oposição reclamaram hoje a soberania do seu país sobre as cidades espanholas de Ceuta e Melilla, localizadas no norte de África O nacionalista Istiqlal alertou que a parceria com Espanha não pode ser feita à custa da integridade territorial de Marrocos Estas posições foram expressas no Parlamento marroquino durante o debate sobre o programa do novo Governo, presidido por Fatima Ezzahra el Mansouri e formado após as eleições legislativas do mês passado em Marrocos O Partido Autenticidade e Modernidade (PAM, liberal), que lidera a coligação governamental, pediu que se continue o trabalho nacional e diplomático para \"completar a unidade territorial\" de Marrocos e defender o seu \"direito legítimo de recuperar Ceuta, Melilla e as ilhas marroquinas ocupadas\" Aquela estrutura partidária especificou que esta ação deve realizar-se no quadro de \"uma visão nacional responsável, baseada na legitimidade histórica e jurídica, bem como no diálogo e nos meios pacíficos\" Istiqlal (PI, que faz parte da coligação governamental) assegurou que por… «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 10.46,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -161,11 +220,11 @@
       "impact": "No caso de «Guterres alerta para onda global de protestos devido ao custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
       "published": "2026-10-22T19:03:34+00:00",
-      "age_hours": 0.0,
+      "age_hours": 4.8,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/guterres-alerta-para-onda-global-de-protestos-devido-ao-custo-de-vida_n1773581",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -175,7 +234,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O secretário-geral das Nações Unidas, António Guterres, alertou hoje para uma onda mundial de protestos provocada pelo aumento do custo de vida e agravada pelos conflitos internacionais, apelando aos governos para combaterem desigualdades Numa declaração aos jornalistas, Guterres afirmou que, da Europa aos países em desenvolvimento, milhões de pessoas enfrentam uma crise persistente do custo de vida, marcada pela subida dos preços dos alimentos, combustíveis e outros bens essenciais O secretário-geral das Nações Unidas destacou também o aumento das taxas de juro, que afeta tanto as famílias como os Estados, e a deterioração das perspetivas económicas das gerações mais jovens Segundo Guterres, a frustração acumulada está a transformar-se numa vaga de manifestações em vários continentes, com os cidadãos a exigirem respostas das autoridades Em França, os protestos dos últimos dias provocaram pelo menos dois mortos, mais de duas mil detenções, pilhagens generalizadas e a imposição de recolheres obrigatórios localizados em cidades como Paris, Lyon e Marselha Em Portugal e Espanha… «Guterres alerta para onda global de protestos devido ao custo de vida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Guterres alerta para onda global de protestos devido ao custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.0,
+      "editorial_score": 10.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -190,11 +249,11 @@
       "impact": "No caso de «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-22T15:16:02+00:00",
-      "age_hours": 3.8,
+      "age_hours": 8.6,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/22/franca-artistas-e-colecionadores-reunem-se-na-art-basel-paris-apesar-de-protestos",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -204,7 +263,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Art Basel Paris reúne galerias internacionais e artistas contemporâneos no Grand Palais. Após protestos violentos na capital, organizadores reforçam a segurança na feira de arte. «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.21,
+      "editorial_score": 7.21,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -219,11 +278,11 @@
       "impact": "No caso de «Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Euronews Português",
       "published": "2026-10-22T15:02:44+00:00",
-      "age_hours": 4.0,
+      "age_hours": 8.9,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/22/alemanha-robos-humanoides-e-supercomputadores-de-ia-em-destaque-em-berlim",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -233,7 +292,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Robôs humanóides, máquinas inteligentes e supercomputadores dominam evento da Nvidia em Berlim; Jensen Huang prevê economia de IA em expansão na Europa. «Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 8.17,
+      "editorial_score": 7.15,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -258,8 +317,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 0,
-    "Mundo": 3
+    "África": 1,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
