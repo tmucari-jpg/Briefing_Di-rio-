@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T14:24:02.594875+00:00",
+  "updated_at": "2026-10-22T19:04:56.119236+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,17 +8,78 @@
     {
       "section": "Moçambique",
       "tags": [
+        "Energia",
         "Economia"
       ],
-      "title": "PLPEX facilitates China-Mozambique partnership for 12,000-unit housing project",
-      "summary": "Held alongside the four-day Macau International Trade & Investment Fair (MIF), PLPEX is positioned to serve as a platform for fostering trade and investment between China and Portuguese-speaking countries The agreement brings together IEC International Supply Chain Group, a supply chain services platform, and Sichuan Shudao Urban Construction Group, a subsidiary of one of Sichuan’s largest state-owned enterprises Speaking in an interview with Macau News Agency (MNA), Wang Ying Wu, president of the supply chain group, said: “Many African countries are currently in a critical phase of infrastructure expansion and urban development, creating strong demand for large-scale construction projects.” Highlighting Macau’s role in the project, she added: “Macau occupies a unique position thanks to its international business environment and strategic advantages.",
-      "why": "«PLPEX facilitates China-Mozambique partnership for 12,000-unit housing project» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «PLPEX facilitates China-Mozambique partnership for 12,000-unit housing project», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Mozambique: Chapo meets Azura Power CEO Dave Peacock to discuss new energy sector investments",
+      "summary": "The meeting provided an opportunity to discuss investment opportunities in the country’s energy sector and Azura Power’s interest in expanding its presence in Mozambique, at a time when the country is seeking to increase its power generation capacity and improve its energy infrastructure Azura Power is an Independent Power Producer (IPP) with a presence in several African markets, including Mozambique, where it is a co-owner of the Ressano Garcia Thermal Power Plant (CTRG), one of the largest privately owned power plants in operation in the country The company also operates in Nigeria and Senegal, carrying out activities related to power generation and supply and participating in energy infrastructure projects across the African continent Speaking after the meeting, Dave Peacock said the company intended to expand its presence in Mozambique across different areas of the energy sector “We are here today because we have great ambitions to do much more in Mozambique, both in power generation and in transmission and other related infrastructure,” said the Azura Power CEO Peacock said…",
+      "why": "«Mozambique: Chapo meets Azura Power CEO Dave Peacock to discuss new energy sector investments» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Mozambique: Chapo meets Azura Power CEO Dave Peacock to discuss new energy sector investments», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-10-22T13:30:52+00:00",
-      "age_hours": 0.9,
+      "published": "2026-10-22T14:57:41+00:00",
+      "age_hours": 4.1,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/plpex-facilitates-china-mozambique-partnership-for-12000-unit-housing-project/",
+      "link": "https://clubofmozambique.com/news/mozambique-chapo-meets-azura-power-ceo-dave-peacock-to-discuss-new-energy-sector-investments/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "The meeting provided an opportunity to discuss investment opportunities in the country’s energy sector and Azura Power’s interest in expanding its presence in Mozambique, at a time when the country is seeking to increase its power generation capacity and improve its energy infrastructure Azura Power is an Independent Power Producer (IPP) with a presence in several African markets, including Mozambique, where it is a co-owner of the Ressano Garcia Thermal Power Plant (CTRG), one of the largest privately owned power plants in operation in the country The company also operates in Nigeria and Senegal, carrying out activities related to power generation and supply and participating in energy infrastructure projects across the African continent Speaking after the meeting, Dave Peacock said the company intended to expand its presence in Mozambique across different areas of the energy sector “We are here today because we have great ambitions to do much more in Mozambique, both in power generation and in transmission and other related infrastructure,” said the Azura Power CEO Peacock said… «Mozambique: Chapo meets Azura Power CEO Dave Peacock to discuss new energy sector investments» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique: Chapo meets Azura Power CEO Dave Peacock to discuss new energy sector investments», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 15.15,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Canada's Mark Carney visits Turkey to boost trade ties",
+      "summary": "It's the first bilateral visit by a Canadian prime minister to Turkey. Canada and Turkey upgraded their relations to a \"strategic partnership\" as Canada seeks to diversify trade beyond the US Canadian Prime Minister Mark Carney arrived in Turkey on Thursday to kick off a two-day visit to the Mediterranean country During the visit, Carney met with Turkish President Recep Tayyip Erdogan at the Turkish presidential palace in Ankara The two leaders announced that the Canadian-Turkish relationship would be upgraded to a \"strategic partnership,\" covering areas such as trade, energy and people-to-people ties \"We've planted the seeds of something new: a strategic partnership that will create new opportunities for our workers and businesses, and greater security and prosperity for both of our peoples.",
+      "why": "«Canada's Mark Carney visits Turkey to boost trade ties» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Canada's Mark Carney visits Turkey to boost trade ties», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-22T17:07:00+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "It's the first bilateral visit by a Canadian prime minister to Turkey. Canada and Turkey upgraded their relations to a \"strategic partnership\" as Canada seeks to diversify trade beyond the US Canadian Prime Minister Mark Carney arrived in Turkey on Thursday to kick off a two-day visit to the Mediterranean country During the visit, Carney met with Turkish President Recep Tayyip Erdogan at the Turkish presidential palace in Ankara The two leaders announced that the Canadian-Turkish relationship would be upgraded to a \"strategic partnership,\" covering areas such as trade, energy and people-to-people ties \"We've planted the seeds of something new: a strategic partnership that will create new opportunities for our workers and businesses, and greater security and prosperity for both of our peoples. «Canada's Mark Carney visits Turkey to boost trade ties» matters because it may change energy and investment decisions affecting Mundo. For «Canada's Mark Carney visits Turkey to boost trade ties», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 14.58,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique: Clear lines of financing for construction firms needed – president",
+      "summary": "Speaking during a meeting with the Mozambican Federation of Contractors (FME) in Maputo on Wednesday, Daniel Chapo, highlighted the importance of the construction industry to national development “In line with our vision for the restructuring of the economy, we believe the Federation plays an extremely important role,” he said, arguing that, as the economy shows positive signs, it is “extremely important to get domestic companies back on track” According to Chapo, the sector comprises around 1,200 contractors, a figure which, he said, highlights the economic significance of the activity and the need to create mechanisms to support its growth “There must be very clear lines of funding to nurture the domestic construction industry,” he declared He pointed out that the aim is for Mozambican companies to gain the capacity to compete beyond the country’s borders: “We want contractors who will one day leave Mozambique to build abroad and set the standard” The President also called for greater predictability in the State’s payments to companies in the sector, acknowledging the impact of…",
+      "why": "«Mozambique: Clear lines of financing for construction firms needed – president» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique: Clear lines of financing for construction firms needed – president», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-22T14:29:23+00:00",
+      "age_hours": 4.6,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-clear-lines-of-financing-for-construction-firms-needed-president/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -29,99 +90,9 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Held alongside the four-day Macau International Trade & Investment Fair (MIF), PLPEX is positioned to serve as a platform for fostering trade and investment between China and Portuguese-speaking countries The agreement brings together IEC International Supply Chain Group, a supply chain services platform, and Sichuan Shudao Urban Construction Group, a subsidiary of one of Sichuan’s largest state-owned enterprises Speaking in an interview with Macau News Agency (MNA), Wang Ying Wu, president of the supply chain group, said: “Many African countries are currently in a critical phase of infrastructure expansion and urban development, creating strong demand for large-scale construction projects.” Highlighting Macau’s role in the project, she added: “Macau occupies a unique position thanks to its international business environment and strategic advantages. «PLPEX facilitates China-Mozambique partnership for 12,000-unit housing project» helps explain a concrete economic or business change relevant to Moçambique. For «PLPEX facilitates China-Mozambique partnership for 12,000-unit housing project», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 16.81,
+      "detailed_summary": "Speaking during a meeting with the Mozambican Federation of Contractors (FME) in Maputo on Wednesday, Daniel Chapo, highlighted the importance of the construction industry to national development “In line with our vision for the restructuring of the economy, we believe the Federation plays an extremely important role,” he said, arguing that, as the economy shows positive signs, it is “extremely important to get domestic companies back on track” According to Chapo, the sector comprises around 1,200 contractors, a figure which, he said, highlights the economic significance of the activity and the need to create mechanisms to support its growth “There must be very clear lines of funding to nurture the domestic construction industry,” he declared He pointed out that the aim is for Mozambican companies to gain the capacity to compete beyond the country’s borders: “We want contractors who will one day leave Mozambique to build abroad and set the standard” The President also called for greater predictability in the State’s payments to companies in the sector, acknowledging the impact of… «Mozambique: Clear lines of financing for construction firms needed – president» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Clear lines of financing for construction firms needed – president», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 13.04,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "Mozambique: FAGENA brings science to the heart of the mining business",
-      "summary": "This was announced today (22) in Nacala-Porto, in the northern province of Nampula, by the Minister of Mineral Resources and Energy, Estevão Pale, during the opening of the gemstone and precious metals exhibition, which forms part of the eighth edition of the Nampula Annual Gemstone Fair (FAGENA 2026) and the first Conference on Adding Value to Available Mineral and Energy Resources (CAVAME-d) “Adding value begins with knowledge. That is why FAGENA does not end with the exhibition.",
-      "why": "«Mozambique: FAGENA brings science to the heart of the mining business» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Mozambique: FAGENA brings science to the heart of the mining business», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-22T13:51:08+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-fagena-brings-science-to-the-heart-of-the-mining-business/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "This was announced today (22) in Nacala-Porto, in the northern province of Nampula, by the Minister of Mineral Resources and Energy, Estevão Pale, during the opening of the gemstone and precious metals exhibition, which forms part of the eighth edition of the Nampula Annual Gemstone Fair (FAGENA 2026) and the first Conference on Adding Value to Available Mineral and Energy Resources (CAVAME-d) “Adding value begins with knowledge. That is why FAGENA does not end with the exhibition. «Mozambique: FAGENA brings science to the heart of the mining business» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique: FAGENA brings science to the heart of the mining business», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 15.9,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Is Iran ready for another major US attack after midterm elections?",
-      "summary": "Tehran has said its goal is to keep the regime functioning and threaten enough regional costs to make a prolonged campaign unattractive. US media reports indicate Washington is considering strikes after the midterms The prospect of another major US attack is shaping calculations in Tehran, where officials are preparing for renewed strikes According to US media reports, the US and Israel have been examining new options for strikes against Iran The approaching US midterm elections on November 3, and Israel's election next week, have injected a political factor into how both countries are approaching the conflict they launched in late February Polls show high energy prices brought on by the Iran war are hurting Trump's Republicans. On October 8, Trump posted on social media that the US would not attack Iran before the midterms, citing \"productive discussions\" with Tehran.",
-      "why": "«Is Iran ready for another major US attack after midterm elections?» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Is Iran ready for another major US attack after midterm elections?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-22T14:16:00+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Tehran has said its goal is to keep the regime functioning and threaten enough regional costs to make a prolonged campaign unattractive. US media reports indicate Washington is considering strikes after the midterms The prospect of another major US attack is shaping calculations in Tehran, where officials are preparing for renewed strikes According to US media reports, the US and Israel have been examining new options for strikes against Iran The approaching US midterm elections on November 3, and Israel's election next week, have injected a political factor into how both countries are approaching the conflict they launched in late February Polls show high energy prices brought on by the Iran war are hurting Trump's Republicans. On October 8, Trump posted on social media that the US would not attack Iran before the midterms, citing \"productive discussions\" with Tehran. «Is Iran ready for another major US attack after midterm elections?» matters because it may change energy and investment decisions affecting Mundo. For «Is Iran ready for another major US attack after midterm elections?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 13.98,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Are Europeans putting profits over human rights in Vietnam?",
-      "summary": "Europe and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi's human rights record, labor standards and trade imbalances Vietnam 's Communist Party chief and president, To Lam , arrived in Brussels on Wednesday for an official visit to the European Union (EU) and Belgium in another sign of a relationship that continues to grow The visit comes just days after Vietnam signed a free trade agreement with the European Free Trade Association (EFTA) , comprising Norway, Switzerland, Iceland and Liechtenstein Trade ties between Vietnam and Europe have deepened in recent years. The EU-Vietnam Free Trade Agreement (EVFTA), which took effect in August 2020 , substantially expanded Vietnam's commercial ties with most European states Amid global tariff wars, the EU-Vietnam relationship \"is a welcome advertisement for keeping markets open,\" Khac Giang Nguyen, a visiting fellow at the ISEAS–Yusof Ishak Institute in Singapore, told DW \"This is a win-win for both sides,\" he added.",
-      "why": "«Are Europeans putting profits over human rights in Vietnam?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Are Europeans putting profits over human rights in Vietnam?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-22T14:12:00+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/are-europeans-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Europe and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi's human rights record, labor standards and trade imbalances Vietnam 's Communist Party chief and president, To Lam , arrived in Brussels on Wednesday for an official visit to the European Union (EU) and Belgium in another sign of a relationship that continues to grow The visit comes just days after Vietnam signed a free trade agreement with the European Free Trade Association (EFTA) , comprising Norway, Switzerland, Iceland and Liechtenstein Trade ties between Vietnam and Europe have deepened in recent years. The EU-Vietnam Free Trade Agreement (EVFTA), which took effect in August 2020 , substantially expanded Vietnam's commercial ties with most European states Amid global tariff wars, the EU-Vietnam relationship \"is a welcome advertisement for keeping markets open,\" Khac Giang Nguyen, a visiting fellow at the ISEAS–Yusof Ishak Institute in Singapore, told DW \"This is a win-win for both sides,\" he added. «Are Europeans putting profits over human rights in Vietnam?» deserves attention because it may change political, diplomatic or security risks. For «Are Europeans putting profits over human rights in Vietnam?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 13.96,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -135,11 +106,11 @@
       "impact": "For «Commercial banks sign agreements aimed at funding small businesses», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "AIM News",
       "published": "2026-10-22T09:09:14+00:00",
-      "age_hours": 5.2,
+      "age_hours": 9.9,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/22/commercial-banks-sign-agreements-aimed-at-funding-small-businesses/",
       "original_source": true,
-      "event_id": "evt-mocambique-007",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -149,8 +120,96 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 22 Oct (AIM) – Mozambican President Daniel Chapo has announced that six commercial banks have signed agreements to provide loans to small and medium-sized enterprises (SMEs) under the Mutual Guarantee Fund. The fund, now valued at 120 million US dollars, is designed to facilitate access to credit for businesses that lack sufficient assets to secure bank loans. With support from the World Bank, the government provides guarantees to banks and assumes part of the risk if beneficiary businesses default on their repayments. “We are talking about a fund that now stands at 120 million US dollars. We stress the importance of expanding financing opportunities for businesses led by women, which often face obstacles in accessing bank credit”, he said. Chapo said that his government was also reviewing legal instruments to facilitate the participation of domestic businesses, particularly those led by women, in the supply chains of major investment projects. «Commercial banks sign agreements aimed at funding small businesses» helps explain a concrete economic or business change relevant to Moçambique. For «Commercial banks sign agreements aimed at funding small businesses», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 13.92,
+      "editorial_score": 12.94,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+      "summary": "The US has pushed back on the IRGC's claims, dismissing them as an attempt to increase oil prices ahead of US elections",
+      "why": "«Iran says seven ships hit in Hormuz Strait, warns US of wider response» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Iran says seven ships hit in Hormuz Strait, warns US of wider response», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-22T17:58:04+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The US has pushed back on the IRGC's claims, dismissing them as an attempt to increase oil prices ahead of US elections. «Iran says seven ships hit in Hormuz Strait, warns US of wider response» matters because it may change energy and investment decisions affecting Mundo. For «Iran says seven ships hit in Hormuz Strait, warns US of wider response», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 12.77,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
+      "summary": "Almost all of the world’s shallow-water coral reefs are at risk of collapse by 2075, with climate change the biggest threat. A new study found that 96% of reef systems are critically endangered",
+      "why": "«96% of world's coral reefs face critical risk of collapse, IUCN warns» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «96% of world's coral reefs face critical risk of collapse, IUCN warns», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-22T18:18:00+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Almost all of the world’s shallow-water coral reefs are at risk of collapse by 2075, with climate change the biggest threat. A new study found that 96% of reef systems are critically endangered. «96% of world's coral reefs face critical risk of collapse, IUCN warns» deserves attention because it may change political, diplomatic or security risks. For «96% of world's coral reefs face critical risk of collapse, IUCN warns», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered",
+      "why": "«Race to update services' computer systems after cyber-security flaw found» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Race to update services' computer systems after cyber-security flaw found», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-22T17:12:51+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered. «Race to update services' computer systems after cyber-security flaw found» deserves attention because it may change political, diplomatic or security risks. For «Race to update services' computer systems after cyber-security flaw found», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.6,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -164,11 +223,11 @@
       "impact": "For «Management of solar panel factory transferred to private company», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-22T07:22:37+00:00",
-      "age_hours": 7.0,
+      "age_hours": 11.7,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/22/management-of-solar-panel-factory-transferred-to-private-company/",
       "original_source": true,
-      "event_id": "evt-mocambique-008",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -178,127 +237,38 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 22 Oct (AIM) – The Mozambican government has decided to transfer the management of Beluluane solar panel factory, which was managed by the country’s Energy Fund (FUNAE), to the Emirati Company Jampur Group. According to FUNAE chairman, Mety Gondola, the measure is aimed at modernizing the factory, which is located in Boane district, southern province of Maputo. The measure will also increase the capacity to supply equipment for the electrification of communities, particularly in rural areas. The management transfer was formalized on Wednesday through the signing of an agreement between the FUNAE and Jampur Group. Gondola explained that the decision to transfer management to the private sector stems, among other factors, from technological limitations that have constrained the industrial unit’s production capacity and competitiveness. «Management of solar panel factory transferred to private company» matters because it may change energy and investment decisions affecting Moçambique. For «Management of solar panel factory transferred to private company», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 12.54,
+      "editorial_score": 11.56,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
-      "summary": "Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route",
-      "why": "«Yemenis face severe shortages in Taiz amid Houthi blockade» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Yemenis face severe shortages in Taiz amid Houthi blockade», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-22T13:42:26+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route. «Yemenis face severe shortages in Taiz amid Houthi blockade» is worth following because of its possible economic, institutional or regional effects. For «Yemenis face severe shortages in Taiz amid Houthi blockade», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.85,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
-      "summary": "With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest",
-      "why": "«Outposts, violence, impunity: The anatomy of Israeli settler land grabs» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Outposts, violence, impunity: The anatomy of Israeli settler land grabs», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-22T13:33:27+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest. «Outposts, violence, impunity: The anatomy of Israeli settler land grabs» is worth following because of its possible economic, institutional or regional effects. For «Outposts, violence, impunity: The anatomy of Israeli settler land grabs», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.83,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Two European women held captive for more than a year in Niger freed in Libya",
-      "summary": "Eva Greztmacher, 76, had spent many years in Niger as an aid worker Two women - a Swiss and an Austrian – have been freed after more than a year in captivity in Niger and handed over to authorities in the Libyan city of Benghazi Austrian national Eva Gretzmacher, 76, and Swiss Claudia Abbt, 69, were kidnapped separately in the northern Nigerien city of Agadez in January and April last year No details have been given about who was holding them or their demands, although some reports have previously linked the kidnapping to Islamic State militants. The circumstances of their release were not disclosed The Austrian and Swiss governments have both confirmed the release of their citizens The Swiss government said Abbt was free and on her way back to Switzerland, while Austria said Gretzmacher had been released after \"intensive diplomatic efforts\" \"We are all very relieved that Eva G. is free again after more than 21 months... For many months, we worked closely, discreetly, and in a spirit of trust with our regional, European, and international partners.",
-      "why": "«Two European women held captive for more than a year in Niger freed in Libya» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Two European women held captive for more than a year in Niger freed in Libya», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-22T13:22:39+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Eva Greztmacher, 76, had spent many years in Niger as an aid worker Two women - a Swiss and an Austrian – have been freed after more than a year in captivity in Niger and handed over to authorities in the Libyan city of Benghazi Austrian national Eva Gretzmacher, 76, and Swiss Claudia Abbt, 69, were kidnapped separately in the northern Nigerien city of Agadez in January and April last year No details have been given about who was holding them or their demands, although some reports have previously linked the kidnapping to Islamic State militants. The circumstances of their release were not disclosed The Austrian and Swiss governments have both confirmed the release of their citizens The Swiss government said Abbt was free and on her way back to Switzerland, while Austria said Gretzmacher had been released after \"intensive diplomatic efforts\" \"We are all very relieved that Eva G. is free again after more than 21 months... For many months, we worked closely, discreetly, and in a spirit of trust with our regional, European, and international partners. «Two European women held captive for more than a year in Niger freed in Libya» is worth following because of its possible economic, institutional or regional effects. For «Two European women held captive for more than a year in Niger freed in Libya», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.79,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "África",
       "tags": [
-        "Energia",
-        "Economia",
         "Segurança"
       ],
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "summary": "Ameth Bek Hospital in Abyei town has been treating people wounded in Monday's attack on the market Sudan's army has been accused of launching several drone strikes that have reportedly killed more than 300 people, including dozens travelling to a funeral The death toll from strikes in two areas of West Kordofan state on Sunday evening was 150, sources told the Sudan War Observatory, which tracks the conflict that erupted in 2023 between the army and the paramilitary Rapid Support Forces (RSF) In Abyei, a disputed border area between Sudan and South Sudan, 153 people were killed when drones hit a market on Monday, the region's information minister said A military source told the BBC the army had carried out the Abyei attack, saying the market was a fuel supply site for the RSF The attack has raised tensions between South Sudan and Sudan, which jointly administer Abyei, as they both claim ownership to the oil-rich region in a dispute that has remained unresolved since South Sudan ceded in 2011 South Sudan has summoned Sudan's ambassador to lodge a formal protest.",
-      "why": "«Sudan army drones hit mourners and fuel market killing more than 300 people, sources say» matters because it may change energy and investment decisions affecting África.",
-      "impact": "For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "source": "BBC Africa",
-      "published": "2026-10-20T17:30:15+00:00",
-      "age_hours": 44.9,
-      "within_24h": false,
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+      "title": "Italy and Spain lift border controls after months of tension over Ceuta",
+      "summary": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc",
+      "why": "«Italy and Spain lift border controls after months of tension over Ceuta» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Italy and Spain lift border controls after months of tension over Ceuta», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-22T16:04:21+00:00",
+      "age_hours": 3.0,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "BBC Africa"
+        "Al Jazeera English"
       ],
-      "primary_source": "BBC Africa",
-      "status": "update",
+      "primary_source": "Al Jazeera English",
+      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Ameth Bek Hospital in Abyei town has been treating people wounded in Monday's attack on the market Sudan's army has been accused of launching several drone strikes that have reportedly killed more than 300 people, including dozens travelling to a funeral The death toll from strikes in two areas of West Kordofan state on Sunday evening was 150, sources told the Sudan War Observatory, which tracks the conflict that erupted in 2023 between the army and the paramilitary Rapid Support Forces (RSF) In Abyei, a disputed border area between Sudan and South Sudan, 153 people were killed when drones hit a market on Monday, the region's information minister said A military source told the BBC the army had carried out the Abyei attack, saying the market was a fuel supply site for the RSF The attack has raised tensions between South Sudan and Sudan, which jointly administer Abyei, as they both claim ownership to the oil-rich region in a dispute that has remained unresolved since South Sudan ceded in 2011 South Sudan has summoned Sudan's ambassador to lodge a formal protest. «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say» matters because it may change energy and investment decisions affecting África. For «Sudan army drones hit mourners and fuel market killing more than 300 people, sources say», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 7.85,
+      "detailed_summary": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc. «Italy and Spain lift border controls after months of tension over Ceuta» deserves attention because it may change political, diplomatic or security risks. For «Italy and Spain lift border controls after months of tension over Ceuta», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 11.38,
       "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
+      "editorial_status": "HOJE"
     },
     {
       "section": "África",
@@ -311,7 +281,7 @@
       "impact": "For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-10-21T09:55:15+00:00",
-      "age_hours": 28.5,
+      "age_hours": 33.2,
       "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -325,7 +295,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "Nearly 5,000 healthcare workers have been trained to deal with Ebola Kenya is grappling with its first ever outbreak of Ebola, a disease which neighbouring countries, such as Uganda and Democratic Republic of Congo, are used to dealing with Nine cases have now been confirmed including its first patient, who travelled from DR Congo and died two weeks ago Four relatives of the first victim, three health workers and a hospital cleaner have now tested positive, meaning they are all linked to him But concerns are rising that the virus could start spreading further, even as the government has sought to assure citizens The US has warned it citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert Kenyans have been expressing their concerns that the disease could spread more widely More than 4,000 people have died since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according… «Is Ebola under control in Kenya after nine cases confirmed?» deserves attention because it may change political, diplomatic or security risks. For «Is Ebola under control in Kenya after nine cases confirmed?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 7.36,
+      "editorial_score": 7.21,
       "source_tier": "A",
       "editorial_status": "ACTUALIZAÇÃO"
     }
@@ -351,7 +321,7 @@
   "section_counts": {
     "Moçambique": 4,
     "África": 2,
-    "Mundo": 5
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

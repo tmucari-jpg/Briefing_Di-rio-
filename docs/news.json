@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T14:23:55.243640+00:00",
+  "updated_at": "2026-10-22T19:04:48.372829+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -10,17 +10,104 @@
       "tags": [
         "Energia"
       ],
-      "title": "Cabo Delgado despede-se do sonorizador Samuel António",
-      "summary": "Colegas de profissão, amigos, jornalistas e familiares despedem-se, esta tarde, de Samuel António, sonorizador da Rádio Moçambique (RM) afecto ao Emissor Provincial de Cabo Delgado, que morreu, ontem, vítima de doença. A cerimónia fúnebre está prevista para esta tarde no cemitério local da aldeia de Mesa, no distrito de Ancuabe, província de Cabo Delgado, onde os participantes vão prestar a última homenagem ao profissional. A morte de Samuel António representa uma perda para os seus familiares, amigos e colegas de trabalho, que se juntam hoje para assinalar a sua partida e lhe prestar o último adeus. Leia mais… O conteúdo Cabo Delgado despede-se do sonorizador Samuel António aparece primeiro em Jornal Notícias",
-      "why": "«Cabo Delgado despede-se do sonorizador Samuel António» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Cabo Delgado despede-se do sonorizador Samuel António», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-22T14:01:27+00:00",
-      "age_hours": 0.4,
+      "title": "Coordenar para reduzir custos de exportação",
+      "summary": "Nacala-Porto, 22 Out (AIM) – A Twigg Exploration & Mining Limitada defende a criação de uma plataforma de diálogo entre produtores, exportadores, alfândegas, portos e linhas de navegação, para harmonizar procedimentos e reduzir custos e demora no processo de exportação em Moçambique. De acordo com Laura Mateus, representante da empresa que opera a mina de grafite natural de Balama, na província nortenha de Cabo Delgado, uma das maiores do mundo, tem de se garantir que todos os intervenientes estejam alinhados. “Eu acredito que tem de haver uma plataforma de conversa entre esses intervenientes todos, para garantir que todos nós saibamos quais são as necessidades de cada um, para que o nosso processo [de produção e comercialização] esteja alinhado”, afirmou.",
+      "why": "«Coordenar para reduzir custos de exportação» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Coordenar para reduzir custos de exportação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-22T17:52:20+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/cabo-delgado-despede-se-do-sonorizador-samuel-antonio/",
+      "link": "https://aimnews.org/2026/10/22/coordenar-para-reduzir-custos-de-exportacao/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Nacala-Porto, 22 Out (AIM) – A Twigg Exploration & Mining Limitada defende a criação de uma plataforma de diálogo entre produtores, exportadores, alfândegas, portos e linhas de navegação, para harmonizar procedimentos e reduzir custos e demora no processo de exportação em Moçambique. De acordo com Laura Mateus, representante da empresa que opera a mina de grafite natural de Balama, na província nortenha de Cabo Delgado, uma das maiores do mundo, tem de se garantir que todos os intervenientes estejam alinhados. “Eu acredito que tem de haver uma plataforma de conversa entre esses intervenientes todos, para garantir que todos nós saibamos quais são as necessidades de cada um, para que o nosso processo [de produção e comercialização] esteja alinhado”, afirmou. «Coordenar para reduzir custos de exportação» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Coordenar para reduzir custos de exportação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.75,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica",
+      "summary": "O antigo Presidente da República, Joaquim Chissano, explica que a escolha de Roma para as negociações tendo em vista a Assinatura do Acordo Geral de Paz (AGP) entre a Frelimo e Renamo foi estratégica, uma vez que em Moçambique não havia condições devido à guerra. Falando no contexto da celebração do seu aniversário, o antigo […]",
+      "why": "«Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-22T17:51:37+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://opais.co.mz/escolha-de-roma-para-assinatura-do-agp-foi-estrategica/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O antigo Presidente da República, Joaquim Chissano, explica que a escolha de Roma para as negociações tendo em vista a Assinatura do Acordo Geral de Paz (AGP) entre a Frelimo e Renamo foi estratégica, uma vez que em Moçambique não havia condições devido à guerra. Falando no contexto da celebração do seu aniversário, o antigo […]. «Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Escolha de Roma para assinatura do Acordo Geral de Paz foi estratégica», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.75,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%",
+      "summary": "A Associação Industrial de Moçambique (AIMO) e a Energy Works, empresa especializada em consultoria e apoio técnico na implementação de sistemas de gestão, lançaram, esta quinta-feira (22), em Maputo, a […]",
+      "why": "«AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-22T15:45:00+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/22/negocios/empresas/aimo-e-energy-works-lancam-programa-de-certificacao-iso-com-desconto-de-10/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A Associação Industrial de Moçambique (AIMO) e a Energy Works, empresa especializada em consultoria e apoio técnico na implementação de sistemas de gestão, lançaram, esta quinta-feira (22), em Maputo, a […]. «AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.31,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Frelimo avalia situação do país",
+      "summary": "A Comissão Política da Frelimo reuniu-se ontem em Maputo, sob a direcção do Presidente desta formação e da República, Daniel Chapo, para avaliar a situação política, económica e social do país, bem como a dinâmica e o funcionamento do partido. Reunidos na sua 76ª sessão ordinária, a Frelimo exaltou a obra e o legado histórico de luta de Samora Moisés Machel, na construção da nação moçambicana, no âmbito da passagem dos 40 anos da sua morte, ocorrida a 19 de Outubro de 1986, na localidade de Mbuzini, na África do Sul. Na sessão dirigida pelo Presidente da Frelimo e da República, Daniel Chapo, debruçou-se ainda sobre acção governativa, trabalho político nacional e internacional, desempenho da bancada parlamentar e das desempenho das Forças de Defesa e Segurança. O conteúdo Frelimo avalia situação do país aparece primeiro em Jornal Notícias",
+      "why": "«Frelimo avalia situação do país» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Frelimo avalia situação do país», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-22T14:30:23+00:00",
+      "age_hours": 4.6,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/frelimo-avalia-situacao-do-pais/",
+      "original_source": true,
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -29,8 +116,37 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Colegas de profissão, amigos, jornalistas e familiares despedem-se, esta tarde, de Samuel António, sonorizador da Rádio Moçambique (RM) afecto ao Emissor Provincial de Cabo Delgado, que morreu, ontem, vítima de doença. A cerimónia fúnebre está prevista para esta tarde no cemitério local da aldeia de Mesa, no distrito de Ancuabe, província de Cabo Delgado, onde os participantes vão prestar a última homenagem ao profissional. A morte de Samuel António representa uma perda para os seus familiares, amigos e colegas de trabalho, que se juntam hoje para assinalar a sua partida e lhe prestar o último adeus. Leia mais… O conteúdo Cabo Delgado despede-se do sonorizador Samuel António aparece primeiro em Jornal Notícias. «Cabo Delgado despede-se do sonorizador Samuel António» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Cabo Delgado despede-se do sonorizador Samuel António», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.92,
+      "detailed_summary": "A Comissão Política da Frelimo reuniu-se ontem em Maputo, sob a direcção do Presidente desta formação e da República, Daniel Chapo, para avaliar a situação política, económica e social do país, bem como a dinâmica e o funcionamento do partido. Reunidos na sua 76ª sessão ordinária, a Frelimo exaltou a obra e o legado histórico de luta de Samora Moisés Machel, na construção da nação moçambicana, no âmbito da passagem dos 40 anos da sua morte, ocorrida a 19 de Outubro de 1986, na localidade de Mbuzini, na África do Sul. Na sessão dirigida pelo Presidente da Frelimo e da República, Daniel Chapo, debruçou-se ainda sobre acção governativa, trabalho político nacional e internacional, desempenho da bancada parlamentar e das desempenho das Forças de Defesa e Segurança. O conteúdo Frelimo avalia situação do país aparece primeiro em Jornal Notícias. «Frelimo avalia situação do país» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Frelimo avalia situação do país», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.04,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "INNOQ reforça fiscalização do peso do pão",
+      "summary": "O INNOQ anunciou o reforço da fiscalização do peso do pão em Moçambique, exigindo balanças verificadas e advertindo sobre sanções para os estabelecimentos que não cumpram a legislação. Assim, os estabelecimentos são obrigados a disponibilizar balanças verificadas aos consumidores. Em comunicado, o INNOQ indica que a medida visa assegurar o cumprimento da legislação metrológica e […]",
+      "why": "«INNOQ reforça fiscalização do peso do pão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «INNOQ reforça fiscalização do peso do pão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-22T18:00:02+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://opais.co.mz/innoq-reforca-fiscalizacao-do-peso-do-pao/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O INNOQ anunciou o reforço da fiscalização do peso do pão em Moçambique, exigindo balanças verificadas e advertindo sobre sanções para os estabelecimentos que não cumpram a legislação. Assim, os estabelecimentos são obrigados a disponibilizar balanças verificadas aos consumidores. Em comunicado, o INNOQ indica que a medida visa assegurar o cumprimento da legislação metrológica e […]. «INNOQ reforça fiscalização do peso do pão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «INNOQ reforça fiscalização do peso do pão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 12.77,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -39,15 +155,15 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Rússia e Ucrânia trocam ataques durante a madrugada",
-      "summary": "A diplomacia diz que o fim da guerra está mais perto. Mas houve oito mortos em mais uma noite de ataques russos e ucranianos",
-      "why": "«Rússia e Ucrânia trocam ataques durante a madrugada» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Rússia e Ucrânia trocam ataques durante a madrugada», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Guterres alerta para onda global de protestos devido ao custo de vida",
+      "summary": "O secretário-geral das Nações Unidas, António Guterres, alertou hoje para uma onda mundial de protestos provocada pelo aumento do custo de vida e agravada pelos conflitos internacionais, apelando aos governos para combaterem desigualdades Numa declaração aos jornalistas, Guterres afirmou que, da Europa aos países em desenvolvimento, milhões de pessoas enfrentam uma crise persistente do custo de vida, marcada pela subida dos preços dos alimentos, combustíveis e outros bens essenciais O secretário-geral das Nações Unidas destacou também o aumento das taxas de juro, que afeta tanto as famílias como os Estados, e a deterioração das perspetivas económicas das gerações mais jovens Segundo Guterres, a frustração acumulada está a transformar-se numa vaga de manifestações em vários continentes, com os cidadãos a exigirem respostas das autoridades Em França, os protestos dos últimos dias provocaram pelo menos dois mortos, mais de duas mil detenções, pilhagens generalizadas e a imposição de recolheres obrigatórios localizados em cidades como Paris, Lyon e Marselha Em Portugal e Espanha…",
+      "why": "«Guterres alerta para onda global de protestos devido ao custo de vida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Guterres alerta para onda global de protestos devido ao custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-22T13:46:47+00:00",
-      "age_hours": 0.6,
+      "published": "2026-10-22T19:03:34+00:00",
+      "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/russia-e-ucrania-trocam-ataques-durante-a-madrugada_v1773513",
+      "link": "https://www.rtp.pt/noticias/mundo/guterres-alerta-para-onda-global-de-protestos-devido-ao-custo-de-vida_n1773581",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -58,8 +174,8 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A diplomacia diz que o fim da guerra está mais perto. Mas houve oito mortos em mais uma noite de ataques russos e ucranianos. «Rússia e Ucrânia trocam ataques durante a madrugada» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia e Ucrânia trocam ataques durante a madrugada», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.88,
+      "detailed_summary": "O secretário-geral das Nações Unidas, António Guterres, alertou hoje para uma onda mundial de protestos provocada pelo aumento do custo de vida e agravada pelos conflitos internacionais, apelando aos governos para combaterem desigualdades Numa declaração aos jornalistas, Guterres afirmou que, da Europa aos países em desenvolvimento, milhões de pessoas enfrentam uma crise persistente do custo de vida, marcada pela subida dos preços dos alimentos, combustíveis e outros bens essenciais O secretário-geral das Nações Unidas destacou também o aumento das taxas de juro, que afeta tanto as famílias como os Estados, e a deterioração das perspetivas económicas das gerações mais jovens Segundo Guterres, a frustração acumulada está a transformar-se numa vaga de manifestações em vários continentes, com os cidadãos a exigirem respostas das autoridades Em França, os protestos dos últimos dias provocaram pelo menos dois mortos, mais de duas mil detenções, pilhagens generalizadas e a imposição de recolheres obrigatórios localizados em cidades como Paris, Lyon e Marselha Em Portugal e Espanha… «Guterres alerta para onda global de protestos devido ao custo de vida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Guterres alerta para onda global de protestos devido ao custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -68,160 +184,15 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Macron reúne o Conselho de Defesa e Segurança Nacional",
-      "summary": "Depois dos distúrbios violentos do último fim de semana e a ameaça do regresso das manifestações. Emmanuel Macron, regressado do Médio Oriente, convocou para esta manhã o Conselho de Defesa e Segurança Nacional",
-      "why": "«Macron reúne o Conselho de Defesa e Segurança Nacional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Macron reúne o Conselho de Defesa e Segurança Nacional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-22T11:04:08+00:00",
-      "age_hours": 3.3,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/macron-reune-o-conselho-de-defesa-e-seguranca-nacional_n1773473",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Depois dos distúrbios violentos do último fim de semana e a ameaça do regresso das manifestações. Emmanuel Macron, regressado do Médio Oriente, convocou para esta manhã o Conselho de Defesa e Segurança Nacional. «Macron reúne o Conselho de Defesa e Segurança Nacional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Macron reúne o Conselho de Defesa e Segurança Nacional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.31,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Saize reforça acesso a serviços de Justiça em Manica",
-      "summary": "O ministro da Justiça, Assuntos Constitucionais e Religiosos, Mateus Saize, efectua a partir hoje (22 até 24 de Outubro), uma visita de trabalho à província de Manica, com o objectivo de impulsionar a expansão e a modernização da rede de infra-estruturas do sector, através do lançamento de iniciativas de edificação de Conservatórias Distritais e da entrega de instalações destinadas ao melhorar a prestação de serviços. A iniciativa enquadra-se nos esforços do Governo de descentralização e expansão dos serviços públicos, com vista a facilitar o acesso ao registo civil, aos actos notariais e a outros serviços essenciais à garantia dos direitos e à segurança jurídica dos cidadãos. No decurso da visita, o governante vai lançar as obras de construção das conservatórias distritais de Gondola, Macate e Sussundenga. De acordo com o comunicado de imprensa, consta ainda da agenda a entrega de infra-estruturas, acções estas que representam um passo importante no reforço da presença institucional do sector de Justiça ao nível local.",
-      "why": "«Saize reforça acesso a serviços de Justiça em Manica» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Saize reforça acesso a serviços de Justiça em Manica», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-22T14:15:56+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/saize-reforca-acesso-a-servicos-de-justica-em-manica/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O ministro da Justiça, Assuntos Constitucionais e Religiosos, Mateus Saize, efectua a partir hoje (22 até 24 de Outubro), uma visita de trabalho à província de Manica, com o objectivo de impulsionar a expansão e a modernização da rede de infra-estruturas do sector, através do lançamento de iniciativas de edificação de Conservatórias Distritais e da entrega de instalações destinadas ao melhorar a prestação de serviços. A iniciativa enquadra-se nos esforços do Governo de descentralização e expansão dos serviços públicos, com vista a facilitar o acesso ao registo civil, aos actos notariais e a outros serviços essenciais à garantia dos direitos e à segurança jurídica dos cidadãos. No decurso da visita, o governante vai lançar as obras de construção das conservatórias distritais de Gondola, Macate e Sussundenga. De acordo com o comunicado de imprensa, consta ainda da agenda a entrega de infra-estruturas, acções estas que representam um passo importante no reforço da presença institucional do sector de Justiça ao nível local. «Saize reforça acesso a serviços de Justiça em Manica» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Saize reforça acesso a serviços de Justiça em Manica», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 10.98,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mercado Central de Quelimane com melhores condições de conservação de produtos",
-      "summary": "As infra-estruturas inauguradas representam uma mudança nas condições de trabalho de centenas de comerciantes, que agora dispõem de cerca de 300 bancas, melhores condições de conservação dos produtos e maior protecção contra o sol e a chuva. O investimento ultrapassa 44 milhões de meticais, com financiamento da GAIN, proveniente de fundos da Noruega. As novas […]",
-      "why": "«Mercado Central de Quelimane com melhores condições de conservação de produtos» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Mercado Central de Quelimane com melhores condições de conservação de produtos», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "O País",
-      "published": "2026-10-22T13:02:42+00:00",
-      "age_hours": 1.3,
-      "within_24h": true,
-      "link": "https://opais.co.mz/mercado-central-de-quelimane-com-melhores-condicoes-de-conservacao-de-produtos/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "As infra-estruturas inauguradas representam uma mudança nas condições de trabalho de centenas de comerciantes, que agora dispõem de cerca de 300 bancas, melhores condições de conservação dos produtos e maior protecção contra o sol e a chuva. O investimento ultrapassa 44 milhões de meticais, com financiamento da GAIN, proveniente de fundos da Noruega. As novas […]. «Mercado Central de Quelimane com melhores condições de conservação de produtos» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Mercado Central de Quelimane com melhores condições de conservação de produtos», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.73,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "FAGENA procura aproximar ciência e negócio mineiro",
-      "summary": "Nacala-Porto, 22 Out (AIM) – O Governo moçambicano pretende reforçar a ligação entre a investigação científica e a actividade mineira, promovendo o conhecimento geocientífico como instrumento para melhorar a prospecção, o processamento, a certificação e a comercialização de gemas e metais preciosos. O facto foi revelado hoje (22), em Nacala-Porto, província nortenha de Nampula, pelo ministro dos Recursos Minerais e Energia, Estêvão Pale, durante a abertura da exposição de gemas e metais preciosos, integrada na oitava edição da Feira Anual de Gemas de Nampula (FAGENA 2026) e na primeira Conferência de Adição de Valor aos Recursos Minerais e Energéticos Disponíveis (CAVAME-d). “A adição de valor começa no conhecimento. Por isso, a FAGENA não se esgota na exposição. Hoje e amanhã decorrerão sessões de comunicações científicas, que trazem a ciência para o centro do negócio mineiro”, sublinhou.",
-      "why": "«FAGENA procura aproximar ciência e negócio mineiro» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «FAGENA procura aproximar ciência e negócio mineiro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-22T12:07:47+00:00",
-      "age_hours": 2.3,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/22/fagena-procura-aproximar-ciencia-e-negocio-mineiro/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Nacala-Porto, 22 Out (AIM) – O Governo moçambicano pretende reforçar a ligação entre a investigação científica e a actividade mineira, promovendo o conhecimento geocientífico como instrumento para melhorar a prospecção, o processamento, a certificação e a comercialização de gemas e metais preciosos. O facto foi revelado hoje (22), em Nacala-Porto, província nortenha de Nampula, pelo ministro dos Recursos Minerais e Energia, Estêvão Pale, durante a abertura da exposição de gemas e metais preciosos, integrada na oitava edição da Feira Anual de Gemas de Nampula (FAGENA 2026) e na primeira Conferência de Adição de Valor aos Recursos Minerais e Energéticos Disponíveis (CAVAME-d). “A adição de valor começa no conhecimento. Por isso, a FAGENA não se esgota na exposição. Hoje e amanhã decorrerão sessões de comunicações científicas, que trazem a ciência para o centro do negócio mineiro”, sublinhou. «FAGENA procura aproximar ciência e negócio mineiro» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «FAGENA procura aproximar ciência e negócio mineiro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 10.52,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo",
-      "summary": "Matola, 22 Out (AIM) – O Presidente da República, Daniel Francisco Chapo, apelou às confissões religiosas para que contribuam activamente para o diálogo nacional inclusivo e a reconciliação entre os moçambicanos, através da promoção da paz, da tolerância e da resolução pacífica de conflitos. O Presidente assim se pronunciou na abertura oficial hoje (22), na cidade da Matola, da Conferência Nacional Inter-religiosa, evento que decorreu sob o lema “Clamando por 50 vezes 50 anos de paz”, e que juntou líderes religiosos, representantes de partidos políticos e organizações da sociedade civil. “Não sejam apenas observadores do diálogo nacional inclusivo. Sejam promotores activos da cultura de diálogo que o país necessita”, afirmou Chapo que destacou o papel das instituições religiosas na aproximação entre as comunidades e no reforço da confiança entre os cidadãos.",
-      "why": "«Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-22T12:46:30+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/22/sejam-promotores-activos-da-cultura-de-dialogo-e-reconciliacao-nacional-chapo/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Matola, 22 Out (AIM) – O Presidente da República, Daniel Francisco Chapo, apelou às confissões religiosas para que contribuam activamente para o diálogo nacional inclusivo e a reconciliação entre os moçambicanos, através da promoção da paz, da tolerância e da resolução pacífica de conflitos. O Presidente assim se pronunciou na abertura oficial hoje (22), na cidade da Matola, da Conferência Nacional Inter-religiosa, evento que decorreu sob o lema “Clamando por 50 vezes 50 anos de paz”, e que juntou líderes religiosos, representantes de partidos políticos e organizações da sociedade civil. “Não sejam apenas observadores do diálogo nacional inclusivo. Sejam promotores activos da cultura de diálogo que o país necessita”, afirmou Chapo que destacou o papel das instituições religiosas na aproximação entre as comunidades e no reforço da confiança entre os cidadãos. «Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Sejam promotores activos da cultura de diálogo e reconciliação nacional – Chapo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 9.67,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão",
-      "summary": "Os países do Golfo e todo o Médio Oriente preparam‑se para uma possível retoma das hostilidades na guerra com o Irão, numa altura em que se multiplicam avisos oficiais e relatos mediáticos cada vez mais detalhados, acompanhados por um vasto reforço militar dos Estados Unidos no Golfo e pelas forças israelitas e iranianas em estado de máxima alerta, alimentando receios de uma escalada iminente com consequências devastadoras para a região.Num contexto de crescente especulação, nas últimas semanas, de que os Estados Unidos e Israel possam lançar um novo ataque contra o Irão antes ou depois das intercalares norte‑americanas e das eleições da próxima semana em Israel, um novo alerta de viagem do Departamento de Estado dos EUA, emitido na noite de quarta‑feira, foi divulgado pelas agências noticiosas e pelos meios de comunicação como um sinal urgente da possível reativação da guerra, com os países do Golfo a suportarem o peso de um conflito potencialmente mais amplo.O Departamento de Estado dos EUA anunciou que ordenou a saída da Arábia Saudita de funcionários não essenciais do governo…",
-      "why": "«Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos",
+      "summary": "Art Basel Paris reúne galerias internacionais e artistas contemporâneos no Grand Palais. Após protestos violentos na capital, organizadores reforçam a segurança na feira de arte",
+      "why": "«França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-22T13:20:11+00:00",
-      "age_hours": 1.1,
+      "published": "2026-10-22T15:16:02+00:00",
+      "age_hours": 3.8,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/22/paises-do-golfo-preparam-se-para-possivel-regresso-a-guerra-total-entre-os-eua-e-o-irao",
+      "link": "https://pt.euronews.com/video/2026/10/22/franca-artistas-e-colecionadores-reunem-se-na-art-basel-paris-apesar-de-protestos",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -232,27 +203,27 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Os países do Golfo e todo o Médio Oriente preparam‑se para uma possível retoma das hostilidades na guerra com o Irão, numa altura em que se multiplicam avisos oficiais e relatos mediáticos cada vez mais detalhados, acompanhados por um vasto reforço militar dos Estados Unidos no Golfo e pelas forças israelitas e iranianas em estado de máxima alerta, alimentando receios de uma escalada iminente com consequências devastadoras para a região.Num contexto de crescente especulação, nas últimas semanas, de que os Estados Unidos e Israel possam lançar um novo ataque contra o Irão antes ou depois das intercalares norte‑americanas e das eleições da próxima semana em Israel, um novo alerta de viagem do Departamento de Estado dos EUA, emitido na noite de quarta‑feira, foi divulgado pelas agências noticiosas e pelos meios de comunicação como um sinal urgente da possível reativação da guerra, com os países do Golfo a suportarem o peso de um conflito potencialmente mais amplo.O Departamento de Estado dos EUA anunciou que ordenou a saída da Arábia Saudita de funcionários não essenciais do governo… «Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Países do Golfo preparam-se para possível regresso à guerra total entre os EUA e o Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.77,
+      "detailed_summary": "Art Basel Paris reúne galerias internacionais e artistas contemporâneos no Grand Palais. Após protestos violentos na capital, organizadores reforçam a segurança na feira de arte. «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.21,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Itália: protestos de camionistas deixam prateleiras vazias no sul",
-      "summary": "Protestos de camionistas contra os preços elevados dos combustíveis estão a afetar entregas a supermercados no sul de Itália, deixando prateleiras parcialmente vazias e alguns postos de combustível sem carburante",
-      "why": "«Itália: protestos de camionistas deixam prateleiras vazias no sul» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Itália: protestos de camionistas deixam prateleiras vazias no sul», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim",
+      "summary": "Robôs humanóides, máquinas inteligentes e supercomputadores dominam evento da Nvidia em Berlim; Jensen Huang prevê economia de IA em expansão na Europa",
+      "why": "«Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Euronews Português",
-      "published": "2026-10-22T11:02:08+00:00",
-      "age_hours": 3.4,
+      "published": "2026-10-22T15:02:44+00:00",
+      "age_hours": 4.0,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/22/italia-protestos-de-camionistas-deixam-prateleiras-vazias-no-sul",
+      "link": "https://pt.euronews.com/video/2026/10/22/alemanha-robos-humanoides-e-supercomputadores-de-ia-em-destaque-em-berlim",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -261,38 +232,9 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Protestos de camionistas contra os preços elevados dos combustíveis estão a afetar entregas a supermercados no sul de Itália, deixando prateleiras parcialmente vazias e alguns postos de combustível sem carburante. «Itália: protestos de camionistas deixam prateleiras vazias no sul» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Itália: protestos de camionistas deixam prateleiras vazias no sul», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 8.29,
+      "detailed_summary": "Robôs humanóides, máquinas inteligentes e supercomputadores dominam evento da Nvidia em Berlim; Jensen Huang prevê economia de IA em expansão na Europa. «Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 8.17,
       "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Mais de 150 mortos em Abyei. Ataque na fronteira Sudão-Sudão do Sul",
-      "summary": "Mais de 150 pessoas morreram num ataque com drones contra um mercado em Abyei, região rica em petróleo e reinvindicada tanto pelo Sudão como pelo Sudão do Sul. As autoridades sul-sudanesas acusam o exército sudanês de ter lançado o ataque. Um depósito de combustível foi atingido provocando um incêndio que continua a dificultar a recuperação dos corpos",
-      "why": "«Mais de 150 mortos em Abyei. Ataque na fronteira Sudão-Sudão do Sul» merece atenção porque pode alterar decisões de energia e investimento em África.",
-      "impact": "No caso de «Mais de 150 mortos em Abyei. Ataque na fronteira Sudão-Sudão do Sul», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "source": "RTP Notícias",
-      "published": "2026-10-21T15:46:47+00:00",
-      "age_hours": 22.6,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/mais-de-150-mortos-em-abyei-ataque-na-fronteira-sudao-sudao-do-sul_v1773273",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Mais de 150 pessoas morreram num ataque com drones contra um mercado em Abyei, região rica em petróleo e reinvindicada tanto pelo Sudão como pelo Sudão do Sul. As autoridades sul-sudanesas acusam o exército sudanês de ter lançado o ataque. Um depósito de combustível foi atingido provocando um incêndio que continua a dificultar a recuperação dos corpos. «Mais de 150 mortos em Abyei. Ataque na fronteira Sudão-Sudão do Sul» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Mais de 150 mortos em Abyei. Ataque na fronteira Sudão-Sudão do Sul», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "editorial_score": 6.29,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     }
   ],
@@ -316,8 +258,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
-    "Mundo": 4
+    "África": 0,
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
