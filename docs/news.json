@@ -1,10 +1,68 @@
 {
-  "updated_at": "2026-10-23T18:54:41.871846+00:00",
+  "updated_at": "2026-10-23T21:53:48.396289+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Ministro da Educacao desafia graduados da USTM a aplicar conhecimento académico",
+      "summary": "Maputo, 23 de Outubro (AIM) — O Ministro da Educação e Cultura, Edson Macuácua, desafiou os graduados da Universidade São Tomás de Moçambique (USTM) a aplicar os conhecimentos adquiridos na formação superior na transformação dos recursos nacionais em riqueza, na modernização dos sectores produtivos e na resolução dos problemas que afectam as comunidades. Defendeu que o ensino universitário deve produzir resultados concretos para o desenvolvimento do país. Falando esta sexta-feira, por ocasião da XIV Cerimónia de Graduação da USTM, Macuácua afirmou que o conhecimento adquirido nas instituições de ensino superior não deve ter um carácter meramente teórico, mas contribuir para impulsionar a agricultura, modernizar a indústria, melhorar a gestão e promover a digitalização dos serviços. O governante apontou a necessidade de alinhar a investigação científica e a formação académica com os desafios enfrentados pela população, destacando questões como as mudanças climáticas, a segurança alimentar, a saúde pública e a inclusão social.",
+      "why": "«Ministro da Educacao desafia graduados da USTM a aplicar conhecimento académico» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Ministro da Educacao desafia graduados da USTM a aplicar conhecimento académico», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-23T20:30:10+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/23/ministro-da-educacao-desafia-graduados-da-ustm-a-aplicar-conhecimento-academico/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 23 de Outubro (AIM) — O Ministro da Educação e Cultura, Edson Macuácua, desafiou os graduados da Universidade São Tomás de Moçambique (USTM) a aplicar os conhecimentos adquiridos na formação superior na transformação dos recursos nacionais em riqueza, na modernização dos sectores produtivos e na resolução dos problemas que afectam as comunidades. Defendeu que o ensino universitário deve produzir resultados concretos para o desenvolvimento do país. Falando esta sexta-feira, por ocasião da XIV Cerimónia de Graduação da USTM, Macuácua afirmou que o conhecimento adquirido nas instituições de ensino superior não deve ter um carácter meramente teórico, mas contribuir para impulsionar a agricultura, modernizar a indústria, melhorar a gestão e promover a digitalização dos serviços. O governante apontou a necessidade de alinhar a investigação científica e a formação académica com os desafios enfrentados pela população, destacando questões como as mudanças climáticas, a segurança alimentar, a saúde pública e a inclusão social. «Ministro da Educacao desafia graduados da USTM a aplicar conhecimento académico» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Ministro da Educacao desafia graduados da USTM a aplicar conhecimento académico», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.71,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Guerra na Ucrânia. Tréguas declaradas em Oleshky por razões humanitárias",
+      "summary": "Moscovo e Kiev concordaram pela primeira vez desde o início da guerra a fazer um cessar-fogo por razões humanitárias numa cidade ucraniana ocupada por forças russas",
+      "why": "«Guerra na Ucrânia. Tréguas declaradas em Oleshky por razões humanitárias» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Guerra na Ucrânia. Tréguas declaradas em Oleshky por razões humanitárias», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-23T20:55:48+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/guerra-na-ucrania-treguas-declaradas-em-oleshky-por-razoes-humanitarias_v1773889",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Moscovo e Kiev concordaram pela primeira vez desde o início da guerra a fazer um cessar-fogo por razões humanitárias numa cidade ucraniana ocupada por forças russas. «Guerra na Ucrânia. Tréguas declaradas em Oleshky por razões humanitárias» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Guerra na Ucrânia. Tréguas declaradas em Oleshky por razões humanitárias», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -16,11 +74,11 @@
       "impact": "No caso de «Cabo Delgado: Governo Adjudica Reabilitação de Quase 200 Quilómetros de Estradas Por 133 M€», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-23T13:30:00+00:00",
-      "age_hours": 5.4,
+      "age_hours": 8.4,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/23/negocios/infra-estruturas/cabo-delgado-governo-adjudica-reabilitacao-de-quase-200-quilometros-de-estradas-por-133-me/",
       "original_source": true,
-      "event_id": "evt-mocambique-006",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,94 +88,95 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Quase 200 quilómetros de estradas na província de Cabo Delgado, no norte do País, vão ser reabilitados e asfaltados por cerca de 133 milhões de euros, no âmbito do programa […]. «Cabo Delgado: Governo Adjudica Reabilitação de Quase 200 Quilómetros de Estradas Por 133 M€» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Cabo Delgado: Governo Adjudica Reabilitação de Quase 200 Quilómetros de Estradas Por 133 M€», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.88,
+      "editorial_score": 11.25,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Estados Unidos classificam hélio como material crítico; Europa enfrenta escassez",
+      "summary": "Estados Unidos designaram o hélio como material crítico na sexta-feira, destacando o seu papel essencial na produção de semicondutores e de energia, bem como a crescente preocupação com possíveis perturbações no abastecimento global.A decisão do Departamento de Energia dos EUA vai disponibilizar mais financiamento federal aos produtores de hélio e colocar o material sob uma monitorização governamental mais apertada.O hélio é sobretudo extraído como subproduto do processamento de gás natural. Os EUA são o maior produtor mundial de gás natural e de hélio, com o Qatar e a Rússia também entre os principais produtores.As exportações de hélio do Qatar foram gravemente afetadas pelo encerramento do estreito de Ormuz pelo Irão, numa altura de guerra com Israel e com os EUA.",
+      "why": "«Estados Unidos classificam hélio como material crítico; Europa enfrenta escassez» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Estados Unidos classificam hélio como material crítico; Europa enfrenta escassez», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-23T19:03:26+00:00",
+      "age_hours": 2.8,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/23/estados-unidos-classificam-helio-como-material-critico-europa-enfrenta-escassez",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Estados Unidos designaram o hélio como material crítico na sexta-feira, destacando o seu papel essencial na produção de semicondutores e de energia, bem como a crescente preocupação com possíveis perturbações no abastecimento global.A decisão do Departamento de Energia dos EUA vai disponibilizar mais financiamento federal aos produtores de hélio e colocar o material sob uma monitorização governamental mais apertada.O hélio é sobretudo extraído como subproduto do processamento de gás natural. Os EUA são o maior produtor mundial de gás natural e de hélio, com o Qatar e a Rússia também entre os principais produtores.As exportações de hélio do Qatar foram gravemente afetadas pelo encerramento do estreito de Ormuz pelo Irão, numa altura de guerra com Israel e com os EUA. «Estados Unidos classificam hélio como material crítico; Europa enfrenta escassez» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Estados Unidos classificam hélio como material crítico; Europa enfrenta escassez», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 10.42,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
       "tags": [
         "Segurança"
       ],
-      "title": "\"Objeto suspeito\" junto a embaixada da Ucrânia nos EUA não representa ameaça",
-      "summary": "Um objeto suspeito foi encontrado, esta sexta-feira, à entrada da secção consular da embaixada da Ucrânia em Washington. O edifício foi evacuado de imediato e as forças de segurança norte-americanas procederam às operações de verificação e desativação de bombas",
-      "why": "«\"Objeto suspeito\" junto a embaixada da Ucrânia nos EUA não representa ameaça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «\"Objeto suspeito\" junto a embaixada da Ucrânia nos EUA não representa ameaça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-23T17:18:10+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/objeto-suspeito-junto-a-embaixada-da-ucrania-nos-eua-nao-representa-ameaca_n1773845",
+      "title": "Países reúnem-se em Genebra para discutir cessar-fogo no Sudão",
+      "summary": "Ataques letais com recurso a drones armados tornaram-se uma característica marcante da guerra no país africano; bombardeamentos de espaços e infraestruturas fazem vítimas, sobretudo civis, incluindo crianças",
+      "why": "«Países reúnem-se em Genebra para discutir cessar-fogo no Sudão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Países reúnem-se em Genebra para discutir cessar-fogo no Sudão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "Notícias ONU",
+      "published": "2026-10-22T12:00:00+00:00",
+      "age_hours": 33.9,
+      "within_24h": false,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854712",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Notícias ONU"
       ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
+      "primary_source": "Notícias ONU",
+      "status": "update",
       "opportunity_flag": false,
-      "detailed_summary": "Um objeto suspeito foi encontrado, esta sexta-feira, à entrada da secção consular da embaixada da Ucrânia em Washington. O edifício foi evacuado de imediato e as forças de segurança norte-americanas procederam às operações de verificação e desativação de bombas. «\"Objeto suspeito\" junto a embaixada da Ucrânia nos EUA não representa ameaça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «\"Objeto suspeito\" junto a embaixada da Ucrânia nos EUA não representa ameaça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.67,
+      "detailed_summary": "Ataques letais com recurso a drones armados tornaram-se uma característica marcante da guerra no país africano; bombardeamentos de espaços e infraestruturas fazem vítimas, sobretudo civis, incluindo crianças. «Países reúnem-se em Genebra para discutir cessar-fogo no Sudão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Países reúnem-se em Genebra para discutir cessar-fogo no Sudão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 10.19,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento",
-      "summary": "Chimoio, 23 Out (AIM) – As obras de reparação da ponte metálica sobre o rio Révuè, na Estrada Regional número 260, no troço que liga a cidade de Chimoio e o distrito de Sussundenga, região central de Moçambique, já foram executadas em 25 por cento. A ponte ficou danificada semana finda, devido ao excesso de carga das viaturas pesadas de longo curso que escalam a infraestrutura. O delegado provincial da Administração Nacional de Estradas (ANE), em Manica, Moisés Dzimba disse que os trabalhos na ponte consistem na montagem da viga superior que vai sustentar a estrutura metálica para permitir a substituição da escora lateral danificada. “Neste momento decorrem trabalhos de remoção dos painéis. Depois será levantada a estrutura da ponte e proceder-se-á a substituição da escora lateral danificada”, explicou Dzimba. As obras iniciaram há sensivelmente cinco dias e poderão terminar na sexta-feira (30), da próxima semana.",
-      "why": "«Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-23T06:14:22+00:00",
-      "age_hours": 12.7,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/23/manica-reparacao-da-ponte-sobre-rio-revue-executada-em-25-por-cento/",
-      "original_source": true,
-      "event_id": "evt-mocambique-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Chimoio, 23 Out (AIM) – As obras de reparação da ponte metálica sobre o rio Révuè, na Estrada Regional número 260, no troço que liga a cidade de Chimoio e o distrito de Sussundenga, região central de Moçambique, já foram executadas em 25 por cento. A ponte ficou danificada semana finda, devido ao excesso de carga das viaturas pesadas de longo curso que escalam a infraestrutura. O delegado provincial da Administração Nacional de Estradas (ANE), em Manica, Moisés Dzimba disse que os trabalhos na ponte consistem na montagem da viga superior que vai sustentar a estrutura metálica para permitir a substituição da escora lateral danificada. “Neste momento decorrem trabalhos de remoção dos painéis. Depois será levantada a estrutura da ponte e proceder-se-á a substituição da escora lateral danificada”, explicou Dzimba. As obras iniciaram há sensivelmente cinco dias e poderão terminar na sexta-feira (30), da próxima semana. «Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.35,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "IA"
       ],
-      "title": "Feijóo abre a porta ao Vox. Líder do PP espanhol admite governo com extrema-direita",
-      "summary": "\"O meu primeiro objetivo é que Sánchez saia do Governo\", diz Alberto Núñez Feijóo O presidente do Partido Popular de Espanha (PP, direita) e líder da oposição, Alberto Núñez Feijóo, confirmou hoje que formará governo com o Vox, de extrema-direita, se essa aliança permitir tirar os socialistas do poder \"O meu primeiro objetivo é que Sánchez saia do Governo\", disse Feijóo, referindo-se ao primeiro-ministro e líder do Partido Socialista Espanhol (PSOE), Pedro Sánchez Espanha vai ter eleições legislativas antecipadas em 29 de novembro, com as sondagens a darem a vitória ao PP, mas sem maioria absoluta, que conseguiria numa coligação com o Vox Numa entrevista hoje à rádio Cadena Ser, o presidente do PP disse não descartar uma coligação pós-eleitoral do Vox \"Não posso descartar aquilo que me mandam fazer os espanhóis. Se me mandam completar a maioria e, portanto, dar estabilidade ao governo com a maior força democrática do meu país, eu sou um democrata.",
-      "why": "«Feijóo abre a porta ao Vox. Líder do PP espanhol admite governo com extrema-direita» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Feijóo abre a porta ao Vox. Líder do PP espanhol admite governo com extrema-direita», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-23T17:36:40+00:00",
-      "age_hours": 1.3,
+      "title": "Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde",
+      "summary": "Brasileira Mariângela Simão quer focar nestes dois temas em seu primeiro ano de mandato; médica com ampla experiência na luta contra HIV/Aids e Covid-19 afirma que acesso a tecnologias de saúde será um tema central; ela disse que buscará diálogo constante com sociedade civil e comunidades vulneráveis",
+      "why": "«Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-23T12:00:00+00:00",
+      "age_hours": 9.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/feijoo-abre-a-porta-ao-vox-lider-do-pp-espanhol-admite-governo-com-extrema-direita_n1773852",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854732",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-010",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Notícias ONU"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "\"O meu primeiro objetivo é que Sánchez saia do Governo\", diz Alberto Núñez Feijóo O presidente do Partido Popular de Espanha (PP, direita) e líder da oposição, Alberto Núñez Feijóo, confirmou hoje que formará governo com o Vox, de extrema-direita, se essa aliança permitir tirar os socialistas do poder \"O meu primeiro objetivo é que Sánchez saia do Governo\", disse Feijóo, referindo-se ao primeiro-ministro e líder do Partido Socialista Espanhol (PSOE), Pedro Sánchez Espanha vai ter eleições legislativas antecipadas em 29 de novembro, com as sondagens a darem a vitória ao PP, mas sem maioria absoluta, que conseguiria numa coligação com o Vox Numa entrevista hoje à rádio Cadena Ser, o presidente do PP disse não descartar uma coligação pós-eleitoral do Vox \"Não posso descartar aquilo que me mandam fazer os espanhóis. Se me mandam completar a maioria e, portanto, dar estabilidade ao governo com a maior força democrática do meu país, eu sou um democrata. «Feijóo abre a porta ao Vox. Líder do PP espanhol admite governo com extrema-direita» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Feijóo abre a porta ao Vox. Líder do PP espanhol admite governo com extrema-direita», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.73,
+      "detailed_summary": "Brasileira Mariângela Simão quer focar nestes dois temas em seu primeiro ano de mandato; médica com ampla experiência na luta contra HIV/Aids e Covid-19 afirma que acesso a tecnologias de saúde será um tema central; ela disse que buscará diálogo constante com sociedade civil e comunidades vulneráveis. «Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 9.94,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -132,11 +191,11 @@
       "impact": "No caso de «Millennium bim Esclarece Empresas Sobre Aplicação do Regime Cambial Especial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-23T14:29:13+00:00",
-      "age_hours": 4.4,
+      "age_hours": 7.4,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/23/oilgas/millennium-bim-esclarece-empresas-sobre-aplicacao-do-regime-cambial-especial/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -146,7 +205,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "A aplicação do regime cambial especial aos projectos de gás natural liquefeito (GNL) das Áreas 1 e 4 da Bacia do Rovuma esteve em debate num workshop promovido pelo Millennium […]. «Millennium bim Esclarece Empresas Sobre Aplicação do Regime Cambial Especial» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Millennium bim Esclarece Empresas Sobre Aplicação do Regime Cambial Especial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 10.08,
+      "editorial_score": 9.46,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -161,11 +220,11 @@
       "impact": "No caso de «UniLicungo gradua 468 técnicos superiores», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-23T15:03:50+00:00",
-      "age_hours": 3.8,
+      "age_hours": 6.8,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/unilicungo-gradua-468-tecnicos-superiores/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -175,7 +234,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "A Universidade Licungo (UniLicungo) graduou, esta sexta-feira na cidade da Beira, província de Sofala, 468 técnicos superiores de diversas áreas de formação, dos quais 28 concluíram cursos de mestrado, numa cerimónia que marcou o encerramento de mais uma etapa académica. A graduação representa a entrada de novos profissionais no mercado de trabalho, munidos de conhecimentos e competências para responder aos desafios do desenvolvimento do país, assegurou o reitor da instituição, Boaventura Aleixo. Na cerimónia, o responsável destacou a importância da formação superior na preparação de quadros qualificados para diferentes sectores de actividade. Igualmente encorajou os recém-graduados a aplicar os conhecimentos adquiridos para o crescimento das comunidades, bem como a continuar a investir no aperfeiçoamento profissional. Leia mais… O conteúdo UniLicungo gradua 468 técnicos superiores aparece primeiro em Jornal Notícias. «UniLicungo gradua 468 técnicos superiores» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «UniLicungo gradua 468 técnicos superiores», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.21,
+      "editorial_score": 8.58,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -190,11 +249,11 @@
       "impact": "No caso de «Muabanama volta comunicar-se com o mundo via telemóvel na Zambézia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-23T14:59:02+00:00",
-      "age_hours": 3.9,
+      "age_hours": 6.9,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/muabanama-volta-comunicar-se-com-o-mundo-via-telemovel-na-zambezia/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -204,7 +263,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Mais de 60 mil habitantes do posto administrativo de Muabanama, no distrito de Lugela, província da Zambézia, voltaram a dispor de serviços de telefonia móvel. O acto ocorre depois da reposição da antena destruída pela passagem de uma tempestade tropical, indica um comunicado do governo do distrito de Lugela. “Está reestabelecida a partir de hoje, a comunicação por via móvel no posto administrativo de Muabanama e vai beneficiar mais de 60 mil habitantes que estavam privados de comunicação devido a queda da antena de telefonia móvel causada por tempestade tropical”, refere o documento. O documento destaca que o governo distrital e a população aplaudem os esforços da empresa provedora de serviços de telefonia móvel. Leia mais… O conteúdo Muabanama volta comunicar-se com o mundo via telemóvel na Zambézia aparece primeiro em Jornal Notícias. «Muabanama volta comunicar-se com o mundo via telemóvel na Zambézia» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Muabanama volta comunicar-se com o mundo via telemóvel na Zambézia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.19,
+      "editorial_score": 8.56,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -219,11 +278,11 @@
       "impact": "No caso de «Explosão em mina de carvão na Turquia mata dois trabalhadores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-23T12:38:07+00:00",
-      "age_hours": 6.3,
+      "age_hours": 9.3,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/23/explosao-em-mina-de-carvao-na-turquia-mata-dois-trabalhadores",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -233,36 +292,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Pelo menos três mineiros morreram e cinco ficaram feridos, dois deles com gravidade, numa explosão de gás que ocorreu na sexta-feira numa mina de carvão privada na localidade de Gelik, no concelho de Kilimli, província de Zonguldak.A explosão deu-se por volta das 10h00, numa mina situada na zona de Dereiçi. Após o alerta, foram mobilizadas para o local equipas da Autoridade de Gestão de Catástrofes e Situações de Emergência (AFAD), dos serviços de saúde e dos bombeiros. Os feridos retirados da mina foram transportados de ambulância para vários hospitais.De acordo com o jornal local “Pusula”, a explosão ocorreu numa exploração pertencente à empresa Demir Madencilik. «Explosão em mina de carvão na Turquia mata dois trabalhadores» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Explosão em mina de carvão na Turquia mata dois trabalhadores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 7.69,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "França: lojas reforçam segurança em Lyon e Orleães por receio de distúrbios",
-      "summary": "Comerciantes em França tapam montras com tábuas de madeira, receando danos e distúrbios com o congresso da Reunião Nacional em Orleães e protestos em Lyon",
-      "why": "«França: lojas reforçam segurança em Lyon e Orleães por receio de distúrbios» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «França: lojas reforçam segurança em Lyon e Orleães por receio de distúrbios», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-23T12:33:10+00:00",
-      "age_hours": 6.4,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/23/franca-lojas-reforcam-seguranca-em-lyon-e-orleaes-por-receio-de-disturbios",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Comerciantes em França tapam montras com tábuas de madeira, receando danos e distúrbios com o congresso da Reunião Nacional em Orleães e protestos em Lyon. «França: lojas reforçam segurança em Lyon e Orleães por receio de distúrbios» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «França: lojas reforçam segurança em Lyon e Orleães por receio de distúrbios», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.67,
+      "editorial_score": 7.06,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -277,8 +307,8 @@
       "impact": "No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "RTP Notícias",
       "published": "2026-10-22T21:18:23+00:00",
-      "age_hours": 21.6,
-      "within_24h": true,
+      "age_hours": 24.6,
+      "within_24h": false,
       "link": "https://www.rtp.pt/noticias/mundo/completar-a-unidade-territorial-partidos-do-governo-e-da-oposicao-reivindicam-ceuta-e-melilla-no-parlamento-marroquino_n1773608",
       "original_source": true,
       "event_id": "evt-áfrica-001",
@@ -288,12 +318,12 @@
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "Os partidos marroquinos da coligação governamental e da oposição reclamaram hoje a soberania do seu país sobre as cidades espanholas de Ceuta e Melilla, localizadas no norte de África O nacionalista Istiqlal alertou que a parceria com Espanha não pode ser feita à custa da integridade territorial de Marrocos Estas posições foram expressas no Parlamento marroquino durante o debate sobre o programa do novo Governo, presidido por Fatima Ezzahra el Mansouri e formado após as eleições legislativas do mês passado em Marrocos O Partido Autenticidade e Modernidade (PAM, liberal), que lidera a coligação governamental, pediu que se continue o trabalho nacional e diplomático para \"completar a unidade territorial\" de Marrocos e defender o seu \"direito legítimo de recuperar Ceuta, Melilla e as ilhas marroquinas ocupadas\" Aquela estrutura partidária especificou que esta ação deve realizar-se no quadro de \"uma visão nacional responsável, baseada na legitimidade histórica e jurídica, bem como no diálogo e nos meios pacíficos\" Istiqlal (PI, que faz parte da coligação governamental) assegurou que por… «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 6.5,
+      "editorial_score": 6.48,
       "source_tier": "A",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -316,7 +346,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
+    "África": 2,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
