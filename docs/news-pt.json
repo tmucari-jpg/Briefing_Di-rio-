@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T08:18:50.919329+00:00",
+  "updated_at": "2026-10-23T14:06:50.515265+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,44 +8,29 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
-        "Economia"
+        "IA"
       ],
-      "title": "AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural",
-      "summary": "O Presidente da República, Daniel Chapo, recebeu, ontem, em audiência o Director Comercial do Grupo Export Trading Group (ETG), Graham Hewlett, que manifestou o interesse em investir na produção de fertilizantes a partir do gás natural em Moçambique, com o objectivo de se tornar o principal produtor deste insumo agrícola na África Subsahariana. “Estamos aqui para explorar o gás para fertilizantes, para sermos o produtor principal de fertilizantes na África Subsahariana. Esta é a nossa missão aqui em Moçambique”, afirmou Graham Hewlett, em declarações à imprensa após a audiência. O responsável recordou que o ETG está presente em Moçambique há mais de 40 anos e referiu que o grupo dispõe da Falcon Steel, braço comercial e de distribuição no sector do aço, além de ser, o maior importador de adubo no país. “Então, estamos aqui para desenvolver Moçambique um pouco mais”, declarou, reiterando o interesse do grupo em contribuir para o desenvolvimento económico nacional através de novos investimentos.",
-      "why": "«AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "title": "IA NO JORNALISMO MOÇAMBICANO: Entre a ajuda e o medo de perder a criatividade",
+      "summary": "CARLA MANHIQUE INTELIGÊNCIA Artificial (IA) é a expressão mais falada nos últimos anos em todo o mundo, havendo, entretanto, um misto de sentimento no seio das pessoas, umas a considerar que a ferramenta veio facilitar a realização de diversos tipos de tarefas e outras a defender que a mesma pode promover a preguiça. A ferramenta já vem sendo usada há bastante tempo noutros países. No caso de Moçambique ou mesmo de África, a tecnologia é recente e traz consigo as suas surpresas e curiosidades. Porque a tecnologia é também usada na área de comunicação, o “Notícias ouviu diversas personalidades ligadas à área, entre jornalistas e académicos, que consideram a ferramenta incontornável nas redacções moçambicanas. A título elucidativo, a Escola Superior de Jornalismo criou uma disciplina para ensinar a usar a IA, porém, a Televisão de Moçambique (TVM) ainda não tem uma política definida para a sua aplicação.",
+      "why": "«IA NO JORNALISMO MOÇAMBICANO: Entre a ajuda e o medo de perder a criatividade» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «IA NO JORNALISMO MOÇAMBICANO: Entre a ajuda e o medo de perder a criatividade», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-23T07:51:39+00:00",
-      "age_hours": 0.5,
+      "published": "2026-10-23T12:09:16+00:00",
+      "age_hours": 2.0,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/ao-pr-etg-manifesta-interesse-em-produzir-fertilizantes-a-partir-do-gas-natural/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/ia-no-jornalismo-mocambicano-entre-a-ajuda-e-o-medo-de-perder-a-criatividade/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 3,
-      "source_count": 3,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "Jornal Notícias",
-        "Diário Económico",
-        "AIM Notícias"
+        "Jornal Notícias"
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Diário Económico",
-          "title": "Grupo ETG Quer Produzir Fertilizantes a Partir do Gás Natural no País",
-          "link": "https://www.diarioeconomico.co.mz/2026/10/23/oilgas/grupo-etg-quer-produzir-fertilizantes-a-partir-do-gas-natural-no-pais/"
-        },
-        {
-          "source": "AIM Notícias",
-          "title": "Moçambique: Grupo ETG interessado em investir na produção de fertilizantes a partir do gás natural",
-          "link": "https://aimnews.org/2026/10/23/mocambique-grupo-etg-interessado-em-investir-na-producao-de-fertilizantes-a-partir-do-gas-natural/"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, recebeu, ontem, em audiência o Director Comercial do Grupo Export Trading Group (ETG), Graham Hewlett, que manifestou o interesse em investir na produção de fertilizantes a partir do gás natural em Moçambique, com o objectivo de se tornar o principal produtor deste insumo agrícola na África Subsahariana. “Estamos aqui para explorar o gás para fertilizantes, para sermos o produtor principal de fertilizantes na África Subsahariana. Esta é a nossa missão aqui em Moçambique”, afirmou Graham Hewlett, em declarações à imprensa após a audiência. O responsável recordou que o ETG está presente em Moçambique há mais de 40 anos e referiu que o grupo dispõe da Falcon Steel, braço comercial e de distribuição no sector do aço, além de ser, o maior importador de adubo no país. “Então, estamos aqui para desenvolver Moçambique um pouco mais”, declarou, reiterando o interesse do grupo em contribuir para o desenvolvimento económico nacional através de novos investimentos. «AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 16.4,
+      "opportunity_flag": false,
+      "detailed_summary": "CARLA MANHIQUE INTELIGÊNCIA Artificial (IA) é a expressão mais falada nos últimos anos em todo o mundo, havendo, entretanto, um misto de sentimento no seio das pessoas, umas a considerar que a ferramenta veio facilitar a realização de diversos tipos de tarefas e outras a defender que a mesma pode promover a preguiça. A ferramenta já vem sendo usada há bastante tempo noutros países. No caso de Moçambique ou mesmo de África, a tecnologia é recente e traz consigo as suas surpresas e curiosidades. Porque a tecnologia é também usada na área de comunicação, o “Notícias ouviu diversas personalidades ligadas à área, entre jornalistas e académicos, que consideram a ferramenta incontornável nas redacções moçambicanas. A título elucidativo, a Escola Superior de Jornalismo criou uma disciplina para ensinar a usar a IA, porém, a Televisão de Moçambique (TVM) ainda não tem uma política definida para a sua aplicação. «IA NO JORNALISMO MOÇAMBICANO: Entre a ajuda e o medo de perder a criatividade» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «IA NO JORNALISMO MOÇAMBICANO: Entre a ajuda e o medo de perder a criatividade», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 13.58,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -54,15 +39,44 @@
       "tags": [
         "Economia"
       ],
-      "title": "Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego",
-      "summary": "A Fidelidade Ímpar participou na 18.ª edição do Pitch Bootcamp, em Maputo, como Patrocinadora Oficial da iniciativa que prepara finalistas e recém-graduados para o mercado de trabalho, tendo promovido uma […]",
-      "why": "«Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Absa Reúne Especialistas Para Analisar Oportunidades e Desafios do Sector Energético em Moçambique",
+      "summary": "O Absa Bank Moçambique reuniu recentemente, em Maputo, representantes empresariais e especialistas do sector energético para analisar as tendências dos mercados globais e regionais e discutir oportunidades de investimento, financiamento […]",
+      "why": "«Absa Reúne Especialistas Para Analisar Oportunidades e Desafios do Sector Energético em Moçambique» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Absa Reúne Especialistas Para Analisar Oportunidades e Desafios do Sector Energético em Moçambique», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
-      "published": "2026-10-23T08:05:30+00:00",
-      "age_hours": 0.2,
+      "published": "2026-10-23T09:45:33+00:00",
+      "age_hours": 4.3,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/23/economia/responsabilidade-social/fidelidade-impar-promove-literacia-sobre-seguros-junto-de-100-jovens-a-procura-do-primeiro-emprego/",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/23/oilgas/extractivas/absa-reune-especialistas-para-analisar-oportunidades-e-desafios-do-sector-energetico-em-mocambique/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Absa Bank Moçambique reuniu recentemente, em Maputo, representantes empresariais e especialistas do sector energético para analisar as tendências dos mercados globais e regionais e discutir oportunidades de investimento, financiamento […]. «Absa Reúne Especialistas Para Analisar Oportunidades e Desafios do Sector Energético em Moçambique» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Absa Reúne Especialistas Para Analisar Oportunidades e Desafios do Sector Energético em Moçambique», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.1,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Cabo Delgado: Governo Adjudica Reabilitação de Quase 200 Quilómetros de Estradas Por 133 M€",
+      "summary": "Quase 200 quilómetros de estradas na província de Cabo Delgado, no norte do País, vão ser reabilitados e asfaltados por cerca de 133 milhões de euros, no âmbito do programa […]",
+      "why": "«Cabo Delgado: Governo Adjudica Reabilitação de Quase 200 Quilómetros de Estradas Por 133 M€» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Cabo Delgado: Governo Adjudica Reabilitação de Quase 200 Quilómetros de Estradas Por 133 M€», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-23T13:30:00+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/23/negocios/infra-estruturas/cabo-delgado-governo-adjudica-reabilitacao-de-quase-200-quilometros-de-estradas-por-133-me/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -72,38 +86,9 @@
       ],
       "primary_source": "Diário Económico",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A Fidelidade Ímpar participou na 18.ª edição do Pitch Bootcamp, em Maputo, como Patrocinadora Oficial da iniciativa que prepara finalistas e recém-graduados para o mercado de trabalho, tendo promovido uma […]. «Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.96,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Rubis de Montepuez leiloados pela primeira vez no país",
-      "summary": "FELISBERTO ARNAÇA A CIDADE de Nacala, em Nampula, acolhe hoje, pela primeira vez no país, o leilão de rubis de Montepuez (Cabo Delgado), no âmbito da conferência de adição de valor aos recursos minerais e energéticos e da 8ª. edição da Feira Económica de Nampula (FENA), ontem inaugurada pelo ministro dos Recursos Minerais e Energia, Estêvão Pale. Ao todo, serão leiloados quatro lotes, totalizando 30 quilogramas de rubis. Até ao meio dia de ontem, quatro concorrentes haviam manifestado interesse de participar no certame. O ministro inaugurou o “stand” que expõe recursos minerais e metais preciosos, no Aeroporto Internacional de Nacala, e interagiu com representantes da Fura, empresa produtora dos rubis, de quem soube que tudo estava a postos para o leilão. Não foi divulgado o valor a arrecadado, mas a fonte afirmou que caso os concorrentes não atinjam a expectativa, os lotes não serão atribuídos.",
-      "why": "«Rubis de Montepuez leiloados pela primeira vez no país» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Rubis de Montepuez leiloados pela primeira vez no país», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-23T07:41:45+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/rubis-de-montepuez-leiloados-pela-primeira-vez-no-pais/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "FELISBERTO ARNAÇA A CIDADE de Nacala, em Nampula, acolhe hoje, pela primeira vez no país, o leilão de rubis de Montepuez (Cabo Delgado), no âmbito da conferência de adição de valor aos recursos minerais e energéticos e da 8ª. edição da Feira Económica de Nampula (FENA), ontem inaugurada pelo ministro dos Recursos Minerais e Energia, Estêvão Pale. Ao todo, serão leiloados quatro lotes, totalizando 30 quilogramas de rubis. Até ao meio dia de ontem, quatro concorrentes haviam manifestado interesse de participar no certame. O ministro inaugurou o “stand” que expõe recursos minerais e metais preciosos, no Aeroporto Internacional de Nacala, e interagiu com representantes da Fura, empresa produtora dos rubis, de quem soube que tudo estava a postos para o leilão. Não foi divulgado o valor a arrecadado, mas a fonte afirmou que caso os concorrentes não atinjam a expectativa, os lotes não serão atribuídos. «Rubis de Montepuez leiloados pela primeira vez no país» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Rubis de Montepuez leiloados pela primeira vez no país», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.88,
+      "detailed_summary": "Quase 200 quilómetros de estradas na província de Cabo Delgado, no norte do País, vão ser reabilitados e asfaltados por cerca de 133 milhões de euros, no âmbito do programa […]. «Cabo Delgado: Governo Adjudica Reabilitação de Quase 200 Quilómetros de Estradas Por 133 M€» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Cabo Delgado: Governo Adjudica Reabilitação de Quase 200 Quilómetros de Estradas Por 133 M€», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.88,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -118,11 +103,11 @@
       "impact": "No caso de «Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-23T06:14:22+00:00",
-      "age_hours": 2.1,
+      "age_hours": 7.9,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/23/manica-reparacao-da-ponte-sobre-rio-revue-executada-em-25-por-cento/",
       "original_source": true,
-      "event_id": "evt-mocambique-007",
+      "event_id": "evt-mocambique-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -132,37 +117,36 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Chimoio, 23 Out (AIM) – As obras de reparação da ponte metálica sobre o rio Révuè, na Estrada Regional número 260, no troço que liga a cidade de Chimoio e o distrito de Sussundenga, região central de Moçambique, já foram executadas em 25 por cento. A ponte ficou danificada semana finda, devido ao excesso de carga das viaturas pesadas de longo curso que escalam a infraestrutura. O delegado provincial da Administração Nacional de Estradas (ANE), em Manica, Moisés Dzimba disse que os trabalhos na ponte consistem na montagem da viga superior que vai sustentar a estrutura metálica para permitir a substituição da escora lateral danificada. “Neste momento decorrem trabalhos de remoção dos painéis. Depois será levantada a estrutura da ponte e proceder-se-á a substituição da escora lateral danificada”, explicou Dzimba. As obras iniciaram há sensivelmente cinco dias e poderão terminar na sexta-feira (30), da próxima semana. «Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 13.56,
+      "editorial_score": 12.35,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "IA"
       ],
-      "title": "ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste",
-      "summary": "A organização não governamental (ONG) timorense La`o Hamutuk defendeu hoje que a soberania alimentar deve ser uma prioridade nacional e pediu mais investimento agrícola para acabar com a fome e má nutrição em Timor-Leste Em causa está o relatório sobre o Índice Global da Fome de 2026 que atribuiu a Timor-Leste uma pontuação de 32,5, classificando o país na categoria \"grave\" \"Este resultado constitui um alerta sério relativamente à segurança alimentar e à nutrição em Timor-Leste\", salienta o investigador da La`o Hamutuk Celestino Gusmão, em comunicado à imprensa \"A fome e a má nutrição não decorrem apenas da falta de alimentos, estando também diretamente associadas à pobreza, ao acesso limitado a uma alimentação nutritiva, à insuficiência da produção agrícola, à dependência das importações e a políticas públicas que ainda não garantem resiliência para todas as famílias\", salienta Celestino Gusmão Dados do Governo timorense indicam que 47% das crianças com menos de cinco anos sofre de má nutrição crónica, 8,6% de desnutrição aguda, 32% tem peso abaixo do previsto e deficiência de…",
-      "why": "«ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-23T07:44:22+00:00",
-      "age_hours": 0.6,
+      "title": "Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde",
+      "summary": "Brasileira Mariângela Simão quer focar nestes dois temas em seu primeiro ano de mandato; médica com ampla experiência na luta contra HIV/Aids e Covid-19 afirma que acesso a tecnologias de saúde será um tema central; ela disse que buscará diálogo constante com sociedade civil e comunidades vulneráveis",
+      "why": "«Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-23T12:00:00+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/ong-defende-que-soberania-alimentar-deve-ser-prioridade-nacional-de-timor-leste_n1773663",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854732",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Notícias ONU"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Notícias ONU",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A organização não governamental (ONG) timorense La`o Hamutuk defendeu hoje que a soberania alimentar deve ser uma prioridade nacional e pediu mais investimento agrícola para acabar com a fome e má nutrição em Timor-Leste Em causa está o relatório sobre o Índice Global da Fome de 2026 que atribuiu a Timor-Leste uma pontuação de 32,5, classificando o país na categoria \"grave\" \"Este resultado constitui um alerta sério relativamente à segurança alimentar e à nutrição em Timor-Leste\", salienta o investigador da La`o Hamutuk Celestino Gusmão, em comunicado à imprensa \"A fome e a má nutrição não decorrem apenas da falta de alimentos, estando também diretamente associadas à pobreza, ao acesso limitado a uma alimentação nutritiva, à insuficiência da produção agrícola, à dependência das importações e a políticas públicas que ainda não garantem resiliência para todas as famílias\", salienta Celestino Gusmão Dados do Governo timorense indicam que 47% das crianças com menos de cinco anos sofre de má nutrição crónica, 8,6% de desnutrição aguda, 32% tem peso abaixo do previsto e deficiência de… «ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.88,
+      "opportunity_flag": false,
+      "detailed_summary": "Brasileira Mariângela Simão quer focar nestes dois temas em seu primeiro ano de mandato; médica com ampla experiência na luta contra HIV/Aids e Covid-19 afirma que acesso a tecnologias de saúde será um tema central; ela disse que buscará diálogo constante com sociedade civil e comunidades vulneráveis. «Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Pandemias e desinformação estão na mira de relatora da ONU para direito à saúde», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 11.56,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -178,7 +162,7 @@
       "impact": "No caso de «África do sul sob pressão: petróleo caro ameaça agravar a inflação», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "O País",
       "published": "2026-10-23T06:53:44+00:00",
-      "age_hours": 1.4,
+      "age_hours": 7.2,
       "within_24h": true,
       "link": "https://opais.co.mz/africa-do-sul-sob-pressao-petroleo-caro-ameaca-agravar-a-inflacao/",
       "original_source": true,
@@ -192,36 +176,65 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A subida dos preços internacionais do petróleo pressiona a economia sul-africana, enquanto o Governo procura aliviar os combustíveis e proteger o poder de compra. O rand perdeu terreno face ao dólar esta quinta-feira, num contexto de tensões no Médio Oriente e de avaliação das medidas orçamentais. O Brent chegou a 112,55 dólares por barril, o […]. «África do sul sob pressão: petróleo caro ameaça agravar a inflação» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «África do sul sob pressão: petróleo caro ameaça agravar a inflação», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.71,
+      "editorial_score": 11.5,
       "source_tier": "B",
       "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Países reúnem-se em Genebra para discutir cessar-fogo no Sudão",
+      "summary": "Ataques letais com recurso a drones armados tornaram-se uma característica marcante da guerra no país africano; bombardeamentos de espaços e infraestruturas fazem vítimas, sobretudo civis, incluindo crianças",
+      "why": "«Países reúnem-se em Genebra para discutir cessar-fogo no Sudão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Países reúnem-se em Genebra para discutir cessar-fogo no Sudão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "Notícias ONU",
+      "published": "2026-10-22T12:00:00+00:00",
+      "age_hours": 26.1,
+      "within_24h": false,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854712",
+      "original_source": true,
+      "event_id": "evt-áfrica-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "update",
+      "opportunity_flag": false,
+      "detailed_summary": "Ataques letais com recurso a drones armados tornaram-se uma característica marcante da guerra no país africano; bombardeamentos de espaços e infraestruturas fazem vítimas, sobretudo civis, incluindo crianças. «Países reúnem-se em Genebra para discutir cessar-fogo no Sudão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Países reúnem-se em Genebra para discutir cessar-fogo no Sudão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 10.43,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Moçambique",
       "tags": [
         "Segurança"
       ],
-      "title": "Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana",
-      "summary": "O Presidente da República, Daniel Chapo, participa de 23 a 25 de Outubro na 12.ª edição do Fórum de Alto Nível de Tana sobre Segurança em África, que decorre em […]",
-      "why": "«Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-23T08:00:00+00:00",
-      "age_hours": 0.3,
+      "title": "PR é orador principal do 12º Fórum sobre Paz, Segurança e desenvolvimento na Etiópia",
+      "summary": "O Presidente da República, Daniel Chapo, é orador principal, amanhã (24 de Outubro), no 12.º Fórum de Alto Nível de Tana sobre Segurança em África, que decorre de 23 a 25 de Outubro, em Bahir Dar, República Federal Democrática da Etiópia, em resposta ao convite do Primeiro-Ministro etíope, Abiy Ahmed Ali. O Chefe do Estado vai abordar o tema: “Das Margens para o Centro: Construindo um Modelo Africano para a Paz e Soberania numa Era de Rivalidade Geopolítica”, indica o comunicado da Presidência da República. De acordo com o documento, o Fórum de Tana constitui uma plataforma de diálogo de alto nível destinada a promover a reflexão estratégica e a formulação de soluções inovadoras, lideradas por África, para os desafios de paz, segurança e desenvolvimento que o continente enfrenta. O evento tem como tema central “Caminhos para a Paz em África: Soberania Económica e Transformação Geopolítica”, reunindo chefes de Estado e de Governo, decisores políticos, académicos e parceiros de desenvolvimento.",
+      "why": "«PR é orador principal do 12º Fórum sobre Paz, Segurança e desenvolvimento na Etiópia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «PR é orador principal do 12º Fórum sobre Paz, Segurança e desenvolvimento na Etiópia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-23T10:16:44+00:00",
+      "age_hours": 3.8,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/23/economia/desenvolvimento/etiopia-pr-assume-papel-de-destaque-no-forum-de-seguranca-africana/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/pr-e-orador-principal-do-12o-forum-sobre-paz-seguranca-e-desenvolvimento-na-etiopia/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Diário Económico"
+        "Jornal Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, participa de 23 a 25 de Outubro na 12.ª edição do Fórum de Alto Nível de Tana sobre Segurança em África, que decorre em […]. «Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 10.94,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, é orador principal, amanhã (24 de Outubro), no 12.º Fórum de Alto Nível de Tana sobre Segurança em África, que decorre de 23 a 25 de Outubro, em Bahir Dar, República Federal Democrática da Etiópia, em resposta ao convite do Primeiro-Ministro etíope, Abiy Ahmed Ali. O Chefe do Estado vai abordar o tema: “Das Margens para o Centro: Construindo um Modelo Africano para a Paz e Soberania numa Era de Rivalidade Geopolítica”, indica o comunicado da Presidência da República. De acordo com o documento, o Fórum de Tana constitui uma plataforma de diálogo de alto nível destinada a promover a reflexão estratégica e a formulação de soluções inovadoras, lideradas por África, para os desafios de paz, segurança e desenvolvimento que o continente enfrenta. O evento tem como tema central “Caminhos para a Paz em África: Soberania Económica e Transformação Geopolítica”, reunindo chefes de Estado e de Governo, decisores políticos, académicos e parceiros de desenvolvimento. «PR é orador principal do 12º Fórum sobre Paz, Segurança e desenvolvimento na Etiópia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «PR é orador principal do 12º Fórum sobre Paz, Segurança e desenvolvimento na Etiópia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 10.21,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -230,17 +243,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Coreia do Sul propõe à Coreia do Norte negociações militares",
-      "summary": "A Coreia do Sul propôs hoje à Coreia do Norte a realização de negociações militares sobre o traçado da linha de demarcação no centro da Zona Desmilitarizada que as separa, após vários incidentes graves Seul \"propõe oficialmente a realização de negociações militares com a Coreia do Norte, a fim de confirmar mutuamente a localização precisa da linha de demarcação militar terrestre\", disse o vice-ministro da Defesa, Kim Hong-cheol O objetivo é \"discutir meios de restabelecer as linhas de comunicação militares e prevenir confrontos acidentais nas zonas fronteiriças\", acrescentou o dirigente, durante uma conferência de imprensa em Seul \"As datas e os locais específicos poderão ser discutidos via Panmunjom\", disse Kim, referindo-se ao único ponto de contacto entre as duas Coreias, situado no meio da Zona Desmilitarizada, a norte de Seul, conhecida como DMZ, na sigla em inglês Seul \"espera uma resposta positiva da Coreia do Norte\", acrescentou o vice-ministro da Defesa Kim salientou que as discussões poderiam, eventualmente, incluir o Comando das Nações Unidas, a força multinacional…",
-      "why": "«Coreia do Sul propõe à Coreia do Norte negociações militares» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Coreia do Sul propõe à Coreia do Norte negociações militares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Milhares nas ruas. Movimento estudantil da Sérvia quer derrubar Vucic nas eleições de domingo",
+      "summary": "A poucos dias das eleições na Sérvia, o movimento “Lista dos Estudantes” quer ver cair o partido de Aleksandar Vucic e comandar o Parlamento",
+      "why": "«Milhares nas ruas. Movimento estudantil da Sérvia quer derrubar Vucic nas eleições de domingo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Milhares nas ruas. Movimento estudantil da Sérvia quer derrubar Vucic nas eleições de domingo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-23T07:04:35+00:00",
-      "age_hours": 1.2,
+      "published": "2026-10-23T09:59:00+00:00",
+      "age_hours": 4.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/coreia-do-sul-propoe-a-coreia-do-norte-negociacoes-militares_n1773651",
+      "link": "https://www.rtp.pt/noticias/mundo/milhares-nas-ruas-movimento-estudantil-da-servia-quer-derrubar-vucic-nas-eleicoes-de-domingo_n1773684",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -249,9 +262,67 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Coreia do Sul propôs hoje à Coreia do Norte a realização de negociações militares sobre o traçado da linha de demarcação no centro da Zona Desmilitarizada que as separa, após vários incidentes graves Seul \"propõe oficialmente a realização de negociações militares com a Coreia do Norte, a fim de confirmar mutuamente a localização precisa da linha de demarcação militar terrestre\", disse o vice-ministro da Defesa, Kim Hong-cheol O objetivo é \"discutir meios de restabelecer as linhas de comunicação militares e prevenir confrontos acidentais nas zonas fronteiriças\", acrescentou o dirigente, durante uma conferência de imprensa em Seul \"As datas e os locais específicos poderão ser discutidos via Panmunjom\", disse Kim, referindo-se ao único ponto de contacto entre as duas Coreias, situado no meio da Zona Desmilitarizada, a norte de Seul, conhecida como DMZ, na sigla em inglês Seul \"espera uma resposta positiva da Coreia do Norte\", acrescentou o vice-ministro da Defesa Kim salientou que as discussões poderiam, eventualmente, incluir o Comando das Nações Unidas, a força multinacional… «Coreia do Sul propõe à Coreia do Norte negociações militares» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Coreia do Sul propõe à Coreia do Norte negociações militares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.75,
+      "detailed_summary": "A poucos dias das eleições na Sérvia, o movimento “Lista dos Estudantes” quer ver cair o partido de Aleksandar Vucic e comandar o Parlamento. «Milhares nas ruas. Movimento estudantil da Sérvia quer derrubar Vucic nas eleições de domingo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Milhares nas ruas. Movimento estudantil da Sérvia quer derrubar Vucic nas eleições de domingo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.15,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Exército israelita inicia operação antiterrorista na Cisjordânia ocupada",
+      "summary": "O exército israelita anunciou esta sexta-feira ter iniciado \"operações antiterroristas\" na Cisjordânia ocupada, após um ataque armado que feriu cinco israelitas, a poucos dias das eleições legislativas",
+      "why": "«Exército israelita inicia operação antiterrorista na Cisjordânia ocupada» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Exército israelita inicia operação antiterrorista na Cisjordânia ocupada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-23T09:31:07+00:00",
+      "age_hours": 4.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/exercito-israelita-inicia-operacao-antiterrorista-na-cisjordania-ocupada_n1773680",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O exército israelita anunciou esta sexta-feira ter iniciado \"operações antiterroristas\" na Cisjordânia ocupada, após um ataque armado que feriu cinco israelitas, a poucos dias das eleições legislativas. «Exército israelita inicia operação antiterrorista na Cisjordânia ocupada» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Exército israelita inicia operação antiterrorista na Cisjordânia ocupada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.04,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Explosão em mina de carvão na Turquia mata dois trabalhadores",
+      "summary": "Pelo menos três mineiros morreram e cinco ficaram feridos, dois deles com gravidade, numa explosão de gás que ocorreu na sexta-feira numa mina de carvão privada na localidade de Gelik, no concelho de Kilimli, província de Zonguldak.A explosão deu-se por volta das 10h00, numa mina situada na zona de Dereiçi. Após o alerta, foram mobilizadas para o local equipas da Autoridade de Gestão de Catástrofes e Situações de Emergência (AFAD), dos serviços de saúde e dos bombeiros. Os feridos retirados da mina foram transportados de ambulância para vários hospitais.De acordo com o jornal local “Pusula”, a explosão ocorreu numa exploração pertencente à empresa Demir Madencilik.",
+      "why": "«Explosão em mina de carvão na Turquia mata dois trabalhadores» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Explosão em mina de carvão na Turquia mata dois trabalhadores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-23T12:38:07+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/23/explosao-em-mina-de-carvao-na-turquia-mata-dois-trabalhadores",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Pelo menos três mineiros morreram e cinco ficaram feridos, dois deles com gravidade, numa explosão de gás que ocorreu na sexta-feira numa mina de carvão privada na localidade de Gelik, no concelho de Kilimli, província de Zonguldak.A explosão deu-se por volta das 10h00, numa mina situada na zona de Dereiçi. Após o alerta, foram mobilizadas para o local equipas da Autoridade de Gestão de Catástrofes e Situações de Emergência (AFAD), dos serviços de saúde e dos bombeiros. Os feridos retirados da mina foram transportados de ambulância para vários hospitais.De acordo com o jornal local “Pusula”, a explosão ocorreu numa exploração pertencente à empresa Demir Madencilik. «Explosão em mina de carvão na Turquia mata dois trabalhadores» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Explosão em mina de carvão na Turquia mata dois trabalhadores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 8.69,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -265,7 +336,7 @@
       "impact": "No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "RTP Notícias",
       "published": "2026-10-22T21:18:23+00:00",
-      "age_hours": 11.0,
+      "age_hours": 16.8,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/completar-a-unidade-territorial-partidos-do-governo-e-da-oposicao-reivindicam-ceuta-e-melilla-no-parlamento-marroquino_n1773608",
       "original_source": true,
@@ -279,26 +350,26 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Os partidos marroquinos da coligação governamental e da oposição reclamaram hoje a soberania do seu país sobre as cidades espanholas de Ceuta e Melilla, localizadas no norte de África O nacionalista Istiqlal alertou que a parceria com Espanha não pode ser feita à custa da integridade territorial de Marrocos Estas posições foram expressas no Parlamento marroquino durante o debate sobre o programa do novo Governo, presidido por Fatima Ezzahra el Mansouri e formado após as eleições legislativas do mês passado em Marrocos O Partido Autenticidade e Modernidade (PAM, liberal), que lidera a coligação governamental, pediu que se continue o trabalho nacional e diplomático para \"completar a unidade territorial\" de Marrocos e defender o seu \"direito legítimo de recuperar Ceuta, Melilla e as ilhas marroquinas ocupadas\" Aquela estrutura partidária especificou que esta ação deve realizar-se no quadro de \"uma visão nacional responsável, baseada na legitimidade histórica e jurídica, bem como no diálogo e nos meios pacíficos\" Istiqlal (PI, que faz parte da coligação governamental) assegurou que por… «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 8.71,
+      "editorial_score": 7.5,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos",
-      "summary": "Art Basel Paris reúne galerias internacionais e artistas contemporâneos no Grand Palais. Após protestos violentos na capital, organizadores reforçam a segurança na feira de arte",
-      "why": "«França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Cheias na Austrália fecham escolas e obrigam a evacuações",
+      "summary": "A chuva torrencial provocou cheias repentinas no sudeste de Queensland, na Austrália, onde foram batidos vários recordes de precipitação em outubro. A chuva deixou vários condutores encurralados, obrigou ao encerramento de escolas e motivou centenas de chamadas de emergência em dois dias.A intempérie começou na quinta-feira, quando uma estação de tratamento de água perto de Moreton Bay, a norte de Brisbane, registou mais de 250 milímetros de chuva em 24 horas.Em alguns locais, caíram perto de 180 milímetros em apenas três horas.",
+      "why": "«Cheias na Austrália fecham escolas e obrigam a evacuações» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Cheias na Austrália fecham escolas e obrigam a evacuações», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-22T15:16:02+00:00",
-      "age_hours": 17.0,
+      "published": "2026-10-23T11:25:48+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/22/franca-artistas-e-colecionadores-reunem-se-na-art-basel-paris-apesar-de-protestos",
+      "link": "https://pt.euronews.com/2026/10/23/cheias-no-sudeste-da-australia-fecham-escolas-e-obrigam-a-evacuacoes",
       "original_source": true,
-      "event_id": "evt-mundo-010",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -307,8 +378,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Art Basel Paris reúne galerias internacionais e artistas contemporâneos no Grand Palais. Após protestos violentos na capital, organizadores reforçam a segurança na feira de arte. «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 5.46,
+      "detailed_summary": "A chuva torrencial provocou cheias repentinas no sudeste de Queensland, na Austrália, onde foram batidos vários recordes de precipitação em outubro. A chuva deixou vários condutores encurralados, obrigou ao encerramento de escolas e motivou centenas de chamadas de emergência em dois dias.A intempérie começou na quinta-feira, quando uma estação de tratamento de água perto de Moreton Bay, a norte de Brisbane, registou mais de 250 milímetros de chuva em 24 horas.Em alguns locais, caíram perto de 180 milímetros em apenas três horas. «Cheias na Austrália fecham escolas e obrigam a evacuações» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Cheias na Austrália fecham escolas e obrigam a evacuações», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.44,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -333,8 +404,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 2,
-    "Mundo": 3
+    "África": 3,
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
