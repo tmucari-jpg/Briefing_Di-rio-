@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-10-22T23:54:48.553981+00:00",
+  "updated_at": "2026-10-23T08:19:16.508397+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Concursos",
+      "title": "Tenders to contract private operators for railway network underway",
+      "summary": "Maputo, 23 Oct (AIM) – The publicly-owned company Ports and Railways of Mozambique (CFM) has announced that public",
+      "entity": "AIM News",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Tenders to contract private operators for railway network underway” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Tenders to contract private operators for railway network underway”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "AIM News",
+      "published": "2026-10-23T07:24:04+00:00",
+      "age_hours": 0.9,
+      "link": "https://aimnews.org/2026/10/23/tenders-to-contract-private-operators-for-railway-network-underway/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 9
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",

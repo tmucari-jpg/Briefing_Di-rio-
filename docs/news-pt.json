@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T23:54:30.692654+00:00",
+  "updated_at": "2026-10-23T08:18:50.919329+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,107 +8,63 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Energia",
+        "Economia"
       ],
-      "title": "Coordenar para reduzir custos de exportação",
-      "summary": "Nacala-Porto, 22 Out (AIM) – A Twigg Exploration & Mining Limitada defende a criação de uma plataforma de diálogo entre produtores, exportadores, alfândegas, portos e linhas de navegação, para harmonizar procedimentos e reduzir custos e demora no processo de exportação em Moçambique. De acordo com Laura Mateus, representante da empresa que opera a mina de grafite natural de Balama, na província nortenha de Cabo Delgado, uma das maiores do mundo, tem de se garantir que todos os intervenientes estejam alinhados. “Eu acredito que tem de haver uma plataforma de conversa entre esses intervenientes todos, para garantir que todos nós saibamos quais são as necessidades de cada um, para que o nosso processo [de produção e comercialização] esteja alinhado”, afirmou.",
-      "why": "«Coordenar para reduzir custos de exportação» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Coordenar para reduzir custos de exportação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-22T17:52:20+00:00",
-      "age_hours": 6.0,
+      "title": "AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural",
+      "summary": "O Presidente da República, Daniel Chapo, recebeu, ontem, em audiência o Director Comercial do Grupo Export Trading Group (ETG), Graham Hewlett, que manifestou o interesse em investir na produção de fertilizantes a partir do gás natural em Moçambique, com o objectivo de se tornar o principal produtor deste insumo agrícola na África Subsahariana. “Estamos aqui para explorar o gás para fertilizantes, para sermos o produtor principal de fertilizantes na África Subsahariana. Esta é a nossa missão aqui em Moçambique”, afirmou Graham Hewlett, em declarações à imprensa após a audiência. O responsável recordou que o ETG está presente em Moçambique há mais de 40 anos e referiu que o grupo dispõe da Falcon Steel, braço comercial e de distribuição no sector do aço, além de ser, o maior importador de adubo no país. “Então, estamos aqui para desenvolver Moçambique um pouco mais”, declarou, reiterando o interesse do grupo em contribuir para o desenvolvimento económico nacional através de novos investimentos.",
+      "why": "«AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-23T07:51:39+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/22/coordenar-para-reduzir-custos-de-exportacao/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/ao-pr-etg-manifesta-interesse-em-produzir-fertilizantes-a-partir-do-gas-natural/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 3,
+      "source_count": 3,
       "sources": [
+        "Jornal Notícias",
+        "Diário Económico",
         "AIM Notícias"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Nacala-Porto, 22 Out (AIM) – A Twigg Exploration & Mining Limitada defende a criação de uma plataforma de diálogo entre produtores, exportadores, alfândegas, portos e linhas de navegação, para harmonizar procedimentos e reduzir custos e demora no processo de exportação em Moçambique. De acordo com Laura Mateus, representante da empresa que opera a mina de grafite natural de Balama, na província nortenha de Cabo Delgado, uma das maiores do mundo, tem de se garantir que todos os intervenientes estejam alinhados. “Eu acredito que tem de haver uma plataforma de conversa entre esses intervenientes todos, para garantir que todos nós saibamos quais são as necessidades de cada um, para que o nosso processo [de produção e comercialização] esteja alinhado”, afirmou. «Coordenar para reduzir custos de exportação» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Coordenar para reduzir custos de exportação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.75,
+      "confirmations": [
+        {
+          "source": "Diário Económico",
+          "title": "Grupo ETG Quer Produzir Fertilizantes a Partir do Gás Natural no País",
+          "link": "https://www.diarioeconomico.co.mz/2026/10/23/oilgas/grupo-etg-quer-produzir-fertilizantes-a-partir-do-gas-natural-no-pais/"
+        },
+        {
+          "source": "AIM Notícias",
+          "title": "Moçambique: Grupo ETG interessado em investir na produção de fertilizantes a partir do gás natural",
+          "link": "https://aimnews.org/2026/10/23/mocambique-grupo-etg-interessado-em-investir-na-producao-de-fertilizantes-a-partir-do-gas-natural/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, recebeu, ontem, em audiência o Director Comercial do Grupo Export Trading Group (ETG), Graham Hewlett, que manifestou o interesse em investir na produção de fertilizantes a partir do gás natural em Moçambique, com o objectivo de se tornar o principal produtor deste insumo agrícola na África Subsahariana. “Estamos aqui para explorar o gás para fertilizantes, para sermos o produtor principal de fertilizantes na África Subsahariana. Esta é a nossa missão aqui em Moçambique”, afirmou Graham Hewlett, em declarações à imprensa após a audiência. O responsável recordou que o ETG está presente em Moçambique há mais de 40 anos e referiu que o grupo dispõe da Falcon Steel, braço comercial e de distribuição no sector do aço, além de ser, o maior importador de adubo no país. “Então, estamos aqui para desenvolver Moçambique um pouco mais”, declarou, reiterando o interesse do grupo em contribuir para o desenvolvimento económico nacional através de novos investimentos. «AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «AO PR: ETG manifesta interesse em produzir fertilizantes a partir do gás natural», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 16.4,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Moçambique e Malawi reforçam comércio agrário",
-      "summary": "Moçambique e Malawi assinam, nesta quinta-feira, na cidade de Tete, um memorando de entendimento sobre medidas sanitárias e fitossanitárias, com vista a facilitar o comércio de produtos agrários, reduzir barreiras comerciais e reforçar a segurança sanitária. A iniciativa pretende melhorar a circulação de mercadorias entre os dois países, com particular incidência nos corredores da Beira […]",
-      "why": "«Moçambique e Malawi reforçam comércio agrário» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moçambique e Malawi reforçam comércio agrário», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-22T20:00:37+00:00",
-      "age_hours": 3.9,
+      "title": "Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego",
+      "summary": "A Fidelidade Ímpar participou na 18.ª edição do Pitch Bootcamp, em Maputo, como Patrocinadora Oficial da iniciativa que prepara finalistas e recém-graduados para o mercado de trabalho, tendo promovido uma […]",
+      "why": "«Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-10-23T08:05:30+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-e-malawi-reforcam-comercio-agrario/",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/23/economia/responsabilidade-social/fidelidade-impar-promove-literacia-sobre-seguros-junto-de-100-jovens-a-procura-do-primeiro-emprego/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Moçambique e Malawi assinam, nesta quinta-feira, na cidade de Tete, um memorando de entendimento sobre medidas sanitárias e fitossanitárias, com vista a facilitar o comércio de produtos agrários, reduzir barreiras comerciais e reforçar a segurança sanitária. A iniciativa pretende melhorar a circulação de mercadorias entre os dois países, com particular incidência nos corredores da Beira […]. «Moçambique e Malawi reforçam comércio agrário» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique e Malawi reforçam comércio agrário», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.19,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África",
-      "summary": "Maputo, 22 Out (AIM) – O Presidente da República de Moçambique, Daniel Francisco Chapo, participa, este sábado (24), no 12.º Fórum de Alto Nível de Tana sobre Segurança em África. O evento terá lugar em Bahir Dar, Etiópia, onde será orador principal num painel sobre paz e soberania africanas numa era de rivalidade geopolítica. O gabinete de Imprensa da Presidência da República refere, em comunicado, recebido hoje na redacção da AIM, que o encontro reúne líderes e especialistas para debater soluções africanas para os desafios de paz, segurança, soberania económica e desenvolvimento do continente. (AIM) Redacção/mz",
-      "why": "«Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-22T19:23:26+00:00",
-      "age_hours": 4.5,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/22/presidente-chapo-orador-principal-no-forum-de-alto-nivel-sobre-seguranca-em-africa/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 22 Out (AIM) – O Presidente da República de Moçambique, Daniel Francisco Chapo, participa, este sábado (24), no 12.º Fórum de Alto Nível de Tana sobre Segurança em África. O evento terá lugar em Bahir Dar, Etiópia, onde será orador principal num painel sobre paz e soberania africanas numa era de rivalidade geopolítica. O gabinete de Imprensa da Presidência da República refere, em comunicado, recebido hoje na redacção da AIM, que o encontro reúne líderes e especialistas para debater soluções africanas para os desafios de paz, segurança, soberania económica e desenvolvimento do continente. (AIM) Redacção/mz. «Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Presidente Chapo orador principal no Fórum de Alto Nível sobre Segurança em África», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.06,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%",
-      "summary": "A Associação Industrial de Moçambique (AIMO) e a Energy Works, empresa especializada em consultoria e apoio técnico na implementação de sistemas de gestão, lançaram, esta quinta-feira (22), em Maputo, a […]",
-      "why": "«AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-22T15:45:00+00:00",
-      "age_hours": 8.2,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/22/negocios/empresas/aimo-e-energy-works-lancam-programa-de-certificacao-iso-com-desconto-de-10/",
-      "original_source": true,
-      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -116,55 +72,85 @@
       ],
       "primary_source": "Diário Económico",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A Associação Industrial de Moçambique (AIMO) e a Energy Works, empresa especializada em consultoria e apoio técnico na implementação de sistemas de gestão, lançaram, esta quinta-feira (22), em Maputo, a […]. «AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «AIMO e Energy Works Lançam Programa de Certificação ISO Com Desconto de 10%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.29,
+      "opportunity_flag": true,
+      "detailed_summary": "A Fidelidade Ímpar participou na 18.ª edição do Pitch Bootcamp, em Maputo, como Patrocinadora Oficial da iniciativa que prepara finalistas e recém-graduados para o mercado de trabalho, tendo promovido uma […]. «Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Fidelidade Ímpar Promove Literacia Sobre Seguros Junto de 100 Jovens à Procura do Primeiro Emprego», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.96,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "INNOQ reforça fiscalização do peso do pão",
-      "summary": "O INNOQ anunciou o reforço da fiscalização do peso do pão em Moçambique, exigindo balanças verificadas e advertindo sobre sanções para os estabelecimentos que não cumpram a legislação. Assim, os estabelecimentos são obrigados a disponibilizar balanças verificadas aos consumidores. Em comunicado, o INNOQ indica que a medida visa assegurar o cumprimento da legislação metrológica e […]",
-      "why": "«INNOQ reforça fiscalização do peso do pão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «INNOQ reforça fiscalização do peso do pão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-22T18:00:02+00:00",
-      "age_hours": 5.9,
+      "title": "Rubis de Montepuez leiloados pela primeira vez no país",
+      "summary": "FELISBERTO ARNAÇA A CIDADE de Nacala, em Nampula, acolhe hoje, pela primeira vez no país, o leilão de rubis de Montepuez (Cabo Delgado), no âmbito da conferência de adição de valor aos recursos minerais e energéticos e da 8ª. edição da Feira Económica de Nampula (FENA), ontem inaugurada pelo ministro dos Recursos Minerais e Energia, Estêvão Pale. Ao todo, serão leiloados quatro lotes, totalizando 30 quilogramas de rubis. Até ao meio dia de ontem, quatro concorrentes haviam manifestado interesse de participar no certame. O ministro inaugurou o “stand” que expõe recursos minerais e metais preciosos, no Aeroporto Internacional de Nacala, e interagiu com representantes da Fura, empresa produtora dos rubis, de quem soube que tudo estava a postos para o leilão. Não foi divulgado o valor a arrecadado, mas a fonte afirmou que caso os concorrentes não atinjam a expectativa, os lotes não serão atribuídos.",
+      "why": "«Rubis de Montepuez leiloados pela primeira vez no país» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Rubis de Montepuez leiloados pela primeira vez no país», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-23T07:41:45+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://opais.co.mz/innoq-reforca-fiscalizacao-do-peso-do-pao/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/rubis-de-montepuez-leiloados-pela-primeira-vez-no-pais/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "Jornal Notícias"
       ],
-      "primary_source": "O País",
+      "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O INNOQ anunciou o reforço da fiscalização do peso do pão em Moçambique, exigindo balanças verificadas e advertindo sobre sanções para os estabelecimentos que não cumpram a legislação. Assim, os estabelecimentos são obrigados a disponibilizar balanças verificadas aos consumidores. Em comunicado, o INNOQ indica que a medida visa assegurar o cumprimento da legislação metrológica e […]. «INNOQ reforça fiscalização do peso do pão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «INNOQ reforça fiscalização do peso do pão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 11.77,
+      "detailed_summary": "FELISBERTO ARNAÇA A CIDADE de Nacala, em Nampula, acolhe hoje, pela primeira vez no país, o leilão de rubis de Montepuez (Cabo Delgado), no âmbito da conferência de adição de valor aos recursos minerais e energéticos e da 8ª. edição da Feira Económica de Nampula (FENA), ontem inaugurada pelo ministro dos Recursos Minerais e Energia, Estêvão Pale. Ao todo, serão leiloados quatro lotes, totalizando 30 quilogramas de rubis. Até ao meio dia de ontem, quatro concorrentes haviam manifestado interesse de participar no certame. O ministro inaugurou o “stand” que expõe recursos minerais e metais preciosos, no Aeroporto Internacional de Nacala, e interagiu com representantes da Fura, empresa produtora dos rubis, de quem soube que tudo estava a postos para o leilão. Não foi divulgado o valor a arrecadado, mas a fonte afirmou que caso os concorrentes não atinjam a expectativa, os lotes não serão atribuídos. «Rubis de Montepuez leiloados pela primeira vez no país» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Rubis de Montepuez leiloados pela primeira vez no país», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.88,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento",
+      "summary": "Chimoio, 23 Out (AIM) – As obras de reparação da ponte metálica sobre o rio Révuè, na Estrada Regional número 260, no troço que liga a cidade de Chimoio e o distrito de Sussundenga, região central de Moçambique, já foram executadas em 25 por cento. A ponte ficou danificada semana finda, devido ao excesso de carga das viaturas pesadas de longo curso que escalam a infraestrutura. O delegado provincial da Administração Nacional de Estradas (ANE), em Manica, Moisés Dzimba disse que os trabalhos na ponte consistem na montagem da viga superior que vai sustentar a estrutura metálica para permitir a substituição da escora lateral danificada. “Neste momento decorrem trabalhos de remoção dos painéis. Depois será levantada a estrutura da ponte e proceder-se-á a substituição da escora lateral danificada”, explicou Dzimba. As obras iniciaram há sensivelmente cinco dias e poderão terminar na sexta-feira (30), da próxima semana.",
+      "why": "«Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-23T06:14:22+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/23/manica-reparacao-da-ponte-sobre-rio-revue-executada-em-25-por-cento/",
+      "original_source": true,
+      "event_id": "evt-mocambique-007",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Chimoio, 23 Out (AIM) – As obras de reparação da ponte metálica sobre o rio Révuè, na Estrada Regional número 260, no troço que liga a cidade de Chimoio e o distrito de Sussundenga, região central de Moçambique, já foram executadas em 25 por cento. A ponte ficou danificada semana finda, devido ao excesso de carga das viaturas pesadas de longo curso que escalam a infraestrutura. O delegado provincial da Administração Nacional de Estradas (ANE), em Manica, Moisés Dzimba disse que os trabalhos na ponte consistem na montagem da viga superior que vai sustentar a estrutura metálica para permitir a substituição da escora lateral danificada. “Neste momento decorrem trabalhos de remoção dos painéis. Depois será levantada a estrutura da ponte e proceder-se-á a substituição da escora lateral danificada”, explicou Dzimba. As obras iniciaram há sensivelmente cinco dias e poderão terminar na sexta-feira (30), da próxima semana. «Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Manica/Reparação da ponte sobre rio Révuè executada em 25 por cento», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 13.56,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
+        "Economia",
         "Segurança"
       ],
-      "title": "Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros",
-      "summary": "No Brasil, a insegurança diária, a grande carga fiscal e os problemas económicos das famílias têm um peso significativo na escolha política. A mais recente sondagem das presidencias dá um empate entre Lula da Silva e Flávio Bolsonaro na votação de domingo",
-      "why": "«Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste",
+      "summary": "A organização não governamental (ONG) timorense La`o Hamutuk defendeu hoje que a soberania alimentar deve ser uma prioridade nacional e pediu mais investimento agrícola para acabar com a fome e má nutrição em Timor-Leste Em causa está o relatório sobre o Índice Global da Fome de 2026 que atribuiu a Timor-Leste uma pontuação de 32,5, classificando o país na categoria \"grave\" \"Este resultado constitui um alerta sério relativamente à segurança alimentar e à nutrição em Timor-Leste\", salienta o investigador da La`o Hamutuk Celestino Gusmão, em comunicado à imprensa \"A fome e a má nutrição não decorrem apenas da falta de alimentos, estando também diretamente associadas à pobreza, ao acesso limitado a uma alimentação nutritiva, à insuficiência da produção agrícola, à dependência das importações e a políticas públicas que ainda não garantem resiliência para todas as famílias\", salienta Celestino Gusmão Dados do Governo timorense indicam que 47% das crianças com menos de cinco anos sofre de má nutrição crónica, 8,6% de desnutrição aguda, 32% tem peso abaixo do previsto e deficiência de…",
+      "why": "«ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-22T20:44:47+00:00",
-      "age_hours": 3.2,
+      "published": "2026-10-23T07:44:22+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/inseguranca-carga-fiscal-e-problemas-economicos-pesam-na-escolha-dos-brasileiros_v1773598",
+      "link": "https://www.rtp.pt/noticias/mundo/ong-defende-que-soberania-alimentar-deve-ser-prioridade-nacional-de-timor-leste_n1773663",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -174,9 +160,97 @@
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A organização não governamental (ONG) timorense La`o Hamutuk defendeu hoje que a soberania alimentar deve ser uma prioridade nacional e pediu mais investimento agrícola para acabar com a fome e má nutrição em Timor-Leste Em causa está o relatório sobre o Índice Global da Fome de 2026 que atribuiu a Timor-Leste uma pontuação de 32,5, classificando o país na categoria \"grave\" \"Este resultado constitui um alerta sério relativamente à segurança alimentar e à nutrição em Timor-Leste\", salienta o investigador da La`o Hamutuk Celestino Gusmão, em comunicado à imprensa \"A fome e a má nutrição não decorrem apenas da falta de alimentos, estando também diretamente associadas à pobreza, ao acesso limitado a uma alimentação nutritiva, à insuficiência da produção agrícola, à dependência das importações e a políticas públicas que ainda não garantem resiliência para todas as famílias\", salienta Celestino Gusmão Dados do Governo timorense indicam que 47% das crianças com menos de cinco anos sofre de má nutrição crónica, 8,6% de desnutrição aguda, 32% tem peso abaixo do previsto e deficiência de… «ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «ONG defende que soberania alimentar deve ser prioridade nacional de Timor-Leste», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.88,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "África do sul sob pressão: petróleo caro ameaça agravar a inflação",
+      "summary": "A subida dos preços internacionais do petróleo pressiona a economia sul-africana, enquanto o Governo procura aliviar os combustíveis e proteger o poder de compra. O rand perdeu terreno face ao dólar esta quinta-feira, num contexto de tensões no Médio Oriente e de avaliação das medidas orçamentais. O Brent chegou a 112,55 dólares por barril, o […]",
+      "why": "«África do sul sob pressão: petróleo caro ameaça agravar a inflação» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
+      "impact": "No caso de «África do sul sob pressão: petróleo caro ameaça agravar a inflação», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "O País",
+      "published": "2026-10-23T06:53:44+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://opais.co.mz/africa-do-sul-sob-pressao-petroleo-caro-ameaca-agravar-a-inflacao/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "No Brasil, a insegurança diária, a grande carga fiscal e os problemas económicos das famílias têm um peso significativo na escolha política. A mais recente sondagem das presidencias dá um empate entre Lula da Silva e Flávio Bolsonaro na votação de domingo. «Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Insegurança, carga fiscal e problemas económicos pesam na escolha dos brasileiros», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.33,
+      "detailed_summary": "A subida dos preços internacionais do petróleo pressiona a economia sul-africana, enquanto o Governo procura aliviar os combustíveis e proteger o poder de compra. O rand perdeu terreno face ao dólar esta quinta-feira, num contexto de tensões no Médio Oriente e de avaliação das medidas orçamentais. O Brent chegou a 112,55 dólares por barril, o […]. «África do sul sob pressão: petróleo caro ameaça agravar a inflação» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «África do sul sob pressão: petróleo caro ameaça agravar a inflação», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.71,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana",
+      "summary": "O Presidente da República, Daniel Chapo, participa de 23 a 25 de Outubro na 12.ª edição do Fórum de Alto Nível de Tana sobre Segurança em África, que decorre em […]",
+      "why": "«Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-23T08:00:00+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/23/economia/desenvolvimento/etiopia-pr-assume-papel-de-destaque-no-forum-de-seguranca-africana/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, participa de 23 a 25 de Outubro na 12.ª edição do Fórum de Alto Nível de Tana sobre Segurança em África, que decorre em […]. «Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Etiópia: PR Assume Papel de Destaque no Fórum de Segurança Africana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 10.94,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Coreia do Sul propõe à Coreia do Norte negociações militares",
+      "summary": "A Coreia do Sul propôs hoje à Coreia do Norte a realização de negociações militares sobre o traçado da linha de demarcação no centro da Zona Desmilitarizada que as separa, após vários incidentes graves Seul \"propõe oficialmente a realização de negociações militares com a Coreia do Norte, a fim de confirmar mutuamente a localização precisa da linha de demarcação militar terrestre\", disse o vice-ministro da Defesa, Kim Hong-cheol O objetivo é \"discutir meios de restabelecer as linhas de comunicação militares e prevenir confrontos acidentais nas zonas fronteiriças\", acrescentou o dirigente, durante uma conferência de imprensa em Seul \"As datas e os locais específicos poderão ser discutidos via Panmunjom\", disse Kim, referindo-se ao único ponto de contacto entre as duas Coreias, situado no meio da Zona Desmilitarizada, a norte de Seul, conhecida como DMZ, na sigla em inglês Seul \"espera uma resposta positiva da Coreia do Norte\", acrescentou o vice-ministro da Defesa Kim salientou que as discussões poderiam, eventualmente, incluir o Comando das Nações Unidas, a força multinacional…",
+      "why": "«Coreia do Sul propõe à Coreia do Norte negociações militares» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Coreia do Sul propõe à Coreia do Norte negociações militares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-23T07:04:35+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/coreia-do-sul-propoe-a-coreia-do-norte-negociacoes-militares_n1773651",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A Coreia do Sul propôs hoje à Coreia do Norte a realização de negociações militares sobre o traçado da linha de demarcação no centro da Zona Desmilitarizada que as separa, após vários incidentes graves Seul \"propõe oficialmente a realização de negociações militares com a Coreia do Norte, a fim de confirmar mutuamente a localização precisa da linha de demarcação militar terrestre\", disse o vice-ministro da Defesa, Kim Hong-cheol O objetivo é \"discutir meios de restabelecer as linhas de comunicação militares e prevenir confrontos acidentais nas zonas fronteiriças\", acrescentou o dirigente, durante uma conferência de imprensa em Seul \"As datas e os locais específicos poderão ser discutidos via Panmunjom\", disse Kim, referindo-se ao único ponto de contacto entre as duas Coreias, situado no meio da Zona Desmilitarizada, a norte de Seul, conhecida como DMZ, na sigla em inglês Seul \"espera uma resposta positiva da Coreia do Norte\", acrescentou o vice-ministro da Defesa Kim salientou que as discussões poderiam, eventualmente, incluir o Comando das Nações Unidas, a força multinacional… «Coreia do Sul propõe à Coreia do Norte negociações militares» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Coreia do Sul propõe à Coreia do Norte negociações militares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.75,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -191,11 +265,11 @@
       "impact": "No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "RTP Notícias",
       "published": "2026-10-22T21:18:23+00:00",
-      "age_hours": 2.6,
+      "age_hours": 11.0,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/completar-a-unidade-territorial-partidos-do-governo-e-da-oposicao-reivindicam-ceuta-e-melilla-no-parlamento-marroquino_n1773608",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -205,36 +279,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Os partidos marroquinos da coligação governamental e da oposição reclamaram hoje a soberania do seu país sobre as cidades espanholas de Ceuta e Melilla, localizadas no norte de África O nacionalista Istiqlal alertou que a parceria com Espanha não pode ser feita à custa da integridade territorial de Marrocos Estas posições foram expressas no Parlamento marroquino durante o debate sobre o programa do novo Governo, presidido por Fatima Ezzahra el Mansouri e formado após as eleições legislativas do mês passado em Marrocos O Partido Autenticidade e Modernidade (PAM, liberal), que lidera a coligação governamental, pediu que se continue o trabalho nacional e diplomático para \"completar a unidade territorial\" de Marrocos e defender o seu \"direito legítimo de recuperar Ceuta, Melilla e as ilhas marroquinas ocupadas\" Aquela estrutura partidária especificou que esta ação deve realizar-se no quadro de \"uma visão nacional responsável, baseada na legitimidade histórica e jurídica, bem como no diálogo e nos meios pacíficos\" Istiqlal (PI, que faz parte da coligação governamental) assegurou que por… «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 10.46,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Guterres alerta para onda global de protestos devido ao custo de vida",
-      "summary": "O secretário-geral das Nações Unidas, António Guterres, alertou hoje para uma onda mundial de protestos provocada pelo aumento do custo de vida e agravada pelos conflitos internacionais, apelando aos governos para combaterem desigualdades Numa declaração aos jornalistas, Guterres afirmou que, da Europa aos países em desenvolvimento, milhões de pessoas enfrentam uma crise persistente do custo de vida, marcada pela subida dos preços dos alimentos, combustíveis e outros bens essenciais O secretário-geral das Nações Unidas destacou também o aumento das taxas de juro, que afeta tanto as famílias como os Estados, e a deterioração das perspetivas económicas das gerações mais jovens Segundo Guterres, a frustração acumulada está a transformar-se numa vaga de manifestações em vários continentes, com os cidadãos a exigirem respostas das autoridades Em França, os protestos dos últimos dias provocaram pelo menos dois mortos, mais de duas mil detenções, pilhagens generalizadas e a imposição de recolheres obrigatórios localizados em cidades como Paris, Lyon e Marselha Em Portugal e Espanha…",
-      "why": "«Guterres alerta para onda global de protestos devido ao custo de vida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Guterres alerta para onda global de protestos devido ao custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-22T19:03:34+00:00",
-      "age_hours": 4.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/guterres-alerta-para-onda-global-de-protestos-devido-ao-custo-de-vida_n1773581",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O secretário-geral das Nações Unidas, António Guterres, alertou hoje para uma onda mundial de protestos provocada pelo aumento do custo de vida e agravada pelos conflitos internacionais, apelando aos governos para combaterem desigualdades Numa declaração aos jornalistas, Guterres afirmou que, da Europa aos países em desenvolvimento, milhões de pessoas enfrentam uma crise persistente do custo de vida, marcada pela subida dos preços dos alimentos, combustíveis e outros bens essenciais O secretário-geral das Nações Unidas destacou também o aumento das taxas de juro, que afeta tanto as famílias como os Estados, e a deterioração das perspetivas económicas das gerações mais jovens Segundo Guterres, a frustração acumulada está a transformar-se numa vaga de manifestações em vários continentes, com os cidadãos a exigirem respostas das autoridades Em França, os protestos dos últimos dias provocaram pelo menos dois mortos, mais de duas mil detenções, pilhagens generalizadas e a imposição de recolheres obrigatórios localizados em cidades como Paris, Lyon e Marselha Em Portugal e Espanha… «Guterres alerta para onda global de protestos devido ao custo de vida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Guterres alerta para onda global de protestos devido ao custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 10.0,
+      "editorial_score": 8.71,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -249,11 +294,11 @@
       "impact": "No caso de «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-22T15:16:02+00:00",
-      "age_hours": 8.6,
+      "age_hours": 17.0,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/22/franca-artistas-e-colecionadores-reunem-se-na-art-basel-paris-apesar-de-protestos",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-010",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -263,36 +308,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Art Basel Paris reúne galerias internacionais e artistas contemporâneos no Grand Palais. Após protestos violentos na capital, organizadores reforçam a segurança na feira de arte. «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «França: artistas e colecionadores reúnem-se na Art Basel Paris apesar de protestos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.21,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim",
-      "summary": "Robôs humanóides, máquinas inteligentes e supercomputadores dominam evento da Nvidia em Berlim; Jensen Huang prevê economia de IA em expansão na Europa",
-      "why": "«Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Euronews Português",
-      "published": "2026-10-22T15:02:44+00:00",
-      "age_hours": 8.9,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/22/alemanha-robos-humanoides-e-supercomputadores-de-ia-em-destaque-em-berlim",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Robôs humanóides, máquinas inteligentes e supercomputadores dominam evento da Nvidia em Berlim; Jensen Huang prevê economia de IA em expansão na Europa. «Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Alemanha: robôs humanoides e supercomputadores de IA em destaque em Berlim», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 7.15,
+      "editorial_score": 5.46,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -317,8 +333,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
-    "Mundo": 4
+    "África": 2,
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
