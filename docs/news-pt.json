@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T07:56:25.086603+00:00",
+  "updated_at": "2026-10-24T13:09:13.041915+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,11 +16,11 @@
       "impact": "No caso de «Cooperativas/Moçambique prevê criar meio milhão de empregos até 2046», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "AIM Notícias",
       "published": "2026-10-24T06:43:17+00:00",
-      "age_hours": 1.2,
+      "age_hours": 6.4,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/24/cooperativas-mocambique-preve-criar-meio-milhao-de-empregos-ate-2046/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 2,
       "source_count": 2,
       "sources": [
@@ -38,8 +38,124 @@
       ],
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 24 Out (AIM) – Moçambique prevê criar 500 mil postos de trabalho através da formalização de 10 mil cooperativas e da integração de 1,5 milhões de operadores da economia informal, no âmbito do Programa Nacional de Desenvolvimento Cooperativo (PNDC) 2026–2046. “Formalizar 10 mil cooperativas, integrar 1,5 milhões de operadores, hoje na informalidade, e criar 500 mil postos de trabalho” é o que está previsto no PNDC, segundo o ministro da Economia, Basílio Muhate. Na apresentação de metas da iniciativa que pretende fortalecer o movimento cooperativo nacional ao longo de 20 anos, o ministro disse durante o lançamento do PNDC, em Maputo, esta sexta-feira (23) que o programa visa organizar os pequenos produtores e outros operadores económicos em estruturas colectivas, de modo a reforçar a sua capacidade de negociação, facilitar o acesso ao financiamento e criar melhores condições para a comercialização da produção nacional. “Mais de oito em cada dez moçambicanos trabalham na economia informal”, disse Muhate. «Cooperativas/Moçambique prevê criar meio milhão de empregos até 2046» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Cooperativas/Moçambique prevê criar meio milhão de empregos até 2046», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 16.25,
+      "editorial_score": 15.17,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos",
+      "summary": "O Instituto Industrial e Comercial 1.º de Maio de Quelimane enfrenta um elevado estado de degradação das suas infraestruturas, situação que já condicionou a admissão de novos alunos. Em 2026, a instituição não abriu vagas para novos ingressos, devido às condições físicas dos edifícios, enquanto os estudantes admitidos em 2024 e 2025 continuam a frequentar […]",
+      "why": "«Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-24T13:03:50+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://opais.co.mz/degradacao-do-instituto-industrial-e-comercial-1-o-de-maio-de-quelimane-trava-admissao-de-novos-alunos/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Instituto Industrial e Comercial 1.º de Maio de Quelimane enfrenta um elevado estado de degradação das suas infraestruturas, situação que já condicionou a admissão de novos alunos. Em 2026, a instituição não abriu vagas para novos ingressos, devido às condições físicas dos edifícios, enquanto os estudantes admitidos em 2024 e 2025 continuam a frequentar […]. «Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 11.98,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Itália está em alerta máximo devido a manifestações",
+      "summary": "Itália está hoje em alerta máximo, com o reforço da segurança nas principais cidades, uma semana depois de os tumultos e pilhagens no norte do país As autoridades reforçaram o policiamento, enquanto as lojas de Roma e Milão, sobretudo as que vendem artigos de luxo, protegeram as suas montras com placas de madeira e chapas metálicas, prevendo novos ataques, descreve a agência noticiosa espanhola EFE Alguns estabelecimentos, como o centro comercial La Rinascente, em Milão, vão fechar às 15:00, antes das manifestações, previstas para começarem às 15:30 locais (14:30 em Portugal) As medidas de segurança incluem pontos de controlo policial, aumento da vigilância nas estações ferroviárias e nos centros das cidades e o destacamento de mais 500 militares em Milão O presidente da Câmara de Milão, Giuseppe Sala, afastou a \"militarização da cidade\" e pediu aos comerciantes que mantenham as lojas abertas Já Embaixada dos Estados Unido em Itália emitiu também um alerta de segurança devido ao risco de novas manifestações em Milão e noutras grandes cidades italianas A embaixada recomendou ainda…",
+      "why": "«Itália está em alerta máximo devido a manifestações» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Itália está em alerta máximo devido a manifestações», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-24T12:03:42+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/italia-esta-em-alerta-maximo-devido-a-manifestacoes_n1773961",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Itália está hoje em alerta máximo, com o reforço da segurança nas principais cidades, uma semana depois de os tumultos e pilhagens no norte do país As autoridades reforçaram o policiamento, enquanto as lojas de Roma e Milão, sobretudo as que vendem artigos de luxo, protegeram as suas montras com placas de madeira e chapas metálicas, prevendo novos ataques, descreve a agência noticiosa espanhola EFE Alguns estabelecimentos, como o centro comercial La Rinascente, em Milão, vão fechar às 15:00, antes das manifestações, previstas para começarem às 15:30 locais (14:30 em Portugal) As medidas de segurança incluem pontos de controlo policial, aumento da vigilância nas estações ferroviárias e nos centros das cidades e o destacamento de mais 500 militares em Milão O presidente da Câmara de Milão, Giuseppe Sala, afastou a \"militarização da cidade\" e pediu aos comerciantes que mantenham as lojas abertas Já Embaixada dos Estados Unido em Itália emitiu também um alerta de segurança devido ao risco de novas manifestações em Milão e noutras grandes cidades italianas A embaixada recomendou ainda… «Itália está em alerta máximo devido a manifestações» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Itália está em alerta máximo devido a manifestações», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.77,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "África do Sul: falhas nos serviços públicos ameaçam vitória do ANC",
+      "summary": "A crescente insatisfação da população sul-africana com a falta de água, electricidade e recolha de lixo está a enfraquecer o apoio ao Congresso Nacional Africano (ANC), numa altura em que o país se prepara para as eleições municipais, marcadas para 4 de Novembro. Várias sondagens recentes indicam uma redução da popularidade do partido, que enfrenta […]",
+      "why": "«África do Sul: falhas nos serviços públicos ameaçam vitória do ANC» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «África do Sul: falhas nos serviços públicos ameaçam vitória do ANC», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "source": "O País",
+      "published": "2026-10-24T09:10:48+00:00",
+      "age_hours": 4.0,
+      "within_24h": true,
+      "link": "https://opais.co.mz/africa-do-sul-falhas-nos-servicos-publicos-ameacam-vitoria-do-anc/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A crescente insatisfação da população sul-africana com a falta de água, electricidade e recolha de lixo está a enfraquecer o apoio ao Congresso Nacional Africano (ANC), numa altura em que o país se prepara para as eleições municipais, marcadas para 4 de Novembro. Várias sondagens recentes indicam uma redução da popularidade do partido, que enfrenta […]. «África do Sul: falhas nos serviços públicos ameaçam vitória do ANC» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «África do Sul: falhas nos serviços públicos ameaçam vitória do ANC», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 11.17,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Netanyahu reserva \"grande surpresa\" para Autoridade Palestiniana",
+      "summary": "O primeiro-ministro israelita admite estar a reservar uma grande surpresa à Autoridade Palestiniana. Declarações de Benjamin Netanyahu em campanha eleitoral, após ter ordenado uma operação militar na Cisjordânia ocupada",
+      "why": "«Netanyahu reserva \"grande surpresa\" para Autoridade Palestiniana» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Netanyahu reserva \"grande surpresa\" para Autoridade Palestiniana», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-24T11:58:47+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/netanyahu-reserva-grande-surpresa-para-autoridade-palestiniana_n1773964",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O primeiro-ministro israelita admite estar a reservar uma grande surpresa à Autoridade Palestiniana. Declarações de Benjamin Netanyahu em campanha eleitoral, após ter ordenado uma operação militar na Cisjordânia ocupada. «Netanyahu reserva \"grande surpresa\" para Autoridade Palestiniana» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Netanyahu reserva \"grande surpresa\" para Autoridade Palestiniana», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.75,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -53,11 +169,11 @@
       "impact": "No caso de «Ministro da Educacao desafia graduados da USTM a aplicar conhecimento académico», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-23T20:30:10+00:00",
-      "age_hours": 11.4,
+      "age_hours": 16.6,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/23/ministro-da-educacao-desafia-graduados-da-ustm-a-aplicar-conhecimento-academico/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -67,126 +183,37 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 23 de Outubro (AIM) — O Ministro da Educação e Cultura, Edson Macuácua, desafiou os graduados da Universidade São Tomás de Moçambique (USTM) a aplicar os conhecimentos adquiridos na formação superior na transformação dos recursos nacionais em riqueza, na modernização dos sectores produtivos e na resolução dos problemas que afectam as comunidades. Defendeu que o ensino universitário deve produzir resultados concretos para o desenvolvimento do país. Falando esta sexta-feira, por ocasião da XIV Cerimónia de Graduação da USTM, Macuácua afirmou que o conhecimento adquirido nas instituições de ensino superior não deve ter um carácter meramente teórico, mas contribuir para impulsionar a agricultura, modernizar a indústria, melhorar a gestão e promover a digitalização dos serviços. O governante apontou a necessidade de alinhar a investigação científica e a formação académica com os desafios enfrentados pela população, destacando questões como as mudanças climáticas, a segurança alimentar, a saúde pública e a inclusão social. «Ministro da Educacao desafia graduados da USTM a aplicar conhecimento académico» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Ministro da Educacao desafia graduados da USTM a aplicar conhecimento académico», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 11.62,
+      "editorial_score": 10.54,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA",
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Israel deve preparar-se para contornar sanções internacionais diz Netanyahu",
-      "summary": "Israel poderá precisar de desenvolver uma economia alternativa para contornar sanções internacionais, declarou o primeiro-ministro Benjamin Netanyahu, reconhecendo a crescente pressão exercida pelo seu principal aliado, os Estados Unidos \"É preciso compreender que pode haver sanções, incluindo sanções bancárias\", disse Netanyahu num programa de debate transmitido pelo canal israelita Channel 10, disponibilizado hoje online \"É preciso preparar uma economia alternativa capaz de funcionar contornando estas sanções\", acrescentou o candidato à reeleição nas eleições de terça-feira Questionado sobre a possibilidade de se estar a referir à blockchain --- tecnologia de armazenamento e transmissão de informação que opera sem intermediários ou autoridade central ---, Netanyahu respondeu afirmativamente. \"Com certeza.",
-      "why": "«Israel deve preparar-se para contornar sanções internacionais diz Netanyahu» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Israel deve preparar-se para contornar sanções internacionais diz Netanyahu», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-23T23:07:19+00:00",
-      "age_hours": 8.8,
+      "title": "Itália: militares patrulham Milão enquanto lojas fecham antes de protestos",
+      "summary": "Milão mantém-se em alerta antes de novas manifestações esperadas, com mais militares destacados e lojas a proteger as montras, uma semana após saqueios e confrontos com a polícia",
+      "why": "«Itália: militares patrulham Milão enquanto lojas fecham antes de protestos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Itália: militares patrulham Milão enquanto lojas fecham antes de protestos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-24T12:07:22+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-deve-preparar-se-para-contornar-sancoes-internacionais-diz-netanyahu_n1773910",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Israel poderá precisar de desenvolver uma economia alternativa para contornar sanções internacionais, declarou o primeiro-ministro Benjamin Netanyahu, reconhecendo a crescente pressão exercida pelo seu principal aliado, os Estados Unidos \"É preciso compreender que pode haver sanções, incluindo sanções bancárias\", disse Netanyahu num programa de debate transmitido pelo canal israelita Channel 10, disponibilizado hoje online \"É preciso preparar uma economia alternativa capaz de funcionar contornando estas sanções\", acrescentou o candidato à reeleição nas eleições de terça-feira Questionado sobre a possibilidade de se estar a referir à blockchain --- tecnologia de armazenamento e transmissão de informação que opera sem intermediários ou autoridade central ---, Netanyahu respondeu afirmativamente. \"Com certeza. «Israel deve preparar-se para contornar sanções internacionais diz Netanyahu» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Israel deve preparar-se para contornar sanções internacionais diz Netanyahu», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 11.17,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Países reúnem-se em Genebra para discutir cessar-fogo no Sudão",
-      "summary": "Ataques letais com recurso a drones armados tornaram-se uma característica marcante da guerra no país africano; bombardeamentos de espaços e infraestruturas fazem vítimas, sobretudo civis, incluindo crianças",
-      "why": "«Países reúnem-se em Genebra para discutir cessar-fogo no Sudão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Países reúnem-se em Genebra para discutir cessar-fogo no Sudão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "Notícias ONU",
-      "published": "2026-10-22T12:00:00+00:00",
-      "age_hours": 43.9,
-      "within_24h": false,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854712",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "Ataques letais com recurso a drones armados tornaram-se uma característica marcante da guerra no país africano; bombardeamentos de espaços e infraestruturas fazem vítimas, sobretudo civis, incluindo crianças. «Países reúnem-se em Genebra para discutir cessar-fogo no Sudão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Países reúnem-se em Genebra para discutir cessar-fogo no Sudão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 9.88,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Kremlin divulga lista de opositores no exílio sujeitos a sanções",
-      "summary": "A Federação Russa divulgou hoje uma lista de opositores no exílio sujeitos a sanções, no quadro de uma lei recente e denunciada por organizações não-governamentais como visando causar-lhes a \"morte social\" No seu sítio na internet, o Ministério da Justiça publicou este registo com 12 pessoas, incluindo Mikhail Khodorkovski, Ekaterina Schulmann e Evguéni Tchitchvarkine Todas as pessoas constantes da lista já saíram da Federação Russa e algumas sofreram penas de prisão por denunciarem a invasão da Ucrânia Em entrevista à TASS, publicada quinta-feira, um vice-ministro da Justiça, Oleg Sviridenko, anunciou a criação da lista A lei cria \"restrições temporárias\" a pessoas que se encontram fora da Federação Russa e estão sujeitas \"à execução de uma pena\" que as visa Esta nova legislação inflige numerosas restrições, como o bloqueio de fundos depositados nos bancos russos ou a interdição de obter serviços públicos de base, desde logo os serviços consulares para renovação de passaportes ou registo de casamentos Em comunicado divulgado em meados de agosto, a relatora especial da ONU para os…",
-      "why": "«Kremlin divulga lista de opositores no exílio sujeitos a sanções» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Kremlin divulga lista de opositores no exílio sujeitos a sanções», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-24T00:19:52+00:00",
-      "age_hours": 7.6,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/kremlin-divulga-lista-de-opositores-no-exilio-sujeitos-a-sancoes_n1773914",
+      "link": "https://pt.euronews.com/2026/10/24/italia-militares-patrulham-milao-enquanto-lojas-fecham-antes-de-protestos",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Euronews Português"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Federação Russa divulgou hoje uma lista de opositores no exílio sujeitos a sanções, no quadro de uma lei recente e denunciada por organizações não-governamentais como visando causar-lhes a \"morte social\" No seu sítio na internet, o Ministério da Justiça publicou este registo com 12 pessoas, incluindo Mikhail Khodorkovski, Ekaterina Schulmann e Evguéni Tchitchvarkine Todas as pessoas constantes da lista já saíram da Federação Russa e algumas sofreram penas de prisão por denunciarem a invasão da Ucrânia Em entrevista à TASS, publicada quinta-feira, um vice-ministro da Justiça, Oleg Sviridenko, anunciou a criação da lista A lei cria \"restrições temporárias\" a pessoas que se encontram fora da Federação Russa e estão sujeitas \"à execução de uma pena\" que as visa Esta nova legislação inflige numerosas restrições, como o bloqueio de fundos depositados nos bancos russos ou a interdição de obter serviços públicos de base, desde logo os serviços consulares para renovação de passaportes ou registo de casamentos Em comunicado divulgado em meados de agosto, a relatora especial da ONU para os… «Kremlin divulga lista de opositores no exílio sujeitos a sanções» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Kremlin divulga lista de opositores no exílio sujeitos a sanções», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 9.42,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "No Dia da ONU, Guterres pede solidariedade ao invés de medo",
-      "summary": "Secretário-geral diz que mundo precisa voltar a resolver conflitos através da diplomacia e do direito, e não das armas; ele disse que a organização criada no pós-Segunda Guerra Mundial é mais necessária do que nunca",
-      "why": "«No Dia da ONU, Guterres pede solidariedade ao invés de medo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «No Dia da ONU, Guterres pede solidariedade ao invés de medo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-23T12:00:00+00:00",
-      "age_hours": 19.9,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854743",
-      "original_source": true,
-      "event_id": "evt-mundo-013",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Secretário-geral diz que mundo precisa voltar a resolver conflitos através da diplomacia e do direito, e não das armas; ele disse que a organização criada no pós-Segunda Guerra Mundial é mais necessária do que nunca. «No Dia da ONU, Guterres pede solidariedade ao invés de medo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «No Dia da ONU, Guterres pede solidariedade ao invés de medo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.85,
-      "source_tier": "A",
+      "detailed_summary": "Milão mantém-se em alerta antes de novas manifestações esperadas, com mais militares destacados e lojas a proteger as montras, uma semana após saqueios e confrontos com a polícia. «Itália: militares patrulham Milão enquanto lojas fecham antes de protestos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Itália: militares patrulham Milão enquanto lojas fecham antes de protestos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.79,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -201,11 +228,11 @@
       "impact": "No caso de «Estados Unidos classificam hélio como material crítico; Europa enfrenta escassez», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-23T19:03:26+00:00",
-      "age_hours": 12.9,
+      "age_hours": 18.1,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/23/estados-unidos-classificam-helio-como-material-critico-europa-enfrenta-escassez",
       "original_source": true,
-      "event_id": "evt-mundo-008",
+      "event_id": "evt-mundo-018",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -215,7 +242,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Estados Unidos designaram o hélio como material crítico na sexta-feira, destacando o seu papel essencial na produção de semicondutores e de energia, bem como a crescente preocupação com possíveis perturbações no abastecimento global.A decisão do Departamento de Energia dos EUA vai disponibilizar mais financiamento federal aos produtores de hélio e colocar o material sob uma monitorização governamental mais apertada.O hélio é sobretudo extraído como subproduto do processamento de gás natural. Os EUA são o maior produtor mundial de gás natural e de hélio, com o Qatar e a Rússia também entre os principais produtores.As exportações de hélio do Qatar foram gravemente afetadas pelo encerramento do estreito de Ormuz pelo Irão, numa altura de guerra com Israel e com os EUA. «Estados Unidos classificam hélio como material crítico; Europa enfrenta escassez» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Estados Unidos classificam hélio como material crítico; Europa enfrenta escassez», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 8.31,
+      "editorial_score": 7.23,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -230,11 +257,11 @@
       "impact": "No caso de «UniLicungo gradua 468 técnicos superiores», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-23T15:03:50+00:00",
-      "age_hours": 16.9,
+      "age_hours": 22.1,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/unilicungo-gradua-468-tecnicos-superiores/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -244,7 +271,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "A Universidade Licungo (UniLicungo) graduou, esta sexta-feira na cidade da Beira, província de Sofala, 468 técnicos superiores de diversas áreas de formação, dos quais 28 concluíram cursos de mestrado, numa cerimónia que marcou o encerramento de mais uma etapa académica. A graduação representa a entrada de novos profissionais no mercado de trabalho, munidos de conhecimentos e competências para responder aos desafios do desenvolvimento do país, assegurou o reitor da instituição, Boaventura Aleixo. Na cerimónia, o responsável destacou a importância da formação superior na preparação de quadros qualificados para diferentes sectores de actividade. Igualmente encorajou os recém-graduados a aplicar os conhecimentos adquiridos para o crescimento das comunidades, bem como a continuar a investir no aperfeiçoamento profissional. Leia mais… O conteúdo UniLicungo gradua 468 técnicos superiores aparece primeiro em Jornal Notícias. «UniLicungo gradua 468 técnicos superiores» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «UniLicungo gradua 468 técnicos superiores», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 6.48,
+      "editorial_score": 5.4,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -259,11 +286,11 @@
       "impact": "No caso de «Muabanama volta comunicar-se com o mundo via telemóvel na Zambézia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-23T14:59:02+00:00",
-      "age_hours": 17.0,
+      "age_hours": 22.2,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/muabanama-volta-comunicar-se-com-o-mundo-via-telemovel-na-zambezia/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -273,66 +300,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Mais de 60 mil habitantes do posto administrativo de Muabanama, no distrito de Lugela, província da Zambézia, voltaram a dispor de serviços de telefonia móvel. O acto ocorre depois da reposição da antena destruída pela passagem de uma tempestade tropical, indica um comunicado do governo do distrito de Lugela. “Está reestabelecida a partir de hoje, a comunicação por via móvel no posto administrativo de Muabanama e vai beneficiar mais de 60 mil habitantes que estavam privados de comunicação devido a queda da antena de telefonia móvel causada por tempestade tropical”, refere o documento. O documento destaca que o governo distrital e a população aplaudem os esforços da empresa provedora de serviços de telefonia móvel. Leia mais… O conteúdo Muabanama volta comunicar-se com o mundo via telemóvel na Zambézia aparece primeiro em Jornal Notícias. «Muabanama volta comunicar-se com o mundo via telemóvel na Zambézia» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Muabanama volta comunicar-se com o mundo via telemóvel na Zambézia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 6.46,
+      "editorial_score": 5.38,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no Parlamento marroquino",
-      "summary": "Os partidos marroquinos da coligação governamental e da oposição reclamaram hoje a soberania do seu país sobre as cidades espanholas de Ceuta e Melilla, localizadas no norte de África O nacionalista Istiqlal alertou que a parceria com Espanha não pode ser feita à custa da integridade territorial de Marrocos Estas posições foram expressas no Parlamento marroquino durante o debate sobre o programa do novo Governo, presidido por Fatima Ezzahra el Mansouri e formado após as eleições legislativas do mês passado em Marrocos O Partido Autenticidade e Modernidade (PAM, liberal), que lidera a coligação governamental, pediu que se continue o trabalho nacional e diplomático para \"completar a unidade territorial\" de Marrocos e defender o seu \"direito legítimo de recuperar Ceuta, Melilla e as ilhas marroquinas ocupadas\" Aquela estrutura partidária especificou que esta ação deve realizar-se no quadro de \"uma visão nacional responsável, baseada na legitimidade histórica e jurídica, bem como no diálogo e nos meios pacíficos\" Istiqlal (PI, que faz parte da coligação governamental) assegurou que por…",
-      "why": "«\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "RTP Notícias",
-      "published": "2026-10-22T21:18:23+00:00",
-      "age_hours": 34.6,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/completar-a-unidade-territorial-partidos-do-governo-e-da-oposicao-reivindicam-ceuta-e-melilla-no-parlamento-marroquino_n1773608",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "update",
-      "opportunity_flag": true,
-      "detailed_summary": "Os partidos marroquinos da coligação governamental e da oposição reclamaram hoje a soberania do seu país sobre as cidades espanholas de Ceuta e Melilla, localizadas no norte de África O nacionalista Istiqlal alertou que a parceria com Espanha não pode ser feita à custa da integridade territorial de Marrocos Estas posições foram expressas no Parlamento marroquino durante o debate sobre o programa do novo Governo, presidido por Fatima Ezzahra el Mansouri e formado após as eleições legislativas do mês passado em Marrocos O Partido Autenticidade e Modernidade (PAM, liberal), que lidera a coligação governamental, pediu que se continue o trabalho nacional e diplomático para \"completar a unidade territorial\" de Marrocos e defender o seu \"direito legítimo de recuperar Ceuta, Melilla e as ilhas marroquinas ocupadas\" Aquela estrutura partidária especificou que esta ação deve realizar-se no quadro de \"uma visão nacional responsável, baseada na legitimidade histórica e jurídica, bem como no diálogo e nos meios pacíficos\" Istiqlal (PI, que faz parte da coligação governamental) assegurou que por… «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «\"Completar a unidade territorial\". Partidos do governo e da oposição reivindicam Ceuta e Melilla no…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 6.17,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Explosão em mina de carvão na Turquia mata dois trabalhadores",
-      "summary": "Pelo menos três mineiros morreram e cinco ficaram feridos, dois deles com gravidade, numa explosão de gás que ocorreu na sexta-feira numa mina de carvão privada na localidade de Gelik, no concelho de Kilimli, província de Zonguldak.A explosão deu-se por volta das 10h00, numa mina situada na zona de Dereiçi. Após o alerta, foram mobilizadas para o local equipas da Autoridade de Gestão de Catástrofes e Situações de Emergência (AFAD), dos serviços de saúde e dos bombeiros. Os feridos retirados da mina foram transportados de ambulância para vários hospitais.De acordo com o jornal local “Pusula”, a explosão ocorreu numa exploração pertencente à empresa Demir Madencilik.",
-      "why": "«Explosão em mina de carvão na Turquia mata dois trabalhadores» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Explosão em mina de carvão na Turquia mata dois trabalhadores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-23T12:38:07+00:00",
-      "age_hours": 19.3,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/23/explosao-em-mina-de-carvao-na-turquia-mata-dois-trabalhadores",
-      "original_source": true,
-      "event_id": "evt-mundo-011",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Pelo menos três mineiros morreram e cinco ficaram feridos, dois deles com gravidade, numa explosão de gás que ocorreu na sexta-feira numa mina de carvão privada na localidade de Gelik, no concelho de Kilimli, província de Zonguldak.A explosão deu-se por volta das 10h00, numa mina situada na zona de Dereiçi. Após o alerta, foram mobilizadas para o local equipas da Autoridade de Gestão de Catástrofes e Situações de Emergência (AFAD), dos serviços de saúde e dos bombeiros. Os feridos retirados da mina foram transportados de ambulância para vários hospitais.De acordo com o jornal local “Pusula”, a explosão ocorreu numa exploração pertencente à empresa Demir Madencilik. «Explosão em mina de carvão na Turquia mata dois trabalhadores» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Explosão em mina de carvão na Turquia mata dois trabalhadores», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 4.98,
-      "source_tier": "C",
       "editorial_status": "HOJE"
     }
   ],
@@ -355,9 +324,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
-    "África": 2,
-    "Mundo": 5
+    "Moçambique": 5,
+    "África": 1,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
