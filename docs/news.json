@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T08:10:52.832175+00:00",
+  "updated_at": "2026-10-25T13:36:31.235952+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,42 +8,95 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás",
-      "summary": "Por: Paulino Checo da AIM, em Bahir Dar BAHIR DAR, Etiópia, 24 de Outubro (AIM) – O Presidente da República de Moçambique, Daniel Chapo, “associou” o surgimento do terrorismo na província de Cabo Delgado, em 2017, à descoberta de grandes reservas de gás natural naquela região, ocorrida em 2016, considerando coincidente a proximidade temporal entre os dois acontecimentos. O Chefe do Estado moçambicano defendeu, neste contexto, o reforço da cooperação entre os países africanos e do multilateralismo para proteger os recursos naturais e assegurar que estes contribuam para o desenvolvimento dos países detentores. Chapo falava hoje na cidade etíope de Bahir Dar, onde participa no 12.º Fórum de Tana, como orador do painel de alto nível subordinado ao tema “Construindo um Modelo Africano para a Paz e a Soberania numa Era de Rivalidade Geopolítica”. O debate contou também com a participação do Presidente do Gana, John Dramani Mahama, e do Vice-Presidente do Quénia, Kithure Kindiki, entre outras individualidades.",
-      "why": "«Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-25T04:02:48+00:00",
-      "age_hours": 4.1,
+      "title": "Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana",
+      "summary": "O Presidente da República, Daniel Chapo, considerou que a presença de Moçambique no XII Fórum de Alto Nível de Tana sobre Segurança permitiu partilhar a experiência nacional e conhecer os desafios enfrentados pelos demais países africanos, defendendo que o consenso alcançado entre os líderes deve traduzir-se num maior reforço da unidade e coesão do continente. […]",
+      "why": "«Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-25T10:07:53+00:00",
+      "age_hours": 3.5,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/25/chapo-associa-surgimento-do-terrorismo-em-cabo-delgado-a-descoberta-do-gas/",
+      "link": "https://opais.co.mz/chapo-destaca-partilha-de-experiencias-e-consenso-entre-lideres-africanos-no-forum-de-tana/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 3,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 2,
       "source_count": 2,
       "sources": [
-        "AIM Notícias",
-        "O País"
+        "O País",
+        "Jornal Notícias"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "O País",
       "status": "today",
       "confirmations": [
         {
-          "source": "O País",
-          "title": "Moçambique defende união africana no combate ao terrorismo",
-          "link": "https://opais.co.mz/mocambique-defende-uniao-africana-no-combate-ao-terrorismo/"
-        },
-        {
-          "source": "AIM Notícias",
-          "title": "Chapo propõe cooperação africana para consolidação da paz e proteção dos recursos",
-          "link": "https://aimnews.org/2026/10/24/chapo-propoe-cooperacao-africana-para-consolidacao-da-paz-e-protecao-dos-recursos/"
+          "source": "Jornal Notícias",
+          "title": "PR NO FORUM DE TANA: Moçambique reforça unidade e coesão dos países africanos",
+          "link": "https://www.jornalnoticias.co.mz/destaque/pr-no-forum-de-tana-mocambique-reforca-unidade-e-coesao-dos-paises-africanos/"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Por: Paulino Checo da AIM, em Bahir Dar BAHIR DAR, Etiópia, 24 de Outubro (AIM) – O Presidente da República de Moçambique, Daniel Chapo, “associou” o surgimento do terrorismo na província de Cabo Delgado, em 2017, à descoberta de grandes reservas de gás natural naquela região, ocorrida em 2016, considerando coincidente a proximidade temporal entre os dois acontecimentos. O Chefe do Estado moçambicano defendeu, neste contexto, o reforço da cooperação entre os países africanos e do multilateralismo para proteger os recursos naturais e assegurar que estes contribuam para o desenvolvimento dos países detentores. Chapo falava hoje na cidade etíope de Bahir Dar, onde participa no 12.º Fórum de Tana, como orador do painel de alto nível subordinado ao tema “Construindo um Modelo Africano para a Paz e a Soberania numa Era de Rivalidade Geopolítica”. O debate contou também com a participação do Presidente do Gana, John Dramani Mahama, e do Vice-Presidente do Quénia, Kithure Kindiki, entre outras individualidades. «Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.65,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, considerou que a presença de Moçambique no XII Fórum de Alto Nível de Tana sobre Segurança permitiu partilhar a experiência nacional e conhecer os desafios enfrentados pelos demais países africanos, defendendo que o consenso alcançado entre os líderes deve traduzir-se num maior reforço da unidade e coesão do continente. […]. «Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 14.77,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Presidenciais na Bulgária marcadas por dificuldades económicas e guerra",
+      "summary": "Os búlgaros vão às urnas, este domingo, para eleger o próximo presidente, numa campanha centrada nas crescentes dificuldades económicas e nos ataques de drones contra embarcações no mar Negro A votação servirá também como o primeiro grande teste para o partido \"Bulgária Progressista\", alinhado com Moscovo e apoiado pelo primeiro-ministro Rumen Radev, após o triunfo nas eleições parlamentares de abril Apesar de um número recorde de candidatos, espera-se que a disputa seja decidida numa segunda volta entre a atual presidente, Iliana Yotova (apoiada pelo partido de Radev), e o ex-primeiro-ministro interino Andrey Gyurov (apoiado pelos partidos da oposição pró-ocidental) A campanha concentrou-se intensamente na invasão da Ucrânia pela Rússia e no alargamento das hostilidades no mar Negro, onde os recentes ataques de drones contra embarcações comerciais, junto à costa búlgara, elevaram as preocupações com a segurança no país, que é membro da União Europeia e da NATO Os ataques geraram receios quanto às intenções da Rússia de escalar o conflito, levando o governo a solicitar assistência…",
+      "why": "«Presidenciais na Bulgária marcadas por dificuldades económicas e guerra» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Presidenciais na Bulgária marcadas por dificuldades económicas e guerra», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-25T10:39:35+00:00",
+      "age_hours": 2.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/presidenciais-na-bulgaria-marcadas-por-dificuldades-economicas-e-guerra_n1774134",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Os búlgaros vão às urnas, este domingo, para eleger o próximo presidente, numa campanha centrada nas crescentes dificuldades económicas e nos ataques de drones contra embarcações no mar Negro A votação servirá também como o primeiro grande teste para o partido \"Bulgária Progressista\", alinhado com Moscovo e apoiado pelo primeiro-ministro Rumen Radev, após o triunfo nas eleições parlamentares de abril Apesar de um número recorde de candidatos, espera-se que a disputa seja decidida numa segunda volta entre a atual presidente, Iliana Yotova (apoiada pelo partido de Radev), e o ex-primeiro-ministro interino Andrey Gyurov (apoiado pelos partidos da oposição pró-ocidental) A campanha concentrou-se intensamente na invasão da Ucrânia pela Rússia e no alargamento das hostilidades no mar Negro, onde os recentes ataques de drones contra embarcações comerciais, junto à costa búlgara, elevaram as preocupações com a segurança no país, que é membro da União Europeia e da NATO Os ataques geraram receios quanto às intenções da Rússia de escalar o conflito, levando o governo a solicitar assistência… «Presidenciais na Bulgária marcadas por dificuldades económicas e guerra» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Presidenciais na Bulgária marcadas por dificuldades económicas e guerra», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.4,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares",
+      "summary": "A empresa chinesa de engenharia e construção China Civil Engineering Construction Corporation (CCECC), foi seleccionada para construir a barragem de água do projecto conjunto entre Moçambique e Essuatíni, num contrato […]",
+      "why": "«Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-25T09:30:00+00:00",
+      "age_hours": 4.1,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/25/negocios/infra-estruturas/mocambique-essuatini-empresa-chinesa-ganha-contrato-para-barragem-de-40-milhoes-de-dolares/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A empresa chinesa de engenharia e construção China Civil Engineering Construction Corporation (CCECC), foi seleccionada para construir a barragem de água do projecto conjunto entre Moçambique e Essuatíni, num contrato […]. «Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.15,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -58,11 +111,11 @@
       "impact": "No caso de «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-25T04:52:23+00:00",
-      "age_hours": 3.3,
+      "age_hours": 8.7,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/25/pr-quer-captalizar-experiencia-da-ethiopian-airlines-na-reestruturacao-da-lam/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -72,95 +125,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Por: Paulino Checo, da AIM Bahir Dar, Etiópia, 24 de Outubro (AIM) – O Presidente da República, Daniel Chapo, pretende capitalizar a experiência da Ethiopian Airlines na reestruturação das Linhas Aéreas de Moçambique (LAM), no quadro do reforço da cooperação entre Moçambique e a Etiópia, tendo anunciado o início da ligação aérea entre Adis Abeba e Nacala, previsto para 27 de Outubro. “Queremos continuar a trabalhar com a experiência da Ethiopian Airlines, de forma que possamos continuar a reestruturar a nossa linha aérea de Moçambique, a LAM”, afirmou Chapo. O anúncio, está dentro do pacote dos resultados dos encontros bilaterais que o Chefe do Estado manteve com o Primeiro-Ministro da Etiópia, Abiy Ahmed, e o Presidente do Gana, John Dramani Mahama, à margem do 12.º Fórum de Tana, realizado na cidade etíope de Bahir Dar. O Chefe do Estado considera que a cooperação com a Etiópia poderá contribuir para o desenvolvimento da companhia aérea nacional, tendo em vista o reforço da sua capacidade operacional e a melhoria da sua posição no mercado regional. «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.31,
+      "editorial_score": 11.19,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Maputo: Autoridades Desmantelam Fábrica Ilegal de Drogas",
-      "summary": "As autoridades desmantelaram uma fábrica ilegal de drogas em Maputo e apreenderam enormes quantidades de ácidos usados para fabrico substâncias consideradas perigosas para a saúde, noticiou, neste sábado, 24 de […]",
-      "why": "«Maputo: Autoridades Desmantelam Fábrica Ilegal de Drogas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Maputo: Autoridades Desmantelam Fábrica Ilegal de Drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-24T15:30:00+00:00",
-      "age_hours": 16.7,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/24/desenvolvimento-2/maputo-autoridades-desmantelam-fabrica-ilegal-de-drogas/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "As autoridades desmantelaram uma fábrica ilegal de drogas em Maputo e apreenderam enormes quantidades de ácidos usados para fabrico substâncias consideradas perigosas para a saúde, noticiou, neste sábado, 24 de […]. «Maputo: Autoridades Desmantelam Fábrica Ilegal de Drogas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Maputo: Autoridades Desmantelam Fábrica Ilegal de Drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 10.52,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Em meio à morosidade, Mocuba já trata e recebe cartas de condução",
-      "summary": "A Medida visa aproximar os serviços dos cidadãos, enquanto especialista em segurança rodoviária critica a centralização da emissão dos documentos em Maputo. Os cidadãos residentes no distrito de Mocuba, na província da Zambézia, já podem tratar e receber cartas de condução sem necessidade de se deslocarem à cidade de Quelimane. A medida visa facilitar o […]",
-      "why": "«Em meio à morosidade, Mocuba já trata e recebe cartas de condução» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Em meio à morosidade, Mocuba já trata e recebe cartas de condução», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-24T13:15:43+00:00",
-      "age_hours": 18.9,
-      "within_24h": true,
-      "link": "https://opais.co.mz/em-meio-a-morosidade-mocuba-ja-trata-e-recebe-cartas-de-conducao/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A Medida visa aproximar os serviços dos cidadãos, enquanto especialista em segurança rodoviária critica a centralização da emissão dos documentos em Maputo. Os cidadãos residentes no distrito de Mocuba, na província da Zambézia, já podem tratar e receber cartas de condução sem necessidade de se deslocarem à cidade de Quelimane. A medida visa facilitar o […]. «Em meio à morosidade, Mocuba já trata e recebe cartas de condução» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Em meio à morosidade, Mocuba já trata e recebe cartas de condução», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 10.06,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida",
-      "summary": "Milhares de pessoas manifestaram-se hoje nas principais cidades italianas contra o aumento do custo de vida, preços das casas e despesas militares, protestos acompanhados por um forte dispositivo policial depois dos distúrbios no fim de semana passado, em Milão As manifestações percorreram cidades como Roma, Milão, Turim, Nápoles, Bolonha e Florença com uma grande vigilância policial, controlos nas estações de comboios e o reforço preventivo da segurança em zonas comerciais devido ao receio de novos saques Um dos momentos de maior tensão ocorreu em Bolonha (norte), onde uma manifestação inicialmente pacífica degenerou, pouco antes das 18:00 locais (17:00 em Lisboa), em confrontos com a polícia Grupos de manifestantes começaram a atirar pedras e garrafas contra os agentes, que responderam com canhões de água para dispersar a multidão Em Turim (norte), milhares de pessoas marcharam a partir da central Piazza Castello, que exibiram `slogans` e dirigiram insultos contra o Governo, numa manifestação em que se registaram confrontos e momentos de tensão com as forças policiais Entre as…",
-      "why": "«Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-24T22:27:27+00:00",
-      "age_hours": 9.7,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/milhares-de-pessoas-manifestaram-se-nas-principais-cidades-italianas-contra-custo-de-vida_n1774049",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Milhares de pessoas manifestaram-se hoje nas principais cidades italianas contra o aumento do custo de vida, preços das casas e despesas militares, protestos acompanhados por um forte dispositivo policial depois dos distúrbios no fim de semana passado, em Milão As manifestações percorreram cidades como Roma, Milão, Turim, Nápoles, Bolonha e Florença com uma grande vigilância policial, controlos nas estações de comboios e o reforço preventivo da segurança em zonas comerciais devido ao receio de novos saques Um dos momentos de maior tensão ocorreu em Bolonha (norte), onde uma manifestação inicialmente pacífica degenerou, pouco antes das 18:00 locais (17:00 em Lisboa), em confrontos com a polícia Grupos de manifestantes começaram a atirar pedras e garrafas contra os agentes, que responderam com canhões de água para dispersar a multidão Em Turim (norte), milhares de pessoas marcharam a partir da central Piazza Castello, que exibiram `slogans` e dirigiram insultos contra o Governo, numa manifestação em que se registaram confrontos e momentos de tensão com as forças policiais Entre as… «Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 9.98,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -168,15 +134,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Kiev ataca centro logístico na cidade russa de Omsk",
-      "summary": "A Ucrânia atacou com drones um centro de distribuição da gigante russa de comércio eletrónico Ozon, na cidade siberiana de Omsk, indicou o governador local, Vitaly Khotsenko, nas redes sociais A Ozon confirmou que se tratava de uma das suas instalações \"Retirámos rapidamente todos os funcionários.",
-      "why": "«Kiev ataca centro logístico na cidade russa de Omsk» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Kiev ataca centro logístico na cidade russa de Omsk», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro",
+      "summary": "É dia de escolher o presidente do Brasil: Lula da Silva ou Flávio Bolsonaro. Mais de 158 milhões de brasileiros são hoje chamados às urnas, nesta segunda volta das presidenciais. Acompanhamos aqui o dia de eleições",
+      "why": "«Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-24T22:30:53+00:00",
-      "age_hours": 9.7,
+      "published": "2026-10-25T12:54:23+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-ataca-centro-logistico-na-cidade-russa-de-omsk_n1774082",
+      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-milhoes-de-eleitores-decidem-hoje-entre-lula-e-bolsonaro_e1774136",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -187,67 +153,96 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Ucrânia atacou com drones um centro de distribuição da gigante russa de comércio eletrónico Ozon, na cidade siberiana de Omsk, indicou o governador local, Vitaly Khotsenko, nas redes sociais A Ozon confirmou que se tratava de uma das suas instalações \"Retirámos rapidamente todos os funcionários. «Kiev ataca centro logístico na cidade russa de Omsk» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Kiev ataca centro logístico na cidade russa de Omsk», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 8.98,
+      "detailed_summary": "É dia de escolher o presidente do Brasil: Lula da Silva ou Flávio Bolsonaro. Mais de 158 milhões de brasileiros são hoje chamados às urnas, nesta segunda volta das presidenciais. Acompanhamos aqui o dia de eleições. «Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.85,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos",
-      "summary": "O Instituto Industrial e Comercial 1.º de Maio de Quelimane enfrenta um elevado estado de degradação das suas infraestruturas, situação que já condicionou a admissão de novos alunos. Em 2026, a instituição não abriu vagas para novos ingressos, devido às condições físicas dos edifícios, enquanto os estudantes admitidos em 2024 e 2025 continuam a frequentar […]",
-      "why": "«Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-24T13:03:50+00:00",
-      "age_hours": 19.1,
+      "title": "Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU",
+      "summary": "O Presidente da República, Daniel Chapo, defendeu a união e a cooperação entre os países africanos, bem como o reforço do multilateralismo, como instrumentos para alcançar e manter a paz […]",
+      "why": "«Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-25T11:30:00+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://opais.co.mz/degradacao-do-instituto-industrial-e-comercial-1-o-de-maio-de-quelimane-trava-admissao-de-novos-alunos/",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/25/desenvolvimento-2/chapo-defende-uniao-africana-e-reforma-do-conselho-de-seguranca-da-onu/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "Diário Económico"
       ],
-      "primary_source": "O País",
+      "primary_source": "Diário Económico",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Instituto Industrial e Comercial 1.º de Maio de Quelimane enfrenta um elevado estado de degradação das suas infraestruturas, situação que já condicionou a admissão de novos alunos. Em 2026, a instituição não abriu vagas para novos ingressos, devido às condições físicas dos edifícios, enquanto os estudantes admitidos em 2024 e 2025 continuam a frequentar […]. «Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 8.02,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, defendeu a união e a cooperação entre os países africanos, bem como o reforço do multilateralismo, como instrumentos para alcançar e manter a paz […]. «Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 10.56,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Moçambique",
       "tags": [
-        "Economia"
+        "IA"
       ],
-      "title": "África do Sul: falhas nos serviços públicos ameaçam vitória do ANC",
-      "summary": "A crescente insatisfação da população sul-africana com a falta de água, electricidade e recolha de lixo está a enfraquecer o apoio ao Congresso Nacional Africano (ANC), numa altura em que o país se prepara para as eleições municipais, marcadas para 4 de Novembro. Várias sondagens recentes indicam uma redução da popularidade do partido, que enfrenta […]",
-      "why": "«África do Sul: falhas nos serviços públicos ameaçam vitória do ANC» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «África do Sul: falhas nos serviços públicos ameaçam vitória do ANC», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "O País",
-      "published": "2026-10-24T09:10:48+00:00",
-      "age_hours": 23.0,
+      "title": "Chefe do Estado participa na terceira Cimeira Rússia-África",
+      "summary": "O Presidente da República, Daniel Chapo, efectua de 27 a 29 de Outubro, uma visita de trabalho à Federação da Rússia, em resposta ao convite formulado pelo seu homólogo russo, Vladimir Putin, para participar na 3ª Cimeira Rússia-África. Durante a Cimeira, os Chefes de Estado vão adoptar três documentos, nomeadamente, a Declaração da 3ª Cimeira Rússia-África, o Plano de Acção 2027-2029 e a Declaração sobre a Cooperação no Domínio do Uso Pacífico das Tecnologias de Inteligência Artificial. À margem do encontro, o Presidente da República manterá um encontro com o Presidente Vladimir Putin, além de interagir com a comunidade moçambicana residente na Federação da Rússia e representantes de grandes empresas russas, indica o comunicado emitido pela Presidência da República. Esta será a primeira participação do Presidente Chapo na Cimeira Rússia-África, plataforma de diálogo destinada a promover e aprofundar mecanismos e estratégias de cooperação entre a Federação da Rússia e os países africanos, destaca o documento.",
+      "why": "«Chefe do Estado participa na terceira Cimeira Rússia-África» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Chefe do Estado participa na terceira Cimeira Rússia-África», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-25T10:24:24+00:00",
+      "age_hours": 3.2,
       "within_24h": true,
-      "link": "https://opais.co.mz/africa-do-sul-falhas-nos-servicos-publicos-ameacam-vitoria-do-anc/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/chefe-do-estado-participa-na-terceira-cimeira-russia-africa/",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "Jornal Notícias"
       ],
-      "primary_source": "O País",
+      "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A crescente insatisfação da população sul-africana com a falta de água, electricidade e recolha de lixo está a enfraquecer o apoio ao Congresso Nacional Africano (ANC), numa altura em que o país se prepara para as eleições municipais, marcadas para 4 de Novembro. Várias sondagens recentes indicam uma redução da popularidade do partido, que enfrenta […]. «África do Sul: falhas nos serviços públicos ameaçam vitória do ANC» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «África do Sul: falhas nos serviços públicos ameaçam vitória do ANC», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 7.21,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, efectua de 27 a 29 de Outubro, uma visita de trabalho à Federação da Rússia, em resposta ao convite formulado pelo seu homólogo russo, Vladimir Putin, para participar na 3ª Cimeira Rússia-África. Durante a Cimeira, os Chefes de Estado vão adoptar três documentos, nomeadamente, a Declaração da 3ª Cimeira Rússia-África, o Plano de Acção 2027-2029 e a Declaração sobre a Cooperação no Domínio do Uso Pacífico das Tecnologias de Inteligência Artificial. À margem do encontro, o Presidente da República manterá um encontro com o Presidente Vladimir Putin, além de interagir com a comunidade moçambicana residente na Federação da Rússia e representantes de grandes empresas russas, indica o comunicado emitido pela Presidência da República. Esta será a primeira participação do Presidente Chapo na Cimeira Rússia-África, plataforma de diálogo destinada a promover e aprofundar mecanismos e estratégias de cooperação entre a Federação da Rússia e os países africanos, destaca o documento. «Chefe do Estado participa na terceira Cimeira Rússia-África» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Chefe do Estado participa na terceira Cimeira Rússia-África», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 10.33,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mais de 134 mil brasileiros votam em Portugal. Segunda volta tensa para decidir entre Lula e Bolsonaro",
+      "summary": "As urnas abriram em Portugal às 8 horas da manhã deste domingo para que cerca de 134 mil eleitores inscritos pudessem exercer o seu direito de voto. Portugal é o segundo maior colégio eleitoral do Brasil, atrás dos EUA. A votação decorre em Lisboa, Porto e Faro entre as 8:00 e as 17:00.As sondagens realizadas antes da votação de hoje revelaram que os dois candidatos, que precisam de mais de 50% dos votos para se tornarem o próximo líder do Brasil em janeiro, estavam em empate técnico. A eleição opõe o veterano político de centro-esquerda Lula a Bolsonaro de extrema-direita e aliado do presidente dos EUA, Donald Trump.Flávio Bolsonaro superou Lula por mais de 2,2 milhões de votos no primeiro turno das eleições, no início deste mês. Mais de 33 milhões de eleitores, de um total de quase 160 milhões, abstiveram-se nessa altura.Este domingo, tanto Flávio Bolsonaro como Lula da Silva já votaram. No Rio de Janeiro, o primeiro dos candidatos, do Partido Liberal, referiu que \"chegou a hora da mudança de verdade\", em declarações aos jornalistas.",
+      "why": "«Mais de 134 mil brasileiros votam em Portugal. Segunda volta tensa para decidir entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Mais de 134 mil brasileiros votam em Portugal. Segunda volta tensa para decidir entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-25T10:35:13+00:00",
+      "age_hours": 3.0,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/25/mais-de-134-mil-brasileiros-votam-em-portugal-segunda-volta-tensa-para-decidir-entre-lula-",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "As urnas abriram em Portugal às 8 horas da manhã deste domingo para que cerca de 134 mil eleitores inscritos pudessem exercer o seu direito de voto. Portugal é o segundo maior colégio eleitoral do Brasil, atrás dos EUA. A votação decorre em Lisboa, Porto e Faro entre as 8:00 e as 17:00.As sondagens realizadas antes da votação de hoje revelaram que os dois candidatos, que precisam de mais de 50% dos votos para se tornarem o próximo líder do Brasil em janeiro, estavam em empate técnico. A eleição opõe o veterano político de centro-esquerda Lula a Bolsonaro de extrema-direita e aliado do presidente dos EUA, Donald Trump.Flávio Bolsonaro superou Lula por mais de 2,2 milhões de votos no primeiro turno das eleições, no início deste mês. Mais de 33 milhões de eleitores, de um total de quase 160 milhões, abstiveram-se nessa altura.Este domingo, tanto Flávio Bolsonaro como Lula da Silva já votaram. No Rio de Janeiro, o primeiro dos candidatos, do Partido Liberal, referiu que \"chegou a hora da mudança de verdade\", em declarações aos jornalistas. «Mais de 134 mil brasileiros votam em Portugal. Segunda volta tensa para decidir entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Mais de 134 mil brasileiros votam em Portugal. Segunda volta tensa para decidir entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.38,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -261,38 +256,9 @@
       "impact": "No caso de «Israel desloca cerca de 250 famílias palestinianas em Hebron após mortes de soldados», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-24T16:23:23+00:00",
-      "age_hours": 15.8,
+      "age_hours": 21.2,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/24/israel-desloca-cerca-de-250-familias-palestinianas-em-hebron-apos-mortes-de-soldados",
-      "original_source": true,
-      "event_id": "evt-mundo-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Forças israelitas realizaram no sábado uma importante operação de segurança na cidade de Hebron, na Cisjordânia ocupada, um dia depois de dois homens armados palestinianos matarem dois soldados israelitas e ferirem mais três num posto de controlo militar perto da cidade.O exército israelita afirmou que a operação tinha como objetivo localizar militantes e armas na zona onde os atacantes atuaram. Ambos os atiradores foram mortos durante a troca de tiros de sexta-feira.Primeiro-ministro Benjamin Netanyahu anunciou uma resposta militar de grande escala após o ataque, indicando que as forças israelitas iriam levar a cabo uma operação alargada em Hebron.Exército indicou que as suas forças estavam a realizar “buscas precisas, dirigidas e exaustivas” e que a operação deverá prolongar-se por vários dias.Segundo o exército israelita, a operação concentra-se na zona de onde partiram os atacantes. «Israel desloca cerca de 250 famílias palestinianas em Hebron após mortes de soldados» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Israel desloca cerca de 250 famílias palestinianas em Hebron após mortes de soldados», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 5.71,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Itália: militares patrulham Milão enquanto lojas fecham antes de protestos",
-      "summary": "Milão mantém-se em alerta antes de novas manifestações esperadas, com mais militares destacados e lojas a proteger as montras, uma semana após saqueios e confrontos com a polícia",
-      "why": "«Itália: militares patrulham Milão enquanto lojas fecham antes de protestos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Itália: militares patrulham Milão enquanto lojas fecham antes de protestos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-24T12:07:22+00:00",
-      "age_hours": 20.1,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/24/italia-militares-patrulham-milao-enquanto-lojas-fecham-antes-de-protestos",
       "original_source": true,
       "event_id": "evt-mundo-011",
       "cluster_size": 1,
@@ -303,8 +269,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Milão mantém-se em alerta antes de novas manifestações esperadas, com mais militares destacados e lojas a proteger as montras, uma semana após saqueios e confrontos com a polícia. «Itália: militares patrulham Milão enquanto lojas fecham antes de protestos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Itália: militares patrulham Milão enquanto lojas fecham antes de protestos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 3.81,
+      "detailed_summary": "Forças israelitas realizaram no sábado uma importante operação de segurança na cidade de Hebron, na Cisjordânia ocupada, um dia depois de dois homens armados palestinianos matarem dois soldados israelitas e ferirem mais três num posto de controlo militar perto da cidade.O exército israelita afirmou que a operação tinha como objetivo localizar militantes e armas na zona onde os atacantes atuaram. Ambos os atiradores foram mortos durante a troca de tiros de sexta-feira.Primeiro-ministro Benjamin Netanyahu anunciou uma resposta militar de grande escala após o ataque, indicando que as forças israelitas iriam levar a cabo uma operação alargada em Hebron.Exército indicou que as suas forças estavam a realizar “buscas precisas, dirigidas e exaustivas” e que a operação deverá prolongar-se por vários dias.Segundo o exército israelita, a operação concentra-se na zona de onde partiram os atacantes. «Israel desloca cerca de 250 famílias palestinianas em Hebron após mortes de soldados» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Israel desloca cerca de 250 famílias palestinianas em Hebron após mortes de soldados», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 4.58,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -329,7 +295,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
+    "África": 0,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
