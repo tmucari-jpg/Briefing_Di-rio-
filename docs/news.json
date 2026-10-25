@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T21:26:32.180278+00:00",
+  "updated_at": "2026-10-25T08:10:52.832175+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,28 +8,33 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Moçambique defende união africana no combate ao terrorismo",
-      "summary": "Moçambique defendeu hoje, na Etiópia, durante o 12.º Fórum de Alto Nível de Tana sobre Segurança em África, o reforço da união entre os países africanos e da cooperação internacional no combate ao terrorismo, considerando que a segurança é uma condição indispensável para o desenvolvimento. O Presidente da República, Daniel Chapo, chamou a atenção para […]",
-      "why": "«Moçambique defende união africana no combate ao terrorismo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moçambique defende união africana no combate ao terrorismo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-24T16:03:57+00:00",
-      "age_hours": 5.4,
+      "title": "Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás",
+      "summary": "Por: Paulino Checo da AIM, em Bahir Dar BAHIR DAR, Etiópia, 24 de Outubro (AIM) – O Presidente da República de Moçambique, Daniel Chapo, “associou” o surgimento do terrorismo na província de Cabo Delgado, em 2017, à descoberta de grandes reservas de gás natural naquela região, ocorrida em 2016, considerando coincidente a proximidade temporal entre os dois acontecimentos. O Chefe do Estado moçambicano defendeu, neste contexto, o reforço da cooperação entre os países africanos e do multilateralismo para proteger os recursos naturais e assegurar que estes contribuam para o desenvolvimento dos países detentores. Chapo falava hoje na cidade etíope de Bahir Dar, onde participa no 12.º Fórum de Tana, como orador do painel de alto nível subordinado ao tema “Construindo um Modelo Africano para a Paz e a Soberania numa Era de Rivalidade Geopolítica”. O debate contou também com a participação do Presidente do Gana, John Dramani Mahama, e do Vice-Presidente do Quénia, Kithure Kindiki, entre outras individualidades.",
+      "why": "«Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-25T04:02:48+00:00",
+      "age_hours": 4.1,
       "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-defende-uniao-africana-no-combate-ao-terrorismo/",
+      "link": "https://aimnews.org/2026/10/25/chapo-associa-surgimento-do-terrorismo-em-cabo-delgado-a-descoberta-do-gas/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 2,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 3,
       "source_count": 2,
       "sources": [
-        "O País",
-        "AIM Notícias"
+        "AIM Notícias",
+        "O País"
       ],
-      "primary_source": "O País",
+      "primary_source": "AIM Notícias",
       "status": "today",
       "confirmations": [
+        {
+          "source": "O País",
+          "title": "Moçambique defende união africana no combate ao terrorismo",
+          "link": "https://opais.co.mz/mocambique-defende-uniao-africana-no-combate-ao-terrorismo/"
+        },
         {
           "source": "AIM Notícias",
           "title": "Chapo propõe cooperação africana para consolidação da paz e proteção dos recursos",
@@ -37,8 +42,37 @@
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Moçambique defendeu hoje, na Etiópia, durante o 12.º Fórum de Alto Nível de Tana sobre Segurança em África, o reforço da união entre os países africanos e da cooperação internacional no combate ao terrorismo, considerando que a segurança é uma condição indispensável para o desenvolvimento. O Presidente da República, Daniel Chapo, chamou a atenção para […]. «Moçambique defende união africana no combate ao terrorismo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique defende união africana no combate ao terrorismo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 14.38,
+      "detailed_summary": "Por: Paulino Checo da AIM, em Bahir Dar BAHIR DAR, Etiópia, 24 de Outubro (AIM) – O Presidente da República de Moçambique, Daniel Chapo, “associou” o surgimento do terrorismo na província de Cabo Delgado, em 2017, à descoberta de grandes reservas de gás natural naquela região, ocorrida em 2016, considerando coincidente a proximidade temporal entre os dois acontecimentos. O Chefe do Estado moçambicano defendeu, neste contexto, o reforço da cooperação entre os países africanos e do multilateralismo para proteger os recursos naturais e assegurar que estes contribuam para o desenvolvimento dos países detentores. Chapo falava hoje na cidade etíope de Bahir Dar, onde participa no 12.º Fórum de Tana, como orador do painel de alto nível subordinado ao tema “Construindo um Modelo Africano para a Paz e a Soberania numa Era de Rivalidade Geopolítica”. O debate contou também com a participação do Presidente do Gana, John Dramani Mahama, e do Vice-Presidente do Quénia, Kithure Kindiki, entre outras individualidades. «Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Chapo “associa” surgimento do terrorismo em Cabo Delgado à descoberta do gás», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.65,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM",
+      "summary": "Por: Paulino Checo, da AIM Bahir Dar, Etiópia, 24 de Outubro (AIM) – O Presidente da República, Daniel Chapo, pretende capitalizar a experiência da Ethiopian Airlines na reestruturação das Linhas Aéreas de Moçambique (LAM), no quadro do reforço da cooperação entre Moçambique e a Etiópia, tendo anunciado o início da ligação aérea entre Adis Abeba e Nacala, previsto para 27 de Outubro. “Queremos continuar a trabalhar com a experiência da Ethiopian Airlines, de forma que possamos continuar a reestruturar a nossa linha aérea de Moçambique, a LAM”, afirmou Chapo. O anúncio, está dentro do pacote dos resultados dos encontros bilaterais que o Chefe do Estado manteve com o Primeiro-Ministro da Etiópia, Abiy Ahmed, e o Presidente do Gana, John Dramani Mahama, à margem do 12.º Fórum de Tana, realizado na cidade etíope de Bahir Dar. O Chefe do Estado considera que a cooperação com a Etiópia poderá contribuir para o desenvolvimento da companhia aérea nacional, tendo em vista o reforço da sua capacidade operacional e a melhoria da sua posição no mercado regional.",
+      "why": "«PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-25T04:52:23+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/25/pr-quer-captalizar-experiencia-da-ethiopian-airlines-na-reestruturacao-da-lam/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Por: Paulino Checo, da AIM Bahir Dar, Etiópia, 24 de Outubro (AIM) – O Presidente da República, Daniel Chapo, pretende capitalizar a experiência da Ethiopian Airlines na reestruturação das Linhas Aéreas de Moçambique (LAM), no quadro do reforço da cooperação entre Moçambique e a Etiópia, tendo anunciado o início da ligação aérea entre Adis Abeba e Nacala, previsto para 27 de Outubro. “Queremos continuar a trabalhar com a experiência da Ethiopian Airlines, de forma que possamos continuar a reestruturar a nossa linha aérea de Moçambique, a LAM”, afirmou Chapo. O anúncio, está dentro do pacote dos resultados dos encontros bilaterais que o Chefe do Estado manteve com o Primeiro-Ministro da Etiópia, Abiy Ahmed, e o Presidente do Gana, John Dramani Mahama, à margem do 12.º Fórum de Tana, realizado na cidade etíope de Bahir Dar. O Chefe do Estado considera que a cooperação com a Etiópia poderá contribuir para o desenvolvimento da companhia aérea nacional, tendo em vista o reforço da sua capacidade operacional e a melhoria da sua posição no mercado regional. «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.31,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -53,11 +87,11 @@
       "impact": "No caso de «Maputo: Autoridades Desmantelam Fábrica Ilegal de Drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-24T15:30:00+00:00",
-      "age_hours": 5.9,
+      "age_hours": 16.7,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/24/desenvolvimento-2/maputo-autoridades-desmantelam-fabrica-ilegal-de-drogas/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -67,7 +101,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "As autoridades desmantelaram uma fábrica ilegal de drogas em Maputo e apreenderam enormes quantidades de ácidos usados para fabrico substâncias consideradas perigosas para a saúde, noticiou, neste sábado, 24 de […]. «Maputo: Autoridades Desmantelam Fábrica Ilegal de Drogas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Maputo: Autoridades Desmantelam Fábrica Ilegal de Drogas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.77,
+      "editorial_score": 10.52,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -82,11 +116,11 @@
       "impact": "No caso de «Em meio à morosidade, Mocuba já trata e recebe cartas de condução», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "O País",
       "published": "2026-10-24T13:15:43+00:00",
-      "age_hours": 8.2,
+      "age_hours": 18.9,
       "within_24h": true,
       "link": "https://opais.co.mz/em-meio-a-morosidade-mocuba-ja-trata-e-recebe-cartas-de-conducao/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -96,37 +130,37 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A Medida visa aproximar os serviços dos cidadãos, enquanto especialista em segurança rodoviária critica a centralização da emissão dos documentos em Maputo. Os cidadãos residentes no distrito de Mocuba, na província da Zambézia, já podem tratar e receber cartas de condução sem necessidade de se deslocarem à cidade de Quelimane. A medida visa facilitar o […]. «Em meio à morosidade, Mocuba já trata e recebe cartas de condução» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Em meio à morosidade, Mocuba já trata e recebe cartas de condução», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.29,
+      "editorial_score": 10.06,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Cooperativas/Moçambique prevê criar meio milhão de empregos até 2046",
-      "summary": "Maputo, 24 Out (AIM) – Moçambique prevê criar 500 mil postos de trabalho através da formalização de 10 mil cooperativas e da integração de 1,5 milhões de operadores da economia informal, no âmbito do Programa Nacional de Desenvolvimento Cooperativo (PNDC) 2026–2046. “Formalizar 10 mil cooperativas, integrar 1,5 milhões de operadores, hoje na informalidade, e criar 500 mil postos de trabalho” é o que está previsto no PNDC, segundo o ministro da Economia, Basílio Muhate. Na apresentação de metas da iniciativa que pretende fortalecer o movimento cooperativo nacional ao longo de 20 anos, o ministro disse durante o lançamento do PNDC, em Maputo, esta sexta-feira (23) que o programa visa organizar os pequenos produtores e outros operadores económicos em estruturas colectivas, de modo a reforçar a sua capacidade de negociação, facilitar o acesso ao financiamento e criar melhores condições para a comercialização da produção nacional. “Mais de oito em cada dez moçambicanos trabalham na economia informal”, disse Muhate.",
-      "why": "«Cooperativas/Moçambique prevê criar meio milhão de empregos até 2046» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Cooperativas/Moçambique prevê criar meio milhão de empregos até 2046», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-10-24T06:43:17+00:00",
-      "age_hours": 14.7,
+      "title": "Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida",
+      "summary": "Milhares de pessoas manifestaram-se hoje nas principais cidades italianas contra o aumento do custo de vida, preços das casas e despesas militares, protestos acompanhados por um forte dispositivo policial depois dos distúrbios no fim de semana passado, em Milão As manifestações percorreram cidades como Roma, Milão, Turim, Nápoles, Bolonha e Florença com uma grande vigilância policial, controlos nas estações de comboios e o reforço preventivo da segurança em zonas comerciais devido ao receio de novos saques Um dos momentos de maior tensão ocorreu em Bolonha (norte), onde uma manifestação inicialmente pacífica degenerou, pouco antes das 18:00 locais (17:00 em Lisboa), em confrontos com a polícia Grupos de manifestantes começaram a atirar pedras e garrafas contra os agentes, que responderam com canhões de água para dispersar a multidão Em Turim (norte), milhares de pessoas marcharam a partir da central Piazza Castello, que exibiram `slogans` e dirigiram insultos contra o Governo, numa manifestação em que se registaram confrontos e momentos de tensão com as forças policiais Entre as…",
+      "why": "«Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-24T22:27:27+00:00",
+      "age_hours": 9.7,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/24/cooperativas-mocambique-preve-criar-meio-milhao-de-empregos-ate-2046/",
+      "link": "https://www.rtp.pt/noticias/mundo/milhares-de-pessoas-manifestaram-se-nas-principais-cidades-italianas-contra-custo-de-vida_n1774049",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM Notícias"
+        "RTP Notícias"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 24 Out (AIM) – Moçambique prevê criar 500 mil postos de trabalho através da formalização de 10 mil cooperativas e da integração de 1,5 milhões de operadores da economia informal, no âmbito do Programa Nacional de Desenvolvimento Cooperativo (PNDC) 2026–2046. “Formalizar 10 mil cooperativas, integrar 1,5 milhões de operadores, hoje na informalidade, e criar 500 mil postos de trabalho” é o que está previsto no PNDC, segundo o ministro da Economia, Basílio Muhate. Na apresentação de metas da iniciativa que pretende fortalecer o movimento cooperativo nacional ao longo de 20 anos, o ministro disse durante o lançamento do PNDC, em Maputo, esta sexta-feira (23) que o programa visa organizar os pequenos produtores e outros operadores económicos em estruturas colectivas, de modo a reforçar a sua capacidade de negociação, facilitar o acesso ao financiamento e criar melhores condições para a comercialização da produção nacional. “Mais de oito em cada dez moçambicanos trabalham na economia informal”, disse Muhate. «Cooperativas/Moçambique prevê criar meio milhão de empregos até 2046» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Cooperativas/Moçambique prevê criar meio milhão de empregos até 2046», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.94,
-      "source_tier": "B",
+      "opportunity_flag": false,
+      "detailed_summary": "Milhares de pessoas manifestaram-se hoje nas principais cidades italianas contra o aumento do custo de vida, preços das casas e despesas militares, protestos acompanhados por um forte dispositivo policial depois dos distúrbios no fim de semana passado, em Milão As manifestações percorreram cidades como Roma, Milão, Turim, Nápoles, Bolonha e Florença com uma grande vigilância policial, controlos nas estações de comboios e o reforço preventivo da segurança em zonas comerciais devido ao receio de novos saques Um dos momentos de maior tensão ocorreu em Bolonha (norte), onde uma manifestação inicialmente pacífica degenerou, pouco antes das 18:00 locais (17:00 em Lisboa), em confrontos com a polícia Grupos de manifestantes começaram a atirar pedras e garrafas contra os agentes, que responderam com canhões de água para dispersar a multidão Em Turim (norte), milhares de pessoas marcharam a partir da central Piazza Castello, que exibiram `slogans` e dirigiram insultos contra o Governo, numa manifestação em que se registaram confrontos e momentos de tensão com as forças policiais Entre as… «Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Milhares de pessoas manifestaram-se nas principais cidades italianas contra custo de vida», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 9.98,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -134,15 +168,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Israelitas escolhem novo governo na próxima terça-feira",
-      "summary": "As sondagens apontam para uma mudança. Gadi Eisenkot poderá vir a ser o próximo primeiro-ministro, mas para isso vai ter que fazer coligações com outros partidos",
-      "why": "«Israelitas escolhem novo governo na próxima terça-feira» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Israelitas escolhem novo governo na próxima terça-feira», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Kiev ataca centro logístico na cidade russa de Omsk",
+      "summary": "A Ucrânia atacou com drones um centro de distribuição da gigante russa de comércio eletrónico Ozon, na cidade siberiana de Omsk, indicou o governador local, Vitaly Khotsenko, nas redes sociais A Ozon confirmou que se tratava de uma das suas instalações \"Retirámos rapidamente todos os funcionários.",
+      "why": "«Kiev ataca centro logístico na cidade russa de Omsk» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «Kiev ataca centro logístico na cidade russa de Omsk», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "RTP Notícias",
-      "published": "2026-10-24T21:24:47+00:00",
-      "age_hours": 0.0,
+      "published": "2026-10-24T22:30:53+00:00",
+      "age_hours": 9.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/israelitas-escolhem-novo-governo-na-proxima-terca-feira_v1774081",
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-ataca-centro-logistico-na-cidade-russa-de-omsk_n1774082",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -153,45 +187,38 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "As sondagens apontam para uma mudança. Gadi Eisenkot poderá vir a ser o próximo primeiro-ministro, mas para isso vai ter que fazer coligações com outros partidos. «Israelitas escolhem novo governo na próxima terça-feira» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Israelitas escolhem novo governo na próxima terça-feira», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 11.0,
+      "detailed_summary": "A Ucrânia atacou com drones um centro de distribuição da gigante russa de comércio eletrónico Ozon, na cidade siberiana de Omsk, indicou o governador local, Vitaly Khotsenko, nas redes sociais A Ozon confirmou que se tratava de uma das suas instalações \"Retirámos rapidamente todos os funcionários. «Kiev ataca centro logístico na cidade russa de Omsk» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Kiev ataca centro logístico na cidade russa de Omsk», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 8.98,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Trump ameaça o Irão com outra operação militar",
-      "summary": "Uma nova \"Fúria Épica\" a pouco mais de uma semana das eleições intercalares. Uma ameaça depois dos avisos das secretas sobre planos iranianos para matar americanos no Médio Oriente",
-      "why": "«Trump ameaça o Irão com outra operação militar» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Trump ameaça o Irão com outra operação militar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-24T21:06:47+00:00",
-      "age_hours": 0.3,
+      "title": "Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos",
+      "summary": "O Instituto Industrial e Comercial 1.º de Maio de Quelimane enfrenta um elevado estado de degradação das suas infraestruturas, situação que já condicionou a admissão de novos alunos. Em 2026, a instituição não abriu vagas para novos ingressos, devido às condições físicas dos edifícios, enquanto os estudantes admitidos em 2024 e 2025 continuam a frequentar […]",
+      "why": "«Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-24T13:03:50+00:00",
+      "age_hours": 19.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/trump-ameaca-o-irao-com-outra-operacao-militar_v1774068",
+      "link": "https://opais.co.mz/degradacao-do-instituto-industrial-e-comercial-1-o-de-maio-de-quelimane-trava-admissao-de-novos-alunos/",
       "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 2,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "O País"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "O País",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Trump admite nova operação militar no Irão",
-          "link": "https://www.rtp.pt/noticias/mundo/trump-admite-nova-operacao-militar-no-irao_v1773962"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "Uma nova \"Fúria Épica\" a pouco mais de uma semana das eleições intercalares. Uma ameaça depois dos avisos das secretas sobre planos iranianos para matar americanos no Médio Oriente. «Trump ameaça o Irão com outra operação militar» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Trump ameaça o Irão com outra operação militar», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.94,
-      "source_tier": "A",
+      "detailed_summary": "O Instituto Industrial e Comercial 1.º de Maio de Quelimane enfrenta um elevado estado de degradação das suas infraestruturas, situação que já condicionou a admissão de novos alunos. Em 2026, a instituição não abriu vagas para novos ingressos, devido às condições físicas dos edifícios, enquanto os estudantes admitidos em 2024 e 2025 continuam a frequentar […]. «Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Degradação do Instituto Industrial e Comercial 1.º de maio de Quelimane trava admissão de novos alunos», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 8.02,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -205,7 +232,7 @@
       "impact": "No caso de «África do Sul: falhas nos serviços públicos ameaçam vitória do ANC», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "O País",
       "published": "2026-10-24T09:10:48+00:00",
-      "age_hours": 12.3,
+      "age_hours": 23.0,
       "within_24h": true,
       "link": "https://opais.co.mz/africa-do-sul-falhas-nos-servicos-publicos-ameacam-vitoria-do-anc/",
       "original_source": true,
@@ -219,7 +246,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A crescente insatisfação da população sul-africana com a falta de água, electricidade e recolha de lixo está a enfraquecer o apoio ao Congresso Nacional Africano (ANC), numa altura em que o país se prepara para as eleições municipais, marcadas para 4 de Novembro. Várias sondagens recentes indicam uma redução da popularidade do partido, que enfrenta […]. «África do Sul: falhas nos serviços públicos ameaçam vitória do ANC» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «África do Sul: falhas nos serviços públicos ameaçam vitória do ANC», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 9.44,
+      "editorial_score": 7.21,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -234,11 +261,11 @@
       "impact": "No caso de «Israel desloca cerca de 250 famílias palestinianas em Hebron após mortes de soldados», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-24T16:23:23+00:00",
-      "age_hours": 5.0,
+      "age_hours": 15.8,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/24/israel-desloca-cerca-de-250-familias-palestinianas-em-hebron-apos-mortes-de-soldados",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -248,7 +275,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Forças israelitas realizaram no sábado uma importante operação de segurança na cidade de Hebron, na Cisjordânia ocupada, um dia depois de dois homens armados palestinianos matarem dois soldados israelitas e ferirem mais três num posto de controlo militar perto da cidade.O exército israelita afirmou que a operação tinha como objetivo localizar militantes e armas na zona onde os atacantes atuaram. Ambos os atiradores foram mortos durante a troca de tiros de sexta-feira.Primeiro-ministro Benjamin Netanyahu anunciou uma resposta militar de grande escala após o ataque, indicando que as forças israelitas iriam levar a cabo uma operação alargada em Hebron.Exército indicou que as suas forças estavam a realizar “buscas precisas, dirigidas e exaustivas” e que a operação deverá prolongar-se por vários dias.Segundo o exército israelita, a operação concentra-se na zona de onde partiram os atacantes. «Israel desloca cerca de 250 famílias palestinianas em Hebron após mortes de soldados» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Israel desloca cerca de 250 famílias palestinianas em Hebron após mortes de soldados», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.96,
+      "editorial_score": 5.71,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -263,11 +290,11 @@
       "impact": "No caso de «Itália: militares patrulham Milão enquanto lojas fecham antes de protestos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-24T12:07:22+00:00",
-      "age_hours": 9.3,
+      "age_hours": 20.1,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/24/italia-militares-patrulham-milao-enquanto-lojas-fecham-antes-de-protestos",
       "original_source": true,
-      "event_id": "evt-mundo-008",
+      "event_id": "evt-mundo-011",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -277,7 +304,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Milão mantém-se em alerta antes de novas manifestações esperadas, com mais militares destacados e lojas a proteger as montras, uma semana após saqueios e confrontos com a polícia. «Itália: militares patrulham Milão enquanto lojas fecham antes de protestos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Itália: militares patrulham Milão enquanto lojas fecham antes de protestos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 6.06,
+      "editorial_score": 3.81,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -301,7 +328,7 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
+    "Moçambique": 5,
     "África": 1,
     "Mundo": 4
   },
