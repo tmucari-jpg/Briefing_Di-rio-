@@ -1,10 +1,156 @@
 {
-  "updated_at": "2026-10-25T13:36:39.011562+00:00",
+  "updated_at": "2026-10-25T18:13:07.946976+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Chapo calls for cooperation to protect Africa’s strategic minerals",
+      "summary": "Maputo, 25 Oct (AIM) – Mozambican President Daniel Chapo has called for stronger cooperation among African countries and international organizations to protect the continent’s natural resources amid growing international competition for strategic minerals, natural gas and oil. Speaking at the 12th Tana Forum in Bahir Dar, Ethiopia, on Saturday, Chapo argued that geopolitical rivalries and the global energy transition require African countries to coordinate their efforts to ensure that natural resources contribute to the development of the countries that possess them. The Head of State drew attention to the timing of the discovery of major natural gas reserves in Mozambique’s northern province of Cabo Delgado in 2016 and the emergence of terrorism in the region in 2017, suggesting that the proximity of the two events was too striking to ignore. “We discovered gas reserves in 2016 in Cabo Delgado, and around the same time, terrorism appeared in 2017.",
+      "why": "«Chapo calls for cooperation to protect Africa’s strategic minerals» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Chapo calls for cooperation to protect Africa’s strategic minerals», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "AIM News",
+      "published": "2026-10-25T15:42:49+00:00",
+      "age_hours": 2.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/25/chapo-calls-for-cooperation-to-protect-africas-strategic-minerals/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 25 Oct (AIM) – Mozambican President Daniel Chapo has called for stronger cooperation among African countries and international organizations to protect the continent’s natural resources amid growing international competition for strategic minerals, natural gas and oil. Speaking at the 12th Tana Forum in Bahir Dar, Ethiopia, on Saturday, Chapo argued that geopolitical rivalries and the global energy transition require African countries to coordinate their efforts to ensure that natural resources contribute to the development of the countries that possess them. The Head of State drew attention to the timing of the discovery of major natural gas reserves in Mozambique’s northern province of Cabo Delgado in 2016 and the emergence of terrorism in the region in 2017, suggesting that the proximity of the two events was too striking to ignore. “We discovered gas reserves in 2016 in Cabo Delgado, and around the same time, terrorism appeared in 2017. «Chapo calls for cooperation to protect Africa’s strategic minerals» matters because it may change energy and investment decisions affecting Moçambique. For «Chapo calls for cooperation to protect Africa’s strategic minerals», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 15.48,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Government plans to create 500,000 jobs under PNDC",
+      "summary": "Maputo, 25 Oct (AIM) – The Mozambican Government plans to create 500,000 jobs by formalizing 10,000 cooperatives and integrating 1.5 million informal economy operators into the formal sector. The plan is part of the 20-year National Cooperative Development Programme (PNDC). According to Economy Minister Basílio Muhate, speaking at the launch of PNDC 2026–2046, in Maputo, the initiative seeks to organize small-scale producers and other economic operators into cooperatives to strengthen their bargaining power, improve access to financing and facilitate the marketing of locally produced goods. “More than eight out of every ten Mozambicans work in the informal economy. Vendors, fishermen, carpenters, artisans and farmers generate income and support families but face difficulties because they operate individually. These are not complaints from people who do not want to work.",
+      "why": "«Government plans to create 500,000 jobs under PNDC» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Government plans to create 500,000 jobs under PNDC», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "AIM News",
+      "published": "2026-10-25T15:32:34+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/25/government-plans-to-create-500000-jobs-under-pndc/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 25 Oct (AIM) – The Mozambican Government plans to create 500,000 jobs by formalizing 10,000 cooperatives and integrating 1.5 million informal economy operators into the formal sector. The plan is part of the 20-year National Cooperative Development Programme (PNDC). According to Economy Minister Basílio Muhate, speaking at the launch of PNDC 2026–2046, in Maputo, the initiative seeks to organize small-scale producers and other economic operators into cooperatives to strengthen their bargaining power, improve access to financing and facilitate the marketing of locally produced goods. “More than eight out of every ten Mozambicans work in the informal economy. Vendors, fishermen, carpenters, artisans and farmers generate income and support families but face difficulties because they operate individually. These are not complaints from people who do not want to work. «Government plans to create 500,000 jobs under PNDC» helps explain a concrete economic or business change relevant to Moçambique. For «Government plans to create 500,000 jobs under PNDC», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 14.44,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+      "summary": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran",
+      "why": "«How is the US-Israeli war on Iran causing havoc in Europe?» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «How is the US-Israeli war on Iran causing havoc in Europe?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-25T14:47:55+00:00",
+      "age_hours": 3.4,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran. «How is the US-Israeli war on Iran causing havoc in Europe?» matters because it may change energy and investment decisions affecting Mundo. For «How is the US-Israeli war on Iran causing havoc in Europe?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 12.29,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+      "summary": "As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining",
+      "why": "«The search for gold is a dangerous and laborious gamble for Sudan’s miners» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «The search for gold is a dangerous and laborious gamble for Sudan’s miners», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-25T14:03:17+00:00",
+      "age_hours": 4.2,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "As Sudan’s war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining. «The search for gold is a dangerous and laborious gamble for Sudan’s miners» deserves attention because it may change political, diplomatic or security risks. For «The search for gold is a dangerous and laborious gamble for Sudan’s miners», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 12.12,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+      "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection The first confirmed Ebola patients in Kenya and Nigeria may have crossed paths at Uganda's Entebbe International Airport, according to African health officials, as new information from Switzerland contradicts Uganda's account of the Nigerian patient's travel history Uganda , a country reporting no active Ebola infections, has become a focus of investigations into cases thousands of kilometers apart Uganda insists that it has no confirmed active cases of the deadly virus .",
+      "why": "«Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "DW English",
+      "published": "2026-10-25T13:41:00+00:00",
+      "age_hours": 4.5,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection The first confirmed Ebola patients in Kenya and Nigeria may have crossed paths at Uganda's Entebbe International Airport, according to African health officials, as new information from Switzerland contradicts Uganda's account of the Nigerian patient's travel history Uganda , a country reporting no active Ebola infections, has become a focus of investigations into cases thousands of kilometers apart Uganda insists that it has no confirmed active cases of the deadly virus . «Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…» deserves attention because it may change political, diplomatic or security risks. For «Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 12.06,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "África",
       "tags": [
@@ -16,11 +162,11 @@
       "impact": "For «'I cannot teach you integrity': How employee theft is hurting small businesses in Africa», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "BBC Africa",
       "published": "2026-10-25T08:36:47+00:00",
-      "age_hours": 5.0,
+      "age_hours": 9.6,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,80 +176,65 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Kenyan food creator That Girl Boina shut her waxing studio due to employee theft When popular Kenyan food creator That Girl Boina took a two-week holiday to Europe, she expected to relax. A week into the trip, an Instagram direct message exposed a problem that would ultimately lead to the closure of her business \"I was at your studio, I liked everything. The only problem was that I was asked to send money to a different number. It wasn't the number on the wall,\" a customer wrote to her Boina had opened Waxaholic Studio, a waxing and hydrafacial parlour in Nairobi's central business district, on 1 September 2024. A year later, she had hired a receptionist and two specialists and felt confident enough to take a two-week holiday, her first international trip of the year \"I trusted them. It's two rooms and a reception - how do you mess that up?\" she recalls thinking \"It never occurred to me that maybe I was getting clients and someone else was stealing from me,\" she tells the BBC The discovery prompted Boina to examine the business more closely. «'I cannot teach you integrity': How employee theft is hurting small businesses in Africa» helps explain a concrete economic or business change relevant to África. For «'I cannot teach you integrity': How employee theft is hurting small businesses in Africa», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 12.96,
+      "editorial_score": 12.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Economia",
         "Segurança"
       ],
-      "title": "Mozambique: Direct flights between Nacala and Addis Ababa to begin on Tuesday",
-      "summary": "The launch of this service represents a step forward in strengthening Mozambique’s air connectivity with international markets, creating new opportunities to attract investment, facilitate trade and boost tourism in the country’s northern region In a statement, the Government, through the Ministry of Transport and Logistics, reiterated its commitment to continuing to promote new international routes to boost regional integration and the economic competitiveness of national infrastructure READ: Ethiopian Airlines to launch new passenger service to Nacala, Mozambique, on 27 October",
-      "why": "«Mozambique: Direct flights between Nacala and Addis Ababa to begin on Tuesday» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Mozambique: Direct flights between Nacala and Addis Ababa to begin on Tuesday», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-23T14:54:19+00:00",
-      "age_hours": 46.7,
-      "within_24h": false,
-      "link": "https://clubofmozambique.com/news/mozambique-direct-flights-between-nacala-and-addis-ababa-to-begin-on-tuesday/",
+      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+      "summary": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind",
+      "why": "«AI’s ‘opportunity divide’ could deepen global inequality, UN official warns» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «AI’s ‘opportunity divide’ could deepen global inequality, UN official warns», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-25T17:26:22+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Club of Mozambique"
+        "Al Jazeera English"
       ],
-      "primary_source": "Club of Mozambique",
-      "status": "update",
-      "opportunity_flag": true,
-      "detailed_summary": "The launch of this service represents a step forward in strengthening Mozambique’s air connectivity with international markets, creating new opportunities to attract investment, facilitate trade and boost tourism in the country’s northern region In a statement, the Government, through the Ministry of Transport and Logistics, reiterated its commitment to continuing to promote new international routes to boost regional integration and the economic competitiveness of national infrastructure READ: Ethiopian Airlines to launch new passenger service to Nacala, Mozambique, on 27 October. «Mozambique: Direct flights between Nacala and Addis Ababa to begin on Tuesday» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: Direct flights between Nacala and Addis Ababa to begin on Tuesday», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 12.79,
-      "source_tier": "B",
-      "editorial_status": "ACTUALIZAÇÃO"
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind. «AI’s ‘opportunity divide’ could deepen global inequality, UN official warns» deserves attention because it may change political, diplomatic or security risks. For «AI’s ‘opportunity divide’ could deepen global inequality, UN official warns», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Israel to close all West Bank land crossings on election day",
-      "summary": "After a deadly attack which killed two Israeli soldiers on Friday, the Israeli military has said all land border points between Israel and the occupied West Bank will be closed during Tuesday's election The Israeli military said on Sunday that all land crossings between Israel and the West Bank will be closed during Tuesday's parliamentary election The Israel Defense Forces (IDF) said that, from Sunday, Palestinians would \"not be permitted to enter Israeli communities in Judea and Samaria and the Jordan Valley for work\" — using terms used by many in Israel to refer to the occupied territories in the West Bank The army added that it would enforce \"a ban on the entry and exit of Palestinian workers … as well as the closure of all land crossings throughout Election Day\" on October 27 The announcement came amid an ongoing Israeli military operation in the West Bank following a deadly attack by Palestinian gunmen near the city of Hebron on Friday Two Israeli soldiers were killed and three others injured in the attack, according to the IDF, which said the two suspected attackers were also…",
-      "why": "«Israel to close all West Bank land crossings on election day» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Israel to close all West Bank land crossings on election day», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-10-25T13:09:00+00:00",
-      "age_hours": 0.5,
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Venezuelan opposition leader María Corina Machado has returned home to a fraught political landscape after over 10 months in exile \"I am here. With you,\" Machado wrote on X on Sunday Her ally, former presidential candidate Edmundo González, confirmed the news minutes later, writing: \"I am thrilled to announce to you that our leader, my dear María Corina, is on Venezuelan soil.\" In January, a month after Machado left Venezuela to accept the Nobel Peace Prize in Norway, the US seized her opponent, President Nicolás Maduro The Trump administration then backed his deputy, Delcy Rodríguez, as leader, and she was sworn in as interim president, later signing an oil deal with the US Machado was photographed on Sunday attending Mass at a church in the Venezuelan state of Lara, surrounded by supporters hugging her and clasping her hands \"Today is a very important day for Venezuelans.",
+      "why": "«Venezuelan opposition leader María Machado returns after months in exile» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Venezuelan opposition leader María Machado returns after months in exile», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-25T16:21:40+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 3,
-      "source_count": 3,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "DW English",
-        "Al Jazeera English",
         "BBC World"
       ],
-      "primary_source": "DW English",
+      "primary_source": "BBC World",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Al Jazeera English",
-          "title": "Israel to close occupied West Bank crossings as it locks down Hebron",
-          "link": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss"
-        },
-        {
-          "source": "BBC World",
-          "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-          "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "After a deadly attack which killed two Israeli soldiers on Friday, the Israeli military has said all land border points between Israel and the occupied West Bank will be closed during Tuesday's election The Israeli military said on Sunday that all land crossings between Israel and the West Bank will be closed during Tuesday's parliamentary election The Israel Defense Forces (IDF) said that, from Sunday, Palestinians would \"not be permitted to enter Israeli communities in Judea and Samaria and the Jordan Valley for work\" — using terms used by many in Israel to refer to the occupied territories in the West Bank The army added that it would enforce \"a ban on the entry and exit of Palestinian workers … as well as the closure of all land crossings throughout Election Day\" on October 27 The announcement came amid an ongoing Israeli military operation in the West Bank following a deadly attack by Palestinian gunmen near the city of Hebron on Friday Two Israeli soldiers were killed and three others injured in the attack, according to the IDF, which said the two suspected attackers were also… «Israel to close all West Bank land crossings on election day» is worth following because of its possible economic, institutional or regional effects. For «Israel to close all West Bank land crossings on election day», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 12.4,
+      "detailed_summary": "Venezuelan opposition leader María Corina Machado has returned home to a fraught political landscape after over 10 months in exile \"I am here. With you,\" Machado wrote on X on Sunday Her ally, former presidential candidate Edmundo González, confirmed the news minutes later, writing: \"I am thrilled to announce to you that our leader, my dear María Corina, is on Venezuelan soil.\" In January, a month after Machado left Venezuela to accept the Nobel Peace Prize in Norway, the US seized her opponent, President Nicolás Maduro The Trump administration then backed his deputy, Delcy Rodríguez, as leader, and she was sworn in as interim president, later signing an oil deal with the US Machado was photographed on Sunday attending Mass at a church in the Venezuelan state of Lara, surrounded by supporters hugging her and clasping her hands \"Today is a very important day for Venezuelans. «Venezuelan opposition leader María Machado returns after months in exile» matters because it may change energy and investment decisions affecting Mundo. For «Venezuelan opposition leader María Machado returns after months in exile», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 11.6,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -120,11 +251,11 @@
       "impact": "For «Nigeria: Tinubu launches reelection bid amid economic woes», the effects may reach prices, projects, suppliers and supply chains connected to África.",
       "source": "DW English",
       "published": "2026-10-24T23:49:00+00:00",
-      "age_hours": 13.8,
+      "age_hours": 18.4,
       "within_24h": true,
       "link": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-áfrica-004",
+      "event_id": "evt-áfrica-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -134,65 +265,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "President Bola Tinubu promised \"a better tomorrow\" for Nigerians while kicking off his next electoral campaign, while also blaming his rivals for poverty plaguing Africa's most populous nation Nigeria 's President Bola Tinubu on Saturday formally launched his campaign for a second term \"We have prosperity, consistency, growth, recovery and opportunity,\" Tinubu said at a rally in the northwestern state of Kaduna \"You grant me the privilege to promise you once again, there is that promise of a better tomorrow,\" he added Africa's most populous country will hold its next presidential election in January 2027 . The campaign is expected to focus on Nigeria's economy and security challenges To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video After taking power in 2023, Tinubu sparked anger by scrapping decades-long fuel subsidies — a move that has fueled Nigeria's inflation On Saturday, the incumbent president dismissed criticisms about his economic policies \"I hear my opponents talking about hunger and poverty. Who created it? «Nigeria: Tinubu launches reelection bid amid economic woes» matters because it may change energy and investment decisions affecting África. For «Nigeria: Tinubu launches reelection bid amid economic woes», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 12.12,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "Elon Musk has said his company SpaceX restricted Ukraine's Starlink internet service, after Ukrainian officials said connectivity issues appeared to have been resolved The tech billionaire accused Ukraine of violating its terms of service by using it for military activity - but denied being responsible for a simultaneous issue with its US-run, military-grade counterpart Starshield Kyiv has not officially commented on Musk's latest claim but Ukrainian presidential adviser Serhii Beskrestnov said his post was \"very strange\" Musk had earlier denied deliberately throttling Ukraine's connection, which it says hampered its ability to conduct defensive operations for more than a week The issue first emerged last week during a broader row between Washington and Kyiv over Ukrainian strikes on Russian oil infrastructure Musk's latest comments, and the seeming restoration of the service, came after US President Donald Trump said he had told the Tesla and X owner to \"put it back\", having repeatedly denied instructing him to limit the service \"Using Starlink, a civilian commercial service, for…",
-      "why": "«Musk says SpaceX restricted Ukraine's Starlink connection as service restored» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Musk says SpaceX restricted Ukraine's Starlink connection as service restored», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-25T09:00:00+00:00",
-      "age_hours": 4.6,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-010",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Elon Musk has said his company SpaceX restricted Ukraine's Starlink internet service, after Ukrainian officials said connectivity issues appeared to have been resolved The tech billionaire accused Ukraine of violating its terms of service by using it for military activity - but denied being responsible for a simultaneous issue with its US-run, military-grade counterpart Starshield Kyiv has not officially commented on Musk's latest claim but Ukrainian presidential adviser Serhii Beskrestnov said his post was \"very strange\" Musk had earlier denied deliberately throttling Ukraine's connection, which it says hampered its ability to conduct defensive operations for more than a week The issue first emerged last week during a broader row between Washington and Kyiv over Ukrainian strikes on Russian oil infrastructure Musk's latest comments, and the seeming restoration of the service, came after US President Donald Trump said he had told the Tesla and X owner to \"put it back\", having repeatedly denied instructing him to limit the service \"Using Starlink, a civilian commercial service, for… «Musk says SpaceX restricted Ukraine's Starlink connection as service restored» matters because it may change energy and investment decisions affecting Mundo. For «Musk says SpaceX restricted Ukraine's Starlink connection as service restored», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 12.04,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
-      "summary": "Joel Embiid posts triple-double as 76ers handle Bucks. Devin Booker posts 43 to help Suns down Warriors",
-      "why": "«Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T12:37:49+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Joel Embiid posts triple-double as 76ers handle Bucks. Devin Booker posts 43 to help Suns down Warriors. «Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season» deserves attention because it may change political, diplomatic or security risks. For «Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.79,
+      "editorial_score": 11.17,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -201,46 +274,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-      "summary": "Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy",
-      "why": "«Why Israel’s latest assault on Hebron is so significant for the West Bank» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «Why Israel’s latest assault on Hebron is so significant for the West Bank», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T12:17:39+00:00",
-      "age_hours": 1.3,
+      "title": "Protein shakes for teenagers: Good or bad idea?",
+      "summary": "Protein products are marketed as a way of building muscle and losing weight — and they're very popular with young people. They also claim to promote healthy growth in children. Is this true? How much protein is healthy? You can take it as a powdered drink, or in a snack bar. Puddings and certain breads are also promoted as \"sources of protein,\" and protein-enriched products like Kindershake and Teen Balance are specifically designed to appeal to a young people — and it appears to be working In a representative survey of almost 1,000 parents by the University of Michigan in 2024, just under half said their children, who were aged 13 to 17, had consumed protein products over the previous year.",
+      "why": "«Protein shakes for teenagers: Good or bad idea?» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «Protein shakes for teenagers: Good or bad idea?», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "DW English",
+      "published": "2026-10-25T16:12:00+00:00",
+      "age_hours": 2.0,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
+      "link": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
       "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy. «Why Israel’s latest assault on Hebron is so significant for the West Bank» helps explain a concrete economic or business change relevant to Mundo. For «Why Israel’s latest assault on Hebron is so significant for the West Bank», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.73,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "France: Hundreds arrested after nationwide protests",
-      "summary": "The French government says more than 1,000 people were arrested following nationwide protests on Saturday. Police and elite security forces were out in force across the country as clashes broke out You can read all our updates on the protests and unrest in France and other parts of Europe on October 24 and 25, 2026, below French unions and protest groups have called for fresh demonstrations on October 31 and a nationwide strike on November 5 to maintain pressure on the government The left-wing Solidaires union federation said anger over wages, living costs and public services was bringing together students, workers, firefighters and other groups \"We see an aggregation of anger,\" Solidaires co-leader Murielle Guilbert told broadcaster BFM TV The SUD Education teaching union said it would join the October 31 demonstrations.",
-      "why": "«France: Hundreds arrested after nationwide protests» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «France: Hundreds arrested after nationwide protests», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-25T12:05:00+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -249,37 +293,37 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "The French government says more than 1,000 people were arrested following nationwide protests on Saturday. Police and elite security forces were out in force across the country as clashes broke out You can read all our updates on the protests and unrest in France and other parts of Europe on October 24 and 25, 2026, below French unions and protest groups have called for fresh demonstrations on October 31 and a nationwide strike on November 5 to maintain pressure on the government The left-wing Solidaires union federation said anger over wages, living costs and public services was bringing together students, workers, firefighters and other groups \"We see an aggregation of anger,\" Solidaires co-leader Murielle Guilbert told broadcaster BFM TV The SUD Education teaching union said it would join the October 31 demonstrations. «France: Hundreds arrested after nationwide protests» deserves attention because it may change political, diplomatic or security risks. For «France: Hundreds arrested after nationwide protests», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.69,
+      "detailed_summary": "Protein products are marketed as a way of building muscle and losing weight — and they're very popular with young people. They also claim to promote healthy growth in children. Is this true? How much protein is healthy? You can take it as a powdered drink, or in a snack bar. Puddings and certain breads are also promoted as \"sources of protein,\" and protein-enriched products like Kindershake and Teen Balance are specifically designed to appeal to a young people — and it appears to be working In a representative survey of almost 1,000 parents by the University of Michigan in 2024, just under half said their children, who were aged 13 to 17, had consumed protein products over the previous year. «Protein shakes for teenagers: Good or bad idea?» helps explain a concrete economic or business change relevant to Mundo. For «Protein shakes for teenagers: Good or bad idea?», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 10.58,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
-      "summary": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large",
-      "why": "«Why is Egypt so wary of getting involved in Yemen’s conflict?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Why is Egypt so wary of getting involved in Yemen’s conflict?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-25T07:59:38+00:00",
-      "age_hours": 5.6,
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "summary": "People queue outside a polling station in Novi Sad, Serbia's second-largest city Early reports suggest Serbian voters have turned out in large numbers for its parliamentary election, as a student protest movement attempts to end the rule of the country's right-wing populist leader Preliminary reports suggest a record high turnout, with 46% having cast their vote by 14:00 local time (13:00 GMT), nearly a million more than the comparable figure for the previous election in December 2023 The apparent high turnout is fuelling the hopes of opposition party Student List that they can oust Aleksandar Vučić and his Serbian Progressive Party (SNS), who have been in power since 2012 The snap elections called by Vučić follow two years of student protests triggered by the 2024 collapse of a train station canopy, which killed 16 and was seen as emblematic of corruption and negligence in Serbia Anti-corruption movement Student List are running on a manifesto including purging officials who broke rules cracking down on protesters, stopping party loyalists heading public enterprises, and freeing…",
+      "why": "«Early reports suggest record high turnout in Serbia elections» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Early reports suggest record high turnout in Serbia elections», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-25T16:05:15+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Al Jazeera English"
+        "BBC World"
       ],
-      "primary_source": "Al Jazeera English",
+      "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "As Egypt considers defending Saudi Arabia against Houthi attacks, memories of its war in Yemen in the 1960s loom large. «Why is Egypt so wary of getting involved in Yemen’s conflict?» deserves attention because it may change political, diplomatic or security risks. For «Why is Egypt so wary of getting involved in Yemen’s conflict?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 10.83,
+      "detailed_summary": "People queue outside a polling station in Novi Sad, Serbia's second-largest city Early reports suggest Serbian voters have turned out in large numbers for its parliamentary election, as a student protest movement attempts to end the rule of the country's right-wing populist leader Preliminary reports suggest a record high turnout, with 46% having cast their vote by 14:00 local time (13:00 GMT), nearly a million more than the comparable figure for the previous election in December 2023 The apparent high turnout is fuelling the hopes of opposition party Student List that they can oust Aleksandar Vučić and his Serbian Progressive Party (SNS), who have been in power since 2012 The snap elections called by Vučić follow two years of student protests triggered by the 2024 collapse of a train station canopy, which killed 16 and was seen as emblematic of corruption and negligence in Serbia Anti-corruption movement Student List are running on a manifesto including purging officials who broke rules cracking down on protesters, stopping party loyalists heading public enterprises, and freeing… «Early reports suggest record high turnout in Serbia elections» matters because it may change energy and investment decisions affecting Mundo. For «Early reports suggest record high turnout in Serbia elections», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 10.56,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -294,11 +338,11 @@
       "impact": "For «Gunmen kill at least 10 villagers and loot shops in north-east Nigeria», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-10-25T03:20:16+00:00",
-      "age_hours": 10.3,
+      "age_hours": 14.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -308,38 +352,9 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "File image of Nigerian police officers Unknown gunmen have raided a remote village in the north-eastern Nigerian state of Taraba, killing at least 10 people, looting shops and setting houses ablaze, police say There are fears the actual death toll is much higher, with eyewitnesses speaking of 20 lives lost and a non-governmental organisation suggesting a toll of as many as 50 The gunmen reportedly swooped on the village of Binnari in the Karim Lamido area mounted on motorcycles just after midday Muslim prayers on Friday in a rampage that went on for up to four hours Police say they are searching for other casualties in the bush but the authorities were accused by Amnesty International of failing to protect rural communities Nigeria continues to face attacks by armed groups across several regions, including the northwest, northeast and central regions The country is also battling a jihadist insurgency in its north-east that has lasted nearly two decades, drawing persistent criticism of the government's handling of insecurity Following the latest incident, police said they recovered… «Gunmen kill at least 10 villagers and loot shops in north-east Nigeria» deserves attention because it may change political, diplomatic or security risks. For «Gunmen kill at least 10 villagers and loot shops in north-east Nigeria», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 9.85,
+      "editorial_score": 8.9,
       "source_tier": "A",
       "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique: Govt plans 5,541 new civil service hires in 2027, with a budget impact of 1.399 billion meticais",
-      "summary": "According to data from the Economic and Social Plan and State Budget (Plano Económico e Social e Orçamento do Estado – PESOE) compiled today by Lusa, the number of new recruits projected for 2027 represents an increase of 39.9% compared with the 3,962 admissions projected for 2026, while the corresponding budget impact rises by 23.3%, from 1.135 billion meticais (€15.9 million) budgeted for this year to 1.399 billion meticais (€19.6 million) in 2027 Education will continue to account for the largest share of recruitment, with 2,978 admissions planned, equivalent to 53.7% of the total, mainly involving general education teachers. In this sector, the estimated budget impact amounts to 903 million meticais (€12.6 million), corresponding to around two-thirds of the total cost of new admissions planned for next year The proposal also provides for the recruitment of 1,364 employees for the Justice Administration bodies, more than double the 745 admissions planned for 2026.",
-      "why": "«Mozambique: Govt plans 5,541 new civil service hires in 2027, with a budget impact of 1.399 billion…» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Mozambique: Govt plans 5,541 new civil service hires in 2027, with a budget impact of 1.399 billion…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-23T14:31:27+00:00",
-      "age_hours": 47.1,
-      "within_24h": false,
-      "link": "https://clubofmozambique.com/news/mozambique-govt-plans-5541-new-civil-service-hires-in-2027-with-a-budget-impact-of-1-399-billion-meticais/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "update",
-      "opportunity_flag": true,
-      "detailed_summary": "According to data from the Economic and Social Plan and State Budget (Plano Económico e Social e Orçamento do Estado – PESOE) compiled today by Lusa, the number of new recruits projected for 2027 represents an increase of 39.9% compared with the 3,962 admissions projected for 2026, while the corresponding budget impact rises by 23.3%, from 1.135 billion meticais (€15.9 million) budgeted for this year to 1.399 billion meticais (€19.6 million) in 2027 Education will continue to account for the largest share of recruitment, with 2,978 admissions planned, equivalent to 53.7% of the total, mainly involving general education teachers. In this sector, the estimated budget impact amounts to 903 million meticais (€12.6 million), corresponding to around two-thirds of the total cost of new admissions planned for next year The proposal also provides for the recruitment of 1,364 employees for the Justice Administration bodies, more than double the 745 admissions planned for 2026. «Mozambique: Govt plans 5,541 new civil service hires in 2027, with a budget impact of 1.399 billion…» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Govt plans 5,541 new civil service hires in 2027, with a budget impact of 1.399 billion…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 8.78,
-      "source_tier": "B",
-      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -362,7 +377,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 2,
-    "África": 4,
+    "África": 5,
     "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
