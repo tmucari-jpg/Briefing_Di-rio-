@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:12:59.461930+00:00",
+  "updated_at": "2026-10-25T21:30:57.956188+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,7 +16,7 @@
       "impact": "No caso de «UnISCED: Menezes desafia graduados a criar soluções de empregabilidade», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Jornal Notícias",
       "published": "2026-10-25T14:13:57+00:00",
-      "age_hours": 4.0,
+      "age_hours": 7.3,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/sem-categoria/unisced-menezes-desafia-graduados-a-criar-solucoes-de-empregabilidade/",
       "original_source": true,
@@ -30,8 +30,45 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O secretário de Estado da Ciência e Ensino Superior, Isaú Menezes, desafiou aos graduados da Universidade Aberta-ISCED (UnISCED) a transformar o conhecimento adquirido em soluções, emprego e riqueza para o país. Menezes falava, sábado (24), em representação do ministro da Educação e Cultura, Edson Macuácua, na cerimónia de graduação de 933 quadros superiores pela Universidade Aberta ISCED (UnISCED). “Não esperem nada do mundo. O mundo está à espera das vossas soluções, inovação e transformação”, afirmou o governante, na VIII Cerimónia de Graduação, realizada simultaneamente em Maputo (218 graduados), Quelimane (360) e Lichinga (355). Isaú Menezes defendeu ainda a adopção do modelo de universidade-empresa, visando reforçar a autonomia financeira das instituições e promover a independência económica de Moçambique. Na ocasião, o Reitor da UnISCED, Martins dos Santos, anunciou a previsão de introdução de mais 11 programas de mestrado e doutoramento em 2027, que se juntarão aos 35 cursos actualmente em funcionamento na instituição de ensino superior. «UnISCED: Menezes desafia graduados a criar soluções de empregabilidade» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «UnISCED: Menezes desafia graduados a criar soluções de empregabilidade», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.17,
+      "editorial_score": 12.48,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "RTP ouviu analistas políticos sobre as eleições em Israel",
+      "summary": "As eleições estão envoltas em indefinição. Benjamin Netanyahu ou Gadi Eisenkot, um deles será o novo primeiro-ministro. São no entanto os 20 por cento de eleitores árabes que vão ajudar a escolher o rumo do país",
+      "why": "«RTP ouviu analistas políticos sobre as eleições em Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «RTP ouviu analistas políticos sobre as eleições em Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-25T21:13:47+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/rtp-ouviu-analistas-politicos-sobre-as-eleicoes-em-israel_v1774285",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "RTP Notícias",
+        "Euronews Português"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Euronews Português",
+          "title": "Israel fecha passagens na Cisjordânia em dia de eleições após tiroteio em Hebron",
+          "link": "https://pt.euronews.com/2026/10/25/israel-fecha-passagens-na-cisjordania-em-dia-de-eleicoes-apos-tiroteio-em-hebron"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "As eleições estão envoltas em indefinição. Benjamin Netanyahu ou Gadi Eisenkot, um deles será o novo primeiro-ministro. São no entanto os 20 por cento de eleitores árabes que vão ajudar a escolher o rumo do país. «RTP ouviu analistas políticos sobre as eleições em Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «RTP ouviu analistas políticos sobre as eleições em Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 12.44,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -45,7 +82,7 @@
       "impact": "No caso de «FUNAE prevê reabrir postos de combustíveis de Palma até Dezembro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-25T13:49:14+00:00",
-      "age_hours": 4.4,
+      "age_hours": 7.7,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/sem-categoria/funae-preve-reabrir-postos-de-combustiveis-de-palma-ate-dezembro/",
       "original_source": true,
@@ -59,37 +96,37 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Fundo de Energia (FUNAE) prevê concluir, até Dezembro deste ano, a reabilitação do posto de abastecimento de combustíveis de Palma, em Cabo Delgado, vandalizado durante os ataques terroristas de 2021. A intervenção visa reforçar a capacidade de abastecimento no distrito, onde os dois postos actualmente em funcionamento enfrentam dificuldades para responder à procura. A informação foi avançada pelo presidente do Conselho de Administração do FUNAE, Mety Gondola, durante uma visita de monitorização realizada, sábado (24), aos postos de abastecimento de combustíveis dos distritos de Palma, Mecúfi e Metuge, para avaliar os danos e as necessidades de reabilitação. Em Palma, os trabalhos previstos incluem a substituição de equipamentos, recuperação dos tanques e avaliação dos sistemas de abastecimento de água e de energia, de modo a garantir condições adequadas para a retoma das operações. Segundo Gondola, a reabertura do posto permitirá responder melhor às necessidades de abastecimento de viaturas e embarcações, acompanhando a retoma gradual da actividade económica. «FUNAE prevê reabrir postos de combustíveis de Palma até Dezembro» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «FUNAE prevê reabrir postos de combustíveis de Palma até Dezembro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.08,
+      "editorial_score": 12.4,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana",
-      "summary": "O Presidente da República, Daniel Chapo, considerou que a presença de Moçambique no XII Fórum de Alto Nível de Tana sobre Segurança permitiu partilhar a experiência nacional e conhecer os desafios enfrentados pelos demais países africanos, defendendo que o consenso alcançado entre os líderes deve traduzir-se num maior reforço da unidade e coesão do continente. […]",
-      "why": "«Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-25T10:07:53+00:00",
-      "age_hours": 8.1,
+      "title": "Intercalares americanas vistas como possibilidade de mudança",
+      "summary": "Nos Estados Unidos sente-se o impacto do aumento dos preços em quase tudo. As eleições interlacalares são a 3 de novembro. Muitos esperam por uma mudança, como alguns portugueses explicaram à correspondente Cândida Pinto",
+      "why": "«Intercalares americanas vistas como possibilidade de mudança» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Intercalares americanas vistas como possibilidade de mudança», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-25T21:19:47+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://opais.co.mz/chapo-destaca-partilha-de-experiencias-e-consenso-entre-lideres-africanos-no-forum-de-tana/",
+      "link": "https://www.rtp.pt/noticias/mundo/intercalares-americanas-vistas-como-possibilidade-de-mudanca_v1774289",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "RTP Notícias"
       ],
-      "primary_source": "O País",
+      "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, considerou que a presença de Moçambique no XII Fórum de Alto Nível de Tana sobre Segurança permitiu partilhar a experiência nacional e conhecer os desafios enfrentados pelos demais países africanos, defendendo que o consenso alcançado entre os líderes deve traduzir-se num maior reforço da unidade e coesão do continente. […]. «Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Chapo destaca partilha de experiências e consenso entre líderes africanos no fórum de Tana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.31,
-      "source_tier": "B",
+      "detailed_summary": "Nos Estados Unidos sente-se o impacto do aumento dos preços em quase tudo. As eleições interlacalares são a 3 de novembro. Muitos esperam por uma mudança, como alguns portugueses explicaram à correspondente Cândida Pinto. «Intercalares americanas vistas como possibilidade de mudança» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Intercalares americanas vistas como possibilidade de mudança», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.96,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -103,11 +140,11 @@
       "impact": "No caso de «Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-25T09:30:00+00:00",
-      "age_hours": 8.7,
+      "age_hours": 12.0,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/25/negocios/infra-estruturas/mocambique-essuatini-empresa-chinesa-ganha-contrato-para-barragem-de-40-milhoes-de-dolares/",
       "original_source": true,
-      "event_id": "evt-mocambique-006",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -117,66 +154,66 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "A empresa chinesa de engenharia e construção China Civil Engineering Construction Corporation (CCECC), foi seleccionada para construir a barragem de água do projecto conjunto entre Moçambique e Essuatíni, num contrato […]. «Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.19,
+      "editorial_score": 10.5,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM",
+      "summary": "Por: Paulino Checo, da AIM Bahir Dar, Etiópia, 24 de Outubro (AIM) – O Presidente da República, Daniel Chapo, pretende capitalizar a experiência da Ethiopian Airlines na reestruturação das Linhas Aéreas de Moçambique (LAM), no quadro do reforço da cooperação entre Moçambique e a Etiópia, tendo anunciado o início da ligação aérea entre Adis Abeba e Nacala, previsto para 27 de Outubro. “Queremos continuar a trabalhar com a experiência da Ethiopian Airlines, de forma que possamos continuar a reestruturar a nossa linha aérea de Moçambique, a LAM”, afirmou Chapo. O anúncio, está dentro do pacote dos resultados dos encontros bilaterais que o Chefe do Estado manteve com o Primeiro-Ministro da Etiópia, Abiy Ahmed, e o Presidente do Gana, John Dramani Mahama, à margem do 12.º Fórum de Tana, realizado na cidade etíope de Bahir Dar. O Chefe do Estado considera que a cooperação com a Etiópia poderá contribuir para o desenvolvimento da companhia aérea nacional, tendo em vista o reforço da sua capacidade operacional e a melhoria da sua posição no mercado regional.",
+      "why": "«PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-25T04:52:23+00:00",
+      "age_hours": 16.6,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/25/pr-quer-captalizar-experiencia-da-ethiopian-airlines-na-reestruturacao-da-lam/",
+      "original_source": true,
+      "event_id": "evt-mocambique-007",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Por: Paulino Checo, da AIM Bahir Dar, Etiópia, 24 de Outubro (AIM) – O Presidente da República, Daniel Chapo, pretende capitalizar a experiência da Ethiopian Airlines na reestruturação das Linhas Aéreas de Moçambique (LAM), no quadro do reforço da cooperação entre Moçambique e a Etiópia, tendo anunciado o início da ligação aérea entre Adis Abeba e Nacala, previsto para 27 de Outubro. “Queremos continuar a trabalhar com a experiência da Ethiopian Airlines, de forma que possamos continuar a reestruturar a nossa linha aérea de Moçambique, a LAM”, afirmou Chapo. O anúncio, está dentro do pacote dos resultados dos encontros bilaterais que o Chefe do Estado manteve com o Primeiro-Ministro da Etiópia, Abiy Ahmed, e o Presidente do Gana, John Dramani Mahama, à margem do 12.º Fórum de Tana, realizado na cidade etíope de Bahir Dar. O Chefe do Estado considera que a cooperação com a Etiópia poderá contribuir para o desenvolvimento da companhia aérea nacional, tendo em vista o reforço da sua capacidade operacional e a melhoria da sua posição no mercado regional. «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 9.54,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Cônsul-geral do Brasil em Lisboa estima participação na capital em 50%",
-      "summary": "O cônsul-geral do Brasil em Lisboa, Alessandro Candeas, estimou hoje em 50% a participação da comunidade brasileira em Lisboa na segunda volta das eleições presidenciais O diplomata falava aos jornalistas na Cidade Universitária, em frente ao edifício da Reitoria, para descrever como decorreu a participação do eleitorado brasileiro em Lisboa e estimou que a taxa de participação ficou em 50% \"Como eu tinha dito a vocês [jornalistas] pela manhã, a nossa expectativa era de uma votação com um comparecimento de 50%.",
-      "why": "«Cônsul-geral do Brasil em Lisboa estima participação na capital em 50%» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Cônsul-geral do Brasil em Lisboa estima participação na capital em 50%», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-25T18:05:32+00:00",
-      "age_hours": 0.1,
+      "title": "Brasil: filas longas e viagens pelos rios marcam voto decisivo",
+      "summary": "Eleitores brasileiros foram às urnas este domingo para escolher entre Lula e Flávio Bolsonaro, desde viagens de canoa na Amazónia a filas no Rio e a um boneco de Lula em Brasília",
+      "why": "«Brasil: filas longas e viagens pelos rios marcam voto decisivo» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Brasil: filas longas e viagens pelos rios marcam voto decisivo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-25T21:19:33+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/consul-geral-do-brasil-em-lisboa-estima-participacao-na-capital-em-50_n1774241",
+      "link": "https://pt.euronews.com/video/2026/10/25/brasil-filas-longas-e-viagens-pelos-rios-marcam-voto-decisivo",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Euronews Português"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O cônsul-geral do Brasil em Lisboa, Alessandro Candeas, estimou hoje em 50% a participação da comunidade brasileira em Lisboa na segunda volta das eleições presidenciais O diplomata falava aos jornalistas na Cidade Universitária, em frente ao edifício da Reitoria, para descrever como decorreu a participação do eleitorado brasileiro em Lisboa e estimou que a taxa de participação ficou em 50% \"Como eu tinha dito a vocês [jornalistas] pela manhã, a nossa expectativa era de uma votação com um comparecimento de 50%. «Cônsul-geral do Brasil em Lisboa estima participação na capital em 50%» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Cônsul-geral do Brasil em Lisboa estima participação na capital em 50%», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.98,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro",
-      "summary": "É dia de escolher o presidente do Brasil: Lula da Silva ou Flávio Bolsonaro. Mais de 158 milhões de brasileiros são hoje chamados às urnas, nesta segunda volta das presidenciais. Acompanhamos aqui o dia de eleições A Justiça eleitoral brasileira ordenou hoje a prisão em flagrante do secretário municipal de Mobilidade da cidade de Salvador devido à redução da frota de autocarros em circulação no dia da segunda volta das eleições presidenciais, indicou a imprensa local A Polícia Federal deverá agora acatar a ordem de prisão de Pablo Souza, segundo a imprensa local A Bahia e o conjunto do Nordeste constituem tradicionais bastiões eleitorais de Lula.",
-      "why": "«Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-25T17:28:59+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-no-brasil-milhoes-de-eleitores-decidem-hoje-entre-lula-e-bolsonaro_e1774136",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "É dia de escolher o presidente do Brasil: Lula da Silva ou Flávio Bolsonaro. Mais de 158 milhões de brasileiros são hoje chamados às urnas, nesta segunda volta das presidenciais. Acompanhamos aqui o dia de eleições A Justiça eleitoral brasileira ordenou hoje a prisão em flagrante do secretário municipal de Mobilidade da cidade de Salvador devido à redução da frota de autocarros em circulação no dia da segunda volta das eleições presidenciais, indicou a imprensa local A Polícia Federal deverá agora acatar a ordem de prisão de Pablo Souza, segundo a imprensa local A Bahia e o conjunto do Nordeste constituem tradicionais bastiões eleitorais de Lula. «Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições no Brasil. Milhões de eleitores decidem hoje entre Lula e Bolsonaro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.85,
-      "source_tier": "A",
+      "detailed_summary": "Eleitores brasileiros foram às urnas este domingo para escolher entre Lula e Flávio Bolsonaro, desde viagens de canoa na Amazónia a filas no Rio e a um boneco de Lula em Brasília. «Brasil: filas longas e viagens pelos rios marcam voto decisivo» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Brasil: filas longas e viagens pelos rios marcam voto decisivo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 8.96,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -190,7 +227,7 @@
       "impact": "No caso de «Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-25T11:30:00+00:00",
-      "age_hours": 6.7,
+      "age_hours": 10.0,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/25/desenvolvimento-2/chapo-defende-uniao-africana-e-reforma-do-conselho-de-seguranca-da-onu/",
       "original_source": true,
@@ -204,37 +241,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Presidente da República, Daniel Chapo, defendeu a união e a cooperação entre os países africanos, bem como o reforço do multilateralismo, como instrumentos para alcançar e manter a paz […]. «Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 9.6,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Brasil: filas longas e viagens fluviais marcam votação presidencial decisiva",
-      "summary": "Eleitores brasileiros votaram este domingo na segunda volta presidencial entre Lula e Flávio Bolsonaro, com fortes participações do Amazonas ao Rio e Brasília",
-      "why": "«Brasil: filas longas e viagens fluviais marcam votação presidencial decisiva» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Brasil: filas longas e viagens fluviais marcam votação presidencial decisiva», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-25T17:49:57+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/25/brasil-filas-longas-e-viagens-fluviais-marcam-votacao-presidencial-decisiva",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Eleitores brasileiros votaram este domingo na segunda volta presidencial entre Lula e Flávio Bolsonaro, com fortes participações do Amazonas ao Rio e Brasília. «Brasil: filas longas e viagens fluviais marcam votação presidencial decisiva» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Brasil: filas longas e viagens fluviais marcam votação presidencial decisiva», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "editorial_score": 8.92,
-      "source_tier": "C",
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -242,17 +250,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Israel fecha passagens na Cisjordânia em dia de eleições após tiroteio em Hebron",
-      "summary": "Todos os pontos de passagem terrestres na Cisjordânia vão encerrar na terça‑feira, dia das eleições legislativas em Israel, anunciou o exército israelita.Num comunicado, as Forças de Defesa de Israel (FDI) anunciaram uma “proibição da entrada e saída de trabalhadores palestinianos de e para toda a Judeia, Samaria e o Vale do Jordão, incluindo zonas industriais, bem como o encerramento de todas as passagens terrestres ao longo de todo o dia de eleições”.Acrescentou que, entre domingo e segunda‑feira, os trabalhadores palestinianos também não poderão entrar na Judeia, Samaria ou Vale do Jordão para trabalhar, “com exceção das zonas industriais e de algumas outras áreas autorizadas”.A medida insere‑se num reforço mais amplo do controlo na Cisjordânia ocupada, depois de dois soldados israelitas terem sido mortos por homens armados palestinianos na cidade de Hebron no início desta semana.Na sequência do tiroteio, as FDI indicaram que as suas forças cercavam Hebron enquanto os soldados levavam a cabo operações de busca.",
-      "why": "«Israel fecha passagens na Cisjordânia em dia de eleições após tiroteio em Hebron» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Israel fecha passagens na Cisjordânia em dia de eleições após tiroteio em Hebron», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o previsto",
+      "summary": "As urnas abriram em Portugal às 8 horas da manhã deste domingo para que cerca de 134 mil eleitores inscritos pudessem exercer o seu direito de voto. Portugal é o segundo maior colégio eleitoral do Brasil, atrás dos EUA. A votação decorreu em Lisboa, Porto e Faro entre as 8:00 e as 17:00.Em declarações aos jornalistas durante a tarde, na Cidade Universitária, citadas pela agência Lusa, o cônsul-geral do Brasil em Lisboa, Alessandro Candeas, estimou que a participação da comunidade brasileira nesta segunda volta das eleições presidenciais rondaria os 50% na capital portuguesa.Em território brasileiro, estava previsto que as urnas encerrassem pelas 17:00, horário de Brasília (mais três horas em Portugal continental).",
+      "why": "«Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o…» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-25T14:01:03+00:00",
-      "age_hours": 4.2,
+      "published": "2026-10-25T10:35:13+00:00",
+      "age_hours": 10.9,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/25/israel-fecha-passagens-na-cisjordania-em-dia-de-eleicoes-apos-tiroteio-em-hebron",
+      "link": "https://pt.euronews.com/2026/10/25/mais-de-134-mil-brasileiros-votam-em-portugal-segunda-volta-tensa-para-decidir-entre-lula-",
       "original_source": true,
-      "event_id": "evt-mundo-006",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -261,8 +269,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Todos os pontos de passagem terrestres na Cisjordânia vão encerrar na terça‑feira, dia das eleições legislativas em Israel, anunciou o exército israelita.Num comunicado, as Forças de Defesa de Israel (FDI) anunciaram uma “proibição da entrada e saída de trabalhadores palestinianos de e para toda a Judeia, Samaria e o Vale do Jordão, incluindo zonas industriais, bem como o encerramento de todas as passagens terrestres ao longo de todo o dia de eleições”.Acrescentou que, entre domingo e segunda‑feira, os trabalhadores palestinianos também não poderão entrar na Judeia, Samaria ou Vale do Jordão para trabalhar, “com exceção das zonas industriais e de algumas outras áreas autorizadas”.A medida insere‑se num reforço mais amplo do controlo na Cisjordânia ocupada, depois de dois soldados israelitas terem sido mortos por homens armados palestinianos na cidade de Hebron no início desta semana.Na sequência do tiroteio, as FDI indicaram que as suas forças cercavam Hebron enquanto os soldados levavam a cabo operações de busca. «Israel fecha passagens na Cisjordânia em dia de eleições após tiroteio em Hebron» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Israel fecha passagens na Cisjordânia em dia de eleições após tiroteio em Hebron», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.12,
+      "detailed_summary": "As urnas abriram em Portugal às 8 horas da manhã deste domingo para que cerca de 134 mil eleitores inscritos pudessem exercer o seu direito de voto. Portugal é o segundo maior colégio eleitoral do Brasil, atrás dos EUA. A votação decorreu em Lisboa, Porto e Faro entre as 8:00 e as 17:00.Em declarações aos jornalistas durante a tarde, na Cidade Universitária, citadas pela agência Lusa, o cônsul-geral do Brasil em Lisboa, Alessandro Candeas, estimou que a participação da comunidade brasileira nesta segunda volta das eleições presidenciais rondaria os 50% na capital portuguesa.Em território brasileiro, estava previsto que as urnas encerrassem pelas 17:00, horário de Brasília (mais três horas em Portugal continental). «Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o…» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 5.73,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
