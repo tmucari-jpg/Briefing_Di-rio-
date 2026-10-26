@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T15:55:12.595393+00:00",
+  "updated_at": "2026-10-26T21:26:03.119085+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,20 +8,63 @@
     {
       "section": "Moçambique",
       "tags": [
-        "IA",
-        "Economia"
+        "Segurança"
       ],
-      "title": "UNISAVE gradua 170 técnicos superiores em Gaza",
-      "summary": "A Universidade Save (UNISAVE) realiza hoje, no distrito de Chongoene, provincia de Gaza, a sua 5ª edição de graduação de técnicos superiores, na qual são conferidos graus de licenciatura e mestrado a 170 quadros que concluíram com êxito os respectivos programas de formação. Do total de graduados, 166 são licenciados e quatro são mestres, sendo 112 mulheres, correspondentes a 66 por cento, e 58 homens, equivalentes a 34 por cento. Os graduados formaram-se em diferentes áreas do saber, distribuídas pelas escolas e faculdades da instituição, com destaque para Educação e Psicologia, Economia e Administração, Ciências Naturais e Exactas, Letras e Humanidades, Engenharias e Tecnologias, Ciências da Terra e Recursos Naturais e Ciências Agrárias. A província de Gaza destaca-se como a principal proveniência dos graduados, com 122 participantes, seguida de Inhambane, com 17, e da província de Maputo, com 14. A Cidade de Maputo contribui com nove graduados, Sofala com quatro, enquanto Zambézia, Cabo Delgado e Niassa contam com um graduado cada.",
-      "why": "«UNISAVE gradua 170 técnicos superiores em Gaza» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «UNISAVE gradua 170 técnicos superiores em Gaza», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-26T11:47:30+00:00",
-      "age_hours": 4.1,
+      "title": "Moçambique e Rússia estreitam cooperação e analisam expansão das relações económicas",
+      "summary": "Maputo, 26 de Out (AIM) – Moçambique e a Federação da Rússia estão a reforçar os seus laços históricos de amizade e cooperação, com enfoque na expansão das relações económicas e comerciais, no quadro da participação do Presidente da República, Daniel Francisco Chapo, na Terceira Cimeira Rússia-África, que arranca terça-feira em Moscovo, Rússia Cumprindo uma agenda apertada em Moscovo, o Presidente da República, Daniel Chapo, reuniu hoje, com o Vice-Presidente do Conselho de Segurança da Federação da Rússia, Dmitri Medvedev. O encontro de trabalho decorreu à margem da participação do Chefe do Estado moçambicano na Terceira Cimeira Rússia-África, para a qual foi convidado pelo Presidente russo, Vladimir Putin, e serviu para abordar o aprofundamento das relações bilaterais, com particular destaque para as oportunidades de cooperação económica e comercial. Falando à imprensa no termo do encontro, Daniel Chapo manifestou satisfação pelo convite para participar na cimeira e sublinhou a importância da união entre os dois países e os respectivos povos.",
+      "why": "«Moçambique e Rússia estreitam cooperação e analisam expansão das relações económicas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Moçambique e Rússia estreitam cooperação e analisam expansão das relações económicas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-26T18:47:12+00:00",
+      "age_hours": 2.6,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/unisave-gradua-170-tecnicos-superiores-em-gaza/",
+      "link": "https://aimnews.org/2026/10/26/mocambique-e-russia-estreitam-cooperacao-e-analisam-expansao-das-relacoes-economicas/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 3,
+      "source_count": 3,
+      "sources": [
+        "AIM Notícias",
+        "Diário Económico",
+        "Jornal Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Diário Económico",
+          "title": "Moçambique e Guiné Equatorial Querem Reforçar Relações Empresariais",
+          "link": "https://www.diarioeconomico.co.mz/2026/10/26/negocios/comercio/mocambique-e-guine-equatorial-querem-reforcar-relacoes-empresariais/"
+        },
+        {
+          "source": "Jornal Notícias",
+          "title": "Moçambique e Rússia preparam acordos de parceria estratégica",
+          "link": "https://www.jornalnoticias.co.mz/politica/mocambique-e-russia-preparam-acordos-de-parceria-estrategica/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 26 de Out (AIM) – Moçambique e a Federação da Rússia estão a reforçar os seus laços históricos de amizade e cooperação, com enfoque na expansão das relações económicas e comerciais, no quadro da participação do Presidente da República, Daniel Francisco Chapo, na Terceira Cimeira Rússia-África, que arranca terça-feira em Moscovo, Rússia Cumprindo uma agenda apertada em Moscovo, o Presidente da República, Daniel Chapo, reuniu hoje, com o Vice-Presidente do Conselho de Segurança da Federação da Rússia, Dmitri Medvedev. O encontro de trabalho decorreu à margem da participação do Chefe do Estado moçambicano na Terceira Cimeira Rússia-África, para a qual foi convidado pelo Presidente russo, Vladimir Putin, e serviu para abordar o aprofundamento das relações bilaterais, com particular destaque para as oportunidades de cooperação económica e comercial. Falando à imprensa no termo do encontro, Daniel Chapo manifestou satisfação pelo convite para participar na cimeira e sublinhou a importância da união entre os dois países e os respectivos povos. «Moçambique e Rússia estreitam cooperação e analisam expansão das relações económicas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique e Rússia estreitam cooperação e analisam expansão das relações económicas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 14.96,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática",
+      "summary": "Estudantes moçambicanos na Rússia pediram, há momentos, em Moscovo, ao Presidente da República, Daniel Chapo, maior apoio governamental face a dificuldades financeiras, burocráticas e à falta de integração no mercado de trabalho. O Presidente da Associação dos Estudantes Moçambicanos na Federação Russa, Gidião Sitole, apelou, igualmente, à realização de missões consulares periódicas, à criação de mecanismos seguros para transferências bancárias e à reactivação de apoios institucionais. Entre as principais barreiras apontadas pela associação está a complexidade na emissão e renovação de passaportes, agravada pelas longas distâncias geográficas entre as 27 cidades onde residem os mais de 400 jovens. Adicionalmente, segundo Sitole, as sanções financeiras internacionais aplicadas ao país de acolhimento têm bloqueado os canais tradicionais de envio de dinheiro, tornando urgente a criação de vias legais e acessíveis que permitam às famílias em Moçambique enviar recursos aos cidadãos no estrangeiro.",
+      "why": "«Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-26T18:56:17+00:00",
+      "age_hours": 2.5,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/estudantes-na-russia-pedem-apoio-para-o-fim-da-crise-financeira-e-burocratica/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,45 +73,37 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Universidade Save (UNISAVE) realiza hoje, no distrito de Chongoene, provincia de Gaza, a sua 5ª edição de graduação de técnicos superiores, na qual são conferidos graus de licenciatura e mestrado a 170 quadros que concluíram com êxito os respectivos programas de formação. Do total de graduados, 166 são licenciados e quatro são mestres, sendo 112 mulheres, correspondentes a 66 por cento, e 58 homens, equivalentes a 34 por cento. Os graduados formaram-se em diferentes áreas do saber, distribuídas pelas escolas e faculdades da instituição, com destaque para Educação e Psicologia, Economia e Administração, Ciências Naturais e Exactas, Letras e Humanidades, Engenharias e Tecnologias, Ciências da Terra e Recursos Naturais e Ciências Agrárias. A província de Gaza destaca-se como a principal proveniência dos graduados, com 122 participantes, seguida de Inhambane, com 17, e da província de Maputo, com 14. A Cidade de Maputo contribui com nove graduados, Sofala com quatro, enquanto Zambézia, Cabo Delgado e Niassa contam com um graduado cada. «UNISAVE gradua 170 técnicos superiores em Gaza» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «UNISAVE gradua 170 técnicos superiores em Gaza», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 14.15,
+      "detailed_summary": "Estudantes moçambicanos na Rússia pediram, há momentos, em Moscovo, ao Presidente da República, Daniel Chapo, maior apoio governamental face a dificuldades financeiras, burocráticas e à falta de integração no mercado de trabalho. O Presidente da Associação dos Estudantes Moçambicanos na Federação Russa, Gidião Sitole, apelou, igualmente, à realização de missões consulares periódicas, à criação de mecanismos seguros para transferências bancárias e à reactivação de apoios institucionais. Entre as principais barreiras apontadas pela associação está a complexidade na emissão e renovação de passaportes, agravada pelas longas distâncias geográficas entre as 27 cidades onde residem os mais de 400 jovens. Adicionalmente, segundo Sitole, as sanções financeiras internacionais aplicadas ao país de acolhimento têm bloqueado os canais tradicionais de envio de dinheiro, tornando urgente a criação de vias legais e acessíveis que permitam às famílias em Moçambique enviar recursos aos cidadãos no estrangeiro. «Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.48,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Chapo felicita Lula da Silva pela reeleição à Presidência do Brasil",
-      "summary": "Maputo, 26 de Outubro de 2026 — O Presidente da República de Moçambique, Daniel Chapo, felicitou Luiz Inácio Lula da Silva pela reeleição ao cargo de Presidente da República Federativa do Brasil, após a vitória alcançada na segunda volta das eleições presidenciais brasileiras, realizada a 25 de Outubro, na qual obteve 51,79% dos votos válidos, contra 48,21% do seu adversário, Flávio Bolsonaro. Numa mensagem dirigida ao Presidente reeleito, em nome do Governo e do povo moçambicano, Chapo apresentou felicitações a Lula da Silva, ao Governo e ao povo brasileiro pela renovação do mandato presidencial, desejando sucessos no exercício das funções e prosperidade ao Brasil. Segundo um comunicado da Presidência da República, divulgado hoje em Maputo, o Chefe do Estado moçambicano destacou os laços históricos, de amizade, solidariedade e cooperação que unem os dois países, sublinhando as afinidades culturais e linguísticas entre os povos moçambicano e brasileiro.",
-      "why": "«Chapo felicita Lula da Silva pela reeleição à Presidência do Brasil» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Chapo felicita Lula da Silva pela reeleição à Presidência do Brasil», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "title": "PR inteira-se das preocupações da comunidade moçambicana residente na Rússia",
+      "summary": "Maputo, 26 de Out (AIM) – O Presidente da República, Daniel Chapo, inteirou-se das preocupações da comunidade moçambicana residente na Rússia e anunciou medidas destinadas a melhorar o acompanhamento dos estudantes, facilitar a renovação de documentos e encontrar soluções para as dificuldades nas transferências de recursos financeiros, num contexto em que as restrições associadas à guerra e às sanções condicionam as operações financeiras entre aquele país e o exterior. As medidas foram anunciadas durante um encontro com cidadãos moçambicanos residentes na Rússia, realizado em Moscovo, no quadro da visita de trabalho do Chefe do Estado àquele país, ocasião em que foram igualmente abordados o acesso às bolsas de estudo, a assistência consular e as perspectivas de integração profissional dos estudantes após a conclusão da sua formação académica.",
+      "why": "«PR inteira-se das preocupações da comunidade moçambicana residente na Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «PR inteira-se das preocupações da comunidade moçambicana residente na Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-26T13:02:46+00:00",
-      "age_hours": 2.9,
+      "published": "2026-10-26T18:42:21+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/26/chapo-felicita-lula-da-silva-pela-reeleicao-a-presidencia-do-brasil/",
+      "link": "https://aimnews.org/2026/10/26/pr-inteira-se-das-preocupacoes-da-comunidade-mocambicana-residente-na-russia/",
       "original_source": true,
       "event_id": "evt-mocambique-003",
-      "cluster_size": 2,
-      "source_count": 2,
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "AIM Notícias",
-        "Diário Económico"
+        "AIM Notícias"
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Diário Económico",
-          "title": "Chapo Felicita Lula e Defende Reforço Das Relações Com o Brasil",
-          "link": "https://www.diarioeconomico.co.mz/2026/10/26/negocios/chapo-felicita-lula-e-defende-reforco-das-relacoes-com-o-brasil/"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 26 de Outubro de 2026 — O Presidente da República de Moçambique, Daniel Chapo, felicitou Luiz Inácio Lula da Silva pela reeleição ao cargo de Presidente da República Federativa do Brasil, após a vitória alcançada na segunda volta das eleições presidenciais brasileiras, realizada a 25 de Outubro, na qual obteve 51,79% dos votos válidos, contra 48,21% do seu adversário, Flávio Bolsonaro. Numa mensagem dirigida ao Presidente reeleito, em nome do Governo e do povo moçambicano, Chapo apresentou felicitações a Lula da Silva, ao Governo e ao povo brasileiro pela renovação do mandato presidencial, desejando sucessos no exercício das funções e prosperidade ao Brasil. Segundo um comunicado da Presidência da República, divulgado hoje em Maputo, o Chefe do Estado moçambicano destacou os laços históricos, de amizade, solidariedade e cooperação que unem os dois países, sublinhando as afinidades culturais e linguísticas entre os povos moçambicano e brasileiro. «Chapo felicita Lula da Silva pela reeleição à Presidência do Brasil» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo felicita Lula da Silva pela reeleição à Presidência do Brasil», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 13.9,
+      "detailed_summary": "Maputo, 26 de Out (AIM) – O Presidente da República, Daniel Chapo, inteirou-se das preocupações da comunidade moçambicana residente na Rússia e anunciou medidas destinadas a melhorar o acompanhamento dos estudantes, facilitar a renovação de documentos e encontrar soluções para as dificuldades nas transferências de recursos financeiros, num contexto em que as restrições associadas à guerra e às sanções condicionam as operações financeiras entre aquele país e o exterior. As medidas foram anunciadas durante um encontro com cidadãos moçambicanos residentes na Rússia, realizado em Moscovo, no quadro da visita de trabalho do Chefe do Estado àquele país, ocasião em que foram igualmente abordados o acesso às bolsas de estudo, a assistência consular e as perspectivas de integração profissional dos estudantes após a conclusão da sua formação académica. «PR inteira-se das preocupações da comunidade moçambicana residente na Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «PR inteira-se das preocupações da comunidade moçambicana residente na Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.44,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -83,67 +118,9 @@
       "impact": "No caso de «Cabo Delgado: Syrah Resources Garante Novo Financiamento de 15 Milhões de Dólares Para Balama», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-26T14:30:00+00:00",
-      "age_hours": 1.4,
+      "age_hours": 6.9,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/26/negocios/empresas/cabo-delgado-syrah-resources-garante-novo-financiamento-de-15-milhoes-de-dolares-para-balama/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A mineradora australiana Syrah Resources anunciou que a sua subsidiária Twigg Exploration e Mining deverá receber mais 15 milhões de dólares da Corporação Financeira Internacional de Desenvolvimento dos Estados Unidos […]. «Cabo Delgado: Syrah Resources Garante Novo Financiamento de 15 Milhões de Dólares Para Balama» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Cabo Delgado: Syrah Resources Garante Novo Financiamento de 15 Milhões de Dólares Para Balama», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 13.71,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo defende investimento na ciência para valorizar plantas medicinais",
-      "summary": "Maputo, 26 Out (AIM) – O Governo moçambicano defende o reforço do investimento na investigação científica e a divulgação dos seus resultados, com vista à valorização do conhecimento tradicional sobre plantas medicinais e ao desenvolvimento de soluções acessíveis para melhorar a saúde das comunidades. A posição foi manifestada hoje, em Maputo, pelo Secretário de Estado da Ciência e Ensino Superior, Isaú Joaquim Meneses, durante a abertura de um seminário científico sobre ciência e inovação em etnobotânica, promovido pelo Centro de Investigação e Desenvolvimento em Etnobotânica. “É preciso fazer um investimento relevante para a área da pesquisa e provar às comunidades e ao mundo que as pesquisas têm resultados que beneficiam as populações”, afirmou Meneses, ao defender que a demonstração dos benefícios da ciência poderá convencer os decisores a aumentar os recursos destinados ao sector. O governante apelou igualmente à divulgação dos resultados das pesquisas realizadas no país, para que a população conheça e aproveite os produtos desenvolvidos por investigadores moçambicanos.",
-      "why": "«Governo defende investimento na ciência para valorizar plantas medicinais» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Governo defende investimento na ciência para valorizar plantas medicinais», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-10-26T14:23:22+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/26/governo-defende-investimento-na-ciencia-para-valorizar-plantas-medicinais/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 26 Out (AIM) – O Governo moçambicano defende o reforço do investimento na investigação científica e a divulgação dos seus resultados, com vista à valorização do conhecimento tradicional sobre plantas medicinais e ao desenvolvimento de soluções acessíveis para melhorar a saúde das comunidades. A posição foi manifestada hoje, em Maputo, pelo Secretário de Estado da Ciência e Ensino Superior, Isaú Joaquim Meneses, durante a abertura de um seminário científico sobre ciência e inovação em etnobotânica, promovido pelo Centro de Investigação e Desenvolvimento em Etnobotânica. “É preciso fazer um investimento relevante para a área da pesquisa e provar às comunidades e ao mundo que as pesquisas têm resultados que beneficiam as populações”, afirmou Meneses, ao defender que a demonstração dos benefícios da ciência poderá convencer os decisores a aumentar os recursos destinados ao sector. O governante apelou igualmente à divulgação dos resultados das pesquisas realizadas no país, para que a população conheça e aproveite os produtos desenvolvidos por investigadores moçambicanos. «Governo defende investimento na ciência para valorizar plantas medicinais» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo defende investimento na ciência para valorizar plantas medicinais», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.69,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "BCI Apoia 11.ª Edição da Feira Internacional do Livro",
-      "summary": "O Banco Comercial e de Investimentos (BCI) associou-se à realização da 11.ª edição da Feira Internacional do Livro, promovida pelo Conselho Municipal de Maputo, na quinta-feira (22), na capital moçambicana, […]",
-      "why": "«BCI Apoia 11.ª Edição da Feira Internacional do Livro» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «BCI Apoia 11.ª Edição da Feira Internacional do Livro», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-26T11:40:21+00:00",
-      "age_hours": 4.2,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/26/economia/responsabilidade-social/bci-apoia-11-a-edicao-da-feira-internacional-do-livro/",
       "original_source": true,
       "event_id": "evt-mocambique-005",
       "cluster_size": 1,
@@ -154,8 +131,37 @@
       "primary_source": "Diário Económico",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "O Banco Comercial e de Investimentos (BCI) associou-se à realização da 11.ª edição da Feira Internacional do Livro, promovida pelo Conselho Municipal de Maputo, na quinta-feira (22), na capital moçambicana, […]. «BCI Apoia 11.ª Edição da Feira Internacional do Livro» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «BCI Apoia 11.ª Edição da Feira Internacional do Livro», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.12,
+      "detailed_summary": "A mineradora australiana Syrah Resources anunciou que a sua subsidiária Twigg Exploration e Mining deverá receber mais 15 milhões de dólares da Corporação Financeira Internacional de Desenvolvimento dos Estados Unidos […]. «Cabo Delgado: Syrah Resources Garante Novo Financiamento de 15 Milhões de Dólares Para Balama» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Cabo Delgado: Syrah Resources Garante Novo Financiamento de 15 Milhões de Dólares Para Balama», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.56,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Moçambique e China acordam reperfilamento da dívida",
+      "summary": "Moçambique e China assinaram hoje (26 de Outubro), um Acordo-Quadro Complementar para o reperfilamento do serviço da dívida pública, na sequência dos recentes encontros entre o Presidente da República, Daniel Chapo, e seu homólogo chinês, Xi Jimping, na visita de Estado àquele país asiático. O instrumento foi assinado pela ministra das Finanças, Carla Loveira, em representação do Governo moçambicano, e pela embaixadora da República Popular da China em Maputo, Zheng Xuan. O acordo enquadra-se na Estratégia de Gestão da Dívida Pública de Médio Prazo 2025-2029 e constitui um passo importante para adequar os pagamentos da dívida à capacidade financeira do país, reforçando a sustentabilidade das finanças públicas, indica o comunicado de imprensa do Ministério das Finanças. Na ocasião, Loveira manifestou satisfação com a assinatura, sendo que o principal impacto do acordo é o alívio das pressões imediatas sobre o Orçamento do Estado, permitindo maior previsibilidade na gestão dos recursos públicos e criando condições para reforçar o financiamento das prioridades económicas e sociais.",
+      "why": "«Moçambique e China acordam reperfilamento da dívida» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Moçambique e China acordam reperfilamento da dívida», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-26T18:23:47+00:00",
+      "age_hours": 3.0,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/mocambique-e-china-acordam-reperfilamento-da-divida/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Moçambique e China assinaram hoje (26 de Outubro), um Acordo-Quadro Complementar para o reperfilamento do serviço da dívida pública, na sequência dos recentes encontros entre o Presidente da República, Daniel Chapo, e seu homólogo chinês, Xi Jimping, na visita de Estado àquele país asiático. O instrumento foi assinado pela ministra das Finanças, Carla Loveira, em representação do Governo moçambicano, e pela embaixadora da República Popular da China em Maputo, Zheng Xuan. O acordo enquadra-se na Estratégia de Gestão da Dívida Pública de Médio Prazo 2025-2029 e constitui um passo importante para adequar os pagamentos da dívida à capacidade financeira do país, reforçando a sustentabilidade das finanças públicas, indica o comunicado de imprensa do Ministério das Finanças. Na ocasião, Loveira manifestou satisfação com a assinatura, sendo que o principal impacto do acordo é o alívio das pressões imediatas sobre o Orçamento do Estado, permitindo maior previsibilidade na gestão dos recursos públicos e criando condições para reforçar o financiamento das prioridades económicas e sociais. «Moçambique e China acordam reperfilamento da dívida» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique e China acordam reperfilamento da dívida», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.38,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -171,7 +177,7 @@
       "impact": "No caso de «Mediador da CEDEAO avalia na Guiné-Bissau adiamento das eleições», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-26T07:49:34+00:00",
-      "age_hours": 8.1,
+      "age_hours": 13.6,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/mediador-da-cedeao-avalia-na-guine-bissau-adiamento-das-eleicoes_n1774367",
       "original_source": true,
@@ -185,27 +191,26 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O chefe de diplomacia senegalesa, mediador da Comunidade Económica dos Estados da África Ocidental (CEDEAO) para a Guiné-Bissau, iniciou este domingo uma visita à capital guineense para analisar uma nova data para as eleições gerais O ministro da Integração Africana, dos Negócios Estrangeiros e dos Senegaleses no Estrangeiro, Cheikh Niang, foi recebido no Aeroporto Internacional Osvaldo Vieira, em Bissau, pelo ministro guineense da Justiça e dos Direitos Humanos, João Bernardo Vieira Durante a visita de trabalho de dois dias, está previsto que Niang se reúna com os principais responsáveis políticos e militares do país, incluindo o presidente de transição, general Horta N`ta, o primeiro-ministro, Ilídio Vieira Té, e o chefe do Estado-Maior-General das Forças Armadas, Tomás Djassi O governante senegalês deverá também encontrar-se com representantes dos partidos políticos, da sociedade civil e do corpo diplomático O Senegal exerce atualmente a presidência rotativa do bloco regional A visita ocorre depois de Vieira Té ter admitido no passado dia 08, após uma reunião com o presidente de… «Mediador da CEDEAO avalia na Guiné-Bissau adiamento das eleições» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mediador da CEDEAO avalia na Guiné-Bissau adiamento das eleições», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 12.31,
+      "editorial_score": 11.17,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Inteligência artificial. Claude da Anthropic acede a dados eleitorais nos Estados Unidos",
-      "summary": "O sistema Claude, da empresa Anthropic, agiu por iniciativa própria num site governamental dos Estados Unidos para evitar pagar por dados de votação. A empresa garante que a segurança das eleições não foi posta em causa",
-      "why": "«Inteligência artificial. Claude da Anthropic acede a dados eleitorais nos Estados Unidos» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Inteligência artificial. Claude da Anthropic acede a dados eleitorais nos Estados Unidos», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "title": "Resultado eleitoral no Brasil não deverá ser anulado",
+      "summary": "O resultado das eleições presidenciais no Brasil foi validado pela justiça, apesar do pedido de anulação pelo candidato derrotado, Flávio Bolsonaro. Os especialistas acreditam que a vitória de Lula da Silva não será colocada em causa",
+      "why": "«Resultado eleitoral no Brasil não deverá ser anulado» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Resultado eleitoral no Brasil não deverá ser anulado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-26T13:04:39+00:00",
-      "age_hours": 2.8,
+      "published": "2026-10-26T21:00:47+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/inteligencia-artificial-claude-da-anthropic-acede-a-dados-eleitorais-nos-estados-unidos_n1774424",
+      "link": "https://www.rtp.pt/noticias/mundo/resultado-eleitoral-no-brasil-nao-devera-ser-anulado_v1774557",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -214,8 +219,37 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O sistema Claude, da empresa Anthropic, agiu por iniciativa própria num site governamental dos Estados Unidos para evitar pagar por dados de votação. A empresa garante que a segurança das eleições não foi posta em causa. «Inteligência artificial. Claude da Anthropic acede a dados eleitorais nos Estados Unidos» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Inteligência artificial. Claude da Anthropic acede a dados eleitorais nos Estados Unidos», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 11.42,
+      "detailed_summary": "O resultado das eleições presidenciais no Brasil foi validado pela justiça, apesar do pedido de anulação pelo candidato derrotado, Flávio Bolsonaro. Os especialistas acreditam que a vitória de Lula da Silva não será colocada em causa. «Resultado eleitoral no Brasil não deverá ser anulado» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Resultado eleitoral no Brasil não deverá ser anulado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.92,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "ONU marca 30 anos de atuação pela libertação de crianças-soldado pelo mundo",
+      "summary": "Sessão no Conselho de Segurança abordou proteção de menores em conflitos armados; atual representante, Vanessa Frazier, pediu aos países compromissos políticos e “financiamento previsível, flexível e plurianual”; moçambicana Graça Machel fez primeiro relatório sobre tema",
+      "why": "«ONU marca 30 anos de atuação pela libertação de crianças-soldado pelo mundo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «ONU marca 30 anos de atuação pela libertação de crianças-soldado pelo mundo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-26T12:00:00+00:00",
+      "age_hours": 9.4,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854750",
+      "original_source": true,
+      "event_id": "evt-mundo-006",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Sessão no Conselho de Segurança abordou proteção de menores em conflitos armados; atual representante, Vanessa Frazier, pediu aos países compromissos políticos e “financiamento previsível, flexível e plurianual”; moçambicana Graça Machel fez primeiro relatório sobre tema. «ONU marca 30 anos de atuação pela libertação de crianças-soldado pelo mundo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «ONU marca 30 anos de atuação pela libertação de crianças-soldado pelo mundo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.04,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -230,11 +264,11 @@
       "impact": "No caso de «Sérvia faz história. Movimento de estudantes derrota ex-presidente nas urnas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
       "published": "2026-10-26T13:29:31+00:00",
-      "age_hours": 2.4,
+      "age_hours": 7.9,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/servia-faz-historia-movimento-de-estudantes-derrota-ex-presidente-nas-urnas_n1774402",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -244,7 +278,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Os resultados das eleições legislativas antecipadas deram a vitória com maioria absoluta à \"Lista Estudantil - Os Estudantes Vencem\". Este movimento de protesto derrotou o ex-presidente do país que se candidatava a primeiro-ministro. Aleksandar Vučić, líder populista de direita, admitiu a derrota e as celebrações tomaram conta do país. «Sérvia faz história. Movimento de estudantes derrota ex-presidente nas urnas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Sérvia faz história. Movimento de estudantes derrota ex-presidente nas urnas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.5,
+      "editorial_score": 9.35,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -253,28 +287,28 @@
       "tags": [
         "Economia"
       ],
-      "title": "Argélia aprova envio de tropas militares ao Níger: que missões vão cumprir?",
-      "summary": "Foi numa sessão extraordinária à porta fechada, no domingo, que o Conselho da Nação argelino (Câmara Alta do Parlamento) aprovou por unanimidade a proposta de envio de uma unidade do Exército Nacional Popular para o Níger.Segundo a agência “France Presse”, os membros presentes, 148 em 174, votaram a favor da medida, que visa “proteger as infraestruturas energéticas no Níger”, em particular os projetos petrolíferos da empresa estatal Sonatrach.A decisão aguarda agora a aprovação da Assembleia Popular Nacional (Câmara Baixa do Parlamento), cuja votação estava prevista para a noite de domingo, já que o artigo 91 da Constituição argelina exige que qualquer envio de tropas para o estrangeiro seja validado por dois terços dos membros de cada câmara.Até ao momento, as autoridades não revelaram a dimensão da força a enviar nem a data de início da missão, sublinhando apenas que o seu desdobramento será limitado e destinado à proteção dos investimentos argelinos.Argélia e Níger reforçam cooperação militarA decisão surge num contexto de rápido estreitamento político e militar entre a Argélia e…",
-      "why": "«Argélia aprova envio de tropas militares ao Níger: que missões vão cumprir?» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Argélia aprova envio de tropas militares ao Níger: que missões vão cumprir?», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Euronews Português",
-      "published": "2026-10-26T09:53:37+00:00",
-      "age_hours": 6.0,
+      "title": "Guterres destaca “eleições pacíficas e participativas” no Brasil após vitória de Lula",
+      "summary": "Porta-voz associada do secretário-geral respondeu à jornalista sobre resultado das eleições presidenciais durante encontro com correspondentes na sede da organização, em Nova Iorque; ONU pretende continuar cooperando com o país em temas de interesse da agenda internacional",
+      "why": "«Guterres destaca “eleições pacíficas e participativas” no Brasil após vitória de Lula» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Guterres destaca “eleições pacíficas e participativas” no Brasil após vitória de Lula», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-26T12:00:00+00:00",
+      "age_hours": 9.4,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/26/argelia-aprova-envio-de-tropas-militares-ao-niger-que-missoes-vao-cumprir",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854751",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Euronews Português"
+        "Notícias ONU"
       ],
-      "primary_source": "Euronews Português",
+      "primary_source": "Notícias ONU",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Foi numa sessão extraordinária à porta fechada, no domingo, que o Conselho da Nação argelino (Câmara Alta do Parlamento) aprovou por unanimidade a proposta de envio de uma unidade do Exército Nacional Popular para o Níger.Segundo a agência “France Presse”, os membros presentes, 148 em 174, votaram a favor da medida, que visa “proteger as infraestruturas energéticas no Níger”, em particular os projetos petrolíferos da empresa estatal Sonatrach.A decisão aguarda agora a aprovação da Assembleia Popular Nacional (Câmara Baixa do Parlamento), cuja votação estava prevista para a noite de domingo, já que o artigo 91 da Constituição argelina exige que qualquer envio de tropas para o estrangeiro seja validado por dois terços dos membros de cada câmara.Até ao momento, as autoridades não revelaram a dimensão da força a enviar nem a data de início da missão, sublinhando apenas que o seu desdobramento será limitado e destinado à proteção dos investimentos argelinos.Argélia e Níger reforçam cooperação militarA decisão surge num contexto de rápido estreitamento político e militar entre a Argélia e… «Argélia aprova envio de tropas militares ao Níger: que missões vão cumprir?» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Argélia aprova envio de tropas militares ao Níger: que missões vão cumprir?», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 8.75,
-      "source_tier": "C",
+      "opportunity_flag": false,
+      "detailed_summary": "Porta-voz associada do secretário-geral respondeu à jornalista sobre resultado das eleições presidenciais durante encontro com correspondentes na sede da organização, em Nova Iorque; ONU pretende continuar cooperando com o país em temas de interesse da agenda internacional. «Guterres destaca “eleições pacíficas e participativas” no Brasil após vitória de Lula» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Guterres destaca “eleições pacíficas e participativas” no Brasil após vitória de Lula», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.04,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -288,11 +322,11 @@
       "impact": "No caso de «Sérvia: eleições escapam à compra de votos graças a observadores húngaros», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-26T15:34:16+00:00",
-      "age_hours": 0.3,
+      "age_hours": 5.9,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/26/servia-eleicoes-escapam-a-compra-de-votos-gracas-a-observadores-hungaros",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -302,7 +336,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Na Sérvia, no domingo, a oposição democrática venceu de forma convincente, em grande parte graças aos observadores que vigiaram a correção do processo eleitoral.Pela primeira vez, equipas de vigilância formadas por estudantes universitários e ativistas da oposição percorreram o país para desmascarar esquemas de transporte organizado de eleitores e de compra de votos. O presidente Aleksandar Vučić não recuou perante estes métodos, apenas para não ter de devolver o poder ao fim de 12 anos.“Juntei-me porque sou estudante e há dois anos que protesto contra o governo. Quis contribuir com todos os meios possíveis para que estas eleições decorressem de forma justa”, explicou o jovem ativista Alex.Na Voivodina, perto da fronteira húngara, os membros da comunidade de ação DE! também se juntaram ao trabalho. «Sérvia: eleições escapam à compra de votos graças a observadores húngaros» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Sérvia: eleições escapam à compra de votos graças a observadores húngaros», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.94,
+      "editorial_score": 6.77,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -328,7 +362,7 @@
   "section_counts": {
     "Moçambique": 5,
     "África": 1,
-    "Mundo": 4
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
