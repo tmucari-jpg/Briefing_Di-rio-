@@ -1,10 +1,71 @@
 {
-  "updated_at": "2026-10-26T08:37:12.105143+00:00",
+  "updated_at": "2026-10-26T15:55:18.899767+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Raxio builds Mozambique’s digital infrastructure ecosystem",
+      "summary": "When we spoke in 2024, you expected data localisation, the financial sector and LNG to drive demand. Two years on, has that translated into real business? Many of the market developments we anticipated are now becoming visible. Financial institutions and connectivity providers were important drivers of our initial demand, and we are also seeing growing participation from cloud and digital-service providers as the local ecosystem develops A particularly important development has been the evolution of Mozambique’s regulatory framework. The country has introduced regulations covering data centres and cloud computing and has continued to strengthen its broader cybersecurity, cybercrime and data-protection environment This creates greater clarity around how critical digital infrastructure should be operated and how sensitive and essential services should be supported.",
+      "why": "«Raxio builds Mozambique’s digital infrastructure ecosystem» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Raxio builds Mozambique’s digital infrastructure ecosystem», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-26T14:26:08+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/raxio-builds-mozambiques-digital-infrastructure-ecosystem/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "When we spoke in 2024, you expected data localisation, the financial sector and LNG to drive demand. Two years on, has that translated into real business? Many of the market developments we anticipated are now becoming visible. Financial institutions and connectivity providers were important drivers of our initial demand, and we are also seeing growing participation from cloud and digital-service providers as the local ecosystem develops A particularly important development has been the evolution of Mozambique’s regulatory framework. The country has introduced regulations covering data centres and cloud computing and has continued to strengthen its broader cybersecurity, cybercrime and data-protection environment This creates greater clarity around how critical digital infrastructure should be operated and how sensitive and essential services should be supported. «Raxio builds Mozambique’s digital infrastructure ecosystem» matters because it may change energy and investment decisions affecting Moçambique. For «Raxio builds Mozambique’s digital infrastructure ecosystem», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 16.69,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Mozambique: ENH urges local businesses to seize logistics opportunities in oil and gas industry",
+      "summary": "ENH has called on national businesses to position themselves to secure opportunities to provide logistics services to oil and gas projects and, in this way, benefit from investment currently under way in the industry. The challenge was issued by Martinho Missal, Director of Engineering and Project Development (PEDP), speaking at the first edition of the… Source",
+      "why": "«Mozambique: ENH urges local businesses to seize logistics opportunities in oil and gas industry» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Mozambique: ENH urges local businesses to seize logistics opportunities in oil and gas industry», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-26T13:42:13+00:00",
+      "age_hours": 2.2,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-enh-urges-local-businesses-to-seize-logistics-opportunities-in-oil-and-gas-industry/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "ENH has called on national businesses to position themselves to secure opportunities to provide logistics services to oil and gas projects and, in this way, benefit from investment currently under way in the industry. The challenge was issued by Martinho Missal, Director of Engineering and Project Development (PEDP), speaking at the first edition of the… Source. «Mozambique: ENH urges local businesses to seize logistics opportunities in oil and gas industry» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique: ENH urges local businesses to seize logistics opportunities in oil and gas industry», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 16.54,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -17,11 +78,11 @@
       "impact": "For «Government to boost public investment budget by 3.6 billion meticais», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-25T22:25:04+00:00",
-      "age_hours": 10.2,
+      "age_hours": 17.5,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/26/government-to-boost-public-investment-budget-by-3-6-billion-meticais/",
       "original_source": true,
-      "event_id": "evt-mocambique-007",
+      "event_id": "evt-mocambique-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -31,84 +92,86 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 26 Oct (AIM) – The Mozambican government intends to increase the public investment budget by 3.6 billion meticais (56.5 million US dollars at the current exchange rate) for 2026. Speaking on Saturday at the Assembly of the Republic, the country’s parliament, during the presentation of proposal for a targeted revision of the 2026 Economic and Social Plan and State Budget (PESOE), the executive branch plans to boost public investment by 3.6 billion meticais, with priority given to the restoration of infrastructure damaged by floods. According to Levi, the revision stems from the identification of a carry-over balance exceeding 3.5 billion meticais, derived from the budgetary allocation of revenues from Liquefied Natural Gas (LNG), which is currently held in the transitional account of Mozambique’s Sovereign Wealth Fund. “The proposal does not alter the strategic objectives of the 2026 Economic and Social Plan and State Budget. «Government to boost public investment budget by 3.6 billion meticais» matters because it may change energy and investment decisions affecting Moçambique. For «Government to boost public investment budget by 3.6 billion meticais», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 15.88,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique: Degradation of Quelimane technical institute halts new student admissions",
-      "summary": "Inaugurated in 1963, the technical and vocational education institution, located in the centre of Quelimane, saw the condition of its infrastructure deteriorate further following the passage of Cyclone Freddy in 2023. Despite the difficulties, teaching activities continue, thanks to the joint efforts of teachers, students and staff Meanwhile, the possibility of rehabilitating the facilities has raised hopes within the school community. Recently, a team of contractors visited the institute to assess the physical condition of the buildings, as part of an initiative associated with PRETEP PLUS, a programme supporting technical and vocational education in Mozambique, funded by Italian cooperation through the Italian Agency for Development Cooperation (AICS) “Our institute is in a state of severe disrepair, and learning that it may be rehabilitated is good news.",
-      "why": "«Mozambique: Degradation of Quelimane technical institute halts new student admissions» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Mozambique: Degradation of Quelimane technical institute halts new student admissions», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-26T07:57:56+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-degradation-of-quelimane-technical-institute-halts-new-student-admissions/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Inaugurated in 1963, the technical and vocational education institution, located in the centre of Quelimane, saw the condition of its infrastructure deteriorate further following the passage of Cyclone Freddy in 2023. Despite the difficulties, teaching activities continue, thanks to the joint efforts of teachers, students and staff Meanwhile, the possibility of rehabilitating the facilities has raised hopes within the school community. Recently, a team of contractors visited the institute to assess the physical condition of the buildings, as part of an initiative associated with PRETEP PLUS, a programme supporting technical and vocational education in Mozambique, funded by Italian cooperation through the Italian Agency for Development Cooperation (AICS) “Our institute is in a state of severe disrepair, and learning that it may be rehabilitated is good news. «Mozambique: Degradation of Quelimane technical institute halts new student admissions» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Degradation of Quelimane technical institute halts new student admissions», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 13.85,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique: President Chapo congratulates Brazil President Lula on re-election",
-      "summary": "In a message addressed on behalf of the Government and people of Mozambique, as well as in his own name, Chapo extends his congratulations to President Lula, the Government and the Brazilian people on the renewal of his presidential mandate, wishing him success in the exercise of his duties and prosperity for the Brazilian people The head of state highlights the deep historical ties of friendship, solidarity and cooperation that unite Mozambique and Brazil, emphasising the linguistic kinship and cultural affinities that bring the two peoples closer together The President of the Republic also expresses his conviction that, under President Lula’s leadership, Mozambique and Brazil will continue to work to deepen and diversify bilateral relations for the benefit of both countries and their peoples. He also highlights the importance of cooperation between the two states in areas of mutual interest, reaffirming Mozambique’s commitment to strengthening the existing bonds of friendship and partnership between the two countries",
-      "why": "«Mozambique: President Chapo congratulates Brazil President Lula on re-election» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Mozambique: President Chapo congratulates Brazil President Lula on re-election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-26T08:18:27+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-president-chapo-congratulates-brazil-president-lula-on-reelection/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "In a message addressed on behalf of the Government and people of Mozambique, as well as in his own name, Chapo extends his congratulations to President Lula, the Government and the Brazilian people on the renewal of his presidential mandate, wishing him success in the exercise of his duties and prosperity for the Brazilian people The head of state highlights the deep historical ties of friendship, solidarity and cooperation that unite Mozambique and Brazil, emphasising the linguistic kinship and cultural affinities that bring the two peoples closer together The President of the Republic also expresses his conviction that, under President Lula’s leadership, Mozambique and Brazil will continue to work to deepen and diversify bilateral relations for the benefit of both countries and their peoples. He also highlights the importance of cooperation between the two states in areas of mutual interest, reaffirming Mozambique’s commitment to strengthening the existing bonds of friendship and partnership between the two countries. «Mozambique: President Chapo congratulates Brazil President Lula on re-election» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: President Chapo congratulates Brazil President Lula on re-election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 12.94,
+      "editorial_score": 14.35,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "IA",
+        "Economia",
+        "Segurança"
       ],
-      "title": "From rotten food to political opponents: Researchers explore how disgust relates to our beliefs — and why the connection is complicated",
-      "summary": "Some studies have linked disgust sensitivity to socially conservative attitudes. But ahead of the US midterm elections, does disgust shape our politics, or do our beliefs shape what we find disgusting? Some studies have linked disgust sensitivity to socially conservative attitudes. But ahead of the US midterm elections , does disgust shape our politics, or do our beliefs shape what we find disgusting? The smell of rotten food can make us recoil. Certain sexual practices can provoke a similar reaction.",
-      "why": "«From rotten food to political opponents: Researchers explore how disgust relates to our beliefs — and…» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «From rotten food to political opponents: Researchers explore how disgust relates to our beliefs — and…», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-10-26T08:13:00+00:00",
-      "age_hours": 0.4,
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "Anthropic has warned artificial intelligence (AI) could pose \"catastrophic or existential risks to humanity\" as it unveiled details of its planned blockbuster stock market listing in the US The firm's valuation is expected to exceed that of SpaceX, which was the biggest-ever stock listing at an initial valuation of about $1.8 trillion in the summer Anthropic has not yet disclosed the number of shares to be released, their price range, and a date for the listing The Claude chatbot developer revealed losses in a filing on Monday of more than $80.7bn (£60.5bn) in the first half of the year, but said it had $112.4bn in cash or equivalents, and generated revenues of $16.3bn over the same period Anthropic will be the first true AI company to go public, making it a test case for the future of the technology.",
+      "why": "«Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-26T15:27:54+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
       "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Anthropic has warned artificial intelligence (AI) could pose \"catastrophic or existential risks to humanity\" as it unveiled details of its planned blockbuster stock market listing in the US The firm's valuation is expected to exceed that of SpaceX, which was the biggest-ever stock listing at an initial valuation of about $1.8 trillion in the summer Anthropic has not yet disclosed the number of shares to be released, their price range, and a date for the listing The Claude chatbot developer revealed losses in a filing on Monday of more than $80.7bn (£60.5bn) in the first half of the year, but said it had $112.4bn in cash or equivalents, and generated revenues of $16.3bn over the same period Anthropic will be the first true AI company to go public, making it a test case for the future of the technology. «Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing» points to a concrete change in the adoption, regulation or use of technology. For «Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "editorial_score": 13.9,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "How 'Lula's Army' WhatsApp chat helped turn Brazil election around",
+      "summary": "A WhatsApp channel created to support Luiz Inácio Lula da Silva's re-election campaign is being credited by allies with helping deliver one of the most unlikely comebacks in recent Brazilian politics Brazil's left-wing president had been trailing right-wing challenger Flávio Bolsonaro, but managed to turn the race around in just three weeks At a moment when many doubted Lula could reverse the result, a WhatsApp channel called Lula's Army emerged, and rapidly grew to 10.8 million followers Led by Congressman André Janones, the operation encouraged supporters to share videos, promote hashtags and recruit new voters Its dramatic growth between the two rounds was particularly notable because it appeared to reverse a long-standing imbalance in Brazilian politics For years, conservatives aligned with former President Jair Bolsonaro had been widely seen as dominating online political mobilisation, especially on platforms such as WhatsApp and Telegram Lula's supporters mobilised en masse despite polls pointing to a defeat for the incumbent The emergence of Lula's Army convinced many…",
+      "why": "«How 'Lula's Army' WhatsApp chat helped turn Brazil election around» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «How 'Lula's Army' WhatsApp chat helped turn Brazil election around», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-26T15:37:33+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A WhatsApp channel created to support Luiz Inácio Lula da Silva's re-election campaign is being credited by allies with helping deliver one of the most unlikely comebacks in recent Brazilian politics Brazil's left-wing president had been trailing right-wing challenger Flávio Bolsonaro, but managed to turn the race around in just three weeks At a moment when many doubted Lula could reverse the result, a WhatsApp channel called Lula's Army emerged, and rapidly grew to 10.8 million followers Led by Congressman André Janones, the operation encouraged supporters to share videos, promote hashtags and recruit new voters Its dramatic growth between the two rounds was particularly notable because it appeared to reverse a long-standing imbalance in Brazilian politics For years, conservatives aligned with former President Jair Bolsonaro had been widely seen as dominating online political mobilisation, especially on platforms such as WhatsApp and Telegram Lula's supporters mobilised en masse despite polls pointing to a defeat for the incumbent The emergence of Lula's Army convinced many… «How 'Lula's Army' WhatsApp chat helped turn Brazil election around» is worth following because of its possible economic, institutional or regional effects. For «How 'Lula's Army' WhatsApp chat helped turn Brazil election around», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.94,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
+      "summary": "The luxury carmaker is set to open its first factory in the United States — a move Trump credits to his tariffs. DW examines the German reaction amid a massive auto industry cull at home",
+      "why": "«What Germany thinks of carmaker Audi's $4 billion deal with Trump» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «What Germany thinks of carmaker Audi's $4 billion deal with Trump», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "DW English",
+      "published": "2026-10-26T15:16:00+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -117,8 +180,66 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Some studies have linked disgust sensitivity to socially conservative attitudes. But ahead of the US midterm elections, does disgust shape our politics, or do our beliefs shape what we find disgusting? Some studies have linked disgust sensitivity to socially conservative attitudes. But ahead of the US midterm elections , does disgust shape our politics, or do our beliefs shape what we find disgusting? The smell of rotten food can make us recoil. Certain sexual practices can provoke a similar reaction. «From rotten food to political opponents: Researchers explore how disgust relates to our beliefs — and…» matters because it may change energy and investment decisions affecting Mundo. For «From rotten food to political opponents: Researchers explore how disgust relates to our beliefs — and…», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.92,
+      "detailed_summary": "The luxury carmaker is set to open its first factory in the United States — a move Trump credits to his tariffs. DW examines the German reaction amid a massive auto industry cull at home. «What Germany thinks of carmaker Audi's $4 billion deal with Trump» is worth following because of its possible economic, institutional or regional effects. For «What Germany thinks of carmaker Audi's $4 billion deal with Trump», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.85,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Why Ukraine may be involved in Mali's conflict",
+      "summary": "Allegations that Ukrainian specialists are supporting Tuareg rebels in Mali highlight Kyiv's effort to challenge Russian influence far beyond the battlefield in Europe Ukraine is fighting Russia — and the conflict may extend into Africa's Sahel region According to an investigation published by US media outlet CNN in September, around 15 Ukrainian drone specialists are reportedly supporting Tuareg rebels in northern Mali. Their common enemy: the military government in Bamako and its Russian allies But how reliable is the information? And what price could Kyiv pay for engaging in Africa? Marta Oliynyk-D'omochko, coordinator of the African Studies Program at the National University of Kyiv-Mohyla Academy, sees a strategic motive. \"Ukraine's main interest is to weaken Russia's influence around the world,\" she told DW.",
+      "why": "«Why Ukraine may be involved in Mali's conflict» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Why Ukraine may be involved in Mali's conflict», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-26T14:58:00+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Allegations that Ukrainian specialists are supporting Tuareg rebels in Mali highlight Kyiv's effort to challenge Russian influence far beyond the battlefield in Europe Ukraine is fighting Russia — and the conflict may extend into Africa's Sahel region According to an investigation published by US media outlet CNN in September, around 15 Ukrainian drone specialists are reportedly supporting Tuareg rebels in northern Mali. Their common enemy: the military government in Bamako and its Russian allies But how reliable is the information? And what price could Kyiv pay for engaging in Africa? Marta Oliynyk-D'omochko, coordinator of the African Studies Program at the National University of Kyiv-Mohyla Academy, sees a strategic motive. \"Ukraine's main interest is to weaken Russia's influence around the world,\" she told DW. «Why Ukraine may be involved in Mali's conflict» deserves attention because it may change political, diplomatic or security risks. For «Why Ukraine may be involved in Mali's conflict», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 10.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "summary": "A nurse has been killed and another health worker seriously injured in an attack as they were responding to an Ebola alert in north-eastern Democratic Republic of Congo The two were targeted by local youths who accused them of contaminating water sources and spreading the Ebola virus, according to the UN-backed Radio Okapi.",
+      "why": "«Nurse killed in attack while responding to Ebola alert in DR Congo» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Nurse killed in attack while responding to Ebola alert in DR Congo», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "source": "BBC Africa",
+      "published": "2026-10-26T14:27:32+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A nurse has been killed and another health worker seriously injured in an attack as they were responding to an Ebola alert in north-eastern Democratic Republic of Congo The two were targeted by local youths who accused them of contaminating water sources and spreading the Ebola virus, according to the UN-backed Radio Okapi. «Nurse killed in attack while responding to Ebola alert in DR Congo» is worth following because of its possible economic, institutional or regional effects. For «Nurse killed in attack while responding to Ebola alert in DR Congo», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "editorial_score": 10.69,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -133,11 +254,11 @@
       "impact": "For «Fishermen escape from terrorists’ captivity», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-25T22:22:59+00:00",
-      "age_hours": 10.2,
+      "age_hours": 17.5,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/26/fishermen-escape-from-terrorists-captivity/",
       "original_source": true,
-      "event_id": "evt-mocambique-008",
+      "event_id": "evt-mocambique-009",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -147,184 +268,8 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 26 Oct (AIM) – A group of three fishermen escaped from captivity at the hands of terrorists last Wednesday after the vessel they were on was hijacked in Mocímboa da Praia district, northern Mozambican province of Cabo Delgado. According to local sources, quoted by the independent newsheet “Carta de Moçambique”, the men who escaped from the terrorists were part of a group of 20 fishermen abducted shortly before a military clash that resulted in the deaths of at least three terrorists, who were killed by the Mozambican Navy. Sources added that the fishermen were held captive in the vicinity of the Messalo River. The three individuals who escaped have since returned to their families in the Milamba neighborhood, on the outskirts of the town of Mocímboa da Praia. According to the latest report carried out by the independent conflict registration project ACLED (Armed Conflict Location and Event Data Project), the terrorists have been increasingly tightening security measures in Mocimboa da Praia, constraining commercial and humanitarian activity. «Fishermen escape from terrorists’ captivity» deserves attention because it may change political, diplomatic or security risks. For «Fishermen escape from terrorists’ captivity», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 11.88,
+      "editorial_score": 10.35,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "Watch: Supporters fill streets of Caracas to welcome María Corina Machado Venezuelan opposition leader María Corina Machado has returned home to a fraught political landscape after more than 10 months in exile \"I am here. With you,\" Machado wrote on X on Sunday. Her return comes after repeated prior efforts to re-enter the country came to no avail In January, a month after Machado left Venezuela on a speedboat under cover of darkness to accept the Nobel Peace Prize in Norway, the US seized her opponent, President Nicolás Maduro The Trump administration then backed his deputy, Delcy Rodríguez, as leader and she was sworn in as interim president, later signing an oil deal which granted very favourable terms to the US Machado was photographed on Sunday attending Mass at a church in the Venezuelan state of Lara, surrounded by supporters hugging her and clasping her hands She then began travelling to the capital Caracas in a caravan of cheering supporters.",
-      "why": "«Venezuelan opposition leader María Machado returns after months in exile» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Venezuelan opposition leader María Machado returns after months in exile», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-26T05:20:19+00:00",
-      "age_hours": 3.3,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-009",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Watch: Supporters fill streets of Caracas to welcome María Corina Machado Venezuelan opposition leader María Corina Machado has returned home to a fraught political landscape after more than 10 months in exile \"I am here. With you,\" Machado wrote on X on Sunday. Her return comes after repeated prior efforts to re-enter the country came to no avail In January, a month after Machado left Venezuela on a speedboat under cover of darkness to accept the Nobel Peace Prize in Norway, the US seized her opponent, President Nicolás Maduro The Trump administration then backed his deputy, Delcy Rodríguez, as leader and she was sworn in as interim president, later signing an oil deal which granted very favourable terms to the US Machado was photographed on Sunday attending Mass at a church in the Venezuelan state of Lara, surrounded by supporters hugging her and clasping her hands She then began travelling to the capital Caracas in a caravan of cheering supporters. «Venezuelan opposition leader María Machado returns after months in exile» matters because it may change energy and investment decisions affecting Mundo. For «Venezuelan opposition leader María Machado returns after months in exile», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.31,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Photos: Serbia celebrates as ruling party loses grip on power",
-      "summary": "Two years of student-led protests against corruption and mismanagement culminate in election victory",
-      "why": "«Photos: Serbia celebrates as ruling party loses grip on power» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Photos: Serbia celebrates as ruling party loses grip on power», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-26T08:18:39+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Two years of student-led protests against corruption and mismanagement culminate in election victory. «Photos: Serbia celebrates as ruling party loses grip on power» is worth following because of its possible economic, institutional or regional effects. For «Photos: Serbia celebrates as ruling party loses grip on power», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.94,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Photos: Lula supporters flood streets in celebration of historic win",
-      "summary": "Avenues and squares in Rio de Janeiro and Sao Paulo filled with crowds dressed in red, celebrating democracy",
-      "why": "«Photos: Lula supporters flood streets in celebration of historic win» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Photos: Lula supporters flood streets in celebration of historic win», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-26T07:24:58+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Avenues and squares in Rio de Janeiro and Sao Paulo filled with crowds dressed in red, celebrating democracy. «Photos: Lula supporters flood streets in celebration of historic win» is worth following because of its possible economic, institutional or regional effects. For «Photos: Lula supporters flood streets in celebration of historic win», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.75,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia",
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Nigeria: Tinubu launches reelection bid amid economic woes",
-      "summary": "President Bola Tinubu promised \"a better tomorrow\" for Nigerians while kicking off his next electoral campaign, while also blaming his rivals for poverty plaguing Africa's most populous nation Nigeria 's President Bola Tinubu on Saturday formally launched his campaign for a second term \"We have prosperity, consistency, growth, recovery and opportunity,\" Tinubu said at a rally in the northwestern state of Kaduna \"You grant me the privilege to promise you once again, there is that promise of a better tomorrow,\" he added Africa's most populous country will hold its next presidential election in January 2027 . The campaign is expected to focus on Nigeria's economy and security challenges To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video After taking power in 2023, Tinubu sparked anger by scrapping decades-long fuel subsidies — a move that has fueled Nigeria's inflation On Saturday, the incumbent president dismissed criticisms about his economic policies \"I hear my opponents talking about hunger and poverty. Who created it?",
-      "why": "«Nigeria: Tinubu launches reelection bid amid economic woes» matters because it may change energy and investment decisions affecting África.",
-      "impact": "For «Nigeria: Tinubu launches reelection bid amid economic woes», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-10-24T23:49:00+00:00",
-      "age_hours": 32.8,
-      "within_24h": false,
-      "link": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "President Bola Tinubu promised \"a better tomorrow\" for Nigerians while kicking off his next electoral campaign, while also blaming his rivals for poverty plaguing Africa's most populous nation Nigeria 's President Bola Tinubu on Saturday formally launched his campaign for a second term \"We have prosperity, consistency, growth, recovery and opportunity,\" Tinubu said at a rally in the northwestern state of Kaduna \"You grant me the privilege to promise you once again, there is that promise of a better tomorrow,\" he added Africa's most populous country will hold its next presidential election in January 2027 . The campaign is expected to focus on Nigeria's economy and security challenges To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video After taking power in 2023, Tinubu sparked anger by scrapping decades-long fuel subsidies — a move that has fueled Nigeria's inflation On Saturday, the incumbent president dismissed criticisms about his economic policies \"I hear my opponents talking about hunger and poverty. Who created it? «Nigeria: Tinubu launches reelection bid amid economic woes» matters because it may change energy and investment decisions affecting África. For «Nigeria: Tinubu launches reelection bid amid economic woes», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 10.22,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-      "summary": "Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win a historic fourth term in office. Bolsonaro has refused to concede and called for the results to be annulled. DW has the latest It was a tight runoff, with Lula winning 51.7% of the vote against Bolsonaro’s 48.2%, official results showed In his victory speech, Lula urged more regulation of big tech platforms after allegations that Meta interfered in the race Several Latin American leaders congratulated Lula on win Bolsonaro refused to concede, calls for election results to be annulled Keep reading for the latest updates from the second round of Brazil's presidential election on Sunday, October 25 Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google .",
-      "why": "«Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-10-26T03:45:00+00:00",
-      "age_hours": 4.9,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-015",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win a historic fourth term in office. Bolsonaro has refused to concede and called for the results to be annulled. DW has the latest It was a tight runoff, with Lula winning 51.7% of the vote against Bolsonaro’s 48.2%, official results showed In his victory speech, Lula urged more regulation of big tech platforms after allegations that Meta interfered in the race Several Latin American leaders congratulated Lula on win Bolsonaro refused to concede, calls for election results to be annulled Keep reading for the latest updates from the second round of Brazil's presidential election on Sunday, October 25 Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google . «Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro» is worth following because of its possible economic, institutional or regional effects. For «Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 9.98,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
-      "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection The first confirmed Ebola patients in Kenya and Nigeria may have crossed paths at Uganda's Entebbe International Airport, according to African health officials, as new information from Switzerland contradicts Uganda's account of the Nigerian patient's travel history Uganda , a country reporting no active Ebola infections, has become a focus of investigations into cases thousands of kilometers apart Uganda insists that it has no confirmed active cases of the deadly virus .",
-      "why": "«Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-10-25T13:41:00+00:00",
-      "age_hours": 18.9,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection The first confirmed Ebola patients in Kenya and Nigeria may have crossed paths at Uganda's Entebbe International Airport, according to African health officials, as new information from Switzerland contradicts Uganda's account of the Nigerian patient's travel history Uganda , a country reporting no active Ebola infections, has become a focus of investigations into cases thousands of kilometers apart Uganda insists that it has no confirmed active cases of the deadly virus . «Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…» deserves attention because it may change political, diplomatic or security risks. For «Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 9.06,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -338,11 +283,11 @@
       "impact": "For «'I cannot teach you integrity': How employee theft is hurting small businesses in Africa», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "BBC Africa",
       "published": "2026-10-25T08:36:47+00:00",
-      "age_hours": 24.0,
+      "age_hours": 31.3,
       "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -352,7 +297,36 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "Kenyan food creator That Girl Boina shut her waxing studio due to employee theft When popular Kenyan food creator That Girl Boina took a two-week holiday to Europe, she expected to relax. A week into the trip, an Instagram direct message exposed a problem that would ultimately lead to the closure of her business \"I was at your studio, I liked everything. The only problem was that I was asked to send money to a different number. It wasn't the number on the wall,\" a customer wrote to her Boina had opened Waxaholic Studio, a waxing and hydrafacial parlour in Nairobi's central business district, on 1 September 2024. A year later, she had hired a receptionist and two specialists and felt confident enough to take a two-week holiday, her first international trip of the year \"I trusted them. It's two rooms and a reception - how do you mess that up?\" she recalls thinking \"It never occurred to me that maybe I was getting clients and someone else was stealing from me,\" she tells the BBC The discovery prompted Boina to examine the business more closely. «'I cannot teach you integrity': How employee theft is hurting small businesses in Africa» helps explain a concrete economic or business change relevant to África. For «'I cannot teach you integrity': How employee theft is hurting small businesses in Africa», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 8.0,
+      "editorial_score": 9.27,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+      "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection The first confirmed Ebola patients in Kenya and Nigeria may have crossed paths at Uganda's Entebbe International Airport, according to African health officials, as new information from Switzerland contradicts Uganda's account of the Nigerian patient's travel history Uganda , a country reporting no active Ebola infections, has become a focus of investigations into cases thousands of kilometers apart Uganda insists that it has no confirmed active cases of the deadly virus .",
+      "why": "«Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "DW English",
+      "published": "2026-10-25T13:41:00+00:00",
+      "age_hours": 26.2,
+      "within_24h": false,
+      "link": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "update",
+      "opportunity_flag": true,
+      "detailed_summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection The first confirmed Ebola patients in Kenya and Nigeria may have crossed paths at Uganda's Entebbe International Airport, according to African health officials, as new information from Switzerland contradicts Uganda's account of the Nigerian patient's travel history Uganda , a country reporting no active Ebola infections, has become a focus of investigations into cases thousands of kilometers apart Uganda insists that it has no confirmed active cases of the deadly virus . «Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…» deserves attention because it may change political, diplomatic or security risks. For «Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh…», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 8.43,
       "source_tier": "A",
       "editorial_status": "ACTUALIZAÇÃO"
     }
@@ -378,7 +352,7 @@
   "section_counts": {
     "Moçambique": 4,
     "África": 3,
-    "Mundo": 5
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

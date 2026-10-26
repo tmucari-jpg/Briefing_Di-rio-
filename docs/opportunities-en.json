@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-10-26T08:37:51.521583+00:00",
+  "updated_at": "2026-10-26T15:55:32.005280+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Regulação & decretos",
+      "title": "Raxio builds Mozambique’s digital infrastructure ecosystem",
+      "summary": "Emídio Amadebai, country manager for Mozambique of Raxio, talks to The Energy Year about the impact of new data regulations on demand for digital infrastructure, the development of Mozambique’s cloud and connectivity ecosystem and opportunities arising from LNG and AI. Mozambique’s digital ecosystem is becoming more established. New regulations and growing demand from financial institutions,… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Raxio builds Mozambique’s digital infrastructure ecosystem” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Raxio builds Mozambique’s digital infrastructure ecosystem”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-26T14:26:08+00:00",
+      "age_hours": 1.5,
+      "link": "https://clubofmozambique.com/news/raxio-builds-mozambiques-digital-infrastructure-ecosystem/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 8
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",
