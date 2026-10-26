@@ -1,24 +1,55 @@
 {
-  "updated_at": "2026-10-25T21:30:57.956188+00:00",
+  "updated_at": "2026-10-26T08:37:05.270298+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
+      "section": "África",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Mediador da CEDEAO avalia na Guiné-Bissau adiamento das eleições",
+      "summary": "O chefe de diplomacia senegalesa, mediador da Comunidade Económica dos Estados da África Ocidental (CEDEAO) para a Guiné-Bissau, iniciou este domingo uma visita à capital guineense para analisar uma nova data para as eleições gerais O ministro da Integração Africana, dos Negócios Estrangeiros e dos Senegaleses no Estrangeiro, Cheikh Niang, foi recebido no Aeroporto Internacional Osvaldo Vieira, em Bissau, pelo ministro guineense da Justiça e dos Direitos Humanos, João Bernardo Vieira Durante a visita de trabalho de dois dias, está previsto que Niang se reúna com os principais responsáveis políticos e militares do país, incluindo o presidente de transição, general Horta N`ta, o primeiro-ministro, Ilídio Vieira Té, e o chefe do Estado-Maior-General das Forças Armadas, Tomás Djassi O governante senegalês deverá também encontrar-se com representantes dos partidos políticos, da sociedade civil e do corpo diplomático O Senegal exerce atualmente a presidência rotativa do bloco regional A visita ocorre depois de Vieira Té ter admitido no passado dia 08, após uma reunião com o presidente de…",
+      "why": "«Mediador da CEDEAO avalia na Guiné-Bissau adiamento das eleições» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Mediador da CEDEAO avalia na Guiné-Bissau adiamento das eleições», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "RTP Notícias",
+      "published": "2026-10-26T07:49:34+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/mediador-da-cedeao-avalia-na-guine-bissau-adiamento-das-eleicoes_n1774367",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O chefe de diplomacia senegalesa, mediador da Comunidade Económica dos Estados da África Ocidental (CEDEAO) para a Guiné-Bissau, iniciou este domingo uma visita à capital guineense para analisar uma nova data para as eleições gerais O ministro da Integração Africana, dos Negócios Estrangeiros e dos Senegaleses no Estrangeiro, Cheikh Niang, foi recebido no Aeroporto Internacional Osvaldo Vieira, em Bissau, pelo ministro guineense da Justiça e dos Direitos Humanos, João Bernardo Vieira Durante a visita de trabalho de dois dias, está previsto que Niang se reúna com os principais responsáveis políticos e militares do país, incluindo o presidente de transição, general Horta N`ta, o primeiro-ministro, Ilídio Vieira Té, e o chefe do Estado-Maior-General das Forças Armadas, Tomás Djassi O governante senegalês deverá também encontrar-se com representantes dos partidos políticos, da sociedade civil e do corpo diplomático O Senegal exerce atualmente a presidência rotativa do bloco regional A visita ocorre depois de Vieira Té ter admitido no passado dia 08, após uma reunião com o presidente de… «Mediador da CEDEAO avalia na Guiné-Bissau adiamento das eleições» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mediador da CEDEAO avalia na Guiné-Bissau adiamento das eleições», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 13.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia",
+        "Segurança"
       ],
-      "title": "UnISCED: Menezes desafia graduados a criar soluções de empregabilidade",
-      "summary": "O secretário de Estado da Ciência e Ensino Superior, Isaú Menezes, desafiou aos graduados da Universidade Aberta-ISCED (UnISCED) a transformar o conhecimento adquirido em soluções, emprego e riqueza para o país. Menezes falava, sábado (24), em representação do ministro da Educação e Cultura, Edson Macuácua, na cerimónia de graduação de 933 quadros superiores pela Universidade Aberta ISCED (UnISCED). “Não esperem nada do mundo. O mundo está à espera das vossas soluções, inovação e transformação”, afirmou o governante, na VIII Cerimónia de Graduação, realizada simultaneamente em Maputo (218 graduados), Quelimane (360) e Lichinga (355). Isaú Menezes defendeu ainda a adopção do modelo de universidade-empresa, visando reforçar a autonomia financeira das instituições e promover a independência económica de Moçambique. Na ocasião, o Reitor da UnISCED, Martins dos Santos, anunciou a previsão de introdução de mais 11 programas de mestrado e doutoramento em 2027, que se juntarão aos 35 cursos actualmente em funcionamento na instituição de ensino superior.",
-      "why": "«UnISCED: Menezes desafia graduados a criar soluções de empregabilidade» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «UnISCED: Menezes desafia graduados a criar soluções de empregabilidade», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "PR reúne-se hoje com comunidade moçambicana na Rússia",
+      "summary": "PAULO DA CONCEIÇÃO, em Muscovo O PRESIDENTE da República, Daniel Chapo, que se encontra a efectuar uma visita de Trabalho à Federação Russa, reúne-se esta tarde, em Moscovo, com a comunidade moçambicana residente no país. Trata-se de uma comunidade que é constituída na sua esmagadora maioria por cerca de quinhentos estudantes que frequentam actualmente o ensino superior em diversas instituições russas. O encontro, de carácter social, enquadra-se no âmbito da participação do Chefe do Estado na Terceira Cimeira Rússia-África que terá lugar nos dias 28 e 29, aqui em Moscovo, bem como na 8ª Cimeira de Chefes de Estado e de Governo do Fórum dos Países exportadores de Gás, que irá decorrer amanhã. Neste momento, o Chefe do Estado encontra-se a realizar encontros bilaterais, prevendo-se que se encontre, durante a visita, com Dmitri Medvedev, antigo Presidente e antigo Primeiro-Ministro russo, que desempenha actualmente as funções de vice-presidente do Conselho de Segurança da Federação Russa.",
+      "why": "«PR reúne-se hoje com comunidade moçambicana na Rússia» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «PR reúne-se hoje com comunidade moçambicana na Rússia», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-25T14:13:57+00:00",
-      "age_hours": 7.3,
+      "published": "2026-10-26T08:29:33+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/sem-categoria/unisced-menezes-desafia-graduados-a-criar-solucoes-de-empregabilidade/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/pr-reune-se-hoje-com-comunidade-mocambicana-na-russia/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -28,92 +59,55 @@
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O secretário de Estado da Ciência e Ensino Superior, Isaú Menezes, desafiou aos graduados da Universidade Aberta-ISCED (UnISCED) a transformar o conhecimento adquirido em soluções, emprego e riqueza para o país. Menezes falava, sábado (24), em representação do ministro da Educação e Cultura, Edson Macuácua, na cerimónia de graduação de 933 quadros superiores pela Universidade Aberta ISCED (UnISCED). “Não esperem nada do mundo. O mundo está à espera das vossas soluções, inovação e transformação”, afirmou o governante, na VIII Cerimónia de Graduação, realizada simultaneamente em Maputo (218 graduados), Quelimane (360) e Lichinga (355). Isaú Menezes defendeu ainda a adopção do modelo de universidade-empresa, visando reforçar a autonomia financeira das instituições e promover a independência económica de Moçambique. Na ocasião, o Reitor da UnISCED, Martins dos Santos, anunciou a previsão de introdução de mais 11 programas de mestrado e doutoramento em 2027, que se juntarão aos 35 cursos actualmente em funcionamento na instituição de ensino superior. «UnISCED: Menezes desafia graduados a criar soluções de empregabilidade» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «UnISCED: Menezes desafia graduados a criar soluções de empregabilidade», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.48,
+      "opportunity_flag": false,
+      "detailed_summary": "PAULO DA CONCEIÇÃO, em Muscovo O PRESIDENTE da República, Daniel Chapo, que se encontra a efectuar uma visita de Trabalho à Federação Russa, reúne-se esta tarde, em Moscovo, com a comunidade moçambicana residente no país. Trata-se de uma comunidade que é constituída na sua esmagadora maioria por cerca de quinhentos estudantes que frequentam actualmente o ensino superior em diversas instituições russas. O encontro, de carácter social, enquadra-se no âmbito da participação do Chefe do Estado na Terceira Cimeira Rússia-África que terá lugar nos dias 28 e 29, aqui em Moscovo, bem como na 8ª Cimeira de Chefes de Estado e de Governo do Fórum dos Países exportadores de Gás, que irá decorrer amanhã. Neste momento, o Chefe do Estado encontra-se a realizar encontros bilaterais, prevendo-se que se encontre, durante a visita, com Dmitri Medvedev, antigo Presidente e antigo Primeiro-Ministro russo, que desempenha actualmente as funções de vice-presidente do Conselho de Segurança da Federação Russa. «PR reúne-se hoje com comunidade moçambicana na Rússia» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR reúne-se hoje com comunidade moçambicana na Rússia», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 11.98,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "RTP ouviu analistas políticos sobre as eleições em Israel",
-      "summary": "As eleições estão envoltas em indefinição. Benjamin Netanyahu ou Gadi Eisenkot, um deles será o novo primeiro-ministro. São no entanto os 20 por cento de eleitores árabes que vão ajudar a escolher o rumo do país",
-      "why": "«RTP ouviu analistas políticos sobre as eleições em Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «RTP ouviu analistas políticos sobre as eleições em Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Xi Jinping apresenta plano para reforçar disciplina interna do Partido Comunista Chinês",
+      "summary": "O Presidente chinês, Xi Jinping, apresentou hoje à cúpula do Partido Comunista Chinês (PCC) um projeto de resolução para reforçar a disciplina e a supervisão internas, após novas purgas de altos dirigentes e advertências sobre o incumprimento de ordens Xi, também secretário-geral do partido, apresentou o projeto durante a quinta sessão plenária do XX Comité Central, inaugurada hoje em Pequim, e fez um relatório de trabalho em nome do Politburo, segundo a agência noticiosa oficial Xinhua O documento aborda o reforço de uma \"governação integral e rigorosa\" do partido, expressão utilizada pela liderança chinesa para designar as medidas de disciplina, supervisão e combate à corrupção, um problema que se tem revelado endémico em todos os níveis da organização A reunião, que decorrerá à porta fechada até quinta-feira, vai analisar o projeto de resolução, cujo conteúdo detalhado ainda não foi divulgado Em julho, o Politburo exigiu \"padrões mais elevados\" e \"medidas mais concretas\" para resolver os problemas internos do partido, reconhecendo que \"profundas mudanças dentro e fora da China\"…",
+      "why": "«Xi Jinping apresenta plano para reforçar disciplina interna do Partido Comunista Chinês» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Xi Jinping apresenta plano para reforçar disciplina interna do Partido Comunista Chinês», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-25T21:13:47+00:00",
-      "age_hours": 0.3,
+      "published": "2026-10-26T06:48:15+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/rtp-ouviu-analistas-politicos-sobre-as-eleicoes-em-israel_v1774285",
+      "link": "https://www.rtp.pt/noticias/mundo/xi-jinping-apresenta-plano-para-reforcar-disciplina-interna-do-partido-comunista-chines_n1774356",
       "original_source": true,
       "event_id": "evt-mundo-003",
-      "cluster_size": 2,
-      "source_count": 2,
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "RTP Notícias",
-        "Euronews Português"
+        "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Euronews Português",
-          "title": "Israel fecha passagens na Cisjordânia em dia de eleições após tiroteio em Hebron",
-          "link": "https://pt.euronews.com/2026/10/25/israel-fecha-passagens-na-cisjordania-em-dia-de-eleicoes-apos-tiroteio-em-hebron"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "As eleições estão envoltas em indefinição. Benjamin Netanyahu ou Gadi Eisenkot, um deles será o novo primeiro-ministro. São no entanto os 20 por cento de eleitores árabes que vão ajudar a escolher o rumo do país. «RTP ouviu analistas políticos sobre as eleições em Israel» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «RTP ouviu analistas políticos sobre as eleições em Israel», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 12.44,
+      "detailed_summary": "O Presidente chinês, Xi Jinping, apresentou hoje à cúpula do Partido Comunista Chinês (PCC) um projeto de resolução para reforçar a disciplina e a supervisão internas, após novas purgas de altos dirigentes e advertências sobre o incumprimento de ordens Xi, também secretário-geral do partido, apresentou o projeto durante a quinta sessão plenária do XX Comité Central, inaugurada hoje em Pequim, e fez um relatório de trabalho em nome do Politburo, segundo a agência noticiosa oficial Xinhua O documento aborda o reforço de uma \"governação integral e rigorosa\" do partido, expressão utilizada pela liderança chinesa para designar as medidas de disciplina, supervisão e combate à corrupção, um problema que se tem revelado endémico em todos os níveis da organização A reunião, que decorrerá à porta fechada até quinta-feira, vai analisar o projeto de resolução, cujo conteúdo detalhado ainda não foi divulgado Em julho, o Politburo exigiu \"padrões mais elevados\" e \"medidas mais concretas\" para resolver os problemas internos do partido, reconhecendo que \"profundas mudanças dentro e fora da China\"… «Xi Jinping apresenta plano para reforçar disciplina interna do Partido Comunista Chinês» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Xi Jinping apresenta plano para reforçar disciplina interna do Partido Comunista Chinês», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 11.62,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "FUNAE prevê reabrir postos de combustíveis de Palma até Dezembro",
-      "summary": "O Fundo de Energia (FUNAE) prevê concluir, até Dezembro deste ano, a reabilitação do posto de abastecimento de combustíveis de Palma, em Cabo Delgado, vandalizado durante os ataques terroristas de 2021. A intervenção visa reforçar a capacidade de abastecimento no distrito, onde os dois postos actualmente em funcionamento enfrentam dificuldades para responder à procura. A informação foi avançada pelo presidente do Conselho de Administração do FUNAE, Mety Gondola, durante uma visita de monitorização realizada, sábado (24), aos postos de abastecimento de combustíveis dos distritos de Palma, Mecúfi e Metuge, para avaliar os danos e as necessidades de reabilitação. Em Palma, os trabalhos previstos incluem a substituição de equipamentos, recuperação dos tanques e avaliação dos sistemas de abastecimento de água e de energia, de modo a garantir condições adequadas para a retoma das operações. Segundo Gondola, a reabertura do posto permitirá responder melhor às necessidades de abastecimento de viaturas e embarcações, acompanhando a retoma gradual da actividade económica.",
-      "why": "«FUNAE prevê reabrir postos de combustíveis de Palma até Dezembro» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «FUNAE prevê reabrir postos de combustíveis de Palma até Dezembro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-25T13:49:14+00:00",
-      "age_hours": 7.7,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/sem-categoria/funae-preve-reabrir-postos-de-combustiveis-de-palma-ate-dezembro/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Fundo de Energia (FUNAE) prevê concluir, até Dezembro deste ano, a reabilitação do posto de abastecimento de combustíveis de Palma, em Cabo Delgado, vandalizado durante os ataques terroristas de 2021. A intervenção visa reforçar a capacidade de abastecimento no distrito, onde os dois postos actualmente em funcionamento enfrentam dificuldades para responder à procura. A informação foi avançada pelo presidente do Conselho de Administração do FUNAE, Mety Gondola, durante uma visita de monitorização realizada, sábado (24), aos postos de abastecimento de combustíveis dos distritos de Palma, Mecúfi e Metuge, para avaliar os danos e as necessidades de reabilitação. Em Palma, os trabalhos previstos incluem a substituição de equipamentos, recuperação dos tanques e avaliação dos sistemas de abastecimento de água e de energia, de modo a garantir condições adequadas para a retoma das operações. Segundo Gondola, a reabertura do posto permitirá responder melhor às necessidades de abastecimento de viaturas e embarcações, acompanhando a retoma gradual da actividade económica. «FUNAE prevê reabrir postos de combustíveis de Palma até Dezembro» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «FUNAE prevê reabrir postos de combustíveis de Palma até Dezembro», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.4,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Intercalares americanas vistas como possibilidade de mudança",
-      "summary": "Nos Estados Unidos sente-se o impacto do aumento dos preços em quase tudo. As eleições interlacalares são a 3 de novembro. Muitos esperam por uma mudança, como alguns portugueses explicaram à correspondente Cândida Pinto",
-      "why": "«Intercalares americanas vistas como possibilidade de mudança» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Intercalares americanas vistas como possibilidade de mudança», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "União Europeia felicita Lula da Silva e destaca vitória da democracia",
+      "summary": "A presidente da Comissão Europeia, Ursula von der Leyen, felicitou hoje Lula da Silva pela reeleição na segunda volta das presidenciais considerando que a democracia e o multilateralismo venceram no Brasil \"A parceria entre a Europa e o Brasil está a correr muito bem\", afirmou Von der Leyen através de uma mensagem difundida nas redes sociais \"Juntos, vamos continuar a trabalhar em estreita colaboração em prol de um comércio livre e aberto, de uma ordem mundial baseada em regras e de ambições robustas\", acrescentou a presidente da Comissão Europeia De acordo com os dados divulgados pelo Tribunal Superior Eleitoral do Brasil, com 99,99% dos votos apurados, o Presidente Luiz Inácio Lula da Silva obteve 52% dos votos, contra 48% obtidos por Flavio Bolsonaro, candidato de extrema-direita, que anunciou a intenção de anular a votação Nestas eleições, 128,2 milhões de brasileiros foram às urnas, enquanto 30,5 milhões não votaram nas eleições",
+      "why": "«União Europeia felicita Lula da Silva e destaca vitória da democracia» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «União Europeia felicita Lula da Silva e destaca vitória da democracia», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "RTP Notícias",
-      "published": "2026-10-25T21:19:47+00:00",
-      "age_hours": 0.2,
+      "published": "2026-10-26T07:52:52+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/intercalares-americanas-vistas-como-possibilidade-de-mudanca_v1774289",
+      "link": "https://www.rtp.pt/noticias/mundo/uniao-europeia-felicita-lula-da-silva-e-destaca-vitoria-da-democracia_n1774368",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -123,144 +117,65 @@
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Nos Estados Unidos sente-se o impacto do aumento dos preços em quase tudo. As eleições interlacalares são a 3 de novembro. Muitos esperam por uma mudança, como alguns portugueses explicaram à correspondente Cândida Pinto. «Intercalares americanas vistas como possibilidade de mudança» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Intercalares americanas vistas como possibilidade de mudança», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.96,
+      "opportunity_flag": true,
+      "detailed_summary": "A presidente da Comissão Europeia, Ursula von der Leyen, felicitou hoje Lula da Silva pela reeleição na segunda volta das presidenciais considerando que a democracia e o multilateralismo venceram no Brasil \"A parceria entre a Europa e o Brasil está a correr muito bem\", afirmou Von der Leyen através de uma mensagem difundida nas redes sociais \"Juntos, vamos continuar a trabalhar em estreita colaboração em prol de um comércio livre e aberto, de uma ordem mundial baseada em regras e de ambições robustas\", acrescentou a presidente da Comissão Europeia De acordo com os dados divulgados pelo Tribunal Superior Eleitoral do Brasil, com 99,99% dos votos apurados, o Presidente Luiz Inácio Lula da Silva obteve 52% dos votos, contra 48% obtidos por Flavio Bolsonaro, candidato de extrema-direita, que anunciou a intenção de anular a votação Nestas eleições, 128,2 milhões de brasileiros foram às urnas, enquanto 30,5 milhões não votaram nas eleições. «União Europeia felicita Lula da Silva e destaca vitória da democracia» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «União Europeia felicita Lula da Silva e destaca vitória da democracia», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 10.85,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares",
-      "summary": "A empresa chinesa de engenharia e construção China Civil Engineering Construction Corporation (CCECC), foi seleccionada para construir a barragem de água do projecto conjunto entre Moçambique e Essuatíni, num contrato […]",
-      "why": "«Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-25T09:30:00+00:00",
-      "age_hours": 12.0,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/25/negocios/infra-estruturas/mocambique-essuatini-empresa-chinesa-ganha-contrato-para-barragem-de-40-milhoes-de-dolares/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A empresa chinesa de engenharia e construção China Civil Engineering Construction Corporation (CCECC), foi seleccionada para construir a barragem de água do projecto conjunto entre Moçambique e Essuatíni, num contrato […]. «Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique-Essuatíni: Empresa Chinesa Ganha Contrato Para Barragem de 40 Milhões de Dólares», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.5,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM",
-      "summary": "Por: Paulino Checo, da AIM Bahir Dar, Etiópia, 24 de Outubro (AIM) – O Presidente da República, Daniel Chapo, pretende capitalizar a experiência da Ethiopian Airlines na reestruturação das Linhas Aéreas de Moçambique (LAM), no quadro do reforço da cooperação entre Moçambique e a Etiópia, tendo anunciado o início da ligação aérea entre Adis Abeba e Nacala, previsto para 27 de Outubro. “Queremos continuar a trabalhar com a experiência da Ethiopian Airlines, de forma que possamos continuar a reestruturar a nossa linha aérea de Moçambique, a LAM”, afirmou Chapo. O anúncio, está dentro do pacote dos resultados dos encontros bilaterais que o Chefe do Estado manteve com o Primeiro-Ministro da Etiópia, Abiy Ahmed, e o Presidente do Gana, John Dramani Mahama, à margem do 12.º Fórum de Tana, realizado na cidade etíope de Bahir Dar. O Chefe do Estado considera que a cooperação com a Etiópia poderá contribuir para o desenvolvimento da companhia aérea nacional, tendo em vista o reforço da sua capacidade operacional e a melhoria da sua posição no mercado regional.",
-      "why": "«PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-25T04:52:23+00:00",
-      "age_hours": 16.6,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/25/pr-quer-captalizar-experiencia-da-ethiopian-airlines-na-reestruturacao-da-lam/",
-      "original_source": true,
-      "event_id": "evt-mocambique-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Por: Paulino Checo, da AIM Bahir Dar, Etiópia, 24 de Outubro (AIM) – O Presidente da República, Daniel Chapo, pretende capitalizar a experiência da Ethiopian Airlines na reestruturação das Linhas Aéreas de Moçambique (LAM), no quadro do reforço da cooperação entre Moçambique e a Etiópia, tendo anunciado o início da ligação aérea entre Adis Abeba e Nacala, previsto para 27 de Outubro. “Queremos continuar a trabalhar com a experiência da Ethiopian Airlines, de forma que possamos continuar a reestruturar a nossa linha aérea de Moçambique, a LAM”, afirmou Chapo. O anúncio, está dentro do pacote dos resultados dos encontros bilaterais que o Chefe do Estado manteve com o Primeiro-Ministro da Etiópia, Abiy Ahmed, e o Presidente do Gana, John Dramani Mahama, à margem do 12.º Fórum de Tana, realizado na cidade etíope de Bahir Dar. O Chefe do Estado considera que a cooperação com a Etiópia poderá contribuir para o desenvolvimento da companhia aérea nacional, tendo em vista o reforço da sua capacidade operacional e a melhoria da sua posição no mercado regional. «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PR quer captalizar experiência da Ethiopian Airlines na reestruturação da LAM», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.54,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Brasil: filas longas e viagens pelos rios marcam voto decisivo",
-      "summary": "Eleitores brasileiros foram às urnas este domingo para escolher entre Lula e Flávio Bolsonaro, desde viagens de canoa na Amazónia a filas no Rio e a um boneco de Lula em Brasília",
-      "why": "«Brasil: filas longas e viagens pelos rios marcam voto decisivo» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Brasil: filas longas e viagens pelos rios marcam voto decisivo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Lisboa e Porto previram vitória de Lula: presidente reeleito liderou votação nas duas cidades portuguesas",
+      "summary": "Enquanto o Brasil ainda contava os votos, em Portugal, já Lula ganhava margem. O presidente reeleito venceu nas áreas consulares de Lisboa e Porto durante a segunda volta das eleiçoes presidenciais brasileiras.Em Lisboa, onde estava concentrado o maior número de votantes, o candidato do PT obteve uma percentagem de 60,10%, reunindo 19.420 votos válidos. Flávio Bolsonaro contabilizou 12.894 votos correspondentes a 39,90%.Segundo os dados disponibilizados no site do Tribunal Superior Eleitoral (TSE), Lula também venceu no Porto, contabilizando um total de 13.435 votos, o equivalente a 60,13% dos votos válidos, contra os 8.910 de Flávio Bolsonaro que garantiu a vitória em Faro.O senador brasileiro venceu no sul do país.",
+      "why": "«Lisboa e Porto previram vitória de Lula: presidente reeleito liderou votação nas duas cidades portuguesas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Lisboa e Porto previram vitória de Lula: presidente reeleito liderou votação nas duas cidades portuguesas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-25T21:19:33+00:00",
-      "age_hours": 0.2,
+      "published": "2026-10-26T07:51:34+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/25/brasil-filas-longas-e-viagens-pelos-rios-marcam-voto-decisivo",
+      "link": "https://pt.euronews.com/2026/10/26/lisboa-e-porto-previram-vitoria-de-lula-presidente-reeleito-liderou-votacao-nas-duas-cidad",
       "original_source": true,
       "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
+      "cluster_size": 2,
+      "source_count": 2,
       "sources": [
-        "Euronews Português"
+        "Euronews Português",
+        "RTP Notícias"
       ],
       "primary_source": "Euronews Português",
       "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Lula reeleito. Presidente louva \"derrota do negacionismo\", Bolsonaro quer anulação das eleições",
+          "link": "https://www.rtp.pt/noticias/mundo/lula-reeleito-presidente-louva-derrota-do-negacionismo-bolsonaro-quer-anulacao-das-eleicoes_e1774136"
+        }
+      ],
       "opportunity_flag": false,
-      "detailed_summary": "Eleitores brasileiros foram às urnas este domingo para escolher entre Lula e Flávio Bolsonaro, desde viagens de canoa na Amazónia a filas no Rio e a um boneco de Lula em Brasília. «Brasil: filas longas e viagens pelos rios marcam voto decisivo» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Brasil: filas longas e viagens pelos rios marcam voto decisivo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 8.96,
+      "detailed_summary": "Enquanto o Brasil ainda contava os votos, em Portugal, já Lula ganhava margem. O presidente reeleito venceu nas áreas consulares de Lisboa e Porto durante a segunda volta das eleiçoes presidenciais brasileiras.Em Lisboa, onde estava concentrado o maior número de votantes, o candidato do PT obteve uma percentagem de 60,10%, reunindo 19.420 votos válidos. Flávio Bolsonaro contabilizou 12.894 votos correspondentes a 39,90%.Segundo os dados disponibilizados no site do Tribunal Superior Eleitoral (TSE), Lula também venceu no Porto, contabilizando um total de 13.435 votos, o equivalente a 60,13% dos votos válidos, contra os 8.910 de Flávio Bolsonaro que garantiu a vitória em Faro.O senador brasileiro venceu no sul do país. «Lisboa e Porto previram vitória de Lula: presidente reeleito liderou votação nas duas cidades portuguesas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Lisboa e Porto previram vitória de Lula: presidente reeleito liderou votação nas duas cidades portuguesas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.33,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU",
-      "summary": "O Presidente da República, Daniel Chapo, defendeu a união e a cooperação entre os países africanos, bem como o reforço do multilateralismo, como instrumentos para alcançar e manter a paz […]",
-      "why": "«Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-25T11:30:00+00:00",
-      "age_hours": 10.0,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/25/desenvolvimento-2/chapo-defende-uniao-africana-e-reforma-do-conselho-de-seguranca-da-onu/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, defendeu a união e a cooperação entre os países africanos, bem como o reforço do multilateralismo, como instrumentos para alcançar e manter a paz […]. «Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Chapo Defende União Africana e Reforma do Conselho de Segurança da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 8.92,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
       "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o previsto",
-      "summary": "As urnas abriram em Portugal às 8 horas da manhã deste domingo para que cerca de 134 mil eleitores inscritos pudessem exercer o seu direito de voto. Portugal é o segundo maior colégio eleitoral do Brasil, atrás dos EUA. A votação decorreu em Lisboa, Porto e Faro entre as 8:00 e as 17:00.Em declarações aos jornalistas durante a tarde, na Cidade Universitária, citadas pela agência Lusa, o cônsul-geral do Brasil em Lisboa, Alessandro Candeas, estimou que a participação da comunidade brasileira nesta segunda volta das eleições presidenciais rondaria os 50% na capital portuguesa.Em território brasileiro, estava previsto que as urnas encerrassem pelas 17:00, horário de Brasília (mais três horas em Portugal continental).",
-      "why": "«Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o…» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Brasil: Lula dá a volta e vence eleições mas Bolsonaro contesta resultados",
+      "summary": "O presidente brasileiro, Luiz Inácio Lula da Silva, garantiu este domingo um regresso ao poder ao conquistar a reeleição com uma vantagem de quase 4,4 milhões de votos sobre o adversário Flávio Bolsonaro, alcançando 51,8% do total da votação.Dirigente de esquerda, de 81 anos, contrariou as previsões e assegurou um inédito quarto mandato, travando a vaga conservadora que tem levado vários países sul-americanos, como a Argentina, o Chile, a Colômbia e o Peru, a inclinarem-se para a direita, com o apoio do presidente norte-americano Donald Trump.Flávio Bolsonaro recusou-se rapidamente a admitir a derrota e pediu a anulação dos resultados eleitorais, após uma noite de caos em algumas secções de voto, na sequência de uma decisão de última hora de prolongar a votação por duas horas.Filho do antigo presidente de extrema-direita Jair Bolsonaro, o senador vê o pai a cumprir uma pena de 27 anos de prisão por tentar um golpe de Estado após a derrota frente a Lula nas últimas eleições, em 2022.Lula pediu o prolongamento da votação depois de denunciar que autocarros tinham sido retirados de…",
+      "why": "«Brasil: Lula dá a volta e vence eleições mas Bolsonaro contesta resultados» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Brasil: Lula dá a volta e vence eleições mas Bolsonaro contesta resultados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-25T10:35:13+00:00",
-      "age_hours": 10.9,
+      "published": "2026-10-26T06:16:41+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/25/mais-de-134-mil-brasileiros-votam-em-portugal-segunda-volta-tensa-para-decidir-entre-lula-",
+      "link": "https://pt.euronews.com/2026/10/26/brasil-lula-da-a-volta-e-vence-eleicoes-mas-bolsonaro-contesta-resultados",
       "original_source": true,
-      "event_id": "evt-mundo-008",
+      "event_id": "evt-mundo-009",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -269,8 +184,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "As urnas abriram em Portugal às 8 horas da manhã deste domingo para que cerca de 134 mil eleitores inscritos pudessem exercer o seu direito de voto. Portugal é o segundo maior colégio eleitoral do Brasil, atrás dos EUA. A votação decorreu em Lisboa, Porto e Faro entre as 8:00 e as 17:00.Em declarações aos jornalistas durante a tarde, na Cidade Universitária, citadas pela agência Lusa, o cônsul-geral do Brasil em Lisboa, Alessandro Candeas, estimou que a participação da comunidade brasileira nesta segunda volta das eleições presidenciais rondaria os 50% na capital portuguesa.Em território brasileiro, estava previsto que as urnas encerrassem pelas 17:00, horário de Brasília (mais três horas em Portugal continental). «Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o…» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Segunda volta tensa para decidir entre Lula e Bolsonaro: urnas no Brasil encerram duas horas após o…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 5.73,
+      "detailed_summary": "O presidente brasileiro, Luiz Inácio Lula da Silva, garantiu este domingo um regresso ao poder ao conquistar a reeleição com uma vantagem de quase 4,4 milhões de votos sobre o adversário Flávio Bolsonaro, alcançando 51,8% do total da votação.Dirigente de esquerda, de 81 anos, contrariou as previsões e assegurou um inédito quarto mandato, travando a vaga conservadora que tem levado vários países sul-americanos, como a Argentina, o Chile, a Colômbia e o Peru, a inclinarem-se para a direita, com o apoio do presidente norte-americano Donald Trump.Flávio Bolsonaro recusou-se rapidamente a admitir a derrota e pediu a anulação dos resultados eleitorais, após uma noite de caos em algumas secções de voto, na sequência de uma decisão de última hora de prolongar a votação por duas horas.Filho do antigo presidente de extrema-direita Jair Bolsonaro, o senador vê o pai a cumprir uma pena de 27 anos de prisão por tentar um golpe de Estado após a derrota frente a Lula nas últimas eleições, em 2022.Lula pediu o prolongamento da votação depois de denunciar que autocarros tinham sido retirados de… «Brasil: Lula dá a volta e vence eleições mas Bolsonaro contesta resultados» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasil: Lula dá a volta e vence eleições mas Bolsonaro contesta resultados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.52,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -294,8 +209,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 5,
-    "África": 0,
+    "Moçambique": 1,
+    "África": 1,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
