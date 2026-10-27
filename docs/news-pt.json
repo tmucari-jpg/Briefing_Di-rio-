@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T15:11:01.782260+00:00",
+  "updated_at": "2026-10-27T21:08:44.176842+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -9,29 +9,66 @@
       "section": "Moçambique",
       "tags": [
         "Energia",
-        "IA"
+        "Segurança"
       ],
-      "title": "EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec",
-      "summary": "A Electricidade de Moçambique (EDM) fez saber que regista uma redução de perdas de facturação, associada à diminuição do furto de energia e à adopção de tecnologias de controlo do […]",
-      "why": "«EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-27T14:41:27+00:00",
-      "age_hours": 0.5,
+      "title": "Moçambique defende cooperação internacional para reforçar segurança energética",
+      "summary": "O Presidente da República, Daniel Chapo, defendeu ontem, em Moscovo, o reforço da cooperação internacional no sector do gás natural, considerando que a segurança energética deve assentar em mercados estáveis, fornecedores fiáveis e relações de confiança entre produtores e consumidores. O Chefe do Estado falava na 8.ª Cimeira de Chefes de Estado e de Governo […]",
+      "why": "«Moçambique defende cooperação internacional para reforçar segurança energética» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Moçambique defende cooperação internacional para reforçar segurança energética», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-10-27T18:02:49+00:00",
+      "age_hours": 3.1,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/27/energia-3/edm-regista-reducao-de-perdas-na-facturacao-com-expansao-do-credelec/",
+      "link": "https://opais.co.mz/mocambique-defende-cooperacao-internacional-para-reforcar-seguranca-energetica/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "O País",
+        "AIM Notícias"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM Notícias",
+          "title": "Chapo anuncia projectos de expansão das exportações do gás moçambicano",
+          "link": "https://aimnews.org/2026/10/27/chapo-anuncia-projectos-de-expansao-das-exportacoes-do-gas-mocambicano/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, defendeu ontem, em Moscovo, o reforço da cooperação internacional no sector do gás natural, considerando que a segurança energética deve assentar em mercados estáveis, fornecedores fiáveis e relações de confiança entre produtores e consumidores. O Chefe do Estado falava na 8.ª Cimeira de Chefes de Estado e de Governo […]. «Moçambique defende cooperação internacional para reforçar segurança energética» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Moçambique defende cooperação internacional para reforçar segurança energética», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 15.85,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Macuácua quer universidades preparadas para nova realidade do emprego",
+      "summary": "Maputo, 27 Out (AIM) – O Ministro da Educação e Cultura, Édson Macuácua, considera que as mudanças no papel do Estado no mercado de trabalho obrigam as universidades a rever os seus modelos de formação, preparando os graduados para uma realidade em que a conclusão do curso já não garante colocação profissional. “O Estado já não faz aquelas colocações após a formação”, disse hoje, em Maputo, durante o diálogo “Dado sem Filtros — Conversas Reais Hoje, Raízes Fortes Amanhã”. Macuácua explicou que, nos primeiros anos após a independência nacional, o Estado assumia um papel determinante na formação e colocação dos quadros, numa altura em que o país precisava de técnicos para assegurar o funcionamento dos diferentes sectores. Segundo o governante, as transformações políticas e económicas registadas posteriormente alteraram esse cenário, passando o Estado a desempenhar sobretudo uma função reguladora, sem a responsabilidade de garantir emprego aos graduados.",
+      "why": "«Macuácua quer universidades preparadas para nova realidade do emprego» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Macuácua quer universidades preparadas para nova realidade do emprego», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "AIM Notícias",
+      "published": "2026-10-27T17:25:15+00:00",
+      "age_hours": 3.7,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/27/macuacua-quer-universidades-preparadas-para-nova-realidade-do-emprego/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Diário Económico"
+        "AIM Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "AIM Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A Electricidade de Moçambique (EDM) fez saber que regista uma redução de perdas de facturação, associada à diminuição do furto de energia e à adopção de tecnologias de controlo do […]. «EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.9,
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 27 Out (AIM) – O Ministro da Educação e Cultura, Édson Macuácua, considera que as mudanças no papel do Estado no mercado de trabalho obrigam as universidades a rever os seus modelos de formação, preparando os graduados para uma realidade em que a conclusão do curso já não garante colocação profissional. “O Estado já não faz aquelas colocações após a formação”, disse hoje, em Maputo, durante o diálogo “Dado sem Filtros — Conversas Reais Hoje, Raízes Fortes Amanhã”. Macuácua explicou que, nos primeiros anos após a independência nacional, o Estado assumia um papel determinante na formação e colocação dos quadros, numa altura em que o país precisava de técnicos para assegurar o funcionamento dos diferentes sectores. Segundo o governante, as transformações políticas e económicas registadas posteriormente alteraram esse cenário, passando o Estado a desempenhar sobretudo uma função reguladora, sem a responsabilidade de garantir emprego aos graduados. «Macuácua quer universidades preparadas para nova realidade do emprego» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Macuácua quer universidades preparadas para nova realidade do emprego», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.23,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -46,11 +83,11 @@
       "impact": "No caso de «Ciência ganha novas ferramentas em Cabo Delgado», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-27T14:47:47+00:00",
-      "age_hours": 0.4,
+      "age_hours": 6.3,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/ciencia-ganha-novas-ferramentas-em-cabo-delgado/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -60,54 +97,53 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Onze instituições de ensino básico, secundário, técnico profissional e formação de professores dos distritos de Pemba e Montepuez, em Cabo Delgado, receberam hoje kits de Ciência, Tecnologia, Engenharia e Matemática (STEM), incluindo computadores, materiais de experimentação científica e equipamentos de robótica e inteligência artificial, uma iniciativa destinada a reforçar a formação de professores e modernizar o processo de ensino e aprendizagem. A entrega enquadra-se no projecto Mouse Kids, da Universidade Rovuma (UniRovuma), coordenado pelo Ministério da Educação e Cultura e pelo Ministério das Comunicações e Transformação Digital, que visa melhorar as competências pedagógicas, científicas e tecnológicas dos formadores e professores nos diferentes subsistemas de ensino. Na ocasião, o reitor da UniRovuma, Mário Brito dos Santos, destacou a importância da educação científica e tecnológica na preparação de jovens qualificados para responder às necessidades do mercado de trabalho e contribuir para o desenvolvimento sustentável de Moçambique. «Ciência ganha novas ferramentas em Cabo Delgado» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Ciência ganha novas ferramentas em Cabo Delgado», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 13.92,
+      "editorial_score": 12.69,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies",
-      "summary": "O Governo reconfirmou uma garantia soberana de 2,2 mil milhões de dólares destinada aos credores do projecto Mozambique LNG, liderado pela francesa TotalEnergies, na Área 1 da bacia do Rovuma, […]",
-      "why": "«Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-27T14:00:00+00:00",
-      "age_hours": 1.2,
+      "title": "Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas",
+      "summary": "Maputo, 27 de Out (AIM) — A Itália e o Malawi estão a reforçar a cooperação técnica no sector da água, com enfoque na modernização das infra-estruturas, na qualidade dos serviços e na garantia de acesso sustentável à água potável. A iniciativa, discutida na Câmara dos Deputados italiana, em Roma, pretende aproximar experiências e soluções para responder aos desafios do abastecimento e do saneamento, num contexto em que a gestão dos recursos hídricos assume crescente importância estratégica. O encontro, subordinado ao tema «A água como recurso estratégico: governação, sustentabilidade e cooperação internacional», realizou-se na segunda-feira, 26 de Outubro, por iniciativa da deputada Patty L’Abbate, do Movimento Cinco Estrelas e membro da Comissão do Ambiente do Parlamento italiano. A reunião juntou representantes institucionais e responsáveis do sector da água dos dois países, com destaque para a distribuição de água potável e a qualidade dos serviços prestados às populações.",
+      "why": "«Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-27T17:16:03+00:00",
+      "age_hours": 3.9,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/27/oilgas/area-1-governo-reconfirma-garantia-soberana-de-22-mm-para-projecto-da-totalenergies/",
+      "link": "https://aimnews.org/2026/10/27/italia-e-malawi-reforcam-cooperacao-na-gestao-da-agua-para-beneficiar-mais-de-500-mil-pessoas/",
       "original_source": true,
       "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Diário Económico"
+        "AIM Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "AIM Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Governo reconfirmou uma garantia soberana de 2,2 mil milhões de dólares destinada aos credores do projecto Mozambique LNG, liderado pela francesa TotalEnergies, na Área 1 da bacia do Rovuma, […]. «Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.75,
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 27 de Out (AIM) — A Itália e o Malawi estão a reforçar a cooperação técnica no sector da água, com enfoque na modernização das infra-estruturas, na qualidade dos serviços e na garantia de acesso sustentável à água potável. A iniciativa, discutida na Câmara dos Deputados italiana, em Roma, pretende aproximar experiências e soluções para responder aos desafios do abastecimento e do saneamento, num contexto em que a gestão dos recursos hídricos assume crescente importância estratégica. O encontro, subordinado ao tema «A água como recurso estratégico: governação, sustentabilidade e cooperação internacional», realizou-se na segunda-feira, 26 de Outubro, por iniciativa da deputada Patty L’Abbate, do Movimento Cinco Estrelas e membro da Comissão do Ambiente do Parlamento italiano. A reunião juntou representantes institucionais e responsáveis do sector da água dos dois países, com destaque para a distribuição de água potável e a qualidade dos serviços prestados às populações. «Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.19,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver",
-      "summary": "O cessar-fogo tem como objetivo permitir a entrada de mantimentos e a remoção de minas das estradas para que os civis possam abandonar Oleshky em segurança. Há três anos que a cidade, na região de Kherson, foi ocupada pela Rússia. Os habitantes estão cercados, sem comida, água, gás e eletricidade. Há três anos",
-      "why": "«Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos",
+      "summary": "Israel foi chamado às urnas para decidir o futuro do governo do país. Milhares de pessoas regressaram ao país para votar e os números da afluência bateram recordes",
+      "why": "«Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-27T12:54:39+00:00",
-      "age_hours": 2.3,
+      "published": "2026-10-27T20:51:47+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/oleshky-dias-de-tregua-para-cidade-obrigada-a-comer-relva-para-sobreviver_n1774653",
+      "link": "https://www.rtp.pt/noticias/mundo/legislativas-em-israel-registam-maior-participacao-eleitoral-dos-ultimos-50-anos_v1774848",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -118,56 +154,27 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O cessar-fogo tem como objetivo permitir a entrada de mantimentos e a remoção de minas das estradas para que os civis possam abandonar Oleshky em segurança. Há três anos que a cidade, na região de Kherson, foi ocupada pela Rússia. Os habitantes estão cercados, sem comida, água, gás e eletricidade. Há três anos. «Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 12.52,
+      "detailed_summary": "Israel foi chamado às urnas para decidir o futuro do governo do país. Milhares de pessoas regressaram ao país para votar e os números da afluência bateram recordes. «Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.94,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Livone defende igualdade de tratamento na fábrica de grafite",
-      "summary": "SÉRGIO CARIMO O Secretário de Estado no Niassa, Silva Livone, exige à direcção da DH-Mining Development Limited um tratamento igual aos seus trabalhadores, independentemente das suas origens étnicas. Sublinhou que todos quanto procuram trabalho naquela empresa contribuem para um objectivo comum que é o processamento de grafite na fábrica de Nipepe. O repto foi lançado na sua visita de trabalho àquela unidade fabril, depois dos funcionários terem-se queixado do tratamento desigual, principalmente no acesso ao seguro de saúde. É que segundo alegaram os trabalhadores, o seguro de saúde tem sido providenciado somente aos trabalhadores de origem chinesa, em detrimento dos moçambicanos. O facto deixou o dirigente agastado. ‘‘Isso não é bom.",
-      "why": "«Livone defende igualdade de tratamento na fábrica de grafite» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Livone defende igualdade de tratamento na fábrica de grafite», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-27T10:10:25+00:00",
-      "age_hours": 5.0,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/livone-defende-igualdade-de-tratamento-na-fabrica-de-grafite/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "SÉRGIO CARIMO O Secretário de Estado no Niassa, Silva Livone, exige à direcção da DH-Mining Development Limited um tratamento igual aos seus trabalhadores, independentemente das suas origens étnicas. Sublinhou que todos quanto procuram trabalho naquela empresa contribuem para um objectivo comum que é o processamento de grafite na fábrica de Nipepe. O repto foi lançado na sua visita de trabalho àquela unidade fabril, depois dos funcionários terem-se queixado do tratamento desigual, principalmente no acesso ao seguro de saúde. É que segundo alegaram os trabalhadores, o seguro de saúde tem sido providenciado somente aos trabalhadores de origem chinesa, em detrimento dos moçambicanos. O facto deixou o dirigente agastado. ‘‘Isso não é bom. «Livone defende igualdade de tratamento na fábrica de grafite» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Livone defende igualdade de tratamento na fábrica de grafite», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 10.96,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "IA"
       ],
-      "title": "Colonos israelitas incendiaram três carros na Cisjordânia",
-      "summary": "Colonos israelitas incendiaram três veículos na aldeia de Umm Safa, a noroeste de Ramallah, às primeiras horas do dia em que se realizam as eleições gerais em Israel O grupo de colonos entrou na localidade depois da meia-noite, incendiaram três veículos e pintaram frases racistas nas paredes de várias casas, disse o chefe do conselho palestiniano local, Marwan al Sabah, à agência de notícias Wafa As forças israelitas reforçaram entretanto a segurança em toda a Cisjordânia durante o período eleitoral em Israel A circulação de cidadãos palestinianos na Cisjordânia e especialmente os acessos a Ramallah foi bloqueada pelas forças de segurança de Israel, além de uma operação militar que decorre em Hebron desde as primeiras horas da manhã Segundo a agência de notícias palestiniana Wafa foram estabelecidos postos de controlo em acessos alternativos, condicionando a circulação dos cidadãos palestinianos As forças israelitas realizaram uma série de operações na região, detendo várias pessoas nas localidades de Qabatiya, Jaba e Maythalun, a sul da cidade de Jenin Israel realiza hoje eleições…",
-      "why": "«Colonos israelitas incendiaram três carros na Cisjordânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Colonos israelitas incendiaram três carros na Cisjordânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Trump anuncia proibição do termo Inteligência Artificial nos EUA",
+      "summary": "O Presidente norte-americano, Donald Trump, anunciou hoje que vai proibir oficialmente a utilização da expressão \"Inteligência Artificial\" nos documentos governamentais, por considerá-la imprecisa, defendendo a sua substituição pelo termo \"Super Inteligência\" Numa publicação na rede social Truth Social, Trump criticou a utilização da expressão inteligência artificial (IA), que classificou como \"um nome muito mau e incorreto\", propondo a adoção da designação Super Inteligência (SI) \"Em breve, vamos proibir oficialmente o termo `IA/Inteligência Artificial` em todos os documentos relevantes e em tudo o resto, devido à sua imprecisão\", escreveu o Presidente, sem especificar quando entrará em vigor a medida Trump questionou também quando é que o jornal The Wall Street Journal deixará de utilizar a expressão IA para adotar a nova designação, que, segundo afirmou, \"praticamente toda a gente já está a utilizar ou utilizará em breve\" O chefe de Estado tinha anunciado em setembro, durante a Assembleia-Geral das Nações Unidas, a intenção de substituir a expressão inteligência artificial nos…",
+      "why": "«Trump anuncia proibição do termo Inteligência Artificial nos EUA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Trump anuncia proibição do termo Inteligência Artificial nos EUA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-27T09:17:14+00:00",
-      "age_hours": 5.9,
+      "published": "2026-10-27T19:22:16+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/colonos-israelitas-incendiaram-tres-carros-na-cisjordania_n1774640",
+      "link": "https://www.rtp.pt/noticias/mundo/trump-anuncia-proibicao-do-termo-inteligencia-artificial-nos-eua_n1774817",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -176,38 +183,9 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Colonos israelitas incendiaram três veículos na aldeia de Umm Safa, a noroeste de Ramallah, às primeiras horas do dia em que se realizam as eleições gerais em Israel O grupo de colonos entrou na localidade depois da meia-noite, incendiaram três veículos e pintaram frases racistas nas paredes de várias casas, disse o chefe do conselho palestiniano local, Marwan al Sabah, à agência de notícias Wafa As forças israelitas reforçaram entretanto a segurança em toda a Cisjordânia durante o período eleitoral em Israel A circulação de cidadãos palestinianos na Cisjordânia e especialmente os acessos a Ramallah foi bloqueada pelas forças de segurança de Israel, além de uma operação militar que decorre em Hebron desde as primeiras horas da manhã Segundo a agência de notícias palestiniana Wafa foram estabelecidos postos de controlo em acessos alternativos, condicionando a circulação dos cidadãos palestinianos As forças israelitas realizaram uma série de operações na região, detendo várias pessoas nas localidades de Qabatiya, Jaba e Maythalun, a sul da cidade de Jenin Israel realiza hoje eleições… «Colonos israelitas incendiaram três carros na Cisjordânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Colonos israelitas incendiaram três carros na Cisjordânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 10.77,
+      "detailed_summary": "O Presidente norte-americano, Donald Trump, anunciou hoje que vai proibir oficialmente a utilização da expressão \"Inteligência Artificial\" nos documentos governamentais, por considerá-la imprecisa, defendendo a sua substituição pelo termo \"Super Inteligência\" Numa publicação na rede social Truth Social, Trump criticou a utilização da expressão inteligência artificial (IA), que classificou como \"um nome muito mau e incorreto\", propondo a adoção da designação Super Inteligência (SI) \"Em breve, vamos proibir oficialmente o termo `IA/Inteligência Artificial` em todos os documentos relevantes e em tudo o resto, devido à sua imprecisão\", escreveu o Presidente, sem especificar quando entrará em vigor a medida Trump questionou também quando é que o jornal The Wall Street Journal deixará de utilizar a expressão IA para adotar a nova designação, que, segundo afirmou, \"praticamente toda a gente já está a utilizar ou utilizará em breve\" O chefe de Estado tinha anunciado em setembro, durante a Assembleia-Geral das Nações Unidas, a intenção de substituir a expressão inteligência artificial nos… «Trump anuncia proibição do termo Inteligência Artificial nos EUA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Trump anuncia proibição do termo Inteligência Artificial nos EUA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 10.62,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mediador da CEDEAO avalia adiamento de eleições na Guiné-Bissau",
-      "summary": "O chefe de diplomacia senegalesa, mediador da CEDEAO para a Guiné-Bissau, iniciou no domingo uma visita à capital guineense para analisar uma nova data para as eleições gerais. O chefe de diplomacia senegalesa, mediador da Comunidade Económica dos Estados da África Ocidental (CEDEAO) para a Guiné-Bissau, iniciou este domingo uma visita à capital guineense para […]",
-      "why": "«Mediador da CEDEAO avalia adiamento de eleições na Guiné-Bissau» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Mediador da CEDEAO avalia adiamento de eleições na Guiné-Bissau», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "O País",
-      "published": "2026-10-27T06:33:27+00:00",
-      "age_hours": 8.6,
-      "within_24h": true,
-      "link": "https://opais.co.mz/mediador-da-cedeao-avalia-adiamento-de-eleicoes-na-guine-bissau/",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O chefe de diplomacia senegalesa, mediador da CEDEAO para a Guiné-Bissau, iniciou no domingo uma visita à capital guineense para analisar uma nova data para as eleições gerais. O chefe de diplomacia senegalesa, mediador da Comunidade Económica dos Estados da África Ocidental (CEDEAO) para a Guiné-Bissau, iniciou este domingo uma visita à capital guineense para […]. «Mediador da CEDEAO avalia adiamento de eleições na Guiné-Bissau» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mediador da CEDEAO avalia adiamento de eleições na Guiné-Bissau», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 9.21,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -215,17 +193,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Estados Unidos afastam eleições na Venezuela: “Não seriam justas”",
-      "summary": "Os Estados Unidos afastam, para já, a realização de eleições na Venezuela, por considerar que o atual sistema institucional não garante escrutínios livres e justos. Washington condiciona qualquer convocatória eleitoral a uma reforma profunda das instituições venezuelanas, no quadro das conversações sobre a transição política e a reconciliação.“Não é possível realizar eleições livres e justas, que sejam aceites por todas as partes num país, enquanto essa infraestrutura se mantiver em vigor”, afirmou na segunda-feira um alto responsável do Departamento de Estado que pediu para não ser identificado, segundo um comunicado divulgado pelo Departamento de Estado.",
-      "why": "«Estados Unidos afastam eleições na Venezuela: “Não seriam justas”» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Estados Unidos afastam eleições na Venezuela: “Não seriam justas”», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz",
+      "summary": "O Qatar apelou terça‑feira ao Irão para que “demonstre boa vontade”, pondo fim às ameaças contra países da região e reabrindo o Estreito de Ormuz, numa altura em que prosseguem os esforços para alcançar um acordo com os Estados Unidos.“Ouvimos declarações positivas da parte iraniana sobre esta questão, mas ainda têm de demonstrar boa vontade”, afirmou Ibrahim bin Sultan Al Hashmi, diretor do Departamento de Media e Comunicação do ministério dos Negócios Estrangeiros, numa conferência de imprensa semanal em Doha.Explicou que a recente visita de uma delegação qatari a Teerão integra os esforços de mediação com o Paquistão e outros parceiros regionais.Questionado sobre se a delegação levava uma nova proposta, Al Hashmi respondeu que continuam a ser trocadas mensagens e ideias com ambas as partes.",
+      "why": "«Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-27T12:20:16+00:00",
-      "age_hours": 2.8,
+      "published": "2026-10-27T17:27:36+00:00",
+      "age_hours": 3.7,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/27/estados-unidos-afastam-eleicoes-na-venezuela-nao-seriam-justas",
+      "link": "https://pt.euronews.com/2026/10/27/qatar-apela-ao-irao-para-por-fim-as-ameacas-e-reabrir-estreito-de-ormuz",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -234,8 +212,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Os Estados Unidos afastam, para já, a realização de eleições na Venezuela, por considerar que o atual sistema institucional não garante escrutínios livres e justos. Washington condiciona qualquer convocatória eleitoral a uma reforma profunda das instituições venezuelanas, no quadro das conversações sobre a transição política e a reconciliação.“Não é possível realizar eleições livres e justas, que sejam aceites por todas as partes num país, enquanto essa infraestrutura se mantiver em vigor”, afirmou na segunda-feira um alto responsável do Departamento de Estado que pediu para não ser identificado, segundo um comunicado divulgado pelo Departamento de Estado. «Estados Unidos afastam eleições na Venezuela: “Não seriam justas”» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Estados Unidos afastam eleições na Venezuela: “Não seriam justas”», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 8.42,
+      "detailed_summary": "O Qatar apelou terça‑feira ao Irão para que “demonstre boa vontade”, pondo fim às ameaças contra países da região e reabrindo o Estreito de Ormuz, numa altura em que prosseguem os esforços para alcançar um acordo com os Estados Unidos.“Ouvimos declarações positivas da parte iraniana sobre esta questão, mas ainda têm de demonstrar boa vontade”, afirmou Ibrahim bin Sultan Al Hashmi, diretor do Departamento de Media e Comunicação do ministério dos Negócios Estrangeiros, numa conferência de imprensa semanal em Doha.Explicou que a recente visita de uma delegação qatari a Teerão integra os esforços de mediação com o Paquistão e outros parceiros regionais.Questionado sobre se a delegação levava uma nova proposta, Al Hashmi respondeu que continuam a ser trocadas mensagens e ideias com ambas as partes. «Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.23,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -244,17 +222,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio",
-      "summary": "María Corina Machado mostra-se disposta a dialogar com Delcy Rodríguez após regressar à Venezuela.A líder da oposição venezuelana e Prémio Nobel da Paz, María Corina Machado, afirmou esta segunda-feira que está disponível para se reunir com a presidente interina do país após o seu inesperado regresso do exílio.Machado aterrou no domingo em Caracas depois de quase um ano no exílio, onde foi recebida por uma multidão de apoiantes, num desafio direto ao governo apoiado pelos Estados Unidos.Milhares de pessoas juntaram-se em estradas, portagens e ruas da capital, empunhando bandeiras venezuelanas e gritando “Liberdade!”, enquanto Machado entrava sorridente em Caracas, acompanhada por uma caravana de carros e motociclos.Com a sua habitual camisola branca e umas calças de ganga, inclinou-se pelo teto de abrir de um veículo para saudar a multidão e apertar a mão aos seus apoiantes.Esta segunda-feira, Machado estendeu também a mão à possibilidade de dialogar com a presidente interina, Delcy Rodríguez, que foi vice-presidente do seu principal adversário político, Nicolás Maduro, antes de ser…",
-      "why": "«María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"",
+      "summary": "A Jordânia afirmou esta terça-feira que ataques aéreos realizados na Síria mataram cerca de 20 militantes do Estado Islâmico, reconhecendo que também houve várias vítimas civis.As forças armadas jordanas lançaram uma vaga de ataques contra o sul do país na noite de segunda-feira, visando o que descreveram como “esconderijos de organizações terroristas”.“Caças da RJAF destruíram vários locais de terroristas, matando e ferindo vários terroristas e destruindo o seu equipamento”, indicou o exército em comunicado, acrescentando que a operação foi conduzida “em retaliação” por um recente ataque contra uma igreja greco-ortodoxa em Karak, que terá causado a morte a nove pessoas.O porta-voz do governo, Mohammad Al-Momani, afirmou que a operação levou à morte de mais de 20 operacionais do Estado Islâmico, bem como à destruição de um “importante” depósito de armas.",
+      "why": "«Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-27T06:38:18+00:00",
-      "age_hours": 8.5,
+      "published": "2026-10-27T16:34:24+00:00",
+      "age_hours": 4.6,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/27/maria-corina-machado-aposta-no-dialogo-com-delcy-rodriguez-apos-regresso-do-exilio",
+      "link": "https://pt.euronews.com/2026/10/27/siria-denuncia-ataques-aereos-da-jordania-e-fala-em-violacao-inaceitavel",
       "original_source": true,
-      "event_id": "evt-mundo-014",
+      "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -263,8 +241,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "María Corina Machado mostra-se disposta a dialogar com Delcy Rodríguez após regressar à Venezuela.A líder da oposição venezuelana e Prémio Nobel da Paz, María Corina Machado, afirmou esta segunda-feira que está disponível para se reunir com a presidente interina do país após o seu inesperado regresso do exílio.Machado aterrou no domingo em Caracas depois de quase um ano no exílio, onde foi recebida por uma multidão de apoiantes, num desafio direto ao governo apoiado pelos Estados Unidos.Milhares de pessoas juntaram-se em estradas, portagens e ruas da capital, empunhando bandeiras venezuelanas e gritando “Liberdade!”, enquanto Machado entrava sorridente em Caracas, acompanhada por uma caravana de carros e motociclos.Com a sua habitual camisola branca e umas calças de ganga, inclinou-se pelo teto de abrir de um veículo para saudar a multidão e apertar a mão aos seus apoiantes.Esta segunda-feira, Machado estendeu também a mão à possibilidade de dialogar com a presidente interina, Delcy Rodríguez, que foi vice-presidente do seu principal adversário político, Nicolás Maduro, antes de ser… «María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 6.23,
+      "detailed_summary": "A Jordânia afirmou esta terça-feira que ataques aéreos realizados na Síria mataram cerca de 20 militantes do Estado Islâmico, reconhecendo que também houve várias vítimas civis.As forças armadas jordanas lançaram uma vaga de ataques contra o sul do país na noite de segunda-feira, visando o que descreveram como “esconderijos de organizações terroristas”.“Caças da RJAF destruíram vários locais de terroristas, matando e ferindo vários terroristas e destruindo o seu equipamento”, indicou o exército em comunicado, acrescentando que a operação foi conduzida “em retaliação” por um recente ataque contra uma igreja greco-ortodoxa em Karak, que terá causado a morte a nove pessoas.O porta-voz do governo, Mohammad Al-Momani, afirmou que a operação levou à morte de mais de 20 operacionais do Estado Islâmico, bem como à destruição de um “importante” depósito de armas. «Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.04,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -289,7 +267,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 4,
-    "África": 1,
+    "África": 0,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
