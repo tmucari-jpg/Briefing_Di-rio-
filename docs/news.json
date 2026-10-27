@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T08:43:26.608340+00:00",
+  "updated_at": "2026-10-27T15:11:01.782260+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,38 +8,177 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Energia",
+        "IA"
       ],
-      "title": "MOÇAMBIQUE E RÚSSIA: Chapo e Medvedev analisam relações económicas",
-      "summary": "O Presidente da República, Daniel Chapo, defendeu, em Moscovo, o aprofundamento das relações económicas e comerciais entre Moçambique e a Federação da Rússia, no âmbito do reforço dos laços históricos de amizade e cooperação entre os dois países. O Chefe do Estado falava, ontem, à imprensa no termo de um encontro de trabalho com o Vice-Presidente do Conselho de Segurança da Federação da Rússia, Dmitri Medvedev, realizado à margem da sua participação na Terceira Cimeira Rússia-África, para a qual foi convidado pelo Presidente russo, Vladimir Putin. Na ocasião, Chapo sublinhou a importância da união entre os dois países e os respectivos povos. “Temos de continuar sempre unidos. Os nossos países, os nossos povos irmãos”, declarou. O Presidente da República referiu que a presença moçambicana em Moscovo visa estreitar os laços de amizade e cooperação entre os dois países, com particular atenção à expansão das relações económicas e comerciais.",
-      "why": "«MOÇAMBIQUE E RÚSSIA: Chapo e Medvedev analisam relações económicas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «MOÇAMBIQUE E RÚSSIA: Chapo e Medvedev analisam relações económicas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-27T08:07:01+00:00",
-      "age_hours": 0.6,
+      "title": "EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec",
+      "summary": "A Electricidade de Moçambique (EDM) fez saber que regista uma redução de perdas de facturação, associada à diminuição do furto de energia e à adopção de tecnologias de controlo do […]",
+      "why": "«EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-27T14:41:27+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/mocambique-e-russia-chapo-e-medvedev-analisam-relacoes-economicas/",
+      "link": "https://www.diarioeconomico.co.mz/2026/10/27/energia-3/edm-regista-reducao-de-perdas-na-facturacao-com-expansao-do-credelec/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A Electricidade de Moçambique (EDM) fez saber que regista uma redução de perdas de facturação, associada à diminuição do furto de energia e à adopção de tecnologias de controlo do […]. «EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «EDM Regista Redução de Perdas na Facturação Com Expansão do Credelec», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.9,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "IA"
+      ],
+      "title": "Ciência ganha novas ferramentas em Cabo Delgado",
+      "summary": "Onze instituições de ensino básico, secundário, técnico profissional e formação de professores dos distritos de Pemba e Montepuez, em Cabo Delgado, receberam hoje kits de Ciência, Tecnologia, Engenharia e Matemática (STEM), incluindo computadores, materiais de experimentação científica e equipamentos de robótica e inteligência artificial, uma iniciativa destinada a reforçar a formação de professores e modernizar o processo de ensino e aprendizagem. A entrega enquadra-se no projecto Mouse Kids, da Universidade Rovuma (UniRovuma), coordenado pelo Ministério da Educação e Cultura e pelo Ministério das Comunicações e Transformação Digital, que visa melhorar as competências pedagógicas, científicas e tecnológicas dos formadores e professores nos diferentes subsistemas de ensino. Na ocasião, o reitor da UniRovuma, Mário Brito dos Santos, destacou a importância da educação científica e tecnológica na preparação de jovens qualificados para responder às necessidades do mercado de trabalho e contribuir para o desenvolvimento sustentável de Moçambique.",
+      "why": "«Ciência ganha novas ferramentas em Cabo Delgado» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Ciência ganha novas ferramentas em Cabo Delgado», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-27T14:47:47+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/ciencia-ganha-novas-ferramentas-em-cabo-delgado/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
-      "cluster_size": 2,
-      "source_count": 2,
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "Jornal Notícias",
-        "AIM Notícias"
+        "Jornal Notícias"
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "Moçambique e Rússia estreitam cooperação e analisam expansão das relações económicas",
-          "link": "https://aimnews.org/2026/10/26/mocambique-e-russia-estreitam-cooperacao-e-analisam-expansao-das-relacoes-economicas/"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, defendeu, em Moscovo, o aprofundamento das relações económicas e comerciais entre Moçambique e a Federação da Rússia, no âmbito do reforço dos laços históricos de amizade e cooperação entre os dois países. O Chefe do Estado falava, ontem, à imprensa no termo de um encontro de trabalho com o Vice-Presidente do Conselho de Segurança da Federação da Rússia, Dmitri Medvedev, realizado à margem da sua participação na Terceira Cimeira Rússia-África, para a qual foi convidado pelo Presidente russo, Vladimir Putin. Na ocasião, Chapo sublinhou a importância da união entre os dois países e os respectivos povos. “Temos de continuar sempre unidos. Os nossos países, os nossos povos irmãos”, declarou. O Presidente da República referiu que a presença moçambicana em Moscovo visa estreitar os laços de amizade e cooperação entre os dois países, com particular atenção à expansão das relações económicas e comerciais. «MOÇAMBIQUE E RÚSSIA: Chapo e Medvedev analisam relações económicas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «MOÇAMBIQUE E RÚSSIA: Chapo e Medvedev analisam relações económicas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 15.38,
+      "opportunity_flag": true,
+      "detailed_summary": "Onze instituições de ensino básico, secundário, técnico profissional e formação de professores dos distritos de Pemba e Montepuez, em Cabo Delgado, receberam hoje kits de Ciência, Tecnologia, Engenharia e Matemática (STEM), incluindo computadores, materiais de experimentação científica e equipamentos de robótica e inteligência artificial, uma iniciativa destinada a reforçar a formação de professores e modernizar o processo de ensino e aprendizagem. A entrega enquadra-se no projecto Mouse Kids, da Universidade Rovuma (UniRovuma), coordenado pelo Ministério da Educação e Cultura e pelo Ministério das Comunicações e Transformação Digital, que visa melhorar as competências pedagógicas, científicas e tecnológicas dos formadores e professores nos diferentes subsistemas de ensino. Na ocasião, o reitor da UniRovuma, Mário Brito dos Santos, destacou a importância da educação científica e tecnológica na preparação de jovens qualificados para responder às necessidades do mercado de trabalho e contribuir para o desenvolvimento sustentável de Moçambique. «Ciência ganha novas ferramentas em Cabo Delgado» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Ciência ganha novas ferramentas em Cabo Delgado», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 13.92,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies",
+      "summary": "O Governo reconfirmou uma garantia soberana de 2,2 mil milhões de dólares destinada aos credores do projecto Mozambique LNG, liderado pela francesa TotalEnergies, na Área 1 da bacia do Rovuma, […]",
+      "why": "«Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-27T14:00:00+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/27/oilgas/area-1-governo-reconfirma-garantia-soberana-de-22-mm-para-projecto-da-totalenergies/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Governo reconfirmou uma garantia soberana de 2,2 mil milhões de dólares destinada aos credores do projecto Mozambique LNG, liderado pela francesa TotalEnergies, na Área 1 da bacia do Rovuma, […]. «Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Área 1: Governo Reconfirma Garantia Soberana de 2,2 MM$ Para Projecto da TotalEnergies», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.75,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver",
+      "summary": "O cessar-fogo tem como objetivo permitir a entrada de mantimentos e a remoção de minas das estradas para que os civis possam abandonar Oleshky em segurança. Há três anos que a cidade, na região de Kherson, foi ocupada pela Rússia. Os habitantes estão cercados, sem comida, água, gás e eletricidade. Há três anos",
+      "why": "«Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-27T12:54:39+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/oleshky-dias-de-tregua-para-cidade-obrigada-a-comer-relva-para-sobreviver_n1774653",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O cessar-fogo tem como objetivo permitir a entrada de mantimentos e a remoção de minas das estradas para que os civis possam abandonar Oleshky em segurança. Há três anos que a cidade, na região de Kherson, foi ocupada pela Rússia. Os habitantes estão cercados, sem comida, água, gás e eletricidade. Há três anos. «Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Oleshky. Dias de trégua para cidade obrigada a comer relva para sobreviver», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 12.52,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Livone defende igualdade de tratamento na fábrica de grafite",
+      "summary": "SÉRGIO CARIMO O Secretário de Estado no Niassa, Silva Livone, exige à direcção da DH-Mining Development Limited um tratamento igual aos seus trabalhadores, independentemente das suas origens étnicas. Sublinhou que todos quanto procuram trabalho naquela empresa contribuem para um objectivo comum que é o processamento de grafite na fábrica de Nipepe. O repto foi lançado na sua visita de trabalho àquela unidade fabril, depois dos funcionários terem-se queixado do tratamento desigual, principalmente no acesso ao seguro de saúde. É que segundo alegaram os trabalhadores, o seguro de saúde tem sido providenciado somente aos trabalhadores de origem chinesa, em detrimento dos moçambicanos. O facto deixou o dirigente agastado. ‘‘Isso não é bom.",
+      "why": "«Livone defende igualdade de tratamento na fábrica de grafite» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Livone defende igualdade de tratamento na fábrica de grafite», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-27T10:10:25+00:00",
+      "age_hours": 5.0,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/livone-defende-igualdade-de-tratamento-na-fabrica-de-grafite/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "SÉRGIO CARIMO O Secretário de Estado no Niassa, Silva Livone, exige à direcção da DH-Mining Development Limited um tratamento igual aos seus trabalhadores, independentemente das suas origens étnicas. Sublinhou que todos quanto procuram trabalho naquela empresa contribuem para um objectivo comum que é o processamento de grafite na fábrica de Nipepe. O repto foi lançado na sua visita de trabalho àquela unidade fabril, depois dos funcionários terem-se queixado do tratamento desigual, principalmente no acesso ao seguro de saúde. É que segundo alegaram os trabalhadores, o seguro de saúde tem sido providenciado somente aos trabalhadores de origem chinesa, em detrimento dos moçambicanos. O facto deixou o dirigente agastado. ‘‘Isso não é bom. «Livone defende igualdade de tratamento na fábrica de grafite» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Livone defende igualdade de tratamento na fábrica de grafite», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 10.96,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Colonos israelitas incendiaram três carros na Cisjordânia",
+      "summary": "Colonos israelitas incendiaram três veículos na aldeia de Umm Safa, a noroeste de Ramallah, às primeiras horas do dia em que se realizam as eleições gerais em Israel O grupo de colonos entrou na localidade depois da meia-noite, incendiaram três veículos e pintaram frases racistas nas paredes de várias casas, disse o chefe do conselho palestiniano local, Marwan al Sabah, à agência de notícias Wafa As forças israelitas reforçaram entretanto a segurança em toda a Cisjordânia durante o período eleitoral em Israel A circulação de cidadãos palestinianos na Cisjordânia e especialmente os acessos a Ramallah foi bloqueada pelas forças de segurança de Israel, além de uma operação militar que decorre em Hebron desde as primeiras horas da manhã Segundo a agência de notícias palestiniana Wafa foram estabelecidos postos de controlo em acessos alternativos, condicionando a circulação dos cidadãos palestinianos As forças israelitas realizaram uma série de operações na região, detendo várias pessoas nas localidades de Qabatiya, Jaba e Maythalun, a sul da cidade de Jenin Israel realiza hoje eleições…",
+      "why": "«Colonos israelitas incendiaram três carros na Cisjordânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Colonos israelitas incendiaram três carros na Cisjordânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-27T09:17:14+00:00",
+      "age_hours": 5.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/colonos-israelitas-incendiaram-tres-carros-na-cisjordania_n1774640",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Colonos israelitas incendiaram três veículos na aldeia de Umm Safa, a noroeste de Ramallah, às primeiras horas do dia em que se realizam as eleições gerais em Israel O grupo de colonos entrou na localidade depois da meia-noite, incendiaram três veículos e pintaram frases racistas nas paredes de várias casas, disse o chefe do conselho palestiniano local, Marwan al Sabah, à agência de notícias Wafa As forças israelitas reforçaram entretanto a segurança em toda a Cisjordânia durante o período eleitoral em Israel A circulação de cidadãos palestinianos na Cisjordânia e especialmente os acessos a Ramallah foi bloqueada pelas forças de segurança de Israel, além de uma operação militar que decorre em Hebron desde as primeiras horas da manhã Segundo a agência de notícias palestiniana Wafa foram estabelecidos postos de controlo em acessos alternativos, condicionando a circulação dos cidadãos palestinianos As forças israelitas realizaram uma série de operações na região, detendo várias pessoas nas localidades de Qabatiya, Jaba e Maythalun, a sul da cidade de Jenin Israel realiza hoje eleições… «Colonos israelitas incendiaram três carros na Cisjordânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Colonos israelitas incendiaram três carros na Cisjordânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.77,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -53,88 +192,21 @@
       "impact": "No caso de «Mediador da CEDEAO avalia adiamento de eleições na Guiné-Bissau», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "O País",
       "published": "2026-10-27T06:33:27+00:00",
-      "age_hours": 2.2,
+      "age_hours": 8.6,
       "within_24h": true,
       "link": "https://opais.co.mz/mediador-da-cedeao-avalia-adiamento-de-eleicoes-na-guine-bissau/",
       "original_source": true,
       "event_id": "evt-áfrica-001",
-      "cluster_size": 2,
-      "source_count": 2,
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "O País",
-        "RTP Notícias"
+        "O País"
       ],
       "primary_source": "O País",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Mediador da CEDEAO avalia na Guiné-Bissau adiamento das eleições",
-          "link": "https://www.rtp.pt/noticias/mundo/mediador-da-cedeao-avalia-na-guine-bissau-adiamento-das-eleicoes_n1774367"
-        }
-      ],
       "opportunity_flag": false,
       "detailed_summary": "O chefe de diplomacia senegalesa, mediador da CEDEAO para a Guiné-Bissau, iniciou no domingo uma visita à capital guineense para analisar uma nova data para as eleições gerais. O chefe de diplomacia senegalesa, mediador da Comunidade Económica dos Estados da África Ocidental (CEDEAO) para a Guiné-Bissau, iniciou este domingo uma visita à capital guineense para […]. «Mediador da CEDEAO avalia adiamento de eleições na Guiné-Bissau» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mediador da CEDEAO avalia adiamento de eleições na Guiné-Bissau», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 12.04,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática",
-      "summary": "Estudantes moçambicanos na Rússia pediram, há momentos, em Moscovo, ao Presidente da República, Daniel Chapo, maior apoio governamental face a dificuldades financeiras, burocráticas e à falta de integração no mercado de trabalho. O Presidente da Associação dos Estudantes Moçambicanos na Federação Russa, Gidião Sitole, apelou, igualmente, à realização de missões consulares periódicas, à criação de mecanismos seguros para transferências bancárias e à reactivação de apoios institucionais. Entre as principais barreiras apontadas pela associação está a complexidade na emissão e renovação de passaportes, agravada pelas longas distâncias geográficas entre as 27 cidades onde residem os mais de 400 jovens. Adicionalmente, segundo Sitole, as sanções financeiras internacionais aplicadas ao país de acolhimento têm bloqueado os canais tradicionais de envio de dinheiro, tornando urgente a criação de vias legais e acessíveis que permitam às famílias em Moçambique enviar recursos aos cidadãos no estrangeiro.",
-      "why": "«Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-26T18:56:17+00:00",
-      "age_hours": 13.8,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/estudantes-na-russia-pedem-apoio-para-o-fim-da-crise-financeira-e-burocratica/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Estudantes moçambicanos na Rússia pediram, há momentos, em Moscovo, ao Presidente da República, Daniel Chapo, maior apoio governamental face a dificuldades financeiras, burocráticas e à falta de integração no mercado de trabalho. O Presidente da Associação dos Estudantes Moçambicanos na Federação Russa, Gidião Sitole, apelou, igualmente, à realização de missões consulares periódicas, à criação de mecanismos seguros para transferências bancárias e à reactivação de apoios institucionais. Entre as principais barreiras apontadas pela associação está a complexidade na emissão e renovação de passaportes, agravada pelas longas distâncias geográficas entre as 27 cidades onde residem os mais de 400 jovens. Adicionalmente, segundo Sitole, as sanções financeiras internacionais aplicadas ao país de acolhimento têm bloqueado os canais tradicionais de envio de dinheiro, tornando urgente a criação de vias legais e acessíveis que permitam às famílias em Moçambique enviar recursos aos cidadãos no estrangeiro. «Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Estudantes na Rússia pedem apoio para o fim da crise financeira e burocrática», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 11.12,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "PR inteira-se das preocupações da comunidade moçambicana residente na Rússia",
-      "summary": "Maputo, 26 de Out (AIM) – O Presidente da República, Daniel Chapo, inteirou-se das preocupações da comunidade moçambicana residente na Rússia e anunciou medidas destinadas a melhorar o acompanhamento dos estudantes, facilitar a renovação de documentos e encontrar soluções para as dificuldades nas transferências de recursos financeiros, num contexto em que as restrições associadas à guerra e às sanções condicionam as operações financeiras entre aquele país e o exterior. As medidas foram anunciadas durante um encontro com cidadãos moçambicanos residentes na Rússia, realizado em Moscovo, no quadro da visita de trabalho do Chefe do Estado àquele país, ocasião em que foram igualmente abordados o acesso às bolsas de estudo, a assistência consular e as perspectivas de integração profissional dos estudantes após a conclusão da sua formação académica.",
-      "why": "«PR inteira-se das preocupações da comunidade moçambicana residente na Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «PR inteira-se das preocupações da comunidade moçambicana residente na Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-26T18:42:21+00:00",
-      "age_hours": 14.0,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/26/pr-inteira-se-das-preocupacoes-da-comunidade-mocambicana-residente-na-russia/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 26 de Out (AIM) – O Presidente da República, Daniel Chapo, inteirou-se das preocupações da comunidade moçambicana residente na Rússia e anunciou medidas destinadas a melhorar o acompanhamento dos estudantes, facilitar a renovação de documentos e encontrar soluções para as dificuldades nas transferências de recursos financeiros, num contexto em que as restrições associadas à guerra e às sanções condicionam as operações financeiras entre aquele país e o exterior. As medidas foram anunciadas durante um encontro com cidadãos moçambicanos residentes na Rússia, realizado em Moscovo, no quadro da visita de trabalho do Chefe do Estado àquele país, ocasião em que foram igualmente abordados o acesso às bolsas de estudo, a assistência consular e as perspectivas de integração profissional dos estudantes após a conclusão da sua formação académica. «PR inteira-se das preocupações da comunidade moçambicana residente na Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «PR inteira-se das preocupações da comunidade moçambicana residente na Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 11.08,
+      "editorial_score": 9.21,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -143,86 +215,28 @@
       "tags": [
         "Economia"
       ],
-      "title": "Domínio do Senado joga-se taco a taco em estados como Texas e Ohio",
-      "summary": "Estados norte-americanos como Texas, Michigan, Ohio ou Iowa poderão ser onde o poder absoluto de Trump começa a cair, com corridas altamente disputadas onde a vantagem democrata nas sondagens poderá `virar` as eleições de meio de mandato A votação de 03 de novembro incide sobre os 435 lugares da Câmara dos Representantes, a câmara baixa do Congresso, e sobre 35 lugares no Senado.",
-      "why": "«Domínio do Senado joga-se taco a taco em estados como Texas e Ohio» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Domínio do Senado joga-se taco a taco em estados como Texas e Ohio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-27T08:15:25+00:00",
-      "age_hours": 0.5,
+      "title": "Estados Unidos afastam eleições na Venezuela: “Não seriam justas”",
+      "summary": "Os Estados Unidos afastam, para já, a realização de eleições na Venezuela, por considerar que o atual sistema institucional não garante escrutínios livres e justos. Washington condiciona qualquer convocatória eleitoral a uma reforma profunda das instituições venezuelanas, no quadro das conversações sobre a transição política e a reconciliação.“Não é possível realizar eleições livres e justas, que sejam aceites por todas as partes num país, enquanto essa infraestrutura se mantiver em vigor”, afirmou na segunda-feira um alto responsável do Departamento de Estado que pediu para não ser identificado, segundo um comunicado divulgado pelo Departamento de Estado.",
+      "why": "«Estados Unidos afastam eleições na Venezuela: “Não seriam justas”» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Estados Unidos afastam eleições na Venezuela: “Não seriam justas”», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-27T12:20:16+00:00",
+      "age_hours": 2.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/dominio-do-senado-joga-se-taco-a-taco-em-estados-como-texas-e-ohio_n1774624",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Estados norte-americanos como Texas, Michigan, Ohio ou Iowa poderão ser onde o poder absoluto de Trump começa a cair, com corridas altamente disputadas onde a vantagem democrata nas sondagens poderá `virar` as eleições de meio de mandato A votação de 03 de novembro incide sobre os 435 lugares da Câmara dos Representantes, a câmara baixa do Congresso, e sobre 35 lugares no Senado. «Domínio do Senado joga-se taco a taco em estados como Texas e Ohio» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Domínio do Senado joga-se taco a taco em estados como Texas e Ohio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.9,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Poder de Trump e dos republicanos em jogo com `midterms\" de 3 de novembro",
-      "summary": "As eleições legislativas norte-americanas de 3 de novembro deverão ser marcadas pelo habitual `castigo` do eleitorado à administração em funções, mas para Donald Trump e os republicanos poderão ser o fim do domínio absoluto nas instituições políticas Em jogo estão todos os 435 lugares na Câmara dos Representantes, 35 dos 100 postos no Senado (a câmara alta do Congresso) e 36 estados elegem o governador Na câmara baixa, os republicanos têm atualmente uma maioria pouco confortável, com 218 congressistas no limiar da maioria, mas estados como o Texas, Ohio ou Iowa estão recorrentemente nas sondagens como volúveis a uma mudança que poderá alterar o equilíbrio de forças No Senado, os republicanos têm 53 senadores contra 45 democratas e dois independentes Se o Partido Democrata, que tem 214 congressistas, conseguir `virar` a Câmara dos Representantes, o Senado, ou ambos, terá na mão o controlo da agenda legislativa e poderá lançar iniciativas contra Trump, desde investigações a um processo de destituição, que o atual presidente já enfrentou duas vezes, mas que nunca passou no Senado, onde…",
-      "why": "«Poder de Trump e dos republicanos em jogo com `midterms\" de 3 de novembro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Poder de Trump e dos republicanos em jogo com `midterms\" de 3 de novembro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-27T08:13:40+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/poder-de-trump-e-dos-republicanos-em-jogo-com-midterms-de-3-de-novembro_n1774623",
+      "link": "https://pt.euronews.com/2026/10/27/estados-unidos-afastam-eleicoes-na-venezuela-nao-seriam-justas",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Euronews Português"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Euronews Português",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "As eleições legislativas norte-americanas de 3 de novembro deverão ser marcadas pelo habitual `castigo` do eleitorado à administração em funções, mas para Donald Trump e os republicanos poderão ser o fim do domínio absoluto nas instituições políticas Em jogo estão todos os 435 lugares na Câmara dos Representantes, 35 dos 100 postos no Senado (a câmara alta do Congresso) e 36 estados elegem o governador Na câmara baixa, os republicanos têm atualmente uma maioria pouco confortável, com 218 congressistas no limiar da maioria, mas estados como o Texas, Ohio ou Iowa estão recorrentemente nas sondagens como volúveis a uma mudança que poderá alterar o equilíbrio de forças No Senado, os republicanos têm 53 senadores contra 45 democratas e dois independentes Se o Partido Democrata, que tem 214 congressistas, conseguir `virar` a Câmara dos Representantes, o Senado, ou ambos, terá na mão o controlo da agenda legislativa e poderá lançar iniciativas contra Trump, desde investigações a um processo de destituição, que o atual presidente já enfrentou duas vezes, mas que nunca passou no Senado, onde… «Poder de Trump e dos republicanos em jogo com `midterms\" de 3 de novembro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Poder de Trump e dos republicanos em jogo com `midterms\" de 3 de novembro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.9,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo defende investimento na ciência para valorizar plantas medicinais",
-      "summary": "Maputo, 26 Out (AIM) – O Governo moçambicano defende o reforço do investimento na investigação científica e a divulgação dos seus resultados, com vista à valorização do conhecimento tradicional sobre plantas medicinais e ao desenvolvimento de soluções acessíveis para melhorar a saúde das comunidades. A posição foi manifestada hoje, em Maputo, pelo Secretário de Estado da Ciência e Ensino Superior, Isaú Joaquim Meneses, durante a abertura de um seminário científico sobre ciência e inovação em etnobotânica, promovido pelo Centro de Investigação e Desenvolvimento em Etnobotânica. “É preciso fazer um investimento relevante para a área da pesquisa e provar às comunidades e ao mundo que as pesquisas têm resultados que beneficiam as populações”, afirmou Meneses, ao defender que a demonstração dos benefícios da ciência poderá convencer os decisores a aumentar os recursos destinados ao sector. O governante apelou igualmente à divulgação dos resultados das pesquisas realizadas no país, para que a população conheça e aproveite os produtos desenvolvidos por investigadores moçambicanos.",
-      "why": "«Governo defende investimento na ciência para valorizar plantas medicinais» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Governo defende investimento na ciência para valorizar plantas medicinais», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-10-26T14:23:22+00:00",
-      "age_hours": 18.3,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/26/governo-defende-investimento-na-ciencia-para-valorizar-plantas-medicinais/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 26 Out (AIM) – O Governo moçambicano defende o reforço do investimento na investigação científica e a divulgação dos seus resultados, com vista à valorização do conhecimento tradicional sobre plantas medicinais e ao desenvolvimento de soluções acessíveis para melhorar a saúde das comunidades. A posição foi manifestada hoje, em Maputo, pelo Secretário de Estado da Ciência e Ensino Superior, Isaú Joaquim Meneses, durante a abertura de um seminário científico sobre ciência e inovação em etnobotânica, promovido pelo Centro de Investigação e Desenvolvimento em Etnobotânica. “É preciso fazer um investimento relevante para a área da pesquisa e provar às comunidades e ao mundo que as pesquisas têm resultados que beneficiam as populações”, afirmou Meneses, ao defender que a demonstração dos benefícios da ciência poderá convencer os decisores a aumentar os recursos destinados ao sector. O governante apelou igualmente à divulgação dos resultados das pesquisas realizadas no país, para que a população conheça e aproveite os produtos desenvolvidos por investigadores moçambicanos. «Governo defende investimento na ciência para valorizar plantas medicinais» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo defende investimento na ciência para valorizar plantas medicinais», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.19,
-      "source_tier": "B",
+      "opportunity_flag": false,
+      "detailed_summary": "Os Estados Unidos afastam, para já, a realização de eleições na Venezuela, por considerar que o atual sistema institucional não garante escrutínios livres e justos. Washington condiciona qualquer convocatória eleitoral a uma reforma profunda das instituições venezuelanas, no quadro das conversações sobre a transição política e a reconciliação.“Não é possível realizar eleições livres e justas, que sejam aceites por todas as partes num país, enquanto essa infraestrutura se mantiver em vigor”, afirmou na segunda-feira um alto responsável do Departamento de Estado que pediu para não ser identificado, segundo um comunicado divulgado pelo Departamento de Estado. «Estados Unidos afastam eleições na Venezuela: “Não seriam justas”» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Estados Unidos afastam eleições na Venezuela: “Não seriam justas”», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 8.42,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -236,38 +250,9 @@
       "impact": "No caso de «María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-27T06:38:18+00:00",
-      "age_hours": 2.1,
+      "age_hours": 8.5,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/27/maria-corina-machado-aposta-no-dialogo-com-delcy-rodriguez-apos-regresso-do-exilio",
-      "original_source": true,
-      "event_id": "evt-mundo-011",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "María Corina Machado mostra-se disposta a dialogar com Delcy Rodríguez após regressar à Venezuela.A líder da oposição venezuelana e Prémio Nobel da Paz, María Corina Machado, afirmou esta segunda-feira que está disponível para se reunir com a presidente interina do país após o seu inesperado regresso do exílio.Machado aterrou no domingo em Caracas depois de quase um ano no exílio, onde foi recebida por uma multidão de apoiantes, num desafio direto ao governo apoiado pelos Estados Unidos.Milhares de pessoas juntaram-se em estradas, portagens e ruas da capital, empunhando bandeiras venezuelanas e gritando “Liberdade!”, enquanto Machado entrava sorridente em Caracas, acompanhada por uma caravana de carros e motociclos.Com a sua habitual camisola branca e umas calças de ganga, inclinou-se pelo teto de abrir de um veículo para saudar a multidão e apertar a mão aos seus apoiantes.Esta segunda-feira, Machado estendeu também a mão à possibilidade de dialogar com a presidente interina, Delcy Rodríguez, que foi vice-presidente do seu principal adversário político, Nicolás Maduro, antes de ser… «María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.56,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Trump diz que eleição no Brasil parece \"fraudulenta\" sem apresentar provas",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou esta segunda-feira que as eleições brasileiras do fim de semana pareceram “fraudulentas”, sem apresentar provas, depois de o presidente de esquerda Luiz Inácio Lula da Silva ter derrotado o candidato de direita Flávio Bolsonaro.Em declarações aos jornalistas, Trump disse que a votação “pareceu terrível” e “como mais umas eleições viciadas”.“Não tomei partido”, disse Trump aos repórteres quando questionado sobre a sua opinião. “As eleições têm de ser indiscutíveis e, para mim, esta pareceu muito má.”Bolsonaro recusou inicialmente reconhecer a vitória de Lula, afirmando que era “impossível” aceitar o resultado e que as eleições deveriam ter sido anuladas.",
-      "why": "«Trump diz que eleição no Brasil parece \"fraudulenta\" sem apresentar provas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Trump diz que eleição no Brasil parece \"fraudulenta\" sem apresentar provas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-27T06:18:43+00:00",
-      "age_hours": 2.4,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/27/trump-diz-que-eleicao-no-brasil-parece-fraudulenta-sem-apresentar-provas",
       "original_source": true,
       "event_id": "evt-mundo-014",
       "cluster_size": 1,
@@ -278,8 +263,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O presidente dos Estados Unidos, Donald Trump, afirmou esta segunda-feira que as eleições brasileiras do fim de semana pareceram “fraudulentas”, sem apresentar provas, depois de o presidente de esquerda Luiz Inácio Lula da Silva ter derrotado o candidato de direita Flávio Bolsonaro.Em declarações aos jornalistas, Trump disse que a votação “pareceu terrível” e “como mais umas eleições viciadas”.“Não tomei partido”, disse Trump aos repórteres quando questionado sobre a sua opinião. “As eleições têm de ser indiscutíveis e, para mim, esta pareceu muito má.”Bolsonaro recusou inicialmente reconhecer a vitória de Lula, afirmando que era “impossível” aceitar o resultado e que as eleições deveriam ter sido anuladas. «Trump diz que eleição no Brasil parece \"fraudulenta\" sem apresentar provas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Trump diz que eleição no Brasil parece \"fraudulenta\" sem apresentar provas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.5,
+      "detailed_summary": "María Corina Machado mostra-se disposta a dialogar com Delcy Rodríguez após regressar à Venezuela.A líder da oposição venezuelana e Prémio Nobel da Paz, María Corina Machado, afirmou esta segunda-feira que está disponível para se reunir com a presidente interina do país após o seu inesperado regresso do exílio.Machado aterrou no domingo em Caracas depois de quase um ano no exílio, onde foi recebida por uma multidão de apoiantes, num desafio direto ao governo apoiado pelos Estados Unidos.Milhares de pessoas juntaram-se em estradas, portagens e ruas da capital, empunhando bandeiras venezuelanas e gritando “Liberdade!”, enquanto Machado entrava sorridente em Caracas, acompanhada por uma caravana de carros e motociclos.Com a sua habitual camisola branca e umas calças de ganga, inclinou-se pelo teto de abrir de um veículo para saudar a multidão e apertar a mão aos seus apoiantes.Esta segunda-feira, Machado estendeu também a mão à possibilidade de dialogar com a presidente interina, Delcy Rodríguez, que foi vice-presidente do seu principal adversário político, Nicolás Maduro, antes de ser… «María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «María Corina Machado aposta no diálogo com Delcy Rodríguez após regresso do exílio», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 6.23,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
