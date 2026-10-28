@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:23:28.615317+00:00",
+  "updated_at": "2026-10-28T17:02:21.491135+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,11 +16,11 @@
       "impact": "For «Ethiopian Airlines launches direct flight to Nacala», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "AIM News",
       "published": "2026-10-28T07:50:23+00:00",
-      "age_hours": 1.5,
+      "age_hours": 9.2,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/28/ethiopian-airlines-launches-direct-flight-to-nacala/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,28 +30,84 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 28 Oct (AIM) – State-owned Company Ethiopian Airlines has launched direct flights to the port city of Nacala, northern Mozambican province of Nampula, opening up new opportunities for tourism, trade, and investment. On Tuesday, a Boeing 737-800 aircraft landed at Nacala International Airport at 14:25, after a stopover in Blantyre, Malawi. Nacala becomes the airline’s third destination in Mozambique, joining southern Maputo and central city of Beira, in Sofala province. The new service operates on Tuesdays, Thursdays and Saturdays, connecting Nacala to Ethiopia’s capital Addis Ababa. Passengers will gain access to the airline’s international network, which serves more than 130 destinations worldwide. Nampula Provincial Governor, Eduardo Abdula, described the new connection as a sign of confidence in Mozambique’s economic potential, highlighting Nacala’s geographical position and port infrastructure as important assets for regional trade. «Ethiopian Airlines launches direct flight to Nacala» helps explain a concrete economic or business change relevant to Moçambique. For «Ethiopian Airlines launches direct flight to Nacala», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 16.69,
+      "editorial_score": 15.08,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "One year on, families seek justice after election violence",
+      "summary": "One year after Tanzania's deadly post-election violence, families are still seeking answers. A government inquiry recorded 518 deaths. DW research has documented apparent use of excessive force by security forces Warning: This article contains descriptions of violence For one family member in Mwanza, Tanzania 's second-largest city, justice could begin with a simple act: an apology Raha, whose name has been changed for safety reasons, said her nephew, who she raised, was killed during protests that erupted following Tanzania's October 2025 general election \"The government should have asked for forgiveness for what happened.",
+      "why": "«One year on, families seek justice after election violence» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «One year on, families seek justice after election violence», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "DW English",
+      "published": "2026-10-28T16:30:00+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "One year after Tanzania's deadly post-election violence, families are still seeking answers. A government inquiry recorded 518 deaths. DW research has documented apparent use of excessive force by security forces Warning: This article contains descriptions of violence For one family member in Mwanza, Tanzania 's second-largest city, justice could begin with a simple act: an apology Raha, whose name has been changed for safety reasons, said her nephew, who she raised, was killed during protests that erupted following Tanzania's October 2025 general election \"The government should have asked for forgiveness for what happened. «One year on, families seek justice after election violence» deserves attention because it may change political, diplomatic or security risks. For «One year on, families seek justice after election violence», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 14.9,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation Tanzania has announced a significant discovery of natural gas in the Mnazi Bay area in the south of the country - the first such find in a decade Energy Minister Juma Homera attended a ceremony at the Kasa-1X ST2 well, which is jointly owned by state-owned Tanzania Petroleum Development Corporation (TPDC) and French oil firm Maurel & Prom, to mark the occasion He said the estimated 223 billion cubic feet (6.3 billion cubic metres) discovery was a \"major milestone\" in the development of the small oil and gas sector in the East African nation The new well is expected to start production early next month and is intended to boost domestic supplies Tanzania has existing natural gas reserves of 57.54 trillion cubic feet Gas from the field will be for domestic and industrial power generation and also for vehicles \"The discovery is important in ensuring the country has reliable, clean and safe energy at affordable costs, particularly at a time when demand is increasing due to industrial growth and other…",
+      "why": "«Tanzania celebrates first natural gas discovery in more than 10 years» matters because it may change energy and investment decisions affecting África.",
+      "impact": "For «Tanzania celebrates first natural gas discovery in more than 10 years», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-10-28T10:18:40+00:00",
+      "age_hours": 6.7,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The energy minister described it as a \"major milestone\" for the East African nation Tanzania has announced a significant discovery of natural gas in the Mnazi Bay area in the south of the country - the first such find in a decade Energy Minister Juma Homera attended a ceremony at the Kasa-1X ST2 well, which is jointly owned by state-owned Tanzania Petroleum Development Corporation (TPDC) and French oil firm Maurel & Prom, to mark the occasion He said the estimated 223 billion cubic feet (6.3 billion cubic metres) discovery was a \"major milestone\" in the development of the small oil and gas sector in the East African nation The new well is expected to start production early next month and is intended to boost domestic supplies Tanzania has existing natural gas reserves of 57.54 trillion cubic feet Gas from the field will be for domestic and industrial power generation and also for vehicles \"The discovery is important in ensuring the country has reliable, clean and safe energy at affordable costs, particularly at a time when demand is increasing due to industrial growth and other… «Tanzania celebrates first natural gas discovery in more than 10 years» matters because it may change energy and investment decisions affecting África. For «Tanzania celebrates first natural gas discovery in more than 10 years», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "editorial_score": 14.6,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
-        "IA",
         "Economia"
       ],
-      "title": "Trump expands US investment firepower to US$205 billion as Washington targets African minerals, including Mozambique’s graphite",
-      "summary": "The United States has expanded the investment capacity of its main international development finance agency to $205 billion, giving President Donald Trump’s administration considerably more financial firepower to pursue energy, technology and critical-mineral projects overseas. Africa is expected to remain an important part of that strategy. The US International Development Finance Corporation can now support… Source",
-      "why": "«Trump expands US investment firepower to US$205 billion as Washington targets African minerals,…» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Trump expands US investment firepower to US$205 billion as Washington targets African minerals,…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "title": "Mozambique: Helios to acquire 49% stake in Merec Industries",
+      "summary": "Helios Fund V will acquire the stake in Merec, described as Mozambique’s largest flour milling company. According to the companies, the transaction is expected to close by the end of 2026, subject to customary closing conditions including regulatory approvals, after which Invictus Investment will remain the majority shareholder Founded in 1998, Merec processes wheat and corn into an integrated portfolio spanning flour, pasta, biscuits and animal feed. Its mills, production facilities and silos are located in each of Mozambique’s three principal port regions – Beira, Maputo and Nacala – making it the only miller with manufacturing facilities in all three. Merec also owns a grain terminal at the port of Maputo, and its footprint supports a nationwide distribution network serving wholesalers, retailers, bakeries, feed producers and distributors Invictus Investment acquired Merec in January 2025 through the purchase of Stratton Africa Holdings.",
+      "why": "«Mozambique: Helios to acquire 49% stake in Merec Industries» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique: Helios to acquire 49% stake in Merec Industries», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
-      "published": "2026-10-28T04:59:19+00:00",
-      "age_hours": 4.4,
+      "published": "2026-10-28T14:24:07+00:00",
+      "age_hours": 2.6,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/trump-expands-us-investment-firepower-to-us205-billion-as-washington-targets-african-minerals-including-mozambiques-graphite/",
+      "link": "https://clubofmozambique.com/news/mozambique-helios-to-acquire-49-stake-in-merec-industries/",
       "original_source": true,
-      "event_id": "evt-mocambique-006",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -60,8 +116,103 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "The United States has expanded the investment capacity of its main international development finance agency to $205 billion, giving President Donald Trump’s administration considerably more financial firepower to pursue energy, technology and critical-mineral projects overseas. Africa is expected to remain an important part of that strategy. The US International Development Finance Corporation can now support… Source. «Trump expands US investment firepower to US$205 billion as Washington targets African minerals,…» matters because it may change energy and investment decisions affecting Moçambique. For «Trump expands US investment firepower to US$205 billion as Washington targets African minerals,…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 15.08,
+      "detailed_summary": "Helios Fund V will acquire the stake in Merec, described as Mozambique’s largest flour milling company. According to the companies, the transaction is expected to close by the end of 2026, subject to customary closing conditions including regulatory approvals, after which Invictus Investment will remain the majority shareholder Founded in 1998, Merec processes wheat and corn into an integrated portfolio spanning flour, pasta, biscuits and animal feed. Its mills, production facilities and silos are located in each of Mozambique’s three principal port regions – Beira, Maputo and Nacala – making it the only miller with manufacturing facilities in all three. Merec also owns a grain terminal at the port of Maputo, and its footprint supports a nationwide distribution network serving wholesalers, retailers, bakeries, feed producers and distributors Invictus Investment acquired Merec in January 2025 through the purchase of Stratton Africa Holdings. «Mozambique: Helios to acquire 49% stake in Merec Industries» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Helios to acquire 49% stake in Merec Industries», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 13.46,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted",
+      "summary": "A new Israeli government is unlikely to bring big changes on controversial topics like Palestinian statehood and Israeli troops in Lebanon and Syria, experts say. Some small positives may be possible though As Israeli politicians begin to try to build a coalition government, after an election that saw no clear winner, response from politicians in surrounding Arab countries has been muted or non-existent This may be because, for the time being anyway, it remains unclear as to whether the new Israeli government will continue with \"business as usual\" under incumbent Prime Minister Benjamin Netanyahu or whether a new government headed by Netanyahu's opponents will take what is expected to be a more moderate domestic course Whatever the eventual outcome, the consensus is that there is unlikely to be a huge change in Israel's foreign relations with neighboring countries like Syria, Lebanon, Jordan and Egypt, and, further afield, the Gulf states.",
+      "why": "«What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some…» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "DW English",
+      "published": "2026-10-28T16:03:00+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "DW English",
+        "Al Jazeera English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Al Jazeera English",
+          "title": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
+          "link": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "A new Israeli government is unlikely to bring big changes on controversial topics like Palestinian statehood and Israeli troops in Lebanon and Syria, experts say. Some small positives may be possible though As Israeli politicians begin to try to build a coalition government, after an election that saw no clear winner, response from politicians in surrounding Arab countries has been muted or non-existent This may be because, for the time being anyway, it remains unclear as to whether the new Israeli government will continue with \"business as usual\" under incumbent Prime Minister Benjamin Netanyahu or whether a new government headed by Netanyahu's opponents will take what is expected to be a more moderate domestic course Whatever the eventual outcome, the consensus is that there is unlikely to be a huge change in Israel's foreign relations with neighboring countries like Syria, Lebanon, Jordan and Egypt, and, further afield, the Gulf states. «What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some…» helps explain a concrete economic or business change relevant to Mundo. For «What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 13.29,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Judoka determined to prove refugees belong at Dakar 2026",
+      "summary": "Arno Yafunga Botay is one of six athletes competing for the Refugee Olympic Team at the Dakar 2026 Youth Games Arno Yafunga Botay was six when his family fled the Democratic Republic of Congo after threats to his father's life culminated in an attack on their home which claimed the life of his seven-month-old sibling Following a spell living in the Kakuma refugee camp in north-west Kenya, the family settled in Nairobi. There, Arno used to watch his father Arnold practising judo and eventually asked him to teach him the sport Now, having coming through trials in East Africa , he will compete for the Refugee Olympic Team in the under-55kg category at the Dakar 2026 Youth Games \"I didn't expect to be selected,\" the 15-year-old told BBC Sport Africa \"I was so excited.",
+      "why": "«Judoka determined to prove refugees belong at Dakar 2026» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Judoka determined to prove refugees belong at Dakar 2026», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "source": "BBC Africa",
+      "published": "2026-10-28T14:50:04+00:00",
+      "age_hours": 2.2,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/c9gkv2pvg1gzo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Arno Yafunga Botay is one of six athletes competing for the Refugee Olympic Team at the Dakar 2026 Youth Games Arno Yafunga Botay was six when his family fled the Democratic Republic of Congo after threats to his father's life culminated in an attack on their home which claimed the life of his seven-month-old sibling Following a spell living in the Kakuma refugee camp in north-west Kenya, the family settled in Nairobi. There, Arno used to watch his father Arnold practising judo and eventually asked him to teach him the sport Now, having coming through trials in East Africa , he will compete for the Refugee Olympic Team in the under-55kg category at the Dakar 2026 Youth Games \"I didn't expect to be selected,\" the 15-year-old told BBC Sport Africa \"I was so excited. «Judoka determined to prove refugees belong at Dakar 2026» is worth following because of its possible economic, institutional or regional effects. For «Judoka determined to prove refugees belong at Dakar 2026», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "editorial_score": 12.54,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique’s only radiotherapy machine remains out of service – minister",
+      "summary": "“We have the only radiotherapy machine in the country here, and it is out of service. During this term of government, we have tried to rehabilitate this equipment,” Health Minister Ussene Isse said at the opening of the second edition of the Mozambique Medical Expo in Maputo, a platform bringing together public and private institutions, companies and healthcare professionals to discuss opportunities and challenges in the sector “Radiotherapy is a key weapon in treating some cancers; it saves lives. So you can imagine the pain we carry every day as we try to get that machine working again. This is a challenge because the machine’s parts are no longer available on the market; they have been discontinued,” he said Radiotherapy is one of the main treatments used to combat cancer, and the unavailability of the equipment forces Mozambican patients to seek treatment abroad, at considerable cost to families and the State “We cannot lose Mozambicans; we have to send people abroad for radiotherapy.",
+      "why": "«Mozambique’s only radiotherapy machine remains out of service – minister» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique’s only radiotherapy machine remains out of service – minister», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-28T14:02:53+00:00",
+      "age_hours": 3.0,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambiques-only-radiotherapy-machine-remains-out-of-service-minister/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "“We have the only radiotherapy machine in the country here, and it is out of service. During this term of government, we have tried to rehabilitate this equipment,” Health Minister Ussene Isse said at the opening of the second edition of the Mozambique Medical Expo in Maputo, a platform bringing together public and private institutions, companies and healthcare professionals to discuss opportunities and challenges in the sector “Radiotherapy is a key weapon in treating some cancers; it saves lives. So you can imagine the pain we carry every day as we try to get that machine working again. This is a challenge because the machine’s parts are no longer available on the market; they have been discontinued,” he said Radiotherapy is one of the main treatments used to combat cancer, and the unavailability of the equipment forces Mozambican patients to seek treatment abroad, at considerable cost to families and the State “We cannot lose Mozambicans; we have to send people abroad for radiotherapy. «Mozambique’s only radiotherapy machine remains out of service – minister» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique’s only radiotherapy machine remains out of service – minister», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 12.38,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -76,11 +227,11 @@
       "impact": "For «Mozambique signs agreement with China to restructure its debt», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "AIM News",
       "published": "2026-10-28T08:19:50+00:00",
-      "age_hours": 1.1,
+      "age_hours": 8.7,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/28/mozambique-signs-agreement-with-china-to-restructure-its-debt/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -90,60 +241,25 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 28 Oct (AIM) – Mozambique’s public debt with China will be restructured following the signing of a Supplementary Framework Agreement between the governments’ of both countries. The agreement follows meetings held in China last April between Mozambican President Daniel Chapo and his Chinese counterpart Xi Jinping, in which China granted a partial forgiveness of Mozambique’s debt, amounting to 204 million yuan (1.9 billion meticais) in interest-free loans that were set to mature in December 2024. The agreement was signed by the finance minister Carla Louveira and the Chinese ambassador to Mozambique Zheng Xuan. The agreement aligns with the Medium-Term Public Debt Management Strategy (2025–2029) and represents a significant step toward aligning debt repayments with the country’s financial capacity, thereby strengthening the sustainability of public finances. «Mozambique signs agreement with China to restructure its debt» deserves attention because it may change political, diplomatic or security risks. For «Mozambique signs agreement with China to restructure its debt», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 13.77,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Kremlin: Conversation with President of Mozambique Daniel Francisco Chapo",
-      "summary": "President of Russia Vladimir Putin : Mister President, I am very glad to see you. At the outset, I want to say that we greatly appreciate your personal active participation in the Russia-Africa summit. It is important that Mozambique was represented at the top level in the previous Russian-African forums as well, which, in my opinion, laid a good foundation for Russia to develop ties with the entire continent Today, we have worked productively with you at the 8th Summit of the Gas Exporting Countries Forum We completely share your commitment to strengthening multifaceted ties between our countries. Russia and Mozambique are connected by long-standing bonds of friendship established way back at the time of struggle for independence by the people of Mozambique. Last year we marked an important anniversary – 50 years of our diplomatic relations Our political contacts and interparliamentary ties are progressing.",
-      "why": "«Kremlin: Conversation with President of Mozambique Daniel Francisco Chapo» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Kremlin: Conversation with President of Mozambique Daniel Francisco Chapo», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-10-28T06:31:13+00:00",
-      "age_hours": 2.9,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/kremlin-conversation-with-president-of-mozambique-daniel-francisco-chapo/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Club of Mozambique",
-          "title": "Mozambique: President Chapo meets Russia’s President Putin, reaffirms focus on energy resources to drive development",
-          "link": "https://clubofmozambique.com/news/mozambique-president-chapo-meets-russias-president-putin-reaffirms-focus-on-energy-resources-to-drive-development/"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "President of Russia Vladimir Putin : Mister President, I am very glad to see you. At the outset, I want to say that we greatly appreciate your personal active participation in the Russia-Africa summit. It is important that Mozambique was represented at the top level in the previous Russian-African forums as well, which, in my opinion, laid a good foundation for Russia to develop ties with the entire continent Today, we have worked productively with you at the 8th Summit of the Gas Exporting Countries Forum We completely share your commitment to strengthening multifaceted ties between our countries. Russia and Mozambique are connected by long-standing bonds of friendship established way back at the time of struggle for independence by the people of Mozambique. Last year we marked an important anniversary – 50 years of our diplomatic relations Our political contacts and interparliamentary ties are progressing. «Kremlin: Conversation with President of Mozambique Daniel Francisco Chapo» matters because it may change energy and investment decisions affecting Moçambique. For «Kremlin: Conversation with President of Mozambique Daniel Francisco Chapo», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 13.4,
+      "editorial_score": 12.19,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
+        "Energia",
         "Economia"
       ],
-      "title": "Canada signs trade deal with UAE in push for non-US markets",
-      "summary": "The agreement aims to cut tariffs, reduce red tape and improve market access for businesses in both countries",
-      "why": "«Canada signs trade deal with UAE in push for non-US markets» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «Canada signs trade deal with UAE in push for non-US markets», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Bank of Canada raises interest rates for the first time in three years",
+      "summary": "The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation",
+      "why": "«Bank of Canada raises interest rates for the first time in three years» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Bank of Canada raises interest rates for the first time in three years», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-10-28T08:50:55+00:00",
-      "age_hours": 0.5,
+      "published": "2026-10-28T16:44:44+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets?traffic_source=rss",
+      "link": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -154,126 +270,37 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "The agreement aims to cut tariffs, reduce red tape and improve market access for businesses in both countries. «Canada signs trade deal with UAE in push for non-US markets» helps explain a concrete economic or business change relevant to Mundo. For «Canada signs trade deal with UAE in push for non-US markets», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 12.9,
+      "detailed_summary": "The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation. «Bank of Canada raises interest rates for the first time in three years» matters because it may change energy and investment decisions affecting Mundo. For «Bank of Canada raises interest rates for the first time in three years», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 11.94,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "África",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "West warns of famine risk in Sudan as civil war grinds on",
-      "summary": "War in Sudan has led to the worst humanitarian crisis with more than 33 million people in need of assistance according to the WHO The US and 30 other Western states have warned of an \"alarming deterioration\" in food security in Sudan, urging the warring sides in the civil war to remove obstacles to humanitarian aid to prevent famine In a joint statement, the signatories said conflict was the main driver of Sudan's hunger crisis, damaging critical infrastructure and disrupting food production \"There is very little to survive on,\" Yusuf Roble, regional director for Islamic Relief East Africa, told BBC Newsday, describing how people returning to Omdurman were finding their homes destroyed or looted The war, which began in April 2023, has displaced 14 million people The statement , external was signed by EU states, the UK, Canada, Switzerland and Norway, as well as the US, where it was published by the state department on Monday after first appearing on the European Civil Protection and Humanitarian Aid Operations website It estimates that 19.5 million people or 41% of Sudan's…",
-      "why": "«West warns of famine risk in Sudan as civil war grinds on» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «West warns of famine risk in Sudan as civil war grinds on», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "BBC Africa",
-      "published": "2026-10-27T15:41:46+00:00",
-      "age_hours": 17.7,
+      "title": "EU's 'Made in Europe' push unnerves global auto suppliers",
+      "summary": "In shielding Europe's carmakers from Chinese rivals, the EU risks hurting close partners from Turkey and Morocco to Japan and South Korea. Billions in trade and hundreds of thousands of European jobs are at stake",
+      "why": "«EU's 'Made in Europe' push unnerves global auto suppliers» helps explain a concrete economic or business change relevant to África.",
+      "impact": "For «EU's 'Made in Europe' push unnerves global auto suppliers», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "DW English",
+      "published": "2026-10-28T10:24:00+00:00",
+      "age_hours": 6.6,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
       "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "BBC Africa"
+        "DW English"
       ],
-      "primary_source": "BBC Africa",
+      "primary_source": "DW English",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "War in Sudan has led to the worst humanitarian crisis with more than 33 million people in need of assistance according to the WHO The US and 30 other Western states have warned of an \"alarming deterioration\" in food security in Sudan, urging the warring sides in the civil war to remove obstacles to humanitarian aid to prevent famine In a joint statement, the signatories said conflict was the main driver of Sudan's hunger crisis, damaging critical infrastructure and disrupting food production \"There is very little to survive on,\" Yusuf Roble, regional director for Islamic Relief East Africa, told BBC Newsday, describing how people returning to Omdurman were finding their homes destroyed or looted The war, which began in April 2023, has displaced 14 million people The statement , external was signed by EU states, the UK, Canada, Switzerland and Norway, as well as the US, where it was published by the state department on Monday after first appearing on the European Civil Protection and Humanitarian Aid Operations website It estimates that 19.5 million people or 41% of Sudan's… «West warns of famine risk in Sudan as civil war grinds on» deserves attention because it may change political, diplomatic or security risks. For «West warns of famine risk in Sudan as civil war grinds on», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 12.31,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Why the US midterms matter even if you don’t live in America",
-      "summary": "From military aid and sanctions to trade and tariffs, the US midterms could shape decisions that affect millions",
-      "why": "«Why the US midterms matter even if you don’t live in America» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Why the US midterms matter even if you don’t live in America», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-28T08:15:19+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "From military aid and sanctions to trade and tariffs, the US midterms could shape decisions that affect millions. «Why the US midterms matter even if you don’t live in America» deserves attention because it may change political, diplomatic or security risks. For «Why the US midterms matter even if you don’t live in America», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.77,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "summary": "The Villa Vie Odyssey was more than 750 days into its voyage around the world when it came to a stop in Cambodia A luxury cruise ship on a years-long voyage around the world said it suspended operations due to extraordinarily high fuel costs, leaving passengers stranded in Cambodia The US-based operator of Villa Vie Odyssey said it was working with passengers on disembarkation plans and \"temporary living arrangements\" It is unclear how many were on board but the nearly 200m (656ft) vessel can carry up to 650 passengers. It departed Belfast in October 2024 for a \"continuous voyage around the world\" Global fuel prices have soared since the Iran war started earlier this year. The ship's operator said the monthly fuel cost per cabin in parts of Asia has risen to as much as $8,000 (£6,000) from $1,800 The company said it had taken \"significant steps to reduce fuel consumption, including slowing the itinerary and spending more time in port\".",
-      "why": "«Luxury cruise passengers stranded in Cambodia due to soaring fuel costs» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Luxury cruise passengers stranded in Cambodia due to soaring fuel costs», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-28T07:53:20+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The Villa Vie Odyssey was more than 750 days into its voyage around the world when it came to a stop in Cambodia A luxury cruise ship on a years-long voyage around the world said it suspended operations due to extraordinarily high fuel costs, leaving passengers stranded in Cambodia The US-based operator of Villa Vie Odyssey said it was working with passengers on disembarkation plans and \"temporary living arrangements\" It is unclear how many were on board but the nearly 200m (656ft) vessel can carry up to 650 passengers. It departed Belfast in October 2024 for a \"continuous voyage around the world\" Global fuel prices have soared since the Iran war started earlier this year. The ship's operator said the monthly fuel cost per cabin in parts of Asia has risen to as much as $8,000 (£6,000) from $1,800 The company said it had taken \"significant steps to reduce fuel consumption, including slowing the itinerary and spending more time in port\". «Luxury cruise passengers stranded in Cambodia due to soaring fuel costs» matters because it may change energy and investment decisions affecting Mundo. For «Luxury cruise passengers stranded in Cambodia due to soaring fuel costs», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.69,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Zimbabwe’s platinum boom: Where is the wealth?",
-      "summary": "The metal is generating billions, but mining communities say basic services have failed to keep pace",
-      "why": "«Zimbabwe’s platinum boom: Where is the wealth?» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Zimbabwe’s platinum boom: Where is the wealth?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-28T07:08:00+00:00",
-      "age_hours": 2.3,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/28/zimbabwes-platinum-boom-where-is-the-wealth?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The metal is generating billions, but mining communities say basic services have failed to keep pace. «Zimbabwe’s platinum boom: Where is the wealth?» is worth following because of its possible economic, institutional or regional effects. For «Zimbabwe’s platinum boom: Where is the wealth?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 11.52,
+      "opportunity_flag": true,
+      "detailed_summary": "In shielding Europe's carmakers from Chinese rivals, the EU risks hurting close partners from Turkey and Morocco to Japan and South Korea. Billions in trade and hundreds of thousands of European jobs are at stake. «EU's 'Made in Europe' push unnerves global auto suppliers» helps explain a concrete economic or business change relevant to África. For «EU's 'Made in Europe' push unnerves global auto suppliers», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 11.62,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -282,46 +309,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory",
-      "summary": "Arab parties could end up holding the balance of power With results still trickling in, it currently appears that Israel's veteran Prime Minister, Benjamin Netanyahu, has done better than was widely predicted with his Likud emerging as the largest single party His existing bloc with ultra-nationalist and ultra-Orthodox Jewish parties appear to be just short of a 61-seat majority in the 120-seat parliament. However, analysts caution that this is subject to change because the early count was skewed towards areas known to have strong right-wing support A dramatic deadlock had been widely forecast as Israelis surged to the polls – with turnout reaching more than 77% In Israel's fragmented political system, the signs are that Netanyahu's main rival, the former army chief Gadi Eisenkot, would struggle to command a parliamentary majority without parties led by Israel's Arab minority.",
-      "why": "«Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-28T06:53:23+00:00",
-      "age_hours": 2.5,
+      "title": "Is Iran headed to war or peace after Mecca alliance meeting?",
+      "summary": "Saudi Arabia, Pakistan and Turkey have taken their latest peace push directly to Tehran. Officially, it was to avert a new military escalation, but their diplomatic outreach can also be seen as a warning to Iran Amid rising fear that the US and Israel are preparing to launch new attacks on Iran after the US midterm election on November 3, three major Middle Eastern powers delivered a coordinated diplomatic message directly to Tehran Pakistan's army chief Asim Munir , Saudi Defense Minister Khalid bin Salman and Turkish intelligence chief Ibrahim Kalin all traveled to Iran to meet Iranian President Masoud Pezeshkian and senior officials in Tehran this Monday.",
+      "why": "«Is Iran headed to war or peace after Mecca alliance meeting?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Is Iran headed to war or peace after Mecca alliance meeting?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-10-28T14:20:00+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
       "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Arab parties could end up holding the balance of power With results still trickling in, it currently appears that Israel's veteran Prime Minister, Benjamin Netanyahu, has done better than was widely predicted with his Likud emerging as the largest single party His existing bloc with ultra-nationalist and ultra-Orthodox Jewish parties appear to be just short of a 61-seat majority in the 120-seat parliament. However, analysts caution that this is subject to change because the early count was skewed towards areas known to have strong right-wing support A dramatic deadlock had been widely forecast as Israelis surged to the polls – with turnout reaching more than 77% In Israel's fragmented political system, the signs are that Netanyahu's main rival, the former army chief Gadi Eisenkot, would struggle to command a parliamentary majority without parties led by Israel's Arab minority. «Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory» deserves attention because it may change political, diplomatic or security risks. For «Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.48,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Israel election: Netanyahu-led bloc in slight lead with more than half of votes counted",
-      "summary": "While partial results show the pro-Netanyahu bloc ahead of the anti-Netanyahu bloc, the final tally could take days. Neither grouping is expected to win a majority, with tough coalition talks ahead. Follow DW Follow below for all the latest on the Israeli election on October 27, 2026, and the following days: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google . Then tap the \"Star\" or \"Preferred\" to keep DW News at the top of your feed Yair Golan, the head of Israel's main left-wing party, the Democrats, has called on partners in the opposition alliance to be ready to work with Arab parties to gain a majority and take government \"We must no longer accept [Prime Minister Benjamin] Netanyahu's racist division between Jewish votes and Arab votes,\" he said on X \"We have a responsibility.",
-      "why": "«Israel election: Netanyahu-led bloc in slight lead with more than half of votes counted» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Israel election: Netanyahu-led bloc in slight lead with more than half of votes counted», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-10-28T08:30:00+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-half-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -330,66 +328,44 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "While partial results show the pro-Netanyahu bloc ahead of the anti-Netanyahu bloc, the final tally could take days. Neither grouping is expected to win a majority, with tough coalition talks ahead. Follow DW Follow below for all the latest on the Israeli election on October 27, 2026, and the following days: Tired of missing our real-time updates? Click here to add us as a Preferred Source on Google . Then tap the \"Star\" or \"Preferred\" to keep DW News at the top of your feed Yair Golan, the head of Israel's main left-wing party, the Democrats, has called on partners in the opposition alliance to be ready to work with Arab parties to gain a majority and take government \"We must no longer accept [Prime Minister Benjamin] Netanyahu's racist division between Jewish votes and Arab votes,\" he said on X \"We have a responsibility. «Israel election: Netanyahu-led bloc in slight lead with more than half of votes counted» is worth following because of its possible economic, institutional or regional effects. For «Israel election: Netanyahu-led bloc in slight lead with more than half of votes counted», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.81,
+      "detailed_summary": "Saudi Arabia, Pakistan and Turkey have taken their latest peace push directly to Tehran. Officially, it was to avert a new military escalation, but their diplomatic outreach can also be seen as a warning to Iran Amid rising fear that the US and Israel are preparing to launch new attacks on Iran after the US midterm election on November 3, three major Middle Eastern powers delivered a coordinated diplomatic message directly to Tehran Pakistan's army chief Asim Munir , Saudi Defense Minister Khalid bin Salman and Turkish intelligence chief Ibrahim Kalin all traveled to Iran to meet Iranian President Masoud Pezeshkian and senior officials in Tehran this Monday. «Is Iran headed to war or peace after Mecca alliance meeting?» deserves attention because it may change political, diplomatic or security risks. For «Is Iran headed to war or peace after Mecca alliance meeting?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.44,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "The next phase of military rule in Egypt is here",
-      "summary": "El-Sisi’s announcement that he will not run for a fourth term may signal a new leadership arrangement",
-      "why": "«The next phase of military rule in Egypt is here» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «The next phase of military rule in Egypt is here», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-28T06:36:59+00:00",
-      "age_hours": 2.8,
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "summary": "Neither Gadi Eisenkot (left) or Benjamin Netanyahu (right) are projected to win enough seats for a majority Israel looks to be in political deadlock With 85% of votes counted after Tuesday's election, neither the incumbent Prime Minister Benjamin Netanyahu's coalition, nor the bloc of his key challenger Gadi Eisenkot look set to have a majority In order to form a government, it looks likely one of the leading parties would have to break their campaign promises - meaning the most probable outcome may well be new elections Could Netanyahu persuade Eisenkot to join him in a national unity government? Eisenkot would have to abandon his key platform to do so.",
+      "why": "«How could Israel break election deadlock? Here are four scenarios» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «How could Israel break election deadlock? Here are four scenarios», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-10-28T14:30:31+00:00",
+      "age_hours": 2.5,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/opinions/2026/10/28/the-next-phase-of-military-rule-in-egypt-is-here?traffic_source=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 2,
       "source_count": 1,
       "sources": [
-        "Al Jazeera English"
+        "BBC World"
       ],
-      "primary_source": "Al Jazeera English",
+      "primary_source": "BBC World",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "El-Sisi’s announcement that he will not run for a fourth term may signal a new leadership arrangement. «The next phase of military rule in Egypt is here» is worth following because of its possible economic, institutional or regional effects. For «The next phase of military rule in Egypt is here», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 10.42,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
+      "confirmations": [
+        {
+          "source": "BBC World",
+          "title": "Israel's election result is messy - here's why",
+          "link": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss"
+        }
       ],
-      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
-      "summary": "Cattle are a main source of wealth and pride for many communities in South Sudan At least 72 people have been killed during cattle raids in South Sudan's northern Warrap state, according to the regional government An unspecified number of cattle were taken and homes burnt during what was a \"co-ordinated attack\" on Monday involving two communities in Tonj North county, the state authorities said Such deadly violence is often part of a cycle of revenge attacks as cattle are a main source of wealth and pride for many communities and are also important as young men need them as dowries to get married Clashes over territory are also common across the country as it prepares to hold its first election since its independence in 2011 - delayed because of a brutal civil war The clashes occurred near the border of Warrap and Unity states in the area of Akop Payam, with some members from Lou Ariik community said to have attacked those from Apuk Padoch community William Wol Mayom Bol, Warrap state's information minister, said they followed deadly violence last Friday that claimed eight lives The…",
-      "why": "«Co-ordinated cattle raids kill at least 72 people in South Sudan» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Co-ordinated cattle raids kill at least 72 people in South Sudan», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "BBC Africa",
-      "published": "2026-10-27T12:25:14+00:00",
-      "age_hours": 21.0,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC Africa"
-      ],
-      "primary_source": "BBC Africa",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Cattle are a main source of wealth and pride for many communities in South Sudan At least 72 people have been killed during cattle raids in South Sudan's northern Warrap state, according to the regional government An unspecified number of cattle were taken and homes burnt during what was a \"co-ordinated attack\" on Monday involving two communities in Tonj North county, the state authorities said Such deadly violence is often part of a cycle of revenge attacks as cattle are a main source of wealth and pride for many communities and are also important as young men need them as dowries to get married Clashes over territory are also common across the country as it prepares to hold its first election since its independence in 2011 - delayed because of a brutal civil war The clashes occurred near the border of Warrap and Unity states in the area of Akop Payam, with some members from Lou Ariik community said to have attacked those from Apuk Padoch community William Wol Mayom Bol, Warrap state's information minister, said they followed deadly violence last Friday that claimed eight lives The… «Co-ordinated cattle raids kill at least 72 people in South Sudan» deserves attention because it may change political, diplomatic or security risks. For «Co-ordinated cattle raids kill at least 72 people in South Sudan», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 7.62,
+      "opportunity_flag": true,
+      "detailed_summary": "Neither Gadi Eisenkot (left) or Benjamin Netanyahu (right) are projected to win enough seats for a majority Israel looks to be in political deadlock With 85% of votes counted after Tuesday's election, neither the incumbent Prime Minister Benjamin Netanyahu's coalition, nor the bloc of his key challenger Gadi Eisenkot look set to have a majority In order to form a government, it looks likely one of the leading parties would have to break their campaign promises - meaning the most probable outcome may well be new elections Could Netanyahu persuade Eisenkot to join him in a national unity government? Eisenkot would have to abandon his key platform to do so. «How could Israel break election deadlock? Here are four scenarios» is worth following because of its possible economic, institutional or regional effects. For «How could Israel break election deadlock? Here are four scenarios», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.48,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -415,7 +391,7 @@
   "section_counts": {
     "Moçambique": 4,
     "África": 4,
-    "Mundo": 5
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:23:22.154218+00:00",
+  "updated_at": "2026-10-28T17:02:13.635977+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,75 +8,18 @@
     {
       "section": "Moçambique",
       "tags": [
-        "IA"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala",
-      "summary": "Maputo, 27 de Out (AIM) — O Governo de Moçambique entregou 1.572 computadores portáteis a estudantes do ensino superior na província de Sofala, zona centro, no âmbito do programa “Um Computador, Um Estudante do Ensino Superior” (1CEES), destinado a ampliar o acesso às tecnologias digitais no meio académico. A entrega foi realizada pelo Ministério das Comunicações e Transformação Digital, num acto dirigido pelo Secretário de Estado na província de Sofala, Manuel Rodrigues Alberto. Os equipamentos destinam-se a estudantes de instituições de ensino superior que ministram cursos nas áreas de Ciências, Tecnologias, Engenharia e Matemática (STEM). Segundo as informações apresentadas na ocasião, a iniciativa visa facilitar o acesso dos estudantes às ferramentas digitais e apoiar as actividades de ensino e aprendizagem, investigação científica e desenvolvimento de competências académicas e profissionais.",
-      "why": "«Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "title": "Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027",
+      "summary": "Maputo, 28 Out (AIM) – A Presidente da Assembleia da República (AR), Margarida Talapa, defende que o Plano Económico e Social e Orçamento do Estado (PESOE) para 2027 dê particular atenção à educação, saúde, agricultura, segurança alimentar e protecção social, de modo a responder às necessidades da população. O apelo foi feito hoje, em Maputo, durante a sessão solene de abertura da IV Sessão Ordinária da X Legislatura, na qual Talapa destacou também a criação de emprego, o desenvolvimento de infra-estruturas e a ampliação das oportunidades para jovens e mulheres. A dirigente parlamentar defendeu que a análise do plano e do orçamento considere igualmente a resiliência perante fenómenos climáticos extremos, o apoio às pequenas e médias empresas e a melhoria do ambiente de negócios. O alerta ganha particular relevância face aos riscos associados ao fenómeno El Niño, que, segundo Talapa, se reflectem na irregularidade das chuvas, na seca e na vulnerabilidade das populações.",
+      "why": "«Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-28T07:57:31+00:00",
-      "age_hours": 1.4,
+      "published": "2026-10-28T15:12:06+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/28/governo-entrega-1-572-computadores-portateis-a-estudantes-do-ensino-superior-em-sofala/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 27 de Out (AIM) — O Governo de Moçambique entregou 1.572 computadores portáteis a estudantes do ensino superior na província de Sofala, zona centro, no âmbito do programa “Um Computador, Um Estudante do Ensino Superior” (1CEES), destinado a ampliar o acesso às tecnologias digitais no meio académico. A entrega foi realizada pelo Ministério das Comunicações e Transformação Digital, num acto dirigido pelo Secretário de Estado na província de Sofala, Manuel Rodrigues Alberto. Os equipamentos destinam-se a estudantes de instituições de ensino superior que ministram cursos nas áreas de Ciências, Tecnologias, Engenharia e Matemática (STEM). Segundo as informações apresentadas na ocasião, a iniciativa visa facilitar o acesso dos estudantes às ferramentas digitais e apoiar as actividades de ensino e aprendizagem, investigação científica e desenvolvimento de competências académicas e profissionais. «Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 13.71,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial",
-      "summary": "Mozambique LNG convida entidades interessadas a manifestarem interesse na prestação de serviços de desenvolvimento e gestão de uma plataforma de e-learning",
-      "why": "«Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-28T06:05:37+00:00",
-      "age_hours": 3.3,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/28/concursos-publicos/desenvolvimento-e-gestao-de-plataforma-de-e-learning-e-conteudos-de-capacitacao-empresarial/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Mozambique LNG convida entidades interessadas a manifestarem interesse na prestação de serviços de desenvolvimento e gestão de uma plataforma de e-learning. «Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.31,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo com 205 milhões de dólares na formação de funcionários públicos",
-      "summary": "MAPUTO, 27 de Outubro (AIM) — O Programa de Formação dos Funcionários e Agentes do Estado, denominado “Moz Próspera 2026-2031”, está orçado em cerca de 205 milhões de dólares norte-americanos, provenientes do Banco Mundial, anunciou terça-feira, em Maputo, o ministro da Administração Estatal e Função Pública, Inocêncio Impissa. O programa envolve os ministérios da Administração Estatal e Função Pública, das Finanças, da Saúde e da Educação e Cultura, e tem como objectivo reforçar as competências dos funcionários e agentes do Estado para o desempenho das suas funções. Falando no final da 31.ª sessão ordinária do Conselho de Ministros, da qual é porta-voz, Impissa explicou que a iniciativa resulta de um processo de estudos e análises sobre a capacidade de prestação de serviços na Administração Pública, desenvolvido em colaboração com o Banco Mundial. O governante referiu que muitos funcionários ingressaram na Função Pública sem formação inicial específica e sem acesso regular à formação contínua, situação que o programa pretende abordar através da capacitação dos recursos humanos.",
-      "why": "«Governo com 205 milhões de dólares na formação de funcionários públicos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo com 205 milhões de dólares na formação de funcionários públicos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-28T08:30:28+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/28/governo-com-205-milhoes-de-dolares-na-formacao-de-funcionarios-publicos/",
+      "link": "https://aimnews.org/2026/10/28/talapa-defende-prioridade-a-educacao-saude-e-emprego-no-orcamento-de-2027/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -86,26 +29,26 @@
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "MAPUTO, 27 de Outubro (AIM) — O Programa de Formação dos Funcionários e Agentes do Estado, denominado “Moz Próspera 2026-2031”, está orçado em cerca de 205 milhões de dólares norte-americanos, provenientes do Banco Mundial, anunciou terça-feira, em Maputo, o ministro da Administração Estatal e Função Pública, Inocêncio Impissa. O programa envolve os ministérios da Administração Estatal e Função Pública, das Finanças, da Saúde e da Educação e Cultura, e tem como objectivo reforçar as competências dos funcionários e agentes do Estado para o desempenho das suas funções. Falando no final da 31.ª sessão ordinária do Conselho de Ministros, da qual é porta-voz, Impissa explicou que a iniciativa resulta de um processo de estudos e análises sobre a capacidade de prestação de serviços na Administração Pública, desenvolvido em colaboração com o Banco Mundial. O governante referiu que muitos funcionários ingressaram na Função Pública sem formação inicial específica e sem acesso regular à formação contínua, situação que o programa pretende abordar através da capacitação dos recursos humanos. «Governo com 205 milhões de dólares na formação de funcionários públicos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo com 205 milhões de dólares na formação de funcionários públicos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.81,
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 28 Out (AIM) – A Presidente da Assembleia da República (AR), Margarida Talapa, defende que o Plano Económico e Social e Orçamento do Estado (PESOE) para 2027 dê particular atenção à educação, saúde, agricultura, segurança alimentar e protecção social, de modo a responder às necessidades da população. O apelo foi feito hoje, em Maputo, durante a sessão solene de abertura da IV Sessão Ordinária da X Legislatura, na qual Talapa destacou também a criação de emprego, o desenvolvimento de infra-estruturas e a ampliação das oportunidades para jovens e mulheres. A dirigente parlamentar defendeu que a análise do plano e do orçamento considere igualmente a resiliência perante fenómenos climáticos extremos, o apoio às pequenas e médias empresas e a melhoria do ambiente de negócios. O alerta ganha particular relevância face aos riscos associados ao fenómeno El Niño, que, segundo Talapa, se reflectem na irregularidade das chuvas, na seca e na vulnerabilidade das populações. «Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 14.62,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado",
-      "summary": "Uma nova viatura passa a reforçar a mobilidade das equipas técnicas de fiscalização e melhorar a resposta nas actividades desenvolvidas pelo sector de Obras Públicas. A viatura da marca Isuzu foi entregue à Direcção Provincial das Obras Públicas de Cabo Delgado conta, pelo governador, Valige Tauabo. Tauabo destacou os esforços do Governo de dotar os diferentes sectores de meios circulantes capazes de garantir maior eficiência na execução das suas actividades. Na ocasião, o governante apelou ao uso responsável do.meio, assegurando a sua conservação e durabilidade. Por sua vez, o director provincial das Obras Públicas, Moisés Zacarias, comprometeu-se a garantir a boa utilização da viatura, considerando que vai facilitar as deslocações das equipas e contribuir para uma resposta mais célere às necessidades do sector. Leia mais… O conteúdo Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado aparece primeiro em Jornal Notícias",
-      "why": "«Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "title": "Podemos quer Parlamento a produzir compromissos concretos",
+      "summary": "O Parlamento deve produzir compromissos concretos que acompanham e desenvolvimento dos sectores da Saúde, Educação, construção e reabilitação da Estrada Nacional nº Um (N1), Instituto Nacional de Segurança Social, Linhas Aéreas de Moçambique (LAM), bem como garantir a paz e segurança em Cabo Delgado. Esta posição foi avançada hoje pelo chefe da bancada do Podemos, Bastião Mussanhane, falando na abertura da IV sessão ordinária da Assembleia da República, que hoje arrancou em Maputo. Explicou que o verdadeiro valor de uma fiscalização parlamentar não está apenas na gravidade das perguntas formuladas, mas na capacidade de obter respostas, corrigir problemas e melhorar a vida dos cidadãos. A oposição tem o direito e o dever de questionar o Governo e este tem a responsabilidade de prestar contas. E ambos têm uma obrigação superior: servir a República.",
+      "why": "«Podemos quer Parlamento a produzir compromissos concretos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Podemos quer Parlamento a produzir compromissos concretos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-28T08:21:54+00:00",
-      "age_hours": 1.0,
+      "published": "2026-10-28T14:41:16+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/viatura-flexibiliza-fiscalizacao-de-obras-publicas-em-cabo-delgado/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/podemos-quer-parlamento-a-produzir-compromissos-concretos/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -116,8 +59,95 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Uma nova viatura passa a reforçar a mobilidade das equipas técnicas de fiscalização e melhorar a resposta nas actividades desenvolvidas pelo sector de Obras Públicas. A viatura da marca Isuzu foi entregue à Direcção Provincial das Obras Públicas de Cabo Delgado conta, pelo governador, Valige Tauabo. Tauabo destacou os esforços do Governo de dotar os diferentes sectores de meios circulantes capazes de garantir maior eficiência na execução das suas actividades. Na ocasião, o governante apelou ao uso responsável do.meio, assegurando a sua conservação e durabilidade. Por sua vez, o director provincial das Obras Públicas, Moisés Zacarias, comprometeu-se a garantir a boa utilização da viatura, considerando que vai facilitar as deslocações das equipas e contribuir para uma resposta mais célere às necessidades do sector. Leia mais… O conteúdo Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado aparece primeiro em Jornal Notícias. «Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.79,
+      "detailed_summary": "O Parlamento deve produzir compromissos concretos que acompanham e desenvolvimento dos sectores da Saúde, Educação, construção e reabilitação da Estrada Nacional nº Um (N1), Instituto Nacional de Segurança Social, Linhas Aéreas de Moçambique (LAM), bem como garantir a paz e segurança em Cabo Delgado. Esta posição foi avançada hoje pelo chefe da bancada do Podemos, Bastião Mussanhane, falando na abertura da IV sessão ordinária da Assembleia da República, que hoje arrancou em Maputo. Explicou que o verdadeiro valor de uma fiscalização parlamentar não está apenas na gravidade das perguntas formuladas, mas na capacidade de obter respostas, corrigir problemas e melhorar a vida dos cidadãos. A oposição tem o direito e o dever de questionar o Governo e este tem a responsabilidade de prestar contas. E ambos têm uma obrigação superior: servir a República. «Podemos quer Parlamento a produzir compromissos concretos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Podemos quer Parlamento a produzir compromissos concretos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.52,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula",
+      "summary": "Maputo, 28 de Out (AIM) – O Governo moçambicano está a expandir o acesso à água potável para mais de 297 mil pessoas em quatro distritos da província de Nampula, através da construção, reabilitação e ampliação de sistemas de abastecimento de água, no âmbito do Projecto Água Segura para Vilas e Zonas Rurais. As obras decorrem nos distritos de Malema, Eráti, Meconta e Mogovolas, no quadro do ProÁguaS 2026–2036, uma iniciativa estratégica do Governo lançada pelo Presidente da República, Daniel Francisco Chapo, com o objectivo de reforçar a segurança hídrica e ampliar o acesso à água potável e ao saneamento. O progresso físico global das obras na província situa-se em 61,4 por cento. Segundo o administrador do distrito de Eráti, Januário André, a construção do novo sistema de abastecimento de água na vila de Namapa “vai contribuir em grande medida na melhoria da saúde das pessoas, uma vez que temos tido problemas com doenças de origem hídrica”.",
+      "why": "«Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-28T13:54:33+00:00",
+      "age_hours": 3.1,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/28/governo-expande-abastecimento-de-agua-para-mais-de-297-mil-pessoas-em-nampula/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 28 de Out (AIM) – O Governo moçambicano está a expandir o acesso à água potável para mais de 297 mil pessoas em quatro distritos da província de Nampula, através da construção, reabilitação e ampliação de sistemas de abastecimento de água, no âmbito do Projecto Água Segura para Vilas e Zonas Rurais. As obras decorrem nos distritos de Malema, Eráti, Meconta e Mogovolas, no quadro do ProÁguaS 2026–2036, uma iniciativa estratégica do Governo lançada pelo Presidente da República, Daniel Francisco Chapo, com o objectivo de reforçar a segurança hídrica e ampliar o acesso à água potável e ao saneamento. O progresso físico global das obras na província situa-se em 61,4 por cento. Segundo o administrador do distrito de Eráti, Januário André, a construção do novo sistema de abastecimento de água na vila de Namapa “vai contribuir em grande medida na melhoria da saúde das pessoas, uma vez que temos tido problemas com doenças de origem hídrica”. «Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.35,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"",
+      "summary": "O Governo angolano anunciou hoje que funcionários reformados e falecidos ainda constam da base dados da função pública como estando no ativo, admitindo existirem mais de 31 mil funcionários públicos \"fictícios ou fantasmas\" A informação foi transmitida hoje pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal em causa custa aos cofres do Estado recursos financeiros avultados, que poderiam ser poupados \"se o controlo fosse mais efetivo\" Em declarações na abertura da cerimónia de lançamento oficial do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH), a governante deu nota que o processo de inserção de funcionários nesta plataforma revelou \"realidades preocupantes\" Mais de 31.000 funcionários públicos constam da base de dados como estado no ativo, mas, explicou, estes não puderem ser atualizados, por razões que, \"em muitos casos, suscitam profundas suspeições\" Segundo Teresa Rodrigues Dias, muitos funcionários estão com paradeiro desconhecido, falta de documentos de identificação…",
+      "why": "«Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "RTP Notícias",
+      "published": "2026-10-28T12:53:15+00:00",
+      "age_hours": 4.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/angola-admite-ter-mais-de-31-mil-funcionarios-publicos-ficticios-ou-fantasmas_n1775009",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo angolano anunciou hoje que funcionários reformados e falecidos ainda constam da base dados da função pública como estando no ativo, admitindo existirem mais de 31 mil funcionários públicos \"fictícios ou fantasmas\" A informação foi transmitida hoje pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal em causa custa aos cofres do Estado recursos financeiros avultados, que poderiam ser poupados \"se o controlo fosse mais efetivo\" Em declarações na abertura da cerimónia de lançamento oficial do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH), a governante deu nota que o processo de inserção de funcionários nesta plataforma revelou \"realidades preocupantes\" Mais de 31.000 funcionários públicos constam da base de dados como estado no ativo, mas, explicou, estes não puderem ser atualizados, por razões que, \"em muitos casos, suscitam profundas suspeições\" Segundo Teresa Rodrigues Dias, muitos funcionários estão com paradeiro desconhecido, falta de documentos de identificação… «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 13.15,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países",
+      "summary": "O Presidente russo, Vladimir Putin, anunciou o reforço da cooperação bilateral com Moçambique em sectores estratégicos, acrescentando que o comércio entre as duas nações quase duplicou entre Janeiro e Agosto […]",
+      "why": "«Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-10-28T13:20:24+00:00",
+      "age_hours": 3.7,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/28/negocios/visita-a-russia-putin-e-chapo-acordam-reforco-da-cooperacao-economica-bilateral-entre-ambos-os-paises/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente russo, Vladimir Putin, anunciou o reforço da cooperação bilateral com Moçambique em sectores estratégicos, acrescentando que o comércio entre as duas nações quase duplicou entre Janeiro e Agosto […]. «Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.23,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -126,15 +156,57 @@
       "tags": [
         "Economia"
       ],
-      "title": "Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa",
-      "summary": "O secretário da Defesa norte-americano defendeu hoje nas Filipinas, onde se reuniu com os homólogos do Japão, da Austrália e da Coreia do Sul, o \"reforço da dissuasão\" no Pacífico e \"maior investimento na defesa\" pelos aliados Os encontros de Pete Hegseth, realizados separadamente, decorreram à margem da 13.ª Reunião de Ministros da Defesa da ASEAN Plus (ADMM-Plus), que se realiza na cidade filipina de Cebu (centro) até quinta-feira e reúne os países deste bloco e os oito parceiros, entre os quais Estados Unidos, China e Rússia A Associação de Nações do Sudeste Asiático (ASEAN) é uma organização geopolítica e económica que reúne 11 Estados-membros da região do Sudeste Asiático A primeira reunião de Hegseth foi com o ministro japonês, Shinjiro Koizumi, a quem sublinhou a importância de um maior investimento para uma \"defesa eficaz\" na Primeira Cadeia de Ilhas, área do Pacífico formada por territórios como Japão, Taiwan e Filipinas, que Washington considera fundamental para conter a projeção militar da China Ambos analisaram formas de reforçar a presença e os treinos no Japão…",
-      "why": "«Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Três cenários em Israel depois das eleições legislativas",
+      "summary": "O bloco de Eisenkot pode vir a formar governo se juntar à coligação os partidos árabes. Em cima da mesa estão três cenários possíveis",
+      "why": "«Três cenários em Israel depois das eleições legislativas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Três cenários em Israel depois das eleições legislativas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-28T07:38:24+00:00",
-      "age_hours": 1.7,
+      "published": "2026-10-28T14:12:47+00:00",
+      "age_hours": 2.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/hegseth-apela-a-japao-australia-e-coreia-do-sul-para-aumentarem-investimento-em-defesa_n1774905",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/tres-cenarios-em-israel-depois-das-eleicoes-legislativas_v1775061",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 4,
+      "source_count": 2,
+      "sources": [
+        "RTP Notícias",
+        "Euronews Português"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Euronews Português",
+          "title": "Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin",
+          "link": "https://pt.euronews.com/2026/10/28/israel-em-impasse-apos-eleicoes-lideres-nordicos-fazem-rara-chamada-a-putin"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Eleições em Israel. Participação de 77,7% foi a mais elevada em 25 anos",
+          "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eleicoes-em-israel-participacao-de-777-foi-a-mais-elevada-em-25-anos_n1774860"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O bloco de Eisenkot pode vir a formar governo se juntar à coligação os partidos árabes. Em cima da mesa estão três cenários possíveis. «Três cenários em Israel depois das eleições legislativas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Três cenários em Israel depois das eleições legislativas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 11.92,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky",
+      "summary": "Pelo segundo dia consecutivo, no sul da Ucrânia, está em vigor uma trégua raríssima em quase cinco anos de guerra, na cidade de Oleshky. Uma pausa cirúrgica porque a guerra continua. Durante a madrugada, a Ucrânia atacou uma fábrica de produtos químicos, a cerca de 200 quilómetros a sul de Moscovo. Do lado russo, um submarino nuclear lançou um míssil balístico intercontinental que atingiu o alvo a 600 quilómetros da Finlândia e Noruega. Os líderes destes dois países conversaram com Vladimir Putin, por telefone, na terça-feira",
+      "why": "«Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-28T12:44:51+00:00",
+      "age_hours": 4.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/uma-conversa-por-telefone-explosoes-na-russia-e-a-tregua-que-perdura-em-oleshky_n1774984",
       "original_source": true,
       "event_id": "evt-mundo-003",
       "cluster_size": 1,
@@ -144,29 +216,28 @@
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O secretário da Defesa norte-americano defendeu hoje nas Filipinas, onde se reuniu com os homólogos do Japão, da Austrália e da Coreia do Sul, o \"reforço da dissuasão\" no Pacífico e \"maior investimento na defesa\" pelos aliados Os encontros de Pete Hegseth, realizados separadamente, decorreram à margem da 13.ª Reunião de Ministros da Defesa da ASEAN Plus (ADMM-Plus), que se realiza na cidade filipina de Cebu (centro) até quinta-feira e reúne os países deste bloco e os oito parceiros, entre os quais Estados Unidos, China e Rússia A Associação de Nações do Sudeste Asiático (ASEAN) é uma organização geopolítica e económica que reúne 11 Estados-membros da região do Sudeste Asiático A primeira reunião de Hegseth foi com o ministro japonês, Shinjiro Koizumi, a quem sublinhou a importância de um maior investimento para uma \"defesa eficaz\" na Primeira Cadeia de Ilhas, área do Pacífico formada por territórios como Japão, Taiwan e Filipinas, que Washington considera fundamental para conter a projeção militar da China Ambos analisaram formas de reforçar a presença e os treinos no Japão… «Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.65,
+      "opportunity_flag": false,
+      "detailed_summary": "Pelo segundo dia consecutivo, no sul da Ucrânia, está em vigor uma trégua raríssima em quase cinco anos de guerra, na cidade de Oleshky. Uma pausa cirúrgica porque a guerra continua. Durante a madrugada, a Ucrânia atacou uma fábrica de produtos químicos, a cerca de 200 quilómetros a sul de Moscovo. Do lado russo, um submarino nuclear lançou um míssil balístico intercontinental que atingiu o alvo a 600 quilómetros da Finlândia e Noruega. Os líderes destes dois países conversaram com Vladimir Putin, por telefone, na terça-feira. «Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.1,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "IA",
-        "Economia"
+        "Energia"
       ],
-      "title": "PR participa no Fórum Rússia – África",
-      "summary": "O Presidente da República, Daniel Chapo, participa esta tarde, em Moscovo, na Sessão de Abertura da Plenária do Fórum de Económico e Humanitário Rússia – África. O evento tem como tema “Desenvolver conjuntamente a cooperação mutuamente benéfica e o potencial de cada país africano”, reunindo representantes de cerca de 48 países africanos, incluindo 22 chefes de Estado, para discutir o aprofundamento da cooperação económica e humanitária entre a Rússia e África. O Presidente russo, Vladimir Putin e o Chefe do Estado do Burundi e Presidente rotativo da União Africana, Évariste Ndayishimiye, irão discursar na sessão plenária. A agenda está organizada em quatro grandes áreas: “Soberania como base do desenvolvimento sustentável”, “Economia de uma ordem mundial soberana”, “Cooperação sociocultural e capital humano” e “Tecnologia e inovação para melhorar a qualidade de vida”. Prevê-se a aprovação da declaração final da cimeira, do plano de acção 2027-2029 e da declaração de cooperação em inteligência artificial, além da assinatura de um conjunto de acordos de cooperação.",
-      "why": "«PR participa no Fórum Rússia – África» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «PR participa no Fórum Rússia – África», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "title": "Encontrado um dos corpos das crianças afogadas em Inhambane",
+      "summary": "Foi encontrado hoje, sem vida, um dos corpos das duas crianças que se afogaram ontem na baía de Inhambane, contudo, as buscas continuam com vista a localizar o outro menor. Refira-se que as duas vítimas faziam parte de um grupo de cinco crianças que se encontravam a brincar junto ao mar. Segundo apuramos, os petizes estavam a atirar mangas para as águas da praia quando, numa das ocasiões em que tentavam apanhá-las, duas delas caíram em águas profundas e não conseguiram sair mais. As outras três conseguiram escapar. As vítimas, com idades compreendidas entre os 14 e os 17 anos, terão-se afogado quando regressavam de uma aula de Educação Física, na Escola 3 de Fevereiro na cidade capital. Leia mais… O conteúdo Encontrado um dos corpos das crianças afogadas em Inhambane aparece primeiro em Jornal Notícias",
+      "why": "«Encontrado um dos corpos das crianças afogadas em Inhambane» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Encontrado um dos corpos das crianças afogadas em Inhambane», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-28T07:01:58+00:00",
-      "age_hours": 2.4,
+      "published": "2026-10-28T14:08:32+00:00",
+      "age_hours": 2.9,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/pr-participa-no-forum-russia-africa/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/encontrado-um-dos-corpos-das-criancas-afogadas-em-inhambane/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -175,108 +246,45 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, participa esta tarde, em Moscovo, na Sessão de Abertura da Plenária do Fórum de Económico e Humanitário Rússia – África. O evento tem como tema “Desenvolver conjuntamente a cooperação mutuamente benéfica e o potencial de cada país africano”, reunindo representantes de cerca de 48 países africanos, incluindo 22 chefes de Estado, para discutir o aprofundamento da cooperação económica e humanitária entre a Rússia e África. O Presidente russo, Vladimir Putin e o Chefe do Estado do Burundi e Presidente rotativo da União Africana, Évariste Ndayishimiye, irão discursar na sessão plenária. A agenda está organizada em quatro grandes áreas: “Soberania como base do desenvolvimento sustentável”, “Economia de uma ordem mundial soberana”, “Cooperação sociocultural e capital humano” e “Tecnologia e inovação para melhorar a qualidade de vida”. Prevê-se a aprovação da declaração final da cimeira, do plano de acção 2027-2029 e da declaração de cooperação em inteligência artificial, além da assinatura de um conjunto de acordos de cooperação. «PR participa no Fórum Rússia – África» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «PR participa no Fórum Rússia – África», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 11.5,
+      "detailed_summary": "Foi encontrado hoje, sem vida, um dos corpos das duas crianças que se afogaram ontem na baía de Inhambane, contudo, as buscas continuam com vista a localizar o outro menor. Refira-se que as duas vítimas faziam parte de um grupo de cinco crianças que se encontravam a brincar junto ao mar. Segundo apuramos, os petizes estavam a atirar mangas para as águas da praia quando, numa das ocasiões em que tentavam apanhá-las, duas delas caíram em águas profundas e não conseguiram sair mais. As outras três conseguiram escapar. As vítimas, com idades compreendidas entre os 14 e os 17 anos, terão-se afogado quando regressavam de uma aula de Educação Física, na Escola 3 de Fevereiro na cidade capital. Leia mais… O conteúdo Encontrado um dos corpos das crianças afogadas em Inhambane aparece primeiro em Jornal Notícias. «Encontrado um dos corpos das crianças afogadas em Inhambane» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Encontrado um dos corpos das crianças afogadas em Inhambane», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 10.4,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia",
+        "Segurança"
       ],
-      "title": "Trump afirma que o seu apoio \"ajudou muito\" Netanyahu",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou que o seu apoio ao primeiro-ministro israelita, Benjamin Netanyahu, \"ajudou-o muito\" nas eleições legislativas realizadas em Israel, cuja contagem ainda está a decorrer",
-      "why": "«Trump afirma que o seu apoio \"ajudou muito\" Netanyahu» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Trump afirma que o seu apoio \"ajudou muito\" Netanyahu», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-28T07:41:43+00:00",
-      "age_hours": 1.7,
+      "title": "Putin reúne-se em Moscovo com líderes do Irão e do Qatar",
+      "summary": "Moscovo acolheu, na terça-feira, conversações entre o presidente russo, Vladimir Putin, o presidente do Irão, Masud Pezeshkian, e o emir do Qatar, xeique Tamim bin Hamad Al‑Thani, bem como uma reunião bilateral entre os líderes iraniano e catariano, num contexto de instabilidade persistente no Médio Oriente e de tensão no mercado energético global.Os combates no Médio Oriente, resultantes da guerra dos Estados Unidos e de Israel contra o Irão, provocaram perturbações no abastecimento mundial de energia devido ao bloqueio do estreito de Ormuz e a ataques contra infraestruturas, incluindo no Qatar.Irão: região pode resolver crise sem ajuda dos EUA“Somos vizinhos, temos muitos interesses comuns e trabalhamos para os concretizar. Esperamos que a situação evolua de forma positiva”, afirmou Putin nas conversações com Pezeshkian, sublinhando a “estreita cooperação” entre os dois países.",
+      "why": "«Putin reúne-se em Moscovo com líderes do Irão e do Qatar» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Putin reúne-se em Moscovo com líderes do Irão e do Qatar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-28T13:11:42+00:00",
+      "age_hours": 3.8,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-afirma-que-o-seu-apoio-ajudou-muito-netanyahu_n1774906",
+      "link": "https://pt.euronews.com/2026/10/28/putin-reune-se-em-moscovo-com-lideres-do-irao-e-do-qatar",
       "original_source": true,
       "event_id": "evt-mundo-002",
-      "cluster_size": 1,
+      "cluster_size": 2,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O presidente dos Estados Unidos, Donald Trump, afirmou que o seu apoio ao primeiro-ministro israelita, Benjamin Netanyahu, \"ajudou-o muito\" nas eleições legislativas realizadas em Israel, cuja contagem ainda está a decorrer. «Trump afirma que o seu apoio \"ajudou muito\" Netanyahu» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Trump afirma que o seu apoio \"ajudou muito\" Netanyahu», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.65,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Banco Mundial tem 750 milhões de dólares em projectos nos PALOP",
-      "summary": "O director regional da IFC para a África Ocidental e Sahel disse que a organização aposta no agronegócio, turismo e logística como sectores capazes de impulsionar emprego e crescimento económico na África lusófona. “O agronegócio e o turismo são sectores focais no BM [Banco Mundial] porque têm capacidade de criar empregos para muitas pessoas”, com […]",
-      "why": "«Banco Mundial tem 750 milhões de dólares em projectos nos PALOP» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
-      "impact": "No caso de «Banco Mundial tem 750 milhões de dólares em projectos nos PALOP», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "O País",
-      "published": "2026-10-28T06:50:11+00:00",
-      "age_hours": 2.6,
-      "within_24h": true,
-      "link": "https://opais.co.mz/banco-mundial-tem-750-milhoes-de-dolares-em-projectos-nos-palop/",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O director regional da IFC para a África Ocidental e Sahel disse que a organização aposta no agronegócio, turismo e logística como sectores capazes de impulsionar emprego e crescimento económico na África lusófona. “O agronegócio e o turismo são sectores focais no BM [Banco Mundial] porque têm capacidade de criar empregos para muitas pessoas”, com […]. «Banco Mundial tem 750 milhões de dólares em projectos nos PALOP» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Banco Mundial tem 750 milhões de dólares em projectos nos PALOP», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.46,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin",
-      "summary": "Programa de hoje:Eylon Levy, antigo porta-voz do governo israelita, analisa as eleições em Israel e o que poderá seguir-se, se este é o princípio do fim da era de Benjamin Netanyahu e o papel dos partidos liderados por árabes na escolha de quem será primeiro-ministro.Keith Brannum, conselheiro sénior para política norte-americana na Greenlane e estratega democrata, olha para as próximas intercalares nos Estados Unidos e para saber se os democratas têm realmente a vitória assegurada.Sasha Vakulina relata a rara chamada que o finlandês Alexander Stubb e o norueguês Jonas Gahr Støre fizeram a Vladimir Putin e avalia se aproxima de algum modo eventuais negociações de paz.Marko Prelec, analista sénior para os Balcãs Ocidentais no International Crisis Group, discute se a Sérvia está a virar a página depois da surpresa eleitoral da oposição liderada por estudantes e quem poderá tornar-se primeiro-ministro.Ken Early, jornalista e comentador desportivo irlandês, avalia os danos para a marca de Kylian Mbappé depois de uma piada sobre Mao Zedong lhe ter custado contratos de patrocínio na…",
-      "why": "«Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-28T07:03:12+00:00",
-      "age_hours": 2.3,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/28/israel-em-impasse-apos-eleicoes-lideres-nordicos-fazem-rara-chamada-a-putin",
-      "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 3,
-      "source_count": 2,
-      "sources": [
-        "Euronews Português",
-        "RTP Notícias"
+        "Euronews Português"
       ],
       "primary_source": "Euronews Português",
       "status": "today",
       "confirmations": [
         {
-          "source": "RTP Notícias",
-          "title": "Eleições em Israel. Participação de 77,7% foi a mais elevada em 25 anos",
-          "link": "https://www.rtp.pt/noticias/mundo/eleicoes-em-israel-participacao-de-777-foi-a-mais-elevada-em-25-anos_n1774860"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos",
-          "link": "https://www.rtp.pt/noticias/mundo/legislativas-em-israel-registam-maior-participacao-eleitoral-dos-ultimos-50-anos_v1774848"
+          "source": "Euronews Português",
+          "title": "Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz",
+          "link": "https://pt.euronews.com/2026/10/27/qatar-apela-ao-irao-para-por-fim-as-ameacas-e-reabrir-estreito-de-ormuz"
         }
       ],
-      "opportunity_flag": true,
-      "detailed_summary": "Programa de hoje:Eylon Levy, antigo porta-voz do governo israelita, analisa as eleições em Israel e o que poderá seguir-se, se este é o princípio do fim da era de Benjamin Netanyahu e o papel dos partidos liderados por árabes na escolha de quem será primeiro-ministro.Keith Brannum, conselheiro sénior para política norte-americana na Greenlane e estratega democrata, olha para as próximas intercalares nos Estados Unidos e para saber se os democratas têm realmente a vitória assegurada.Sasha Vakulina relata a rara chamada que o finlandês Alexander Stubb e o norueguês Jonas Gahr Støre fizeram a Vladimir Putin e avalia se aproxima de algum modo eventuais negociações de paz.Marko Prelec, analista sénior para os Balcãs Ocidentais no International Crisis Group, discute se a Sérvia está a virar a página depois da surpresa eleitoral da oposição liderada por estudantes e quem poderá tornar-se primeiro-ministro.Ken Early, jornalista e comentador desportivo irlandês, avalia os danos para a marca de Kylian Mbappé depois de uma piada sobre Mao Zedong lhe ter custado contratos de patrocínio na… «Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 9.02,
+      "opportunity_flag": false,
+      "detailed_summary": "Moscovo acolheu, na terça-feira, conversações entre o presidente russo, Vladimir Putin, o presidente do Irão, Masud Pezeshkian, e o emir do Qatar, xeique Tamim bin Hamad Al‑Thani, bem como uma reunião bilateral entre os líderes iraniano e catariano, num contexto de instabilidade persistente no Médio Oriente e de tensão no mercado energético global.Os combates no Médio Oriente, resultantes da guerra dos Estados Unidos e de Israel contra o Irão, provocaram perturbações no abastecimento mundial de energia devido ao bloqueio do estreito de Ormuz e a ataques contra infraestruturas, incluindo no Qatar.Irão: região pode resolver crise sem ajuda dos EUA“Somos vizinhos, temos muitos interesses comuns e trabalhamos para os concretizar. Esperamos que a situação evolua de forma positiva”, afirmou Putin nas conversações com Pezeshkian, sublinhando a “estreita cooperação” entre os dois países. «Putin reúne-se em Moscovo com líderes do Irão e do Qatar» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Putin reúne-se em Moscovo com líderes do Irão e do Qatar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 10.21,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -291,11 +299,11 @@
       "impact": "No caso de «Brasil: Lula assinala 81.º aniversário após vitória na reeleição», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-28T08:31:22+00:00",
-      "age_hours": 0.9,
+      "age_hours": 8.5,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/10/28/brasil-lula-assinala-81-aniversario-apos-vitoria-na-reeleicao",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -305,7 +313,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Lula da Silva celebrou esta terça-feira, 27 de outubro, o 81.º aniversário com dezenas de apoiantes junto ao Palácio da Alvorada, em Brasília, dois dias após vencer uma eleição renhida. «Brasil: Lula assinala 81.º aniversário após vitória na reeleição» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasil: Lula assinala 81.º aniversário após vitória na reeleição», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.81,
+      "editorial_score": 6.23,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
