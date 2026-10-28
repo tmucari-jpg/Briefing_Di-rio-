@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T21:08:44.176842+00:00",
+  "updated_at": "2026-10-28T09:23:22.154218+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,113 +8,17 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Moçambique defende cooperação internacional para reforçar segurança energética",
-      "summary": "O Presidente da República, Daniel Chapo, defendeu ontem, em Moscovo, o reforço da cooperação internacional no sector do gás natural, considerando que a segurança energética deve assentar em mercados estáveis, fornecedores fiáveis e relações de confiança entre produtores e consumidores. O Chefe do Estado falava na 8.ª Cimeira de Chefes de Estado e de Governo […]",
-      "why": "«Moçambique defende cooperação internacional para reforçar segurança energética» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Moçambique defende cooperação internacional para reforçar segurança energética», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-27T18:02:49+00:00",
-      "age_hours": 3.1,
-      "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-defende-cooperacao-internacional-para-reforcar-seguranca-energetica/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "O País",
-        "AIM Notícias"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "Chapo anuncia projectos de expansão das exportações do gás moçambicano",
-          "link": "https://aimnews.org/2026/10/27/chapo-anuncia-projectos-de-expansao-das-exportacoes-do-gas-mocambicano/"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, defendeu ontem, em Moscovo, o reforço da cooperação internacional no sector do gás natural, considerando que a segurança energética deve assentar em mercados estáveis, fornecedores fiáveis e relações de confiança entre produtores e consumidores. O Chefe do Estado falava na 8.ª Cimeira de Chefes de Estado e de Governo […]. «Moçambique defende cooperação internacional para reforçar segurança energética» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Moçambique defende cooperação internacional para reforçar segurança energética», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 15.85,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Macuácua quer universidades preparadas para nova realidade do emprego",
-      "summary": "Maputo, 27 Out (AIM) – O Ministro da Educação e Cultura, Édson Macuácua, considera que as mudanças no papel do Estado no mercado de trabalho obrigam as universidades a rever os seus modelos de formação, preparando os graduados para uma realidade em que a conclusão do curso já não garante colocação profissional. “O Estado já não faz aquelas colocações após a formação”, disse hoje, em Maputo, durante o diálogo “Dado sem Filtros — Conversas Reais Hoje, Raízes Fortes Amanhã”. Macuácua explicou que, nos primeiros anos após a independência nacional, o Estado assumia um papel determinante na formação e colocação dos quadros, numa altura em que o país precisava de técnicos para assegurar o funcionamento dos diferentes sectores. Segundo o governante, as transformações políticas e económicas registadas posteriormente alteraram esse cenário, passando o Estado a desempenhar sobretudo uma função reguladora, sem a responsabilidade de garantir emprego aos graduados.",
-      "why": "«Macuácua quer universidades preparadas para nova realidade do emprego» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Macuácua quer universidades preparadas para nova realidade do emprego», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-10-27T17:25:15+00:00",
-      "age_hours": 3.7,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/27/macuacua-quer-universidades-preparadas-para-nova-realidade-do-emprego/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 27 Out (AIM) – O Ministro da Educação e Cultura, Édson Macuácua, considera que as mudanças no papel do Estado no mercado de trabalho obrigam as universidades a rever os seus modelos de formação, preparando os graduados para uma realidade em que a conclusão do curso já não garante colocação profissional. “O Estado já não faz aquelas colocações após a formação”, disse hoje, em Maputo, durante o diálogo “Dado sem Filtros — Conversas Reais Hoje, Raízes Fortes Amanhã”. Macuácua explicou que, nos primeiros anos após a independência nacional, o Estado assumia um papel determinante na formação e colocação dos quadros, numa altura em que o país precisava de técnicos para assegurar o funcionamento dos diferentes sectores. Segundo o governante, as transformações políticas e económicas registadas posteriormente alteraram esse cenário, passando o Estado a desempenhar sobretudo uma função reguladora, sem a responsabilidade de garantir emprego aos graduados. «Macuácua quer universidades preparadas para nova realidade do emprego» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Macuácua quer universidades preparadas para nova realidade do emprego», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.23,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
         "IA"
       ],
-      "title": "Ciência ganha novas ferramentas em Cabo Delgado",
-      "summary": "Onze instituições de ensino básico, secundário, técnico profissional e formação de professores dos distritos de Pemba e Montepuez, em Cabo Delgado, receberam hoje kits de Ciência, Tecnologia, Engenharia e Matemática (STEM), incluindo computadores, materiais de experimentação científica e equipamentos de robótica e inteligência artificial, uma iniciativa destinada a reforçar a formação de professores e modernizar o processo de ensino e aprendizagem. A entrega enquadra-se no projecto Mouse Kids, da Universidade Rovuma (UniRovuma), coordenado pelo Ministério da Educação e Cultura e pelo Ministério das Comunicações e Transformação Digital, que visa melhorar as competências pedagógicas, científicas e tecnológicas dos formadores e professores nos diferentes subsistemas de ensino. Na ocasião, o reitor da UniRovuma, Mário Brito dos Santos, destacou a importância da educação científica e tecnológica na preparação de jovens qualificados para responder às necessidades do mercado de trabalho e contribuir para o desenvolvimento sustentável de Moçambique.",
-      "why": "«Ciência ganha novas ferramentas em Cabo Delgado» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Ciência ganha novas ferramentas em Cabo Delgado», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-27T14:47:47+00:00",
-      "age_hours": 6.3,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/ciencia-ganha-novas-ferramentas-em-cabo-delgado/",
-      "original_source": true,
-      "event_id": "evt-mocambique-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Onze instituições de ensino básico, secundário, técnico profissional e formação de professores dos distritos de Pemba e Montepuez, em Cabo Delgado, receberam hoje kits de Ciência, Tecnologia, Engenharia e Matemática (STEM), incluindo computadores, materiais de experimentação científica e equipamentos de robótica e inteligência artificial, uma iniciativa destinada a reforçar a formação de professores e modernizar o processo de ensino e aprendizagem. A entrega enquadra-se no projecto Mouse Kids, da Universidade Rovuma (UniRovuma), coordenado pelo Ministério da Educação e Cultura e pelo Ministério das Comunicações e Transformação Digital, que visa melhorar as competências pedagógicas, científicas e tecnológicas dos formadores e professores nos diferentes subsistemas de ensino. Na ocasião, o reitor da UniRovuma, Mário Brito dos Santos, destacou a importância da educação científica e tecnológica na preparação de jovens qualificados para responder às necessidades do mercado de trabalho e contribuir para o desenvolvimento sustentável de Moçambique. «Ciência ganha novas ferramentas em Cabo Delgado» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Ciência ganha novas ferramentas em Cabo Delgado», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 12.69,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas",
-      "summary": "Maputo, 27 de Out (AIM) — A Itália e o Malawi estão a reforçar a cooperação técnica no sector da água, com enfoque na modernização das infra-estruturas, na qualidade dos serviços e na garantia de acesso sustentável à água potável. A iniciativa, discutida na Câmara dos Deputados italiana, em Roma, pretende aproximar experiências e soluções para responder aos desafios do abastecimento e do saneamento, num contexto em que a gestão dos recursos hídricos assume crescente importância estratégica. O encontro, subordinado ao tema «A água como recurso estratégico: governação, sustentabilidade e cooperação internacional», realizou-se na segunda-feira, 26 de Outubro, por iniciativa da deputada Patty L’Abbate, do Movimento Cinco Estrelas e membro da Comissão do Ambiente do Parlamento italiano. A reunião juntou representantes institucionais e responsáveis do sector da água dos dois países, com destaque para a distribuição de água potável e a qualidade dos serviços prestados às populações.",
-      "why": "«Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "title": "Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala",
+      "summary": "Maputo, 27 de Out (AIM) — O Governo de Moçambique entregou 1.572 computadores portáteis a estudantes do ensino superior na província de Sofala, zona centro, no âmbito do programa “Um Computador, Um Estudante do Ensino Superior” (1CEES), destinado a ampliar o acesso às tecnologias digitais no meio académico. A entrega foi realizada pelo Ministério das Comunicações e Transformação Digital, num acto dirigido pelo Secretário de Estado na província de Sofala, Manuel Rodrigues Alberto. Os equipamentos destinam-se a estudantes de instituições de ensino superior que ministram cursos nas áreas de Ciências, Tecnologias, Engenharia e Matemática (STEM). Segundo as informações apresentadas na ocasião, a iniciativa visa facilitar o acesso dos estudantes às ferramentas digitais e apoiar as actividades de ensino e aprendizagem, investigação científica e desenvolvimento de competências académicas e profissionais.",
+      "why": "«Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-27T17:16:03+00:00",
-      "age_hours": 3.9,
+      "published": "2026-10-28T07:57:31+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/27/italia-e-malawi-reforcam-cooperacao-na-gestao-da-agua-para-beneficiar-mais-de-500-mil-pessoas/",
+      "link": "https://aimnews.org/2026/10/28/governo-entrega-1-572-computadores-portateis-a-estudantes-do-ensino-superior-em-sofala/",
       "original_source": true,
       "event_id": "evt-mocambique-003",
       "cluster_size": 1,
@@ -124,9 +28,96 @@
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 27 de Out (AIM) — O Governo de Moçambique entregou 1.572 computadores portáteis a estudantes do ensino superior na província de Sofala, zona centro, no âmbito do programa “Um Computador, Um Estudante do Ensino Superior” (1CEES), destinado a ampliar o acesso às tecnologias digitais no meio académico. A entrega foi realizada pelo Ministério das Comunicações e Transformação Digital, num acto dirigido pelo Secretário de Estado na província de Sofala, Manuel Rodrigues Alberto. Os equipamentos destinam-se a estudantes de instituições de ensino superior que ministram cursos nas áreas de Ciências, Tecnologias, Engenharia e Matemática (STEM). Segundo as informações apresentadas na ocasião, a iniciativa visa facilitar o acesso dos estudantes às ferramentas digitais e apoiar as actividades de ensino e aprendizagem, investigação científica e desenvolvimento de competências académicas e profissionais. «Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Governo entrega 1.572 computadores portáteis a estudantes do ensino superior em Sofala», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 13.71,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial",
+      "summary": "Mozambique LNG convida entidades interessadas a manifestarem interesse na prestação de serviços de desenvolvimento e gestão de uma plataforma de e-learning",
+      "why": "«Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-28T06:05:37+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/28/concursos-publicos/desenvolvimento-e-gestao-de-plataforma-de-e-learning-e-conteudos-de-capacitacao-empresarial/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 27 de Out (AIM) — A Itália e o Malawi estão a reforçar a cooperação técnica no sector da água, com enfoque na modernização das infra-estruturas, na qualidade dos serviços e na garantia de acesso sustentável à água potável. A iniciativa, discutida na Câmara dos Deputados italiana, em Roma, pretende aproximar experiências e soluções para responder aos desafios do abastecimento e do saneamento, num contexto em que a gestão dos recursos hídricos assume crescente importância estratégica. O encontro, subordinado ao tema «A água como recurso estratégico: governação, sustentabilidade e cooperação internacional», realizou-se na segunda-feira, 26 de Outubro, por iniciativa da deputada Patty L’Abbate, do Movimento Cinco Estrelas e membro da Comissão do Ambiente do Parlamento italiano. A reunião juntou representantes institucionais e responsáveis do sector da água dos dois países, com destaque para a distribuição de água potável e a qualidade dos serviços prestados às populações. «Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Itália e Malawi reforçam cooperação na gestão da água para beneficiar mais de 500 mil pessoas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.19,
+      "detailed_summary": "Mozambique LNG convida entidades interessadas a manifestarem interesse na prestação de serviços de desenvolvimento e gestão de uma plataforma de e-learning. «Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Desenvolvimento e Gestão de Plataforma de E-learning e Conteúdos de Capacitação Empresarial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.31,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo com 205 milhões de dólares na formação de funcionários públicos",
+      "summary": "MAPUTO, 27 de Outubro (AIM) — O Programa de Formação dos Funcionários e Agentes do Estado, denominado “Moz Próspera 2026-2031”, está orçado em cerca de 205 milhões de dólares norte-americanos, provenientes do Banco Mundial, anunciou terça-feira, em Maputo, o ministro da Administração Estatal e Função Pública, Inocêncio Impissa. O programa envolve os ministérios da Administração Estatal e Função Pública, das Finanças, da Saúde e da Educação e Cultura, e tem como objectivo reforçar as competências dos funcionários e agentes do Estado para o desempenho das suas funções. Falando no final da 31.ª sessão ordinária do Conselho de Ministros, da qual é porta-voz, Impissa explicou que a iniciativa resulta de um processo de estudos e análises sobre a capacidade de prestação de serviços na Administração Pública, desenvolvido em colaboração com o Banco Mundial. O governante referiu que muitos funcionários ingressaram na Função Pública sem formação inicial específica e sem acesso regular à formação contínua, situação que o programa pretende abordar através da capacitação dos recursos humanos.",
+      "why": "«Governo com 205 milhões de dólares na formação de funcionários públicos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo com 205 milhões de dólares na formação de funcionários públicos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-28T08:30:28+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/28/governo-com-205-milhoes-de-dolares-na-formacao-de-funcionarios-publicos/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "MAPUTO, 27 de Outubro (AIM) — O Programa de Formação dos Funcionários e Agentes do Estado, denominado “Moz Próspera 2026-2031”, está orçado em cerca de 205 milhões de dólares norte-americanos, provenientes do Banco Mundial, anunciou terça-feira, em Maputo, o ministro da Administração Estatal e Função Pública, Inocêncio Impissa. O programa envolve os ministérios da Administração Estatal e Função Pública, das Finanças, da Saúde e da Educação e Cultura, e tem como objectivo reforçar as competências dos funcionários e agentes do Estado para o desempenho das suas funções. Falando no final da 31.ª sessão ordinária do Conselho de Ministros, da qual é porta-voz, Impissa explicou que a iniciativa resulta de um processo de estudos e análises sobre a capacidade de prestação de serviços na Administração Pública, desenvolvido em colaboração com o Banco Mundial. O governante referiu que muitos funcionários ingressaram na Função Pública sem formação inicial específica e sem acesso regular à formação contínua, situação que o programa pretende abordar através da capacitação dos recursos humanos. «Governo com 205 milhões de dólares na formação de funcionários públicos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo com 205 milhões de dólares na formação de funcionários públicos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.81,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado",
+      "summary": "Uma nova viatura passa a reforçar a mobilidade das equipas técnicas de fiscalização e melhorar a resposta nas actividades desenvolvidas pelo sector de Obras Públicas. A viatura da marca Isuzu foi entregue à Direcção Provincial das Obras Públicas de Cabo Delgado conta, pelo governador, Valige Tauabo. Tauabo destacou os esforços do Governo de dotar os diferentes sectores de meios circulantes capazes de garantir maior eficiência na execução das suas actividades. Na ocasião, o governante apelou ao uso responsável do.meio, assegurando a sua conservação e durabilidade. Por sua vez, o director provincial das Obras Públicas, Moisés Zacarias, comprometeu-se a garantir a boa utilização da viatura, considerando que vai facilitar as deslocações das equipas e contribuir para uma resposta mais célere às necessidades do sector. Leia mais… O conteúdo Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado aparece primeiro em Jornal Notícias",
+      "why": "«Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-28T08:21:54+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/viatura-flexibiliza-fiscalizacao-de-obras-publicas-em-cabo-delgado/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Uma nova viatura passa a reforçar a mobilidade das equipas técnicas de fiscalização e melhorar a resposta nas actividades desenvolvidas pelo sector de Obras Públicas. A viatura da marca Isuzu foi entregue à Direcção Provincial das Obras Públicas de Cabo Delgado conta, pelo governador, Valige Tauabo. Tauabo destacou os esforços do Governo de dotar os diferentes sectores de meios circulantes capazes de garantir maior eficiência na execução das suas actividades. Na ocasião, o governante apelou ao uso responsável do.meio, assegurando a sua conservação e durabilidade. Por sua vez, o director provincial das Obras Públicas, Moisés Zacarias, comprometeu-se a garantir a boa utilização da viatura, considerando que vai facilitar as deslocações das equipas e contribuir para uma resposta mais célere às necessidades do sector. Leia mais… O conteúdo Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado aparece primeiro em Jornal Notícias. «Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Viatura flexibiliza fiscalização de Obras Públicas em Cabo Delgado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.79,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -135,17 +126,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos",
-      "summary": "Israel foi chamado às urnas para decidir o futuro do governo do país. Milhares de pessoas regressaram ao país para votar e os números da afluência bateram recordes",
-      "why": "«Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa",
+      "summary": "O secretário da Defesa norte-americano defendeu hoje nas Filipinas, onde se reuniu com os homólogos do Japão, da Austrália e da Coreia do Sul, o \"reforço da dissuasão\" no Pacífico e \"maior investimento na defesa\" pelos aliados Os encontros de Pete Hegseth, realizados separadamente, decorreram à margem da 13.ª Reunião de Ministros da Defesa da ASEAN Plus (ADMM-Plus), que se realiza na cidade filipina de Cebu (centro) até quinta-feira e reúne os países deste bloco e os oito parceiros, entre os quais Estados Unidos, China e Rússia A Associação de Nações do Sudeste Asiático (ASEAN) é uma organização geopolítica e económica que reúne 11 Estados-membros da região do Sudeste Asiático A primeira reunião de Hegseth foi com o ministro japonês, Shinjiro Koizumi, a quem sublinhou a importância de um maior investimento para uma \"defesa eficaz\" na Primeira Cadeia de Ilhas, área do Pacífico formada por territórios como Japão, Taiwan e Filipinas, que Washington considera fundamental para conter a projeção militar da China Ambos analisaram formas de reforçar a presença e os treinos no Japão…",
+      "why": "«Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "RTP Notícias",
-      "published": "2026-10-27T20:51:47+00:00",
-      "age_hours": 0.3,
+      "published": "2026-10-28T07:38:24+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/legislativas-em-israel-registam-maior-participacao-eleitoral-dos-ultimos-50-anos_v1774848",
+      "link": "https://www.rtp.pt/noticias/mundo/hegseth-apela-a-japao-australia-e-coreia-do-sul-para-aumentarem-investimento-em-defesa_n1774905",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -153,26 +144,56 @@
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Israel foi chamado às urnas para decidir o futuro do governo do país. Milhares de pessoas regressaram ao país para votar e os números da afluência bateram recordes. «Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.94,
+      "opportunity_flag": true,
+      "detailed_summary": "O secretário da Defesa norte-americano defendeu hoje nas Filipinas, onde se reuniu com os homólogos do Japão, da Austrália e da Coreia do Sul, o \"reforço da dissuasão\" no Pacífico e \"maior investimento na defesa\" pelos aliados Os encontros de Pete Hegseth, realizados separadamente, decorreram à margem da 13.ª Reunião de Ministros da Defesa da ASEAN Plus (ADMM-Plus), que se realiza na cidade filipina de Cebu (centro) até quinta-feira e reúne os países deste bloco e os oito parceiros, entre os quais Estados Unidos, China e Rússia A Associação de Nações do Sudeste Asiático (ASEAN) é uma organização geopolítica e económica que reúne 11 Estados-membros da região do Sudeste Asiático A primeira reunião de Hegseth foi com o ministro japonês, Shinjiro Koizumi, a quem sublinhou a importância de um maior investimento para uma \"defesa eficaz\" na Primeira Cadeia de Ilhas, área do Pacífico formada por territórios como Japão, Taiwan e Filipinas, que Washington considera fundamental para conter a projeção militar da China Ambos analisaram formas de reforçar a presença e os treinos no Japão… «Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Hegseth apela a Japão, Austrália e Coreia do Sul para aumentarem investimento em defesa», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 11.65,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "PR participa no Fórum Rússia – África",
+      "summary": "O Presidente da República, Daniel Chapo, participa esta tarde, em Moscovo, na Sessão de Abertura da Plenária do Fórum de Económico e Humanitário Rússia – África. O evento tem como tema “Desenvolver conjuntamente a cooperação mutuamente benéfica e o potencial de cada país africano”, reunindo representantes de cerca de 48 países africanos, incluindo 22 chefes de Estado, para discutir o aprofundamento da cooperação económica e humanitária entre a Rússia e África. O Presidente russo, Vladimir Putin e o Chefe do Estado do Burundi e Presidente rotativo da União Africana, Évariste Ndayishimiye, irão discursar na sessão plenária. A agenda está organizada em quatro grandes áreas: “Soberania como base do desenvolvimento sustentável”, “Economia de uma ordem mundial soberana”, “Cooperação sociocultural e capital humano” e “Tecnologia e inovação para melhorar a qualidade de vida”. Prevê-se a aprovação da declaração final da cimeira, do plano de acção 2027-2029 e da declaração de cooperação em inteligência artificial, além da assinatura de um conjunto de acordos de cooperação.",
+      "why": "«PR participa no Fórum Rússia – África» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «PR participa no Fórum Rússia – África», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-28T07:01:58+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/pr-participa-no-forum-russia-africa/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, participa esta tarde, em Moscovo, na Sessão de Abertura da Plenária do Fórum de Económico e Humanitário Rússia – África. O evento tem como tema “Desenvolver conjuntamente a cooperação mutuamente benéfica e o potencial de cada país africano”, reunindo representantes de cerca de 48 países africanos, incluindo 22 chefes de Estado, para discutir o aprofundamento da cooperação económica e humanitária entre a Rússia e África. O Presidente russo, Vladimir Putin e o Chefe do Estado do Burundi e Presidente rotativo da União Africana, Évariste Ndayishimiye, irão discursar na sessão plenária. A agenda está organizada em quatro grandes áreas: “Soberania como base do desenvolvimento sustentável”, “Economia de uma ordem mundial soberana”, “Cooperação sociocultural e capital humano” e “Tecnologia e inovação para melhorar a qualidade de vida”. Prevê-se a aprovação da declaração final da cimeira, do plano de acção 2027-2029 e da declaração de cooperação em inteligência artificial, além da assinatura de um conjunto de acordos de cooperação. «PR participa no Fórum Rússia – África» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «PR participa no Fórum Rússia – África», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 11.5,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Economia"
       ],
-      "title": "Trump anuncia proibição do termo Inteligência Artificial nos EUA",
-      "summary": "O Presidente norte-americano, Donald Trump, anunciou hoje que vai proibir oficialmente a utilização da expressão \"Inteligência Artificial\" nos documentos governamentais, por considerá-la imprecisa, defendendo a sua substituição pelo termo \"Super Inteligência\" Numa publicação na rede social Truth Social, Trump criticou a utilização da expressão inteligência artificial (IA), que classificou como \"um nome muito mau e incorreto\", propondo a adoção da designação Super Inteligência (SI) \"Em breve, vamos proibir oficialmente o termo `IA/Inteligência Artificial` em todos os documentos relevantes e em tudo o resto, devido à sua imprecisão\", escreveu o Presidente, sem especificar quando entrará em vigor a medida Trump questionou também quando é que o jornal The Wall Street Journal deixará de utilizar a expressão IA para adotar a nova designação, que, segundo afirmou, \"praticamente toda a gente já está a utilizar ou utilizará em breve\" O chefe de Estado tinha anunciado em setembro, durante a Assembleia-Geral das Nações Unidas, a intenção de substituir a expressão inteligência artificial nos…",
-      "why": "«Trump anuncia proibição do termo Inteligência Artificial nos EUA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Trump anuncia proibição do termo Inteligência Artificial nos EUA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "title": "Trump afirma que o seu apoio \"ajudou muito\" Netanyahu",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou que o seu apoio ao primeiro-ministro israelita, Benjamin Netanyahu, \"ajudou-o muito\" nas eleições legislativas realizadas em Israel, cuja contagem ainda está a decorrer",
+      "why": "«Trump afirma que o seu apoio \"ajudou muito\" Netanyahu» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Trump afirma que o seu apoio \"ajudou muito\" Netanyahu», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-27T19:22:16+00:00",
-      "age_hours": 1.8,
+      "published": "2026-10-28T07:41:43+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/trump-anuncia-proibicao-do-termo-inteligencia-artificial-nos-eua_n1774817",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/trump-afirma-que-o-seu-apoio-ajudou-muito-netanyahu_n1774906",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -183,9 +204,38 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Presidente norte-americano, Donald Trump, anunciou hoje que vai proibir oficialmente a utilização da expressão \"Inteligência Artificial\" nos documentos governamentais, por considerá-la imprecisa, defendendo a sua substituição pelo termo \"Super Inteligência\" Numa publicação na rede social Truth Social, Trump criticou a utilização da expressão inteligência artificial (IA), que classificou como \"um nome muito mau e incorreto\", propondo a adoção da designação Super Inteligência (SI) \"Em breve, vamos proibir oficialmente o termo `IA/Inteligência Artificial` em todos os documentos relevantes e em tudo o resto, devido à sua imprecisão\", escreveu o Presidente, sem especificar quando entrará em vigor a medida Trump questionou também quando é que o jornal The Wall Street Journal deixará de utilizar a expressão IA para adotar a nova designação, que, segundo afirmou, \"praticamente toda a gente já está a utilizar ou utilizará em breve\" O chefe de Estado tinha anunciado em setembro, durante a Assembleia-Geral das Nações Unidas, a intenção de substituir a expressão inteligência artificial nos… «Trump anuncia proibição do termo Inteligência Artificial nos EUA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Trump anuncia proibição do termo Inteligência Artificial nos EUA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 10.62,
+      "detailed_summary": "O presidente dos Estados Unidos, Donald Trump, afirmou que o seu apoio ao primeiro-ministro israelita, Benjamin Netanyahu, \"ajudou-o muito\" nas eleições legislativas realizadas em Israel, cuja contagem ainda está a decorrer. «Trump afirma que o seu apoio \"ajudou muito\" Netanyahu» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Trump afirma que o seu apoio \"ajudou muito\" Netanyahu», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.65,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Banco Mundial tem 750 milhões de dólares em projectos nos PALOP",
+      "summary": "O director regional da IFC para a África Ocidental e Sahel disse que a organização aposta no agronegócio, turismo e logística como sectores capazes de impulsionar emprego e crescimento económico na África lusófona. “O agronegócio e o turismo são sectores focais no BM [Banco Mundial] porque têm capacidade de criar empregos para muitas pessoas”, com […]",
+      "why": "«Banco Mundial tem 750 milhões de dólares em projectos nos PALOP» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
+      "impact": "No caso de «Banco Mundial tem 750 milhões de dólares em projectos nos PALOP», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "O País",
+      "published": "2026-10-28T06:50:11+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://opais.co.mz/banco-mundial-tem-750-milhoes-de-dolares-em-projectos-nos-palop/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O director regional da IFC para a África Ocidental e Sahel disse que a organização aposta no agronegócio, turismo e logística como sectores capazes de impulsionar emprego e crescimento económico na África lusófona. “O agronegócio e o turismo são sectores focais no BM [Banco Mundial] porque têm capacidade de criar empregos para muitas pessoas”, com […]. «Banco Mundial tem 750 milhões de dólares em projectos nos PALOP» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Banco Mundial tem 750 milhões de dólares em projectos nos PALOP», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 10.46,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -193,27 +243,40 @@
       "tags": [
         "Economia"
       ],
-      "title": "Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz",
-      "summary": "O Qatar apelou terça‑feira ao Irão para que “demonstre boa vontade”, pondo fim às ameaças contra países da região e reabrindo o Estreito de Ormuz, numa altura em que prosseguem os esforços para alcançar um acordo com os Estados Unidos.“Ouvimos declarações positivas da parte iraniana sobre esta questão, mas ainda têm de demonstrar boa vontade”, afirmou Ibrahim bin Sultan Al Hashmi, diretor do Departamento de Media e Comunicação do ministério dos Negócios Estrangeiros, numa conferência de imprensa semanal em Doha.Explicou que a recente visita de uma delegação qatari a Teerão integra os esforços de mediação com o Paquistão e outros parceiros regionais.Questionado sobre se a delegação levava uma nova proposta, Al Hashmi respondeu que continuam a ser trocadas mensagens e ideias com ambas as partes.",
-      "why": "«Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin",
+      "summary": "Programa de hoje:Eylon Levy, antigo porta-voz do governo israelita, analisa as eleições em Israel e o que poderá seguir-se, se este é o princípio do fim da era de Benjamin Netanyahu e o papel dos partidos liderados por árabes na escolha de quem será primeiro-ministro.Keith Brannum, conselheiro sénior para política norte-americana na Greenlane e estratega democrata, olha para as próximas intercalares nos Estados Unidos e para saber se os democratas têm realmente a vitória assegurada.Sasha Vakulina relata a rara chamada que o finlandês Alexander Stubb e o norueguês Jonas Gahr Støre fizeram a Vladimir Putin e avalia se aproxima de algum modo eventuais negociações de paz.Marko Prelec, analista sénior para os Balcãs Ocidentais no International Crisis Group, discute se a Sérvia está a virar a página depois da surpresa eleitoral da oposição liderada por estudantes e quem poderá tornar-se primeiro-ministro.Ken Early, jornalista e comentador desportivo irlandês, avalia os danos para a marca de Kylian Mbappé depois de uma piada sobre Mao Zedong lhe ter custado contratos de patrocínio na…",
+      "why": "«Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-27T17:27:36+00:00",
-      "age_hours": 3.7,
+      "published": "2026-10-28T07:03:12+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/27/qatar-apela-ao-irao-para-por-fim-as-ameacas-e-reabrir-estreito-de-ormuz",
+      "link": "https://pt.euronews.com/2026/10/28/israel-em-impasse-apos-eleicoes-lideres-nordicos-fazem-rara-chamada-a-putin",
       "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 3,
+      "source_count": 2,
       "sources": [
-        "Euronews Português"
+        "Euronews Português",
+        "RTP Notícias"
       ],
       "primary_source": "Euronews Português",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Qatar apelou terça‑feira ao Irão para que “demonstre boa vontade”, pondo fim às ameaças contra países da região e reabrindo o Estreito de Ormuz, numa altura em que prosseguem os esforços para alcançar um acordo com os Estados Unidos.“Ouvimos declarações positivas da parte iraniana sobre esta questão, mas ainda têm de demonstrar boa vontade”, afirmou Ibrahim bin Sultan Al Hashmi, diretor do Departamento de Media e Comunicação do ministério dos Negócios Estrangeiros, numa conferência de imprensa semanal em Doha.Explicou que a recente visita de uma delegação qatari a Teerão integra os esforços de mediação com o Paquistão e outros parceiros regionais.Questionado sobre se a delegação levava uma nova proposta, Al Hashmi respondeu que continuam a ser trocadas mensagens e ideias com ambas as partes. «Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.23,
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Eleições em Israel. Participação de 77,7% foi a mais elevada em 25 anos",
+          "link": "https://www.rtp.pt/noticias/mundo/eleicoes-em-israel-participacao-de-777-foi-a-mais-elevada-em-25-anos_n1774860"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Legislativas em Israel registam maior participação eleitoral dos últimos 50 anos",
+          "link": "https://www.rtp.pt/noticias/mundo/legislativas-em-israel-registam-maior-participacao-eleitoral-dos-ultimos-50-anos_v1774848"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "Programa de hoje:Eylon Levy, antigo porta-voz do governo israelita, analisa as eleições em Israel e o que poderá seguir-se, se este é o princípio do fim da era de Benjamin Netanyahu e o papel dos partidos liderados por árabes na escolha de quem será primeiro-ministro.Keith Brannum, conselheiro sénior para política norte-americana na Greenlane e estratega democrata, olha para as próximas intercalares nos Estados Unidos e para saber se os democratas têm realmente a vitória assegurada.Sasha Vakulina relata a rara chamada que o finlandês Alexander Stubb e o norueguês Jonas Gahr Støre fizeram a Vladimir Putin e avalia se aproxima de algum modo eventuais negociações de paz.Marko Prelec, analista sénior para os Balcãs Ocidentais no International Crisis Group, discute se a Sérvia está a virar a página depois da surpresa eleitoral da oposição liderada por estudantes e quem poderá tornar-se primeiro-ministro.Ken Early, jornalista e comentador desportivo irlandês, avalia os danos para a marca de Kylian Mbappé depois de uma piada sobre Mao Zedong lhe ter custado contratos de patrocínio na… «Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.02,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -222,17 +285,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"",
-      "summary": "A Jordânia afirmou esta terça-feira que ataques aéreos realizados na Síria mataram cerca de 20 militantes do Estado Islâmico, reconhecendo que também houve várias vítimas civis.As forças armadas jordanas lançaram uma vaga de ataques contra o sul do país na noite de segunda-feira, visando o que descreveram como “esconderijos de organizações terroristas”.“Caças da RJAF destruíram vários locais de terroristas, matando e ferindo vários terroristas e destruindo o seu equipamento”, indicou o exército em comunicado, acrescentando que a operação foi conduzida “em retaliação” por um recente ataque contra uma igreja greco-ortodoxa em Karak, que terá causado a morte a nove pessoas.O porta-voz do governo, Mohammad Al-Momani, afirmou que a operação levou à morte de mais de 20 operacionais do Estado Islâmico, bem como à destruição de um “importante” depósito de armas.",
-      "why": "«Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Brasil: Lula assinala 81.º aniversário após vitória na reeleição",
+      "summary": "Lula da Silva celebrou esta terça-feira, 27 de outubro, o 81.º aniversário com dezenas de apoiantes junto ao Palácio da Alvorada, em Brasília, dois dias após vencer uma eleição renhida",
+      "why": "«Brasil: Lula assinala 81.º aniversário após vitória na reeleição» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Brasil: Lula assinala 81.º aniversário após vitória na reeleição», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-27T16:34:24+00:00",
-      "age_hours": 4.6,
+      "published": "2026-10-28T08:31:22+00:00",
+      "age_hours": 0.9,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/27/siria-denuncia-ataques-aereos-da-jordania-e-fala-em-violacao-inaceitavel",
+      "link": "https://pt.euronews.com/video/2026/10/28/brasil-lula-assinala-81-aniversario-apos-vitoria-na-reeleicao",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -241,8 +304,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Jordânia afirmou esta terça-feira que ataques aéreos realizados na Síria mataram cerca de 20 militantes do Estado Islâmico, reconhecendo que também houve várias vítimas civis.As forças armadas jordanas lançaram uma vaga de ataques contra o sul do país na noite de segunda-feira, visando o que descreveram como “esconderijos de organizações terroristas”.“Caças da RJAF destruíram vários locais de terroristas, matando e ferindo vários terroristas e destruindo o seu equipamento”, indicou o exército em comunicado, acrescentando que a operação foi conduzida “em retaliação” por um recente ataque contra uma igreja greco-ortodoxa em Karak, que terá causado a morte a nove pessoas.O porta-voz do governo, Mohammad Al-Momani, afirmou que a operação levou à morte de mais de 20 operacionais do Estado Islâmico, bem como à destruição de um “importante” depósito de armas. «Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Síria denuncia ataques aéreos da Jordânia e fala em \"violação inaceitável\"», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.04,
+      "detailed_summary": "Lula da Silva celebrou esta terça-feira, 27 de outubro, o 81.º aniversário com dezenas de apoiantes junto ao Palácio da Alvorada, em Brasília, dois dias após vencer uma eleição renhida. «Brasil: Lula assinala 81.º aniversário após vitória na reeleição» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasil: Lula assinala 81.º aniversário após vitória na reeleição», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.81,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -266,8 +329,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
-    "África": 0,
+    "Moçambique": 5,
+    "África": 1,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
