@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T17:02:13.635977+00:00",
+  "updated_at": "2026-10-28T22:57:59.064279+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,18 +8,17 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027",
-      "summary": "Maputo, 28 Out (AIM) – A Presidente da Assembleia da República (AR), Margarida Talapa, defende que o Plano Económico e Social e Orçamento do Estado (PESOE) para 2027 dê particular atenção à educação, saúde, agricultura, segurança alimentar e protecção social, de modo a responder às necessidades da população. O apelo foi feito hoje, em Maputo, durante a sessão solene de abertura da IV Sessão Ordinária da X Legislatura, na qual Talapa destacou também a criação de emprego, o desenvolvimento de infra-estruturas e a ampliação das oportunidades para jovens e mulheres. A dirigente parlamentar defendeu que a análise do plano e do orçamento considere igualmente a resiliência perante fenómenos climáticos extremos, o apoio às pequenas e médias empresas e a melhoria do ambiente de negócios. O alerta ganha particular relevância face aos riscos associados ao fenómeno El Niño, que, segundo Talapa, se reflectem na irregularidade das chuvas, na seca e na vulnerabilidade das populações.",
-      "why": "«Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "title": "Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização",
+      "summary": "Maputo, 28 de Out (AIM) – A necessidade de proteger os recursos naturais africanos, reforçar a soberania económica do continente e garantir que a sua exploração se traduza em benefícios concretos para as populações esteve em destaque na abertura do Fórum Económico e Humanitário Rússia–África, realizada hoje, em Moscovo. O encontro, que reúne líderes africanos e representantes do sector empresarial, voltou a colocar no centro do debate a exigência de os países africanos assumirem maior controlo sobre as suas riquezas naturais, apostando na transformação local das matérias-primas, na industrialização e na criação de valor acrescentado. A abordagem converge com a agenda defendida pelo Presidente da República de Moçambique, Daniel Chapo, que tem reiterado a importância de transformar o potencial dos recursos nacionais em oportunidades de desenvolvimento económico, emprego e melhoria das condições de vida dos moçambicanos.",
+      "why": "«Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "AIM Notícias",
-      "published": "2026-10-28T15:12:06+00:00",
-      "age_hours": 1.8,
+      "published": "2026-10-28T20:50:36+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/28/talapa-defende-prioridade-a-educacao-saude-e-emprego-no-orcamento-de-2027/",
+      "link": "https://aimnews.org/2026/10/28/cimeira-russia-africa-reitera-necessidade-de-proteger-os-recursos-africanos-e-garantir-a-sua-valorizacao/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -30,8 +29,96 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 28 Out (AIM) – A Presidente da Assembleia da República (AR), Margarida Talapa, defende que o Plano Económico e Social e Orçamento do Estado (PESOE) para 2027 dê particular atenção à educação, saúde, agricultura, segurança alimentar e protecção social, de modo a responder às necessidades da população. O apelo foi feito hoje, em Maputo, durante a sessão solene de abertura da IV Sessão Ordinária da X Legislatura, na qual Talapa destacou também a criação de emprego, o desenvolvimento de infra-estruturas e a ampliação das oportunidades para jovens e mulheres. A dirigente parlamentar defendeu que a análise do plano e do orçamento considere igualmente a resiliência perante fenómenos climáticos extremos, o apoio às pequenas e médias empresas e a melhoria do ambiente de negócios. O alerta ganha particular relevância face aos riscos associados ao fenómeno El Niño, que, segundo Talapa, se reflectem na irregularidade das chuvas, na seca e na vulnerabilidade das populações. «Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Talapa defende prioridade à educação, saúde e emprego no Orçamento de 2027», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 14.62,
+      "detailed_summary": "Maputo, 28 de Out (AIM) – A necessidade de proteger os recursos naturais africanos, reforçar a soberania económica do continente e garantir que a sua exploração se traduza em benefícios concretos para as populações esteve em destaque na abertura do Fórum Económico e Humanitário Rússia–África, realizada hoje, em Moscovo. O encontro, que reúne líderes africanos e representantes do sector empresarial, voltou a colocar no centro do debate a exigência de os países africanos assumirem maior controlo sobre as suas riquezas naturais, apostando na transformação local das matérias-primas, na industrialização e na criação de valor acrescentado. A abordagem converge com a agenda defendida pelo Presidente da República de Moçambique, Daniel Chapo, que tem reiterado a importância de transformar o potencial dos recursos nacionais em oportunidades de desenvolvimento económico, emprego e melhoria das condições de vida dos moçambicanos. «Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.56,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia",
+      "summary": "O ministro dos Negócios Estrangeiros de Cabo Verde disse hoje que a participação na cimeira Rússia-África, a decorrer em Moscovo, não altera a posição de condenação da invasão russa da Ucrânia \"Não, não altera. Assim que assumimos o Governo, a primeira coisa que fizemos em termos de relações externas foi afirmar que todos os compromissos que tinham sido assumidos pelo anterior Governo seriam respeitados\", referiu Manuel Amante da Rosa, em resposta à Lusa, na cidade da Praia O governante recordou que o país \"votou contra a invasão da Crimeia nas Nações Unidas, em várias resoluções\" e continuará \"a respeitar esse compromisso\" O anterior Governo de Cabo Verde não participou na cimeira de 2023 por condenar a invasão e o atual chefe da diplomacia disse que a posição se mantém A cimeira Rússia-África deste ano \"é copresidida pelo presidente da Federação Russa e pelo presidente da União Africana (UA), que é o Presidente do Burundi\", explicou \"Nós temos um embaixador na UA, portanto, há uma responsabilidade partilhada.",
+      "why": "«Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "RTP Notícias",
+      "published": "2026-10-28T18:44:21+00:00",
+      "age_hours": 4.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-diz-que-ir-a-cimeira-nao-altera-condenacao-da-invasao-da-ucrania_n1775086",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O ministro dos Negócios Estrangeiros de Cabo Verde disse hoje que a participação na cimeira Rússia-África, a decorrer em Moscovo, não altera a posição de condenação da invasão russa da Ucrânia \"Não, não altera. Assim que assumimos o Governo, a primeira coisa que fizemos em termos de relações externas foi afirmar que todos os compromissos que tinham sido assumidos pelo anterior Governo seriam respeitados\", referiu Manuel Amante da Rosa, em resposta à Lusa, na cidade da Praia O governante recordou que o país \"votou contra a invasão da Crimeia nas Nações Unidas, em várias resoluções\" e continuará \"a respeitar esse compromisso\" O anterior Governo de Cabo Verde não participou na cimeira de 2023 por condenar a invasão e o atual chefe da diplomacia disse que a posição se mantém A cimeira Rússia-África deste ano \"é copresidida pelo presidente da Federação Russa e pelo presidente da União Africana (UA), que é o Presidente do Burundi\", explicou \"Nós temos um embaixador na UA, portanto, há uma responsabilidade partilhada. «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 13.12,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro",
+      "summary": "Maputo, 28 Out (AIM) – O Governo moçambicano pretende reforçar a capacidade nacional de diagnóstico e assistência médica especializada, com vista a reduzir a transferência de doentes para tratamento no estrangeiro, apelando ao sector privado para investir em soluções que permitam responder às necessidades dos pacientes no país. A intenção foi manifestada pelo ministro da Saúde, Ussene Isse, esta quarta-feira, em Maputo, na abertura da segunda edição da Moçambique Medical Expo 2026, ocasião em que desafiou clínicas privadas, laboratórios, redes de farmácias e outros operadores a estabelecerem parcerias com o Governo para ampliar a oferta de serviços médicos especializados. «Estamos a transferir doentes do nosso país para exames e tratamentos fora do nosso país, África do Sul, Índia, por aí fora. Será que não temos capacidade interna para resolver este problema? Temos ou não temos?», questionou.",
+      "why": "«Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-28T20:19:58+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/28/governo-quer-reforcar-sistema-de-saude-para-reduzir-procura-de-tratamentos-no-estrangeiro/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 28 Out (AIM) – O Governo moçambicano pretende reforçar a capacidade nacional de diagnóstico e assistência médica especializada, com vista a reduzir a transferência de doentes para tratamento no estrangeiro, apelando ao sector privado para investir em soluções que permitam responder às necessidades dos pacientes no país. A intenção foi manifestada pelo ministro da Saúde, Ussene Isse, esta quarta-feira, em Maputo, na abertura da segunda edição da Moçambique Medical Expo 2026, ocasião em que desafiou clínicas privadas, laboratórios, redes de farmácias e outros operadores a estabelecerem parcerias com o Governo para ampliar a oferta de serviços médicos especializados. «Estamos a transferir doentes do nosso país para exames e tratamentos fora do nosso país, África do Sul, Índia, por aí fora. Será que não temos capacidade interna para resolver este problema? Temos ou não temos?», questionou. «Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.46,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito",
+      "summary": "A economia moçambicana está a recuperar, mas o crescimento continua aquém do necessário para melhorar significativamente as condições de vida da população. O alerta foi deixado esta quarta-feira, 28 de […]",
+      "why": "«Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-10-28T15:30:00+00:00",
+      "age_hours": 7.5,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/28/economia/banco-de-mocambique-alerta-para-recuperacao-insuficiente-e-pressao-da-divida-sobre-o-credito/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A economia moçambicana está a recuperar, mas o crescimento continua aquém do necessário para melhorar significativamente as condições de vida da população. O alerta foi deixado esta quarta-feira, 28 de […]. «Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.44,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -46,11 +133,11 @@
       "impact": "No caso de «Podemos quer Parlamento a produzir compromissos concretos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-10-28T14:41:16+00:00",
-      "age_hours": 2.3,
+      "age_hours": 8.3,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/podemos-quer-parlamento-a-produzir-compromissos-concretos/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -60,36 +147,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Parlamento deve produzir compromissos concretos que acompanham e desenvolvimento dos sectores da Saúde, Educação, construção e reabilitação da Estrada Nacional nº Um (N1), Instituto Nacional de Segurança Social, Linhas Aéreas de Moçambique (LAM), bem como garantir a paz e segurança em Cabo Delgado. Esta posição foi avançada hoje pelo chefe da bancada do Podemos, Bastião Mussanhane, falando na abertura da IV sessão ordinária da Assembleia da República, que hoje arrancou em Maputo. Explicou que o verdadeiro valor de uma fiscalização parlamentar não está apenas na gravidade das perguntas formuladas, mas na capacidade de obter respostas, corrigir problemas e melhorar a vida dos cidadãos. A oposição tem o direito e o dever de questionar o Governo e este tem a responsabilidade de prestar contas. E ambos têm uma obrigação superior: servir a República. «Podemos quer Parlamento a produzir compromissos concretos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Podemos quer Parlamento a produzir compromissos concretos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.52,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula",
-      "summary": "Maputo, 28 de Out (AIM) – O Governo moçambicano está a expandir o acesso à água potável para mais de 297 mil pessoas em quatro distritos da província de Nampula, através da construção, reabilitação e ampliação de sistemas de abastecimento de água, no âmbito do Projecto Água Segura para Vilas e Zonas Rurais. As obras decorrem nos distritos de Malema, Eráti, Meconta e Mogovolas, no quadro do ProÁguaS 2026–2036, uma iniciativa estratégica do Governo lançada pelo Presidente da República, Daniel Francisco Chapo, com o objectivo de reforçar a segurança hídrica e ampliar o acesso à água potável e ao saneamento. O progresso físico global das obras na província situa-se em 61,4 por cento. Segundo o administrador do distrito de Eráti, Januário André, a construção do novo sistema de abastecimento de água na vila de Namapa “vai contribuir em grande medida na melhoria da saúde das pessoas, uma vez que temos tido problemas com doenças de origem hídrica”.",
-      "why": "«Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-28T13:54:33+00:00",
-      "age_hours": 3.1,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/28/governo-expande-abastecimento-de-agua-para-mais-de-297-mil-pessoas-em-nampula/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 28 de Out (AIM) – O Governo moçambicano está a expandir o acesso à água potável para mais de 297 mil pessoas em quatro distritos da província de Nampula, através da construção, reabilitação e ampliação de sistemas de abastecimento de água, no âmbito do Projecto Água Segura para Vilas e Zonas Rurais. As obras decorrem nos distritos de Malema, Eráti, Meconta e Mogovolas, no quadro do ProÁguaS 2026–2036, uma iniciativa estratégica do Governo lançada pelo Presidente da República, Daniel Francisco Chapo, com o objectivo de reforçar a segurança hídrica e ampliar o acesso à água potável e ao saneamento. O progresso físico global das obras na província situa-se em 61,4 por cento. Segundo o administrador do distrito de Eráti, Januário André, a construção do novo sistema de abastecimento de água na vila de Namapa “vai contribuir em grande medida na melhoria da saúde das pessoas, uma vez que temos tido problemas com doenças de origem hídrica”. «Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Governo expande abastecimento de água para mais de 297 mil pessoas em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.35,
+      "editorial_score": 12.27,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -104,11 +162,11 @@
       "impact": "No caso de «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-28T12:53:15+00:00",
-      "age_hours": 4.1,
+      "age_hours": 10.1,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/angola-admite-ter-mais-de-31-mil-funcionarios-publicos-ficticios-ou-fantasmas_n1775009",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -118,37 +176,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Governo angolano anunciou hoje que funcionários reformados e falecidos ainda constam da base dados da função pública como estando no ativo, admitindo existirem mais de 31 mil funcionários públicos \"fictícios ou fantasmas\" A informação foi transmitida hoje pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal em causa custa aos cofres do Estado recursos financeiros avultados, que poderiam ser poupados \"se o controlo fosse mais efetivo\" Em declarações na abertura da cerimónia de lançamento oficial do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH), a governante deu nota que o processo de inserção de funcionários nesta plataforma revelou \"realidades preocupantes\" Mais de 31.000 funcionários públicos constam da base de dados como estado no ativo, mas, explicou, estes não puderem ser atualizados, por razões que, \"em muitos casos, suscitam profundas suspeições\" Segundo Teresa Rodrigues Dias, muitos funcionários estão com paradeiro desconhecido, falta de documentos de identificação… «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 13.15,
+      "editorial_score": 11.9,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países",
-      "summary": "O Presidente russo, Vladimir Putin, anunciou o reforço da cooperação bilateral com Moçambique em sectores estratégicos, acrescentando que o comércio entre as duas nações quase duplicou entre Janeiro e Agosto […]",
-      "why": "«Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-28T13:20:24+00:00",
-      "age_hours": 3.7,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/28/negocios/visita-a-russia-putin-e-chapo-acordam-reforco-da-cooperacao-economica-bilateral-entre-ambos-os-paises/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente russo, Vladimir Putin, anunciou o reforço da cooperação bilateral com Moçambique em sectores estratégicos, acrescentando que o comércio entre as duas nações quase duplicou entre Janeiro e Agosto […]. «Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Visita à Rússia: Putin e Chapo Acordam Reforço da Cooperação Económica Bilateral Entre Ambos os Países», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.23,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -156,59 +185,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Três cenários em Israel depois das eleições legislativas",
-      "summary": "O bloco de Eisenkot pode vir a formar governo se juntar à coligação os partidos árabes. Em cima da mesa estão três cenários possíveis",
-      "why": "«Três cenários em Israel depois das eleições legislativas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Três cenários em Israel depois das eleições legislativas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Likud vence mas pode não conseguir formar governo",
+      "summary": "Israel foi a votos e ainda não sabe quem vai governar. Benjamin Netanyahu está à frente mas pode não conseguir formar governo e ser o líder do bloco da oposição a avançar para primeiro-ministro",
+      "why": "«Likud vence mas pode não conseguir formar governo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Likud vence mas pode não conseguir formar governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-28T14:12:47+00:00",
-      "age_hours": 2.8,
+      "published": "2026-10-28T22:15:47+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/tres-cenarios-em-israel-depois-das-eleicoes-legislativas_v1775061",
+      "link": "https://www.rtp.pt/noticias/mundo/likud-vence-mas-pode-nao-conseguir-formar-governo_v1775183",
       "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 4,
-      "source_count": 2,
-      "sources": [
-        "RTP Notícias",
-        "Euronews Português"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Euronews Português",
-          "title": "Israel em impasse após eleições, líderes nórdicos fazem rara chamada a Putin",
-          "link": "https://pt.euronews.com/2026/10/28/israel-em-impasse-apos-eleicoes-lideres-nordicos-fazem-rara-chamada-a-putin"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Eleições em Israel. Participação de 77,7% foi a mais elevada em 25 anos",
-          "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eleicoes-em-israel-participacao-de-777-foi-a-mais-elevada-em-25-anos_n1774860"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "O bloco de Eisenkot pode vir a formar governo se juntar à coligação os partidos árabes. Em cima da mesa estão três cenários possíveis. «Três cenários em Israel depois das eleições legislativas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Três cenários em Israel depois das eleições legislativas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 11.92,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky",
-      "summary": "Pelo segundo dia consecutivo, no sul da Ucrânia, está em vigor uma trégua raríssima em quase cinco anos de guerra, na cidade de Oleshky. Uma pausa cirúrgica porque a guerra continua. Durante a madrugada, a Ucrânia atacou uma fábrica de produtos químicos, a cerca de 200 quilómetros a sul de Moscovo. Do lado russo, um submarino nuclear lançou um míssil balístico intercontinental que atingiu o alvo a 600 quilómetros da Finlândia e Noruega. Os líderes destes dois países conversaram com Vladimir Putin, por telefone, na terça-feira",
-      "why": "«Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-28T12:44:51+00:00",
-      "age_hours": 4.3,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/uma-conversa-por-telefone-explosoes-na-russia-e-a-tregua-que-perdura-em-oleshky_n1774984",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -217,27 +204,27 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Pelo segundo dia consecutivo, no sul da Ucrânia, está em vigor uma trégua raríssima em quase cinco anos de guerra, na cidade de Oleshky. Uma pausa cirúrgica porque a guerra continua. Durante a madrugada, a Ucrânia atacou uma fábrica de produtos químicos, a cerca de 200 quilómetros a sul de Moscovo. Do lado russo, um submarino nuclear lançou um míssil balístico intercontinental que atingiu o alvo a 600 quilómetros da Finlândia e Noruega. Os líderes destes dois países conversaram com Vladimir Putin, por telefone, na terça-feira. «Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Uma conversa por telefone, explosões na Rússia e a trégua que perdura em Oleshky», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.1,
+      "detailed_summary": "Israel foi a votos e ainda não sabe quem vai governar. Benjamin Netanyahu está à frente mas pode não conseguir formar governo e ser o líder do bloco da oposição a avançar para primeiro-ministro. «Likud vence mas pode não conseguir formar governo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Likud vence mas pode não conseguir formar governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.85,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "Segurança"
       ],
-      "title": "Encontrado um dos corpos das crianças afogadas em Inhambane",
-      "summary": "Foi encontrado hoje, sem vida, um dos corpos das duas crianças que se afogaram ontem na baía de Inhambane, contudo, as buscas continuam com vista a localizar o outro menor. Refira-se que as duas vítimas faziam parte de um grupo de cinco crianças que se encontravam a brincar junto ao mar. Segundo apuramos, os petizes estavam a atirar mangas para as águas da praia quando, numa das ocasiões em que tentavam apanhá-las, duas delas caíram em águas profundas e não conseguiram sair mais. As outras três conseguiram escapar. As vítimas, com idades compreendidas entre os 14 e os 17 anos, terão-se afogado quando regressavam de uma aula de Educação Física, na Escola 3 de Fevereiro na cidade capital. Leia mais… O conteúdo Encontrado um dos corpos das crianças afogadas em Inhambane aparece primeiro em Jornal Notícias",
-      "why": "«Encontrado um dos corpos das crianças afogadas em Inhambane» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Encontrado um dos corpos das crianças afogadas em Inhambane», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "title": "Desabamento de terra mata mulher e fere outras duas em Nacala",
+      "summary": "Uma mulher de 35 anos morreu e outras duas ficaram gravemente feridas na sequência do desabamento de terra ocorrido ontem, numa área de extracção de inertes, na zona de Ravina, situada entre os bairros de Mocone e Ribaué, no município de Nacala-Porto, província de Nampula. O incidente aconteceu quando as três mulheres se encontravam naquela área, tendo sido surpreendidas pela queda de terra, que provocou a morte de uma delas e ferimentos graves nas outras duas. As sobreviventes necessitaram de assistência médica, mas não foram disponibilizados mais detalhes sobre o seu estado de saúde nem sobre as circunstâncias em que ocorreu o desabamento. O acidente volta a evidenciar os perigos associados à extracção de inertes em zonas susceptíveis a desabamentos, sobretudo quando as condições de segurança não são devidamente observadas. O conteúdo Desabamento de terra mata mulher e fere outras duas em Nacala aparece primeiro em Jornal Notícias",
+      "why": "«Desabamento de terra mata mulher e fere outras duas em Nacala» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Desabamento de terra mata mulher e fere outras duas em Nacala», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-28T14:08:32+00:00",
-      "age_hours": 2.9,
+      "published": "2026-10-28T17:09:53+00:00",
+      "age_hours": 5.8,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/encontrado-um-dos-corpos-das-criancas-afogadas-em-inhambane/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/desabamento-de-terra-mata-mulher-e-fere-outras-duas-em-nacala/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -246,8 +233,8 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Foi encontrado hoje, sem vida, um dos corpos das duas crianças que se afogaram ontem na baía de Inhambane, contudo, as buscas continuam com vista a localizar o outro menor. Refira-se que as duas vítimas faziam parte de um grupo de cinco crianças que se encontravam a brincar junto ao mar. Segundo apuramos, os petizes estavam a atirar mangas para as águas da praia quando, numa das ocasiões em que tentavam apanhá-las, duas delas caíram em águas profundas e não conseguiram sair mais. As outras três conseguiram escapar. As vítimas, com idades compreendidas entre os 14 e os 17 anos, terão-se afogado quando regressavam de uma aula de Educação Física, na Escola 3 de Fevereiro na cidade capital. Leia mais… O conteúdo Encontrado um dos corpos das crianças afogadas em Inhambane aparece primeiro em Jornal Notícias. «Encontrado um dos corpos das crianças afogadas em Inhambane» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Encontrado um dos corpos das crianças afogadas em Inhambane», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 10.4,
+      "detailed_summary": "Uma mulher de 35 anos morreu e outras duas ficaram gravemente feridas na sequência do desabamento de terra ocorrido ontem, numa área de extracção de inertes, na zona de Ravina, situada entre os bairros de Mocone e Ribaué, no município de Nacala-Porto, província de Nampula. O incidente aconteceu quando as três mulheres se encontravam naquela área, tendo sido surpreendidas pela queda de terra, que provocou a morte de uma delas e ferimentos graves nas outras duas. As sobreviventes necessitaram de assistência médica, mas não foram disponibilizados mais detalhes sobre o seu estado de saúde nem sobre as circunstâncias em que ocorreu o desabamento. O acidente volta a evidenciar os perigos associados à extracção de inertes em zonas susceptíveis a desabamentos, sobretudo quando as condições de segurança não são devidamente observadas. O conteúdo Desabamento de terra mata mulher e fere outras duas em Nacala aparece primeiro em Jornal Notícias. «Desabamento de terra mata mulher e fere outras duas em Nacala» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Desabamento de terra mata mulher e fere outras duas em Nacala», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 9.79,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -255,67 +242,89 @@
       "section": "Mundo",
       "tags": [
         "Energia",
-        "Segurança"
-      ],
-      "title": "Putin reúne-se em Moscovo com líderes do Irão e do Qatar",
-      "summary": "Moscovo acolheu, na terça-feira, conversações entre o presidente russo, Vladimir Putin, o presidente do Irão, Masud Pezeshkian, e o emir do Qatar, xeique Tamim bin Hamad Al‑Thani, bem como uma reunião bilateral entre os líderes iraniano e catariano, num contexto de instabilidade persistente no Médio Oriente e de tensão no mercado energético global.Os combates no Médio Oriente, resultantes da guerra dos Estados Unidos e de Israel contra o Irão, provocaram perturbações no abastecimento mundial de energia devido ao bloqueio do estreito de Ormuz e a ataques contra infraestruturas, incluindo no Qatar.Irão: região pode resolver crise sem ajuda dos EUA“Somos vizinhos, temos muitos interesses comuns e trabalhamos para os concretizar. Esperamos que a situação evolua de forma positiva”, afirmou Putin nas conversações com Pezeshkian, sublinhando a “estreita cooperação” entre os dois países.",
-      "why": "«Putin reúne-se em Moscovo com líderes do Irão e do Qatar» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Putin reúne-se em Moscovo com líderes do Irão e do Qatar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-28T13:11:42+00:00",
-      "age_hours": 3.8,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/28/putin-reune-se-em-moscovo-com-lideres-do-irao-e-do-qatar",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Euronews Português",
-          "title": "Qatar apela ao Irão para pôr fim às ameaças e reabrir estreito de Ormuz",
-          "link": "https://pt.euronews.com/2026/10/27/qatar-apela-ao-irao-para-por-fim-as-ameacas-e-reabrir-estreito-de-ormuz"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Moscovo acolheu, na terça-feira, conversações entre o presidente russo, Vladimir Putin, o presidente do Irão, Masud Pezeshkian, e o emir do Qatar, xeique Tamim bin Hamad Al‑Thani, bem como uma reunião bilateral entre os líderes iraniano e catariano, num contexto de instabilidade persistente no Médio Oriente e de tensão no mercado energético global.Os combates no Médio Oriente, resultantes da guerra dos Estados Unidos e de Israel contra o Irão, provocaram perturbações no abastecimento mundial de energia devido ao bloqueio do estreito de Ormuz e a ataques contra infraestruturas, incluindo no Qatar.Irão: região pode resolver crise sem ajuda dos EUA“Somos vizinhos, temos muitos interesses comuns e trabalhamos para os concretizar. Esperamos que a situação evolua de forma positiva”, afirmou Putin nas conversações com Pezeshkian, sublinhando a “estreita cooperação” entre os dois países. «Putin reúne-se em Moscovo com líderes do Irão e do Qatar» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Putin reúne-se em Moscovo com líderes do Irão e do Qatar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 10.21,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
         "Economia"
       ],
-      "title": "Brasil: Lula assinala 81.º aniversário após vitória na reeleição",
-      "summary": "Lula da Silva celebrou esta terça-feira, 27 de outubro, o 81.º aniversário com dezenas de apoiantes junto ao Palácio da Alvorada, em Brasília, dois dias após vencer uma eleição renhida",
-      "why": "«Brasil: Lula assinala 81.º aniversário após vitória na reeleição» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Brasil: Lula assinala 81.º aniversário após vitória na reeleição», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-28T08:31:22+00:00",
-      "age_hours": 8.5,
+      "title": "Timor-Leste integra esforços regionais de promoção do investimento verde",
+      "summary": "Estados-membros da Asean apostam na atração de investimento em biocombustíveis, biomassa e combustível sustentável; oportunidades de aprendizagem coletiva e de promoção do país junto de investidores constituem chance para indústria verde",
+      "why": "«Timor-Leste integra esforços regionais de promoção do investimento verde» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Timor-Leste integra esforços regionais de promoção do investimento verde», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-28T12:00:00+00:00",
+      "age_hours": 11.0,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/28/brasil-lula-assinala-81-aniversario-apos-vitoria-na-reeleicao",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854773",
       "original_source": true,
       "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Euronews Português"
+        "Notícias ONU"
       ],
-      "primary_source": "Euronews Português",
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Estados-membros da Asean apostam na atração de investimento em biocombustíveis, biomassa e combustível sustentável; oportunidades de aprendizagem coletiva e de promoção do país junto de investidores constituem chance para indústria verde. «Timor-Leste integra esforços regionais de promoção do investimento verde» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Timor-Leste integra esforços regionais de promoção do investimento verde», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 9.71,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "ONU: inteligência artificial não pode alimentar estereótipos de gênero",
+      "summary": "Nova tecnologia podem facilitar violência contra as mulheres; especialistas destacam que países precisam combater preconceitos, atitudes, sistemas e estruturas subjacentes",
+      "why": "«ONU: inteligência artificial não pode alimentar estereótipos de gênero» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «ONU: inteligência artificial não pode alimentar estereótipos de gênero», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-28T12:00:00+00:00",
+      "age_hours": 11.0,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854762",
+      "original_source": true,
+      "event_id": "evt-mundo-008",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Lula da Silva celebrou esta terça-feira, 27 de outubro, o 81.º aniversário com dezenas de apoiantes junto ao Palácio da Alvorada, em Brasília, dois dias após vencer uma eleição renhida. «Brasil: Lula assinala 81.º aniversário após vitória na reeleição» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasil: Lula assinala 81.º aniversário após vitória na reeleição», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 6.23,
-      "source_tier": "C",
+      "detailed_summary": "Nova tecnologia podem facilitar violência contra as mulheres; especialistas destacam que países precisam combater preconceitos, atitudes, sistemas e estruturas subjacentes. «ONU: inteligência artificial não pode alimentar estereótipos de gênero» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «ONU: inteligência artificial não pode alimentar estereótipos de gênero», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 9.71,
+      "source_tier": "A",
       "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina",
+      "summary": "Além do vírus, 3,5 milhões de pessoas enfrentam crise de fome devido ao isolamento e a conflitos; ensaios clínicos já testam vacinas contra a cepa bundibugyo em Bunia; OMS diz que é segundo maior surto de ebola no mundo",
+      "why": "«Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "Notícias ONU",
+      "published": "2026-10-27T12:00:00+00:00",
+      "age_hours": 35.0,
+      "within_24h": false,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854764",
+      "original_source": true,
+      "event_id": "evt-áfrica-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "update",
+      "opportunity_flag": false,
+      "detailed_summary": "Além do vírus, 3,5 milhões de pessoas enfrentam crise de fome devido ao isolamento e a conflitos; ensaios clínicos já testam vacinas contra a cepa bundibugyo em Bunia; OMS diz que é segundo maior surto de ebola no mundo. «Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 6.16,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -338,8 +347,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
-    "Mundo": 4
+    "África": 3,
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
