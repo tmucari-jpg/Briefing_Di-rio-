@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T09:30:46.677722+00:00",
+  "updated_at": "2026-10-29T17:20:00.003277+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,48 +8,21 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
+        "IA",
+        "Economia",
+        "Segurança"
       ],
-      "title": "“Educação e Cultura” reúne-se para avaliar a mentoria escolar",
-      "summary": "O Ministério da Educação e Cultura (MEC), em colaboração com a UNICEF e parceiros, realiza, hoje e amanhã, em Maputo, o Encontro Nacional do Programa de Mentoria Escolar. Denominado “Somos Luz”, o programa tem por objectivo consolidar uma visão comum rumo à sua expansão com qualidade e sustentabilidade. Prevê -se ainda o reforço no compromisso institucional com a permanência, progressão e aprendizagem de raparigas e rapazes, indica um comunicado de imprensa enviado ao Notícias. O encontro reúne representantes do Governo, das direcções provinciais e dos serviços distritais de educação, parceiros de cooperação e desenvolvimento e outros actores do sector, num processo de reflexão e construção conjunta da Estratégia Nacional de Mentoria Escolar. Leia mais… O conteúdo “Educação e Cultura” reúne-se para avaliar a mentoria escolar aparece primeiro em Jornal Notícias",
-      "why": "«“Educação e Cultura” reúne-se para avaliar a mentoria escolar» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «“Educação e Cultura” reúne-se para avaliar a mentoria escolar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "title": "PR convida empresários russos a investirem em Moçambique",
+      "summary": "O Presidente da República, Daniel Chapo, convidou, hoje em Moscovo, os empresários russos a investirem em sectores estratégicos da economia moçambicana, defendendo parcerias que promovam a produção nacional, a transferência de tecnologia, a criação de emprego e o desenvolvimento sustentável. Na Sessão Plenária da III Cimeira Rússia-África, o Chefe do Estado destacou também a importância do investimento no capital humano, do reforço da cooperação na área da segurança, do financiamento climático e de uma maior representação africana no Conselho de Segurança das Nações Unidas, apelando à transformação dos compromissos assumidos em resultados concretos para o desenvolvimento e o bem-estar das populações. Entretanto, o Chefe do Estado regressa ainda hoje ao país. O conteúdo PR convida empresários russos a investirem em Moçambique aparece primeiro em Jornal Notícias",
+      "why": "«PR convida empresários russos a investirem em Moçambique» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «PR convida empresários russos a investirem em Moçambique», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-10-29T07:32:26+00:00",
-      "age_hours": 2.0,
+      "published": "2026-10-29T15:13:12+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/educacao-e-cultura-reune-se-para-avaliar-a-mentoria-escolar/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/pr-convida-empresarios-russos-a-investirem-em-mocambique/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Ministério da Educação e Cultura (MEC), em colaboração com a UNICEF e parceiros, realiza, hoje e amanhã, em Maputo, o Encontro Nacional do Programa de Mentoria Escolar. Denominado “Somos Luz”, o programa tem por objectivo consolidar uma visão comum rumo à sua expansão com qualidade e sustentabilidade. Prevê -se ainda o reforço no compromisso institucional com a permanência, progressão e aprendizagem de raparigas e rapazes, indica um comunicado de imprensa enviado ao Notícias. O encontro reúne representantes do Governo, das direcções provinciais e dos serviços distritais de educação, parceiros de cooperação e desenvolvimento e outros actores do sector, num processo de reflexão e construção conjunta da Estratégia Nacional de Mentoria Escolar. Leia mais… O conteúdo “Educação e Cultura” reúne-se para avaliar a mentoria escolar aparece primeiro em Jornal Notícias. «“Educação e Cultura” reúne-se para avaliar a mentoria escolar» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «“Educação e Cultura” reúne-se para avaliar a mentoria escolar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.58,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Niassa debate estratégias de desenvolvimento local",
-      "summary": "A promoção do desenvolvimento socio-económico sustentável exige aperfeiçoamento dos mecanismos de planificação e orçamentação participativa, bem como o reforço da reforma da Administração Pública, com vista a garantir maior eficiência na implementação, monitoria e avaliação das políticas públicas orientadas para a satisfação do interesse público. É neste contexto que Niassa realiza o II Observatório de Desenvolvimento, referente ao presente ano, um fórum consultivo e participativo que reúne o Governo, parceiros nacionais e estrangeiros, para debater estratégias de promoção do desenvolvimento socio-económico sustentável, com enfoque na planificação e orçamentação, bem como na monitoria e avaliação dos instrumentos governamentais. Na abertura do evento, a governadora da província, Judite Massengele, apelou ao sector privado para reforçar os investimentos nos sectores da agricultura, agro-indústria, comercialização e noutras actividades económicas capazes de gerar emprego, dinamizar a economia local e acrescentar valor à produção da província.",
-      "why": "«Niassa debate estratégias de desenvolvimento local» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Niassa debate estratégias de desenvolvimento local», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-29T09:05:17+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/niassa-debate-estrategias-de-desenvolvimento-local/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -58,37 +31,192 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "A promoção do desenvolvimento socio-económico sustentável exige aperfeiçoamento dos mecanismos de planificação e orçamentação participativa, bem como o reforço da reforma da Administração Pública, com vista a garantir maior eficiência na implementação, monitoria e avaliação das políticas públicas orientadas para a satisfação do interesse público. É neste contexto que Niassa realiza o II Observatório de Desenvolvimento, referente ao presente ano, um fórum consultivo e participativo que reúne o Governo, parceiros nacionais e estrangeiros, para debater estratégias de promoção do desenvolvimento socio-económico sustentável, com enfoque na planificação e orçamentação, bem como na monitoria e avaliação dos instrumentos governamentais. Na abertura do evento, a governadora da província, Judite Massengele, apelou ao sector privado para reforçar os investimentos nos sectores da agricultura, agro-indústria, comercialização e noutras actividades económicas capazes de gerar emprego, dinamizar a economia local e acrescentar valor à produção da província. «Niassa debate estratégias de desenvolvimento local» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Niassa debate estratégias de desenvolvimento local», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.92,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, convidou, hoje em Moscovo, os empresários russos a investirem em sectores estratégicos da economia moçambicana, defendendo parcerias que promovam a produção nacional, a transferência de tecnologia, a criação de emprego e o desenvolvimento sustentável. Na Sessão Plenária da III Cimeira Rússia-África, o Chefe do Estado destacou também a importância do investimento no capital humano, do reforço da cooperação na área da segurança, do financiamento climático e de uma maior representação africana no Conselho de Segurança das Nações Unidas, apelando à transformação dos compromissos assumidos em resultados concretos para o desenvolvimento e o bem-estar das populações. Entretanto, o Chefe do Estado regressa ainda hoje ao país. O conteúdo PR convida empresários russos a investirem em Moçambique aparece primeiro em Jornal Notícias. «PR convida empresários russos a investirem em Moçambique» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «PR convida empresários russos a investirem em Moçambique», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 17.56,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Angola admite ter mais de 31 mil funcionários públicos “fictícios”",
-      "summary": "O Governo angolano admitiu a existência de mais de 31 mil funcionários públicos “fictícios ou fantasmas” na base de dados da função pública, segundo a ministra da Administração Pública, Teresa Rodrigues Dias. A informação foi transmitida ontem pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal […]",
-      "why": "«Angola admite ter mais de 31 mil funcionários públicos “fictícios”» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Angola admite ter mais de 31 mil funcionários públicos “fictícios”», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "O País",
-      "published": "2026-10-29T06:30:25+00:00",
-      "age_hours": 3.0,
+      "title": "Japão investe 6,4 milhões de meticais na construção de salas de aula na Matola",
+      "summary": "Maputo, 29 Out (AIM) – O Governo do Japão vai desembolsar cerca de 6,4 milhões de meticais para melhorar as condições de ensino e aprendizagem na Escola Primária Completa 4 de Outubro, no município da Matola, província de Maputo, através da construção de sete salas de aula, instalações sanitárias e reabilitação de infra-estruturas existentes. O projecto, avaliado em 100.449 dólares norte-americanos, equivalentes a aproximadamente 6.418.691 meticais, será executado pela Associação Comunitária para o Desenvolvimento Humano (ASSCODECHA), no âmbito do programa de assistência a projectos comunitários do Governo japonês. O Embaixador do Japão em Moçambique, Keiji Hamada, afirmou que o apoio se enquadra nos esforços de cooperação bilateral, com destaque para o desenvolvimento humano e social e a melhoria da qualidade da educação. “O Japão tem vindo a apoiar Moçambique em diversas áreas prioritárias, com particular destaque para o desenvolvimento humano e social, incluindo a melhoria da qualidade da educação”, declarou Hamada, durante a cerimónia de assinatura do acordo de doação.",
+      "why": "«Japão investe 6,4 milhões de meticais na construção de salas de aula na Matola» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Japão investe 6,4 milhões de meticais na construção de salas de aula na Matola», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-29T15:55:58+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://opais.co.mz/angola-admite-ter-mais-de-31-mil-funcionarios-publicos-ficticios/",
+      "link": "https://aimnews.org/2026/10/29/japao-investe-64-milhoes-de-meticais-na-construcao-de-salas-de-aula-na-matola/",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "AIM Notícias",
+        "Jornal Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Jornal Notícias",
+          "title": "Japão investe 6,4 milhões na requalificação da “4 de Outubro” na Matola",
+          "link": "https://www.jornalnoticias.co.mz/destaque/japao-investe-64-milhoes-na-requalificacao-da-4-de-outubro-na-matola/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 29 Out (AIM) – O Governo do Japão vai desembolsar cerca de 6,4 milhões de meticais para melhorar as condições de ensino e aprendizagem na Escola Primária Completa 4 de Outubro, no município da Matola, província de Maputo, através da construção de sete salas de aula, instalações sanitárias e reabilitação de infra-estruturas existentes. O projecto, avaliado em 100.449 dólares norte-americanos, equivalentes a aproximadamente 6.418.691 meticais, será executado pela Associação Comunitária para o Desenvolvimento Humano (ASSCODECHA), no âmbito do programa de assistência a projectos comunitários do Governo japonês. O Embaixador do Japão em Moçambique, Keiji Hamada, afirmou que o apoio se enquadra nos esforços de cooperação bilateral, com destaque para o desenvolvimento humano e social e a melhoria da qualidade da educação. “O Japão tem vindo a apoiar Moçambique em diversas áreas prioritárias, com particular destaque para o desenvolvimento humano e social, incluindo a melhoria da qualidade da educação”, declarou Hamada, durante a cerimónia de assinatura do acordo de doação. «Japão investe 6,4 milhões de meticais na construção de salas de aula na Matola» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Japão investe 6,4 milhões de meticais na construção de salas de aula na Matola», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 14.21,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Nampula: BCI e ChildFund Moçambique Inauguram Furo de Água em Ribáuè",
+      "summary": "O Banco Comercial e de Investimentos (BCI) e a ChildFund Moçambique procederam, esta terça-feira (27), à inauguração de um furo de água na Escola Primária de Cale 2 – Mutxaiane, […]",
+      "why": "«Nampula: BCI e ChildFund Moçambique Inauguram Furo de Água em Ribáuè» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Nampula: BCI e ChildFund Moçambique Inauguram Furo de Água em Ribáuè», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-10-29T14:00:00+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/29/economia/responsabilidade-social/nampula-bci-e-childfund-mocambique-inauguram-furo-de-agua-em-ribaue/",
+      "original_source": true,
+      "event_id": "evt-mocambique-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "Diário Económico"
       ],
-      "primary_source": "O País",
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Banco Comercial e de Investimentos (BCI) e a ChildFund Moçambique procederam, esta terça-feira (27), à inauguração de um furo de água na Escola Primária de Cale 2 – Mutxaiane, […]. «Nampula: BCI e ChildFund Moçambique Inauguram Furo de Água em Ribáuè» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Nampula: BCI e ChildFund Moçambique Inauguram Furo de Água em Ribáuè», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.31,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo adopta medidas para priorizar a batata nacional face à concorrência",
+      "summary": "Maputo, 29 Out (AIM) – O Governo vai adoptar medidas temporárias para dar prioridade à batata produzida em Moçambique nos mercados nacionais, permitindo a importação do produto estrangeiro apenas para cobrir as necessidades não satisfeitas pela produção interna. O anúncio foi feito esta quinta-feira (29), em Maputo, pelo secretário de Estado do Comércio, António Grispos, durante uma conferência de imprensa dedicada à promoção da produção nacional e à regulação das importações, na qual o governante explicou que a produção interna ainda é insuficiente para justificar restrições mais profundas à entrada de batata sul-africana. “O único caminho que nos resta agora é tomar essas medidas de priorização, não de restrição”, afirmou Grispos, defendendo que a produção nacional deve ter prioridade no mercado, sem comprometer o abastecimento nem provocar uma subida dos preços para o consumidor. Segundo o governante, Moçambique produz cerca de 110 mil a 120 mil toneladas de batata por ano, enquanto as importações provenientes da África do Sul representam entre 86 mil e 90 mil toneladas anuais.",
+      "why": "«Governo adopta medidas para priorizar a batata nacional face à concorrência» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Governo adopta medidas para priorizar a batata nacional face à concorrência», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "AIM Notícias",
+      "published": "2026-10-29T16:12:17+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/10/29/governo-adopta-medidas-para-priorizar-a-batata-nacional-face-a-concorrencia/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Governo angolano admitiu a existência de mais de 31 mil funcionários públicos “fictícios ou fantasmas” na base de dados da função pública, segundo a ministra da Administração Pública, Teresa Rodrigues Dias. A informação foi transmitida ontem pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal […]. «Angola admite ter mais de 31 mil funcionários públicos “fictícios”» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Angola admite ter mais de 31 mil funcionários públicos “fictícios”», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 12.38,
+      "detailed_summary": "Maputo, 29 Out (AIM) – O Governo vai adoptar medidas temporárias para dar prioridade à batata produzida em Moçambique nos mercados nacionais, permitindo a importação do produto estrangeiro apenas para cobrir as necessidades não satisfeitas pela produção interna. O anúncio foi feito esta quinta-feira (29), em Maputo, pelo secretário de Estado do Comércio, António Grispos, durante uma conferência de imprensa dedicada à promoção da produção nacional e à regulação das importações, na qual o governante explicou que a produção interna ainda é insuficiente para justificar restrições mais profundas à entrada de batata sul-africana. “O único caminho que nos resta agora é tomar essas medidas de priorização, não de restrição”, afirmou Grispos, defendendo que a produção nacional deve ter prioridade no mercado, sem comprometer o abastecimento nem provocar uma subida dos preços para o consumidor. Segundo o governante, Moçambique produz cerca de 110 mil a 120 mil toneladas de batata por ano, enquanto as importações provenientes da África do Sul representam entre 86 mil e 90 mil toneladas anuais. «Governo adopta medidas para priorizar a batata nacional face à concorrência» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo adopta medidas para priorizar a batata nacional face à concorrência», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.77,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação",
+      "summary": "Os ministros dos Negócios Estrangeiros da Hungria e dos Estados Unidos reuniram-se presencialmente. O encontro, que tinha sido adiado alguns dias antes, realizou-se na quinta-feira devido à agenda do chefe da diplomacia norte-americana no Texas.Anita Orbán anuncia assinatura de acordos bilaterais\"Assinámos dois importantes acordos de cooperação com o ministro dos Negócios Estrangeiros dos EUA, Marco Rubio. Com o acordo de cooperação 'Trump Peace Pipelines Framework', reforçamos a cooperação no desenvolvimento das infraestruturas regionais de gás natural e petróleo\", anunciou numa publicação no Facebook.E acrescentou: \"Com o outro acordo, reforçamos a cooperação policial e a troca de informações relacionadas com crimes cometidos por organizações radicais, aprofundando ainda mais o trabalho conjunto entre os dois países em matéria de assuntos internos e segurança pública.\"Um dos temas em destaque foi o setor energético, que figura também entre os temas prioritários da atual campanha eleitoral do presidente norte-americano, Donald Trump.",
+      "why": "«Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-29T17:19:09+00:00",
+      "age_hours": 0.0,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/29/chefes-da-diplomacia-da-hungria-e-dos-eua-assinam-acordos-de-cooperacao",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Os ministros dos Negócios Estrangeiros da Hungria e dos Estados Unidos reuniram-se presencialmente. O encontro, que tinha sido adiado alguns dias antes, realizou-se na quinta-feira devido à agenda do chefe da diplomacia norte-americana no Texas.Anita Orbán anuncia assinatura de acordos bilaterais\"Assinámos dois importantes acordos de cooperação com o ministro dos Negócios Estrangeiros dos EUA, Marco Rubio. Com o acordo de cooperação 'Trump Peace Pipelines Framework', reforçamos a cooperação no desenvolvimento das infraestruturas regionais de gás natural e petróleo\", anunciou numa publicação no Facebook.E acrescentou: \"Com o outro acordo, reforçamos a cooperação policial e a troca de informações relacionadas com crimes cometidos por organizações radicais, aprofundando ainda mais o trabalho conjunto entre os dois países em matéria de assuntos internos e segurança pública.\"Um dos temas em destaque foi o setor energético, que figura também entre os temas prioritários da atual campanha eleitoral do presidente norte-americano, Donald Trump. «Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 12.0,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Pedro Sánchez garantiu que a segurança ferroviária será reforçada para evitar mais acidentes",
+      "summary": "O chefe do Governo espanhol reuniu-se com as equipas do Centro Operacional de Toledo. Sánchez assegurou ainda que as causas do acidente serão apuradas até ao último detalhe",
+      "why": "«Pedro Sánchez garantiu que a segurança ferroviária será reforçada para evitar mais acidentes» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Pedro Sánchez garantiu que a segurança ferroviária será reforçada para evitar mais acidentes», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-29T13:26:47+00:00",
+      "age_hours": 3.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/pedro-sanchez-garantiu-que-a-seguranca-ferroviaria-sera-reforcada-para-evitar-mais-acidentes_v1775325",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O chefe do Governo espanhol reuniu-se com as equipas do Centro Operacional de Toledo. Sánchez assegurou ainda que as causas do acidente serão apuradas até ao último detalhe. «Pedro Sánchez garantiu que a segurança ferroviária será reforçada para evitar mais acidentes» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Pedro Sánchez garantiu que a segurança ferroviária será reforçada para evitar mais acidentes», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.19,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Tribunal suspende construção da Praça do Metical em Nampula",
+      "summary": "O Tribunal Administrativo de Nampula suspendeu, recentemente, a construção da Praça do Metical, no Jardim-Parque Popular, na capital provincial, na sequência de uma providência cautelar submetida pela Procuradoria Provincial para averiguar alegadas irregularidades relacionadas com o ordenamento territorial, segurança e protecção ambiental, bem como salvaguardar a legalidade e o interesse público. A construção começou a gerar contestação logo após o lançamento da primeira pedra, quando organizações da sociedade civil manifestaram o seu desacordo com a implantação do projecto naquele espaço público. As organizações questionaram a ocupação do Jardim-Parque Popular, defendendo a necessidade de preservar áreas de uso colectivo para o usufruto dos munícipes. A suspensão visa impedir a continuidade dos trabalhos, enquanto são apreciadas as questões relacionadas com o cumprimento das normas legais aplicáveis à ocupação e utilização dos espaços urbanos, com vista a assegurar a reposição da legalidade e a salvaguarda do interesse público.",
+      "why": "«Tribunal suspende construção da Praça do Metical em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Tribunal suspende construção da Praça do Metical em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-29T14:42:01+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/tribunal-suspende-construcao-da-praca-do-metical-em-nampula/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Tribunal Administrativo de Nampula suspendeu, recentemente, a construção da Praça do Metical, no Jardim-Parque Popular, na capital provincial, na sequência de uma providência cautelar submetida pela Procuradoria Provincial para averiguar alegadas irregularidades relacionadas com o ordenamento territorial, segurança e protecção ambiental, bem como salvaguardar a legalidade e o interesse público. A construção começou a gerar contestação logo após o lançamento da primeira pedra, quando organizações da sociedade civil manifestaram o seu desacordo com a implantação do projecto naquele espaço público. As organizações questionaram a ocupação do Jardim-Parque Popular, defendendo a necessidade de preservar áreas de uso colectivo para o usufruto dos munícipes. A suspensão visa impedir a continuidade dos trabalhos, enquanto são apreciadas as questões relacionadas com o cumprimento das normas legais aplicáveis à ocupação e utilização dos espaços urbanos, com vista a assegurar a reposição da legalidade e a salvaguarda do interesse público. «Tribunal suspende construção da Praça do Metical em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Tribunal suspende construção da Praça do Metical em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 10.46,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -103,7 +231,7 @@
       "impact": "No caso de «Putin defende reforço da influência Russa em África», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "O País",
       "published": "2026-10-29T09:04:30+00:00",
-      "age_hours": 0.4,
+      "age_hours": 8.3,
       "within_24h": true,
       "link": "https://opais.co.mz/putin-defende-reforco-da-influencia-russa-em-africa/",
       "original_source": true,
@@ -117,27 +245,26 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Presidente russo, Vladimir Putin, defendeu o reforço das relações políticas, económicas e militares entre a Rússia e os países africanos, durante a terceira Cimeira Rússia-África, que decorre em Moscovo, com a participação de delegações de 48 países, incluindo 22 chefes de Estado africanos. Na quarta-feira, 28 de Outubro de 2026, Putin considerou a Rússia […]. «Putin defende reforço da influência Russa em África» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Putin defende reforço da influência Russa em África», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 11.92,
+      "editorial_score": 10.27,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense",
-      "summary": "O chefe da diplomacia de Timor-Leste, país que assume a presidência da Comunidade dos Países de Língua Portuguesa (CPLP), disse hoje que uma missão de bons ofícios da organização deve deslocar-se à Guiné-Bissau em dezembro \"Em princípio, estamos a considerar a possibilidade da missão de bons ofícios se realizar na segunda semana de dezembro\", disse à Lusa o ministro timorense dos Negócios Estrangeiros, Bendito Freitas, à margem da sessão inaugural do terceiro fórum empresarial entre Timor-Leste e a Austrália \"Os Estados-membros, através das suas missões permanentes em Lisboa, estabeleceram contactos por intermédio do embaixador da Guiné-Bissau. A comunicação transmitida pelo nosso embaixador na missão permanente às autoridades de alto nível da Guiné-Bissau indicava que estas concordavam com a realização da missão entre 03 e 05 de novembro.",
-      "why": "«Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Abbas espera retomar negociações de paz com novo Governo",
+      "summary": "O Presidente palestiniano, Mahmoud Abbas, manifestou hoje esperança de que a formação de um novo Governo israelita permita retomar as negociações de paz, após as eleições de terça-feira, que não produziram uma maioria parlamentar Durante uma visita a Nicósia, capital de Chipre, o presidente da Autoridade Palestiniana expressou \"a esperança de que o período após a formação do novo Governo israelita ofereça uma oportunidade para retomar um diálogo político sério e fazer avançar a paz\", segundo a agência noticiosa palestiniana Wafa As declarações surgem dois dias depois das eleições legislativas israelitas, cujos resultados ainda não permitiram identificar uma maioria capaz de assegurar a formação de um Governo Nem o Likud, do primeiro-ministro Benjamin Netanyahu, nem o Yashar, a coligação do opositor Gadi Eisenkot, dispõem de uma maioria parlamentar São necessários 61 deputados para controlar o parlamento, pelo que a formação de um governo vai depender de alianças com os partidos menos votados, num contexto em que os partidos árabes Nicósia, 29 out 2026 (Lusa) -- O Presidente…",
+      "why": "«Abbas espera retomar negociações de paz com novo Governo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Abbas espera retomar negociações de paz com novo Governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-29T07:46:44+00:00",
-      "age_hours": 1.7,
+      "published": "2026-10-29T13:47:06+00:00",
+      "age_hours": 3.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/missao-da-cplp-devera-deslocar-se-a-guine-bissau-em-dezembro-informou-mne-timorense_n1775226",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/abbas-espera-retomar-negociacoes-de-paz-com-novo-governo_n1775328",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -146,39 +273,39 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O chefe da diplomacia de Timor-Leste, país que assume a presidência da Comunidade dos Países de Língua Portuguesa (CPLP), disse hoje que uma missão de bons ofícios da organização deve deslocar-se à Guiné-Bissau em dezembro \"Em princípio, estamos a considerar a possibilidade da missão de bons ofícios se realizar na segunda semana de dezembro\", disse à Lusa o ministro timorense dos Negócios Estrangeiros, Bendito Freitas, à margem da sessão inaugural do terceiro fórum empresarial entre Timor-Leste e a Austrália \"Os Estados-membros, através das suas missões permanentes em Lisboa, estabeleceram contactos por intermédio do embaixador da Guiné-Bissau. A comunicação transmitida pelo nosso embaixador na missão permanente às autoridades de alto nível da Guiné-Bissau indicava que estas concordavam com a realização da missão entre 03 e 05 de novembro. «Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.65,
+      "detailed_summary": "O Presidente palestiniano, Mahmoud Abbas, manifestou hoje esperança de que a formação de um novo Governo israelita permita retomar as negociações de paz, após as eleições de terça-feira, que não produziram uma maioria parlamentar Durante uma visita a Nicósia, capital de Chipre, o presidente da Autoridade Palestiniana expressou \"a esperança de que o período após a formação do novo Governo israelita ofereça uma oportunidade para retomar um diálogo político sério e fazer avançar a paz\", segundo a agência noticiosa palestiniana Wafa As declarações surgem dois dias depois das eleições legislativas israelitas, cujos resultados ainda não permitiram identificar uma maioria capaz de assegurar a formação de um Governo Nem o Likud, do primeiro-ministro Benjamin Netanyahu, nem o Yashar, a coligação do opositor Gadi Eisenkot, dispõem de uma maioria parlamentar São necessários 61 deputados para controlar o parlamento, pelo que a formação de um governo vai depender de alianças com os partidos menos votados, num contexto em que os partidos árabes Nicósia, 29 out 2026 (Lusa) -- O Presidente… «Abbas espera retomar negociações de paz com novo Governo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Abbas espera retomar negociações de paz com novo Governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.27,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "África",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização",
-      "summary": "Maputo, 28 de Out (AIM) – A necessidade de proteger os recursos naturais africanos, reforçar a soberania económica do continente e garantir que a sua exploração se traduza em benefícios concretos para as populações esteve em destaque na abertura do Fórum Económico e Humanitário Rússia–África, realizada hoje, em Moscovo. O encontro, que reúne líderes africanos e representantes do sector empresarial, voltou a colocar no centro do debate a exigência de os países africanos assumirem maior controlo sobre as suas riquezas naturais, apostando na transformação local das matérias-primas, na industrialização e na criação de valor acrescentado. A abordagem converge com a agenda defendida pelo Presidente da República de Moçambique, Daniel Chapo, que tem reiterado a importância de transformar o potencial dos recursos nacionais em oportunidades de desenvolvimento económico, emprego e melhoria das condições de vida dos moçambicanos.",
-      "why": "«Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-10-28T20:50:36+00:00",
-      "age_hours": 12.7,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/28/cimeira-russia-africa-reitera-necessidade-de-proteger-os-recursos-africanos-e-garantir-a-sua-valorizacao/",
+      "title": "Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"",
+      "summary": "O Governo angolano anunciou hoje que funcionários reformados e falecidos ainda constam da base dados da função pública como estando no ativo, admitindo existirem mais de 31 mil funcionários públicos \"fictícios ou fantasmas\" A informação foi transmitida hoje pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal em causa custa aos cofres do Estado recursos financeiros avultados, que poderiam ser poupados \"se o controlo fosse mais efetivo\" Em declarações na abertura da cerimónia de lançamento oficial do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH), a governante deu nota que o processo de inserção de funcionários nesta plataforma revelou \"realidades preocupantes\" Mais de 31.000 funcionários públicos constam da base de dados como estado no ativo, mas, explicou, estes não puderem ser atualizados, por razões que, \"em muitos casos, suscitam profundas suspeições\" Segundo Teresa Rodrigues Dias, muitos funcionários estão com paradeiro desconhecido, falta de documentos de identificação…",
+      "why": "«Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "RTP Notícias",
+      "published": "2026-10-28T12:53:15+00:00",
+      "age_hours": 28.4,
+      "within_24h": false,
+      "link": "https://www.rtp.pt/noticias/mundo/angola-admite-ter-mais-de-31-mil-funcionarios-publicos-ficticios-ou-fantasmas_n1775009",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM Notícias"
+        "RTP Notícias"
       ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 28 de Out (AIM) – A necessidade de proteger os recursos naturais africanos, reforçar a soberania económica do continente e garantir que a sua exploração se traduza em benefícios concretos para as populações esteve em destaque na abertura do Fórum Económico e Humanitário Rússia–África, realizada hoje, em Moscovo. O encontro, que reúne líderes africanos e representantes do sector empresarial, voltou a colocar no centro do debate a exigência de os países africanos assumirem maior controlo sobre as suas riquezas naturais, apostando na transformação local das matérias-primas, na industrialização e na criação de valor acrescentado. A abordagem converge com a agenda defendida pelo Presidente da República de Moçambique, Daniel Chapo, que tem reiterado a importância de transformar o potencial dos recursos nacionais em oportunidades de desenvolvimento económico, emprego e melhoria das condições de vida dos moçambicanos. «Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.35,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
+      "primary_source": "RTP Notícias",
+      "status": "update",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo angolano anunciou hoje que funcionários reformados e falecidos ainda constam da base dados da função pública como estando no ativo, admitindo existirem mais de 31 mil funcionários públicos \"fictícios ou fantasmas\" A informação foi transmitida hoje pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal em causa custa aos cofres do Estado recursos financeiros avultados, que poderiam ser poupados \"se o controlo fosse mais efetivo\" Em declarações na abertura da cerimónia de lançamento oficial do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH), a governante deu nota que o processo de inserção de funcionários nesta plataforma revelou \"realidades preocupantes\" Mais de 31.000 funcionários públicos constam da base de dados como estado no ativo, mas, explicou, estes não puderem ser atualizados, por razões que, \"em muitos casos, suscitam profundas suspeições\" Segundo Teresa Rodrigues Dias, muitos funcionários estão com paradeiro desconhecido, falta de documentos de identificação… «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 9.36,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "África",
@@ -192,11 +319,11 @@
       "impact": "No caso de «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-28T18:44:21+00:00",
-      "age_hours": 14.8,
+      "age_hours": 22.6,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-diz-que-ir-a-cimeira-nao-altera-condenacao-da-invasao-da-ucrania_n1775086",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -206,115 +333,26 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O ministro dos Negócios Estrangeiros de Cabo Verde disse hoje que a participação na cimeira Rússia-África, a decorrer em Moscovo, não altera a posição de condenação da invasão russa da Ucrânia \"Não, não altera. Assim que assumimos o Governo, a primeira coisa que fizemos em termos de relações externas foi afirmar que todos os compromissos que tinham sido assumidos pelo anterior Governo seriam respeitados\", referiu Manuel Amante da Rosa, em resposta à Lusa, na cidade da Praia O governante recordou que o país \"votou contra a invasão da Crimeia nas Nações Unidas, em várias resoluções\" e continuará \"a respeitar esse compromisso\" O anterior Governo de Cabo Verde não participou na cimeira de 2023 por condenar a invasão e o atual chefe da diplomacia disse que a posição se mantém A cimeira Rússia-África deste ano \"é copresidida pelo presidente da Federação Russa e pelo presidente da União Africana (UA), que é o Presidente do Burundi\", explicou \"Nós temos um embaixador na UA, portanto, há uma responsabilidade partilhada. «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 10.92,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro",
-      "summary": "Maputo, 28 Out (AIM) – O Governo moçambicano pretende reforçar a capacidade nacional de diagnóstico e assistência médica especializada, com vista a reduzir a transferência de doentes para tratamento no estrangeiro, apelando ao sector privado para investir em soluções que permitam responder às necessidades dos pacientes no país. A intenção foi manifestada pelo ministro da Saúde, Ussene Isse, esta quarta-feira, em Maputo, na abertura da segunda edição da Moçambique Medical Expo 2026, ocasião em que desafiou clínicas privadas, laboratórios, redes de farmácias e outros operadores a estabelecerem parcerias com o Governo para ampliar a oferta de serviços médicos especializados. «Estamos a transferir doentes do nosso país para exames e tratamentos fora do nosso país, África do Sul, Índia, por aí fora. Será que não temos capacidade interna para resolver este problema? Temos ou não temos?», questionou.",
-      "why": "«Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-28T20:19:58+00:00",
-      "age_hours": 13.2,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/28/governo-quer-reforcar-sistema-de-saude-para-reduzir-procura-de-tratamentos-no-estrangeiro/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 28 Out (AIM) – O Governo moçambicano pretende reforçar a capacidade nacional de diagnóstico e assistência médica especializada, com vista a reduzir a transferência de doentes para tratamento no estrangeiro, apelando ao sector privado para investir em soluções que permitam responder às necessidades dos pacientes no país. A intenção foi manifestada pelo ministro da Saúde, Ussene Isse, esta quarta-feira, em Maputo, na abertura da segunda edição da Moçambique Medical Expo 2026, ocasião em que desafiou clínicas privadas, laboratórios, redes de farmácias e outros operadores a estabelecerem parcerias com o Governo para ampliar a oferta de serviços médicos especializados. «Estamos a transferir doentes do nosso país para exames e tratamentos fora do nosso país, África do Sul, Índia, por aí fora. Será que não temos capacidade interna para resolver este problema? Temos ou não temos?», questionou. «Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.25,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto",
-      "summary": "Programa de hojeO correspondente da Euronews em Espanha Rafael Salido traz as últimas informações sobre o acidente de comboio que provocou pelo menos 68 mortos e sobre o modo como a tragédia pode afetar a campanha para as eleições legislativas em Espanha, com Pedro Sánchez sob pressão.Jorge Liboreiro acompanha a cimeira UE‑Canadá em Montreal, a sombra de Donald Trump e as razões pelas quais os Estados‑membros chumbaram a ideia de um “estatuto de membro associado”.Allan Lichtman, historiador na American University, explica se os Estados Unidos devem preparar‑se para uma vaga de processos judiciais após as intercalares, numa altura em que Donald Trump alimenta dúvidas sobre os resultados e alegadas fraudes eleitorais.Shona Murray explica porque é que a Ucrânia depende dos interceptores Patriot e porque é que Washington está a atrasar o seu envio.Osama Rizvi, estratega de mercados globais e de produto na Primary Vision, analisa a subida dos preços do petróleo e do gasóleo e a vulnerabilidade da Europa perante uma escassez de combustíveis.Europe Today: onde e quando verPode acompanhar a…",
-      "why": "«Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-29T07:03:50+00:00",
-      "age_hours": 2.4,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/29/espanha-segundo-desastre-em-comboio-de-alta-velocidade-em-nove-meses-deixa-pais-em-luto",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Programa de hojeO correspondente da Euronews em Espanha Rafael Salido traz as últimas informações sobre o acidente de comboio que provocou pelo menos 68 mortos e sobre o modo como a tragédia pode afetar a campanha para as eleições legislativas em Espanha, com Pedro Sánchez sob pressão.Jorge Liboreiro acompanha a cimeira UE‑Canadá em Montreal, a sombra de Donald Trump e as razões pelas quais os Estados‑membros chumbaram a ideia de um “estatuto de membro associado”.Allan Lichtman, historiador na American University, explica se os Estados Unidos devem preparar‑se para uma vaga de processos judiciais após as intercalares, numa altura em que Donald Trump alimenta dúvidas sobre os resultados e alegadas fraudes eleitorais.Shona Murray explica porque é que a Ucrânia depende dos interceptores Patriot e porque é que Washington está a atrasar o seu envio.Osama Rizvi, estratega de mercados globais e de produto na Primary Vision, analisa a subida dos preços do petróleo e do gasóleo e a vulnerabilidade da Europa perante uma escassez de combustíveis.Europe Today: onde e quando verPode acompanhar a… «Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 8.5,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "Timor-Leste integra esforços regionais de promoção do investimento verde",
-      "summary": "Estados-membros da Asean apostam na atração de investimento em biocombustíveis, biomassa e combustível sustentável; oportunidades de aprendizagem coletiva e de promoção do país junto de investidores constituem chance para indústria verde",
-      "why": "«Timor-Leste integra esforços regionais de promoção do investimento verde» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Timor-Leste integra esforços regionais de promoção do investimento verde», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-28T12:00:00+00:00",
-      "age_hours": 21.5,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854773",
-      "original_source": true,
-      "event_id": "evt-mundo-014",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Estados-membros da Asean apostam na atração de investimento em biocombustíveis, biomassa e combustível sustentável; oportunidades de aprendizagem coletiva e de promoção do país junto de investidores constituem chance para indústria verde. «Timor-Leste integra esforços regionais de promoção do investimento verde» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Timor-Leste integra esforços regionais de promoção do investimento verde», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 7.52,
+      "editorial_score": 9.29,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
         "Segurança"
       ],
-      "title": "Putin reúne-se em Moscovo com líderes do Irão e do Qatar",
-      "summary": "Moscovo acolheu, na terça-feira, conversações entre o presidente russo, Vladimir Putin, o presidente do Irão, Masud Pezeshkian, e o emir do Qatar, xeique Tamim bin Hamad Al‑Thani, bem como uma reunião bilateral entre os líderes iraniano e catariano, num contexto de instabilidade persistente no Médio Oriente e de tensão no mercado energético global.Os combates no Médio Oriente, resultantes da guerra dos Estados Unidos e de Israel contra o Irão, provocaram perturbações no abastecimento mundial de energia devido ao bloqueio do estreito de Ormuz e a ataques contra infraestruturas, incluindo no Qatar.Irão: região pode resolver crise sem ajuda dos EUA“Somos vizinhos, temos muitos interesses comuns e trabalhamos para os concretizar. Esperamos que a situação evolua de forma positiva”, afirmou Putin nas conversações com Pezeshkian, sublinhando a “estreita cooperação” entre os dois países.",
-      "why": "«Putin reúne-se em Moscovo com líderes do Irão e do Qatar» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Putin reúne-se em Moscovo com líderes do Irão e do Qatar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz",
+      "summary": "O vice-presidente dos EUA, JD Vance, contactou o chefe de segurança do Irão, numa tentativa de retomar as negociações de paz e evitar um novo ataque dos EUA à República Islâmica, noticiou o Wall Street Journal na quarta-feira.Vance enviou uma carta a Mohsen Rezaei, presidente do Conselho Supremo de Segurança Nacional do Irão, alegadamente a pedido do presidente dos EUA, Donald Trump, de acordo com uma das fontes do jornal.Esta iniciativa visa determinar se Washington e Teerão conseguem encontrar pontos em comum suficientes para persuadir Trump a adiar a ordem de uma campanha militar que as autoridades descreveram como \"curta, mas intensa\" contra o Irão nas próximas semanas.A iniciativa surge apesar da recente declaração de Trump de que a sua administração não estava a negociar com o Irão e das suas repetidas advertências de que novas ações militares poderiam ser iminentes.A carta e os contactos subsequentes entre responsáveis norte-americanos e iranianos têm-se centrado no estabelecimento de um quadro para potenciais negociações, em vez de delinear um acordo de paz detalhado…",
+      "why": "«JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-28T13:11:42+00:00",
-      "age_hours": 20.3,
+      "published": "2026-10-29T15:35:50+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/28/putin-reune-se-em-moscovo-com-lideres-do-irao-e-do-qatar",
+      "link": "https://pt.euronews.com/2026/10/29/jd-vance-contactou-alto-responsavel-iraniano-numa-tentativa-de-reativar-negociacoes-de-paz",
       "original_source": true,
-      "event_id": "evt-mundo-012",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -323,8 +361,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Moscovo acolheu, na terça-feira, conversações entre o presidente russo, Vladimir Putin, o presidente do Irão, Masud Pezeshkian, e o emir do Qatar, xeique Tamim bin Hamad Al‑Thani, bem como uma reunião bilateral entre os líderes iraniano e catariano, num contexto de instabilidade persistente no Médio Oriente e de tensão no mercado energético global.Os combates no Médio Oriente, resultantes da guerra dos Estados Unidos e de Israel contra o Irão, provocaram perturbações no abastecimento mundial de energia devido ao bloqueio do estreito de Ormuz e a ataques contra infraestruturas, incluindo no Qatar.Irão: região pode resolver crise sem ajuda dos EUA“Somos vizinhos, temos muitos interesses comuns e trabalhamos para os concretizar. Esperamos que a situação evolua de forma positiva”, afirmou Putin nas conversações com Pezeshkian, sublinhando a “estreita cooperação” entre os dois países. «Putin reúne-se em Moscovo com líderes do Irão e do Qatar» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Putin reúne-se em Moscovo com líderes do Irão e do Qatar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 6.77,
+      "detailed_summary": "O vice-presidente dos EUA, JD Vance, contactou o chefe de segurança do Irão, numa tentativa de retomar as negociações de paz e evitar um novo ataque dos EUA à República Islâmica, noticiou o Wall Street Journal na quarta-feira.Vance enviou uma carta a Mohsen Rezaei, presidente do Conselho Supremo de Segurança Nacional do Irão, alegadamente a pedido do presidente dos EUA, Donald Trump, de acordo com uma das fontes do jornal.Esta iniciativa visa determinar se Washington e Teerão conseguem encontrar pontos em comum suficientes para persuadir Trump a adiar a ordem de uma campanha militar que as autoridades descreveram como \"curta, mas intensa\" contra o Irão nas próximas semanas.A iniciativa surge apesar da recente declaração de Trump de que a sua administração não estava a negociar com o Irão e das suas repetidas advertências de que novas ações militares poderiam ser iminentes.A carta e os contactos subsequentes entre responsáveis norte-americanos e iranianos têm-se centrado no estabelecimento de um quadro para potenciais negociações, em vez de delinear um acordo de paz detalhado… «JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.65,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -348,7 +386,7 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
+    "Moçambique": 5,
     "África": 3,
     "Mundo": 4
   },
