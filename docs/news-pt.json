@@ -1,10 +1,156 @@
 {
-  "updated_at": "2026-10-28T22:57:59.064279+00:00",
+  "updated_at": "2026-10-29T09:30:46.677722+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "“Educação e Cultura” reúne-se para avaliar a mentoria escolar",
+      "summary": "O Ministério da Educação e Cultura (MEC), em colaboração com a UNICEF e parceiros, realiza, hoje e amanhã, em Maputo, o Encontro Nacional do Programa de Mentoria Escolar. Denominado “Somos Luz”, o programa tem por objectivo consolidar uma visão comum rumo à sua expansão com qualidade e sustentabilidade. Prevê -se ainda o reforço no compromisso institucional com a permanência, progressão e aprendizagem de raparigas e rapazes, indica um comunicado de imprensa enviado ao Notícias. O encontro reúne representantes do Governo, das direcções provinciais e dos serviços distritais de educação, parceiros de cooperação e desenvolvimento e outros actores do sector, num processo de reflexão e construção conjunta da Estratégia Nacional de Mentoria Escolar. Leia mais… O conteúdo “Educação e Cultura” reúne-se para avaliar a mentoria escolar aparece primeiro em Jornal Notícias",
+      "why": "«“Educação e Cultura” reúne-se para avaliar a mentoria escolar» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «“Educação e Cultura” reúne-se para avaliar a mentoria escolar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-29T07:32:26+00:00",
+      "age_hours": 2.0,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/educacao-e-cultura-reune-se-para-avaliar-a-mentoria-escolar/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Ministério da Educação e Cultura (MEC), em colaboração com a UNICEF e parceiros, realiza, hoje e amanhã, em Maputo, o Encontro Nacional do Programa de Mentoria Escolar. Denominado “Somos Luz”, o programa tem por objectivo consolidar uma visão comum rumo à sua expansão com qualidade e sustentabilidade. Prevê -se ainda o reforço no compromisso institucional com a permanência, progressão e aprendizagem de raparigas e rapazes, indica um comunicado de imprensa enviado ao Notícias. O encontro reúne representantes do Governo, das direcções provinciais e dos serviços distritais de educação, parceiros de cooperação e desenvolvimento e outros actores do sector, num processo de reflexão e construção conjunta da Estratégia Nacional de Mentoria Escolar. Leia mais… O conteúdo “Educação e Cultura” reúne-se para avaliar a mentoria escolar aparece primeiro em Jornal Notícias. «“Educação e Cultura” reúne-se para avaliar a mentoria escolar» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «“Educação e Cultura” reúne-se para avaliar a mentoria escolar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.58,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Niassa debate estratégias de desenvolvimento local",
+      "summary": "A promoção do desenvolvimento socio-económico sustentável exige aperfeiçoamento dos mecanismos de planificação e orçamentação participativa, bem como o reforço da reforma da Administração Pública, com vista a garantir maior eficiência na implementação, monitoria e avaliação das políticas públicas orientadas para a satisfação do interesse público. É neste contexto que Niassa realiza o II Observatório de Desenvolvimento, referente ao presente ano, um fórum consultivo e participativo que reúne o Governo, parceiros nacionais e estrangeiros, para debater estratégias de promoção do desenvolvimento socio-económico sustentável, com enfoque na planificação e orçamentação, bem como na monitoria e avaliação dos instrumentos governamentais. Na abertura do evento, a governadora da província, Judite Massengele, apelou ao sector privado para reforçar os investimentos nos sectores da agricultura, agro-indústria, comercialização e noutras actividades económicas capazes de gerar emprego, dinamizar a economia local e acrescentar valor à produção da província.",
+      "why": "«Niassa debate estratégias de desenvolvimento local» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Niassa debate estratégias de desenvolvimento local», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-29T09:05:17+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/niassa-debate-estrategias-de-desenvolvimento-local/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A promoção do desenvolvimento socio-económico sustentável exige aperfeiçoamento dos mecanismos de planificação e orçamentação participativa, bem como o reforço da reforma da Administração Pública, com vista a garantir maior eficiência na implementação, monitoria e avaliação das políticas públicas orientadas para a satisfação do interesse público. É neste contexto que Niassa realiza o II Observatório de Desenvolvimento, referente ao presente ano, um fórum consultivo e participativo que reúne o Governo, parceiros nacionais e estrangeiros, para debater estratégias de promoção do desenvolvimento socio-económico sustentável, com enfoque na planificação e orçamentação, bem como na monitoria e avaliação dos instrumentos governamentais. Na abertura do evento, a governadora da província, Judite Massengele, apelou ao sector privado para reforçar os investimentos nos sectores da agricultura, agro-indústria, comercialização e noutras actividades económicas capazes de gerar emprego, dinamizar a economia local e acrescentar valor à produção da província. «Niassa debate estratégias de desenvolvimento local» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Niassa debate estratégias de desenvolvimento local», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.92,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Angola admite ter mais de 31 mil funcionários públicos “fictícios”",
+      "summary": "O Governo angolano admitiu a existência de mais de 31 mil funcionários públicos “fictícios ou fantasmas” na base de dados da função pública, segundo a ministra da Administração Pública, Teresa Rodrigues Dias. A informação foi transmitida ontem pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal […]",
+      "why": "«Angola admite ter mais de 31 mil funcionários públicos “fictícios”» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Angola admite ter mais de 31 mil funcionários públicos “fictícios”», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "O País",
+      "published": "2026-10-29T06:30:25+00:00",
+      "age_hours": 3.0,
+      "within_24h": true,
+      "link": "https://opais.co.mz/angola-admite-ter-mais-de-31-mil-funcionarios-publicos-ficticios/",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo angolano admitiu a existência de mais de 31 mil funcionários públicos “fictícios ou fantasmas” na base de dados da função pública, segundo a ministra da Administração Pública, Teresa Rodrigues Dias. A informação foi transmitida ontem pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal […]. «Angola admite ter mais de 31 mil funcionários públicos “fictícios”» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Angola admite ter mais de 31 mil funcionários públicos “fictícios”», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 12.38,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Putin defende reforço da influência Russa em África",
+      "summary": "O Presidente russo, Vladimir Putin, defendeu o reforço das relações políticas, económicas e militares entre a Rússia e os países africanos, durante a terceira Cimeira Rússia-África, que decorre em Moscovo, com a participação de delegações de 48 países, incluindo 22 chefes de Estado africanos. Na quarta-feira, 28 de Outubro de 2026, Putin considerou a Rússia […]",
+      "why": "«Putin defende reforço da influência Russa em África» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Putin defende reforço da influência Russa em África», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "source": "O País",
+      "published": "2026-10-29T09:04:30+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://opais.co.mz/putin-defende-reforco-da-influencia-russa-em-africa/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente russo, Vladimir Putin, defendeu o reforço das relações políticas, económicas e militares entre a Rússia e os países africanos, durante a terceira Cimeira Rússia-África, que decorre em Moscovo, com a participação de delegações de 48 países, incluindo 22 chefes de Estado africanos. Na quarta-feira, 28 de Outubro de 2026, Putin considerou a Rússia […]. «Putin defende reforço da influência Russa em África» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Putin defende reforço da influência Russa em África», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 11.92,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense",
+      "summary": "O chefe da diplomacia de Timor-Leste, país que assume a presidência da Comunidade dos Países de Língua Portuguesa (CPLP), disse hoje que uma missão de bons ofícios da organização deve deslocar-se à Guiné-Bissau em dezembro \"Em princípio, estamos a considerar a possibilidade da missão de bons ofícios se realizar na segunda semana de dezembro\", disse à Lusa o ministro timorense dos Negócios Estrangeiros, Bendito Freitas, à margem da sessão inaugural do terceiro fórum empresarial entre Timor-Leste e a Austrália \"Os Estados-membros, através das suas missões permanentes em Lisboa, estabeleceram contactos por intermédio do embaixador da Guiné-Bissau. A comunicação transmitida pelo nosso embaixador na missão permanente às autoridades de alto nível da Guiné-Bissau indicava que estas concordavam com a realização da missão entre 03 e 05 de novembro.",
+      "why": "«Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-29T07:46:44+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/missao-da-cplp-devera-deslocar-se-a-guine-bissau-em-dezembro-informou-mne-timorense_n1775226",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O chefe da diplomacia de Timor-Leste, país que assume a presidência da Comunidade dos Países de Língua Portuguesa (CPLP), disse hoje que uma missão de bons ofícios da organização deve deslocar-se à Guiné-Bissau em dezembro \"Em princípio, estamos a considerar a possibilidade da missão de bons ofícios se realizar na segunda semana de dezembro\", disse à Lusa o ministro timorense dos Negócios Estrangeiros, Bendito Freitas, à margem da sessão inaugural do terceiro fórum empresarial entre Timor-Leste e a Austrália \"Os Estados-membros, através das suas missões permanentes em Lisboa, estabeleceram contactos por intermédio do embaixador da Guiné-Bissau. A comunicação transmitida pelo nosso embaixador na missão permanente às autoridades de alto nível da Guiné-Bissau indicava que estas concordavam com a realização da missão entre 03 e 05 de novembro. «Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Missão da CPLP deverá deslocar-se à Guiné-Bissau em dezembro informou MNE timorense», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.65,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -16,11 +162,11 @@
       "impact": "No caso de «Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "AIM Notícias",
       "published": "2026-10-28T20:50:36+00:00",
-      "age_hours": 2.1,
+      "age_hours": 12.7,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/28/cimeira-russia-africa-reitera-necessidade-de-proteger-os-recursos-africanos-e-garantir-a-sua-valorizacao/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,7 +176,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 28 de Out (AIM) – A necessidade de proteger os recursos naturais africanos, reforçar a soberania económica do continente e garantir que a sua exploração se traduza em benefícios concretos para as populações esteve em destaque na abertura do Fórum Económico e Humanitário Rússia–África, realizada hoje, em Moscovo. O encontro, que reúne líderes africanos e representantes do sector empresarial, voltou a colocar no centro do debate a exigência de os países africanos assumirem maior controlo sobre as suas riquezas naturais, apostando na transformação local das matérias-primas, na industrialização e na criação de valor acrescentado. A abordagem converge com a agenda defendida pelo Presidente da República de Moçambique, Daniel Chapo, que tem reiterado a importância de transformar o potencial dos recursos nacionais em oportunidades de desenvolvimento económico, emprego e melhoria das condições de vida dos moçambicanos. «Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Cimeira Rússia–África reitera necessidade de proteger os recursos africanos e garantir a sua valorização», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.56,
+      "editorial_score": 11.35,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -46,11 +192,11 @@
       "impact": "No caso de «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-10-28T18:44:21+00:00",
-      "age_hours": 4.2,
+      "age_hours": 14.8,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-diz-que-ir-a-cimeira-nao-altera-condenacao-da-invasao-da-ucrania_n1775086",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -60,7 +206,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O ministro dos Negócios Estrangeiros de Cabo Verde disse hoje que a participação na cimeira Rússia-África, a decorrer em Moscovo, não altera a posição de condenação da invasão russa da Ucrânia \"Não, não altera. Assim que assumimos o Governo, a primeira coisa que fizemos em termos de relações externas foi afirmar que todos os compromissos que tinham sido assumidos pelo anterior Governo seriam respeitados\", referiu Manuel Amante da Rosa, em resposta à Lusa, na cidade da Praia O governante recordou que o país \"votou contra a invasão da Crimeia nas Nações Unidas, em várias resoluções\" e continuará \"a respeitar esse compromisso\" O anterior Governo de Cabo Verde não participou na cimeira de 2023 por condenar a invasão e o atual chefe da diplomacia disse que a posição se mantém A cimeira Rússia-África deste ano \"é copresidida pelo presidente da Federação Russa e pelo presidente da União Africana (UA), que é o Presidente do Burundi\", explicou \"Nós temos um embaixador na UA, portanto, há uma responsabilidade partilhada. «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 13.12,
+      "editorial_score": 10.92,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -75,11 +221,11 @@
       "impact": "No caso de «Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-28T20:19:58+00:00",
-      "age_hours": 2.6,
+      "age_hours": 13.2,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/28/governo-quer-reforcar-sistema-de-saude-para-reduzir-procura-de-tratamentos-no-estrangeiro/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -89,153 +235,37 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 28 Out (AIM) – O Governo moçambicano pretende reforçar a capacidade nacional de diagnóstico e assistência médica especializada, com vista a reduzir a transferência de doentes para tratamento no estrangeiro, apelando ao sector privado para investir em soluções que permitam responder às necessidades dos pacientes no país. A intenção foi manifestada pelo ministro da Saúde, Ussene Isse, esta quarta-feira, em Maputo, na abertura da segunda edição da Moçambique Medical Expo 2026, ocasião em que desafiou clínicas privadas, laboratórios, redes de farmácias e outros operadores a estabelecerem parcerias com o Governo para ampliar a oferta de serviços médicos especializados. «Estamos a transferir doentes do nosso país para exames e tratamentos fora do nosso país, África do Sul, Índia, por aí fora. Será que não temos capacidade interna para resolver este problema? Temos ou não temos?», questionou. «Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo quer reforçar sistema de saúde para reduzir procura de tratamentos no estrangeiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.46,
+      "editorial_score": 10.25,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito",
-      "summary": "A economia moçambicana está a recuperar, mas o crescimento continua aquém do necessário para melhorar significativamente as condições de vida da população. O alerta foi deixado esta quarta-feira, 28 de […]",
-      "why": "«Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-28T15:30:00+00:00",
-      "age_hours": 7.5,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/28/economia/banco-de-mocambique-alerta-para-recuperacao-insuficiente-e-pressao-da-divida-sobre-o-credito/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A economia moçambicana está a recuperar, mas o crescimento continua aquém do necessário para melhorar significativamente as condições de vida da população. O alerta foi deixado esta quarta-feira, 28 de […]. «Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Banco de Moçambique Alerta Para Recuperação Insuficiente e Pressão da Dívida Sobre o Crédito», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.44,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Podemos quer Parlamento a produzir compromissos concretos",
-      "summary": "O Parlamento deve produzir compromissos concretos que acompanham e desenvolvimento dos sectores da Saúde, Educação, construção e reabilitação da Estrada Nacional nº Um (N1), Instituto Nacional de Segurança Social, Linhas Aéreas de Moçambique (LAM), bem como garantir a paz e segurança em Cabo Delgado. Esta posição foi avançada hoje pelo chefe da bancada do Podemos, Bastião Mussanhane, falando na abertura da IV sessão ordinária da Assembleia da República, que hoje arrancou em Maputo. Explicou que o verdadeiro valor de uma fiscalização parlamentar não está apenas na gravidade das perguntas formuladas, mas na capacidade de obter respostas, corrigir problemas e melhorar a vida dos cidadãos. A oposição tem o direito e o dever de questionar o Governo e este tem a responsabilidade de prestar contas. E ambos têm uma obrigação superior: servir a República.",
-      "why": "«Podemos quer Parlamento a produzir compromissos concretos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Podemos quer Parlamento a produzir compromissos concretos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-28T14:41:16+00:00",
-      "age_hours": 8.3,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/podemos-quer-parlamento-a-produzir-compromissos-concretos/",
-      "original_source": true,
-      "event_id": "evt-mocambique-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Parlamento deve produzir compromissos concretos que acompanham e desenvolvimento dos sectores da Saúde, Educação, construção e reabilitação da Estrada Nacional nº Um (N1), Instituto Nacional de Segurança Social, Linhas Aéreas de Moçambique (LAM), bem como garantir a paz e segurança em Cabo Delgado. Esta posição foi avançada hoje pelo chefe da bancada do Podemos, Bastião Mussanhane, falando na abertura da IV sessão ordinária da Assembleia da República, que hoje arrancou em Maputo. Explicou que o verdadeiro valor de uma fiscalização parlamentar não está apenas na gravidade das perguntas formuladas, mas na capacidade de obter respostas, corrigir problemas e melhorar a vida dos cidadãos. A oposição tem o direito e o dever de questionar o Governo e este tem a responsabilidade de prestar contas. E ambos têm uma obrigação superior: servir a República. «Podemos quer Parlamento a produzir compromissos concretos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Podemos quer Parlamento a produzir compromissos concretos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.27,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"",
-      "summary": "O Governo angolano anunciou hoje que funcionários reformados e falecidos ainda constam da base dados da função pública como estando no ativo, admitindo existirem mais de 31 mil funcionários públicos \"fictícios ou fantasmas\" A informação foi transmitida hoje pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal em causa custa aos cofres do Estado recursos financeiros avultados, que poderiam ser poupados \"se o controlo fosse mais efetivo\" Em declarações na abertura da cerimónia de lançamento oficial do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH), a governante deu nota que o processo de inserção de funcionários nesta plataforma revelou \"realidades preocupantes\" Mais de 31.000 funcionários públicos constam da base de dados como estado no ativo, mas, explicou, estes não puderem ser atualizados, por razões que, \"em muitos casos, suscitam profundas suspeições\" Segundo Teresa Rodrigues Dias, muitos funcionários estão com paradeiro desconhecido, falta de documentos de identificação…",
-      "why": "«Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "RTP Notícias",
-      "published": "2026-10-28T12:53:15+00:00",
-      "age_hours": 10.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/angola-admite-ter-mais-de-31-mil-funcionarios-publicos-ficticios-ou-fantasmas_n1775009",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo angolano anunciou hoje que funcionários reformados e falecidos ainda constam da base dados da função pública como estando no ativo, admitindo existirem mais de 31 mil funcionários públicos \"fictícios ou fantasmas\" A informação foi transmitida hoje pela ministra da Administração Pública, Trabalho e Segurança Social de Angola, Teresa Rodrigues Dias, referindo que o pessoal em causa custa aos cofres do Estado recursos financeiros avultados, que poderiam ser poupados \"se o controlo fosse mais efetivo\" Em declarações na abertura da cerimónia de lançamento oficial do Sistema Integrado de Gestão de Recursos Humanos da Função Pública (SINGERH), a governante deu nota que o processo de inserção de funcionários nesta plataforma revelou \"realidades preocupantes\" Mais de 31.000 funcionários públicos constam da base de dados como estado no ativo, mas, explicou, estes não puderem ser atualizados, por razões que, \"em muitos casos, suscitam profundas suspeições\" Segundo Teresa Rodrigues Dias, muitos funcionários estão com paradeiro desconhecido, falta de documentos de identificação… «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Angola admite ter mais de 31 mil funcionários públicos \"fictícios ou fantasmas\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 11.9,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Likud vence mas pode não conseguir formar governo",
-      "summary": "Israel foi a votos e ainda não sabe quem vai governar. Benjamin Netanyahu está à frente mas pode não conseguir formar governo e ser o líder do bloco da oposição a avançar para primeiro-ministro",
-      "why": "«Likud vence mas pode não conseguir formar governo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Likud vence mas pode não conseguir formar governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-28T22:15:47+00:00",
-      "age_hours": 0.7,
+      "title": "Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto",
+      "summary": "Programa de hojeO correspondente da Euronews em Espanha Rafael Salido traz as últimas informações sobre o acidente de comboio que provocou pelo menos 68 mortos e sobre o modo como a tragédia pode afetar a campanha para as eleições legislativas em Espanha, com Pedro Sánchez sob pressão.Jorge Liboreiro acompanha a cimeira UE‑Canadá em Montreal, a sombra de Donald Trump e as razões pelas quais os Estados‑membros chumbaram a ideia de um “estatuto de membro associado”.Allan Lichtman, historiador na American University, explica se os Estados Unidos devem preparar‑se para uma vaga de processos judiciais após as intercalares, numa altura em que Donald Trump alimenta dúvidas sobre os resultados e alegadas fraudes eleitorais.Shona Murray explica porque é que a Ucrânia depende dos interceptores Patriot e porque é que Washington está a atrasar o seu envio.Osama Rizvi, estratega de mercados globais e de produto na Primary Vision, analisa a subida dos preços do petróleo e do gasóleo e a vulnerabilidade da Europa perante uma escassez de combustíveis.Europe Today: onde e quando verPode acompanhar a…",
+      "why": "«Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-29T07:03:50+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/likud-vence-mas-pode-nao-conseguir-formar-governo_v1775183",
+      "link": "https://pt.euronews.com/2026/10/29/espanha-segundo-desastre-em-comboio-de-alta-velocidade-em-nove-meses-deixa-pais-em-luto",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Euronews Português"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Israel foi a votos e ainda não sabe quem vai governar. Benjamin Netanyahu está à frente mas pode não conseguir formar governo e ser o líder do bloco da oposição a avançar para primeiro-ministro. «Likud vence mas pode não conseguir formar governo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Likud vence mas pode não conseguir formar governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.85,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Desabamento de terra mata mulher e fere outras duas em Nacala",
-      "summary": "Uma mulher de 35 anos morreu e outras duas ficaram gravemente feridas na sequência do desabamento de terra ocorrido ontem, numa área de extracção de inertes, na zona de Ravina, situada entre os bairros de Mocone e Ribaué, no município de Nacala-Porto, província de Nampula. O incidente aconteceu quando as três mulheres se encontravam naquela área, tendo sido surpreendidas pela queda de terra, que provocou a morte de uma delas e ferimentos graves nas outras duas. As sobreviventes necessitaram de assistência médica, mas não foram disponibilizados mais detalhes sobre o seu estado de saúde nem sobre as circunstâncias em que ocorreu o desabamento. O acidente volta a evidenciar os perigos associados à extracção de inertes em zonas susceptíveis a desabamentos, sobretudo quando as condições de segurança não são devidamente observadas. O conteúdo Desabamento de terra mata mulher e fere outras duas em Nacala aparece primeiro em Jornal Notícias",
-      "why": "«Desabamento de terra mata mulher e fere outras duas em Nacala» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Desabamento de terra mata mulher e fere outras duas em Nacala», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-28T17:09:53+00:00",
-      "age_hours": 5.8,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/desabamento-de-terra-mata-mulher-e-fere-outras-duas-em-nacala/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Uma mulher de 35 anos morreu e outras duas ficaram gravemente feridas na sequência do desabamento de terra ocorrido ontem, numa área de extracção de inertes, na zona de Ravina, situada entre os bairros de Mocone e Ribaué, no município de Nacala-Porto, província de Nampula. O incidente aconteceu quando as três mulheres se encontravam naquela área, tendo sido surpreendidas pela queda de terra, que provocou a morte de uma delas e ferimentos graves nas outras duas. As sobreviventes necessitaram de assistência médica, mas não foram disponibilizados mais detalhes sobre o seu estado de saúde nem sobre as circunstâncias em que ocorreu o desabamento. O acidente volta a evidenciar os perigos associados à extracção de inertes em zonas susceptíveis a desabamentos, sobretudo quando as condições de segurança não são devidamente observadas. O conteúdo Desabamento de terra mata mulher e fere outras duas em Nacala aparece primeiro em Jornal Notícias. «Desabamento de terra mata mulher e fere outras duas em Nacala» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Desabamento de terra mata mulher e fere outras duas em Nacala», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 9.79,
-      "source_tier": "B",
+      "detailed_summary": "Programa de hojeO correspondente da Euronews em Espanha Rafael Salido traz as últimas informações sobre o acidente de comboio que provocou pelo menos 68 mortos e sobre o modo como a tragédia pode afetar a campanha para as eleições legislativas em Espanha, com Pedro Sánchez sob pressão.Jorge Liboreiro acompanha a cimeira UE‑Canadá em Montreal, a sombra de Donald Trump e as razões pelas quais os Estados‑membros chumbaram a ideia de um “estatuto de membro associado”.Allan Lichtman, historiador na American University, explica se os Estados Unidos devem preparar‑se para uma vaga de processos judiciais após as intercalares, numa altura em que Donald Trump alimenta dúvidas sobre os resultados e alegadas fraudes eleitorais.Shona Murray explica porque é que a Ucrânia depende dos interceptores Patriot e porque é que Washington está a atrasar o seu envio.Osama Rizvi, estratega de mercados globais e de produto na Primary Vision, analisa a subida dos preços do petróleo e do gasóleo e a vulnerabilidade da Europa perante uma escassez de combustíveis.Europe Today: onde e quando verPode acompanhar a… «Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Espanha: segundo desastre em comboio de alta velocidade em nove meses deixa país em luto», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 8.5,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -250,11 +280,11 @@
       "impact": "No caso de «Timor-Leste integra esforços regionais de promoção do investimento verde», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Notícias ONU",
       "published": "2026-10-28T12:00:00+00:00",
-      "age_hours": 11.0,
+      "age_hours": 21.5,
       "within_24h": true,
       "link": "https://news.un.org/feed/view/pt/story/2026/10/1854773",
       "original_source": true,
-      "event_id": "evt-mundo-007",
+      "event_id": "evt-mundo-014",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -264,67 +294,39 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Estados-membros da Asean apostam na atração de investimento em biocombustíveis, biomassa e combustível sustentável; oportunidades de aprendizagem coletiva e de promoção do país junto de investidores constituem chance para indústria verde. «Timor-Leste integra esforços regionais de promoção do investimento verde» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Timor-Leste integra esforços regionais de promoção do investimento verde», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 9.71,
+      "editorial_score": 7.52,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
-      ],
-      "title": "ONU: inteligência artificial não pode alimentar estereótipos de gênero",
-      "summary": "Nova tecnologia podem facilitar violência contra as mulheres; especialistas destacam que países precisam combater preconceitos, atitudes, sistemas e estruturas subjacentes",
-      "why": "«ONU: inteligência artificial não pode alimentar estereótipos de gênero» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «ONU: inteligência artificial não pode alimentar estereótipos de gênero», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-28T12:00:00+00:00",
-      "age_hours": 11.0,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854762",
-      "original_source": true,
-      "event_id": "evt-mundo-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Nova tecnologia podem facilitar violência contra as mulheres; especialistas destacam que países precisam combater preconceitos, atitudes, sistemas e estruturas subjacentes. «ONU: inteligência artificial não pode alimentar estereótipos de gênero» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «ONU: inteligência artificial não pode alimentar estereótipos de gênero», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 9.71,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
+        "Energia",
         "Segurança"
       ],
-      "title": "Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina",
-      "summary": "Além do vírus, 3,5 milhões de pessoas enfrentam crise de fome devido ao isolamento e a conflitos; ensaios clínicos já testam vacinas contra a cepa bundibugyo em Bunia; OMS diz que é segundo maior surto de ebola no mundo",
-      "why": "«Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "Notícias ONU",
-      "published": "2026-10-27T12:00:00+00:00",
-      "age_hours": 35.0,
-      "within_24h": false,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854764",
+      "title": "Putin reúne-se em Moscovo com líderes do Irão e do Qatar",
+      "summary": "Moscovo acolheu, na terça-feira, conversações entre o presidente russo, Vladimir Putin, o presidente do Irão, Masud Pezeshkian, e o emir do Qatar, xeique Tamim bin Hamad Al‑Thani, bem como uma reunião bilateral entre os líderes iraniano e catariano, num contexto de instabilidade persistente no Médio Oriente e de tensão no mercado energético global.Os combates no Médio Oriente, resultantes da guerra dos Estados Unidos e de Israel contra o Irão, provocaram perturbações no abastecimento mundial de energia devido ao bloqueio do estreito de Ormuz e a ataques contra infraestruturas, incluindo no Qatar.Irão: região pode resolver crise sem ajuda dos EUA“Somos vizinhos, temos muitos interesses comuns e trabalhamos para os concretizar. Esperamos que a situação evolua de forma positiva”, afirmou Putin nas conversações com Pezeshkian, sublinhando a “estreita cooperação” entre os dois países.",
+      "why": "«Putin reúne-se em Moscovo com líderes do Irão e do Qatar» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Putin reúne-se em Moscovo com líderes do Irão e do Qatar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-28T13:11:42+00:00",
+      "age_hours": 20.3,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/28/putin-reune-se-em-moscovo-com-lideres-do-irao-e-do-qatar",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-mundo-012",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Notícias ONU"
+        "Euronews Português"
       ],
-      "primary_source": "Notícias ONU",
-      "status": "update",
+      "primary_source": "Euronews Português",
+      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Além do vírus, 3,5 milhões de pessoas enfrentam crise de fome devido ao isolamento e a conflitos; ensaios clínicos já testam vacinas contra a cepa bundibugyo em Bunia; OMS diz que é segundo maior surto de ebola no mundo. «Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Casos de ebola na RD Congo superam 10 mil em meio a novos testes de vacina», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 6.16,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
+      "detailed_summary": "Moscovo acolheu, na terça-feira, conversações entre o presidente russo, Vladimir Putin, o presidente do Irão, Masud Pezeshkian, e o emir do Qatar, xeique Tamim bin Hamad Al‑Thani, bem como uma reunião bilateral entre os líderes iraniano e catariano, num contexto de instabilidade persistente no Médio Oriente e de tensão no mercado energético global.Os combates no Médio Oriente, resultantes da guerra dos Estados Unidos e de Israel contra o Irão, provocaram perturbações no abastecimento mundial de energia devido ao bloqueio do estreito de Ormuz e a ataques contra infraestruturas, incluindo no Qatar.Irão: região pode resolver crise sem ajuda dos EUA“Somos vizinhos, temos muitos interesses comuns e trabalhamos para os concretizar. Esperamos que a situação evolua de forma positiva”, afirmou Putin nas conversações com Pezeshkian, sublinhando a “estreita cooperação” entre os dois países. «Putin reúne-se em Moscovo com líderes do Irão e do Qatar» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Putin reúne-se em Moscovo com líderes do Irão e do Qatar», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 6.77,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
     }
   ],
   "watch": [
@@ -346,9 +348,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 5,
+    "Moçambique": 4,
     "África": 3,
-    "Mundo": 3
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
