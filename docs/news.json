@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:43:04.110568+00:00",
+  "updated_at": "2026-10-30T16:57:50.274714+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,20 +8,21 @@
     {
       "section": "Moçambique",
       "tags": [
+        "IA",
         "Segurança"
       ],
-      "title": "Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado",
-      "summary": "Maputo – A União Europeia (UE) e Moçambique estão a aprofundar a cooperação militar para reforçar a capacidade das Forças Armadas moçambicanas no combate ao terrorismo em Cabo Delgado, província do norte do país afectada pela violência armada. O assunto esteve no centro de um encontro entre o Ministro da Defesa Nacional, Cristóvão Chume, o Embaixador da União Europeia em Moçambique, Francisco Fontán, e o Comandante da Missão de Assistência Militar da UE em Moçambique (EUMAM MOZ), Sérgio Estrela. Durante o encontro, as partes abordaram o reforço da parceria bilateral no domínio da segurança, o futuro da missão militar europeia em Moçambique e os esforços conjuntos para responder à ameaça terrorista no norte do país. Segundo a informação divulgada pela União Europeia, as conversações incidiram igualmente sobre o papel da EUMAM MOZ na formação e no aconselhamento especializado às Forças Armadas de Defesa de Moçambique (FADM), tendo em conta as necessidades operacionais do país.",
-      "why": "«Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "title": "Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional",
+      "summary": "Maputo, 30 de Out (AIM) – Moçambique e Zâmbia defendem o reforço da cooperação bilateral em matéria de defesa e segurança, com aposta na utilização de tecnologias modernas, meios de vigilância e formação especializada para prevenir e combater o terrorismo, o narcotráfico e outras formas de criminalidade organizada e transnacional na região da África Austral. A posição foi defendida pelo Inspector-Geral e Comandante-Geral da Polícia da República de Moçambique (PRM), Joaquim Adriano Sive, durante a XIV Sessão da Comissão Conjunta Permanente de Defesa e Segurança entre Moçambique e Zâmbia, que decorreu esta semana em Maputo. Na sua intervenção, Joaquim Sive sublinhou a necessidade de intensificar a cooperação entre os dois países, particularmente através da introdução de meios tecnológicos adequados aos actuais desafios de segurança, de modo a melhorar a capacidade de prevenção, detecção e combate às ameaças que afectam a região.",
+      "why": "«Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-30T09:33:44+00:00",
-      "age_hours": 0.1,
+      "published": "2026-10-30T09:48:54+00:00",
+      "age_hours": 7.1,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/30/mocambique-e-ue-reforcam-cooperacao-militar-no-combate-ao-terrorismo-em-cabo-delgado/",
+      "link": "https://aimnews.org/2026/10/30/mocambique-e-zambia-reforcam-cooperacao-contra-ameacas-a-seguranca-regional/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 2,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 3,
       "source_count": 2,
       "sources": [
         "AIM Notícias",
@@ -31,14 +32,19 @@
       "status": "today",
       "confirmations": [
         {
+          "source": "AIM Notícias",
+          "title": "Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado",
+          "link": "https://aimnews.org/2026/10/30/mocambique-e-ue-reforcam-cooperacao-militar-no-combate-ao-terrorismo-em-cabo-delgado/"
+        },
+        {
           "source": "Jornal Notícias",
           "title": "Cresce cooperação na Defesa entre Moçambique e Índia",
           "link": "https://www.jornalnoticias.co.mz/destaque/cresce-cooperacao-na-defesa-entre-mocambique-e-india/"
         }
       ],
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo – A União Europeia (UE) e Moçambique estão a aprofundar a cooperação militar para reforçar a capacidade das Forças Armadas moçambicanas no combate ao terrorismo em Cabo Delgado, província do norte do país afectada pela violência armada. O assunto esteve no centro de um encontro entre o Ministro da Defesa Nacional, Cristóvão Chume, o Embaixador da União Europeia em Moçambique, Francisco Fontán, e o Comandante da Missão de Assistência Militar da UE em Moçambique (EUMAM MOZ), Sérgio Estrela. Durante o encontro, as partes abordaram o reforço da parceria bilateral no domínio da segurança, o futuro da missão militar europeia em Moçambique e os esforços conjuntos para responder à ameaça terrorista no norte do país. Segundo a informação divulgada pela União Europeia, as conversações incidiram igualmente sobre o papel da EUMAM MOZ na formação e no aconselhamento especializado às Forças Armadas de Defesa de Moçambique (FADM), tendo em conta as necessidades operacionais do país. «Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 15.48,
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 30 de Out (AIM) – Moçambique e Zâmbia defendem o reforço da cooperação bilateral em matéria de defesa e segurança, com aposta na utilização de tecnologias modernas, meios de vigilância e formação especializada para prevenir e combater o terrorismo, o narcotráfico e outras formas de criminalidade organizada e transnacional na região da África Austral. A posição foi defendida pelo Inspector-Geral e Comandante-Geral da Polícia da República de Moçambique (PRM), Joaquim Adriano Sive, durante a XIV Sessão da Comissão Conjunta Permanente de Defesa e Segurança entre Moçambique e Zâmbia, que decorreu esta semana em Maputo. Na sua intervenção, Joaquim Sive sublinhou a necessidade de intensificar a cooperação entre os dois países, particularmente através da introdução de meios tecnológicos adequados aos actuais desafios de segurança, de modo a melhorar a capacidade de prevenção, detecção e combate às ameaças que afectam a região. «Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 15.02,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -47,46 +53,17 @@
       "tags": [
         "IA"
       ],
-      "title": "Governo aposta na inteligência artificial para modernizar Administração Pública",
-      "summary": "Maputo, 29 de Outubro (AIM) – O Governo moçambicano defende a adopção da inteligência artificial (IA) como instrumento para melhorar a eficiência da Administração Pública, acelerar a prestação de serviços e aproximar as instituições do Estado dos cidadãos. A posição foi expressa pelo Ministro das Comunicações e Transformação Digital, Américo Muchanga, na abertura do workshop «AI for Governance», uma iniciativa centrada na aplicação prática da inteligência artificial nos processos de governação. Na ocasião, Muchanga afirmou que a inteligência artificial já está a produzir mudanças em sectores como a educação, a saúde, a ciência e a gestão das organizações, deixando de ser uma tecnologia associada exclusivamente ao futuro. Na Administração Pública, segundo o governante, estas ferramentas podem contribuir para a análise de grandes volumes de informação, a preparação célere de documentos, o apoio à formulação de políticas públicas e a redução dos atrasos na prestação de serviços aos cidadãos.",
-      "why": "«Governo aposta na inteligência artificial para modernizar Administração Pública» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Governo aposta na inteligência artificial para modernizar Administração Pública», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-30T09:25:41+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/30/governo-aposta-na-inteligencia-artificial-para-modernizar-administracao-publica/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 29 de Outubro (AIM) – O Governo moçambicano defende a adopção da inteligência artificial (IA) como instrumento para melhorar a eficiência da Administração Pública, acelerar a prestação de serviços e aproximar as instituições do Estado dos cidadãos. A posição foi expressa pelo Ministro das Comunicações e Transformação Digital, Américo Muchanga, na abertura do workshop «AI for Governance», uma iniciativa centrada na aplicação prática da inteligência artificial nos processos de governação. Na ocasião, Muchanga afirmou que a inteligência artificial já está a produzir mudanças em sectores como a educação, a saúde, a ciência e a gestão das organizações, deixando de ser uma tecnologia associada exclusivamente ao futuro. Na Administração Pública, segundo o governante, estas ferramentas podem contribuir para a análise de grandes volumes de informação, a preparação célere de documentos, o apoio à formulação de políticas públicas e a redução dos atrasos na prestação de serviços aos cidadãos. «Governo aposta na inteligência artificial para modernizar Administração Pública» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Governo aposta na inteligência artificial para modernizar Administração Pública», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 13.94,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM",
-      "summary": "O governador do Banco de Moçambique, Felisberto Navalha, considera que o crescimento económico do País continua insuficiente para melhorar as condições de vida da população, num contexto marcado pelo aumento da dívida pública, dificuldades no acesso a divisas e fraca expansão do crédito à economia. Falando nesta quarta-feira, em Tete, na abertura do 51.º Conselho […]",
-      "why": "«Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Zambézia recebe 966 computadores para estudantes do ensino superior",
+      "summary": "O Governo de Moçambique vai entregar 966 computadores portáteis a estudantes do ensino superior da província da Zambézia, no âmbito do Programa Um Computador, Um Estudante do Ensino Superior (1CEES). A iniciativa, implementada pelo Ministério das Comunicações e Transformação Digital, visa facilitar o acesso dos estudantes às tecnologias digitais, promovendo a investigação científica, a melhoria […]",
+      "why": "«Zambézia recebe 966 computadores para estudantes do ensino superior» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Zambézia recebe 966 computadores para estudantes do ensino superior», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "O País",
-      "published": "2026-10-30T07:17:58+00:00",
-      "age_hours": 2.4,
+      "published": "2026-10-30T15:09:08+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://opais.co.mz/crescimento-economico-continua-insuficiente-para-reduzir-pobreza-alerta-bdm/",
+      "link": "https://opais.co.mz/zambezia-recebe-966-computadores-para-estudantes-do-ensino-superior/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -94,97 +71,55 @@
       ],
       "primary_source": "O País",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O governador do Banco de Moçambique, Felisberto Navalha, considera que o crescimento económico do País continua insuficiente para melhorar as condições de vida da população, num contexto marcado pelo aumento da dívida pública, dificuldades no acesso a divisas e fraca expansão do crédito à economia. Falando nesta quarta-feira, em Tete, na abertura do 51.º Conselho […]. «Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.5,
+      "opportunity_flag": true,
+      "detailed_summary": "O Governo de Moçambique vai entregar 966 computadores portáteis a estudantes do ensino superior da província da Zambézia, no âmbito do Programa Um Computador, Um Estudante do Ensino Superior (1CEES). A iniciativa, implementada pelo Ministério das Comunicações e Transformação Digital, visa facilitar o acesso dos estudantes às tecnologias digitais, promovendo a investigação científica, a melhoria […]. «Zambézia recebe 966 computadores para estudantes do ensino superior» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Zambézia recebe 966 computadores para estudantes do ensino superior», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 13.62,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Importação de batata-reno pode ser restringida",
-      "summary": "O Governo pondera introduzir períodos de inibição da importação de batata-reno, como forma de melhorar o acesso dos produtores nacionais ao mercado e estimular o crescimento da produção interna, no quadro da política de substituição das importações. A informação foi avançada ontem, em Maputo, pelo secretário de Estado do Comércio, António Grispos, ao anunciar as decisões da Comissão Consultiva de Importações. Na ocasião, anunciou que a decisão pode ser extensiva para produtos como a cebola e o tomate como forma de valorizar os produtos agrícolas nacionais. Segundo Grispos, a intenção não é proibir, nesta fase, a entrada de batata proveniente da África do Sul, principal fornecedor do mercado moçambicano, mas estabelecer mecanismos que permitam dar prioridade à produção interna, deixando a importação para cobrir as necessidades que não possam ser satisfeitas pelos produtores nacionais. Actualmente cerca de 64 por cento da batata sul-africana se destina ao mercado moçambicano, correspondendo à importações anuais estimadas entre 86 mil e 90 mil toneladas.",
-      "why": "«Importação de batata-reno pode ser restringida» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Importação de batata-reno pode ser restringida», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Jornal Notícias",
-      "published": "2026-10-30T07:56:44+00:00",
-      "age_hours": 1.8,
+      "title": "São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção",
+      "summary": "Os alvos são os mais vulneráveis em meio a previsões de um forte El Niño; país africano quer blindar comunidades e infraestruturas com sistemas de alerta precoce e gestão de riscos; projeto com apoio do Fundo Verde para o Clima quer responder a desastres como as graves inundações de 2021",
+      "why": "«São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "source": "Notícias ONU",
+      "published": "2026-10-30T12:00:00+00:00",
+      "age_hours": 5.0,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/importacao-de-batata-reno-pode-ser-restringida/",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854797",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Jornal Notícias"
+        "Notícias ONU"
       ],
-      "primary_source": "Jornal Notícias",
+      "primary_source": "Notícias ONU",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Governo pondera introduzir períodos de inibição da importação de batata-reno, como forma de melhorar o acesso dos produtores nacionais ao mercado e estimular o crescimento da produção interna, no quadro da política de substituição das importações. A informação foi avançada ontem, em Maputo, pelo secretário de Estado do Comércio, António Grispos, ao anunciar as decisões da Comissão Consultiva de Importações. Na ocasião, anunciou que a decisão pode ser extensiva para produtos como a cebola e o tomate como forma de valorizar os produtos agrícolas nacionais. Segundo Grispos, a intenção não é proibir, nesta fase, a entrada de batata proveniente da África do Sul, principal fornecedor do mercado moçambicano, mas estabelecer mecanismos que permitam dar prioridade à produção interna, deixando a importação para cobrir as necessidades que não possam ser satisfeitas pelos produtores nacionais. Actualmente cerca de 64 por cento da batata sul-africana se destina ao mercado moçambicano, correspondendo à importações anuais estimadas entre 86 mil e 90 mil toneladas. «Importação de batata-reno pode ser restringida» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Importação de batata-reno pode ser restringida», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.62,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Eleições em Israel terminam em impasse e poderão ter de ser repetidas",
-      "summary": "Com todos os votos contados, confirma-se a vitória de Benjamin Netanyahu nas eleições israelitas. No entanto, ficou aquém da maioria necessária para governar, o que abre caminho a um longo período de difíceis negociações de coligação",
-      "why": "«Eleições em Israel terminam em impasse e poderão ter de ser repetidas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Eleições em Israel terminam em impasse e poderão ter de ser repetidas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-30T09:38:03+00:00",
-      "age_hours": 0.1,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eleicoes-em-israel-terminam-em-impasse-e-poderao-ter-de-ser-repetidas_n1775549",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 7,
-      "source_count": 2,
-      "sources": [
-        "RTP Notícias",
-        "Euronews Português"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Euronews Português",
-          "title": "Israel: bloco de Netanyahu lidera eleições mas não obtém maioria",
-          "link": "https://pt.euronews.com/2026/10/30/israel-bloco-de-netanyahu-lidera-eleicoes-mas-nao-obtem-maioria"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Bloco de Netanyahu vence mas sem maioria para governar",
-          "link": "https://www.rtp.pt/noticias/mundo/bloco-de-netanyahu-vence-mas-sem-maioria-para-governar_n1775482"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "Com todos os votos contados, confirma-se a vitória de Benjamin Netanyahu nas eleições israelitas. No entanto, ficou aquém da maioria necessária para governar, o que abre caminho a um longo período de difíceis negociações de coligação. «Eleições em Israel terminam em impasse e poderão ter de ser repetidas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições em Israel terminam em impasse e poderão ter de ser repetidas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 12.48,
+      "detailed_summary": "Os alvos são os mais vulneráveis em meio a previsões de um forte El Niño; país africano quer blindar comunidades e infraestruturas com sistemas de alerta precoce e gestão de riscos; projeto com apoio do Fundo Verde para o Clima quer responder a desastres como as graves inundações de 2021. «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 12.96,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha",
-      "summary": "O Ministério dos Negócios Estrangeiros confirmou esta sexta-feira que um cidadão português morreu na colisão entre dois comboios em Urda, Espanha",
-      "why": "«Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Zelensky visita Turquia no sábado para conversações com Erdogan",
+      "summary": "O Presidente ucraniano, Volodymyr Zelensky, vai à Turquia no sábado para discutir com o homólogo Recep Tayyip Erdogan a guerra com a Rússia e a segurança no mar Negro, anunciou hoje a presidência turca Erdogan e Zelensky vão falar sobre os \"desenvolvimentos regionais e internacionais, nomeadamente o conflito russo-ucraniano e a situação de segurança no mar Negro\", anunciou a presidência Também vão discutir medidas para \"desenvolver ainda mais a cooperação bilateral entre a Turquia e a Ucrânia\" O encontro vai realizar-se em Istambul, precisou o diretor das comunicações da presidência turca, Burhanettin Duran, citado pela agência francesa AFP Num telefonema com o Presidente norte-americano, Donald Trump, na quarta-feira, Erdogan afirmou que a Turquia estava pronta para apoiar os esforços para relançar as conversações entre Kiev e Moscovo sobre o fim da guerra A Turquia, exasperada com os ataques no mar Negro, apresentou um protocolo de acordo a Kiev e a Moscovo para pôr fim às ofensivas contra os navios mercantes, disse uma fonte diplomática turca em setembro à AFP O texto…",
+      "why": "«Zelensky visita Turquia no sábado para conversações com Erdogan» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Zelensky visita Turquia no sábado para conversações com Erdogan», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-30T09:22:09+00:00",
-      "age_hours": 0.3,
+      "published": "2026-10-30T16:25:32+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/cidadao-portugues-entre-as-vitimas-mortais-do-desastre-ferroviario-em-espanha_n1775553",
+      "link": "https://www.rtp.pt/noticias/mundo/zelensky-visita-turquia-no-sabado-para-conversacoes-com-erdogan_n1775675",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -195,98 +130,95 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Ministério dos Negócios Estrangeiros confirmou esta sexta-feira que um cidadão português morreu na colisão entre dois comboios em Urda, Espanha. «Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.94,
+      "detailed_summary": "O Presidente ucraniano, Volodymyr Zelensky, vai à Turquia no sábado para discutir com o homólogo Recep Tayyip Erdogan a guerra com a Rússia e a segurança no mar Negro, anunciou hoje a presidência turca Erdogan e Zelensky vão falar sobre os \"desenvolvimentos regionais e internacionais, nomeadamente o conflito russo-ucraniano e a situação de segurança no mar Negro\", anunciou a presidência Também vão discutir medidas para \"desenvolver ainda mais a cooperação bilateral entre a Turquia e a Ucrânia\" O encontro vai realizar-se em Istambul, precisou o diretor das comunicações da presidência turca, Burhanettin Duran, citado pela agência francesa AFP Num telefonema com o Presidente norte-americano, Donald Trump, na quarta-feira, Erdogan afirmou que a Turquia estava pronta para apoiar os esforços para relançar as conversações entre Kiev e Moscovo sobre o fim da guerra A Turquia, exasperada com os ataques no mar Negro, apresentou um protocolo de acordo a Kiev e a Moscovo para pôr fim às ofensivas contra os navios mercantes, disse uma fonte diplomática turca em setembro à AFP O texto… «Zelensky visita Turquia no sábado para conversações com Erdogan» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Zelensky visita Turquia no sábado para conversações com Erdogan», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.9,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Moçambique",
       "tags": [
         "Segurança"
       ],
-      "title": "EUA impõem sanções ao Ministério da Defesa de Ruanda",
-      "summary": "Os Estados Unidos da América (EUA) impuseram sanções ao Ministério da Defesa de Ruanda, acusando-o de ajudar a sustentar o grupo rebelde M23, que luta no leste da República Democrática do Congo. Washington espera aumentar a pressão sobre Kigali para que retire as tropas do país vizinho e cesse o alegado apoio ao grupo e […]",
-      "why": "«EUA impõem sanções ao Ministério da Defesa de Ruanda» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «EUA impõem sanções ao Ministério da Defesa de Ruanda», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "O País",
-      "published": "2026-10-30T06:07:24+00:00",
-      "age_hours": 3.6,
+      "title": "UE destaca reforço da capacidade operacional das Forças Armadas moçambicanas",
+      "summary": "Maputo, 30 de Outubro (AIM) – A Missão de Assistência Militar da União Europeia em Moçambique (EUMAM MOZ) tem contribuído para o desenvolvimento das capacidades técnicas e humanas das Forças Armadas de Defesa de Moçambique (FADM), com enfoque na preparação operacional, formação especializada e reforço da autonomia das forças nacionais. A avaliação foi apresentada esta semana em Maputo, pelo Brigadeiro-General Sérgio Lino de Almeida Estrela, comandante da Força da EUMAM MOZ, durante uma palestra subordinada ao tema «Contributos da Missão de Assistência Militar da União Europeia para a Defesa e Segurança de Moçambique», promovida pelo Centro de Análise Estratégica da Comunidade dos Países de Língua Portuguesa (CAE/CPLP). Segundo o oficial, o apoio da missão europeia abrange actividades de aconselhamento, orientação e formação especializada, destinadas a fortalecer as competências dos efectivos das FADM em áreas como liderança, disciplina, profissionalismo, respeito pelos direitos humanos e observância do direito internacional humanitário.",
+      "why": "«UE destaca reforço da capacidade operacional das Forças Armadas moçambicanas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «UE destaca reforço da capacidade operacional das Forças Armadas moçambicanas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-30T10:03:13+00:00",
+      "age_hours": 6.9,
       "within_24h": true,
-      "link": "https://opais.co.mz/eua-impoem-sancoes-ao-ministerio-da-defesa-de-ruanda/",
+      "link": "https://aimnews.org/2026/10/30/ue-destaca-reforco-da-capacidade-operacional-das-forcas-armadas-mocambicanas/",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "AIM Notícias"
       ],
-      "primary_source": "O País",
+      "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Os Estados Unidos da América (EUA) impuseram sanções ao Ministério da Defesa de Ruanda, acusando-o de ajudar a sustentar o grupo rebelde M23, que luta no leste da República Democrática do Congo. Washington espera aumentar a pressão sobre Kigali para que retire as tropas do país vizinho e cesse o alegado apoio ao grupo e […]. «EUA impõem sanções ao Ministério da Defesa de Ruanda» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «EUA impõem sanções ao Ministério da Defesa de Ruanda», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 9.25,
+      "detailed_summary": "Maputo, 30 de Outubro (AIM) – A Missão de Assistência Militar da União Europeia em Moçambique (EUMAM MOZ) tem contribuído para o desenvolvimento das capacidades técnicas e humanas das Forças Armadas de Defesa de Moçambique (FADM), com enfoque na preparação operacional, formação especializada e reforço da autonomia das forças nacionais. A avaliação foi apresentada esta semana em Maputo, pelo Brigadeiro-General Sérgio Lino de Almeida Estrela, comandante da Força da EUMAM MOZ, durante uma palestra subordinada ao tema «Contributos da Missão de Assistência Militar da União Europeia para a Defesa e Segurança de Moçambique», promovida pelo Centro de Análise Estratégica da Comunidade dos Países de Língua Portuguesa (CAE/CPLP). Segundo o oficial, o apoio da missão europeia abrange actividades de aconselhamento, orientação e formação especializada, destinadas a fortalecer as competências dos efectivos das FADM em áreas como liderança, disciplina, profissionalismo, respeito pelos direitos humanos e observância do direito internacional humanitário. «UE destaca reforço da capacidade operacional das Forças Armadas moçambicanas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «UE destaca reforço da capacidade operacional das Forças Armadas moçambicanas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 12.56,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "CTA Defende Suspensão da Centralização Das Importações de Arroz e Trigo no ICM",
+      "summary": "O presidente do Pelouro de Política Fiscal, Aduaneira e Comércio Internacional da Confederação das Associações Económicas de Moçambique (CTA), Kekobad Patel, defendeu esta sexta-feira (30) a suspensão do decreto que […]",
+      "why": "«CTA Defende Suspensão da Centralização Das Importações de Arroz e Trigo no ICM» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «CTA Defende Suspensão da Centralização Das Importações de Arroz e Trigo no ICM», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-10-30T12:40:00+00:00",
+      "age_hours": 4.3,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/30/negocios/agronegocios/cta-defende-suspensao-da-centralizacao-das-importacoes-de-arroz-e-trigo-no-icm/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O presidente do Pelouro de Política Fiscal, Aduaneira e Comércio Internacional da Confederação das Associações Económicas de Moçambique (CTA), Kekobad Patel, defendeu esta sexta-feira (30) a suspensão do decreto que […]. «CTA Defende Suspensão da Centralização Das Importações de Arroz e Trigo no ICM» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «CTA Defende Suspensão da Centralização Das Importações de Arroz e Trigo no ICM», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.1,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação",
-      "summary": "Os ministros dos Negócios Estrangeiros da Hungria e dos Estados Unidos reuniram-se presencialmente. O encontro, que tinha sido adiado alguns dias antes, realizou-se na quinta-feira devido à agenda do chefe da diplomacia norte-americana no Texas.Anita Orbán anuncia assinatura de acordos bilaterais\"Assinámos dois importantes acordos de cooperação com o ministro dos Negócios Estrangeiros dos EUA, Marco Rubio. Com o acordo de cooperação 'Trump Peace Pipelines Framework', reforçamos a cooperação no desenvolvimento das infraestruturas regionais de gás natural e petróleo\", anunciou numa publicação no Facebook.E acrescentou: \"Com o outro acordo, reforçamos a cooperação policial e a troca de informações relacionadas com crimes cometidos por organizações radicais, aprofundando ainda mais o trabalho conjunto entre os dois países em matéria de assuntos internos e segurança pública.\"Um dos temas em destaque foi o setor energético, que figura também entre os temas prioritários da atual campanha eleitoral do presidente norte-americano, Donald Trump.",
-      "why": "«Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-29T17:19:09+00:00",
-      "age_hours": 16.4,
+      "title": "Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas",
+      "summary": "Um grupo de mais de 300 emigrantes portugueses lançou hoje uma carta aberta em apoio às acampadas que se estão a realizar em Portugal, na qual pedem ao Governo que \"uma resposta imediata\" às reivindicações dos manifestantes Na carta, divulgada pelo núcleo em Bruxelas da associação José Afonso, este grupo de 321 emigrantes recorda que, segundo o Observatório da Emigração, \"cerca de 1,2 milhões de portugueses deixaram o país nos últimos 15 anos, muitos em busca de condições de vida que permitissem pagar uma habitação digna para si e para as suas famílias\" Manifestando-se solidários com as acampadas que se têm realizado em Lisboa e no Porto, os signatários pedem ao Governo \"uma resposta imediata às reivindicações dos manifestantes, incluindo a rejeição da nova lei do arrendamento, o fim dos despejos sem alternativa habitacional, o fim da compra de habitação por fundos imobiliários, mais habitação pública, a recuperação de imóveis devolutos e tetos de renda\" \"Pedem também o cumprimento do artigo 65.º da Constituição [que consagra o direito à habitação], a proteção do direito à…",
+      "why": "«Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-30T16:49:39+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/29/chefes-da-diplomacia-da-hungria-e-dos-eua-assinam-acordos-de-cooperacao",
+      "link": "https://www.rtp.pt/noticias/mundo/grupo-de-emigrantes-portugueses-lanca-carta-aberta-em-apoio-a-acampadas_n1775692",
       "original_source": true,
-      "event_id": "evt-mundo-022",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Euronews Português"
+        "RTP Notícias"
       ],
-      "primary_source": "Euronews Português",
+      "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Os ministros dos Negócios Estrangeiros da Hungria e dos Estados Unidos reuniram-se presencialmente. O encontro, que tinha sido adiado alguns dias antes, realizou-se na quinta-feira devido à agenda do chefe da diplomacia norte-americana no Texas.Anita Orbán anuncia assinatura de acordos bilaterais\"Assinámos dois importantes acordos de cooperação com o ministro dos Negócios Estrangeiros dos EUA, Marco Rubio. Com o acordo de cooperação 'Trump Peace Pipelines Framework', reforçamos a cooperação no desenvolvimento das infraestruturas regionais de gás natural e petróleo\", anunciou numa publicação no Facebook.E acrescentou: \"Com o outro acordo, reforçamos a cooperação policial e a troca de informações relacionadas com crimes cometidos por organizações radicais, aprofundando ainda mais o trabalho conjunto entre os dois países em matéria de assuntos internos e segurança pública.\"Um dos temas em destaque foi o setor energético, que figura também entre os temas prioritários da atual campanha eleitoral do presidente norte-americano, Donald Trump. «Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 8.58,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "title": "Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global",
-      "summary": "Debate no Conselho de Segurança sobre tecnologias emergentes aponta integração entre ciência, política e capacidade técnica para suavizar riscos de ataques cibernéticos, autonomias descontroladas e escaladas inadvertidas no domínio marítimo; organização destaca que a supervisão humana permanece indispensável",
-      "why": "«Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-10-29T12:00:00+00:00",
-      "age_hours": 21.7,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854791",
-      "original_source": true,
-      "event_id": "evt-mundo-029",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Debate no Conselho de Segurança sobre tecnologias emergentes aponta integração entre ciência, política e capacidade técnica para suavizar riscos de ataques cibernéticos, autonomias descontroladas e escaladas inadvertidas no domínio marítimo; organização destaca que a supervisão humana permanece indispensável. «Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 8.48,
+      "detailed_summary": "Um grupo de mais de 300 emigrantes portugueses lançou hoje uma carta aberta em apoio às acampadas que se estão a realizar em Portugal, na qual pedem ao Governo que \"uma resposta imediata\" às reivindicações dos manifestantes Na carta, divulgada pelo núcleo em Bruxelas da associação José Afonso, este grupo de 321 emigrantes recorda que, segundo o Observatório da Emigração, \"cerca de 1,2 milhões de portugueses deixaram o país nos últimos 15 anos, muitos em busca de condições de vida que permitissem pagar uma habitação digna para si e para as suas famílias\" Manifestando-se solidários com as acampadas que se têm realizado em Lisboa e no Porto, os signatários pedem ao Governo \"uma resposta imediata às reivindicações dos manifestantes, incluindo a rejeição da nova lei do arrendamento, o fim dos despejos sem alternativa habitacional, o fim da compra de habitação por fundos imobiliários, mais habitação pública, a recuperação de imóveis devolutos e tetos de renda\" \"Pedem também o cumprimento do artigo 65.º da Constituição [que consagra o direito à habitação], a proteção do direito à… «Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.98,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -295,17 +227,46 @@
       "tags": [
         "Energia"
       ],
-      "title": "Ucrânia: ataque russo mata duas adolescentes em Chernihiv",
-      "summary": "Ataque russo em Chernihiv matou duas raparigas de 15 anos e feriu 25 pessoas, segundo responsáveis locais. Ao mesmo tempo, cessar-fogo mediado pelos EUA no sul da Ucrânia permite operações de desminagem para abrir corredores humanitários",
-      "why": "«Ucrânia: ataque russo mata duas adolescentes em Chernihiv» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Ucrânia: ataque russo mata duas adolescentes em Chernihiv», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-10-29T23:16:38+00:00",
-      "age_hours": 10.4,
+      "title": "Produção de ópio no Afeganistão cresceu cinco vezes desde 2025",
+      "summary": "A área de cultivo de papoila-do-ópio superou os 43 mil hectares em 2026. Num contexto de procura e preços elevados, a redução da oferta poderá incentivar ainda mais o cultivo e a produção de ópio no Afeganistão",
+      "why": "«Produção de ópio no Afeganistão cresceu cinco vezes desde 2025» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Produção de ópio no Afeganistão cresceu cinco vezes desde 2025», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-30T12:00:00+00:00",
+      "age_hours": 5.0,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/10/30/ucrania-ataque-russo-mata-duas-adolescentes-em-chernihiv",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854793",
       "original_source": true,
-      "event_id": "evt-mundo-014",
+      "event_id": "evt-mundo-007",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A área de cultivo de papoila-do-ópio superou os 43 mil hectares em 2026. Num contexto de procura e preços elevados, a redução da oferta poderá incentivar ainda mais o cultivo e a produção de ópio no Afeganistão. «Produção de ópio no Afeganistão cresceu cinco vezes desde 2025» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Produção de ópio no Afeganistão cresceu cinco vezes desde 2025», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 10.96,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Guarda Revolucionária do Irão diz que três petroleiros se incendiaram no Estreito de Ormuz",
+      "summary": "A Guarda Revolucionária do Irão disse esta sexta-feira que três petroleiros se incendiaram e foram imobilizados no Estreito de Ormuz, enquanto mediadores do Qatar regressaram a Teerão para outra ronda de conversações destinada a pôr fim à guerra entre o Irão e os Estados Unidos",
+      "why": "«Guarda Revolucionária do Irão diz que três petroleiros se incendiaram no Estreito de Ormuz» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Guarda Revolucionária do Irão diz que três petroleiros se incendiaram no Estreito de Ormuz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-30T15:29:51+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/30/guarda-revolucionaria-do-irao-diz-que-dois-petroleiros-se-incendiaram-no-estreito-de-ormuz",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -314,8 +275,66 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Ataque russo em Chernihiv matou duas raparigas de 15 anos e feriu 25 pessoas, segundo responsáveis locais. Ao mesmo tempo, cessar-fogo mediado pelos EUA no sul da Ucrânia permite operações de desminagem para abrir corredores humanitários. «Ucrânia: ataque russo mata duas adolescentes em Chernihiv» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Ucrânia: ataque russo mata duas adolescentes em Chernihiv», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 6.83,
+      "detailed_summary": "A Guarda Revolucionária do Irão disse esta sexta-feira que três petroleiros se incendiaram e foram imobilizados no Estreito de Ormuz, enquanto mediadores do Qatar regressaram a Teerão para outra ronda de conversações destinada a pôr fim à guerra entre o Irão e os Estados Unidos. «Guarda Revolucionária do Irão diz que três petroleiros se incendiaram no Estreito de Ormuz» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Guarda Revolucionária do Irão diz que três petroleiros se incendiaram no Estreito de Ormuz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.69,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Kenmare Resources Garante Concessão da Mina de Moma Até 2044",
+      "summary": "O Governo aprovou a extensão até 2044 do acordo que regula as operações de processamento e exportação da Kenmare na mina de areias pesadas de Moma, em Nampula. A renovação […]",
+      "why": "«Kenmare Resources Garante Concessão da Mina de Moma Até 2044» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Kenmare Resources Garante Concessão da Mina de Moma Até 2044», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-10-30T10:00:00+00:00",
+      "age_hours": 7.0,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/10/30/oilgas/extractivas/kenmare-resources-garante-concessao-da-mina-de-moma-ate-2044/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo aprovou a extensão até 2044 do acordo que regula as operações de processamento e exportação da Kenmare na mina de areias pesadas de Moma, em Nampula. A renovação […]. «Kenmare Resources Garante Concessão da Mina de Moma Até 2044» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Kenmare Resources Garante Concessão da Mina de Moma Até 2044», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 8.54,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Coreia do Norte ameaça Coreia do Sul com mísseis balísticos, Seul apela ao diálogo para reduzir tensões",
+      "summary": "A Coreia do Norte disparou cerca de uma dúzia de mísseis balísticos de curto alcance em direção ao mar esta quinta-feira, indicou o exército da Coreia do Sul, um dia depois de Seul ter renovado o apelo a conversações para evitar confrontos acidentais ao longo da fronteira fortemente fortificada entre os dois países.Lançados da zona costeira oriental de Wonsan pelas 12h30 locais, os mísseis percorreram cerca de 250 quilómetros, segundo o Estado-Maior Conjunto da Coreia do Sul.A Coreia do Sul afirmou que reforçou a vigilância para detetar novos lançamentos e que está a partilhar informações com os Estados Unidos e o Japão.Seul propôs conversações militares em 23 de outubro para verificar em conjunto a localização da linha de demarcação militar, que separa as duas Coreias, restaurar as linhas de comunicação militar e acordar medidas para evitar confrontos acidentais.Na quarta-feira, o ministro da Unificação, Chung Dong-young, renovou o apelo, numa intervenção lida em seu nome num fórum em Goyang, perto de Seul.“As Coreias do Sul e do Norte devem alinhar as suas posições sobre a linha…",
+      "why": "«Coreia do Norte ameaça Coreia do Sul com mísseis balísticos, Seul apela ao diálogo para reduzir tensões» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Coreia do Norte ameaça Coreia do Sul com mísseis balísticos, Seul apela ao diálogo para reduzir tensões», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-10-30T15:11:53+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/10/30/coreia-do-norte-ameaca-coreia-do-sul-com-misseis-balisticos-seul-apela-ao-dialogo-para-red",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A Coreia do Norte disparou cerca de uma dúzia de mísseis balísticos de curto alcance em direção ao mar esta quinta-feira, indicou o exército da Coreia do Sul, um dia depois de Seul ter renovado o apelo a conversações para evitar confrontos acidentais ao longo da fronteira fortemente fortificada entre os dois países.Lançados da zona costeira oriental de Wonsan pelas 12h30 locais, os mísseis percorreram cerca de 250 quilómetros, segundo o Estado-Maior Conjunto da Coreia do Sul.A Coreia do Sul afirmou que reforçou a vigilância para detetar novos lançamentos e que está a partilhar informações com os Estados Unidos e o Japão.Seul propôs conversações militares em 23 de outubro para verificar em conjunto a localização da linha de demarcação militar, que separa as duas Coreias, restaurar as linhas de comunicação militar e acordar medidas para evitar confrontos acidentais.Na quarta-feira, o ministro da Unificação, Chung Dong-young, renovou o apelo, numa intervenção lida em seu nome num fórum em Goyang, perto de Seul.“As Coreias do Sul e do Norte devem alinhar as suas posições sobre a linha… «Coreia do Norte ameaça Coreia do Sul com mísseis balísticos, Seul apela ao diálogo para reduzir tensões» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Coreia do Norte ameaça Coreia do Sul com mísseis balísticos, Seul apela ao diálogo para reduzir tensões», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.62,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -339,7 +358,7 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
+    "Moçambique": 5,
     "África": 1,
     "Mundo": 5
   },
