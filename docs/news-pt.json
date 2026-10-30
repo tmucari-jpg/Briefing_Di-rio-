@@ -1,53 +1,10 @@
 {
-  "updated_at": "2026-10-30T16:57:50.274714+00:00",
+  "updated_at": "2026-10-30T21:25:42.454345+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
-    {
-      "section": "Moçambique",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "title": "Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional",
-      "summary": "Maputo, 30 de Out (AIM) – Moçambique e Zâmbia defendem o reforço da cooperação bilateral em matéria de defesa e segurança, com aposta na utilização de tecnologias modernas, meios de vigilância e formação especializada para prevenir e combater o terrorismo, o narcotráfico e outras formas de criminalidade organizada e transnacional na região da África Austral. A posição foi defendida pelo Inspector-Geral e Comandante-Geral da Polícia da República de Moçambique (PRM), Joaquim Adriano Sive, durante a XIV Sessão da Comissão Conjunta Permanente de Defesa e Segurança entre Moçambique e Zâmbia, que decorreu esta semana em Maputo. Na sua intervenção, Joaquim Sive sublinhou a necessidade de intensificar a cooperação entre os dois países, particularmente através da introdução de meios tecnológicos adequados aos actuais desafios de segurança, de modo a melhorar a capacidade de prevenção, detecção e combate às ameaças que afectam a região.",
-      "why": "«Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-30T09:48:54+00:00",
-      "age_hours": 7.1,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/30/mocambique-e-zambia-reforcam-cooperacao-contra-ameacas-a-seguranca-regional/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 3,
-      "source_count": 2,
-      "sources": [
-        "AIM Notícias",
-        "Jornal Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado",
-          "link": "https://aimnews.org/2026/10/30/mocambique-e-ue-reforcam-cooperacao-militar-no-combate-ao-terrorismo-em-cabo-delgado/"
-        },
-        {
-          "source": "Jornal Notícias",
-          "title": "Cresce cooperação na Defesa entre Moçambique e Índia",
-          "link": "https://www.jornalnoticias.co.mz/destaque/cresce-cooperacao-na-defesa-entre-mocambique-e-india/"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 30 de Out (AIM) – Moçambique e Zâmbia defendem o reforço da cooperação bilateral em matéria de defesa e segurança, com aposta na utilização de tecnologias modernas, meios de vigilância e formação especializada para prevenir e combater o terrorismo, o narcotráfico e outras formas de criminalidade organizada e transnacional na região da África Austral. A posição foi defendida pelo Inspector-Geral e Comandante-Geral da Polícia da República de Moçambique (PRM), Joaquim Adriano Sive, durante a XIV Sessão da Comissão Conjunta Permanente de Defesa e Segurança entre Moçambique e Zâmbia, que decorreu esta semana em Maputo. Na sua intervenção, Joaquim Sive sublinhou a necessidade de intensificar a cooperação entre os dois países, particularmente através da introdução de meios tecnológicos adequados aos actuais desafios de segurança, de modo a melhorar a capacidade de prevenção, detecção e combate às ameaças que afectam a região. «Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Moçambique e Zâmbia reforçam cooperação contra ameaças à segurança regional», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 15.02,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
     {
       "section": "Moçambique",
       "tags": [
@@ -59,11 +16,11 @@
       "impact": "No caso de «Zambézia recebe 966 computadores para estudantes do ensino superior», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "O País",
       "published": "2026-10-30T15:09:08+00:00",
-      "age_hours": 1.8,
+      "age_hours": 6.3,
       "within_24h": true,
       "link": "https://opais.co.mz/zambezia-recebe-966-computadores-para-estudantes-do-ensino-superior/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -73,7 +30,36 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O Governo de Moçambique vai entregar 966 computadores portáteis a estudantes do ensino superior da província da Zambézia, no âmbito do Programa Um Computador, Um Estudante do Ensino Superior (1CEES). A iniciativa, implementada pelo Ministério das Comunicações e Transformação Digital, visa facilitar o acesso dos estudantes às tecnologias digitais, promovendo a investigação científica, a melhoria […]. «Zambézia recebe 966 computadores para estudantes do ensino superior» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Zambézia recebe 966 computadores para estudantes do ensino superior», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 13.62,
+      "editorial_score": 12.69,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Violência armada já provocou 1,3 milhões de deslocados em Moçambique, segundo ACNUR",
+      "summary": "Cerca de 1,3 milhões de pessoas foram forçadas a abandonar as suas zonas de origem em Moçambique desde 2017, devido à violência armada no norte do país. Deste total, 661.532 continuam deslocadas internamente, enquanto 721.691 regressaram aos seus distritos de origem, segundo dados do Alto Comissariado das Nações Unidas para os Refugiados (ACNUR). No relatório […]",
+      "why": "«Violência armada já provocou 1,3 milhões de deslocados em Moçambique, segundo ACNUR» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Violência armada já provocou 1,3 milhões de deslocados em Moçambique, segundo ACNUR», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "O País",
+      "published": "2026-10-30T18:30:00+00:00",
+      "age_hours": 2.9,
+      "within_24h": true,
+      "link": "https://opais.co.mz/violencia-armada-ja-provocou-13-milhoes-de-deslocados-em-mocambique-segundo-acnur/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Cerca de 1,3 milhões de pessoas foram forçadas a abandonar as suas zonas de origem em Moçambique desde 2017, devido à violência armada no norte do país. Deste total, 661.532 continuam deslocadas internamente, enquanto 721.691 regressaram aos seus distritos de origem, segundo dados do Alto Comissariado das Nações Unidas para os Refugiados (ACNUR). No relatório […]. «Violência armada já provocou 1,3 milhões de deslocados em Moçambique, segundo ACNUR» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Violência armada já provocou 1,3 milhões de deslocados em Moçambique, segundo ACNUR», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.4,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -88,7 +74,7 @@
       "impact": "No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "Notícias ONU",
       "published": "2026-10-30T12:00:00+00:00",
-      "age_hours": 5.0,
+      "age_hours": 9.4,
       "within_24h": true,
       "link": "https://news.un.org/feed/view/pt/story/2026/10/1854797",
       "original_source": true,
@@ -102,7 +88,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Os alvos são os mais vulneráveis em meio a previsões de um forte El Niño; país africano quer blindar comunidades e infraestruturas com sistemas de alerta precoce e gestão de riscos; projeto com apoio do Fundo Verde para o Clima quer responder a desastres como as graves inundações de 2021. «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 12.96,
+      "editorial_score": 12.04,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -111,17 +97,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Zelensky visita Turquia no sábado para conversações com Erdogan",
-      "summary": "O Presidente ucraniano, Volodymyr Zelensky, vai à Turquia no sábado para discutir com o homólogo Recep Tayyip Erdogan a guerra com a Rússia e a segurança no mar Negro, anunciou hoje a presidência turca Erdogan e Zelensky vão falar sobre os \"desenvolvimentos regionais e internacionais, nomeadamente o conflito russo-ucraniano e a situação de segurança no mar Negro\", anunciou a presidência Também vão discutir medidas para \"desenvolver ainda mais a cooperação bilateral entre a Turquia e a Ucrânia\" O encontro vai realizar-se em Istambul, precisou o diretor das comunicações da presidência turca, Burhanettin Duran, citado pela agência francesa AFP Num telefonema com o Presidente norte-americano, Donald Trump, na quarta-feira, Erdogan afirmou que a Turquia estava pronta para apoiar os esforços para relançar as conversações entre Kiev e Moscovo sobre o fim da guerra A Turquia, exasperada com os ataques no mar Negro, apresentou um protocolo de acordo a Kiev e a Moscovo para pôr fim às ofensivas contra os navios mercantes, disse uma fonte diplomática turca em setembro à AFP O texto…",
-      "why": "«Zelensky visita Turquia no sábado para conversações com Erdogan» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Zelensky visita Turquia no sábado para conversações com Erdogan», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Moscovo e Kiev cumprem pela primeira vez um cessar-fogo",
+      "summary": "Moscovo e Kiev estão a cumprir pela primeira vez desde o início da guerra um cessar-fogo temporário na Ucrânia. Trata-se de uma pausa humanitária para ajudar mais de duas mil pessoas privadas de alimentos, medicamentos e água canalizada numa cidade ucraniana ocupada por forças russas",
+      "why": "«Moscovo e Kiev cumprem pela primeira vez um cessar-fogo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Moscovo e Kiev cumprem pela primeira vez um cessar-fogo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-30T16:25:32+00:00",
+      "published": "2026-10-30T20:52:47+00:00",
       "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/zelensky-visita-turquia-no-sabado-para-conversacoes-com-erdogan_n1775675",
+      "link": "https://www.rtp.pt/noticias/mundo/moscovo-e-kiev-cumprem-pela-primeira-vez-um-cessar-fogo_v1775762",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -130,8 +116,8 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Presidente ucraniano, Volodymyr Zelensky, vai à Turquia no sábado para discutir com o homólogo Recep Tayyip Erdogan a guerra com a Rússia e a segurança no mar Negro, anunciou hoje a presidência turca Erdogan e Zelensky vão falar sobre os \"desenvolvimentos regionais e internacionais, nomeadamente o conflito russo-ucraniano e a situação de segurança no mar Negro\", anunciou a presidência Também vão discutir medidas para \"desenvolver ainda mais a cooperação bilateral entre a Turquia e a Ucrânia\" O encontro vai realizar-se em Istambul, precisou o diretor das comunicações da presidência turca, Burhanettin Duran, citado pela agência francesa AFP Num telefonema com o Presidente norte-americano, Donald Trump, na quarta-feira, Erdogan afirmou que a Turquia estava pronta para apoiar os esforços para relançar as conversações entre Kiev e Moscovo sobre o fim da guerra A Turquia, exasperada com os ataques no mar Negro, apresentou um protocolo de acordo a Kiev e a Moscovo para pôr fim às ofensivas contra os navios mercantes, disse uma fonte diplomática turca em setembro à AFP O texto… «Zelensky visita Turquia no sábado para conversações com Erdogan» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Zelensky visita Turquia no sábado para conversações com Erdogan», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.9,
+      "detailed_summary": "Moscovo e Kiev estão a cumprir pela primeira vez desde o início da guerra um cessar-fogo temporário na Ucrânia. Trata-se de uma pausa humanitária para ajudar mais de duas mil pessoas privadas de alimentos, medicamentos e água canalizada numa cidade ucraniana ocupada por forças russas. «Moscovo e Kiev cumprem pela primeira vez um cessar-fogo» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moscovo e Kiev cumprem pela primeira vez um cessar-fogo», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.9,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -146,11 +132,11 @@
       "impact": "No caso de «UE destaca reforço da capacidade operacional das Forças Armadas moçambicanas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-10-30T10:03:13+00:00",
-      "age_hours": 6.9,
+      "age_hours": 11.4,
       "within_24h": true,
       "link": "https://aimnews.org/2026/10/30/ue-destaca-reforco-da-capacidade-operacional-das-forcas-armadas-mocambicanas/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -160,7 +146,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 30 de Outubro (AIM) – A Missão de Assistência Militar da União Europeia em Moçambique (EUMAM MOZ) tem contribuído para o desenvolvimento das capacidades técnicas e humanas das Forças Armadas de Defesa de Moçambique (FADM), com enfoque na preparação operacional, formação especializada e reforço da autonomia das forças nacionais. A avaliação foi apresentada esta semana em Maputo, pelo Brigadeiro-General Sérgio Lino de Almeida Estrela, comandante da Força da EUMAM MOZ, durante uma palestra subordinada ao tema «Contributos da Missão de Assistência Militar da União Europeia para a Defesa e Segurança de Moçambique», promovida pelo Centro de Análise Estratégica da Comunidade dos Países de Língua Portuguesa (CAE/CPLP). Segundo o oficial, o apoio da missão europeia abrange actividades de aconselhamento, orientação e formação especializada, destinadas a fortalecer as competências dos efectivos das FADM em áreas como liderança, disciplina, profissionalismo, respeito pelos direitos humanos e observância do direito internacional humanitário. «UE destaca reforço da capacidade operacional das Forças Armadas moçambicanas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «UE destaca reforço da capacidade operacional das Forças Armadas moçambicanas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.56,
+      "editorial_score": 11.62,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -175,11 +161,11 @@
       "impact": "No caso de «CTA Defende Suspensão da Centralização Das Importações de Arroz e Trigo no ICM», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
       "published": "2026-10-30T12:40:00+00:00",
-      "age_hours": 4.3,
+      "age_hours": 8.8,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/30/negocios/agronegocios/cta-defende-suspensao-da-centralizacao-das-importacoes-de-arroz-e-trigo-no-icm/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -189,7 +175,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O presidente do Pelouro de Política Fiscal, Aduaneira e Comércio Internacional da Confederação das Associações Económicas de Moçambique (CTA), Kekobad Patel, defendeu esta sexta-feira (30) a suspensão do decreto que […]. «CTA Defende Suspensão da Centralização Das Importações de Arroz e Trigo no ICM» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «CTA Defende Suspensão da Centralização Das Importações de Arroz e Trigo no ICM», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.1,
+      "editorial_score": 11.17,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -198,46 +184,53 @@
       "tags": [
         "Economia"
       ],
-      "title": "Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas",
-      "summary": "Um grupo de mais de 300 emigrantes portugueses lançou hoje uma carta aberta em apoio às acampadas que se estão a realizar em Portugal, na qual pedem ao Governo que \"uma resposta imediata\" às reivindicações dos manifestantes Na carta, divulgada pelo núcleo em Bruxelas da associação José Afonso, este grupo de 321 emigrantes recorda que, segundo o Observatório da Emigração, \"cerca de 1,2 milhões de portugueses deixaram o país nos últimos 15 anos, muitos em busca de condições de vida que permitissem pagar uma habitação digna para si e para as suas famílias\" Manifestando-se solidários com as acampadas que se têm realizado em Lisboa e no Porto, os signatários pedem ao Governo \"uma resposta imediata às reivindicações dos manifestantes, incluindo a rejeição da nova lei do arrendamento, o fim dos despejos sem alternativa habitacional, o fim da compra de habitação por fundos imobiliários, mais habitação pública, a recuperação de imóveis devolutos e tetos de renda\" \"Pedem também o cumprimento do artigo 65.º da Constituição [que consagra o direito à habitação], a proteção do direito à…",
-      "why": "«Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Delcy Rodriguez diz que não a novas eleições",
+      "summary": "O regime da Venezuela não dá sinais de abertura a eleições. Maria Corina Machado pediu uma consulta popular no próximo ano, mas a presidente interina Delcy Rodriguez disse que não. Os Estados Unidos parecem desinteressados do problema",
+      "why": "«Delcy Rodriguez diz que não a novas eleições» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Delcy Rodriguez diz que não a novas eleições», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-30T16:49:39+00:00",
-      "age_hours": 0.1,
+      "published": "2026-10-30T20:47:47+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/grupo-de-emigrantes-portugueses-lanca-carta-aberta-em-apoio-a-acampadas_n1775692",
+      "link": "https://www.rtp.pt/noticias/mundo/delcy-rodriguez-diz-que-nao-a-novas-eleicoes_v1775761",
       "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 2,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Tarifas, custo de vida e economia dominam campanha nas eleições intercalares norte-americanas",
+          "link": "https://www.rtp.pt/noticias/mundo/tarifas-custo-de-vida-e-economia-dominam-campanha-nas-eleicoes-intercalares-norte-americanas_n1775526"
+        }
+      ],
       "opportunity_flag": false,
-      "detailed_summary": "Um grupo de mais de 300 emigrantes portugueses lançou hoje uma carta aberta em apoio às acampadas que se estão a realizar em Portugal, na qual pedem ao Governo que \"uma resposta imediata\" às reivindicações dos manifestantes Na carta, divulgada pelo núcleo em Bruxelas da associação José Afonso, este grupo de 321 emigrantes recorda que, segundo o Observatório da Emigração, \"cerca de 1,2 milhões de portugueses deixaram o país nos últimos 15 anos, muitos em busca de condições de vida que permitissem pagar uma habitação digna para si e para as suas famílias\" Manifestando-se solidários com as acampadas que se têm realizado em Lisboa e no Porto, os signatários pedem ao Governo \"uma resposta imediata às reivindicações dos manifestantes, incluindo a rejeição da nova lei do arrendamento, o fim dos despejos sem alternativa habitacional, o fim da compra de habitação por fundos imobiliários, mais habitação pública, a recuperação de imóveis devolutos e tetos de renda\" \"Pedem também o cumprimento do artigo 65.º da Constituição [que consagra o direito à habitação], a proteção do direito à… «Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Grupo de emigrantes portugueses lança carta aberta em apoio a acampadas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.98,
+      "detailed_summary": "O regime da Venezuela não dá sinais de abertura a eleições. Maria Corina Machado pediu uma consulta popular no próximo ano, mas a presidente interina Delcy Rodriguez disse que não. Os Estados Unidos parecem desinteressados do problema. «Delcy Rodriguez diz que não a novas eleições» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Delcy Rodriguez diz que não a novas eleições», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.88,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Produção de ópio no Afeganistão cresceu cinco vezes desde 2025",
-      "summary": "A área de cultivo de papoila-do-ópio superou os 43 mil hectares em 2026. Num contexto de procura e preços elevados, a redução da oferta poderá incentivar ainda mais o cultivo e a produção de ópio no Afeganistão",
-      "why": "«Produção de ópio no Afeganistão cresceu cinco vezes desde 2025» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Produção de ópio no Afeganistão cresceu cinco vezes desde 2025», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Chegada do frio piora crise humanitária no Afeganistão, Iêmen, Síria e Líbano",
+      "summary": "Colapso econômico e violência extrema deixam milhões de refugiados e retornados sem refúgio seguro; com invernos rigorosos e falta de verbas, famílias encaram frio extremo e falta de abrigo, o que exige ajuda internacional urgente",
+      "why": "«Chegada do frio piora crise humanitária no Afeganistão, Iêmen, Síria e Líbano» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Chegada do frio piora crise humanitária no Afeganistão, Iêmen, Síria e Líbano», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Notícias ONU",
       "published": "2026-10-30T12:00:00+00:00",
-      "age_hours": 5.0,
+      "age_hours": 9.4,
       "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854793",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854806",
       "original_source": true,
-      "event_id": "evt-mundo-007",
+      "event_id": "evt-mundo-013",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -246,8 +239,8 @@
       "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A área de cultivo de papoila-do-ópio superou os 43 mil hectares em 2026. Num contexto de procura e preços elevados, a redução da oferta poderá incentivar ainda mais o cultivo e a produção de ópio no Afeganistão. «Produção de ópio no Afeganistão cresceu cinco vezes desde 2025» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Produção de ópio no Afeganistão cresceu cinco vezes desde 2025», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 10.96,
+      "detailed_summary": "Colapso econômico e violência extrema deixam milhões de refugiados e retornados sem refúgio seguro; com invernos rigorosos e falta de verbas, famílias encaram frio extremo e falta de abrigo, o que exige ajuda internacional urgente. «Chegada do frio piora crise humanitária no Afeganistão, Iêmen, Síria e Líbano» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chegada do frio piora crise humanitária no Afeganistão, Iêmen, Síria e Líbano», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.04,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -262,11 +255,11 @@
       "impact": "No caso de «Guarda Revolucionária do Irão diz que três petroleiros se incendiaram no Estreito de Ormuz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-30T15:29:51+00:00",
-      "age_hours": 1.5,
+      "age_hours": 5.9,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/30/guarda-revolucionaria-do-irao-diz-que-dois-petroleiros-se-incendiaram-no-estreito-de-ormuz",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-009",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -276,7 +269,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A Guarda Revolucionária do Irão disse esta sexta-feira que três petroleiros se incendiaram e foram imobilizados no Estreito de Ormuz, enquanto mediadores do Qatar regressaram a Teerão para outra ronda de conversações destinada a pôr fim à guerra entre o Irão e os Estados Unidos. «Guarda Revolucionária do Irão diz que três petroleiros se incendiaram no Estreito de Ormuz» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Guarda Revolucionária do Irão diz que três petroleiros se incendiaram no Estreito de Ormuz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.69,
+      "editorial_score": 7.77,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -291,11 +284,11 @@
       "impact": "No caso de «Kenmare Resources Garante Concessão da Mina de Moma Até 2044», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-30T10:00:00+00:00",
-      "age_hours": 7.0,
+      "age_hours": 11.4,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/30/oilgas/extractivas/kenmare-resources-garante-concessao-da-mina-de-moma-ate-2044/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -305,7 +298,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Governo aprovou a extensão até 2044 do acordo que regula as operações de processamento e exportação da Kenmare na mina de areias pesadas de Moma, em Nampula. A renovação […]. «Kenmare Resources Garante Concessão da Mina de Moma Até 2044» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Kenmare Resources Garante Concessão da Mina de Moma Até 2044», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 8.54,
+      "editorial_score": 7.62,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -320,11 +313,11 @@
       "impact": "No caso de «Coreia do Norte ameaça Coreia do Sul com mísseis balísticos, Seul apela ao diálogo para reduzir tensões», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-30T15:11:53+00:00",
-      "age_hours": 1.8,
+      "age_hours": 6.2,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/30/coreia-do-norte-ameaca-coreia-do-sul-com-misseis-balisticos-seul-apela-ao-dialogo-para-red",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-010",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -334,7 +327,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A Coreia do Norte disparou cerca de uma dúzia de mísseis balísticos de curto alcance em direção ao mar esta quinta-feira, indicou o exército da Coreia do Sul, um dia depois de Seul ter renovado o apelo a conversações para evitar confrontos acidentais ao longo da fronteira fortemente fortificada entre os dois países.Lançados da zona costeira oriental de Wonsan pelas 12h30 locais, os mísseis percorreram cerca de 250 quilómetros, segundo o Estado-Maior Conjunto da Coreia do Sul.A Coreia do Sul afirmou que reforçou a vigilância para detetar novos lançamentos e que está a partilhar informações com os Estados Unidos e o Japão.Seul propôs conversações militares em 23 de outubro para verificar em conjunto a localização da linha de demarcação militar, que separa as duas Coreias, restaurar as linhas de comunicação militar e acordar medidas para evitar confrontos acidentais.Na quarta-feira, o ministro da Unificação, Chung Dong-young, renovou o apelo, numa intervenção lida em seu nome num fórum em Goyang, perto de Seul.“As Coreias do Sul e do Norte devem alinhar as suas posições sobre a linha… «Coreia do Norte ameaça Coreia do Sul com mísseis balísticos, Seul apela ao diálogo para reduzir tensões» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Coreia do Norte ameaça Coreia do Sul com mísseis balísticos, Seul apela ao diálogo para reduzir tensões», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.62,
+      "editorial_score": 6.71,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
