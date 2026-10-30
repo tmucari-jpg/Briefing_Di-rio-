@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-10-29T23:07:28.691708+00:00",
+  "updated_at": "2026-10-30T09:43:28.768348+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Energia/LNG",
+      "title": "Mozambique renews Kenmare’s concession for one of world’s largest titanium mines until 2044",
+      "summary": "The Mozambican government has renewed the agreement governing Kenmare’s operations at the Moma titanium mine until 2044, in return for royalties of up to 5%, investments of €185 million and local processing, the company announced yesterday. The Irish mining company Kenmare Resources said in a market announcement that the Council of Ministers had approved the… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique renews Kenmare’s concession for one of world’s largest titanium mines until 2044” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique renews Kenmare’s concession for one of world’s largest titanium mines until 2044”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-10-30T09:01:16+00:00",
+      "age_hours": 0.7,
+      "link": "https://clubofmozambique.com/news/mozambique-renews-kenmares-concession-for-one-of-worlds-largest-titanium-mines-until-2044/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 8
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",

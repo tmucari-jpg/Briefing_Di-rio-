@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:07:13.684252+00:00",
+  "updated_at": "2026-10-30T09:43:04.110568+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,96 +8,37 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "PR Quer Empresas Russas a Investir em Sectores Estratégicos da Economia Moçambicana",
-      "summary": "O Presidente da República, Daniel Chapo, convidou esta quinta-feira, 29 de Outubro, em Moscovo, empresas e investidores russos a apostarem em sectores estratégicos de Moçambique, defendendo uma cooperação que contribua […]",
-      "why": "«PR Quer Empresas Russas a Investir em Sectores Estratégicos da Economia Moçambicana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «PR Quer Empresas Russas a Investir em Sectores Estratégicos da Economia Moçambicana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-10-29T17:15:00+00:00",
-      "age_hours": 5.9,
+      "title": "Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado",
+      "summary": "Maputo – A União Europeia (UE) e Moçambique estão a aprofundar a cooperação militar para reforçar a capacidade das Forças Armadas moçambicanas no combate ao terrorismo em Cabo Delgado, província do norte do país afectada pela violência armada. O assunto esteve no centro de um encontro entre o Ministro da Defesa Nacional, Cristóvão Chume, o Embaixador da União Europeia em Moçambique, Francisco Fontán, e o Comandante da Missão de Assistência Militar da UE em Moçambique (EUMAM MOZ), Sérgio Estrela. Durante o encontro, as partes abordaram o reforço da parceria bilateral no domínio da segurança, o futuro da missão militar europeia em Moçambique e os esforços conjuntos para responder à ameaça terrorista no norte do país. Segundo a informação divulgada pela União Europeia, as conversações incidiram igualmente sobre o papel da EUMAM MOZ na formação e no aconselhamento especializado às Forças Armadas de Defesa de Moçambique (FADM), tendo em conta as necessidades operacionais do país.",
+      "why": "«Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-10-30T09:33:44+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/29/economia/pr-quer-empresas-russas-a-investir-em-sectores-estrategicos-da-economia-mocambicana/",
+      "link": "https://aimnews.org/2026/10/30/mocambique-e-ue-reforcam-cooperacao-militar-no-combate-ao-terrorismo-em-cabo-delgado/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 2,
       "source_count": 2,
       "sources": [
-        "Diário Económico",
+        "AIM Notícias",
         "Jornal Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "AIM Notícias",
       "status": "today",
       "confirmations": [
         {
           "source": "Jornal Notícias",
-          "title": "PR convida empresários russos a investirem em Moçambique",
-          "link": "https://www.jornalnoticias.co.mz/destaque/pr-convida-empresarios-russos-a-investirem-em-mocambique/"
+          "title": "Cresce cooperação na Defesa entre Moçambique e Índia",
+          "link": "https://www.jornalnoticias.co.mz/destaque/cresce-cooperacao-na-defesa-entre-mocambique-e-india/"
         }
       ],
       "opportunity_flag": true,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, convidou esta quinta-feira, 29 de Outubro, em Moscovo, empresas e investidores russos a apostarem em sectores estratégicos de Moçambique, defendendo uma cooperação que contribua […]. «PR Quer Empresas Russas a Investir em Sectores Estratégicos da Economia Moçambicana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «PR Quer Empresas Russas a Investir em Sectores Estratégicos da Economia Moçambicana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 14.27,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "Moçambique e IFC discutem financiamento a pequenos produtores agrícolas",
-      "summary": "A Corporação Financeira Internacional (IFC), instituição do Grupo Banco Mundial dedicada ao desenvolvimento do sector privado, manifestou interesse em aprofundar a cooperação com Moçambique para mobilizar financiamento e investimento em agricultura, energia, infra-estruturas logísticas, turismo, transformação digital e desenvolvimento empresarial, com particular atenção aos pequenos produtores agrícolas e às micro, pequenas e médias empresas. O […]",
-      "why": "«Moçambique e IFC discutem financiamento a pequenos produtores agrícolas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Moçambique e IFC discutem financiamento a pequenos produtores agrícolas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-10-29T18:27:52+00:00",
-      "age_hours": 4.7,
-      "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-e-ifc-discutem-financiamento-a-pequenos-produtores-agricolas/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A Corporação Financeira Internacional (IFC), instituição do Grupo Banco Mundial dedicada ao desenvolvimento do sector privado, manifestou interesse em aprofundar a cooperação com Moçambique para mobilizar financiamento e investimento em agricultura, energia, infra-estruturas logísticas, turismo, transformação digital e desenvolvimento empresarial, com particular atenção aos pequenos produtores agrícolas e às micro, pequenas e médias empresas. O […]. «Moçambique e IFC discutem financiamento a pequenos produtores agrícolas» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Moçambique e IFC discutem financiamento a pequenos produtores agrícolas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.02,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Moçambique mantém sob controlo o gafanhoto-vermelho e defende reforço da vigilância regional",
-      "summary": "Maputo, 29 Out (AIM) – Moçambique mantém sob controlo a população do gafanhoto-vermelho, com níveis actualmente abaixo do limiar indicado para desencadear operações de combate, enquanto defende o reforço da cooperação entre os países da África Central e Austral para prevenir invasões e proteger a produção agrícola. A informação foi avançada hoje, em Maputo, pela directora nacional de Sanidade e Biossegurança, Antónia Vaz, e pelo ministro da Agricultura, Ambiente e Pescas, Roberto Albino, à margem da abertura da 42.ª Sessão Ordinária do Conselho de Ministros da Organização Internacional para o Controlo do Gafanhoto-Vermelho na África Central e Austral (IRLCO-CSA). Segundo Antónia Vaz, as primeiras acções de monitoria indicam uma população residente de cerca de dois a três gafanhotos por dez metros quadrados, nível que, de acordo com a responsável, se mantém abaixo do limiar de intervenção referido pelas autoridades.",
-      "why": "«Moçambique mantém sob controlo o gafanhoto-vermelho e defende reforço da vigilância regional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moçambique mantém sob controlo o gafanhoto-vermelho e defende reforço da vigilância regional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-29T15:49:22+00:00",
-      "age_hours": 7.3,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/29/mocambique-mantem-sob-controlo-o-gafanhoto-vermelho-e-defende-reforco-da-vigilancia-regional/",
-      "original_source": true,
-      "event_id": "evt-mocambique-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 29 Out (AIM) – Moçambique mantém sob controlo a população do gafanhoto-vermelho, com níveis actualmente abaixo do limiar indicado para desencadear operações de combate, enquanto defende o reforço da cooperação entre os países da África Central e Austral para prevenir invasões e proteger a produção agrícola. A informação foi avançada hoje, em Maputo, pela directora nacional de Sanidade e Biossegurança, Antónia Vaz, e pelo ministro da Agricultura, Ambiente e Pescas, Roberto Albino, à margem da abertura da 42.ª Sessão Ordinária do Conselho de Ministros da Organização Internacional para o Controlo do Gafanhoto-Vermelho na África Central e Austral (IRLCO-CSA). Segundo Antónia Vaz, as primeiras acções de monitoria indicam uma população residente de cerca de dois a três gafanhotos por dez metros quadrados, nível que, de acordo com a responsável, se mantém abaixo do limiar de intervenção referido pelas autoridades. «Moçambique mantém sob controlo o gafanhoto-vermelho e defende reforço da vigilância regional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique mantém sob controlo o gafanhoto-vermelho e defende reforço da vigilância regional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.48,
+      "detailed_summary": "Maputo – A União Europeia (UE) e Moçambique estão a aprofundar a cooperação militar para reforçar a capacidade das Forças Armadas moçambicanas no combate ao terrorismo em Cabo Delgado, província do norte do país afectada pela violência armada. O assunto esteve no centro de um encontro entre o Ministro da Defesa Nacional, Cristóvão Chume, o Embaixador da União Europeia em Moçambique, Francisco Fontán, e o Comandante da Missão de Assistência Militar da UE em Moçambique (EUMAM MOZ), Sérgio Estrela. Durante o encontro, as partes abordaram o reforço da parceria bilateral no domínio da segurança, o futuro da missão militar europeia em Moçambique e os esforços conjuntos para responder à ameaça terrorista no norte do país. Segundo a informação divulgada pela União Europeia, as conversações incidiram igualmente sobre o papel da EUMAM MOZ na formação e no aconselhamento especializado às Forças Armadas de Defesa de Moçambique (FADM), tendo em conta as necessidades operacionais do país. «Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique e UE reforçam cooperação militar no combate ao terrorismo em Cabo Delgado», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 15.48,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -106,46 +47,17 @@
       "tags": [
         "IA"
       ],
-      "title": "Moçambique recebe formação em inteligência artificial e computação em nuvem com apoio",
-      "summary": "Os Governos de Moçambique e dos Estados Unidos da América realizaram, esta quinta-feira, em Maputo, uma formação em inteligência artificial e computação em nuvem, em parceria com a empresa tecnológica Google, dirigida a funcionários públicos moçambicanos. A formação, denominada “Google Super Intelligence (SI) & Cloud Computing”, teve a duração de um dia e abordou as […]",
-      "why": "«Moçambique recebe formação em inteligência artificial e computação em nuvem com apoio» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Moçambique recebe formação em inteligência artificial e computação em nuvem com apoio», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "O País",
-      "published": "2026-10-29T19:35:28+00:00",
-      "age_hours": 3.5,
-      "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-recebe-formacao-em-inteligencia-artificial-e-computacao-em-nuvem-com-apoio/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Os Governos de Moçambique e dos Estados Unidos da América realizaram, esta quinta-feira, em Maputo, uma formação em inteligência artificial e computação em nuvem, em parceria com a empresa tecnológica Google, dirigida a funcionários públicos moçambicanos. A formação, denominada “Google Super Intelligence (SI) & Cloud Computing”, teve a duração de um dia e abordou as […]. «Moçambique recebe formação em inteligência artificial e computação em nuvem com apoio» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Moçambique recebe formação em inteligência artificial e computação em nuvem com apoio», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 12.27,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo adopta medidas para priorizar a batata nacional face à concorrência",
-      "summary": "Maputo, 29 Out (AIM) – O Governo vai adoptar medidas temporárias para dar prioridade à batata produzida em Moçambique nos mercados nacionais, permitindo a importação do produto estrangeiro apenas para cobrir as necessidades não satisfeitas pela produção interna. O anúncio foi feito esta quinta-feira (29), em Maputo, pelo secretário de Estado do Comércio, António Grispos, durante uma conferência de imprensa dedicada à promoção da produção nacional e à regulação das importações, na qual o governante explicou que a produção interna ainda é insuficiente para justificar restrições mais profundas à entrada de batata sul-africana. “O único caminho que nos resta agora é tomar essas medidas de priorização, não de restrição”, afirmou Grispos, defendendo que a produção nacional deve ter prioridade no mercado, sem comprometer o abastecimento nem provocar uma subida dos preços para o consumidor. Segundo o governante, Moçambique produz cerca de 110 mil a 120 mil toneladas de batata por ano, enquanto as importações provenientes da África do Sul representam entre 86 mil e 90 mil toneladas anuais.",
-      "why": "«Governo adopta medidas para priorizar a batata nacional face à concorrência» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Governo adopta medidas para priorizar a batata nacional face à concorrência», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Governo aposta na inteligência artificial para modernizar Administração Pública",
+      "summary": "Maputo, 29 de Outubro (AIM) – O Governo moçambicano defende a adopção da inteligência artificial (IA) como instrumento para melhorar a eficiência da Administração Pública, acelerar a prestação de serviços e aproximar as instituições do Estado dos cidadãos. A posição foi expressa pelo Ministro das Comunicações e Transformação Digital, Américo Muchanga, na abertura do workshop «AI for Governance», uma iniciativa centrada na aplicação prática da inteligência artificial nos processos de governação. Na ocasião, Muchanga afirmou que a inteligência artificial já está a produzir mudanças em sectores como a educação, a saúde, a ciência e a gestão das organizações, deixando de ser uma tecnologia associada exclusivamente ao futuro. Na Administração Pública, segundo o governante, estas ferramentas podem contribuir para a análise de grandes volumes de informação, a preparação célere de documentos, o apoio à formulação de políticas públicas e a redução dos atrasos na prestação de serviços aos cidadãos.",
+      "why": "«Governo aposta na inteligência artificial para modernizar Administração Pública» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Governo aposta na inteligência artificial para modernizar Administração Pública», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-29T16:12:17+00:00",
-      "age_hours": 6.9,
+      "published": "2026-10-30T09:25:41+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/29/governo-adopta-medidas-para-priorizar-a-batata-nacional-face-a-concorrencia/",
+      "link": "https://aimnews.org/2026/10/30/governo-aposta-na-inteligencia-artificial-para-modernizar-administracao-publica/",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -154,8 +66,66 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 29 Out (AIM) – O Governo vai adoptar medidas temporárias para dar prioridade à batata produzida em Moçambique nos mercados nacionais, permitindo a importação do produto estrangeiro apenas para cobrir as necessidades não satisfeitas pela produção interna. O anúncio foi feito esta quinta-feira (29), em Maputo, pelo secretário de Estado do Comércio, António Grispos, durante uma conferência de imprensa dedicada à promoção da produção nacional e à regulação das importações, na qual o governante explicou que a produção interna ainda é insuficiente para justificar restrições mais profundas à entrada de batata sul-africana. “O único caminho que nos resta agora é tomar essas medidas de priorização, não de restrição”, afirmou Grispos, defendendo que a produção nacional deve ter prioridade no mercado, sem comprometer o abastecimento nem provocar uma subida dos preços para o consumidor. Segundo o governante, Moçambique produz cerca de 110 mil a 120 mil toneladas de batata por ano, enquanto as importações provenientes da África do Sul representam entre 86 mil e 90 mil toneladas anuais. «Governo adopta medidas para priorizar a batata nacional face à concorrência» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo adopta medidas para priorizar a batata nacional face à concorrência», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.56,
+      "detailed_summary": "Maputo, 29 de Outubro (AIM) – O Governo moçambicano defende a adopção da inteligência artificial (IA) como instrumento para melhorar a eficiência da Administração Pública, acelerar a prestação de serviços e aproximar as instituições do Estado dos cidadãos. A posição foi expressa pelo Ministro das Comunicações e Transformação Digital, Américo Muchanga, na abertura do workshop «AI for Governance», uma iniciativa centrada na aplicação prática da inteligência artificial nos processos de governação. Na ocasião, Muchanga afirmou que a inteligência artificial já está a produzir mudanças em sectores como a educação, a saúde, a ciência e a gestão das organizações, deixando de ser uma tecnologia associada exclusivamente ao futuro. Na Administração Pública, segundo o governante, estas ferramentas podem contribuir para a análise de grandes volumes de informação, a preparação célere de documentos, o apoio à formulação de políticas públicas e a redução dos atrasos na prestação de serviços aos cidadãos. «Governo aposta na inteligência artificial para modernizar Administração Pública» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Governo aposta na inteligência artificial para modernizar Administração Pública», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 13.94,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM",
+      "summary": "O governador do Banco de Moçambique, Felisberto Navalha, considera que o crescimento económico do País continua insuficiente para melhorar as condições de vida da população, num contexto marcado pelo aumento da dívida pública, dificuldades no acesso a divisas e fraca expansão do crédito à economia. Falando nesta quarta-feira, em Tete, na abertura do 51.º Conselho […]",
+      "why": "«Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "O País",
+      "published": "2026-10-30T07:17:58+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://opais.co.mz/crescimento-economico-continua-insuficiente-para-reduzir-pobreza-alerta-bdm/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O governador do Banco de Moçambique, Felisberto Navalha, considera que o crescimento económico do País continua insuficiente para melhorar as condições de vida da população, num contexto marcado pelo aumento da dívida pública, dificuldades no acesso a divisas e fraca expansão do crédito à economia. Falando nesta quarta-feira, em Tete, na abertura do 51.º Conselho […]. «Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Crescimento económico continua insuficiente para reduzir pobreza, alerta BdM», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.5,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Importação de batata-reno pode ser restringida",
+      "summary": "O Governo pondera introduzir períodos de inibição da importação de batata-reno, como forma de melhorar o acesso dos produtores nacionais ao mercado e estimular o crescimento da produção interna, no quadro da política de substituição das importações. A informação foi avançada ontem, em Maputo, pelo secretário de Estado do Comércio, António Grispos, ao anunciar as decisões da Comissão Consultiva de Importações. Na ocasião, anunciou que a decisão pode ser extensiva para produtos como a cebola e o tomate como forma de valorizar os produtos agrícolas nacionais. Segundo Grispos, a intenção não é proibir, nesta fase, a entrada de batata proveniente da África do Sul, principal fornecedor do mercado moçambicano, mas estabelecer mecanismos que permitam dar prioridade à produção interna, deixando a importação para cobrir as necessidades que não possam ser satisfeitas pelos produtores nacionais. Actualmente cerca de 64 por cento da batata sul-africana se destina ao mercado moçambicano, correspondendo à importações anuais estimadas entre 86 mil e 90 mil toneladas.",
+      "why": "«Importação de batata-reno pode ser restringida» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Importação de batata-reno pode ser restringida», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Jornal Notícias",
+      "published": "2026-10-30T07:56:44+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/importacao-de-batata-reno-pode-ser-restringida/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Governo pondera introduzir períodos de inibição da importação de batata-reno, como forma de melhorar o acesso dos produtores nacionais ao mercado e estimular o crescimento da produção interna, no quadro da política de substituição das importações. A informação foi avançada ontem, em Maputo, pelo secretário de Estado do Comércio, António Grispos, ao anunciar as decisões da Comissão Consultiva de Importações. Na ocasião, anunciou que a decisão pode ser extensiva para produtos como a cebola e o tomate como forma de valorizar os produtos agrícolas nacionais. Segundo Grispos, a intenção não é proibir, nesta fase, a entrada de batata proveniente da África do Sul, principal fornecedor do mercado moçambicano, mas estabelecer mecanismos que permitam dar prioridade à produção interna, deixando a importação para cobrir as necessidades que não possam ser satisfeitas pelos produtores nacionais. Actualmente cerca de 64 por cento da batata sul-africana se destina ao mercado moçambicano, correspondendo à importações anuais estimadas entre 86 mil e 90 mil toneladas. «Importação de batata-reno pode ser restringida» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Importação de batata-reno pode ser restringida», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.62,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -164,17 +134,59 @@
       "tags": [
         "Economia"
       ],
-      "title": "Lituânia vai ter serviço militar obrigatório para todos os homens a partir de 2032",
-      "summary": "O Conselho de Defesa Nacional da Lituânia anunciou hoje a introdução do serviço militar obrigatório para todos os homens jovens a partir de 2032 \"Decidimos que o serviço militar obrigatório geral será implementado a partir de 2032\", confirmou o presidente lituano, Gitanas Nauseda, citado pela radiotelevisão lituana LRT, após a sessão do Conselho O presidente acrescentou que as mulheres poderão também continuar a prestar o serviço militar de forma voluntária O chefe de Estado lituano precisou que foi estabelecido o ano de 2032 para a colocação em prática das mudanças, de forma a poderem ser investidos até lá os fundos necessários em alojamento adequado para um maior número de recrutas e na formação dos instrutores Atualmente, todos os anos são recrutados mais de 5.000 jovens homens, selecionados de forma aleatória, para servir durante nove meses nas Forças Armadas, número que com a introdução do serviço militar obrigatório universal ascenderia a cerca de 7.500, tendo em conta já a situação demográfica e o facto de que uma parte não é apta por motivos de saúde Nauseda referiu também…",
-      "why": "«Lituânia vai ter serviço militar obrigatório para todos os homens a partir de 2032» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Lituânia vai ter serviço militar obrigatório para todos os homens a partir de 2032», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Eleições em Israel terminam em impasse e poderão ter de ser repetidas",
+      "summary": "Com todos os votos contados, confirma-se a vitória de Benjamin Netanyahu nas eleições israelitas. No entanto, ficou aquém da maioria necessária para governar, o que abre caminho a um longo período de difíceis negociações de coligação",
+      "why": "«Eleições em Israel terminam em impasse e poderão ter de ser repetidas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Eleições em Israel terminam em impasse e poderão ter de ser repetidas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-10-29T22:49:24+00:00",
-      "age_hours": 0.3,
+      "published": "2026-10-30T09:38:03+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/lituania-vai-ter-servico-militar-obrigatorio-para-todos-os-homens-a-partir-de-2032_n1775472",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eleicoes-em-israel-terminam-em-impasse-e-poderao-ter-de-ser-repetidas_n1775549",
       "original_source": true,
       "event_id": "evt-mundo-001",
+      "cluster_size": 7,
+      "source_count": 2,
+      "sources": [
+        "RTP Notícias",
+        "Euronews Português"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Euronews Português",
+          "title": "Israel: bloco de Netanyahu lidera eleições mas não obtém maioria",
+          "link": "https://pt.euronews.com/2026/10/30/israel-bloco-de-netanyahu-lidera-eleicoes-mas-nao-obtem-maioria"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Bloco de Netanyahu vence mas sem maioria para governar",
+          "link": "https://www.rtp.pt/noticias/mundo/bloco-de-netanyahu-vence-mas-sem-maioria-para-governar_n1775482"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Com todos os votos contados, confirma-se a vitória de Benjamin Netanyahu nas eleições israelitas. No entanto, ficou aquém da maioria necessária para governar, o que abre caminho a um longo período de difíceis negociações de coligação. «Eleições em Israel terminam em impasse e poderão ter de ser repetidas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições em Israel terminam em impasse e poderão ter de ser repetidas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 12.48,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha",
+      "summary": "O Ministério dos Negócios Estrangeiros confirmou esta sexta-feira que um cidadão português morreu na colisão entre dois comboios em Urda, Espanha",
+      "why": "«Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-10-30T09:22:09+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/cidadao-portugues-entre-as-vitimas-mortais-do-desastre-ferroviario-em-espanha_n1775553",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -182,10 +194,39 @@
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Conselho de Defesa Nacional da Lituânia anunciou hoje a introdução do serviço militar obrigatório para todos os homens jovens a partir de 2032 \"Decidimos que o serviço militar obrigatório geral será implementado a partir de 2032\", confirmou o presidente lituano, Gitanas Nauseda, citado pela radiotelevisão lituana LRT, após a sessão do Conselho O presidente acrescentou que as mulheres poderão também continuar a prestar o serviço militar de forma voluntária O chefe de Estado lituano precisou que foi estabelecido o ano de 2032 para a colocação em prática das mudanças, de forma a poderem ser investidos até lá os fundos necessários em alojamento adequado para um maior número de recrutas e na formação dos instrutores Atualmente, todos os anos são recrutados mais de 5.000 jovens homens, selecionados de forma aleatória, para servir durante nove meses nas Forças Armadas, número que com a introdução do serviço militar obrigatório universal ascenderia a cerca de 7.500, tendo em conta já a situação demográfica e o facto de que uma parte não é apta por motivos de saúde Nauseda referiu também… «Lituânia vai ter serviço militar obrigatório para todos os homens a partir de 2032» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Lituânia vai ter serviço militar obrigatório para todos os homens a partir de 2032», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "opportunity_flag": false,
+      "detailed_summary": "O Ministério dos Negócios Estrangeiros confirmou esta sexta-feira que um cidadão português morreu na colisão entre dois comboios em Urda, Espanha. «Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Cidadão português entre as vítimas mortais do desastre ferroviário em Espanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "editorial_score": 10.94,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "EUA impõem sanções ao Ministério da Defesa de Ruanda",
+      "summary": "Os Estados Unidos da América (EUA) impuseram sanções ao Ministério da Defesa de Ruanda, acusando-o de ajudar a sustentar o grupo rebelde M23, que luta no leste da República Democrática do Congo. Washington espera aumentar a pressão sobre Kigali para que retire as tropas do país vizinho e cesse o alegado apoio ao grupo e […]",
+      "why": "«EUA impõem sanções ao Ministério da Defesa de Ruanda» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «EUA impõem sanções ao Ministério da Defesa de Ruanda», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "O País",
+      "published": "2026-10-30T06:07:24+00:00",
+      "age_hours": 3.6,
+      "within_24h": true,
+      "link": "https://opais.co.mz/eua-impoem-sancoes-ao-ministerio-da-defesa-de-ruanda/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Os Estados Unidos da América (EUA) impuseram sanções ao Ministério da Defesa de Ruanda, acusando-o de ajudar a sustentar o grupo rebelde M23, que luta no leste da República Democrática do Congo. Washington espera aumentar a pressão sobre Kigali para que retire as tropas do país vizinho e cesse o alegado apoio ao grupo e […]. «EUA impõem sanções ao Ministério da Defesa de Ruanda» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «EUA impõem sanções ao Ministério da Defesa de Ruanda», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 9.25,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -201,11 +242,11 @@
       "impact": "No caso de «Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-10-29T17:19:09+00:00",
-      "age_hours": 5.8,
+      "age_hours": 16.4,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/10/29/chefes-da-diplomacia-da-hungria-e-dos-eua-assinam-acordos-de-cooperacao",
       "original_source": true,
-      "event_id": "evt-mundo-009",
+      "event_id": "evt-mundo-022",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -215,85 +256,56 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Os ministros dos Negócios Estrangeiros da Hungria e dos Estados Unidos reuniram-se presencialmente. O encontro, que tinha sido adiado alguns dias antes, realizou-se na quinta-feira devido à agenda do chefe da diplomacia norte-americana no Texas.Anita Orbán anuncia assinatura de acordos bilaterais\"Assinámos dois importantes acordos de cooperação com o ministro dos Negócios Estrangeiros dos EUA, Marco Rubio. Com o acordo de cooperação 'Trump Peace Pipelines Framework', reforçamos a cooperação no desenvolvimento das infraestruturas regionais de gás natural e petróleo\", anunciou numa publicação no Facebook.E acrescentou: \"Com o outro acordo, reforçamos a cooperação policial e a troca de informações relacionadas com crimes cometidos por organizações radicais, aprofundando ainda mais o trabalho conjunto entre os dois países em matéria de assuntos internos e segurança pública.\"Um dos temas em destaque foi o setor energético, que figura também entre os temas prioritários da atual campanha eleitoral do presidente norte-americano, Donald Trump. «Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Chefes da diplomacia da Hungria e dos EUA assinam acordos de cooperação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 10.79,
+      "editorial_score": 8.58,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "IA",
+        "Segurança"
       ],
-      "title": "Christine Lagarde decidiu sair do BCE antes do fim do mandato",
-      "summary": "A presidente do Banco Central Europeu disse que está na hora de ter liberdade para falar e agir sem a obrigação de neutralidade, numa aparente referência às eleições francesas do próximo ano",
-      "why": "«Christine Lagarde decidiu sair do BCE antes do fim do mandato» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Christine Lagarde decidiu sair do BCE antes do fim do mandato», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-10-29T21:21:47+00:00",
-      "age_hours": 1.8,
+      "title": "Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global",
+      "summary": "Debate no Conselho de Segurança sobre tecnologias emergentes aponta integração entre ciência, política e capacidade técnica para suavizar riscos de ataques cibernéticos, autonomias descontroladas e escaladas inadvertidas no domínio marítimo; organização destaca que a supervisão humana permanece indispensável",
+      "why": "«Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-10-29T12:00:00+00:00",
+      "age_hours": 21.7,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/christine-lagarde-decidiu-sair-do-bce-antes-do-fim-do-mandato_v1775465",
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854791",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-029",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Notícias ONU"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A presidente do Banco Central Europeu disse que está na hora de ter liberdade para falar e agir sem a obrigação de neutralidade, numa aparente referência às eleições francesas do próximo ano. «Christine Lagarde decidiu sair do BCE antes do fim do mandato» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Christine Lagarde decidiu sair do BCE antes do fim do mandato», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.62,
+      "detailed_summary": "Debate no Conselho de Segurança sobre tecnologias emergentes aponta integração entre ciência, política e capacidade técnica para suavizar riscos de ataques cibernéticos, autonomias descontroladas e escaladas inadvertidas no domínio marítimo; organização destaca que a supervisão humana permanece indispensável. «Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Inovação e risco nos oceanos: ONU aponta pilares para segurança marítima global», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 8.48,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia",
-      "summary": "O ministro dos Negócios Estrangeiros de Cabo Verde disse hoje que a participação na cimeira Rússia-África, a decorrer em Moscovo, não altera a posição de condenação da invasão russa da Ucrânia \"Não, não altera. Assim que assumimos o Governo, a primeira coisa que fizemos em termos de relações externas foi afirmar que todos os compromissos que tinham sido assumidos pelo anterior Governo seriam respeitados\", referiu Manuel Amante da Rosa, em resposta à Lusa, na cidade da Praia O governante recordou que o país \"votou contra a invasão da Crimeia nas Nações Unidas, em várias resoluções\" e continuará \"a respeitar esse compromisso\" O anterior Governo de Cabo Verde não participou na cimeira de 2023 por condenar a invasão e o atual chefe da diplomacia disse que a posição se mantém A cimeira Rússia-África deste ano \"é copresidida pelo presidente da Federação Russa e pelo presidente da União Africana (UA), que é o Presidente do Burundi\", explicou \"Nós temos um embaixador na UA, portanto, há uma responsabilidade partilhada.",
-      "why": "«Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "RTP Notícias",
-      "published": "2026-10-28T18:44:21+00:00",
-      "age_hours": 28.4,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/cabo-verde-diz-que-ir-a-cimeira-nao-altera-condenacao-da-invasao-da-ucrania_n1775086",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "O ministro dos Negócios Estrangeiros de Cabo Verde disse hoje que a participação na cimeira Rússia-África, a decorrer em Moscovo, não altera a posição de condenação da invasão russa da Ucrânia \"Não, não altera. Assim que assumimos o Governo, a primeira coisa que fizemos em termos de relações externas foi afirmar que todos os compromissos que tinham sido assumidos pelo anterior Governo seriam respeitados\", referiu Manuel Amante da Rosa, em resposta à Lusa, na cidade da Praia O governante recordou que o país \"votou contra a invasão da Crimeia nas Nações Unidas, em várias resoluções\" e continuará \"a respeitar esse compromisso\" O anterior Governo de Cabo Verde não participou na cimeira de 2023 por condenar a invasão e o atual chefe da diplomacia disse que a posição se mantém A cimeira Rússia-África deste ano \"é copresidida pelo presidente da Federação Russa e pelo presidente da União Africana (UA), que é o Presidente do Burundi\", explicou \"Nós temos um embaixador na UA, portanto, há uma responsabilidade partilhada. «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Cabo Verde diz que ir a cimeira \"não altera\" condenação da invasão da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 9.36,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
-    },
-    {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz",
-      "summary": "O vice-presidente dos EUA, JD Vance, contactou o chefe de segurança do Irão, numa tentativa de retomar as negociações de paz e evitar um novo ataque dos EUA à República Islâmica, noticiou o Wall Street Journal na quarta-feira.Vance enviou uma carta a Mohsen Rezaei, presidente do Conselho Supremo de Segurança Nacional do Irão, alegadamente a pedido do presidente dos EUA, Donald Trump, de acordo com uma das fontes do jornal.Esta iniciativa visa determinar se Washington e Teerão conseguem encontrar pontos em comum suficientes para persuadir Trump a adiar a ordem de uma campanha militar que as autoridades descreveram como \"curta, mas intensa\" contra o Irão nas próximas semanas.A iniciativa surge apesar da recente declaração de Trump de que a sua administração não estava a negociar com o Irão e das suas repetidas advertências de que novas ações militares poderiam ser iminentes.A carta e os contactos subsequentes entre responsáveis norte-americanos e iranianos têm-se centrado no estabelecimento de um quadro para potenciais negociações, em vez de delinear um acordo de paz detalhado…",
-      "why": "«JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Ucrânia: ataque russo mata duas adolescentes em Chernihiv",
+      "summary": "Ataque russo em Chernihiv matou duas raparigas de 15 anos e feriu 25 pessoas, segundo responsáveis locais. Ao mesmo tempo, cessar-fogo mediado pelos EUA no sul da Ucrânia permite operações de desminagem para abrir corredores humanitários",
+      "why": "«Ucrânia: ataque russo mata duas adolescentes em Chernihiv» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Ucrânia: ataque russo mata duas adolescentes em Chernihiv», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-10-29T15:35:50+00:00",
-      "age_hours": 7.5,
+      "published": "2026-10-29T23:16:38+00:00",
+      "age_hours": 10.4,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/10/29/jd-vance-contactou-alto-responsavel-iraniano-numa-tentativa-de-reativar-negociacoes-de-paz",
+      "link": "https://pt.euronews.com/video/2026/10/30/ucrania-ataque-russo-mata-duas-adolescentes-em-chernihiv",
       "original_source": true,
-      "event_id": "evt-mundo-011",
+      "event_id": "evt-mundo-014",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -302,8 +314,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O vice-presidente dos EUA, JD Vance, contactou o chefe de segurança do Irão, numa tentativa de retomar as negociações de paz e evitar um novo ataque dos EUA à República Islâmica, noticiou o Wall Street Journal na quarta-feira.Vance enviou uma carta a Mohsen Rezaei, presidente do Conselho Supremo de Segurança Nacional do Irão, alegadamente a pedido do presidente dos EUA, Donald Trump, de acordo com uma das fontes do jornal.Esta iniciativa visa determinar se Washington e Teerão conseguem encontrar pontos em comum suficientes para persuadir Trump a adiar a ordem de uma campanha militar que as autoridades descreveram como \"curta, mas intensa\" contra o Irão nas próximas semanas.A iniciativa surge apesar da recente declaração de Trump de que a sua administração não estava a negociar com o Irão e das suas repetidas advertências de que novas ações militares poderiam ser iminentes.A carta e os contactos subsequentes entre responsáveis norte-americanos e iranianos têm-se centrado no estabelecimento de um quadro para potenciais negociações, em vez de delinear um acordo de paz detalhado… «JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «JD Vance contactou alto responsável iraniano numa tentativa de reativar negociações de paz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.44,
+      "detailed_summary": "Ataque russo em Chernihiv matou duas raparigas de 15 anos e feriu 25 pessoas, segundo responsáveis locais. Ao mesmo tempo, cessar-fogo mediado pelos EUA no sul da Ucrânia permite operações de desminagem para abrir corredores humanitários. «Ucrânia: ataque russo mata duas adolescentes em Chernihiv» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Ucrânia: ataque russo mata duas adolescentes em Chernihiv», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 6.83,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -327,9 +339,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 5,
+    "Moçambique": 4,
     "África": 1,
-    "Mundo": 4
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
