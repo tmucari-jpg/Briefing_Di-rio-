@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T20:24:45.474595+00:00",
+  "updated_at": "2026-10-31T23:58:26.386622+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,11 +16,11 @@
       "impact": "For «Ukrainian evacuees reunite with family after years trapped in Russia-occupied city», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "BBC World",
       "published": "2026-10-31T17:53:35+00:00",
-      "age_hours": 2.5,
+      "age_hours": 6.1,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-006",
       "cluster_size": 2,
       "source_count": 2,
       "sources": [
@@ -38,7 +38,7 @@
       ],
       "opportunity_flag": false,
       "detailed_summary": "Watch: Evacuees from Oleshky reunited with their families There were raw emotional scenes as people evacuated from the devastated Russian-occupied city of Oleshky crossed from Belarus into the Ukrainian region of Chernihiv Families cried as they reunited with relatives they had not seen for years, with two sisters running and crying out as they embraced their father Some elderly residents were so weak they were carried on stretchers. «Ukrainian evacuees reunite with family after years trapped in Russia-occupied city» is worth following because of its possible economic, institutional or regional effects. For «Ukrainian evacuees reunite with family after years trapped in Russia-occupied city», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 11.98,
+      "editorial_score": 11.23,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -54,7 +54,7 @@
       "impact": "For «Mozambique’s exchange rate reform aims for gradual shift towards a market-led exchange rate – minister», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-30T13:53:27+00:00",
-      "age_hours": 30.5,
+      "age_hours": 34.1,
       "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambiques-exchange-rate-reform-aims-for-gradual-shift-towards-a-market-led-exchange-rate-minister/",
       "original_source": true,
@@ -68,7 +68,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "“We also have the chapter on exchange rate reform, which aims to move gradually and in a guided manner towards a market-led exchange rate,” Carla Loveira said, presenting measures under way or planned at a meeting with businesspeople in Maputo The position, expressed during a meeting held as part of a Business Breakfast dedicated to fiscal policy, the business environment and private-sector priorities for the country’s economic growth, organised by the Confederation of Economic Associations of Mozambique (CTA), comes amid debate over difficulties in accessing foreign currency and the process by which the central bank sets the exchange rate In practice, due to the lack of access to foreign currency through the banking system, businesspeople end up resorting to buying currency through alternative channels, at rates considerably above the official exchange rate. «Mozambique’s exchange rate reform aims for gradual shift towards a market-led exchange rate – minister» deserves attention because it may change political, diplomatic or security risks. For «Mozambique’s exchange rate reform aims for gradual shift towards a market-led exchange rate – minister», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 11.3,
+      "editorial_score": 11.18,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
     },
@@ -83,7 +83,7 @@
       "impact": "For «Mozambique: Businesspeople call for suspension of grain import centralisation», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-30T12:59:46+00:00",
-      "age_hours": 31.4,
+      "age_hours": 35.0,
       "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambique-businesspeople-call-for-suspension-of-grain-import-centralisation/",
       "original_source": true,
@@ -97,9 +97,67 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "“It is a thorny issue, with other ‘nuances’ behind it, and someone has to resolve the problem once and for all: the Government,” said the president of the Fiscal Policy, Customs and International Trade Department of the Confederation of Economic Associations of Mozambique (CTA), Kekobad Patel, on the sidelines of a meeting between businesspeople and Finance Minister Carla Loveira in Maputo According to Patel, the decree in force since December 2025, which assigns the management of rice and wheat imports to the ICM, should be suspended “We need to start suspending this immediately. That is the first measure I think should be taken. «Mozambique: Businesspeople call for suspension of grain import centralisation» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Businesspeople call for suspension of grain import centralisation», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.27,
+      "editorial_score": 11.16,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+      "summary": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from",
+      "why": "«Dutch authorities rescue 38 people adrift in rubber boat» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Dutch authorities rescue 38 people adrift in rubber boat», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-31T22:38:03+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from. «Dutch authorities rescue 38 people adrift in rubber boat» is worth following because of its possible economic, institutional or regional effects. For «Dutch authorities rescue 38 people adrift in rubber boat», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.73,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action",
+      "why": "«Palestine Action supporters arrested outside US embassy in London» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Palestine Action supporters arrested outside US embassy in London», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-10-31T22:10:53+00:00",
+      "age_hours": 1.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action. «Palestine Action supporters arrested outside US embassy in London» is worth following because of its possible economic, institutional or regional effects. For «Palestine Action supporters arrested outside US embassy in London», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.62,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
@@ -112,11 +170,11 @@
       "impact": "For «Serbia after Vucic: The winners are losing patience», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "DW English",
       "published": "2026-10-31T19:49:00+00:00",
-      "age_hours": 0.6,
+      "age_hours": 4.2,
       "within_24h": true,
       "link": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -126,36 +184,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "After the Student List's election victory, Aleksandar Vucic's power apparatus is disintegrating. People want justice as soon as possible. But the losers still hold sway in the judiciary and administration Aleksandar Vucic is accustomed to the spotlight. As Serbia 's all-powerful president, loyal media outlets followed his every move for years. His TikTok outbursts led the evening news. But on October 25 he lost the election to the Student List, and since then, a lot has changed Vucic complained at a press conference, before fewer microphones than usual, that the winners were practising \"revolutionary terror.\" He threatened: \"If they continue to terrorize those who think differently – beatings, destruction and all the rest – and the state authorities do nothing, we will be forced to organize ourselves.\" Vucic regards the immediate resignation of the general director of the Serbian state broadcaster RTS as an example of this \"terror.\" Senior RTS editors have also been dismissed On Monday, a small group of protesters invaded the Informer TV station. «Serbia after Vucic: The winners are losing patience» is worth following because of its possible economic, institutional or regional effects. For «Serbia after Vucic: The winners are losing patience», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.88,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-      "summary": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending",
-      "why": "«Thousands rally in Berlin as Gen Z plans protests in 30 German cities» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Thousands rally in Berlin as Gen Z plans protests in 30 German cities», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-31T16:28:04+00:00",
-      "age_hours": 3.9,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending. «Thousands rally in Berlin as Gen Z plans protests in 30 German cities» is worth following because of its possible economic, institutional or regional effects. For «Thousands rally in Berlin as Gen Z plans protests in 30 German cities», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.19,
+      "editorial_score": 10.12,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -170,7 +199,7 @@
       "impact": "For «More than 5,000 die from Ebola in DR Congo's deadliest outbreak», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-10-31T15:16:20+00:00",
-      "age_hours": 5.1,
+      "age_hours": 8.7,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -184,36 +213,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "There is no vaccine for this strain of the virus, but clinical trials are under way More than 5,000 people have died from an ongoing Ebola outbreak in the Democratic Republic of Congo, government data shows Eight of 26 provinces are now affected, with more than 10,300 confirmed cases The outbreak, which started in May, became the country's deadliest in its history in August, public health officials said. «More than 5,000 die from Ebola in DR Congo's deadliest outbreak» is worth following because of its possible economic, institutional or regional effects. For «More than 5,000 die from Ebola in DR Congo's deadliest outbreak», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 9.94,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Ethiopian PM puts ministers through military training",
-      "summary": "The training comes as Ethiopia faces continued fighting in parts of the northern Tigray region Ethiopian Prime Minister Abiy Ahmed has put his cabinet ministers and other senior government officials through military training, saying armed forces discipline can help build stronger leaders and advance the country's development Photos shared by him on social media show him taking part in military exercises alongside ministers, deputy ministers and heads of government institutions at the Hurso military training centre The move is unusual in Ethiopia, where senior civilian government officials are rarely seen undergoing military training Those taking part include Speaker of the House of Federation Muferiat Kamil, Finance Minister Fitsum Assefa and Health Minister Mekdes Daba It is unclear when the training began or how long it is expected to last In his post, the prime minister, who is known as Abiy, said Ethiopia's ambition to achieve universal prosperity required its leadership to be physically fit, morally strong and intellectually capable He said military institutions offered…",
-      "why": "«Ethiopian PM puts ministers through military training» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Ethiopian PM puts ministers through military training», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "BBC Africa",
-      "published": "2026-10-31T14:28:15+00:00",
-      "age_hours": 5.9,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC Africa"
-      ],
-      "primary_source": "BBC Africa",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The training comes as Ethiopia faces continued fighting in parts of the northern Tigray region Ethiopian Prime Minister Abiy Ahmed has put his cabinet ministers and other senior government officials through military training, saying armed forces discipline can help build stronger leaders and advance the country's development Photos shared by him on social media show him taking part in military exercises alongside ministers, deputy ministers and heads of government institutions at the Hurso military training centre The move is unusual in Ethiopia, where senior civilian government officials are rarely seen undergoing military training Those taking part include Speaker of the House of Federation Muferiat Kamil, Finance Minister Fitsum Assefa and Health Minister Mekdes Daba It is unclear when the training began or how long it is expected to last In his post, the prime minister, who is known as Abiy, said Ethiopia's ambition to achieve universal prosperity required its leadership to be physically fit, morally strong and intellectually capable He said military institutions offered… «Ethiopian PM puts ministers through military training» is worth following because of its possible economic, institutional or regional effects. For «Ethiopian PM puts ministers through military training», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 9.77,
+      "editorial_score": 9.19,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -228,7 +228,7 @@
       "impact": "For «INE records over 14,000 registered non-profit entities in Mozambique», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "AIM News",
       "published": "2026-10-30T11:11:32+00:00",
-      "age_hours": 33.2,
+      "age_hours": 36.8,
       "within_24h": false,
       "link": "https://aimnews.org/2026/10/30/ine-records-over-14000-registered-non-profit-entities-in-mozambique/",
       "original_source": true,
@@ -242,9 +242,38 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 30 Oct (AIM) – Mozambique’s National Statistics Institute (INE) has recorded 14,462 formally registered non-profit entities, as part of the 3rd Business Census (CEMPRE 2025-2026). According to the census – which was conducted between September 2025 and May 2026, aiming to collect and update information on the structure of the Mozambican business sector, non-profit institutions – the country has 112,784 formally registered companies. The study points out that these non-profit institutions employ 136,269 people and generate approximately 117.4 billion meticais in annual revenue (1.8 billion US dollars at the current exchange rate). 50.7 percent of these institutions are associations, followed by religious organizations at 45.5 percent. The southern provinces Inhambane and of Gaza, and the central province of Manica, account together 67.4 percent of the country’s non-profit institutions. On the other hand, INE recorded the formal existence of 112.784 companies in the country, which corresponds to 80.1 percent. «INE records over 14,000 registered non-profit entities in Mozambique» helps explain a concrete economic or business change relevant to Moçambique. For «INE records over 14,000 registered non-profit entities in Mozambique», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 9.21,
+      "editorial_score": 9.1,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Ethiopian PM puts ministers through military training",
+      "summary": "The training comes as Ethiopia faces continued fighting in parts of the northern Tigray region Ethiopian Prime Minister Abiy Ahmed has put his cabinet ministers and other senior government officials through military training, saying armed forces discipline can help build stronger leaders and advance the country's development Photos shared by him on social media show him taking part in military exercises alongside ministers, deputy ministers and heads of government institutions at the Hurso military training centre The move is unusual in Ethiopia, where senior civilian government officials are rarely seen undergoing military training Those taking part include Speaker of the House of Federation Muferiat Kamil, Finance Minister Fitsum Assefa and Health Minister Mekdes Daba It is unclear when the training began or how long it is expected to last In his post, the prime minister, who is known as Abiy, said Ethiopia's ambition to achieve universal prosperity required its leadership to be physically fit, morally strong and intellectually capable He said military institutions offered…",
+      "why": "«Ethiopian PM puts ministers through military training» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Ethiopian PM puts ministers through military training», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "source": "BBC Africa",
+      "published": "2026-10-31T14:28:15+00:00",
+      "age_hours": 9.5,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The training comes as Ethiopia faces continued fighting in parts of the northern Tigray region Ethiopian Prime Minister Abiy Ahmed has put his cabinet ministers and other senior government officials through military training, saying armed forces discipline can help build stronger leaders and advance the country's development Photos shared by him on social media show him taking part in military exercises alongside ministers, deputy ministers and heads of government institutions at the Hurso military training centre The move is unusual in Ethiopia, where senior civilian government officials are rarely seen undergoing military training Those taking part include Speaker of the House of Federation Muferiat Kamil, Finance Minister Fitsum Assefa and Health Minister Mekdes Daba It is unclear when the training began or how long it is expected to last In his post, the prime minister, who is known as Abiy, said Ethiopia's ambition to achieve universal prosperity required its leadership to be physically fit, morally strong and intellectually capable He said military institutions offered… «Ethiopian PM puts ministers through military training» is worth following because of its possible economic, institutional or regional effects. For «Ethiopian PM puts ministers through military training», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "editorial_score": 9.02,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
@@ -257,11 +286,11 @@
       "impact": "For «CCTV and zip ties: How US mail-in votes are secured and counted», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "BBC World",
       "published": "2026-10-31T09:16:14+00:00",
-      "age_hours": 11.1,
+      "age_hours": 14.7,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-007",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -271,7 +300,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Ahead of the US midterm elections on 3 November, President Trump continues to make unsubstantiated claims that mail-in voting leads to widespread fraud US states have different voting rules and regulations - but every state allows some postal voting, a method the president says he has used in the past BBC Verify visited an election centre in Maryland to get a behind-the-scenes look at how mail-in ballots are processed and counted Produced by Mabel Pickering. Graphics by Sally Nicholls. «CCTV and zip ties: How US mail-in votes are secured and counted» is worth following because of its possible economic, institutional or regional effects. For «CCTV and zip ties: How US mail-in votes are secured and counted», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 8.69,
+      "editorial_score": 7.94,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -297,7 +326,7 @@
   "section_counts": {
     "Moçambique": 3,
     "África": 2,
-    "Mundo": 4
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
