@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T10:10:40.367378+00:00",
+  "updated_at": "2026-11-01T17:01:33.374822+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,20 +8,85 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
+        "Economia"
+      ],
+      "title": "Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País",
+      "summary": "O ministro da Saúde, Ussene Isse, considera que o incêndio que deflagrou este domingo, 1 de Novembro, no Serviço de Oncologia do Hospital Central de Maputo (HCM) representa um grande […]",
+      "why": "«Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-11-01T13:00:00+00:00",
+      "age_hours": 4.0,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/11/01/desenvolvimento-2/governo-considera-incendio-na-oncologia-do-hcm-um-retrocesso-para-o-pais/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "Diário Económico",
+        "AIM Notícias"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM Notícias",
+          "title": "Governo focado no restabelecimento pleno dos serviços de Oncologia após incêndio",
+          "link": "https://aimnews.org/2026/11/01/governo-garante-restabelecimento-pleno-dos-servicos-de-oncologia-apos-incendio/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O ministro da Saúde, Ussene Isse, considera que o incêndio que deflagrou este domingo, 1 de Novembro, no Serviço de Oncologia do Hospital Central de Maputo (HCM) representa um grande […]. «Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 13.67,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
         "Segurança"
       ],
-      "title": "Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás",
-      "summary": "Maputo, 01 de Nov (AIM) – O relatório sobre o Estado da Paz e Segurança em África, apresentado pelo Presidente do Gana e do Conselho do Fórum de Tana, John Dramani Mahama, identifica a exploração do gás natural em Cabo Delgado, no norte de Moçambique, como uma questão associada aos desafios de segurança local, alertando que as comunidades não encaram a riqueza dos recursos naturais como um benefício nacional, mas como mais um factor de marginalização. O documento defende que a gestão dos recursos estratégicos e a inclusão das populações locais são elementos fundamentais para enfrentar os conflitos no continente. “A riqueza de gás de Moçambique está aberta, enquanto as populações locais não vêem essa riqueza como um dividendo nacional, mas como mais um símbolo de marginalização”, disse recentimente, o Presidente do Gana na apresentacao do relatório em Bahir Dar, Etiopia, onde decorreu o Fórum de Tana, onde o Presidente Daniel Chapo foi orador de um painel.",
-      "why": "«Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-01T06:48:44+00:00",
-      "age_hours": 3.4,
+      "title": "Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional",
+      "summary": "Moçambique realizou, de 26 a 30 de Outubro, uma missão de cooperação à Tanzânia para conhecer modelos de gestão de reservas alimentares que possam servir de referência para a criação e operacionalização da Reserva Alimentar Nacional. A iniciativa, realizada com o apoio do Programa Mundial para a Alimentação (PMA), visa reforçar a segurança alimentar, garantir […]",
+      "why": "«Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "O País",
+      "published": "2026-11-01T14:28:15+00:00",
+      "age_hours": 2.5,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/01/relatorio-africano-associa-riscos-de-seguranca-em-cabo-delgado-a-exploracao-do-gas/",
+      "link": "https://opais.co.mz/mocambique-procura-na-tanzania-experiencias-para-criacao-da-reserva-alimentar-nacional/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Moçambique realizou, de 26 a 30 de Outubro, uma missão de cooperação à Tanzânia para conhecer modelos de gestão de reservas alimentares que possam servir de referência para a criação e operacionalização da Reserva Alimentar Nacional. A iniciativa, realizada com o apoio do Programa Mundial para a Alimentação (PMA), visa reforçar a segurança alimentar, garantir […]. «Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.48,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Bombeiros impediram propagação de incêndio ao serviço de radioterapia do HCM",
+      "summary": "Maputo, 01 Nov (AIM) – A pronta intervenção dos bombeiros impediu que o incêndio que hoje deflagrou no Serviço de Oncologia do Hospital Central de Maputo (HCM) se propagasse à área térrea do edifício, onde funciona o serviço de radioterapia, segundo a porta-voz do Serviço Nacional de Salvação Pública (SENSAP), Vanessa Chiau. “A pronta intervenção dos bombeiros permitiu que o incêndio não se alastrasse para outros compartimentos do edifício, concretamente na parte térrea, que compreende a área da radioterapia”, afirmou Chiau, assegurando que aquele serviço não foi atingido pelas chamas. A responsável explicou que o fogo teve início no interior do edifício da Oncologia, tendo posteriormente alastrado para o exterior, atingindo proporções consideradas alarmantes. “Chegando ao local, verificámos que o incêndio tinha tomado proporções alarmantes. Um dado que podemos avançar é que o incêndio iniciou no interior do edifício da Oncologia e propagou-se para o exterior”, declarou.",
+      "why": "«Bombeiros impediram propagação de incêndio ao serviço de radioterapia do HCM» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Bombeiros impediram propagação de incêndio ao serviço de radioterapia do HCM», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-01T12:58:53+00:00",
+      "age_hours": 4.0,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/01/bombeiros-impediram-propagacao-de-incendio-ao-servico-de-radioterapia-do-hcm/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,8 +95,8 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 01 de Nov (AIM) – O relatório sobre o Estado da Paz e Segurança em África, apresentado pelo Presidente do Gana e do Conselho do Fórum de Tana, John Dramani Mahama, identifica a exploração do gás natural em Cabo Delgado, no norte de Moçambique, como uma questão associada aos desafios de segurança local, alertando que as comunidades não encaram a riqueza dos recursos naturais como um benefício nacional, mas como mais um factor de marginalização. O documento defende que a gestão dos recursos estratégicos e a inclusão das populações locais são elementos fundamentais para enfrentar os conflitos no continente. “A riqueza de gás de Moçambique está aberta, enquanto as populações locais não vêem essa riqueza como um dividendo nacional, mas como mais um símbolo de marginalização”, disse recentimente, o Presidente do Gana na apresentacao do relatório em Bahir Dar, Etiopia, onde decorreu o Fórum de Tana, onde o Presidente Daniel Chapo foi orador de um painel. «Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.29,
+      "detailed_summary": "Maputo, 01 Nov (AIM) – A pronta intervenção dos bombeiros impediu que o incêndio que hoje deflagrou no Serviço de Oncologia do Hospital Central de Maputo (HCM) se propagasse à área térrea do edifício, onde funciona o serviço de radioterapia, segundo a porta-voz do Serviço Nacional de Salvação Pública (SENSAP), Vanessa Chiau. “A pronta intervenção dos bombeiros permitiu que o incêndio não se alastrasse para outros compartimentos do edifício, concretamente na parte térrea, que compreende a área da radioterapia”, afirmou Chiau, assegurando que aquele serviço não foi atingido pelas chamas. A responsável explicou que o fogo teve início no interior do edifício da Oncologia, tendo posteriormente alastrado para o exterior, atingindo proporções consideradas alarmantes. “Chegando ao local, verificámos que o incêndio tinha tomado proporções alarmantes. Um dado que podemos avançar é que o incêndio iniciou no interior do edifício da Oncologia e propagou-se para o exterior”, declarou. «Bombeiros impediram propagação de incêndio ao serviço de radioterapia do HCM» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Bombeiros impediram propagação de incêndio ao serviço de radioterapia do HCM», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.17,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -40,44 +105,44 @@
       "tags": [
         "Economia"
       ],
-      "title": "Produtos agrícolas moçambicanos procuram novos mercados na Índia",
-      "summary": "Maputo, 01 de Nov (AIM) – O Instituto de Cereais de Moçambique (ICM) está a promover arroz, milho, feijão bóer, castanha de caju, gergelim e chá de Gurué na Índia, com o objectivo de divulgar o potencial agrícola nacional, estabelecer contactos comerciais e atrair investidores e parceiros internacionais para impulsionar as exportações moçambicanas. A promoção decorreU no âmbito da participação de Moçambique na Conferência Internacional de Arroz (BIRC 2026), cuja componente agro-comercial tem lugar em Nova Deli, na Índia, reunindo representantes institucionais, operadores económicos e potenciais compradores interessados nas oportunidades do sector agrícola. Integrado na comitiva oficial do Secretário de Estado do Comércio, António do Rosário Grispos, o ICM, faz-se representar pelo seu Director-Geral, Luís Job Fazenda, que participou igualmente na sessão de abertura do certame.",
-      "why": "«Produtos agrícolas moçambicanos procuram novos mercados na Índia» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Produtos agrícolas moçambicanos procuram novos mercados na Índia», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "AIM Notícias",
-      "published": "2026-11-01T05:56:58+00:00",
-      "age_hours": 4.2,
+      "title": "PR saúda jovens moçambicanos pelo Dia da Juventude Africana",
+      "summary": "O Presidente da República, Daniel Chapo, reafirma o compromisso de Moçambique com os princípios e objectivos da Carta Africana da Juventude, os quais o país é signatário desde 2008 destacando a necessidade de ampliar as oportunidades de educação, formação, emprego, participação cívica e inclusão social. Este compromisso consta da mensagem do Chefe do Estado, na qual, saúda os jovens moçambicanos e africanos por ocasião do Dia da Juventude Africana, que se assinala, hoje, 1 de Novembro, sob o lema “Reflectir, Reimaginar e Reposicionar a Carta Africana da Juventude”. Na missiva, o estadista reconhece a juventude como força activa do presente, com capacidade para inovar, empreender, produzir conhecimento, criar soluções e impulsionar as transformações necessárias para o continente. Sob o lema da celebração, Chapo exorta os jovens a aprofundarem o conhecimento dos seus direitos e deveres e a assumirem uma participação cada vez mais consciente, responsável e activa na construção das sociedades africanas.",
+      "why": "«PR saúda jovens moçambicanos pelo Dia da Juventude Africana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «PR saúda jovens moçambicanos pelo Dia da Juventude Africana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-01T12:36:36+00:00",
+      "age_hours": 4.4,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/01/produtos-agricolas-mocambicanos-procuram-novos-mercados-na-india/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/pr-sauda-jovens-mocambicanos-pelo-dia-da-juventude-africana/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM Notícias"
+        "Jornal Notícias"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 01 de Nov (AIM) – O Instituto de Cereais de Moçambique (ICM) está a promover arroz, milho, feijão bóer, castanha de caju, gergelim e chá de Gurué na Índia, com o objectivo de divulgar o potencial agrícola nacional, estabelecer contactos comerciais e atrair investidores e parceiros internacionais para impulsionar as exportações moçambicanas. A promoção decorreU no âmbito da participação de Moçambique na Conferência Internacional de Arroz (BIRC 2026), cuja componente agro-comercial tem lugar em Nova Deli, na Índia, reunindo representantes institucionais, operadores económicos e potenciais compradores interessados nas oportunidades do sector agrícola. Integrado na comitiva oficial do Secretário de Estado do Comércio, António do Rosário Grispos, o ICM, faz-se representar pelo seu Director-Geral, Luís Job Fazenda, que participou igualmente na sessão de abertura do certame. «Produtos agrícolas moçambicanos procuram novos mercados na Índia» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Produtos agrícolas moçambicanos procuram novos mercados na Índia», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.12,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, reafirma o compromisso de Moçambique com os princípios e objectivos da Carta Africana da Juventude, os quais o país é signatário desde 2008 destacando a necessidade de ampliar as oportunidades de educação, formação, emprego, participação cívica e inclusão social. Este compromisso consta da mensagem do Chefe do Estado, na qual, saúda os jovens moçambicanos e africanos por ocasião do Dia da Juventude Africana, que se assinala, hoje, 1 de Novembro, sob o lema “Reflectir, Reimaginar e Reposicionar a Carta Africana da Juventude”. Na missiva, o estadista reconhece a juventude como força activa do presente, com capacidade para inovar, empreender, produzir conhecimento, criar soluções e impulsionar as transformações necessárias para o continente. Sob o lema da celebração, Chapo exorta os jovens a aprofundarem o conhecimento dos seus direitos e deveres e a assumirem uma participação cada vez mais consciente, responsável e activa na construção das sociedades africanas. «PR saúda jovens moçambicanos pelo Dia da Juventude Africana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «PR saúda jovens moçambicanos pelo Dia da Juventude Africana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.08,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado",
-      "summary": "Os 100 milhões de barris de petróleo e gasóleo das reservas estratégicas que os países do G7 se comprometeram a colocar no mercado ao longo de quatro meses começaram hoje a ser disponibilizados",
-      "why": "«Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem",
+      "summary": "O Presidente dos Estados Unidos, Donald Trump, disse hoje que poderia tornar-se o \"Senhor Veto\" se os democratas, à frente nas sondagens, conquistarem a maioria no Congresso nas eleições intercalares na terça-feira",
+      "why": "«Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-11-01T09:28:24+00:00",
-      "age_hours": 0.7,
+      "published": "2026-11-01T17:00:48+00:00",
+      "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/reservas-de-100-milhoes-de-barris-de-petroleo-prometidas-pelo-g7-comecam-a-chegar-ao-mercado_n1776011",
+      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-nos-eua-trump-amaeaca-ser-sr-veto-se-democratas-vencerem_n1776107",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -88,125 +153,97 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Os 100 milhões de barris de petróleo e gasóleo das reservas estratégicas que os países do G7 se comprometeram a colocar no mercado ao longo de quatro meses começaram hoje a ser disponibilizados. «Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 11.85,
+      "detailed_summary": "O Presidente dos Estados Unidos, Donald Trump, disse hoje que poderia tornar-se o \"Senhor Veto\" se os democratas, à frente nas sondagens, conquistarem a maioria no Congresso nas eleições intercalares na terça-feira. «Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 11.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção",
-      "summary": "Os alvos são os mais vulneráveis em meio a previsões de um forte El Niño; país africano quer blindar comunidades e infraestruturas com sistemas de alerta precoce e gestão de riscos; projeto com apoio do Fundo Verde para o Clima quer responder a desastres como as graves inundações de 2021",
-      "why": "«São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "Notícias ONU",
-      "published": "2026-10-30T12:00:00+00:00",
-      "age_hours": 46.2,
-      "within_24h": false,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854797",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "Os alvos são os mais vulneráveis em meio a previsões de um forte El Niño; país africano quer blindar comunidades e infraestruturas com sistemas de alerta precoce e gestão de riscos; projeto com apoio do Fundo Verde para o Clima quer responder a desastres como as graves inundações de 2021. «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 8.81,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "ACNUR Soma 1,3 Milhão de Deslocados Devido à Violência Armada Desde 2017",
-      "summary": "Dados do Alto Comissariado das Nações Unidas para os Refugiados (ACNUR) indicam que cerca de 1,3 milhão de pessoas foram obrigadas a abandonar as suas zonas de origem em Moçambique […]",
-      "why": "«ACNUR Soma 1,3 Milhão de Deslocados Devido à Violência Armada Desde 2017» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «ACNUR Soma 1,3 Milhão de Deslocados Devido à Violência Armada Desde 2017», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-31T13:00:00+00:00",
-      "age_hours": 21.2,
+      "title": "Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito",
+      "summary": "GenMais de 300 mil pessoas foram deslocadas no Iémen devido à intensificação dos confrontos no oeste do país - com a grande maioria destas deslocações a ocorrer nos últimos dois meses ---, anunciou hoje a ONU",
+      "why": "«Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-01T16:15:34+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/31/desenvolvimento-2/acnur-soma-13-milhao-de-deslocados-devido-a-violencia-armada-desde-2017/",
+      "link": "https://www.rtp.pt/noticias/mundo/mais-de-300-mil-pessoas-deslocadas-no-iemen-devido-ao-conflito_n1776097",
       "original_source": true,
-      "event_id": "evt-mocambique-006",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Diário Económico"
+        "RTP Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Dados do Alto Comissariado das Nações Unidas para os Refugiados (ACNUR) indicam que cerca de 1,3 milhão de pessoas foram obrigadas a abandonar as suas zonas de origem em Moçambique […]. «ACNUR Soma 1,3 Milhão de Deslocados Devido à Violência Armada Desde 2017» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «ACNUR Soma 1,3 Milhão de Deslocados Devido à Violência Armada Desde 2017», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 8.58,
-      "source_tier": "B",
+      "detailed_summary": "GenMais de 300 mil pessoas foram deslocadas no Iémen devido à intensificação dos confrontos no oeste do país - com a grande maioria destas deslocações a ocorrer nos últimos dois meses ---, anunciou hoje a ONU. «Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.83,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "IA"
+        "Energia",
+        "Economia"
       ],
-      "title": "Moçambique e EUA Promovem Primeira Formação Nacional em Inteligência Artificial",
-      "summary": "Os Governos de Moçambique e dos Estados Unidos da América (EUA) realizaram, na última quinta-feira, 29 de Outubro, em Maputo, a primeira formação em “Google Super Intelligence (SI) e Computação […]",
-      "why": "«Moçambique e EUA Promovem Primeira Formação Nacional em Inteligência Artificial» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Moçambique e EUA Promovem Primeira Formação Nacional em Inteligência Artificial», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-10-31T12:00:00+00:00",
-      "age_hours": 22.2,
+      "title": "Painéis solares levam energia a Mepuera até Março",
+      "summary": "Uma mini rede de energia eléctrica vai entrar em funcionamento até Março do próximo ano, através de um sistema fotovoltaico de painéis solares aprovado para acelerar o desenvolvimento e abertura de pequenos negócios na localidade de Mepuera, distrito de Metarica, província do Niassa. O anúncio foi feito por Silva Livone, secretário de Estado na província do Niassa, num encontro que manteve, este fim de semana, com a população de Mepuera, no âmbito da visita de trabalho que efectua ao distrito. “O Governo tem um programa chamado ‘‘Energia Para Todos’’, que prevê alargar o acesso à energia para todos até 2030, mas vocês aqui em Mepuera, não precisam de esperar até 2030, porque já temos o projecto aprovado: até ao próximo ano, em Março, vão ter energia eléctrica”, assegurou. Na ocasião, o dirigente apelou à construção de infra-estruturas económicas com destaque para indústrias moageiras, mercearias e barbearias, entre outras que contribuam para o desenvolvimento local e para o alcance da independência económica.",
+      "why": "«Painéis solares levam energia a Mepuera até Março» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Painéis solares levam energia a Mepuera até Março», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-01T13:33:23+00:00",
+      "age_hours": 3.5,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/10/31/trends/ai/mocambique-e-eua-promovem-primeira-formacao-nacional-em-inteligencia-artificial/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/paineis-solares-levam-energia-a-mepuera-ate-marco/",
       "original_source": true,
-      "event_id": "evt-mocambique-007",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Diário Económico"
+        "Jornal Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Os Governos de Moçambique e dos Estados Unidos da América (EUA) realizaram, na última quinta-feira, 29 de Outubro, em Maputo, a primeira formação em “Google Super Intelligence (SI) e Computação […]. «Moçambique e EUA Promovem Primeira Formação Nacional em Inteligência Artificial» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Moçambique e EUA Promovem Primeira Formação Nacional em Inteligência Artificial», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 8.38,
+      "opportunity_flag": true,
+      "detailed_summary": "Uma mini rede de energia eléctrica vai entrar em funcionamento até Março do próximo ano, através de um sistema fotovoltaico de painéis solares aprovado para acelerar o desenvolvimento e abertura de pequenos negócios na localidade de Mepuera, distrito de Metarica, província do Niassa. O anúncio foi feito por Silva Livone, secretário de Estado na província do Niassa, num encontro que manteve, este fim de semana, com a população de Mepuera, no âmbito da visita de trabalho que efectua ao distrito. “O Governo tem um programa chamado ‘‘Energia Para Todos’’, que prevê alargar o acesso à energia para todos até 2030, mas vocês aqui em Mepuera, não precisam de esperar até 2030, porque já temos o projecto aprovado: até ao próximo ano, em Março, vão ter energia eléctrica”, assegurou. Na ocasião, o dirigente apelou à construção de infra-estruturas económicas com destaque para indústrias moageiras, mercearias e barbearias, entre outras que contribuam para o desenvolvimento local e para o alcance da independência económica. «Painéis solares levam energia a Mepuera até Março» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Painéis solares levam energia a Mepuera até Março», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 10.27,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Secretária de estado de Estado dos Negócios Estrangeiros visita tanzânia",
-      "summary": "A Secretária de Estado dos Negócios Estrangeiros e Comunidade Moçambicana no Exterior, Maria de Fátima Simão Manso, efectua, de 31 de Outubro a 02 de Novembro de 2026, uma visita de trabalho à República Unida da Tanzânia. Em Dar-es-Salaam, capital tanzaniana, a Secretária de Estado manterá encontros de trabalho com uma entidade governamental daquele país […]",
-      "why": "«Secretária de estado de Estado dos Negócios Estrangeiros visita tanzânia» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Secretária de estado de Estado dos Negócios Estrangeiros visita tanzânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "O País",
-      "published": "2026-10-31T14:42:52+00:00",
-      "age_hours": 19.5,
+      "title": "Irão ameaça resposta sem limites geográficos a novo ataque dos EUA",
+      "summary": "O líder supremo iraniano, aiatola Mojtaba Khamenei, advertiu o mundo de que “qualquer nível ou tipo de ameaça deve ser respondido de forma imediata, contundente e sem limitações geográficas”.O aviso surge numa altura em que prosseguem esforços diplomáticos urgentes para evitar uma nova guerra total com o Irão, que teria consequências devastadoras para o Médio Oriente e não só.No sábado, Khamenei reuniu-se com os principais comandantes militares do Irão e apresentou-lhes diretivas para se prepararem para uma eventual nova ação militar dos Estados Unidos e de Israel, segundo a agência oficial IRNA.A reunião seguiu-se a avisos dos Estados Unidos de que as suas forças poderão lançar uma campanha militar curta mas intensa contra o Irão após as eleições intercalares norte-americanas da próxima semana.A ameaça de uma “resposta sem limitações geográficas” significa que o Irão poderá procurar atingir alvos na Europa e também no Sul do Cáucaso em reação a um novo ataque.Segundo os meios de comunicação estatais, Khamenei, que não é visto em público desde que a guerra no Irão começou com…",
+      "why": "«Irão ameaça resposta sem limites geográficos a novo ataque dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Irão ameaça resposta sem limites geográficos a novo ataque dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-01T16:31:06+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://opais.co.mz/secretaria-de-estado-de-estado-dos-negocios-estrangeiros-visita-tanzania/",
+      "link": "https://pt.euronews.com/2026/11/01/irao-ameaca-resposta-sem-limites-geograficos-a-novo-ataque-dos-eua",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "Euronews Português"
       ],
-      "primary_source": "O País",
+      "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Secretária de Estado dos Negócios Estrangeiros e Comunidade Moçambicana no Exterior, Maria de Fátima Simão Manso, efectua, de 31 de Outubro a 02 de Novembro de 2026, uma visita de trabalho à República Unida da Tanzânia. Em Dar-es-Salaam, capital tanzaniana, a Secretária de Estado manterá encontros de trabalho com uma entidade governamental daquele país […]. «Secretária de estado de Estado dos Negócios Estrangeiros visita tanzânia» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Secretária de estado de Estado dos Negócios Estrangeiros visita tanzânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 7.94,
-      "source_tier": "B",
+      "detailed_summary": "O líder supremo iraniano, aiatola Mojtaba Khamenei, advertiu o mundo de que “qualquer nível ou tipo de ameaça deve ser respondido de forma imediata, contundente e sem limitações geográficas”.O aviso surge numa altura em que prosseguem esforços diplomáticos urgentes para evitar uma nova guerra total com o Irão, que teria consequências devastadoras para o Médio Oriente e não só.No sábado, Khamenei reuniu-se com os principais comandantes militares do Irão e apresentou-lhes diretivas para se prepararem para uma eventual nova ação militar dos Estados Unidos e de Israel, segundo a agência oficial IRNA.A reunião seguiu-se a avisos dos Estados Unidos de que as suas forças poderão lançar uma campanha militar curta mas intensa contra o Irão após as eleições intercalares norte-americanas da próxima semana.A ameaça de uma “resposta sem limitações geográficas” significa que o Irão poderá procurar atingir alvos na Europa e também no Sul do Cáucaso em reação a um novo ataque.Segundo os meios de comunicação estatais, Khamenei, que não é visto em público desde que a guerra no Irão começou com… «Irão ameaça resposta sem limites geográficos a novo ataque dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão ameaça resposta sem limites geográficos a novo ataque dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.9,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -220,23 +257,23 @@
       "impact": "No caso de «\"História complexa\". Reino Unido vai ponderar pedir desculpa pelo papel do país no tráfico negreiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "RTP Notícias",
       "published": "2026-10-31T11:52:39+00:00",
-      "age_hours": 22.3,
-      "within_24h": true,
+      "age_hours": 29.1,
+      "within_24h": false,
       "link": "https://www.rtp.pt/noticias/mundo/historia-complexa-reino-unido-vai-ponderar-pedir-desculpa-pelo-papel-do-pais-no-trafico-negreiro_n1775822",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "O primeiro-ministro britânico, Andy Burnham, afirmou que o seu Governo vai ponderar pedir desculpa, pela primeira vez, pelo papel desempenhado no tráfico transatlântico de escravos, numa tentativa de reforçar as relações com nações de África e das Caraíbas. «\"História complexa\". Reino Unido vai ponderar pedir desculpa pelo papel do país no tráfico negreiro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «\"História complexa\". Reino Unido vai ponderar pedir desculpa pelo papel do país no tráfico negreiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 6.35,
+      "editorial_score": 6.34,
       "source_tier": "A",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -258,9 +295,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
-    "África": 3,
-    "Mundo": 1
+    "Moçambique": 5,
+    "África": 1,
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
