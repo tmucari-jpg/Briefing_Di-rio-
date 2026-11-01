@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:58:26.386622+00:00",
+  "updated_at": "2026-11-01T10:10:46.303822+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,37 +8,125 @@
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia",
+        "Segurança"
       ],
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "summary": "Watch: Evacuees from Oleshky reunited with their families There were raw emotional scenes as people evacuated from the devastated Russian-occupied city of Oleshky crossed from Belarus into the Ukrainian region of Chernihiv Families cried as they reunited with relatives they had not seen for years, with two sisters running and crying out as they embraced their father Some elderly residents were so weak they were carried on stretchers.",
-      "why": "«Ukrainian evacuees reunite with family after years trapped in Russia-occupied city» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Ukrainian evacuees reunite with family after years trapped in Russia-occupied city», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-31T17:53:35+00:00",
-      "age_hours": 6.1,
+      "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+      "summary": "After Melania Trump reportedly brokered a localized truce, residents of Ukraine's Oleshky managed to leave the occupied city. Meanwhile, Kyiv claimed a hit on a Russian rocket fuel plant. DW has more Oleshky civilians arrive in Ukrainian territory from Belarus Ukraine claims it hit a Russian plant producing solid fuel for rockets and missiles Kyiv also reports strikes on military depots in occupied Ukrainian territory Ukrainian President Volodymyr Zelenskyy in Istanbul for talks with Turkey's Recep Tayyip Erdogan Here is a roundup of events from Russia's war in Ukraine on Saturday and Sunday, October 31 and November 1: A drone attack caused \"significant damage\" to an industrial facility east of Moscow , a Russian governor said, following Ukrainian reports of a strike on a major oil refinery Nizhny Novgorod Governor Gleb Nikitin reported a \"massive drone attack\" overnight, saying more than 100 drones were destroyed. Preliminary information indicated no casualties, he added Nikitin did not identify the damaged facility.",
+      "why": "«Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-11-01T09:43:00+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-006",
+      "event_id": "evt-mundo-002",
       "cluster_size": 2,
       "source_count": 2,
       "sources": [
-        "BBC World",
-        "DW English"
+        "DW English",
+        "BBC World"
       ],
-      "primary_source": "BBC World",
+      "primary_source": "DW English",
       "status": "today",
       "confirmations": [
         {
-          "source": "DW English",
-          "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
-          "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf"
+          "source": "BBC World",
+          "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Watch: Evacuees from Oleshky reunited with their families There were raw emotional scenes as people evacuated from the devastated Russian-occupied city of Oleshky crossed from Belarus into the Ukrainian region of Chernihiv Families cried as they reunited with relatives they had not seen for years, with two sisters running and crying out as they embraced their father Some elderly residents were so weak they were carried on stretchers. «Ukrainian evacuees reunite with family after years trapped in Russia-occupied city» is worth following because of its possible economic, institutional or regional effects. For «Ukrainian evacuees reunite with family after years trapped in Russia-occupied city», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 11.23,
+      "detailed_summary": "After Melania Trump reportedly brokered a localized truce, residents of Ukraine's Oleshky managed to leave the occupied city. Meanwhile, Kyiv claimed a hit on a Russian rocket fuel plant. DW has more Oleshky civilians arrive in Ukrainian territory from Belarus Ukraine claims it hit a Russian plant producing solid fuel for rockets and missiles Kyiv also reports strikes on military depots in occupied Ukrainian territory Ukrainian President Volodymyr Zelenskyy in Istanbul for talks with Turkey's Recep Tayyip Erdogan Here is a roundup of events from Russia's war in Ukraine on Saturday and Sunday, October 31 and November 1: A drone attack caused \"significant damage\" to an industrial facility east of Moscow , a Russian governor said, following Ukrainian reports of a strike on a major oil refinery Nizhny Novgorod Governor Gleb Nikitin reported a \"massive drone attack\" overnight, saying more than 100 drones were destroyed. Preliminary information indicated no casualties, he added Nikitin did not identify the damaged facility. «Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory» matters because it may change energy and investment decisions affecting Mundo. For «Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 14.4,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Germany news: Merkel calls for first female president",
+      "summary": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, the IG Metall union has begun warning strikes after pay talks collapse. DW has more Former Chancellor Angela Merkel calls for Germany's first female president Several women are being discussed as possible successors to Frank-Walter Steinmeier, but no candidate has yet been agreed upon Berlin's Left Party voted in favor of coalition talks with the Social Democrats and Greens, potentially paving the way for the capital's first Left mayor Here is a roundup of top stories from and about Germany on Saturday, October 31, 2026: Police were patrolling the streets of downtown Frankfurt on Sunday morning, following looting that saw shop windows smashed and what a police spokesperson said was \"considerable\" damage to property The unrest followed demonstrations by young people demanding better schools, relief from rising living costs and greater social justice .",
+      "why": "«Germany news: Merkel calls for first female president» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Germany news: Merkel calls for first female president», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-11-01T08:53:00+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, the IG Metall union has begun warning strikes after pay talks collapse. DW has more Former Chancellor Angela Merkel calls for Germany's first female president Several women are being discussed as possible successors to Frank-Walter Steinmeier, but no candidate has yet been agreed upon Berlin's Left Party voted in favor of coalition talks with the Social Democrats and Greens, potentially paving the way for the capital's first Left mayor Here is a roundup of top stories from and about Germany on Saturday, October 31, 2026: Police were patrolling the streets of downtown Frankfurt on Sunday morning, following looting that saw shop windows smashed and what a police spokesperson said was \"considerable\" damage to property The unrest followed demonstrations by young people demanding better schools, relief from rising living costs and greater social justice . «Germany news: Merkel calls for first female president» deserves attention because it may change political, diplomatic or security risks. For «Germany news: Merkel calls for first female president», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.73,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Iran security chief says US letter signals ‘positive’ shift",
+      "summary": "US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks",
+      "why": "«Iran security chief says US letter signals ‘positive’ shift» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Iran security chief says US letter signals ‘positive’ shift», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-01T08:14:00+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks. «Iran security chief says US letter signals ‘positive’ shift» deserves attention because it may change political, diplomatic or security risks. For «Iran security chief says US letter signals ‘positive’ shift», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.6,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Did a secret book fuel a witch-hunting frenzy in Europe?",
+      "summary": "In the latest episode of Deja Vu, we trace how new media fuelled conspiracy theories, from European witch-hunts to AI",
+      "why": "«Did a secret book fuel a witch-hunting frenzy in Europe?» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Did a secret book fuel a witch-hunting frenzy in Europe?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-01T09:44:24+00:00",
+      "age_hours": 0.4,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/11/1/did-a-secret-book-fuel-a-witch-hunting-frenzy-in-europe?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "In the latest episode of Deja Vu, we trace how new media fuelled conspiracy theories, from European witch-hunts to AI. «Did a secret book fuel a witch-hunting frenzy in Europe?» matters because it may change energy and investment decisions affecting Mundo. For «Did a secret book fuel a witch-hunting frenzy in Europe?», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 10.92,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -54,7 +142,7 @@
       "impact": "For «Mozambique’s exchange rate reform aims for gradual shift towards a market-led exchange rate – minister», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-10-30T13:53:27+00:00",
-      "age_hours": 34.1,
+      "age_hours": 44.3,
       "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambiques-exchange-rate-reform-aims-for-gradual-shift-towards-a-market-led-exchange-rate-minister/",
       "original_source": true,
@@ -68,7 +156,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "“We also have the chapter on exchange rate reform, which aims to move gradually and in a guided manner towards a market-led exchange rate,” Carla Loveira said, presenting measures under way or planned at a meeting with businesspeople in Maputo The position, expressed during a meeting held as part of a Business Breakfast dedicated to fiscal policy, the business environment and private-sector priorities for the country’s economic growth, organised by the Confederation of Economic Associations of Mozambique (CTA), comes amid debate over difficulties in accessing foreign currency and the process by which the central bank sets the exchange rate In practice, due to the lack of access to foreign currency through the banking system, businesspeople end up resorting to buying currency through alternative channels, at rates considerably above the official exchange rate. «Mozambique’s exchange rate reform aims for gradual shift towards a market-led exchange rate – minister» deserves attention because it may change political, diplomatic or security risks. For «Mozambique’s exchange rate reform aims for gradual shift towards a market-led exchange rate – minister», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 11.18,
+      "editorial_score": 10.87,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
     },
@@ -83,7 +171,7 @@
       "impact": "For «Mozambique: Businesspeople call for suspension of grain import centralisation», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-10-30T12:59:46+00:00",
-      "age_hours": 35.0,
+      "age_hours": 45.2,
       "within_24h": false,
       "link": "https://clubofmozambique.com/news/mozambique-businesspeople-call-for-suspension-of-grain-import-centralisation/",
       "original_source": true,
@@ -97,7 +185,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "“It is a thorny issue, with other ‘nuances’ behind it, and someone has to resolve the problem once and for all: the Government,” said the president of the Fiscal Policy, Customs and International Trade Department of the Confederation of Economic Associations of Mozambique (CTA), Kekobad Patel, on the sidelines of a meeting between businesspeople and Finance Minister Carla Loveira in Maputo According to Patel, the decree in force since December 2025, which assigns the management of rice and wheat imports to the ICM, should be suspended “We need to start suspending this immediately. That is the first measure I think should be taken. «Mozambique: Businesspeople call for suspension of grain import centralisation» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Businesspeople call for suspension of grain import centralisation», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.16,
+      "editorial_score": 10.84,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
     },
@@ -106,85 +194,27 @@
       "tags": [
         "Economia"
       ],
-      "title": "Dutch authorities rescue 38 people adrift in rubber boat",
-      "summary": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from",
-      "why": "«Dutch authorities rescue 38 people adrift in rubber boat» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Dutch authorities rescue 38 people adrift in rubber boat», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-31T22:38:03+00:00",
-      "age_hours": 1.3,
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "summary": "Opposition leader Rahul Gandhi is leading Sunday's protest rally Tens of thousands of people have gathered in Delhi for a major opposition rally demanding the resignation of the India's chief election commissioner over a controversial revision of voter lists The rally, organised by the opposition INDIA alliance and led by Rahul Gandhi's Congress party, is taking place at Ramlila Maidan, a sprawling ground in central Delhi known for hosting major political and cultural events Gandhi and several senior opposition leaders arrived at the venue after travelling in a jeep through crowds of supporters The event is the latest show of opposition anger over a voter-list revision exercise that has removed 130 million names from draft electoral rolls in India Among those attending are senior Congress leaders Sonia Gandhi and Mallikarjun Kharge, as well as prominent opposition figures Mamata Banerjee, Akhilesh Yadav, Mehbooba Mufti, Supriya Sule and Tejashwi Yadav The exercise, known as the Special Intensive Revision (SIR), is intended to update electoral rolls by removing the names of people…",
+      "why": "«India's opposition holds mega rally seeking election chief's resignation» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «India's opposition holds mega rally seeking election chief's resignation», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-01T07:00:55+00:00",
+      "age_hours": 3.2,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Al Jazeera English"
+        "BBC World"
       ],
-      "primary_source": "Al Jazeera English",
+      "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from. «Dutch authorities rescue 38 people adrift in rubber boat» is worth following because of its possible economic, institutional or regional effects. For «Dutch authorities rescue 38 people adrift in rubber boat», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.73,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Palestine Action supporters arrested outside US embassy in London",
-      "summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action",
-      "why": "«Palestine Action supporters arrested outside US embassy in London» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Palestine Action supporters arrested outside US embassy in London», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-10-31T22:10:53+00:00",
-      "age_hours": 1.8,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action. «Palestine Action supporters arrested outside US embassy in London» is worth following because of its possible economic, institutional or regional effects. For «Palestine Action supporters arrested outside US embassy in London», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.62,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Serbia after Vucic: The winners are losing patience",
-      "summary": "After the Student List's election victory, Aleksandar Vucic's power apparatus is disintegrating. People want justice as soon as possible. But the losers still hold sway in the judiciary and administration Aleksandar Vucic is accustomed to the spotlight. As Serbia 's all-powerful president, loyal media outlets followed his every move for years. His TikTok outbursts led the evening news. But on October 25 he lost the election to the Student List, and since then, a lot has changed Vucic complained at a press conference, before fewer microphones than usual, that the winners were practising \"revolutionary terror.\" He threatened: \"If they continue to terrorize those who think differently – beatings, destruction and all the rest – and the state authorities do nothing, we will be forced to organize ourselves.\" Vucic regards the immediate resignation of the general director of the Serbian state broadcaster RTS as an example of this \"terror.\" Senior RTS editors have also been dismissed On Monday, a small group of protesters invaded the Informer TV station.",
-      "why": "«Serbia after Vucic: The winners are losing patience» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Serbia after Vucic: The winners are losing patience», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-10-31T19:49:00+00:00",
-      "age_hours": 4.2,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "After the Student List's election victory, Aleksandar Vucic's power apparatus is disintegrating. People want justice as soon as possible. But the losers still hold sway in the judiciary and administration Aleksandar Vucic is accustomed to the spotlight. As Serbia 's all-powerful president, loyal media outlets followed his every move for years. His TikTok outbursts led the evening news. But on October 25 he lost the election to the Student List, and since then, a lot has changed Vucic complained at a press conference, before fewer microphones than usual, that the winners were practising \"revolutionary terror.\" He threatened: \"If they continue to terrorize those who think differently – beatings, destruction and all the rest – and the state authorities do nothing, we will be forced to organize ourselves.\" Vucic regards the immediate resignation of the general director of the Serbian state broadcaster RTS as an example of this \"terror.\" Senior RTS editors have also been dismissed On Monday, a small group of protesters invaded the Informer TV station. «Serbia after Vucic: The winners are losing patience» is worth following because of its possible economic, institutional or regional effects. For «Serbia after Vucic: The winners are losing patience», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.12,
+      "detailed_summary": "Opposition leader Rahul Gandhi is leading Sunday's protest rally Tens of thousands of people have gathered in Delhi for a major opposition rally demanding the resignation of the India's chief election commissioner over a controversial revision of voter lists The rally, organised by the opposition INDIA alliance and led by Rahul Gandhi's Congress party, is taking place at Ramlila Maidan, a sprawling ground in central Delhi known for hosting major political and cultural events Gandhi and several senior opposition leaders arrived at the venue after travelling in a jeep through crowds of supporters The event is the latest show of opposition anger over a voter-list revision exercise that has removed 130 million names from draft electoral rolls in India Among those attending are senior Congress leaders Sonia Gandhi and Mallikarjun Kharge, as well as prominent opposition figures Mamata Banerjee, Akhilesh Yadav, Mehbooba Mufti, Supriya Sule and Tejashwi Yadav The exercise, known as the Special Intensive Revision (SIR), is intended to update electoral rolls by removing the names of people… «India's opposition holds mega rally seeking election chief's resignation» is worth following because of its possible economic, institutional or regional effects. For «India's opposition holds mega rally seeking election chief's resignation», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.33,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -199,11 +229,11 @@
       "impact": "For «More than 5,000 die from Ebola in DR Congo's deadliest outbreak», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-10-31T15:16:20+00:00",
-      "age_hours": 8.7,
+      "age_hours": 18.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -213,38 +243,9 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "There is no vaccine for this strain of the virus, but clinical trials are under way More than 5,000 people have died from an ongoing Ebola outbreak in the Democratic Republic of Congo, government data shows Eight of 26 provinces are now affected, with more than 10,300 confirmed cases The outbreak, which started in May, became the country's deadliest in its history in August, public health officials said. «More than 5,000 die from Ebola in DR Congo's deadliest outbreak» is worth following because of its possible economic, institutional or regional effects. For «More than 5,000 die from Ebola in DR Congo's deadliest outbreak», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 9.19,
+      "editorial_score": 7.06,
       "source_tier": "A",
       "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "INE records over 14,000 registered non-profit entities in Mozambique",
-      "summary": "Maputo, 30 Oct (AIM) – Mozambique’s National Statistics Institute (INE) has recorded 14,462 formally registered non-profit entities, as part of the 3rd Business Census (CEMPRE 2025-2026). According to the census – which was conducted between September 2025 and May 2026, aiming to collect and update information on the structure of the Mozambican business sector, non-profit institutions – the country has 112,784 formally registered companies. The study points out that these non-profit institutions employ 136,269 people and generate approximately 117.4 billion meticais in annual revenue (1.8 billion US dollars at the current exchange rate). 50.7 percent of these institutions are associations, followed by religious organizations at 45.5 percent. The southern provinces Inhambane and of Gaza, and the central province of Manica, account together 67.4 percent of the country’s non-profit institutions. On the other hand, INE recorded the formal existence of 112.784 companies in the country, which corresponds to 80.1 percent.",
-      "why": "«INE records over 14,000 registered non-profit entities in Mozambique» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «INE records over 14,000 registered non-profit entities in Mozambique», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "AIM News",
-      "published": "2026-10-30T11:11:32+00:00",
-      "age_hours": 36.8,
-      "within_24h": false,
-      "link": "https://aimnews.org/2026/10/30/ine-records-over-14000-registered-non-profit-entities-in-mozambique/",
-      "original_source": true,
-      "event_id": "evt-mocambique-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM News"
-      ],
-      "primary_source": "AIM News",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 30 Oct (AIM) – Mozambique’s National Statistics Institute (INE) has recorded 14,462 formally registered non-profit entities, as part of the 3rd Business Census (CEMPRE 2025-2026). According to the census – which was conducted between September 2025 and May 2026, aiming to collect and update information on the structure of the Mozambican business sector, non-profit institutions – the country has 112,784 formally registered companies. The study points out that these non-profit institutions employ 136,269 people and generate approximately 117.4 billion meticais in annual revenue (1.8 billion US dollars at the current exchange rate). 50.7 percent of these institutions are associations, followed by religious organizations at 45.5 percent. The southern provinces Inhambane and of Gaza, and the central province of Manica, account together 67.4 percent of the country’s non-profit institutions. On the other hand, INE recorded the formal existence of 112.784 companies in the country, which corresponds to 80.1 percent. «INE records over 14,000 registered non-profit entities in Mozambique» helps explain a concrete economic or business change relevant to Moçambique. For «INE records over 14,000 registered non-profit entities in Mozambique», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 9.1,
-      "source_tier": "B",
-      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "África",
@@ -257,11 +258,11 @@
       "impact": "For «Ethiopian PM puts ministers through military training», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-10-31T14:28:15+00:00",
-      "age_hours": 9.5,
+      "age_hours": 19.7,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -271,36 +272,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "The training comes as Ethiopia faces continued fighting in parts of the northern Tigray region Ethiopian Prime Minister Abiy Ahmed has put his cabinet ministers and other senior government officials through military training, saying armed forces discipline can help build stronger leaders and advance the country's development Photos shared by him on social media show him taking part in military exercises alongside ministers, deputy ministers and heads of government institutions at the Hurso military training centre The move is unusual in Ethiopia, where senior civilian government officials are rarely seen undergoing military training Those taking part include Speaker of the House of Federation Muferiat Kamil, Finance Minister Fitsum Assefa and Health Minister Mekdes Daba It is unclear when the training began or how long it is expected to last In his post, the prime minister, who is known as Abiy, said Ethiopia's ambition to achieve universal prosperity required its leadership to be physically fit, morally strong and intellectually capable He said military institutions offered… «Ethiopian PM puts ministers through military training» is worth following because of its possible economic, institutional or regional effects. For «Ethiopian PM puts ministers through military training», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 9.02,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "summary": "Ahead of the US midterm elections on 3 November, President Trump continues to make unsubstantiated claims that mail-in voting leads to widespread fraud US states have different voting rules and regulations - but every state allows some postal voting, a method the president says he has used in the past BBC Verify visited an election centre in Maryland to get a behind-the-scenes look at how mail-in ballots are processed and counted Produced by Mabel Pickering. Graphics by Sally Nicholls",
-      "why": "«CCTV and zip ties: How US mail-in votes are secured and counted» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «CCTV and zip ties: How US mail-in votes are secured and counted», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-10-31T09:16:14+00:00",
-      "age_hours": 14.7,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Ahead of the US midterm elections on 3 November, President Trump continues to make unsubstantiated claims that mail-in voting leads to widespread fraud US states have different voting rules and regulations - but every state allows some postal voting, a method the president says he has used in the past BBC Verify visited an election centre in Maryland to get a behind-the-scenes look at how mail-in ballots are processed and counted Produced by Mabel Pickering. Graphics by Sally Nicholls. «CCTV and zip ties: How US mail-in votes are secured and counted» is worth following because of its possible economic, institutional or regional effects. For «CCTV and zip ties: How US mail-in votes are secured and counted», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 7.94,
+      "editorial_score": 6.9,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -324,7 +296,7 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 3,
+    "Moçambique": 2,
     "África": 2,
     "Mundo": 5
   },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:58:21.050494+00:00",
+  "updated_at": "2026-11-01T10:10:40.367378+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,19 +8,20 @@
     {
       "section": "Moçambique",
       "tags": [
+        "Energia",
         "Segurança"
       ],
-      "title": "Medidas fitossanitárias sustentam exportações agrícolas para a África do Sul",
-      "summary": "Maputo, 31 Out (AIM) – O reforço das medidas de controlo fitossanitário nas explorações agrícolas está a contribuir para a manutenção dos mercados externos e para o aumento da capacidade de exportação de produtos moçambicanos, sobretudo para a África do Sul, actualmente o principal destino das exportações das empresas visitadas hoje em Goba, distrito de Namaacha, província de Maputo. “As empresas estão a acatar aquilo que são medidas de biossegurança para a prevenção da entrada de algumas doenças”, afirmou a directora nacional de Sanidade e Biossegurança, Antónia Vaz, durante uma visita realizada hoje (30), a diferentes explorações agrícolas naquela região. A responsável explicou que as unidades visitadas estão a expandir as áreas de produção e a reforçar a capacidade de exportação, tendo a África do Sul como principal mercado de destino dos seus produtos. “Manter o mercado não é fácil, manter o mercado significa obedecer àquilo que são requisitos fitossanitários que são exigidos pelos países importadores”, disse.",
-      "why": "«Medidas fitossanitárias sustentam exportações agrícolas para a África do Sul» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Medidas fitossanitárias sustentam exportações agrícolas para a África do Sul», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "title": "Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás",
+      "summary": "Maputo, 01 de Nov (AIM) – O relatório sobre o Estado da Paz e Segurança em África, apresentado pelo Presidente do Gana e do Conselho do Fórum de Tana, John Dramani Mahama, identifica a exploração do gás natural em Cabo Delgado, no norte de Moçambique, como uma questão associada aos desafios de segurança local, alertando que as comunidades não encaram a riqueza dos recursos naturais como um benefício nacional, mas como mais um factor de marginalização. O documento defende que a gestão dos recursos estratégicos e a inclusão das populações locais são elementos fundamentais para enfrentar os conflitos no continente. “A riqueza de gás de Moçambique está aberta, enquanto as populações locais não vêem essa riqueza como um dividendo nacional, mas como mais um símbolo de marginalização”, disse recentimente, o Presidente do Gana na apresentacao do relatório em Bahir Dar, Etiopia, onde decorreu o Fórum de Tana, onde o Presidente Daniel Chapo foi orador de um painel.",
+      "why": "«Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-10-31T11:22:36+00:00",
-      "age_hours": 12.6,
+      "published": "2026-11-01T06:48:44+00:00",
+      "age_hours": 3.4,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/10/31/medidas-fitossanitarias-sustentam-exportacoes-agricolas-para-a-africa-do-sul/",
+      "link": "https://aimnews.org/2026/11/01/relatorio-africano-associa-riscos-de-seguranca-em-cabo-delgado-a-exploracao-do-gas/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -29,10 +30,97 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 31 Out (AIM) – O reforço das medidas de controlo fitossanitário nas explorações agrícolas está a contribuir para a manutenção dos mercados externos e para o aumento da capacidade de exportação de produtos moçambicanos, sobretudo para a África do Sul, actualmente o principal destino das exportações das empresas visitadas hoje em Goba, distrito de Namaacha, província de Maputo. “As empresas estão a acatar aquilo que são medidas de biossegurança para a prevenção da entrada de algumas doenças”, afirmou a directora nacional de Sanidade e Biossegurança, Antónia Vaz, durante uma visita realizada hoje (30), a diferentes explorações agrícolas naquela região. A responsável explicou que as unidades visitadas estão a expandir as áreas de produção e a reforçar a capacidade de exportação, tendo a África do Sul como principal mercado de destino dos seus produtos. “Manter o mercado não é fácil, manter o mercado significa obedecer àquilo que são requisitos fitossanitários que são exigidos pelos países importadores”, disse. «Medidas fitossanitárias sustentam exportações agrícolas para a África do Sul» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Medidas fitossanitárias sustentam exportações agrícolas para a África do Sul», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 11.38,
+      "detailed_summary": "Maputo, 01 de Nov (AIM) – O relatório sobre o Estado da Paz e Segurança em África, apresentado pelo Presidente do Gana e do Conselho do Fórum de Tana, John Dramani Mahama, identifica a exploração do gás natural em Cabo Delgado, no norte de Moçambique, como uma questão associada aos desafios de segurança local, alertando que as comunidades não encaram a riqueza dos recursos naturais como um benefício nacional, mas como mais um factor de marginalização. O documento defende que a gestão dos recursos estratégicos e a inclusão das populações locais são elementos fundamentais para enfrentar os conflitos no continente. “A riqueza de gás de Moçambique está aberta, enquanto as populações locais não vêem essa riqueza como um dividendo nacional, mas como mais um símbolo de marginalização”, disse recentimente, o Presidente do Gana na apresentacao do relatório em Bahir Dar, Etiopia, onde decorreu o Fórum de Tana, onde o Presidente Daniel Chapo foi orador de um painel. «Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Relatório africano associa riscos de segurança em Cabo Delgado à exploração do gás», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.29,
       "source_tier": "B",
       "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Produtos agrícolas moçambicanos procuram novos mercados na Índia",
+      "summary": "Maputo, 01 de Nov (AIM) – O Instituto de Cereais de Moçambique (ICM) está a promover arroz, milho, feijão bóer, castanha de caju, gergelim e chá de Gurué na Índia, com o objectivo de divulgar o potencial agrícola nacional, estabelecer contactos comerciais e atrair investidores e parceiros internacionais para impulsionar as exportações moçambicanas. A promoção decorreU no âmbito da participação de Moçambique na Conferência Internacional de Arroz (BIRC 2026), cuja componente agro-comercial tem lugar em Nova Deli, na Índia, reunindo representantes institucionais, operadores económicos e potenciais compradores interessados nas oportunidades do sector agrícola. Integrado na comitiva oficial do Secretário de Estado do Comércio, António do Rosário Grispos, o ICM, faz-se representar pelo seu Director-Geral, Luís Job Fazenda, que participou igualmente na sessão de abertura do certame.",
+      "why": "«Produtos agrícolas moçambicanos procuram novos mercados na Índia» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Produtos agrícolas moçambicanos procuram novos mercados na Índia», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "AIM Notícias",
+      "published": "2026-11-01T05:56:58+00:00",
+      "age_hours": 4.2,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/01/produtos-agricolas-mocambicanos-procuram-novos-mercados-na-india/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 01 de Nov (AIM) – O Instituto de Cereais de Moçambique (ICM) está a promover arroz, milho, feijão bóer, castanha de caju, gergelim e chá de Gurué na Índia, com o objectivo de divulgar o potencial agrícola nacional, estabelecer contactos comerciais e atrair investidores e parceiros internacionais para impulsionar as exportações moçambicanas. A promoção decorreU no âmbito da participação de Moçambique na Conferência Internacional de Arroz (BIRC 2026), cuja componente agro-comercial tem lugar em Nova Deli, na Índia, reunindo representantes institucionais, operadores económicos e potenciais compradores interessados nas oportunidades do sector agrícola. Integrado na comitiva oficial do Secretário de Estado do Comércio, António do Rosário Grispos, o ICM, faz-se representar pelo seu Director-Geral, Luís Job Fazenda, que participou igualmente na sessão de abertura do certame. «Produtos agrícolas moçambicanos procuram novos mercados na Índia» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Produtos agrícolas moçambicanos procuram novos mercados na Índia», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.12,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado",
+      "summary": "Os 100 milhões de barris de petróleo e gasóleo das reservas estratégicas que os países do G7 se comprometeram a colocar no mercado ao longo de quatro meses começaram hoje a ser disponibilizados",
+      "why": "«Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-01T09:28:24+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/reservas-de-100-milhoes-de-barris-de-petroleo-prometidas-pelo-g7-comecam-a-chegar-ao-mercado_n1776011",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Os 100 milhões de barris de petróleo e gasóleo das reservas estratégicas que os países do G7 se comprometeram a colocar no mercado ao longo de quatro meses começaram hoje a ser disponibilizados. «Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Reservas de 100 milhões de barris de petróleo prometidas pelo G7 começam a chegar ao mercado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 11.85,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção",
+      "summary": "Os alvos são os mais vulneráveis em meio a previsões de um forte El Niño; país africano quer blindar comunidades e infraestruturas com sistemas de alerta precoce e gestão de riscos; projeto com apoio do Fundo Verde para o Clima quer responder a desastres como as graves inundações de 2021",
+      "why": "«São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "source": "Notícias ONU",
+      "published": "2026-10-30T12:00:00+00:00",
+      "age_hours": 46.2,
+      "within_24h": false,
+      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854797",
+      "original_source": true,
+      "event_id": "evt-áfrica-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "update",
+      "opportunity_flag": false,
+      "detailed_summary": "Os alvos são os mais vulneráveis em meio a previsões de um forte El Niño; país africano quer blindar comunidades e infraestruturas com sistemas de alerta precoce e gestão de riscos; projeto com apoio do Fundo Verde para o Clima quer responder a desastres como as graves inundações de 2021. «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 8.81,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Moçambique",
@@ -45,11 +133,11 @@
       "impact": "No caso de «ACNUR Soma 1,3 Milhão de Deslocados Devido à Violência Armada Desde 2017», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-31T13:00:00+00:00",
-      "age_hours": 11.0,
+      "age_hours": 21.2,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/31/desenvolvimento-2/acnur-soma-13-milhao-de-deslocados-devido-a-violencia-armada-desde-2017/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -59,7 +147,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Dados do Alto Comissariado das Nações Unidas para os Refugiados (ACNUR) indicam que cerca de 1,3 milhão de pessoas foram obrigadas a abandonar as suas zonas de origem em Moçambique […]. «ACNUR Soma 1,3 Milhão de Deslocados Devido à Violência Armada Desde 2017» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «ACNUR Soma 1,3 Milhão de Deslocados Devido à Violência Armada Desde 2017», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.71,
+      "editorial_score": 8.58,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -74,11 +162,11 @@
       "impact": "No caso de «Moçambique e EUA Promovem Primeira Formação Nacional em Inteligência Artificial», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "Diário Económico",
       "published": "2026-10-31T12:00:00+00:00",
-      "age_hours": 12.0,
+      "age_hours": 22.2,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/10/31/trends/ai/mocambique-e-eua-promovem-primeira-formacao-nacional-em-inteligencia-artificial/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -88,36 +176,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Os Governos de Moçambique e dos Estados Unidos da América (EUA) realizaram, na última quinta-feira, 29 de Outubro, em Maputo, a primeira formação em “Google Super Intelligence (SI) e Computação […]. «Moçambique e EUA Promovem Primeira Formação Nacional em Inteligência Artificial» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Moçambique e EUA Promovem Primeira Formação Nacional em Inteligência Artificial», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 10.5,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Zambézia vai receber mais de 20 mil kits agrícolas para enfrentar efeitos do El Niño",
-      "summary": "Maputo, 31 Out (AIM) – A província da Zambézia vai beneficiar de 20.530 kits agrícolas no âmbito do Plano de Mitigação dos Efeitos do El Niño e Reforço da Campanha Agrária 2026/2027, concebido pelo Governo para reforçar a produção alimentar e reduzir os riscos decorrentes da irregularidade da precipitação. “Na província da Zambézia, vamos ter 7.975 kits do tipo um e 12.555 kits do tipo dois, totalizando 20.530 kits”, anunciou, hoje (29), na Zambézia, o director do Instituto Nacional de Irrigação, Delfim Vilissa, durante a apresentação do projecto. Do total previsto, 7.975 kits são do tipo um, compostos por milho, feijão vulgar ou nhemba, batata-doce, estacas de mandioca, fertilizantes e sacos herméticos. Os restantes 12.555 kits, do tipo dois, incluem arroz, feijão vulgar ou nhemba, sementes de abóbora, fertilizantes e sacos herméticos. A intervenção abrange sete distritos da província, nomeadamente Nicoadala, Namacurra, Maganja da Costa, Mopeia, Morrumbala, Milange e Derre, segundo os dados apresentados no âmbito do plano.",
-      "why": "«Zambézia vai receber mais de 20 mil kits agrícolas para enfrentar efeitos do El Niño» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Zambézia vai receber mais de 20 mil kits agrícolas para enfrentar efeitos do El Niño», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-10-31T11:09:51+00:00",
-      "age_hours": 12.8,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/10/31/zambezia-vai-receber-mais-de-20-mil-kits-agricolas-para-enfrentar-efeitos-do-el-nino/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 31 Out (AIM) – A província da Zambézia vai beneficiar de 20.530 kits agrícolas no âmbito do Plano de Mitigação dos Efeitos do El Niño e Reforço da Campanha Agrária 2026/2027, concebido pelo Governo para reforçar a produção alimentar e reduzir os riscos decorrentes da irregularidade da precipitação. “Na província da Zambézia, vamos ter 7.975 kits do tipo um e 12.555 kits do tipo dois, totalizando 20.530 kits”, anunciou, hoje (29), na Zambézia, o director do Instituto Nacional de Irrigação, Delfim Vilissa, durante a apresentação do projecto. Do total previsto, 7.975 kits são do tipo um, compostos por milho, feijão vulgar ou nhemba, batata-doce, estacas de mandioca, fertilizantes e sacos herméticos. Os restantes 12.555 kits, do tipo dois, incluem arroz, feijão vulgar ou nhemba, sementes de abóbora, fertilizantes e sacos herméticos. A intervenção abrange sete distritos da província, nomeadamente Nicoadala, Namacurra, Maganja da Costa, Mopeia, Morrumbala, Milange e Derre, segundo os dados apresentados no âmbito do plano. «Zambézia vai receber mais de 20 mil kits agrícolas para enfrentar efeitos do El Niño» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Zambézia vai receber mais de 20 mil kits agrícolas para enfrentar efeitos do El Niño», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.33,
+      "editorial_score": 8.38,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -132,7 +191,7 @@
       "impact": "No caso de «Secretária de estado de Estado dos Negócios Estrangeiros visita tanzânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "O País",
       "published": "2026-10-31T14:42:52+00:00",
-      "age_hours": 9.3,
+      "age_hours": 19.5,
       "within_24h": true,
       "link": "https://opais.co.mz/secretaria-de-estado-de-estado-dos-negocios-estrangeiros-visita-tanzania/",
       "original_source": true,
@@ -146,38 +205,9 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A Secretária de Estado dos Negócios Estrangeiros e Comunidade Moçambicana no Exterior, Maria de Fátima Simão Manso, efectua, de 31 de Outubro a 02 de Novembro de 2026, uma visita de trabalho à República Unida da Tanzânia. Em Dar-es-Salaam, capital tanzaniana, a Secretária de Estado manterá encontros de trabalho com uma entidade governamental daquele país […]. «Secretária de estado de Estado dos Negócios Estrangeiros visita tanzânia» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Secretária de estado de Estado dos Negócios Estrangeiros visita tanzânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 10.06,
+      "editorial_score": 7.94,
       "source_tier": "B",
       "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção",
-      "summary": "Os alvos são os mais vulneráveis em meio a previsões de um forte El Niño; país africano quer blindar comunidades e infraestruturas com sistemas de alerta precoce e gestão de riscos; projeto com apoio do Fundo Verde para o Clima quer responder a desastres como as graves inundações de 2021",
-      "why": "«São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "Notícias ONU",
-      "published": "2026-10-30T12:00:00+00:00",
-      "age_hours": 36.0,
-      "within_24h": false,
-      "link": "https://news.un.org/feed/view/pt/story/2026/10/1854797",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "Os alvos são os mais vulneráveis em meio a previsões de um forte El Niño; país africano quer blindar comunidades e infraestruturas com sistemas de alerta precoce e gestão de riscos; projeto com apoio do Fundo Verde para o Clima quer responder a desastres como as graves inundações de 2021. «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «São Tomé e Príncipe lança Iniciativa Resilands pela resiliência climática e proteção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 9.12,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "África",
@@ -190,7 +220,7 @@
       "impact": "No caso de «\"História complexa\". Reino Unido vai ponderar pedir desculpa pelo papel do país no tráfico negreiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "RTP Notícias",
       "published": "2026-10-31T11:52:39+00:00",
-      "age_hours": 12.1,
+      "age_hours": 22.3,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/historia-complexa-reino-unido-vai-ponderar-pedir-desculpa-pelo-papel-do-pais-no-trafico-negreiro_n1775822",
       "original_source": true,
@@ -204,7 +234,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O primeiro-ministro britânico, Andy Burnham, afirmou que o seu Governo vai ponderar pedir desculpa, pela primeira vez, pelo papel desempenhado no tráfico transatlântico de escravos, numa tentativa de reforçar as relações com nações de África e das Caraíbas. «\"História complexa\". Reino Unido vai ponderar pedir desculpa pelo papel do país no tráfico negreiro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «\"História complexa\". Reino Unido vai ponderar pedir desculpa pelo papel do país no tráfico negreiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 8.48,
+      "editorial_score": 6.35,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -230,7 +260,7 @@
   "section_counts": {
     "Moçambique": 4,
     "África": 3,
-    "Mundo": 0
+    "Mundo": 1
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
