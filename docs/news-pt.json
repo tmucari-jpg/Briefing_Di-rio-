@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T22:36:57.887382+00:00",
+  "updated_at": "2026-11-02T10:39:15.723167+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,26 +8,26 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País",
-      "summary": "O ministro da Saúde, Ussene Isse, considera que o incêndio que deflagrou este domingo, 1 de Novembro, no Serviço de Oncologia do Hospital Central de Maputo (HCM) representa um grande […]",
-      "why": "«Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-11-01T13:00:00+00:00",
-      "age_hours": 9.6,
+      "title": "GARANTE USSENE ISSE: Não há risco de contaminação devido ao incêndio na Oncologia do HCM",
+      "summary": "O ministro da Saúde, Ussene Isse, assegura que não há nenhum risco de contaminação com Raios Gama usados no tratamento de doentes que sofrem de cancro, na sequência do incêndio ocorrido, ontem, no edifício do Serviço Oncológico do Hospital Central de Maputo (HCM). Ussene Isse garantiu que foi retirada com sucesso a pequena cápsula de Cobalto, que é muito prejudicial para a saúde. “A remoção da cápsula de Cobalto contou com a intervenção de técnicos da Agência Nacional de Energia Atómica. Esta cápsula está devidamente guardada, e não há risco nenhum de contaminação com esses raios”, garantiu o ministro da Saúde falando a imprensa. Leia mais… O conteúdo GARANTE USSENE ISSE: Não há risco de contaminação devido ao incêndio na Oncologia do HCM aparece primeiro em Jornal Notícias",
+      "why": "«GARANTE USSENE ISSE: Não há risco de contaminação devido ao incêndio na Oncologia do HCM» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «GARANTE USSENE ISSE: Não há risco de contaminação devido ao incêndio na Oncologia do HCM», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-02T08:16:28+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/01/desenvolvimento-2/governo-considera-incendio-na-oncologia-do-hcm-um-retrocesso-para-o-pais/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/garante-ussene-isse-nao-ha-risco-de-contaminacao-devido-ao-incendio-na-oncologia-do-hcm/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 2,
       "source_count": 2,
       "sources": [
-        "Diário Económico",
+        "Jornal Notícias",
         "AIM Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "Jornal Notícias",
       "status": "today",
       "confirmations": [
         {
@@ -37,27 +37,56 @@
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "O ministro da Saúde, Ussene Isse, considera que o incêndio que deflagrou este domingo, 1 de Novembro, no Serviço de Oncologia do Hospital Central de Maputo (HCM) representa um grande […]. «Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo Considera Incêndio na Oncologia do HCM um Retrocesso Para o País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.5,
+      "detailed_summary": "O ministro da Saúde, Ussene Isse, assegura que não há nenhum risco de contaminação com Raios Gama usados no tratamento de doentes que sofrem de cancro, na sequência do incêndio ocorrido, ontem, no edifício do Serviço Oncológico do Hospital Central de Maputo (HCM). Ussene Isse garantiu que foi retirada com sucesso a pequena cápsula de Cobalto, que é muito prejudicial para a saúde. “A remoção da cápsula de Cobalto contou com a intervenção de técnicos da Agência Nacional de Energia Atómica. Esta cápsula está devidamente guardada, e não há risco nenhum de contaminação com esses raios”, garantiu o ministro da Saúde falando a imprensa. Leia mais… O conteúdo GARANTE USSENE ISSE: Não há risco de contaminação devido ao incêndio na Oncologia do HCM aparece primeiro em Jornal Notícias. «GARANTE USSENE ISSE: Não há risco de contaminação devido ao incêndio na Oncologia do HCM» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «GARANTE USSENE ISSE: Não há risco de contaminação devido ao incêndio na Oncologia do HCM», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 15.0,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional",
-      "summary": "Moçambique realizou, de 26 a 30 de Outubro, uma missão de cooperação à Tanzânia para conhecer modelos de gestão de reservas alimentares que possam servir de referência para a criação e operacionalização da Reserva Alimentar Nacional. A iniciativa, realizada com o apoio do Programa Mundial para a Alimentação (PMA), visa reforçar a segurança alimentar, garantir […]",
-      "why": "«Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-11-01T14:28:15+00:00",
-      "age_hours": 8.1,
+      "title": "Área 4: ExxonMobil Acorda Reforço no Rovuma LNG Para 50%",
+      "summary": "A ExxonMobil anunciou um acordo para aumentar para 50% a sua participação no projecto de gás natural liquefeito (GNL) Rovuma LNG, em Cabo Delgado, mantendo-se como operadora. O reforço ocorre […]",
+      "why": "«Área 4: ExxonMobil Acorda Reforço no Rovuma LNG Para 50%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Área 4: ExxonMobil Acorda Reforço no Rovuma LNG Para 50%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-11-02T09:10:00+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-procura-na-tanzania-experiencias-para-criacao-da-reserva-alimentar-nacional/",
+      "link": "https://www.diarioeconomico.co.mz/2026/11/02/oilgas/area-4-exxonmobil-acorda-reforco-no-rovuma-lng-para-50/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A ExxonMobil anunciou um acordo para aumentar para 50% a sua participação no projecto de gás natural liquefeito (GNL) Rovuma LNG, em Cabo Delgado, mantendo-se como operadora. O reforço ocorre […]. «Área 4: ExxonMobil Acorda Reforço no Rovuma LNG Para 50%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Área 4: ExxonMobil Acorda Reforço no Rovuma LNG Para 50%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.69,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo, familiares e amigos prestam última homenagem a Deolinda Guezimane",
+      "summary": "O Paços do Conselho Municipal de Maputo acolhe, hoje, o velório público de Deolinda Guezimane, numa cerimónia que deverá reunir familiares, amigos, representantes de organizações e diversas individualidades para prestar as últimas homenagens à veterana da Luta Armada. A cerimónia contará com a presença do Presidente da República, Daniel Chapo, que se junta às manifestações […]",
+      "why": "«Governo, familiares e amigos prestam última homenagem a Deolinda Guezimane» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo, familiares e amigos prestam última homenagem a Deolinda Guezimane», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "O País",
+      "published": "2026-11-02T06:43:51+00:00",
+      "age_hours": 3.9,
+      "within_24h": true,
+      "link": "https://opais.co.mz/governo-familiares-e-amigos-prestam-ultima-homenagem-a-deolinda-guezimane/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -66,9 +95,97 @@
       "primary_source": "O País",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Moçambique realizou, de 26 a 30 de Outubro, uma missão de cooperação à Tanzânia para conhecer modelos de gestão de reservas alimentares que possam servir de referência para a criação e operacionalização da Reserva Alimentar Nacional. A iniciativa, realizada com o apoio do Programa Mundial para a Alimentação (PMA), visa reforçar a segurança alimentar, garantir […]. «Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique procura na Tanzânia experiências para criação da Reserva Alimentar Nacional», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 12.31,
+      "detailed_summary": "O Paços do Conselho Municipal de Maputo acolhe, hoje, o velório público de Deolinda Guezimane, numa cerimónia que deverá reunir familiares, amigos, representantes de organizações e diversas individualidades para prestar as últimas homenagens à veterana da Luta Armada. A cerimónia contará com a presença do Presidente da República, Daniel Chapo, que se junta às manifestações […]. «Governo, familiares e amigos prestam última homenagem a Deolinda Guezimane» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo, familiares e amigos prestam última homenagem a Deolinda Guezimane», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.19,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "FRANCISCO PAGULA E A II CONFERÊNCIA DE TURISMO: Queremos manter o país como destino competitivo",
+      "summary": "PELO segundo ano consecutivo a vila turística de Vilankulo, na província de Inhambane, acolhe a Conferência Internacional de Turismo de olho no potencial turístico e oportunidades de investimento. Com 700 quilómetros de costa, praias de águas cristalinas, flora e fauna marinha, e um interior com beleza paisagística invulgar, associados à gastronomia e hospitalidade do povo, Inhambane apresenta-se como uma pérola por lapidar e um dos melhores destinos turísticos por explorar e investir. A região dispõe ainda de grande potencial de biodiversidade focado nas áreas de conservação, a saber o Parque Nacional do Arquipélago de Bazaruto, Parque Nacional de Zinave, Reserva Nacional de Pomene e Santuário Bravio de Quewene, áreas caracterizadas pela abundância de diferentes espécies faunísticas e animais a exemplo de elefantes, búfalos, girafas, impalas, hipopótamos, macacos, crocodilos, répteis, dugongos, baleias, golfinhos, tubarões, raia manta, aves, recifes de corais, entre outros, tudo por explorar e ser apresentado na II Conferência Internacional de Turismo.",
+      "why": "«FRANCISCO PAGULA E A II CONFERÊNCIA DE TURISMO: Queremos manter o país como destino competitivo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «FRANCISCO PAGULA E A II CONFERÊNCIA DE TURISMO: Queremos manter o país como destino competitivo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-02T07:56:41+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/francisco-pagula-e-a-ii-conferencia-de-turismo-queremos-manter-o-pais-como-destino-competitivo/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "PELO segundo ano consecutivo a vila turística de Vilankulo, na província de Inhambane, acolhe a Conferência Internacional de Turismo de olho no potencial turístico e oportunidades de investimento. Com 700 quilómetros de costa, praias de águas cristalinas, flora e fauna marinha, e um interior com beleza paisagística invulgar, associados à gastronomia e hospitalidade do povo, Inhambane apresenta-se como uma pérola por lapidar e um dos melhores destinos turísticos por explorar e investir. A região dispõe ainda de grande potencial de biodiversidade focado nas áreas de conservação, a saber o Parque Nacional do Arquipélago de Bazaruto, Parque Nacional de Zinave, Reserva Nacional de Pomene e Santuário Bravio de Quewene, áreas caracterizadas pela abundância de diferentes espécies faunísticas e animais a exemplo de elefantes, búfalos, girafas, impalas, hipopótamos, macacos, crocodilos, répteis, dugongos, baleias, golfinhos, tubarões, raia manta, aves, recifes de corais, entre outros, tudo por explorar e ser apresentado na II Conferência Internacional de Turismo. «FRANCISCO PAGULA E A II CONFERÊNCIA DE TURISMO: Queremos manter o país como destino competitivo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «FRANCISCO PAGULA E A II CONFERÊNCIA DE TURISMO: Queremos manter o país como destino competitivo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 11.44,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Tiros, \"tacos\" e táticas fazem manhã de treino para milícia cristã norte-americana",
+      "summary": "Uma manhã de treino para os membros da milícia Patriots for America no Texas significa tiros, \"tacos\" e táticas militares básicas com que se preparam para missões como as patrulhas na fronteira com o México São oito da manhã e já se ouvem tiros de pistola e espingardas de assalto nos vários nichos de uma carreira de tiro ao ar livre perto de Trenton, no nordeste do Texas, a cerca de 90 quilómetros de Dallas Os nove membros dos Patriots for America- sete homens, duas mulheres - chegam bem-dispostos e descarregam o material: espingardas automáticas, pistolas, `shotguns`, caixas de munições e coletes à prova de bala para todos, onde ressaltam as iniciais da milícia PFA Criada em 2015, a organização é liderada por Samuel Hall, \"nascido no Texas\", que define o grupo como uma missão religiosa Ganharam visibilidade em 2021, quando o sul do Estado viveu uma crise migratória na fronteira com o México e decidiram fazer patrulhas onde a guarda de fronteira e a Guarda Nacional norte-americana não chegavam Acusados de \"supremacia branca\" e de quererem suplantar-se às autoridades legítimas por…",
+      "why": "«Tiros, \"tacos\" e táticas fazem manhã de treino para milícia cristã norte-americana» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Tiros, \"tacos\" e táticas fazem manhã de treino para milícia cristã norte-americana», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-02T08:08:54+00:00",
+      "age_hours": 2.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/tiros-tacos-e-taticas-fazem-manha-de-treino-para-milicia-crista-norte-americana_n1776248",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Uma manhã de treino para os membros da milícia Patriots for America no Texas significa tiros, \"tacos\" e táticas militares básicas com que se preparam para missões como as patrulhas na fronteira com o México São oito da manhã e já se ouvem tiros de pistola e espingardas de assalto nos vários nichos de uma carreira de tiro ao ar livre perto de Trenton, no nordeste do Texas, a cerca de 90 quilómetros de Dallas Os nove membros dos Patriots for America- sete homens, duas mulheres - chegam bem-dispostos e descarregam o material: espingardas automáticas, pistolas, `shotguns`, caixas de munições e coletes à prova de bala para todos, onde ressaltam as iniciais da milícia PFA Criada em 2015, a organização é liderada por Samuel Hall, \"nascido no Texas\", que define o grupo como uma missão religiosa Ganharam visibilidade em 2021, quando o sul do Estado viveu uma crise migratória na fronteira com o México e decidiram fazer patrulhas onde a guarda de fronteira e a Guarda Nacional norte-americana não chegavam Acusados de \"supremacia branca\" e de quererem suplantar-se às autoridades legítimas por… «Tiros, \"tacos\" e táticas fazem manhã de treino para milícia cristã norte-americana» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Tiros, \"tacos\" e táticas fazem manhã de treino para milícia cristã norte-americana», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.48,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Dois petroleiros colidem com minas em Ormuz, quando decorrem negociações de paz",
+      "summary": "O Corpo de Guardas da Revolução Islâmica iraniano anunciou que mais dois petroleiros colidiram com minas navais no Estreito de Ormuz, enquanto o Irão os Estados Unidos mantêm negociações indiretas através do Qatar para pôr fim ao conflito \"Dois petroleiros infratores explodiram após colidirem com minas navais numa rota não autorizada do Estreito de Ormuz\", informou no final do domingo o IRGC (na sigla em inglês), segundo a agência Tasnim, associada a este corpo militar de elite A força militar indicou que uma dessas embarcações era um superpetroleiro que \"sofreu uma forte explosão e encontra-se em chamas\" O IRGC não especificou as bandeiras dos navios, nem informou sobre eventuais vítimas ou a magnitude dos danos \"Estes petroleiros tinham desligado os sistemas de navegação e identificação e pretendiam atravessar clandestinamente o Estreito de Ormuz por uma rota não autorizada, com o apoio do Exército terrorista norte-americano, mas, após este incidente, ficaram imobilizados no local\", relatou a força militar Nas últimas três semanas, o Irão registou cerca de 30 incidentes envolvendo…",
+      "why": "«Dois petroleiros colidem com minas em Ormuz, quando decorrem negociações de paz» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Dois petroleiros colidem com minas em Ormuz, quando decorrem negociações de paz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-02T07:56:54+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/dois-petroleiros-colidem-com-minas-em-ormuz-quando-decorrem-negociacoes-de-paz_n1776245",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Corpo de Guardas da Revolução Islâmica iraniano anunciou que mais dois petroleiros colidiram com minas navais no Estreito de Ormuz, enquanto o Irão os Estados Unidos mantêm negociações indiretas através do Qatar para pôr fim ao conflito \"Dois petroleiros infratores explodiram após colidirem com minas navais numa rota não autorizada do Estreito de Ormuz\", informou no final do domingo o IRGC (na sigla em inglês), segundo a agência Tasnim, associada a este corpo militar de elite A força militar indicou que uma dessas embarcações era um superpetroleiro que \"sofreu uma forte explosão e encontra-se em chamas\" O IRGC não especificou as bandeiras dos navios, nem informou sobre eventuais vítimas ou a magnitude dos danos \"Estes petroleiros tinham desligado os sistemas de navegação e identificação e pretendiam atravessar clandestinamente o Estreito de Ormuz por uma rota não autorizada, com o apoio do Exército terrorista norte-americano, mas, após este incidente, ficaram imobilizados no local\", relatou a força militar Nas últimas três semanas, o Irão registou cerca de 30 incidentes envolvendo… «Dois petroleiros colidem com minas em Ormuz, quando decorrem negociações de paz» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Dois petroleiros colidem com minas em Ormuz, quando decorrem negociações de paz», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.44,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -82,11 +199,11 @@
       "impact": "No caso de «Bombeiros impediram propagação de incêndio ao serviço de radioterapia do HCM», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-11-01T12:58:53+00:00",
-      "age_hours": 9.6,
+      "age_hours": 21.7,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/01/bombeiros-impediram-propagacao-de-incendio-ao-servico-de-radioterapia-do-hcm/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -96,36 +213,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 01 Nov (AIM) – A pronta intervenção dos bombeiros impediu que o incêndio que hoje deflagrou no Serviço de Oncologia do Hospital Central de Maputo (HCM) se propagasse à área térrea do edifício, onde funciona o serviço de radioterapia, segundo a porta-voz do Serviço Nacional de Salvação Pública (SENSAP), Vanessa Chiau. “A pronta intervenção dos bombeiros permitiu que o incêndio não se alastrasse para outros compartimentos do edifício, concretamente na parte térrea, que compreende a área da radioterapia”, afirmou Chiau, assegurando que aquele serviço não foi atingido pelas chamas. A responsável explicou que o fogo teve início no interior do edifício da Oncologia, tendo posteriormente alastrado para o exterior, atingindo proporções consideradas alarmantes. “Chegando ao local, verificámos que o incêndio tinha tomado proporções alarmantes. Um dado que podemos avançar é que o incêndio iniciou no interior do edifício da Oncologia e propagou-se para o exterior”, declarou. «Bombeiros impediram propagação de incêndio ao serviço de radioterapia do HCM» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Bombeiros impediram propagação de incêndio ao serviço de radioterapia do HCM», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.0,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "PR saúda jovens moçambicanos pelo Dia da Juventude Africana",
-      "summary": "O Presidente da República, Daniel Chapo, reafirma o compromisso de Moçambique com os princípios e objectivos da Carta Africana da Juventude, os quais o país é signatário desde 2008 destacando a necessidade de ampliar as oportunidades de educação, formação, emprego, participação cívica e inclusão social. Este compromisso consta da mensagem do Chefe do Estado, na qual, saúda os jovens moçambicanos e africanos por ocasião do Dia da Juventude Africana, que se assinala, hoje, 1 de Novembro, sob o lema “Reflectir, Reimaginar e Reposicionar a Carta Africana da Juventude”. Na missiva, o estadista reconhece a juventude como força activa do presente, com capacidade para inovar, empreender, produzir conhecimento, criar soluções e impulsionar as transformações necessárias para o continente. Sob o lema da celebração, Chapo exorta os jovens a aprofundarem o conhecimento dos seus direitos e deveres e a assumirem uma participação cada vez mais consciente, responsável e activa na construção das sociedades africanas.",
-      "why": "«PR saúda jovens moçambicanos pelo Dia da Juventude Africana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «PR saúda jovens moçambicanos pelo Dia da Juventude Africana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-01T12:36:36+00:00",
-      "age_hours": 10.0,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/pr-sauda-jovens-mocambicanos-pelo-dia-da-juventude-africana/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, reafirma o compromisso de Moçambique com os princípios e objectivos da Carta Africana da Juventude, os quais o país é signatário desde 2008 destacando a necessidade de ampliar as oportunidades de educação, formação, emprego, participação cívica e inclusão social. Este compromisso consta da mensagem do Chefe do Estado, na qual, saúda os jovens moçambicanos e africanos por ocasião do Dia da Juventude Africana, que se assinala, hoje, 1 de Novembro, sob o lema “Reflectir, Reimaginar e Reposicionar a Carta Africana da Juventude”. Na missiva, o estadista reconhece a juventude como força activa do presente, com capacidade para inovar, empreender, produzir conhecimento, criar soluções e impulsionar as transformações necessárias para o continente. Sob o lema da celebração, Chapo exorta os jovens a aprofundarem o conhecimento dos seus direitos e deveres e a assumirem uma participação cada vez mais consciente, responsável e activa na construção das sociedades africanas. «PR saúda jovens moçambicanos pelo Dia da Juventude Africana» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «PR saúda jovens moçambicanos pelo Dia da Juventude Africana», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.92,
+      "editorial_score": 9.48,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -134,115 +222,40 @@
       "tags": [
         "Economia"
       ],
-      "title": "Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem",
-      "summary": "O Presidente dos Estados Unidos, Donald Trump, disse hoje que poderia tornar-se o \"Senhor Veto\" se os democratas, à frente nas sondagens, conquistarem a maioria no Congresso nas eleições intercalares na terça-feira",
-      "why": "«Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-01T17:00:48+00:00",
-      "age_hours": 5.6,
+      "title": "Desencanto latino ameaça Trump nas eleições intercalares nos EUA",
+      "summary": "Em 2016, Donald Trump chegou à Casa Branca apesar de ter perdido de forma ampla o voto latino para Hillary Clinton. Oito anos depois, o avanço entre estes eleitores foi uma das chaves do seu regresso ao poder.Agora, a poucos dias das eleições intercalares de 3 de novembro, esse mesmo eleitorado pode transformar-se num sério problema para o presidente dos Estados Unidos.O desencanto com a sua atuação, o mal-estar económico e as críticas à sua política migratória estão a alterar o panorama entre os eleitores latinos. Segundo um novo estudo do Pew Research Center, 55% considera que o seu voto nas eleições legislativas será uma forma de exprimir a oposição a Trump, enquanto apenas 14% o interpreta como um apoio ao presidente.O inquérito revela também que os candidatos democratas estão à frente dos republicanos em 27 pontos percentuais entre os latinos registados: 51% afirma que votaria num candidato democrata à Câmara dos Representantes, contra 24% que escolheria um republicano.O voto latino poderá contribuir para que os republicanos percam o controlo do Congresso?",
+      "why": "«Desencanto latino ameaça Trump nas eleições intercalares nos EUA» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Desencanto latino ameaça Trump nas eleições intercalares nos EUA», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-02T10:25:47+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-nos-eua-trump-amaeaca-ser-sr-veto-se-democratas-vencerem_n1776107",
+      "link": "https://pt.euronews.com/2026/11/02/desencanto-latino-ameaca-trump-nas-eleicoes-intercalares-nos-eua",
       "original_source": true,
       "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
+      "cluster_size": 3,
+      "source_count": 2,
       "sources": [
+        "Euronews Português",
         "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente dos Estados Unidos, Donald Trump, disse hoje que poderia tornar-se o \"Senhor Veto\" se os democratas, à frente nas sondagens, conquistarem a maioria no Congresso nas eleições intercalares na terça-feira. «Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 9.83,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito",
-      "summary": "GenMais de 300 mil pessoas foram deslocadas no Iémen devido à intensificação dos confrontos no oeste do país - com a grande maioria destas deslocações a ocorrer nos últimos dois meses ---, anunciou hoje a ONU",
-      "why": "«Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-01T16:15:34+00:00",
-      "age_hours": 6.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/mais-de-300-mil-pessoas-deslocadas-no-iemen-devido-ao-conflito_n1776097",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "GenMais de 300 mil pessoas foram deslocadas no Iémen devido à intensificação dos confrontos no oeste do país - com a grande maioria destas deslocações a ocorrer nos últimos dois meses ---, anunciou hoje a ONU. «Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Mais de 300 mil pessoas deslocadas no Iémen devido ao conflito», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 9.67,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "Painéis solares levam energia a Mepuera até Março",
-      "summary": "Uma mini rede de energia eléctrica vai entrar em funcionamento até Março do próximo ano, através de um sistema fotovoltaico de painéis solares aprovado para acelerar o desenvolvimento e abertura de pequenos negócios na localidade de Mepuera, distrito de Metarica, província do Niassa. O anúncio foi feito por Silva Livone, secretário de Estado na província do Niassa, num encontro que manteve, este fim de semana, com a população de Mepuera, no âmbito da visita de trabalho que efectua ao distrito. “O Governo tem um programa chamado ‘‘Energia Para Todos’’, que prevê alargar o acesso à energia para todos até 2030, mas vocês aqui em Mepuera, não precisam de esperar até 2030, porque já temos o projecto aprovado: até ao próximo ano, em Março, vão ter energia eléctrica”, assegurou. Na ocasião, o dirigente apelou à construção de infra-estruturas económicas com destaque para indústrias moageiras, mercearias e barbearias, entre outras que contribuam para o desenvolvimento local e para o alcance da independência económica.",
-      "why": "«Painéis solares levam energia a Mepuera até Março» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Painéis solares levam energia a Mepuera até Março», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-01T13:33:23+00:00",
-      "age_hours": 9.1,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/paineis-solares-levam-energia-a-mepuera-ate-marco/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Uma mini rede de energia eléctrica vai entrar em funcionamento até Março do próximo ano, através de um sistema fotovoltaico de painéis solares aprovado para acelerar o desenvolvimento e abertura de pequenos negócios na localidade de Mepuera, distrito de Metarica, província do Niassa. O anúncio foi feito por Silva Livone, secretário de Estado na província do Niassa, num encontro que manteve, este fim de semana, com a população de Mepuera, no âmbito da visita de trabalho que efectua ao distrito. “O Governo tem um programa chamado ‘‘Energia Para Todos’’, que prevê alargar o acesso à energia para todos até 2030, mas vocês aqui em Mepuera, não precisam de esperar até 2030, porque já temos o projecto aprovado: até ao próximo ano, em Março, vão ter energia eléctrica”, assegurou. Na ocasião, o dirigente apelou à construção de infra-estruturas económicas com destaque para indústrias moageiras, mercearias e barbearias, entre outras que contribuam para o desenvolvimento local e para o alcance da independência económica. «Painéis solares levam energia a Mepuera até Março» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Painéis solares levam energia a Mepuera até Março», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 9.1,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Irão ameaça resposta sem limites geográficos a novo ataque dos EUA",
-      "summary": "O líder supremo iraniano, aiatola Mojtaba Khamenei, advertiu o mundo de que “qualquer nível ou tipo de ameaça deve ser respondido de forma imediata, contundente e sem limitações geográficas”.O aviso surge numa altura em que prosseguem esforços diplomáticos urgentes para evitar uma nova guerra total com o Irão, que teria consequências devastadoras para o Médio Oriente e não só.No sábado, Khamenei reuniu-se com os principais comandantes militares do Irão e apresentou-lhes diretivas para se prepararem para uma eventual nova ação militar dos Estados Unidos e de Israel, segundo a agência oficial IRNA.A reunião seguiu-se a avisos dos Estados Unidos de que as suas forças poderão lançar uma campanha militar curta mas intensa contra o Irão após as eleições intercalares norte-americanas da próxima semana.A ameaça de uma “resposta sem limitações geográficas” significa que o Irão poderá procurar atingir alvos na Europa e também no Sul do Cáucaso em reação a um novo ataque.Segundo os meios de comunicação estatais, Khamenei, que não é visto em público desde que a guerra no Irão começou com…",
-      "why": "«Irão ameaça resposta sem limites geográficos a novo ataque dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Irão ameaça resposta sem limites geográficos a novo ataque dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-01T16:31:06+00:00",
-      "age_hours": 6.1,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/01/irao-ameaca-resposta-sem-limites-geograficos-a-novo-ataque-dos-eua",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
       ],
       "primary_source": "Euronews Português",
       "status": "today",
+      "confirmations": [
+        {
+          "source": "Euronews Português",
+          "title": "Eleições nos EUA: Trump faz comícios no Iowa e no Kansas enquanto divisões entre democratas agitam o Michigan",
+          "link": "https://pt.euronews.com/2026/11/02/eleicoes-nos-eua-trump-faz-comicios-no-iowa-e-no-kansas-enquanto-divisoes-entre-democratas"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Eleições nos EUA. Trump amaeaça ser \"Sr. Veto\" se democratas vencerem",
+          "link": "https://www.rtp.pt/noticias/mundo/eleicoes-nos-eua-trump-amaeaca-ser-sr-veto-se-democratas-vencerem_n1776107"
+        }
+      ],
       "opportunity_flag": false,
-      "detailed_summary": "O líder supremo iraniano, aiatola Mojtaba Khamenei, advertiu o mundo de que “qualquer nível ou tipo de ameaça deve ser respondido de forma imediata, contundente e sem limitações geográficas”.O aviso surge numa altura em que prosseguem esforços diplomáticos urgentes para evitar uma nova guerra total com o Irão, que teria consequências devastadoras para o Médio Oriente e não só.No sábado, Khamenei reuniu-se com os principais comandantes militares do Irão e apresentou-lhes diretivas para se prepararem para uma eventual nova ação militar dos Estados Unidos e de Israel, segundo a agência oficial IRNA.A reunião seguiu-se a avisos dos Estados Unidos de que as suas forças poderão lançar uma campanha militar curta mas intensa contra o Irão após as eleições intercalares norte-americanas da próxima semana.A ameaça de uma “resposta sem limitações geográficas” significa que o Irão poderá procurar atingir alvos na Europa e também no Sul do Cáucaso em reação a um novo ataque.Segundo os meios de comunicação estatais, Khamenei, que não é visto em público desde que a guerra no Irão começou com… «Irão ameaça resposta sem limites geográficos a novo ataque dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão ameaça resposta sem limites geográficos a novo ataque dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.73,
+      "detailed_summary": "Em 2016, Donald Trump chegou à Casa Branca apesar de ter perdido de forma ampla o voto latino para Hillary Clinton. Oito anos depois, o avanço entre estes eleitores foi uma das chaves do seu regresso ao poder.Agora, a poucos dias das eleições intercalares de 3 de novembro, esse mesmo eleitorado pode transformar-se num sério problema para o presidente dos Estados Unidos.O desencanto com a sua atuação, o mal-estar económico e as críticas à sua política migratória estão a alterar o panorama entre os eleitores latinos. Segundo um novo estudo do Pew Research Center, 55% considera que o seu voto nas eleições legislativas será uma forma de exprimir a oposição a Trump, enquanto apenas 14% o interpreta como um apoio ao presidente.O inquérito revela também que os candidatos democratas estão à frente dos republicanos em 27 pontos percentuais entre os latinos registados: 51% afirma que votaria num candidato democrata à Câmara dos Representantes, contra 24% que escolheria um republicano.O voto latino poderá contribuir para que os republicanos percam o controlo do Congresso? «Desencanto latino ameaça Trump nas eleições intercalares nos EUA» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Desencanto latino ameaça Trump nas eleições intercalares nos EUA», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.46,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -257,7 +270,7 @@
       "impact": "No caso de «\"História complexa\". Reino Unido vai ponderar pedir desculpa pelo papel do país no tráfico negreiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "RTP Notícias",
       "published": "2026-10-31T11:52:39+00:00",
-      "age_hours": 34.7,
+      "age_hours": 46.8,
       "within_24h": false,
       "link": "https://www.rtp.pt/noticias/mundo/historia-complexa-reino-unido-vai-ponderar-pedir-desculpa-pelo-papel-do-pais-no-trafico-negreiro_n1775822",
       "original_source": true,
@@ -271,9 +284,38 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "O primeiro-ministro britânico, Andy Burnham, afirmou que o seu Governo vai ponderar pedir desculpa, pela primeira vez, pelo papel desempenhado no tráfico transatlântico de escravos, numa tentativa de reforçar as relações com nações de África e das Caraíbas. «\"História complexa\". Reino Unido vai ponderar pedir desculpa pelo papel do país no tráfico negreiro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «\"História complexa\". Reino Unido vai ponderar pedir desculpa pelo papel do país no tráfico negreiro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 6.17,
+      "editorial_score": 5.79,
       "source_tier": "A",
       "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Irão ameaça resposta sem limites geográficos a novo ataque dos EUA",
+      "summary": "O líder supremo iraniano, aiatola Mojtaba Khamenei, advertiu o mundo de que “qualquer nível ou tipo de ameaça deve ser respondido de forma imediata, contundente e sem limitações geográficas”.O aviso surge numa altura em que prosseguem esforços diplomáticos urgentes para evitar uma nova guerra total com o Irão, que teria consequências devastadoras para o Médio Oriente e não só.No sábado, Khamenei reuniu-se com os principais comandantes militares do Irão e apresentou-lhes diretivas para se prepararem para uma eventual nova ação militar dos Estados Unidos e de Israel, segundo a agência oficial IRNA.A reunião seguiu-se a avisos dos Estados Unidos de que as suas forças poderão lançar uma campanha militar curta mas intensa contra o Irão após as eleições intercalares norte-americanas da próxima semana.A ameaça de uma “resposta sem limitações geográficas” significa que o Irão poderá procurar atingir alvos na Europa e também no Sul do Cáucaso em reação a um novo ataque.Segundo os meios de comunicação estatais, Khamenei, que não é visto em público desde que a guerra no Irão começou com…",
+      "why": "«Irão ameaça resposta sem limites geográficos a novo ataque dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Irão ameaça resposta sem limites geográficos a novo ataque dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-01T16:31:06+00:00",
+      "age_hours": 18.1,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/11/01/irao-ameaca-resposta-sem-limites-geograficos-a-novo-ataque-dos-eua",
+      "original_source": true,
+      "event_id": "evt-mundo-007",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O líder supremo iraniano, aiatola Mojtaba Khamenei, advertiu o mundo de que “qualquer nível ou tipo de ameaça deve ser respondido de forma imediata, contundente e sem limitações geográficas”.O aviso surge numa altura em que prosseguem esforços diplomáticos urgentes para evitar uma nova guerra total com o Irão, que teria consequências devastadoras para o Médio Oriente e não só.No sábado, Khamenei reuniu-se com os principais comandantes militares do Irão e apresentou-lhes diretivas para se prepararem para uma eventual nova ação militar dos Estados Unidos e de Israel, segundo a agência oficial IRNA.A reunião seguiu-se a avisos dos Estados Unidos de que as suas forças poderão lançar uma campanha militar curta mas intensa contra o Irão após as eleições intercalares norte-americanas da próxima semana.A ameaça de uma “resposta sem limitações geográficas” significa que o Irão poderá procurar atingir alvos na Europa e também no Sul do Cáucaso em reação a um novo ataque.Segundo os meios de comunicação estatais, Khamenei, que não é visto em público desde que a guerra no Irão começou com… «Irão ameaça resposta sem limites geográficos a novo ataque dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão ameaça resposta sem limites geográficos a novo ataque dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 5.23,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
     }
   ],
   "watch": [
@@ -297,7 +339,7 @@
   "section_counts": {
     "Moçambique": 5,
     "África": 1,
-    "Mundo": 3
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
