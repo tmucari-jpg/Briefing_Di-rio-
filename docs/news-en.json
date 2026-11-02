@@ -1,64 +1,86 @@
 {
-  "updated_at": "2026-11-02T10:39:23.266383+00:00",
+  "updated_at": "2026-11-02T20:39:23.791146+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
-      "section": "Moçambique",
+      "section": "África",
       "tags": [
-        "Economia"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Sustainability of Public finances and vitality of private sector crucial for development",
-      "summary": "Maputo, 02 Nov (AIM) – Mozambican Finance Minister Carla Louveira believes that sustainability of public finances and the vitality of the private sector are complementary and interdependent dimensions of the country’s development. “Mozambique recorded growth of 1.7 percent in the second quarter of 2026, accompanied by a reduction in inflation to around six percent between August and September. These indicators reflect signs of a gradual recovery in economic activity, despite the challenges that continue to constrain the resumption of productive capacity”, the minister said. Speaking at the sixth edition of the Business Breakfast, which was organised by the country’s Confederation of Business Associations (CTA), which brought together government representatives, businesspeople and financial institutions to discuss the challenges of economic policy and its role in stimulating economic activity, Louveira said that strengthened partnership between government and CTA is crucial.",
-      "why": "«Sustainability of Public finances and vitality of private sector crucial for development» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Sustainability of Public finances and vitality of private sector crucial for development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "AIM News",
-      "published": "2026-11-02T09:34:29+00:00",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027 The African Growth and Opportunity Act (Agoa) allows eligible African countries to export thousands of products to the US duty-free US Trade Representative Jamieson Greer said in a statement that an annual review had found that both countries were engaging in practices inconsistent with the programme's eligibility requirements He added that the Trump administration had additionally notified the two countries of the decision The Trump administration cited barriers to US trade and investment, as well as concerns over national security and foreign policy interests in the region In Rwanda's case, Washington also raised concerns about human rights, political pluralism, the rule of law and workers' rights The move comes barely a week after Rwanda's defence ministry was hit with sanctions by US Treasury for its alleged…",
+      "why": "«Trump to remove Rwanda and South Africa from US trade deal» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-11-02T19:33:10+00:00",
       "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/02/sustainability-of-public-finances-and-vitality-of-private-sector-crucial-for-development/",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 2,
-      "source_count": 2,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "AIM News",
-        "Club of Mozambique"
+        "BBC Africa"
       ],
-      "primary_source": "AIM News",
+      "primary_source": "BBC Africa",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Club of Mozambique",
-          "title": "Mozambique: Government strengthens dialogue with private sector to boost investment and economic growth",
-          "link": "https://clubofmozambique.com/news/mozambique-government-strengthens-dialogue-with-private-sector-to-boost-investment-and-economic-growth/"
-        }
-      ],
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 02 Nov (AIM) – Mozambican Finance Minister Carla Louveira believes that sustainability of public finances and the vitality of the private sector are complementary and interdependent dimensions of the country’s development. “Mozambique recorded growth of 1.7 percent in the second quarter of 2026, accompanied by a reduction in inflation to around six percent between August and September. These indicators reflect signs of a gradual recovery in economic activity, despite the challenges that continue to constrain the resumption of productive capacity”, the minister said. Speaking at the sixth edition of the Business Breakfast, which was organised by the country’s Confederation of Business Associations (CTA), which brought together government representatives, businesspeople and financial institutions to discuss the challenges of economic policy and its role in stimulating economic activity, Louveira said that strengthened partnership between government and CTA is crucial. «Sustainability of Public finances and vitality of private sector crucial for development» helps explain a concrete economic or business change relevant to Moçambique. For «Sustainability of Public finances and vitality of private sector crucial for development», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 16.27,
-      "source_tier": "B",
+      "detailed_summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027 The African Growth and Opportunity Act (Agoa) allows eligible African countries to export thousands of products to the US duty-free US Trade Representative Jamieson Greer said in a statement that an annual review had found that both countries were engaging in practices inconsistent with the programme's eligibility requirements He added that the Trump administration had additionally notified the two countries of the decision The Trump administration cited barriers to US trade and investment, as well as concerns over national security and foreign policy interests in the region In Rwanda's case, Washington also raised concerns about human rights, political pluralism, the rule of law and workers' rights The move comes barely a week after Rwanda's defence ministry was hit with sanctions by US Treasury for its alleged… «Trump to remove Rwanda and South Africa from US trade deal» deserves attention because it may change political, diplomatic or security risks. For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 15.77,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Will renewed conflict derail Ethiopia's economic growth?",
+      "summary": "Ethiopia's economy is growing strongly. But renewed fighting in the north of the BRICS member state could deter investment, strain public finances and push up the cost of living Ethiopia 's economy is growing strongly. The International Monetary Fund (IMF) forecasts real growth of 9.2% for the 2025–26 fiscal year. But renewed fighting in the north , high reconstruction costs and climate-related crop problems are threatening the country's economic recovery London-based financial analyst Abdulmenan Mohammed warns of the consequences of further escalation . \"If there is a major conflict [...] the current economic growth will not be sustainable,\" he told DW The war that raged in Tigray and other parts of Ethiopia between 2020 and 2022 inflicted extensive damage. Infrastructure was destroyed, businesses lost production capacity and agricultural land could no longer be cultivated in some areas A World Bank-backed damage and needs assessment puts the damage caused by several conflicts in Ethiopia between November 2020 and December 2021 at more than $22.6 billion (€20.2 billion).",
+      "why": "«Will renewed conflict derail Ethiopia's economic growth?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Will renewed conflict derail Ethiopia's economic growth?», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "DW English",
+      "published": "2026-11-02T11:19:00+00:00",
+      "age_hours": 9.3,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/will-renewed-conflict-derail-ethiopia-s-economic-growth/a-79807060?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-áfrica-006",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Ethiopia's economy is growing strongly. But renewed fighting in the north of the BRICS member state could deter investment, strain public finances and push up the cost of living Ethiopia 's economy is growing strongly. The International Monetary Fund (IMF) forecasts real growth of 9.2% for the 2025–26 fiscal year. But renewed fighting in the north , high reconstruction costs and climate-related crop problems are threatening the country's economic recovery London-based financial analyst Abdulmenan Mohammed warns of the consequences of further escalation . \"If there is a major conflict [...] the current economic growth will not be sustainable,\" he told DW The war that raged in Tigray and other parts of Ethiopia between 2020 and 2022 inflicted extensive damage. Infrastructure was destroyed, businesses lost production capacity and agricultural land could no longer be cultivated in some areas A World Bank-backed damage and needs assessment puts the damage caused by several conflicts in Ethiopia between November 2020 and December 2021 at more than $22.6 billion (€20.2 billion). «Will renewed conflict derail Ethiopia's economic growth?» deserves attention because it may change political, diplomatic or security risks. For «Will renewed conflict derail Ethiopia's economic growth?», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 14.06,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
         "Economia"
       ],
-      "title": "ExxonMobil doubles stake in Mozambique’s Rovuma LNG project to 50% through Eni asset swap",
-      "summary": "ExxonMobil has increased its stake in Mozambique’s planned Rovuma liquefied natural gas (LNG) project to 50% from 25%, following an asset swap with Eni. Under the deal, Eni gave up its share of the project in exchange for other properties in the region ExxonMobil continues to lead the development as operator. The deepwater project sits in the Rovuma Basin off Cabo Delgado province and is designed to produce 18.6 million tonnes of LNG per year. Total development costs are estimated at US$30 billion. The partners have recently committed US$1.1 billion to long lead subsea and equipment contracts, which keeps the schedule on track for a final investment decision (FID) by the end of 2026 and first commercial operations in 2031 The Area 4 consortium also includes China National Petroleum Corp. (CNPC), Korea Gas Corp.",
-      "why": "«ExxonMobil doubles stake in Mozambique’s Rovuma LNG project to 50% through Eni asset swap» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «ExxonMobil doubles stake in Mozambique’s Rovuma LNG project to 50% through Eni asset swap», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "title": "Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to finance",
+      "summary": "The training took place from 19 to 29 October at the Macaneta Administrative Post, Marracuene district, and involved central-level technicians, Producer Organisation, Markets and Agribusiness Officers from the 11 Provincial Directorates of Agriculture and Fisheries (DPAP), as well as representatives of GAPI and Zambeze University (UniZambeze) The initiative aimed to strengthen participants’ capacities in using the RuralInvest (RIV20) platform, a digital tool designed for the preparation and analysis of business plans for investment in rural areas Photo: Ministério da Agricultura, Ambiente e Pescas The training forms part of the partnership between MAAP and the United Nations Food and Agriculture Organization (FAO), through its Investment Centre, under the PROMOVE Agribiz Project, funded by the European Union.",
+      "why": "«Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
-      "published": "2026-11-02T05:30:23+00:00",
-      "age_hours": 5.1,
+      "published": "2026-11-02T14:41:42+00:00",
+      "age_hours": 6.0,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/exxonmobil-doubles-stake-in-mozambiques-rovuma-lng-project-to-50-through-eni-asset-swap/",
+      "link": "https://clubofmozambique.com/news/mozambique-25-technicians-trained-in-digital-tools-and-rural-business-planning-to-improve-access-to-finance/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -67,28 +89,56 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "ExxonMobil has increased its stake in Mozambique’s planned Rovuma liquefied natural gas (LNG) project to 50% from 25%, following an asset swap with Eni. Under the deal, Eni gave up its share of the project in exchange for other properties in the region ExxonMobil continues to lead the development as operator. The deepwater project sits in the Rovuma Basin off Cabo Delgado province and is designed to produce 18.6 million tonnes of LNG per year. Total development costs are estimated at US$30 billion. The partners have recently committed US$1.1 billion to long lead subsea and equipment contracts, which keeps the schedule on track for a final investment decision (FID) by the end of 2026 and first commercial operations in 2031 The Area 4 consortium also includes China National Petroleum Corp. (CNPC), Korea Gas Corp. «ExxonMobil doubles stake in Mozambique’s Rovuma LNG project to 50% through Eni asset swap» matters because it may change energy and investment decisions affecting Moçambique. For «ExxonMobil doubles stake in Mozambique’s Rovuma LNG project to 50% through Eni asset swap», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 14.94,
+      "detailed_summary": "The training took place from 19 to 29 October at the Macaneta Administrative Post, Marracuene district, and involved central-level technicians, Producer Organisation, Markets and Agribusiness Officers from the 11 Provincial Directorates of Agriculture and Fisheries (DPAP), as well as representatives of GAPI and Zambeze University (UniZambeze) The initiative aimed to strengthen participants’ capacities in using the RuralInvest (RIV20) platform, a digital tool designed for the preparation and analysis of business plans for investment in rural areas Photo: Ministério da Agricultura, Ambiente e Pescas The training forms part of the partnership between MAAP and the United Nations Food and Agriculture Organization (FAO), through its Investment Centre, under the PROMOVE Agribiz Project, funded by the European Union. «Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 13.75,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Government approves 20-year extension for Kenmare’s mining operations",
+      "summary": "Maputo, 02 Nov (AIM) – The Irish company Kenmare Resources, which has been mining the heavy mineral sands in Moma and Larde districts, in the northern Mozambican province of Nampula, has announced that the Council of Ministers (cabinet) has approved a 20-year extension for its operations in the country. According to Miningmx, citing Kenmare’s statement addressed Mozambique’ stock exchange, agreement for the processing and export of heavy sands by Kenmare will run in until 2044. Royalties based on gross revenue will increase from one to three percent between 2025 and 2029, to four percent between 2030 and 2034, and to five percent between 2035 and 2044. Certain services contracted abroad are subject to a 20 percent withholding tax. “The company commits to investing at least 200 million dollars in equipment and infrastructure, plus an additional 50 million dollars in social projects, during the extension period”, said Kenmare Managing Director Tom Hickey, cieted in the document. He also downplayed the additional burden of the 200 million dollar commitment.",
+      "why": "«Government approves 20-year extension for Kenmare’s mining operations» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Government approves 20-year extension for Kenmare’s mining operations», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "AIM News",
+      "published": "2026-11-02T10:44:18+00:00",
+      "age_hours": 9.9,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/02/government-approves-20-year-extension-for-kenmares-mining-operations/",
+      "original_source": true,
+      "event_id": "evt-mocambique-008",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 02 Nov (AIM) – The Irish company Kenmare Resources, which has been mining the heavy mineral sands in Moma and Larde districts, in the northern Mozambican province of Nampula, has announced that the Council of Ministers (cabinet) has approved a 20-year extension for its operations in the country. According to Miningmx, citing Kenmare’s statement addressed Mozambique’ stock exchange, agreement for the processing and export of heavy sands by Kenmare will run in until 2044. Royalties based on gross revenue will increase from one to three percent between 2025 and 2029, to four percent between 2030 and 2034, and to five percent between 2035 and 2044. Certain services contracted abroad are subject to a 20 percent withholding tax. “The company commits to investing at least 200 million dollars in equipment and infrastructure, plus an additional 50 million dollars in social projects, during the extension period”, said Kenmare Managing Director Tom Hickey, cieted in the document. He also downplayed the additional burden of the 200 million dollar commitment. «Government approves 20-year extension for Kenmare’s mining operations» is worth following because of its possible economic, institutional or regional effects. For «Government approves 20-year extension for Kenmare’s mining operations», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.94,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
         "Segurança"
       ],
-      "title": "For US Democrats, climate policy is now about energy bills",
-      "summary": "Climate change has all but disappeared from Democrats' campaign pitches, replaced by promises to lower electricity bills. But what would the party actually do on climate if it wins control of Congress? President Donald Trump's administration has gutted US climate policy . Yet even as wildfires, record heat waves and flooding hit communities across the country, Democrats are keeping quiet about global warming on the midterm campaign trail Instead, candidates are packaging climate policy as an affordability issue, stressing how Americans are struggling to afford gas, groceries and to insure their homes against climate-fueled weather extremes Take Democratic Senate candidate James Talarico in Texas, who represents the party's best chance at winning the race in the Republican stronghold in nearly 40 years.",
-      "why": "«For US Democrats, climate policy is now about energy bills» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «For US Democrats, climate policy is now about energy bills», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "What might Trump have planned for Iran following the midterm election?",
+      "summary": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace The US Republican Party is entering the midterm elections with Donald Trump 's administration seemingly unable to either win or diplomatically resolve the Iran war .",
+      "why": "«What might Trump have planned for Iran following the midterm election?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «What might Trump have planned for Iran following the midterm election?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "DW English",
-      "published": "2026-11-02T08:59:00+00:00",
-      "age_hours": 1.7,
+      "published": "2026-11-02T15:41:00+00:00",
+      "age_hours": 5.0,
       "within_24h": true,
-      "link": "https://www.dw.com/en/for-us-democrats-climate-policy-is-now-about-energy-bills/a-79808783?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-010",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -97,55 +147,54 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Climate change has all but disappeared from Democrats' campaign pitches, replaced by promises to lower electricity bills. But what would the party actually do on climate if it wins control of Congress? President Donald Trump's administration has gutted US climate policy . Yet even as wildfires, record heat waves and flooding hit communities across the country, Democrats are keeping quiet about global warming on the midterm campaign trail Instead, candidates are packaging climate policy as an affordability issue, stressing how Americans are struggling to afford gas, groceries and to insure their homes against climate-fueled weather extremes Take Democratic Senate candidate James Talarico in Texas, who represents the party's best chance at winning the race in the Republican stronghold in nearly 40 years. «For US Democrats, climate policy is now about energy bills» matters because it may change energy and investment decisions affecting Mundo. For «For US Democrats, climate policy is now about energy bills», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 13.65,
+      "detailed_summary": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace The US Republican Party is entering the midterm elections with Donald Trump 's administration seemingly unable to either win or diplomatically resolve the Iran war . «What might Trump have planned for Iran following the midterm election?» deserves attention because it may change political, diplomatic or security risks. For «What might Trump have planned for Iran following the midterm election?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.96,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Major fire destroys large part of HCM Oncology Department",
-      "summary": "Maputo, 02 Nov (AIM) – A major fire on Sunday destroyed a large part of the Oncology Department at Maputo Central Hospital (HCM), the country’s largest health facility, causing material damage but “it did not reach the bunker, which is the core area for radiotherapy services.” According to the health minister, Ussene Isse, speaking to reporters, radiotherapy is highly sensitive to high temperatures, which means that absence of visible damage “does not necessarily mean the equipment remains in working order.” The minister explained that a multisectoral team is currently on-site conducting an assessment to determine the extent of the damage. However, there were no fatalities or injuries resulting from the fire. All 22 patients admitted to the Oncology ward were evacuated in a timely manner, “thanks to the intervention of the various sectors involved in the emergency response.” “Of the 22 evacuated patients, 12 have been discharged, while the remaining 10 have been transferred to the Dermatology Department, where they continue to receive medical care and psychological support.",
-      "why": "«Major fire destroys large part of HCM Oncology Department» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Major fire destroys large part of HCM Oncology Department», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "AIM News",
-      "published": "2026-11-02T08:32:25+00:00",
-      "age_hours": 2.1,
+      "title": "Mozambique: The marks of time on Avenida das Indústrias",
+      "summary": "Companhia Vidreira de Moçambique, Caju de Moçambique, Zuid, Fibriclass [Fibreglass], Pintex, Mobilarte, Embalagens de Moçambique (Metal Box), FACOL – Fábrica de Colas e Adesivos de Moçambique, Metal África, Comec and Pro-Caju are just some of the names that left their mark on the industrial sector along that corridor. Decades later, many of these names survive only in collective memory and as geographical landmarks, associated, for example, with passenger transport stops Indeed, the current scene contrasts sharply with the dynamism of bygone years. Where industrial activity once thrived, all that remains are dilapidated buildings, ruins and premises left abandoned, while other facilities have been repurposed for new activities, particularly commerce, whose capacity to absorb labour is nowhere near that once provided by the former factories Companhia Vidreira de Moçambique, or simply Vidreira, founded in 1958 and described as the only facility of its kind in the country, is one of the industrial enterprises that still retains architectural features from the colonial period.",
+      "why": "«Mozambique: The marks of time on Avenida das Indústrias» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Mozambique: The marks of time on Avenida das Indústrias», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-02T14:33:31+00:00",
+      "age_hours": 6.1,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/02/major-fire-destroys-large-part-of-hcm-oncology-department/",
+      "link": "https://clubofmozambique.com/news/mozambique-the-marks-of-time-on-avenida-das-industrias/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM News"
+        "Club of Mozambique"
       ],
-      "primary_source": "AIM News",
+      "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 02 Nov (AIM) – A major fire on Sunday destroyed a large part of the Oncology Department at Maputo Central Hospital (HCM), the country’s largest health facility, causing material damage but “it did not reach the bunker, which is the core area for radiotherapy services.” According to the health minister, Ussene Isse, speaking to reporters, radiotherapy is highly sensitive to high temperatures, which means that absence of visible damage “does not necessarily mean the equipment remains in working order.” The minister explained that a multisectoral team is currently on-site conducting an assessment to determine the extent of the damage. However, there were no fatalities or injuries resulting from the fire. All 22 patients admitted to the Oncology ward were evacuated in a timely manner, “thanks to the intervention of the various sectors involved in the emergency response.” “Of the 22 evacuated patients, 12 have been discharged, while the remaining 10 have been transferred to the Dermatology Department, where they continue to receive medical care and psychological support. «Major fire destroys large part of HCM Oncology Department» deserves attention because it may change political, diplomatic or security risks. For «Major fire destroys large part of HCM Oncology Department», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 13.56,
+      "detailed_summary": "Companhia Vidreira de Moçambique, Caju de Moçambique, Zuid, Fibriclass [Fibreglass], Pintex, Mobilarte, Embalagens de Moçambique (Metal Box), FACOL – Fábrica de Colas e Adesivos de Moçambique, Metal África, Comec and Pro-Caju are just some of the names that left their mark on the industrial sector along that corridor. Decades later, many of these names survive only in collective memory and as geographical landmarks, associated, for example, with passenger transport stops Indeed, the current scene contrasts sharply with the dynamism of bygone years. Where industrial activity once thrived, all that remains are dilapidated buildings, ruins and premises left abandoned, while other facilities have been repurposed for new activities, particularly commerce, whose capacity to absorb labour is nowhere near that once provided by the former factories Companhia Vidreira de Moçambique, or simply Vidreira, founded in 1958 and described as the only facility of its kind in the country, is one of the industrial enterprises that still retains architectural features from the colonial period. «Mozambique: The marks of time on Avenida das Indústrias» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: The marks of time on Avenida das Indústrias», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 11.73,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
         "Segurança"
       ],
-      "title": "Ryanair says it may freeze workers' pay and raise airfares",
-      "summary": "Ryanair is considering a temporary wage freeze for staff to pay for a sharp rise in its fuel costs which have surged following the US-Israel war with Iran The carrier said it expects fuel prices to remain high \"well into 2027\" unless there is a \"swift resolution\" to the conflict Ryanair said its fuel bill is forecast to be €2bn (£1.6bn) higher in the short-term and said it expects European airfares to increase to help cover the cost But it said that was unlikely to be enough and, among a number of measures, it is looking into \"temporary pay freezes\".",
-      "why": "«Ryanair says it may freeze workers' pay and raise airfares» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Ryanair says it may freeze workers' pay and raise airfares», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "summary": "Watch: Ukraine and Russia say emergency apps hit by cyber-attack Ukrainians have grown weary of the relentless alerts blaring from their phones and echoing through their streets, day and night, warning of Russian drones and missiles On Sunday night, the system delivered something to make them sit up and take note – a succession of more extreme threats that quickly escalated to impending nuclear strikes, chemical attacks and combat on the streets But many in the country did not take them seriously and doubted the veracity of the messages Sofia Kochmar, 34, a mother-of-one living in the western city of Lviv, said she was initially concerned but quickly questioned the authenticity of the alerts \"The first thing I saw was the word 'nuclear' and that made me pretty nervous and scared.",
+      "why": "«Fake nuclear warning from hacked app sparks unease but not panic in Ukraine» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Fake nuclear warning from hacked app sparks unease but not panic in Ukraine», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "BBC World",
-      "published": "2026-11-02T10:04:39+00:00",
-      "age_hours": 0.6,
+      "published": "2026-11-02T18:34:24+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -156,56 +205,144 @@
       "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Ryanair is considering a temporary wage freeze for staff to pay for a sharp rise in its fuel costs which have surged following the US-Israel war with Iran The carrier said it expects fuel prices to remain high \"well into 2027\" unless there is a \"swift resolution\" to the conflict Ryanair said its fuel bill is forecast to be €2bn (£1.6bn) higher in the short-term and said it expects European airfares to increase to help cover the cost But it said that was unlikely to be enough and, among a number of measures, it is looking into \"temporary pay freezes\". «Ryanair says it may freeze workers' pay and raise airfares» matters because it may change energy and investment decisions affecting Mundo. For «Ryanair says it may freeze workers' pay and raise airfares», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.88,
+      "detailed_summary": "Watch: Ukraine and Russia say emergency apps hit by cyber-attack Ukrainians have grown weary of the relentless alerts blaring from their phones and echoing through their streets, day and night, warning of Russian drones and missiles On Sunday night, the system delivered something to make them sit up and take note – a succession of more extreme threats that quickly escalated to impending nuclear strikes, chemical attacks and combat on the streets But many in the country did not take them seriously and doubted the veracity of the messages Sofia Kochmar, 34, a mother-of-one living in the western city of Lviv, said she was initially concerned but quickly questioned the authenticity of the alerts \"The first thing I saw was the word 'nuclear' and that made me pretty nervous and scared. «Fake nuclear warning from hacked app sparks unease but not panic in Ukraine» deserves attention because it may change political, diplomatic or security risks. For «Fake nuclear warning from hacked app sparks unease but not panic in Ukraine», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.56,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique in talks with Tanzania over dual nationality recognition",
-      "summary": "Maria de Fátima Manso was speaking during a meeting with the Mozambican community in Tanzania, where she explained that the process depends on an agreement with the local authorities, as its implementation requires the Tanzanian Government’s approval “We have to reach an understanding with those who will give us that permission, which is the local Government,” the official said, quoted today by local media, referring to the ongoing contacts with the authorities of that country The Secretary of State assured the community that Mozambique would continue its efforts to find a solution that would allow its citizens to maintain their legal and family ties with their country of origin, advocating continued dialogue with the Tanzanian counterpart The official also called for the community to organise itself, in coordination with its leaders and the Mozambican High Commission, to identify the number of citizens interested in dual nationality and the documents they need, in order to facilitate the follow-up of the process “To be better organised and reach a larger number of citizens, our…",
-      "why": "«Mozambique in talks with Tanzania over dual nationality recognition» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Mozambique in talks with Tanzania over dual nationality recognition», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-11-02T05:00:51+00:00",
-      "age_hours": 5.6,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-in-talks-with-tanzania-over-dual-nationality-recognition/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maria de Fátima Manso was speaking during a meeting with the Mozambican community in Tanzania, where she explained that the process depends on an agreement with the local authorities, as its implementation requires the Tanzanian Government’s approval “We have to reach an understanding with those who will give us that permission, which is the local Government,” the official said, quoted today by local media, referring to the ongoing contacts with the authorities of that country The Secretary of State assured the community that Mozambique would continue its efforts to find a solution that would allow its citizens to maintain their legal and family ties with their country of origin, advocating continued dialogue with the Tanzanian counterpart The official also called for the community to organise itself, in coordination with its leaders and the Mozambican High Commission, to identify the number of citizens interested in dual nationality and the documents they need, in order to facilitate the follow-up of the process “To be better organised and reach a larger number of citizens, our… «Mozambique in talks with Tanzania over dual nationality recognition» is worth following because of its possible economic, institutional or regional effects. For «Mozambique in talks with Tanzania over dual nationality recognition», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 11.83,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Germany news: Berlin hosts digital summit with AI focus",
-      "summary": "A government-run conference is to look at the uses and dangers of artificial intelligence. This comes as the German and UK defense ministers will discuss expanding AI's role in military cooperation. DW has more",
-      "why": "«Germany news: Berlin hosts digital summit with AI focus» points to a concrete change in the adoption, regulation or use of technology.",
-      "impact": "For «Germany news: Berlin hosts digital summit with AI focus», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-11-02T07:36:00+00:00",
-      "age_hours": 3.1,
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "summary": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances Smart devices which are connected to the internet can include fridges, central heating, and even washing machines And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure Exploits have been found before in some devices.",
+      "why": "«If hackers can take control of a supermarket freezer, how vulnerable is other tech?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «If hackers can take control of a supermarket freezer, how vulnerable is other tech?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-02T18:25:01+00:00",
+      "age_hours": 2.2,
       "within_24h": true,
-      "link": "https://www.dw.com/en/germany-news-berlin-hosts-digital-summit-with-ai-focus/live-79825749?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
       "original_source": true,
       "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances Smart devices which are connected to the internet can include fridges, central heating, and even washing machines And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure Exploits have been found before in some devices. «If hackers can take control of a supermarket freezer, how vulnerable is other tech?» deserves attention because it may change political, diplomatic or security risks. For «If hackers can take control of a supermarket freezer, how vulnerable is other tech?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.54,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "HRW calls on Zambia to halt post-election crackdown",
+      "summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory",
+      "why": "«HRW calls on Zambia to halt post-election crackdown» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «HRW calls on Zambia to halt post-election crackdown», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-02T19:40:10+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory. «HRW calls on Zambia to halt post-election crackdown» is worth following because of its possible economic, institutional or regional effects. For «HRW calls on Zambia to halt post-election crackdown», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "editorial_score": 10.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "After Israel’s election: What’s next?",
+      "summary": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock",
+      "why": "«After Israel’s election: What’s next?» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «After Israel’s election: What’s next?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-02T18:32:59+00:00",
+      "age_hours": 2.1,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock. «After Israel’s election: What’s next?» is worth following because of its possible economic, institutional or regional effects. For «After Israel’s election: What’s next?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.56,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Drone attacks extend campaign targeting Sudan’s power system",
+      "summary": "Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF",
+      "why": "«Drone attacks extend campaign targeting Sudan’s power system» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Drone attacks extend campaign targeting Sudan’s power system», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-02T17:26:32+00:00",
+      "age_hours": 3.2,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF. «Drone attacks extend campaign targeting Sudan’s power system» is worth following because of its possible economic, institutional or regional effects. For «Drone attacks extend campaign targeting Sudan’s power system», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "editorial_score": 10.33,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Uganda begins withdrawing troops from Somalia after two decades",
+      "summary": "Ugandan troops first deployed to Somalia in 2007 as part of an international military coalition to battle Islamic insurgents. But the mission has faced mounting pressure since a US decision to withdraw funding",
+      "why": "«Uganda begins withdrawing troops from Somalia after two decades» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Uganda begins withdrawing troops from Somalia after two decades», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "source": "DW English",
+      "published": "2026-11-02T12:19:00+00:00",
+      "age_hours": 8.3,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-áfrica-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -214,126 +351,10 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A government-run conference is to look at the uses and dangers of artificial intelligence. This comes as the German and UK defense ministers will discuss expanding AI's role in military cooperation. DW has more. «Germany news: Berlin hosts digital summit with AI focus» points to a concrete change in the adoption, regulation or use of technology. For «Germany news: Berlin hosts digital summit with AI focus», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
-      "editorial_score": 11.35,
+      "detailed_summary": "Ugandan troops first deployed to Somalia in 2007 as part of an international military coalition to battle Islamic insurgents. But the mission has faced mounting pressure since a US decision to withdraw funding. «Uganda begins withdrawing troops from Somalia after two decades» is worth following because of its possible economic, institutional or regional effects. For «Uganda begins withdrawing troops from Somalia after two decades», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "editorial_score": 9.27,
       "source_tier": "A",
       "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "How the president’s party has fared in every US midterm election since 1946",
-      "summary": "Only twice in the past 20 midterms has the president’s party gained House seats. Polls suggest 2026 won’t be the third",
-      "why": "«How the president’s party has fared in every US midterm election since 1946» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «How the president’s party has fared in every US midterm election since 1946», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-02T08:05:03+00:00",
-      "age_hours": 2.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/2/how-the-presidents-party-has-fared-in-every-us-midterm-election-since-1946?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Only twice in the past 20 midterms has the president’s party gained House seats. Polls suggest 2026 won’t be the third. «How the president’s party has fared in every US midterm election since 1946» is worth following because of its possible economic, institutional or regional effects. For «How the president’s party has fared in every US midterm election since 1946», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.46,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Bangladesh garment factories disrupted as protests continue for third day",
-      "summary": "Workers in Bangladesh's largest export sector are demanding a minimum wage increase amid rising inflation",
-      "why": "«Bangladesh garment factories disrupted as protests continue for third day» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «Bangladesh garment factories disrupted as protests continue for third day», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-02T07:08:28+00:00",
-      "age_hours": 3.5,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Workers in Bangladesh's largest export sector are demanding a minimum wage increase amid rising inflation. «Bangladesh garment factories disrupted as protests continue for third day» helps explain a concrete economic or business change relevant to Mundo. For «Bangladesh garment factories disrupted as protests continue for third day», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 10.27,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "summary": "There is no vaccine for this strain of the virus, but clinical trials are under way More than 5,000 people have died from an ongoing Ebola outbreak in the Democratic Republic of Congo, government data shows Eight of 26 provinces are now affected, with more than 10,300 confirmed cases The outbreak, which started in May, became the country's deadliest in its history in August, public health officials said.",
-      "why": "«More than 5,000 die from Ebola in DR Congo's deadliest outbreak» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «More than 5,000 die from Ebola in DR Congo's deadliest outbreak», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "BBC Africa",
-      "published": "2026-10-31T15:16:20+00:00",
-      "age_hours": 43.4,
-      "within_24h": false,
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC Africa"
-      ],
-      "primary_source": "BBC Africa",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "There is no vaccine for this strain of the virus, but clinical trials are under way More than 5,000 people have died from an ongoing Ebola outbreak in the Democratic Republic of Congo, government data shows Eight of 26 provinces are now affected, with more than 10,300 confirmed cases The outbreak, which started in May, became the country's deadliest in its history in August, public health officials said. «More than 5,000 die from Ebola in DR Congo's deadliest outbreak» is worth following because of its possible economic, institutional or regional effects. For «More than 5,000 die from Ebola in DR Congo's deadliest outbreak», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 5.89,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Ethiopian PM puts ministers through military training",
-      "summary": "The training comes as Ethiopia faces continued fighting in parts of the northern Tigray region Ethiopian Prime Minister Abiy Ahmed has put his cabinet ministers and other senior government officials through military training, saying armed forces discipline can help build stronger leaders and advance the country's development Photos shared by him on social media show him taking part in military exercises alongside ministers, deputy ministers and heads of government institutions at the Hurso military training centre The move is unusual in Ethiopia, where senior civilian government officials are rarely seen undergoing military training Those taking part include Speaker of the House of Federation Muferiat Kamil, Finance Minister Fitsum Assefa and Health Minister Mekdes Daba It is unclear when the training began or how long it is expected to last In his post, the prime minister, who is known as Abiy, said Ethiopia's ambition to achieve universal prosperity required its leadership to be physically fit, morally strong and intellectually capable He said military institutions offered…",
-      "why": "«Ethiopian PM puts ministers through military training» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Ethiopian PM puts ministers through military training», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "BBC Africa",
-      "published": "2026-10-31T14:28:15+00:00",
-      "age_hours": 44.2,
-      "within_24h": false,
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC Africa"
-      ],
-      "primary_source": "BBC Africa",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "The training comes as Ethiopia faces continued fighting in parts of the northern Tigray region Ethiopian Prime Minister Abiy Ahmed has put his cabinet ministers and other senior government officials through military training, saying armed forces discipline can help build stronger leaders and advance the country's development Photos shared by him on social media show him taking part in military exercises alongside ministers, deputy ministers and heads of government institutions at the Hurso military training centre The move is unusual in Ethiopia, where senior civilian government officials are rarely seen undergoing military training Those taking part include Speaker of the House of Federation Muferiat Kamil, Finance Minister Fitsum Assefa and Health Minister Mekdes Daba It is unclear when the training began or how long it is expected to last In his post, the prime minister, who is known as Abiy, said Ethiopia's ambition to achieve universal prosperity required its leadership to be physically fit, morally strong and intellectually capable He said military institutions offered… «Ethiopian PM puts ministers through military training» is worth following because of its possible economic, institutional or regional effects. For «Ethiopian PM puts ministers through military training», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 5.87,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -355,9 +376,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
-    "África": 2,
-    "Mundo": 5
+    "Moçambique": 3,
+    "África": 5,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
