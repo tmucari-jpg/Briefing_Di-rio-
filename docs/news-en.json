@@ -1,10 +1,48 @@
 {
-  "updated_at": "2026-11-02T20:39:23.791146+00:00",
+  "updated_at": "2026-11-03T02:47:41.035608+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "África",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
+      "summary": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa South Africa and Rwanda are set to be removed from a US trade initiative that has provided duty-free access to the US market for thousands of products from sub-Saharan African countries for 26 years On Monday, US Trade Representative Jamieson Greer said US President Donald Trump intends to \"terminate\" the two countries from the African Growth and Opportunity Act (AGOA) trade preference program starting in January 2027 The program, which comes under regular review, was extended in February by Trump In a statement , Greer said that \"the governments of Rwanda and South Africa are engaging in practices that are inconsistent with AGOA's eligibility criteria.\" Greer said these practices include \"barriers that undermine American trade and investment and practices that pose a threat to US national security and foreign policy interests in the region.\" The statement did not provide any specific examples of the trade…",
+      "why": "«US to drop South Africa, Rwanda from duty-free trade initiative» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «US to drop South Africa, Rwanda from duty-free trade initiative», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "DW English",
+      "published": "2026-11-02T21:40:00+00:00",
+      "age_hours": 5.1,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "DW English",
+        "Al Jazeera English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Al Jazeera English",
+          "title": "US to suspend South Africa and Rwanda from duty-free trade access",
+          "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa South Africa and Rwanda are set to be removed from a US trade initiative that has provided duty-free access to the US market for thousands of products from sub-Saharan African countries for 26 years On Monday, US Trade Representative Jamieson Greer said US President Donald Trump intends to \"terminate\" the two countries from the African Growth and Opportunity Act (AGOA) trade preference program starting in January 2027 The program, which comes under regular review, was extended in February by Trump In a statement , Greer said that \"the governments of Rwanda and South Africa are engaging in practices that are inconsistent with AGOA's eligibility criteria.\" Greer said these practices include \"barriers that undermine American trade and investment and practices that pose a threat to US national security and foreign policy interests in the region.\" The statement did not provide any specific examples of the trade… «US to drop South Africa, Rwanda from duty-free trade initiative» deserves attention because it may change political, diplomatic or security risks. For «US to drop South Africa, Rwanda from duty-free trade initiative», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 17.44,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "África",
       "tags": [
@@ -17,11 +55,11 @@
       "impact": "For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-11-02T19:33:10+00:00",
-      "age_hours": 1.1,
+      "age_hours": 7.2,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -31,37 +69,37 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027 The African Growth and Opportunity Act (Agoa) allows eligible African countries to export thousands of products to the US duty-free US Trade Representative Jamieson Greer said in a statement that an annual review had found that both countries were engaging in practices inconsistent with the programme's eligibility requirements He added that the Trump administration had additionally notified the two countries of the decision The Trump administration cited barriers to US trade and investment, as well as concerns over national security and foreign policy interests in the region In Rwanda's case, Washington also raised concerns about human rights, political pluralism, the rule of law and workers' rights The move comes barely a week after Rwanda's defence ministry was hit with sanctions by US Treasury for its alleged… «Trump to remove Rwanda and South Africa from US trade deal» deserves attention because it may change political, diplomatic or security risks. For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 15.77,
+      "editorial_score": 14.5,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Economia",
         "Segurança"
       ],
-      "title": "Will renewed conflict derail Ethiopia's economic growth?",
-      "summary": "Ethiopia's economy is growing strongly. But renewed fighting in the north of the BRICS member state could deter investment, strain public finances and push up the cost of living Ethiopia 's economy is growing strongly. The International Monetary Fund (IMF) forecasts real growth of 9.2% for the 2025–26 fiscal year. But renewed fighting in the north , high reconstruction costs and climate-related crop problems are threatening the country's economic recovery London-based financial analyst Abdulmenan Mohammed warns of the consequences of further escalation . \"If there is a major conflict [...] the current economic growth will not be sustainable,\" he told DW The war that raged in Tigray and other parts of Ethiopia between 2020 and 2022 inflicted extensive damage. Infrastructure was destroyed, businesses lost production capacity and agricultural land could no longer be cultivated in some areas A World Bank-backed damage and needs assessment puts the damage caused by several conflicts in Ethiopia between November 2020 and December 2021 at more than $22.6 billion (€20.2 billion).",
-      "why": "«Will renewed conflict derail Ethiopia's economic growth?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Will renewed conflict derail Ethiopia's economic growth?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-11-02T11:19:00+00:00",
-      "age_hours": 9.3,
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "Kim Yo-jong, the sister of North Korea's leader Kim Jong Un North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance , calling the allegations \"absurd rhetoric\" Kim Yo-jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un , said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor The FBI has called on industry partners to help block transactions involving cryptocurrency accounts linked to the group \"The US has made a trite provocation of linking it with the Democratic People's Republic of Korea again,\" Kim…",
+      "why": "«North Korea denies being behind record $6.3bn Binance hack» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «North Korea denies being behind record $6.3bn Binance hack», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-03T01:23:03+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.dw.com/en/will-renewed-conflict-derail-ethiopia-s-economic-growth/a-79807060?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-006",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "DW English"
+        "BBC World"
       ],
-      "primary_source": "DW English",
+      "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Ethiopia's economy is growing strongly. But renewed fighting in the north of the BRICS member state could deter investment, strain public finances and push up the cost of living Ethiopia 's economy is growing strongly. The International Monetary Fund (IMF) forecasts real growth of 9.2% for the 2025–26 fiscal year. But renewed fighting in the north , high reconstruction costs and climate-related crop problems are threatening the country's economic recovery London-based financial analyst Abdulmenan Mohammed warns of the consequences of further escalation . \"If there is a major conflict [...] the current economic growth will not be sustainable,\" he told DW The war that raged in Tigray and other parts of Ethiopia between 2020 and 2022 inflicted extensive damage. Infrastructure was destroyed, businesses lost production capacity and agricultural land could no longer be cultivated in some areas A World Bank-backed damage and needs assessment puts the damage caused by several conflicts in Ethiopia between November 2020 and December 2021 at more than $22.6 billion (€20.2 billion). «Will renewed conflict derail Ethiopia's economic growth?» deserves attention because it may change political, diplomatic or security risks. For «Will renewed conflict derail Ethiopia's economic growth?», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 14.06,
+      "detailed_summary": "Kim Yo-jong, the sister of North Korea's leader Kim Jong Un North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance , calling the allegations \"absurd rhetoric\" Kim Yo-jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un , said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor The FBI has called on industry partners to help block transactions involving cryptocurrency accounts linked to the group \"The US has made a trite provocation of linking it with the Democratic People's Republic of Korea again,\" Kim… «North Korea denies being behind record $6.3bn Binance hack» deserves attention because it may change political, diplomatic or security risks. For «North Korea denies being behind record $6.3bn Binance hack», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 12.71,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -76,7 +114,7 @@
       "impact": "For «Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-11-02T14:41:42+00:00",
-      "age_hours": 6.0,
+      "age_hours": 12.1,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-25-technicians-trained-in-digital-tools-and-rural-business-planning-to-improve-access-to-finance/",
       "original_source": true,
@@ -90,7 +128,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "The training took place from 19 to 29 October at the Macaneta Administrative Post, Marracuene district, and involved central-level technicians, Producer Organisation, Markets and Agribusiness Officers from the 11 Provincial Directorates of Agriculture and Fisheries (DPAP), as well as representatives of GAPI and Zambeze University (UniZambeze) The initiative aimed to strengthen participants’ capacities in using the RuralInvest (RIV20) platform, a digital tool designed for the preparation and analysis of business plans for investment in rural areas Photo: Ministério da Agricultura, Ambiente e Pescas The training forms part of the partnership between MAAP and the United Nations Food and Agriculture Organization (FAO), through its Investment Centre, under the PROMOVE Agribiz Project, funded by the European Union. «Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 13.75,
+      "editorial_score": 12.48,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -105,7 +143,7 @@
       "impact": "For «Government approves 20-year extension for Kenmare’s mining operations», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "AIM News",
       "published": "2026-11-02T10:44:18+00:00",
-      "age_hours": 9.9,
+      "age_hours": 16.1,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/02/government-approves-20-year-extension-for-kenmares-mining-operations/",
       "original_source": true,
@@ -119,8 +157,37 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 02 Nov (AIM) – The Irish company Kenmare Resources, which has been mining the heavy mineral sands in Moma and Larde districts, in the northern Mozambican province of Nampula, has announced that the Council of Ministers (cabinet) has approved a 20-year extension for its operations in the country. According to Miningmx, citing Kenmare’s statement addressed Mozambique’ stock exchange, agreement for the processing and export of heavy sands by Kenmare will run in until 2044. Royalties based on gross revenue will increase from one to three percent between 2025 and 2029, to four percent between 2030 and 2034, and to five percent between 2035 and 2044. Certain services contracted abroad are subject to a 20 percent withholding tax. “The company commits to investing at least 200 million dollars in equipment and infrastructure, plus an additional 50 million dollars in social projects, during the extension period”, said Kenmare Managing Director Tom Hickey, cieted in the document. He also downplayed the additional burden of the 200 million dollar commitment. «Government approves 20-year extension for Kenmare’s mining operations» is worth following because of its possible economic, institutional or regional effects. For «Government approves 20-year extension for Kenmare’s mining operations», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 12.94,
+      "editorial_score": 11.65,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+      "summary": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached",
+      "why": "«Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-03T00:00:00+00:00",
+      "age_hours": 2.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached. «Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’» deserves attention because it may change political, diplomatic or security risks. For «Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.42,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -134,11 +201,11 @@
       "impact": "For «What might Trump have planned for Iran following the midterm election?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "DW English",
       "published": "2026-11-02T15:41:00+00:00",
-      "age_hours": 5.0,
+      "age_hours": 11.1,
       "within_24h": true,
       "link": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-010",
+      "event_id": "evt-mundo-017",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -148,7 +215,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace The US Republican Party is entering the midterm elections with Donald Trump 's administration seemingly unable to either win or diplomatically resolve the Iran war . «What might Trump have planned for Iran following the midterm election?» deserves attention because it may change political, diplomatic or security risks. For «What might Trump have planned for Iran following the midterm election?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.96,
+      "editorial_score": 10.69,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -163,7 +230,7 @@
       "impact": "For «Mozambique: The marks of time on Avenida das Indústrias», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-11-02T14:33:31+00:00",
-      "age_hours": 6.1,
+      "age_hours": 12.2,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-the-marks-of-time-on-avenida-das-industrias/",
       "original_source": true,
@@ -177,26 +244,26 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Companhia Vidreira de Moçambique, Caju de Moçambique, Zuid, Fibriclass [Fibreglass], Pintex, Mobilarte, Embalagens de Moçambique (Metal Box), FACOL – Fábrica de Colas e Adesivos de Moçambique, Metal África, Comec and Pro-Caju are just some of the names that left their mark on the industrial sector along that corridor. Decades later, many of these names survive only in collective memory and as geographical landmarks, associated, for example, with passenger transport stops Indeed, the current scene contrasts sharply with the dynamism of bygone years. Where industrial activity once thrived, all that remains are dilapidated buildings, ruins and premises left abandoned, while other facilities have been repurposed for new activities, particularly commerce, whose capacity to absorb labour is nowhere near that once provided by the former factories Companhia Vidreira de Moçambique, or simply Vidreira, founded in 1958 and described as the only facility of its kind in the country, is one of the industrial enterprises that still retains architectural features from the colonial period. «Mozambique: The marks of time on Avenida das Indústrias» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: The marks of time on Avenida das Indústrias», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 11.73,
+      "editorial_score": 10.46,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "summary": "Watch: Ukraine and Russia say emergency apps hit by cyber-attack Ukrainians have grown weary of the relentless alerts blaring from their phones and echoing through their streets, day and night, warning of Russian drones and missiles On Sunday night, the system delivered something to make them sit up and take note – a succession of more extreme threats that quickly escalated to impending nuclear strikes, chemical attacks and combat on the streets But many in the country did not take them seriously and doubted the veracity of the messages Sofia Kochmar, 34, a mother-of-one living in the western city of Lviv, said she was initially concerned but quickly questioned the authenticity of the alerts \"The first thing I saw was the word 'nuclear' and that made me pretty nervous and scared.",
-      "why": "«Fake nuclear warning from hacked app sparks unease but not panic in Ukraine» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Fake nuclear warning from hacked app sparks unease but not panic in Ukraine», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
+      "summary": "The haze stemming from wildfires in Indonesia has drifted into Singapore and Malaysia The haze billowing out from wildfires in the Indonesian regions of Kalimantan, Papua and Sumatra knows no borders Carried by winds to nearby Singapore and Malaysia, the toxic smog has in recent weeks impacted populations across maritime South East Asia, triggering respiratory illnesses and headaches It's also giving the region's governments a different kind of headache - split between the mounting frustrations of their citizens and the risk of souring diplomatic ties with Indonesia \"People are fed up, angry and anxious,\" Eugene Tan, associate professor of law at the Singapore Management University, tells the BBC.",
+      "why": "«Indonesia's toxic haze is giving its neighbours a political headache» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Indonesia's toxic haze is giving its neighbours a political headache», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "BBC World",
-      "published": "2026-11-02T18:34:24+00:00",
-      "age_hours": 2.1,
+      "published": "2026-11-02T23:02:01+00:00",
+      "age_hours": 3.8,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -205,38 +272,8 @@
       "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Watch: Ukraine and Russia say emergency apps hit by cyber-attack Ukrainians have grown weary of the relentless alerts blaring from their phones and echoing through their streets, day and night, warning of Russian drones and missiles On Sunday night, the system delivered something to make them sit up and take note – a succession of more extreme threats that quickly escalated to impending nuclear strikes, chemical attacks and combat on the streets But many in the country did not take them seriously and doubted the veracity of the messages Sofia Kochmar, 34, a mother-of-one living in the western city of Lviv, said she was initially concerned but quickly questioned the authenticity of the alerts \"The first thing I saw was the word 'nuclear' and that made me pretty nervous and scared. «Fake nuclear warning from hacked app sparks unease but not panic in Ukraine» deserves attention because it may change political, diplomatic or security risks. For «Fake nuclear warning from hacked app sparks unease but not panic in Ukraine», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.56,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-      "summary": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances Smart devices which are connected to the internet can include fridges, central heating, and even washing machines And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure Exploits have been found before in some devices.",
-      "why": "«If hackers can take control of a supermarket freezer, how vulnerable is other tech?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «If hackers can take control of a supermarket freezer, how vulnerable is other tech?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-02T18:25:01+00:00",
-      "age_hours": 2.2,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Supermarkets across Europe have been hit by a suspected cyber-attack affecting their fridges and freezers, and raising concern about the vulnerabilities of internet-connected hardware from industrial machinery to humble domestic appliances Smart devices which are connected to the internet can include fridges, central heating, and even washing machines And while that makes them easier to control remotely, in theory, any device which goes online can potentially be exploited by malicious actors However, that doesn't mean hackers can easily take control of it, and big brands generally go to great lengths to make sure their tech is secure Exploits have been found before in some devices. «If hackers can take control of a supermarket freezer, how vulnerable is other tech?» deserves attention because it may change political, diplomatic or security risks. For «If hackers can take control of a supermarket freezer, how vulnerable is other tech?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.54,
+      "detailed_summary": "The haze stemming from wildfires in Indonesia has drifted into Singapore and Malaysia The haze billowing out from wildfires in the Indonesian regions of Kalimantan, Papua and Sumatra knows no borders Carried by winds to nearby Singapore and Malaysia, the toxic smog has in recent weeks impacted populations across maritime South East Asia, triggering respiratory illnesses and headaches It's also giving the region's governments a different kind of headache - split between the mounting frustrations of their citizens and the risk of souring diplomatic ties with Indonesia \"People are fed up, angry and anxious,\" Eugene Tan, associate professor of law at the Singapore Management University, tells the BBC. «Indonesia's toxic haze is giving its neighbours a political headache» is worth following because of its possible economic, institutional or regional effects. For «Indonesia's toxic haze is giving its neighbours a political headache», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.21,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -251,11 +288,11 @@
       "impact": "For «HRW calls on Zambia to halt post-election crackdown», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "Al Jazeera English",
       "published": "2026-11-02T19:40:10+00:00",
-      "age_hours": 1.0,
+      "age_hours": 7.1,
       "within_24h": true,
       "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -265,65 +302,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory. «HRW calls on Zambia to halt post-election crackdown» is worth following because of its possible economic, institutional or regional effects. For «HRW calls on Zambia to halt post-election crackdown», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 10.79,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "After Israel’s election: What’s next?",
-      "summary": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock",
-      "why": "«After Israel’s election: What’s next?» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «After Israel’s election: What’s next?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-02T18:32:59+00:00",
-      "age_hours": 2.1,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock. «After Israel’s election: What’s next?» is worth following because of its possible economic, institutional or regional effects. For «After Israel’s election: What’s next?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.56,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Drone attacks extend campaign targeting Sudan’s power system",
-      "summary": "Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF",
-      "why": "«Drone attacks extend campaign targeting Sudan’s power system» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Drone attacks extend campaign targeting Sudan’s power system», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-02T17:26:32+00:00",
-      "age_hours": 3.2,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF. «Drone attacks extend campaign targeting Sudan’s power system» is worth following because of its possible economic, institutional or regional effects. For «Drone attacks extend campaign targeting Sudan’s power system», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 10.33,
+      "editorial_score": 9.52,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -338,11 +317,11 @@
       "impact": "For «Uganda begins withdrawing troops from Somalia after two decades», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "DW English",
       "published": "2026-11-02T12:19:00+00:00",
-      "age_hours": 8.3,
+      "age_hours": 14.5,
       "within_24h": true,
       "link": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-áfrica-005",
+      "event_id": "evt-áfrica-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -352,7 +331,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Ugandan troops first deployed to Somalia in 2007 as part of an international military coalition to battle Islamic insurgents. But the mission has faced mounting pressure since a US decision to withdraw funding. «Uganda begins withdrawing troops from Somalia after two decades» is worth following because of its possible economic, institutional or regional effects. For «Uganda begins withdrawing troops from Somalia after two decades», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 9.27,
+      "editorial_score": 7.98,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -377,7 +356,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 3,
-    "África": 5,
+    "África": 4,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
