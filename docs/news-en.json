@@ -1,10 +1,70 @@
 {
-  "updated_at": "2026-11-03T02:47:41.035608+00:00",
+  "updated_at": "2026-11-03T10:31:17.657332+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "África",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027 The African Growth and Opportunity Act (Agoa) allows eligible African countries to export thousands of products to the US duty-free US Trade Representative Jamieson Greer said in a statement that an annual review had found that both countries were engaging in practices inconsistent with the programme's eligibility requirements He added that the Trump administration had additionally notified the two countries of the decision The Trump administration cited barriers to US trade and investment, as well as concerns over national security and foreign policy interests in the region For South Africa, the US pointed to corruption In a letter to South African President Cyril Ramaphosa, Trump said Pretoria's actions on international security and its relations and cooperation with governments of concern to Washington risked…",
+      "why": "«Trump to remove Rwanda and South Africa from US trade deal» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-11-03T10:26:26+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027 The African Growth and Opportunity Act (Agoa) allows eligible African countries to export thousands of products to the US duty-free US Trade Representative Jamieson Greer said in a statement that an annual review had found that both countries were engaging in practices inconsistent with the programme's eligibility requirements He added that the Trump administration had additionally notified the two countries of the decision The Trump administration cited barriers to US trade and investment, as well as concerns over national security and foreign policy interests in the region For South Africa, the US pointed to corruption In a letter to South African President Cyril Ramaphosa, Trump said Pretoria's actions on international security and its relations and cooperation with governments of concern to Washington risked… «Trump to remove Rwanda and South Africa from US trade deal» deserves attention because it may change political, diplomatic or security risks. For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 15.98,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "Mozambique: Prevention of money laundering demands strengthening capacities to supervise DNFBPs",
+      "summary": "According to Mendonça, speaking on the sidelines of a regional seminar on risk-based supervision currently being held in Maputo, supervise designated non-financial businesses and professions is also crucial in order to avoid the country’s return to the Financial Action Task Force (FATF) “grey list”, officially known as “Jurisdictions under Increased Monitoring The “grey list” includes countries identified by the FATF as having strategic deficiencies in their measures to counter money laundering and the financing of terrorism. Countries on this list are subject to increased monitoring and scrutiny by the FATF. The list is intended to serve as a warning to the countries concerned to improve their performance and comply with international standards Mozambique was included on the “grey list” in 2022. However, it was removed from the list on October 2025 during a plenary session of the FATF, held in Paris Mendonça explained that strengthening supervision to DNFBPs is part of preparations for the next international evaluation, scheduled for 2030.",
+      "why": "«Mozambique: Prevention of money laundering demands strengthening capacities to supervise DNFBPs» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Mozambique: Prevention of money laundering demands strengthening capacities to supervise DNFBPs», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-03T09:38:39+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-prevention-of-money-laundering-demands-strengthening-capacities-to-supervise-dnfbps/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "According to Mendonça, speaking on the sidelines of a regional seminar on risk-based supervision currently being held in Maputo, supervise designated non-financial businesses and professions is also crucial in order to avoid the country’s return to the Financial Action Task Force (FATF) “grey list”, officially known as “Jurisdictions under Increased Monitoring The “grey list” includes countries identified by the FATF as having strategic deficiencies in their measures to counter money laundering and the financing of terrorism. Countries on this list are subject to increased monitoring and scrutiny by the FATF. The list is intended to serve as a warning to the countries concerned to improve their performance and comply with international standards Mozambique was included on the “grey list” in 2022. However, it was removed from the list on October 2025 during a plenary session of the FATF, held in Paris Mendonça explained that strengthening supervision to DNFBPs is part of preparations for the next international evaluation, scheduled for 2030. «Mozambique: Prevention of money laundering demands strengthening capacities to supervise DNFBPs» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: Prevention of money laundering demands strengthening capacities to supervise DNFBPs», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "editorial_score": 14.81,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "África",
       "tags": [
@@ -17,89 +77,21 @@
       "impact": "For «US to drop South Africa, Rwanda from duty-free trade initiative», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "DW English",
       "published": "2026-11-02T21:40:00+00:00",
-      "age_hours": 5.1,
+      "age_hours": 12.9,
       "within_24h": true,
       "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 2,
-      "source_count": 2,
+      "event_id": "evt-áfrica-004",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "DW English",
-        "Al Jazeera English"
+        "DW English"
       ],
       "primary_source": "DW English",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Al Jazeera English",
-          "title": "US to suspend South Africa and Rwanda from duty-free trade access",
-          "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
-        }
-      ],
       "opportunity_flag": true,
       "detailed_summary": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa South Africa and Rwanda are set to be removed from a US trade initiative that has provided duty-free access to the US market for thousands of products from sub-Saharan African countries for 26 years On Monday, US Trade Representative Jamieson Greer said US President Donald Trump intends to \"terminate\" the two countries from the African Growth and Opportunity Act (AGOA) trade preference program starting in January 2027 The program, which comes under regular review, was extended in February by Trump In a statement , Greer said that \"the governments of Rwanda and South Africa are engaging in practices that are inconsistent with AGOA's eligibility criteria.\" Greer said these practices include \"barriers that undermine American trade and investment and practices that pose a threat to US national security and foreign policy interests in the region.\" The statement did not provide any specific examples of the trade… «US to drop South Africa, Rwanda from duty-free trade initiative» deserves attention because it may change political, diplomatic or security risks. For «US to drop South Africa, Rwanda from duty-free trade initiative», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 17.44,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027 The African Growth and Opportunity Act (Agoa) allows eligible African countries to export thousands of products to the US duty-free US Trade Representative Jamieson Greer said in a statement that an annual review had found that both countries were engaging in practices inconsistent with the programme's eligibility requirements He added that the Trump administration had additionally notified the two countries of the decision The Trump administration cited barriers to US trade and investment, as well as concerns over national security and foreign policy interests in the region In Rwanda's case, Washington also raised concerns about human rights, political pluralism, the rule of law and workers' rights The move comes barely a week after Rwanda's defence ministry was hit with sanctions by US Treasury for its alleged…",
-      "why": "«Trump to remove Rwanda and South Africa from US trade deal» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "BBC Africa",
-      "published": "2026-11-02T19:33:10+00:00",
-      "age_hours": 7.2,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC Africa"
-      ],
-      "primary_source": "BBC Africa",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027 The African Growth and Opportunity Act (Agoa) allows eligible African countries to export thousands of products to the US duty-free US Trade Representative Jamieson Greer said in a statement that an annual review had found that both countries were engaging in practices inconsistent with the programme's eligibility requirements He added that the Trump administration had additionally notified the two countries of the decision The Trump administration cited barriers to US trade and investment, as well as concerns over national security and foreign policy interests in the region In Rwanda's case, Washington also raised concerns about human rights, political pluralism, the rule of law and workers' rights The move comes barely a week after Rwanda's defence ministry was hit with sanctions by US Treasury for its alleged… «Trump to remove Rwanda and South Africa from US trade deal» deserves attention because it may change political, diplomatic or security risks. For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 14.5,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "summary": "Kim Yo-jong, the sister of North Korea's leader Kim Jong Un North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance , calling the allegations \"absurd rhetoric\" Kim Yo-jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un , said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor The FBI has called on industry partners to help block transactions involving cryptocurrency accounts linked to the group \"The US has made a trite provocation of linking it with the Democratic People's Republic of Korea again,\" Kim…",
-      "why": "«North Korea denies being behind record $6.3bn Binance hack» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «North Korea denies being behind record $6.3bn Binance hack», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-03T01:23:03+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Kim Yo-jong, the sister of North Korea's leader Kim Jong Un North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance , calling the allegations \"absurd rhetoric\" Kim Yo-jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un , said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor The FBI has called on industry partners to help block transactions involving cryptocurrency accounts linked to the group \"The US has made a trite provocation of linking it with the Democratic People's Republic of Korea again,\" Kim… «North Korea denies being behind record $6.3bn Binance hack» deserves attention because it may change political, diplomatic or security risks. For «North Korea denies being behind record $6.3bn Binance hack», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 12.71,
+      "editorial_score": 14.31,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -108,15 +100,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to finance",
-      "summary": "The training took place from 19 to 29 October at the Macaneta Administrative Post, Marracuene district, and involved central-level technicians, Producer Organisation, Markets and Agribusiness Officers from the 11 Provincial Directorates of Agriculture and Fisheries (DPAP), as well as representatives of GAPI and Zambeze University (UniZambeze) The initiative aimed to strengthen participants’ capacities in using the RuralInvest (RIV20) platform, a digital tool designed for the preparation and analysis of business plans for investment in rural areas Photo: Ministério da Agricultura, Ambiente e Pescas The training forms part of the partnership between MAAP and the United Nations Food and Agriculture Organization (FAO), through its Investment Centre, under the PROMOVE Agribiz Project, funded by the European Union.",
-      "why": "«Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Mozambique: Mining company reportedly closes road to Mavonde to extract gold – O País",
+      "summary": "The road in question is the main access route to Mavonde, a region considered important for agricultural production in Manica district. With traffic interrupted, farmers and other road users are facing difficulties travelling and transporting produce and other goods Elias Djokonia has expressed concern about the situation, questioning how a mining operation was allowed to interfere with a public road “We are truly astonished. We are amazed by the Chinese company that closes the road, claiming that it wants to extract gold. And it puts the road out of use, and the alternative route will not be passable when it rains,” he said For his part, Tendai Hanguire, who has used the road for more than 30 years, said he was surprised by the interruption of traffic to make way for gold exploration and mining activities This is sad because they have closed the road we have been using since 1992. I have always driven here. This alternative route is in poor condition.",
+      "why": "«Mozambique: Mining company reportedly closes road to Mavonde to extract gold – O País» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Mozambique: Mining company reportedly closes road to Mavonde to extract gold – O País», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-11-02T14:41:42+00:00",
-      "age_hours": 12.1,
+      "published": "2026-11-03T10:27:05+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-25-technicians-trained-in-digital-tools-and-rural-business-planning-to-improve-access-to-finance/",
+      "link": "https://clubofmozambique.com/news/mozambique-mining-company-reportedly-closes-road-to-mavonde-to-extract-gold-o-pais/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -126,10 +118,41 @@
       ],
       "primary_source": "Club of Mozambique",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "The training took place from 19 to 29 October at the Macaneta Administrative Post, Marracuene district, and involved central-level technicians, Producer Organisation, Markets and Agribusiness Officers from the 11 Provincial Directorates of Agriculture and Fisheries (DPAP), as well as representatives of GAPI and Zambeze University (UniZambeze) The initiative aimed to strengthen participants’ capacities in using the RuralInvest (RIV20) platform, a digital tool designed for the preparation and analysis of business plans for investment in rural areas Photo: Ministério da Agricultura, Ambiente e Pescas The training forms part of the partnership between MAAP and the United Nations Food and Agriculture Organization (FAO), through its Investment Centre, under the PROMOVE Agribiz Project, funded by the European Union. «Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: 25 technicians trained in digital tools and rural business planning to improve access to…», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 12.48,
+      "opportunity_flag": false,
+      "detailed_summary": "The road in question is the main access route to Mavonde, a region considered important for agricultural production in Manica district. With traffic interrupted, farmers and other road users are facing difficulties travelling and transporting produce and other goods Elias Djokonia has expressed concern about the situation, questioning how a mining operation was allowed to interfere with a public road “We are truly astonished. We are amazed by the Chinese company that closes the road, claiming that it wants to extract gold. And it puts the road out of use, and the alternative route will not be passable when it rains,” he said For his part, Tendai Hanguire, who has used the road for more than 30 years, said he was surprised by the interruption of traffic to make way for gold exploration and mining activities This is sad because they have closed the road we have been using since 1992. I have always driven here. This alternative route is in poor condition. «Mozambique: Mining company reportedly closes road to Mavonde to extract gold – O País» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Mining company reportedly closes road to Mavonde to extract gold – O País», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 13.98,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "How AI giants could raise the cost of borrowing in Europe",
+      "summary": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments With more than $1 trillion (€900 billion) pouring into the artificial intelligence (AI) build-out, US tech giants are now competing with governments and companies in Europe for the same investment capital Four of the Big Five hyperscalers — Amazon , Google -owner Alphabet, Meta and Oracle — have issued around $250 billion in bonds in dollars since the beginning of 2025, according to a tally of filings to US financial regulators by AI Industry Reviews, an independent platform that evaluates AI tools. They have sold a further €37 billion ($41 billion) of bonds in euros Recently, Microsoft — the last of the Big Five to hold back — joined the AI borrowing spree with a $25 billion bond sale, all in dollars Next year, Goldman Sachs projects that total new AI hyperscaler bond sales are expected to reach $420 billion.",
+      "why": "«How AI giants could raise the cost of borrowing in Europe» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «How AI giants could raise the cost of borrowing in Europe», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "source": "DW English",
+      "published": "2026-11-03T10:27:00+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/how-ai-giants-could-raise-the-cost-of-borrowing-in-europe/a-79511985?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments With more than $1 trillion (€900 billion) pouring into the artificial intelligence (AI) build-out, US tech giants are now competing with governments and companies in Europe for the same investment capital Four of the Big Five hyperscalers — Amazon , Google -owner Alphabet, Meta and Oracle — have issued around $250 billion in bonds in dollars since the beginning of 2025, according to a tally of filings to US financial regulators by AI Industry Reviews, an independent platform that evaluates AI tools. They have sold a further €37 billion ($41 billion) of bonds in euros Recently, Microsoft — the last of the Big Five to hold back — joined the AI borrowing spree with a $25 billion bond sale, all in dollars Next year, Goldman Sachs projects that total new AI hyperscaler bond sales are expected to reach $420 billion. «How AI giants could raise the cost of borrowing in Europe» points to a concrete change in the adoption, regulation or use of technology. For «How AI giants could raise the cost of borrowing in Europe», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "editorial_score": 13.98,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -137,17 +160,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Government approves 20-year extension for Kenmare’s mining operations",
-      "summary": "Maputo, 02 Nov (AIM) – The Irish company Kenmare Resources, which has been mining the heavy mineral sands in Moma and Larde districts, in the northern Mozambican province of Nampula, has announced that the Council of Ministers (cabinet) has approved a 20-year extension for its operations in the country. According to Miningmx, citing Kenmare’s statement addressed Mozambique’ stock exchange, agreement for the processing and export of heavy sands by Kenmare will run in until 2044. Royalties based on gross revenue will increase from one to three percent between 2025 and 2029, to four percent between 2030 and 2034, and to five percent between 2035 and 2044. Certain services contracted abroad are subject to a 20 percent withholding tax. “The company commits to investing at least 200 million dollars in equipment and infrastructure, plus an additional 50 million dollars in social projects, during the extension period”, said Kenmare Managing Director Tom Hickey, cieted in the document. He also downplayed the additional burden of the 200 million dollar commitment.",
-      "why": "«Government approves 20-year extension for Kenmare’s mining operations» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Government approves 20-year extension for Kenmare’s mining operations», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "title": "Agricultural Campaign Plan budgeted at 189.8 million dollars launched",
+      "summary": "Maputo, 03 Nov (AIM) – Mozambique’s Agriculture Ministry on Monday launched 2026/27 Agricultural Campaign Plan budgeted at 189.8 million US dollars aimed at “transforming the agricultural sector through a sustainable increase in production and productivity, the integration of value chains and the strengthening of producers’ competitiveness, promoting the transition from subsistence farming to a market-oriented commercial sector.” The plan is funded by the World Bank, the African Development Bank and the International Fund for Agricultural Development (IFAD). In a statement, the Ministry’s explains that the plan was presented during an Agricultural Campaign preparation meeting chaired by Agriculture Minister Roberto Albino. The minister challenged managers of projects being implemented by the Ministry of Agriculture, to ensure that their interventions converge, so as to contribute to meeting the targets set for the 2026/27 Agricultural Campaign, in line with the private-sector-centred operational model. “The Plan is mandatory. We are no longer here to discuss it.",
+      "why": "«Agricultural Campaign Plan budgeted at 189.8 million dollars launched» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Agricultural Campaign Plan budgeted at 189.8 million dollars launched», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "AIM News",
-      "published": "2026-11-02T10:44:18+00:00",
-      "age_hours": 16.1,
+      "published": "2026-11-03T08:37:59+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/02/government-approves-20-year-extension-for-kenmares-mining-operations/",
+      "link": "https://aimnews.org/2026/11/03/agricultural-campaign-plan-budgeted-at-189-8-million-dollars-launched/",
       "original_source": true,
-      "event_id": "evt-mocambique-008",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -156,114 +179,28 @@
       "primary_source": "AIM News",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 02 Nov (AIM) – The Irish company Kenmare Resources, which has been mining the heavy mineral sands in Moma and Larde districts, in the northern Mozambican province of Nampula, has announced that the Council of Ministers (cabinet) has approved a 20-year extension for its operations in the country. According to Miningmx, citing Kenmare’s statement addressed Mozambique’ stock exchange, agreement for the processing and export of heavy sands by Kenmare will run in until 2044. Royalties based on gross revenue will increase from one to three percent between 2025 and 2029, to four percent between 2030 and 2034, and to five percent between 2035 and 2044. Certain services contracted abroad are subject to a 20 percent withholding tax. “The company commits to investing at least 200 million dollars in equipment and infrastructure, plus an additional 50 million dollars in social projects, during the extension period”, said Kenmare Managing Director Tom Hickey, cieted in the document. He also downplayed the additional burden of the 200 million dollar commitment. «Government approves 20-year extension for Kenmare’s mining operations» is worth following because of its possible economic, institutional or regional effects. For «Government approves 20-year extension for Kenmare’s mining operations», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 11.65,
+      "detailed_summary": "Maputo, 03 Nov (AIM) – Mozambique’s Agriculture Ministry on Monday launched 2026/27 Agricultural Campaign Plan budgeted at 189.8 million US dollars aimed at “transforming the agricultural sector through a sustainable increase in production and productivity, the integration of value chains and the strengthening of producers’ competitiveness, promoting the transition from subsistence farming to a market-oriented commercial sector.” The plan is funded by the World Bank, the African Development Bank and the International Fund for Agricultural Development (IFAD). In a statement, the Ministry’s explains that the plan was presented during an Agricultural Campaign preparation meeting chaired by Agriculture Minister Roberto Albino. The minister challenged managers of projects being implemented by the Ministry of Agriculture, to ensure that their interventions converge, so as to contribute to meeting the targets set for the 2026/27 Agricultural Campaign, in line with the private-sector-centred operational model. “The Plan is mandatory. We are no longer here to discuss it. «Agricultural Campaign Plan budgeted at 189.8 million dollars launched» helps explain a concrete economic or business change relevant to Moçambique. For «Agricultural Campaign Plan budgeted at 189.8 million dollars launched», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 12.6,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
+        "Economia",
         "Segurança"
       ],
-      "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
-      "summary": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached",
-      "why": "«Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-03T00:00:00+00:00",
-      "age_hours": 2.8,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached. «Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’» deserves attention because it may change political, diplomatic or security risks. For «Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.42,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "What might Trump have planned for Iran following the midterm election?",
-      "summary": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace The US Republican Party is entering the midterm elections with Donald Trump 's administration seemingly unable to either win or diplomatically resolve the Iran war .",
-      "why": "«What might Trump have planned for Iran following the midterm election?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «What might Trump have planned for Iran following the midterm election?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-11-02T15:41:00+00:00",
-      "age_hours": 11.1,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-017",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace The US Republican Party is entering the midterm elections with Donald Trump 's administration seemingly unable to either win or diplomatically resolve the Iran war . «What might Trump have planned for Iran following the midterm election?» deserves attention because it may change political, diplomatic or security risks. For «What might Trump have planned for Iran following the midterm election?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 10.69,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique: The marks of time on Avenida das Indústrias",
-      "summary": "Companhia Vidreira de Moçambique, Caju de Moçambique, Zuid, Fibriclass [Fibreglass], Pintex, Mobilarte, Embalagens de Moçambique (Metal Box), FACOL – Fábrica de Colas e Adesivos de Moçambique, Metal África, Comec and Pro-Caju are just some of the names that left their mark on the industrial sector along that corridor. Decades later, many of these names survive only in collective memory and as geographical landmarks, associated, for example, with passenger transport stops Indeed, the current scene contrasts sharply with the dynamism of bygone years. Where industrial activity once thrived, all that remains are dilapidated buildings, ruins and premises left abandoned, while other facilities have been repurposed for new activities, particularly commerce, whose capacity to absorb labour is nowhere near that once provided by the former factories Companhia Vidreira de Moçambique, or simply Vidreira, founded in 1958 and described as the only facility of its kind in the country, is one of the industrial enterprises that still retains architectural features from the colonial period.",
-      "why": "«Mozambique: The marks of time on Avenida das Indústrias» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Mozambique: The marks of time on Avenida das Indústrias», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-11-02T14:33:31+00:00",
-      "age_hours": 12.2,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-the-marks-of-time-on-avenida-das-industrias/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Companhia Vidreira de Moçambique, Caju de Moçambique, Zuid, Fibriclass [Fibreglass], Pintex, Mobilarte, Embalagens de Moçambique (Metal Box), FACOL – Fábrica de Colas e Adesivos de Moçambique, Metal África, Comec and Pro-Caju are just some of the names that left their mark on the industrial sector along that corridor. Decades later, many of these names survive only in collective memory and as geographical landmarks, associated, for example, with passenger transport stops Indeed, the current scene contrasts sharply with the dynamism of bygone years. Where industrial activity once thrived, all that remains are dilapidated buildings, ruins and premises left abandoned, while other facilities have been repurposed for new activities, particularly commerce, whose capacity to absorb labour is nowhere near that once provided by the former factories Companhia Vidreira de Moçambique, or simply Vidreira, founded in 1958 and described as the only facility of its kind in the country, is one of the industrial enterprises that still retains architectural features from the colonial period. «Mozambique: The marks of time on Avenida das Indústrias» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: The marks of time on Avenida das Indústrias», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 10.46,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Indonesia's toxic haze is giving its neighbours a political headache",
-      "summary": "The haze stemming from wildfires in Indonesia has drifted into Singapore and Malaysia The haze billowing out from wildfires in the Indonesian regions of Kalimantan, Papua and Sumatra knows no borders Carried by winds to nearby Singapore and Malaysia, the toxic smog has in recent weeks impacted populations across maritime South East Asia, triggering respiratory illnesses and headaches It's also giving the region's governments a different kind of headache - split between the mounting frustrations of their citizens and the risk of souring diplomatic ties with Indonesia \"People are fed up, angry and anxious,\" Eugene Tan, associate professor of law at the Singapore Management University, tells the BBC.",
-      "why": "«Indonesia's toxic haze is giving its neighbours a political headache» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Indonesia's toxic haze is giving its neighbours a political headache», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "Kim Yo Jong, the sister of North Korea's leader Kim Jong Un North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance , calling the allegations \"absurd rhetoric\" Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un , said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor The FBI has called on industry partners to help block transactions involving cryptocurrency accounts linked to the group \"The US has made a trite provocation of linking it with the Democratic People's Republic of Korea again,\" Kim…",
+      "why": "«North Korea denies being behind record $6.3bn Binance hack» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «North Korea denies being behind record $6.3bn Binance hack», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "BBC World",
-      "published": "2026-11-02T23:02:01+00:00",
-      "age_hours": 3.8,
+      "published": "2026-11-03T08:33:20+00:00",
+      "age_hours": 2.0,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c3dxwzjn2gw8o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-006",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -271,26 +208,26 @@
       ],
       "primary_source": "BBC World",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The haze stemming from wildfires in Indonesia has drifted into Singapore and Malaysia The haze billowing out from wildfires in the Indonesian regions of Kalimantan, Papua and Sumatra knows no borders Carried by winds to nearby Singapore and Malaysia, the toxic smog has in recent weeks impacted populations across maritime South East Asia, triggering respiratory illnesses and headaches It's also giving the region's governments a different kind of headache - split between the mounting frustrations of their citizens and the risk of souring diplomatic ties with Indonesia \"People are fed up, angry and anxious,\" Eugene Tan, associate professor of law at the Singapore Management University, tells the BBC. «Indonesia's toxic haze is giving its neighbours a political headache» is worth following because of its possible economic, institutional or regional effects. For «Indonesia's toxic haze is giving its neighbours a political headache», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.21,
+      "opportunity_flag": true,
+      "detailed_summary": "Kim Yo Jong, the sister of North Korea's leader Kim Jong Un North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance , calling the allegations \"absurd rhetoric\" Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un , said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor The FBI has called on industry partners to help block transactions involving cryptocurrency accounts linked to the group \"The US has made a trite provocation of linking it with the Democratic People's Republic of Korea again,\" Kim… «North Korea denies being behind record $6.3bn Binance hack» deserves attention because it may change political, diplomatic or security risks. For «North Korea denies being behind record $6.3bn Binance hack», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 12.58,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "África",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "HRW calls on Zambia to halt post-election crackdown",
-      "summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory",
-      "why": "«HRW calls on Zambia to halt post-election crackdown» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «HRW calls on Zambia to halt post-election crackdown», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
+      "summary": "The capital was one of the first areas to be affected, and one of the worst hit, by the war between the SAF and the RSF",
+      "why": "«Sudan’s displaced return to new challenges in war-battered Khartoum» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Sudan’s displaced return to new challenges in war-battered Khartoum», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "Al Jazeera English",
-      "published": "2026-11-02T19:40:10+00:00",
-      "age_hours": 7.1,
+      "published": "2026-11-03T09:18:48+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
+      "link": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-áfrica-002",
       "cluster_size": 1,
@@ -301,8 +238,95 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory. «HRW calls on Zambia to halt post-election crackdown» is worth following because of its possible economic, institutional or regional effects. For «HRW calls on Zambia to halt post-election crackdown», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 9.52,
+      "detailed_summary": "The capital was one of the first areas to be affected, and one of the worst hit, by the war between the SAF and the RSF. «Sudan’s displaced return to new challenges in war-battered Khartoum» deserves attention because it may change political, diplomatic or security risks. For «Sudan’s displaced return to new challenges in war-battered Khartoum», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 11.75,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "US voters head to polls for midterm elections set to define remainder of Trump's term",
+      "summary": "The crucial midterms will determine how much power President Donald Trump has to make changes in the last two years of his term Follow the latest developments from the US midterm elections on November 3, 2026: The first polling stations opened at 5 a.m. (1000 GMT) in the eastern US state of Vermont for the midterm elections Voting is to follow in Connecticut, Indiana, Kentucky, Louisiana, Maine, Missouri, New Jersey, New York and Virginia from 6 a.m. local time More than 57 million ballots were cast early in 47 states and Washington DC as of Monday. Many more votes will be cast in person on Tuesday Polling stations across the country close between 6 p.m.",
+      "why": "«US voters head to polls for midterm elections set to define remainder of Trump's term» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «US voters head to polls for midterm elections set to define remainder of Trump's term», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "DW English",
+      "published": "2026-11-03T10:16:00+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/us-voters-head-to-polls-for-midterm-elections-set-to-define-remainder-of-trump-s-term/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The crucial midterms will determine how much power President Donald Trump has to make changes in the last two years of his term Follow the latest developments from the US midterm elections on November 3, 2026: The first polling stations opened at 5 a.m. (1000 GMT) in the eastern US state of Vermont for the midterm elections Voting is to follow in Connecticut, Indiana, Kentucky, Louisiana, Maine, Missouri, New Jersey, New York and Virginia from 6 a.m. local time More than 57 million ballots were cast early in 47 states and Washington DC as of Monday. Many more votes will be cast in person on Tuesday Polling stations across the country close between 6 p.m. «US voters head to polls for midterm elections set to define remainder of Trump's term» is worth following because of its possible economic, institutional or regional effects. For «US voters head to polls for midterm elections set to define remainder of Trump's term», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.94,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "US midterm elections live: Polls due to open in test for Trump",
+      "summary": "The first results are expected on Tuesday, as polls begin to close at 23:00 GMT, but final results might take days",
+      "why": "«US midterm elections live: Polls due to open in test for Trump» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «US midterm elections live: Polls due to open in test for Trump», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-03T10:10:48+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-elections-live-polls-due-to-open-in-test-for-trump?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The first results are expected on Tuesday, as polls begin to close at 23:00 GMT, but final results might take days. «US midterm elections live: Polls due to open in test for Trump» is worth following because of its possible economic, institutional or regional effects. For «US midterm elections live: Polls due to open in test for Trump», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.94,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Uganda arrests former army deputy chief stripped of military rank",
+      "summary": "Uganda accuses Peter Elwelu of stockpiling weapons and organising activities against the government Uganda has arrested former deputy military chief and presidential adviser Peter Elwelu over allegations of involvement in activities aimed at destabilising the country Acting military spokesman Chris Magezi said Elwelu, whom he described as a \"renegade\" officer, was arrested on Monday evening and would be charged in court The arrest comes days after Uganda's defence chief, Muhoozi Kainerugaba, announced that he had stripped Elwelu of his lieutenant general rank and demoted him to a private Elwelu has not commented on the allegations Elwelu rose to prominence in 2016 when he oversaw a deadly military raid on the palace of a regional king accused of leading a separatist movement. He was subsequently appointed army chief He later rose to become the deputy chief of defence forces before being named presidential adviser In May 2024, the US government imposed sanctions on him over alleged human rights abuses, including extrajudicial killings committed by government forces.",
+      "why": "«Uganda arrests former army deputy chief stripped of military rank» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Uganda arrests former army deputy chief stripped of military rank», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-11-03T08:08:07+00:00",
+      "age_hours": 2.4,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cq398ep2lzd0o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Uganda accuses Peter Elwelu of stockpiling weapons and organising activities against the government Uganda has arrested former deputy military chief and presidential adviser Peter Elwelu over allegations of involvement in activities aimed at destabilising the country Acting military spokesman Chris Magezi said Elwelu, whom he described as a \"renegade\" officer, was arrested on Monday evening and would be charged in court The arrest comes days after Uganda's defence chief, Muhoozi Kainerugaba, announced that he had stripped Elwelu of his lieutenant general rank and demoted him to a private Elwelu has not commented on the allegations Elwelu rose to prominence in 2016 when he oversaw a deadly military raid on the palace of a regional king accused of leading a separatist movement. He was subsequently appointed army chief He later rose to become the deputy chief of defence forces before being named presidential adviser In May 2024, the US government imposed sanctions on him over alleged human rights abuses, including extrajudicial killings committed by government forces. «Uganda arrests former army deputy chief stripped of military rank» deserves attention because it may change political, diplomatic or security risks. For «Uganda arrests former army deputy chief stripped of military rank», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 10.5,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -317,11 +341,11 @@
       "impact": "For «Uganda begins withdrawing troops from Somalia after two decades», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "DW English",
       "published": "2026-11-02T12:19:00+00:00",
-      "age_hours": 14.5,
+      "age_hours": 22.2,
       "within_24h": true,
       "link": "https://www.dw.com/en/uganda-begins-withdrawing-troops-from-somalia-after-two-decades/a-79829903?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-áfrica-004",
+      "event_id": "evt-áfrica-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -331,7 +355,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Ugandan troops first deployed to Somalia in 2007 as part of an international military coalition to battle Islamic insurgents. But the mission has faced mounting pressure since a US decision to withdraw funding. «Uganda begins withdrawing troops from Somalia after two decades» is worth following because of its possible economic, institutional or regional effects. For «Uganda begins withdrawing troops from Somalia after two decades», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 7.98,
+      "editorial_score": 6.38,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -356,7 +380,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 3,
-    "África": 4,
+    "África": 5,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
