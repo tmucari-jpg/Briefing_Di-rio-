@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T10:31:12.676280+00:00",
+  "updated_at": "2026-11-03T18:16:01.160972+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,47 +8,17 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Moçambique e Malawi reforçam cooperação no combate à criminalidade transfronteiriça",
-      "summary": "Moçambique e Malawi estão a reforçar os mecanismos de cooperação no domínio da Defesa e Segurança, com vista a prevenir e combater ameaças transfronteiriças, como o tráfico de pessoas e drogas, a imigração ilegal, o contrabando e outras formas de criminalidade organizada. O assunto domina a XVII Sessão da Comissão Conjunta Permanente de Defesa e […]",
-      "why": "«Moçambique e Malawi reforçam cooperação no combate à criminalidade transfronteiriça» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Moçambique e Malawi reforçam cooperação no combate à criminalidade transfronteiriça», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-11-03T08:38:11+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-e-malawi-reforcam-cooperacao-no-combate-a-criminalidade-transfronteirica/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Moçambique e Malawi estão a reforçar os mecanismos de cooperação no domínio da Defesa e Segurança, com vista a prevenir e combater ameaças transfronteiriças, como o tráfico de pessoas e drogas, a imigração ilegal, o contrabando e outras formas de criminalidade organizada. O assunto domina a XVII Sessão da Comissão Conjunta Permanente de Defesa e […]. «Moçambique e Malawi reforçam cooperação no combate à criminalidade transfronteiriça» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Moçambique e Malawi reforçam cooperação no combate à criminalidade transfronteiriça», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.6,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia"
-      ],
-      "title": "PR endereça condolências pela morte de Tobias Dai",
-      "summary": "O Presidente da República, Daniel Chapo, endereça condolências à família de Tobias Joaquim Dai, general na Reserva das Forças Armadas de Defesa de Moçambique (FADM) e dirigente político, que perdeu a vida na noite de ontem (2 de Novembro), vítima de doença. Na mensagem, o Chefe do Estado manifesta profundo pesar pelo desaparecimento físico de Tobias Dai, sublinhando que dedicou parte da sua vida ao serviço da pátria, tendo desempenhado diversas funções de responsabilidade no Estado e na vida política nacional. Entre outras funções, exerceu as funções de Ministro da Defesa Nacional e de deputado da Assembleia da República. Salienta ainda o contributo do malogrado para o país e endereça, em nome do Governo e do povo moçambicano, e em seu próprio, as mais sentidas condolências à família enlutada, aos amigos, colegas e companheiros de luta. A mensagem de fundo é que encontrem conforto e força para enfrentar esta perda irreparável. Ao mesmo tempo, Chapo enaltece a memória de Tobias Joaquim Dai e o seu percurso de serviço à nação moçambicana.",
-      "why": "«PR endereça condolências pela morte de Tobias Dai» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «PR endereça condolências pela morte de Tobias Dai», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "title": "Governo cria Zona Económica Especial da Moamba",
+      "summary": "O governo acaba de criar a Zona Económica Especial da Moamba, localizada no distrito com o mesmo nome, na província de Maputo, abrangendo uma área territorial de 64 mil hectares, que inclui ainda parte dos postos administrativos de Moamba-Sede, Pessene e Ressano Garcia. De acordo com o porta-voz do Governo, Inocêncio Impissa, falando, no fim da 32ª sessão do Conselho de Ministros, a iniciativa visa incrementar a capacidade produtiva e comercial, ampliar a base tributária, estimular a criação de ecossistemas de inovação, promover o emprego e contribuir para a geração de divisas para o país mediante a concentração de regimes de incentivo, procedimentos simplificados e mecanismos de facilitação da atividade económica e de investimentos.",
+      "why": "«Governo cria Zona Económica Especial da Moamba» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Governo cria Zona Económica Especial da Moamba», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Jornal Notícias",
-      "published": "2026-11-03T08:44:03+00:00",
-      "age_hours": 1.8,
+      "published": "2026-11-03T17:29:47+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/pr-endereca-condolencias-pela-morte-de-tobias-dai/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/governo-cria-zona-economica-especial-da-moamba/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -58,57 +28,66 @@
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, endereça condolências à família de Tobias Joaquim Dai, general na Reserva das Forças Armadas de Defesa de Moçambique (FADM) e dirigente político, que perdeu a vida na noite de ontem (2 de Novembro), vítima de doença. Na mensagem, o Chefe do Estado manifesta profundo pesar pelo desaparecimento físico de Tobias Dai, sublinhando que dedicou parte da sua vida ao serviço da pátria, tendo desempenhado diversas funções de responsabilidade no Estado e na vida política nacional. Entre outras funções, exerceu as funções de Ministro da Defesa Nacional e de deputado da Assembleia da República. Salienta ainda o contributo do malogrado para o país e endereça, em nome do Governo e do povo moçambicano, e em seu próprio, as mais sentidas condolências à família enlutada, aos amigos, colegas e companheiros de luta. A mensagem de fundo é que encontrem conforto e força para enfrentar esta perda irreparável. Ao mesmo tempo, Chapo enaltece a memória de Tobias Joaquim Dai e o seu percurso de serviço à nação moçambicana. «PR endereça condolências pela morte de Tobias Dai» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «PR endereça condolências pela morte de Tobias Dai», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.62,
+      "opportunity_flag": true,
+      "detailed_summary": "O governo acaba de criar a Zona Económica Especial da Moamba, localizada no distrito com o mesmo nome, na província de Maputo, abrangendo uma área territorial de 64 mil hectares, que inclui ainda parte dos postos administrativos de Moamba-Sede, Pessene e Ressano Garcia. De acordo com o porta-voz do Governo, Inocêncio Impissa, falando, no fim da 32ª sessão do Conselho de Ministros, a iniciativa visa incrementar a capacidade produtiva e comercial, ampliar a base tributária, estimular a criação de ecossistemas de inovação, promover o emprego e contribuir para a geração de divisas para o país mediante a concentração de regimes de incentivo, procedimentos simplificados e mecanismos de facilitação da atividade económica e de investimentos. «Governo cria Zona Económica Especial da Moamba» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo cria Zona Económica Especial da Moamba», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 14.83,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Governo Quer Transformar Investigação Científica em Soluções Para o Sector da Saúde",
-      "summary": "O ministro da Saúde, Ussene Isse, defendeu, esta segunda-feira, 2 de Novembro, em Maputo, que Moçambique deve transformar o conhecimento produzido pela investigação científica em soluções concretas para os problemas […]",
-      "why": "«Governo Quer Transformar Investigação Científica em Soluções Para o Sector da Saúde» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo Quer Transformar Investigação Científica em Soluções Para o Sector da Saúde», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "title": "Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça",
+      "summary": "Os Governos de Moçambique e do Maláui estão a analisar novas medidas para reforçar a cooperação nos domínios da defesa e segurança, com destaque para o combate à criminalidade transfronteiriça, […]",
+      "why": "«Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Diário Económico",
-      "published": "2026-11-03T08:43:28+00:00",
-      "age_hours": 1.8,
+      "published": "2026-11-03T13:15:00+00:00",
+      "age_hours": 5.0,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/03/trends/ciencia/governo-quer-transformar-investigacao-cientifica-em-solucoes-para-o-sector-da-saude/",
+      "link": "https://www.diarioeconomico.co.mz/2026/11/03/desenvolvimento-2/mocambique-e-malaui-reforcam-cooperacao-militar-para-combater-criminalidade-transfronteirica/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 2,
+      "source_count": 2,
       "sources": [
-        "Diário Económico"
+        "Diário Económico",
+        "AIM Notícias"
       ],
       "primary_source": "Diário Económico",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O ministro da Saúde, Ussene Isse, defendeu, esta segunda-feira, 2 de Novembro, em Maputo, que Moçambique deve transformar o conhecimento produzido pela investigação científica em soluções concretas para os problemas […]. «Governo Quer Transformar Investigação Científica em Soluções Para o Sector da Saúde» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo Quer Transformar Investigação Científica em Soluções Para o Sector da Saúde», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.62,
+      "confirmations": [
+        {
+          "source": "AIM Notícias",
+          "title": "Moçambique e Malawi reforçam coordenação militar e policial para combater ameaças transfronteiriças",
+          "link": "https://aimnews.org/2026/11/03/mocambique-e-malawi-reforcam-coordenacao-militar-e-policial-para-combater-ameacas-transfronteiricas/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Os Governos de Moçambique e do Maláui estão a analisar novas medidas para reforçar a cooperação nos domínios da defesa e segurança, com destaque para o combate à criminalidade transfronteiriça, […]. «Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 14.46,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "IA",
+        "Segurança"
       ],
-      "title": "Moscovo reclamou ataque contra instalações de energia ucranianas",
-      "summary": "As forças russas reclamaram hoje um ataque com mísseis e drones contra instalações de produção e distribuição de energia nas regiões ucranianas de Vinnitsia, Dnipropetrovsk e Kharkiv De acordo com o Ministério da Defesa russo, os ataques foram também dirigidos contra as infraestruturas portuárias e embarcações em Odessa, no Mar Negro, sul da Ucrânia Em concreto, o Governo russo disse que os ataques ocorreram durante a última noite contra o complexo energético da Ucrânia nas regiões de Vinnitsia, Dnipropetrovsk e Kharkiv, que forneciam eletricidade a empresas da indústria militar e a instalações das Forças Armadas ucranianas O Ministério da Defesa detalhou que na região de Vinnitsia foi atacada a central termoelétrica de Ladyzhyn, com uma potência de 1.800 megawatts; em Dnipropetrovsk, foram danificadas as centrais termoelétricas de Kryvyi Rih (2.800 megawatts) e Prydniprovska (1.765 megawatts) Na região de Kharkiv, foram visadas a central termoelétrica de Kharkiv (86 megawatts) e as subestações de Zmiiv e Losevo, ambas de 330 quilovolts Na região de Odessa, foram atacadas as…",
-      "why": "«Moscovo reclamou ataque contra instalações de energia ucranianas» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Moscovo reclamou ataque contra instalações de energia ucranianas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas",
+      "summary": "Um ciberataque aos sistemas de segurança dos refrigeradores e congeladores de supermercados europeus é apenas um sinal da ameaça que se tornará cada vez mais frequente, alertou o responsável pela cibersegurança do Reino Unido, Richard Horne",
+      "why": "«Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-11-03T08:09:42+00:00",
-      "age_hours": 2.4,
+      "published": "2026-11-03T17:12:42+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/moscovo-reclamou-ataque-contra-instalacoes-de-energia-ucranianas_n1776505",
+      "link": "https://www.rtp.pt/noticias/mundo/centro-de-ciberseguranca-exige-tomada-de-medidas-urgentes-para-tecnologias-desatualizadas_n1776613",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -117,8 +96,8 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "As forças russas reclamaram hoje um ataque com mísseis e drones contra instalações de produção e distribuição de energia nas regiões ucranianas de Vinnitsia, Dnipropetrovsk e Kharkiv De acordo com o Ministério da Defesa russo, os ataques foram também dirigidos contra as infraestruturas portuárias e embarcações em Odessa, no Mar Negro, sul da Ucrânia Em concreto, o Governo russo disse que os ataques ocorreram durante a última noite contra o complexo energético da Ucrânia nas regiões de Vinnitsia, Dnipropetrovsk e Kharkiv, que forneciam eletricidade a empresas da indústria militar e a instalações das Forças Armadas ucranianas O Ministério da Defesa detalhou que na região de Vinnitsia foi atacada a central termoelétrica de Ladyzhyn, com uma potência de 1.800 megawatts; em Dnipropetrovsk, foram danificadas as centrais termoelétricas de Kryvyi Rih (2.800 megawatts) e Prydniprovska (1.765 megawatts) Na região de Kharkiv, foram visadas a central termoelétrica de Kharkiv (86 megawatts) e as subestações de Zmiiv e Losevo, ambas de 330 quilovolts Na região de Odessa, foram atacadas as… «Moscovo reclamou ataque contra instalações de energia ucranianas» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Moscovo reclamou ataque contra instalações de energia ucranianas», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 12.5,
+      "detailed_summary": "Um ciberataque aos sistemas de segurança dos refrigeradores e congeladores de supermercados europeus é apenas um sinal da ameaça que se tornará cada vez mais frequente, alertou o responsável pela cibersegurança do Reino Unido, Richard Horne. «Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 12.77,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -127,17 +106,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Educação e privados procuram formação focada no mercado",
-      "summary": "CONCEBER um modelo de formação que responda às exigências do mercado constituiu a tónica dominante do encontro realizado ontem em Maputo, entre o Ministério da Educação e Cultura, e o sector privado, representado pela Confederação das Associações Económicas de Moçambique (CTA). Há, para já, um consenso de que os graduados que chegam ao mercado de trabalho estão longe de responder cabalmente às necessidades do mercado laboral, o que denota o desfasamento entre o currículo de ensino e as prioridades das empresas e do desenvolvimento do país. É neste contexto que o ministro da Educação e Cultura, Edson Macuácua, explicou que há interesse de ambas as partes de ampliar as parcerias e promover o envolvimento de diferentes actores na melhoria da qualidade do ensino. Detalhou que a colaboração prevê a conjugação da teoria e prática, através do acompanhamento dos estudantes nas salas de aula e locais de trabalho, assegurando que, ainda durante a formação, desenvolvam habilidades profissionais.",
-      "why": "«Educação e privados procuram formação focada no mercado» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Educação e privados procuram formação focada no mercado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "title": "Novos gestores para EMODRAGA e Agência do Vale do Zambeze",
+      "summary": "O Governo acaba de nomear, Celso Lourenço da Cunha, para o cargo de presidente do Conselho de Administração da Agência de Desenvolvimento do Vale do Zambeze. Numa outra resolução da 32ª sessão do Conselho de Ministro, foi nomeado Paulo Jafar Thermamat, para o cargo de presidente do Conselho de Administração da Empresa Moçambicana de Dragagem (EMODRAGA). Na mesma sessão, o Governo apreciou a informação sobre o incêndio que deflagrou no domingo (12 de Novembro) no Serviço de Oncologia do Hospital Central de Maputo onde decorre ainda uma investigação para apurar as reais causas deste incidente. Segundo o porta-voz, Inocêncio Impissa, o Governo agradece a onda de solidariedade nacional e internacional que desde os primeiros momentos tem recebido. Ainda neste contexto, os membros do Conselho de Ministros decidiram doar um mínimo de um dia de salário por cada membro em apoio aos esforços de reposição dos serviços de Oncologia do Hospital Central de Maputo. O conteúdo Novos gestores para EMODRAGA e Agência do Vale do Zambeze aparece primeiro em Jornal Notícias",
+      "why": "«Novos gestores para EMODRAGA e Agência do Vale do Zambeze» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Novos gestores para EMODRAGA e Agência do Vale do Zambeze», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-11-03T07:36:01+00:00",
-      "age_hours": 2.9,
+      "published": "2026-11-03T16:57:23+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/educacao-e-privados-procuram-formacao-focada-no-mercado/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/novos-gestores-para-emodraga-e-agencia-do-vale-do-zambeze/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -146,27 +125,27 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "CONCEBER um modelo de formação que responda às exigências do mercado constituiu a tónica dominante do encontro realizado ontem em Maputo, entre o Ministério da Educação e Cultura, e o sector privado, representado pela Confederação das Associações Económicas de Moçambique (CTA). Há, para já, um consenso de que os graduados que chegam ao mercado de trabalho estão longe de responder cabalmente às necessidades do mercado laboral, o que denota o desfasamento entre o currículo de ensino e as prioridades das empresas e do desenvolvimento do país. É neste contexto que o ministro da Educação e Cultura, Edson Macuácua, explicou que há interesse de ambas as partes de ampliar as parcerias e promover o envolvimento de diferentes actores na melhoria da qualidade do ensino. Detalhou que a colaboração prevê a conjugação da teoria e prática, através do acompanhamento dos estudantes nas salas de aula e locais de trabalho, assegurando que, ainda durante a formação, desenvolvam habilidades profissionais. «Educação e privados procuram formação focada no mercado» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Educação e privados procuram formação focada no mercado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.4,
+      "detailed_summary": "O Governo acaba de nomear, Celso Lourenço da Cunha, para o cargo de presidente do Conselho de Administração da Agência de Desenvolvimento do Vale do Zambeze. Numa outra resolução da 32ª sessão do Conselho de Ministro, foi nomeado Paulo Jafar Thermamat, para o cargo de presidente do Conselho de Administração da Empresa Moçambicana de Dragagem (EMODRAGA). Na mesma sessão, o Governo apreciou a informação sobre o incêndio que deflagrou no domingo (12 de Novembro) no Serviço de Oncologia do Hospital Central de Maputo onde decorre ainda uma investigação para apurar as reais causas deste incidente. Segundo o porta-voz, Inocêncio Impissa, o Governo agradece a onda de solidariedade nacional e internacional que desde os primeiros momentos tem recebido. Ainda neste contexto, os membros do Conselho de Ministros decidiram doar um mínimo de um dia de salário por cada membro em apoio aos esforços de reposição dos serviços de Oncologia do Hospital Central de Maputo. O conteúdo Novos gestores para EMODRAGA e Agência do Vale do Zambeze aparece primeiro em Jornal Notícias. «Novos gestores para EMODRAGA e Agência do Vale do Zambeze» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Novos gestores para EMODRAGA e Agência do Vale do Zambeze», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.73,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Moçambique",
       "tags": [
         "Economia"
       ],
-      "title": "EUA excluem África do Sul e Ruanda do acordo comercial AGOA",
-      "summary": "Os Estados Unidos da América (EUA) anunciaram a exclusão da África do Sul e do Ruanda da Lei de Crescimento e Oportunidades para África (AGOA), um acordo que concede aos países elegíveis da África Subsaariana acesso preferencial ao mercado norte-americano, sem tarifas aduaneiras sobre determinados produtos. Segundo o African News, a decisão foi comunicada na […]",
-      "why": "«EUA excluem África do Sul e Ruanda do acordo comercial AGOA» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «EUA excluem África do Sul e Ruanda do acordo comercial AGOA», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "title": "Ruptura de conduta de água na Junta provoca condicionamento no trânsito",
+      "summary": "A ruptura de uma conduta de abastecimento de água está a provocar constrangimentos na circulação rodoviária, na Avenida de Moçambique, depois de uma escavação realizada para a passagem de cabos eléctricos da Electricidade de Moçambique (EDM). A abertura do terreno foi efectuada durante o fim-de-semana, com o objectivo de permitir a instalação de cabos de […]",
+      "why": "«Ruptura de conduta de água na Junta provoca condicionamento no trânsito» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Ruptura de conduta de água na Junta provoca condicionamento no trânsito», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
-      "published": "2026-11-03T09:38:40+00:00",
-      "age_hours": 0.9,
+      "published": "2026-11-03T12:08:33+00:00",
+      "age_hours": 6.1,
       "within_24h": true,
-      "link": "https://opais.co.mz/eua-excluem-africa-do-sul-e-ruanda-do-acordo-comercial-agoa/",
+      "link": "https://opais.co.mz/ruptura-de-conduta-de-agua-na-junta-provoca-condicionamento-no-transito/",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -175,9 +154,97 @@
       "primary_source": "O País",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Os Estados Unidos da América (EUA) anunciaram a exclusão da África do Sul e do Ruanda da Lei de Crescimento e Oportunidades para África (AGOA), um acordo que concede aos países elegíveis da África Subsaariana acesso preferencial ao mercado norte-americano, sem tarifas aduaneiras sobre determinados produtos. Segundo o African News, a decisão foi comunicada na […]. «EUA excluem África do Sul e Ruanda do acordo comercial AGOA» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «EUA excluem África do Sul e Ruanda do acordo comercial AGOA», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 11.81,
+      "detailed_summary": "A ruptura de uma conduta de abastecimento de água está a provocar constrangimentos na circulação rodoviária, na Avenida de Moçambique, depois de uma escavação realizada para a passagem de cabos eléctricos da Electricidade de Moçambique (EDM). A abertura do terreno foi efectuada durante o fim-de-semana, com o objectivo de permitir a instalação de cabos de […]. «Ruptura de conduta de água na Junta provoca condicionamento no trânsito» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Ruptura de conduta de água na Junta provoca condicionamento no trânsito», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 11.73,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU",
+      "summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário",
+      "why": "«Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "RTP Notícias",
+      "published": "2026-11-03T15:32:47+00:00",
+      "age_hours": 2.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/impasse-no-saara-ocidental-eua-e-russia-bloqueiam-missao-da-onu_v1776597",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário. «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 11.44,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027",
+      "summary": "O Fundo de Energia (FUNAE) prevê iniciar, em 2027, a construção de 100 mini-redes solares nas províncias da Zambézia, Tete e Niassa, num investimento estimado em 50 milhões de dólares. […]",
+      "why": "«FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-11-03T14:15:00+00:00",
+      "age_hours": 4.0,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/11/03/energia-3/funae-vai-investir-50-milhoes-de-dolares-em-100-mini-redes-solares-a-partir-de-2027/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Fundo de Energia (FUNAE) prevê iniciar, em 2027, a construção de 100 mini-redes solares nas províncias da Zambézia, Tete e Niassa, num investimento estimado em 50 milhões de dólares. […]. «FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 11.17,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "África Austral lança plataforma regional para monitorar mercado de trabalho",
+      "summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas",
+      "why": "«África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
+      "impact": "No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Notícias ONU",
+      "published": "2026-11-03T12:00:00+00:00",
+      "age_hours": 6.3,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854812",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas. «África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 10.69,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -185,40 +252,27 @@
       "tags": [
         "Economia"
       ],
-      "title": "Dia de intercalares nos Estados Unidos. Eleições podem transformar Trump em presidente \"coxo\"",
-      "summary": "O objetivo concreto destas eleições é eleger um novo Congresso, mas o que as intercalares significam é mais profundo. Esta ida a votos dos norte-americanos funciona como um teste para o presidente, porque surgem a meio do mandato e ajudam a definir o rumo político dos Estados Unidos",
-      "why": "«Dia de intercalares nos Estados Unidos. Eleições podem transformar Trump em presidente \"coxo\"» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Dia de intercalares nos Estados Unidos. Eleições podem transformar Trump em presidente \"coxo\"», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Protestos estudantis regressam a França",
+      "summary": "Os estudantes prometem regressar aos protestos e não desistir da contestação, em resposta às medidas anunciadas pelo governo, que consideram insuficientes. No regresso às aulas, mais de 40 escolas estão já bloqueadas",
+      "why": "«Protestos estudantis regressam a França» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Protestos estudantis regressam a França», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-11-03T06:49:04+00:00",
-      "age_hours": 3.7,
+      "published": "2026-11-03T15:54:00+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/dia-de-intercalares-nos-estados-unidos-eleicoes-podem-transformar-trump-em-presidente-coxo_n1775567",
+      "link": "https://www.rtp.pt/noticias/mundo/protestos-estudantis-regressam-a-franca_n1776602",
       "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 5,
-      "source_count": 2,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "RTP Notícias",
-        "Euronews Português"
+        "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Euronews Português",
-          "title": "Estados Unidos atacam alvos iranianos na ilha de Qeshm na véspera das intercalares",
-          "link": "https://pt.euronews.com/2026/11/03/estados-unidos-atacam-alvos-iranianos-na-ilha-de-qeshm-na-vespera-das-intercalares"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Trump diz que eleições legislativas de terça-feira são as mais importantes dos EUA",
-          "link": "https://www.rtp.pt/noticias/mundo/trump-diz-que-eleicoes-legislativas-de-terca-feira-sao-as-mais-importantes-dos-eua_n1776450"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "O objetivo concreto destas eleições é eleger um novo Congresso, mas o que as intercalares significam é mais profundo. Esta ida a votos dos norte-americanos funciona como um teste para o presidente, porque surgem a meio do mandato e ajudam a definir o rumo político dos Estados Unidos. «Dia de intercalares nos Estados Unidos. Eleições podem transformar Trump em presidente \"coxo\"» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Dia de intercalares nos Estados Unidos. Eleições podem transformar Trump em presidente \"coxo\"», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 11.73,
+      "detailed_summary": "Os estudantes prometem regressar aos protestos e não desistir da contestação, em resposta às medidas anunciadas pelo governo, que consideram insuficientes. No regresso às aulas, mais de 40 escolas estão já bloqueadas. «Protestos estudantis regressam a França» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Protestos estudantis regressam a França», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.5,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -234,69 +288,98 @@
       "impact": "No caso de «Eleições Municipais na África do Sul. Segurança mobiliza 10 mil militares», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-11-02T15:45:47+00:00",
-      "age_hours": 18.8,
-      "within_24h": true,
+      "age_hours": 26.5,
+      "within_24h": false,
       "link": "https://www.rtp.pt/noticias/mundo/eleicoes-municipais-na-africa-do-sul-seguranca-mobiliza-10-mil-militares_v1776370",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "As eleições, a 4 de novembro, realizam-se num clima de tensão social, marcado pelo desemprego, pela crise dos serviços públicos e pelo crescente descontentamento face à imigração. O fortalecimento dos movimentos anti-imigração levou os partidos a endurecer o discurso, colocando o tema no centro do debate político e da estabilidade do país. Algumas lideranças têm usado essa retórica para conquistar votos numa altura de crescente instabilidade/ Antevisão. «Eleições Municipais na África do Sul. Segurança mobiliza 10 mil militares» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Eleições Municipais na África do Sul. Segurança mobiliza 10 mil militares», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 11.08,
+      "editorial_score": 10.42,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes",
+      "summary": "Agência das Nações Unidas para Migrações, OIM, afirma que onda de desinformação está aprofundando polarização e desconfiança dentro das comunidades; informações enganosas circulam nas redes sociais, com impulso da Inteligência Artificial",
+      "why": "«ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-11-03T12:00:00+00:00",
+      "age_hours": 6.3,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854820",
+      "original_source": true,
+      "event_id": "evt-mundo-006",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Agência das Nações Unidas para Migrações, OIM, afirma que onda de desinformação está aprofundando polarização e desconfiança dentro das comunidades; informações enganosas circulam nas redes sociais, com impulso da Inteligência Artificial. «ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 9.69,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "ENH entra na perfuração offshore",
-      "summary": "Maputo, 02 de Nov (AIM) – A Empresa Nacional de Hidrocarbonetos (ENH), assumi pela primeira vez, através da ENH-Saipem Drilling Company, S.A., um papel operacional directo numa campanha de perfuração e completação de poços offshore. A participação no projecto Coral Norte FLNG, na Área 4 da Bacia do Rovuma, em Cabo Delgado, representa um avanço na capacitação técnica nacional, no reforço do conteúdo local e na concretização da decisão do Conselho de Ministros de permitir que a empresa moçambicana participe como operadora no sector. Participação da ENH na campanha de perfuração do projecto Coral Norte FLNG reforça a ambição da empresa de assumir um papel cada vez mais activo na indústria dos hidrocarbonetos. A iniciativa representa um avanço significativo na participação nacional em actividades de elevada complexidade técnica e exigência de capital, tradicionalmente dominadas por grandes operadores internacionais.",
-      "why": "«ENH entra na perfuração offshore» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «ENH entra na perfuração offshore», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-02T19:22:17+00:00",
-      "age_hours": 15.1,
+      "title": "Jornalista premiada denunciou casos de abuso sexual por militares no México",
+      "summary": "Zorayda Gallegos realizou investigação por 12 anos acompanhando mais de 520 mulheres no país; ela fala de impunidade e retaliações às vítimas e aos jornalistas; entrega do Prêmio Breach/Valdez de Jornalismo e Direitos Humanos de 2026 coincide com Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas",
+      "why": "«Jornalista premiada denunciou casos de abuso sexual por militares no México» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Jornalista premiada denunciou casos de abuso sexual por militares no México», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-11-03T12:00:00+00:00",
+      "age_hours": 6.3,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/02/enh-entra-na-perfuracao-offshore/",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854823",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM Notícias"
+        "Notícias ONU"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Maputo, 02 de Nov (AIM) – A Empresa Nacional de Hidrocarbonetos (ENH), assumi pela primeira vez, através da ENH-Saipem Drilling Company, S.A., um papel operacional directo numa campanha de perfuração e completação de poços offshore. A participação no projecto Coral Norte FLNG, na Área 4 da Bacia do Rovuma, em Cabo Delgado, representa um avanço na capacitação técnica nacional, no reforço do conteúdo local e na concretização da decisão do Conselho de Ministros de permitir que a empresa moçambicana participe como operadora no sector. Participação da ENH na campanha de perfuração do projecto Coral Norte FLNG reforça a ambição da empresa de assumir um papel cada vez mais activo na indústria dos hidrocarbonetos. A iniciativa representa um avanço significativo na participação nacional em actividades de elevada complexidade técnica e exigência de capital, tradicionalmente dominadas por grandes operadores internacionais. «ENH entra na perfuração offshore» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «ENH entra na perfuração offshore», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 10.85,
-      "source_tier": "B",
+      "detailed_summary": "Zorayda Gallegos realizou investigação por 12 anos acompanhando mais de 520 mulheres no país; ela fala de impunidade e retaliações às vítimas e aos jornalistas; entrega do Prêmio Breach/Valdez de Jornalismo e Direitos Humanos de 2026 coincide com Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas. «Jornalista premiada denunciou casos de abuso sexual por militares no México» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Jornalista premiada denunciou casos de abuso sexual por militares no México», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.69,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Grécia: inundações arrastam carros na ilha de Rodes",
-      "summary": "Cheias arrastaram viaturas e detritos por Archangelos, em Rodes, danificando dezenas de casas e negócios, com novas tempestades ainda possíveis",
-      "why": "«Grécia: inundações arrastam carros na ilha de Rodes» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Grécia: inundações arrastam carros na ilha de Rodes», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm",
+      "summary": "O presidente do parlamento do Irão, Mohammad Bagher Ghalibaf, advertiu na terça-feira que qualquer erro estratégico dos EUA abriria “um novo campo de batalha na guerra”, horas depois de um avião da Força Aérea dos EUA ter, segundo alegações, atingido um sistema de mísseis do IRGC na ilha de Qeshm.Ghalibaf disse ao parlamento que o Irão estava no seu mais alto nível de prontidão defensiva e que a responsabilidade de evitar nova escalada recaía sobre Washington. “A bola está do lado da América para impedir a guerra”, disse.As declarações surgiram depois de moradores da ilha de Qeshm, de Hengam e de Bandar Abbas terem relatado explosões sucessivas e abalos durante a noite, segundo as agências iranianas IRNA e Fars.Meios de comunicação dos EUA noticiaram que um avião da Força Aérea norte-americana tinha atingido um sistema de lançamento de mísseis superfície-ar do IRGC na ilha, depois de um míssil ter sido disparado de Qeshm contra uma aeronave dos EUA no estreito de Ormuz.A operação foi descrita como limitada e destinada a proteger o transporte marítimo comercial.",
+      "why": "«Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-11-03T07:50:24+00:00",
-      "age_hours": 2.7,
+      "published": "2026-11-03T17:58:31+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/11/03/grecia-inundacoes-arrastam-carros-na-ilha-de-rodes",
+      "link": "https://pt.euronews.com/2026/11/03/irao-ameaca-novo-campo-de-batalha-apos-alegado-ataque-dos-eua-em-qeshm",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -305,37 +388,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Cheias arrastaram viaturas e detritos por Archangelos, em Rodes, danificando dezenas de casas e negócios, com novas tempestades ainda possíveis. «Grécia: inundações arrastam carros na ilha de Rodes» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Grécia: inundações arrastam carros na ilha de Rodes», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.44,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "\"Não restará outra opção a Delcy Rodríguez\": Jesús Armas acredita que Venezuela terá eleições livres em 2027",
-      "summary": "Desde a captura de Nicolás Maduro por forças norte-americanas, a 3 de janeiro deste ano, a Venezuela, sob a liderança da ex-vice-presidente Delcy Rodríguez, tem sido pressionada pelos Estados Unidos (EUA) a dar passos em direção a uma transição democrática.As negociações, iniciadas em agosto, deram origem, para já, a entendimentos teóricos sobre a urgência de reformar o sistema judicial, de garantir o exercício dos direitos políticos e de recuperar as reservas de ouro da Venezuela depositadas no Banco de Inglaterra.Não há ainda avanços quanto a uma data para eleições, mas é \"totalmente possível\" que venham a realizar-se em 2027, afirmou Jesús Armas, numa entrevista à Euronews em Portugal, aonde se deslocou para participar na 10.ª edição das Conferências do Estoril.Na visão do ativista torturado pelo regime de Maduro, existe margem de manobra a nível técnico e conjuntural para que se realize um sufrágio independente no próximo ano. \"Sinto que, hoje, há a vontade política da oposição, claro, e do governo dos Estados Unidos.",
-      "why": "«\"Não restará outra opção a Delcy Rodríguez\": Jesús Armas acredita que Venezuela terá eleições livres em…» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «\"Não restará outra opção a Delcy Rodríguez\": Jesús Armas acredita que Venezuela terá eleições livres em…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-03T07:23:08+00:00",
-      "age_hours": 3.1,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/03/nao-restara-outra-opcao-a-delcy-rodriguez-jesus-armas-acredita-que-venezuela-tera-eleicoes",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Desde a captura de Nicolás Maduro por forças norte-americanas, a 3 de janeiro deste ano, a Venezuela, sob a liderança da ex-vice-presidente Delcy Rodríguez, tem sido pressionada pelos Estados Unidos (EUA) a dar passos em direção a uma transição democrática.As negociações, iniciadas em agosto, deram origem, para já, a entendimentos teóricos sobre a urgência de reformar o sistema judicial, de garantir o exercício dos direitos políticos e de recuperar as reservas de ouro da Venezuela depositadas no Banco de Inglaterra.Não há ainda avanços quanto a uma data para eleições, mas é \"totalmente possível\" que venham a realizar-se em 2027, afirmou Jesús Armas, numa entrevista à Euronews em Portugal, aonde se deslocou para participar na 10.ª edição das Conferências do Estoril.Na visão do ativista torturado pelo regime de Maduro, existe margem de manobra a nível técnico e conjuntural para que se realize um sufrágio independente no próximo ano. \"Sinto que, hoje, há a vontade política da oposição, claro, e do governo dos Estados Unidos. «\"Não restará outra opção a Delcy Rodríguez\": Jesús Armas acredita que Venezuela terá eleições livres em…» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «\"Não restará outra opção a Delcy Rodríguez\": Jesús Armas acredita que Venezuela terá eleições livres em…», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.35,
+      "detailed_summary": "O presidente do parlamento do Irão, Mohammad Bagher Ghalibaf, advertiu na terça-feira que qualquer erro estratégico dos EUA abriria “um novo campo de batalha na guerra”, horas depois de um avião da Força Aérea dos EUA ter, segundo alegações, atingido um sistema de mísseis do IRGC na ilha de Qeshm.Ghalibaf disse ao parlamento que o Irão estava no seu mais alto nível de prontidão defensiva e que a responsabilidade de evitar nova escalada recaía sobre Washington. “A bola está do lado da América para impedir a guerra”, disse.As declarações surgiram depois de moradores da ilha de Qeshm, de Hengam e de Bandar Abbas terem relatado explosões sucessivas e abalos durante a noite, segundo as agências iranianas IRNA e Fars.Meios de comunicação dos EUA noticiaram que um avião da Força Aérea norte-americana tinha atingido um sistema de lançamento de mísseis superfície-ar do IRGC na ilha, depois de um míssil ter sido disparado de Qeshm contra uma aeronave dos EUA no estreito de Ormuz.A operação foi descrita como limitada e destinada a proteger o transporte marítimo comercial. «Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.94,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -350,52 +404,23 @@
       "impact": "No caso de «Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Notícias ONU",
       "published": "2026-11-02T12:00:00+00:00",
-      "age_hours": 22.5,
-      "within_24h": true,
+      "age_hours": 30.3,
+      "within_24h": false,
       "link": "https://news.un.org/feed/view/pt/story/2026/11/1854810",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "Notícias ONU"
       ],
       "primary_source": "Notícias ONU",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": true,
       "detailed_summary": "Alerta da Organização Internacional do Trabalho coloca agricultura e construção entre os setores mais vulneráveis; especialistas defendem mudanças nas jornadas laborais e medidas de proteção para reduzir os impactos do calor. «Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 7.31,
+      "editorial_score": 7.3,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "ONU reforça apoio a processo de paz após encerrar missão no Saara Ocidental",
-      "summary": "Operação terminou após impasse no Conselho de Segurança sobre renovação do mandato; secretário-geral António Guterres garante que organização segue intermediando diálogo diplomático; nota reforça que fim da missão não anula direito à autodeterminação",
-      "why": "«ONU reforça apoio a processo de paz após encerrar missão no Saara Ocidental» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «ONU reforça apoio a processo de paz após encerrar missão no Saara Ocidental», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-11-02T12:00:00+00:00",
-      "age_hours": 22.5,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854814",
-      "original_source": true,
-      "event_id": "evt-mundo-017",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Operação terminou após impasse no Conselho de Segurança sobre renovação do mandato; secretário-geral António Guterres garante que organização segue intermediando diálogo diplomático; nota reforça que fim da missão não anula direito à autodeterminação. «ONU reforça apoio a processo de paz após encerrar missão no Saara Ocidental» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «ONU reforça apoio a processo de paz após encerrar missão no Saara Ocidental», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.31,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -418,7 +443,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 3,
+    "África": 4,
     "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
