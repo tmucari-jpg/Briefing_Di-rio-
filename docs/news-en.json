@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T18:16:07.009690+00:00",
+  "updated_at": "2026-11-03T23:53:00.342988+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -17,9 +17,38 @@
       "impact": "For «Mozambique and Türkiye discuss closer economic cooperation, investment opportunities», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-11-03T18:09:17+00:00",
-      "age_hours": 0.1,
+      "age_hours": 5.7,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-and-turkiye-discuss-closer-economic-cooperation-investment-opportunities/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Talks between Minister Muhate and his Turkish counterpart focused on facilitating investment, strengthening business partnerships and identifying opportunities in the tourism, logistics, energy, construction and public works sectors The initiative aims to boost productive investment, create new opportunities for national companies and contribute to job creation in Mozambique, the Ministry of Economy’s press statement reads The 42nd session of the Standing Committee for Economic and Commercial Cooperation of the Organization of Islamic Cooperation (OIC), known as COMCEC, is being held today in Istanbul. The following infographic provides background information about the committee, its mission, and its activities In His Address to COMCEC: Secretary-General Proposes Holding an Islamic Economic Summit Starting in 2028 His Excellency the Secretary-General of the Organization of Islamic Cooperation (OIC), Mr. «Mozambique and Türkiye discuss closer economic cooperation, investment opportunities» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique and Türkiye discuss closer economic cooperation, investment opportunities», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 15.81,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique: Cabinet approves 64,000-hectare Moamba Special Economic Zone",
+      "summary": "The project aims to boost the national productive sector, according to Government spokesperson Inocêncio Impissa “The creation of the Moamba Special Economic Zone is intended to increase productive and commercial capacity, broaden the tax base and stimulate the creation of innovation ecosystems, promoting employment and contributing to the generation of foreign currency for the country through the concentration of incentive schemes, simplified procedures and mechanisms to facilitate investment,” Impissa said at the usual press conference following the Council of Ministers session READ: Mozambique, China seal agreements for industrial and health megaprojects in Moamba — Carta Also during the Cabinet session, within the framework of public administration and salary adjustments, the Government approved amendments to Annexes 2 of Decrees No. 34/2023 and No. 35/2023, of 20 June, which regulate the remuneration of members of Sovereign Bodies and Public Bodies not covered by Law No.",
+      "why": "«Mozambique: Cabinet approves 64,000-hectare Moamba Special Economic Zone» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique: Cabinet approves 64,000-hectare Moamba Special Economic Zone», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-03T18:56:24+00:00",
+      "age_hours": 4.9,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-cabinet-approves-64000-hectare-moamba-special-economic-zone/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -30,8 +59,8 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Talks between Minister Muhate and his Turkish counterpart focused on facilitating investment, strengthening business partnerships and identifying opportunities in the tourism, logistics, energy, construction and public works sectors The initiative aims to boost productive investment, create new opportunities for national companies and contribute to job creation in Mozambique, the Ministry of Economy’s press statement reads The 42nd session of the Standing Committee for Economic and Commercial Cooperation of the Organization of Islamic Cooperation (OIC), known as COMCEC, is being held today in Istanbul. The following infographic provides background information about the committee, its mission, and its activities In His Address to COMCEC: Secretary-General Proposes Holding an Islamic Economic Summit Starting in 2028 His Excellency the Secretary-General of the Organization of Islamic Cooperation (OIC), Mr. «Mozambique and Türkiye discuss closer economic cooperation, investment opportunities» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique and Türkiye discuss closer economic cooperation, investment opportunities», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 16.98,
+      "detailed_summary": "The project aims to boost the national productive sector, according to Government spokesperson Inocêncio Impissa “The creation of the Moamba Special Economic Zone is intended to increase productive and commercial capacity, broaden the tax base and stimulate the creation of innovation ecosystems, promoting employment and contributing to the generation of foreign currency for the country through the concentration of incentive schemes, simplified procedures and mechanisms to facilitate investment,” Impissa said at the usual press conference following the Council of Ministers session READ: Mozambique, China seal agreements for industrial and health megaprojects in Moamba — Carta Also during the Cabinet session, within the framework of public administration and salary adjustments, the Government approved amendments to Annexes 2 of Decrees No. 34/2023 and No. 35/2023, of 20 June, which regulate the remuneration of members of Sovereign Bodies and Public Bodies not covered by Law No. «Mozambique: Cabinet approves 64,000-hectare Moamba Special Economic Zone» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Cabinet approves 64,000-hectare Moamba Special Economic Zone», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 14.98,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -47,7 +76,7 @@
       "impact": "For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-11-03T13:28:30+00:00",
-      "age_hours": 4.8,
+      "age_hours": 10.4,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -61,7 +90,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027 The African Growth and Opportunity Act (Agoa) allows eligible African countries to export thousands of products to the US duty-free US Trade Representative Jamieson Greer said in a statement that an annual review had found that both countries were engaging in practices inconsistent with the programme's eligibility requirements He added that the Trump administration had additionally notified the two countries of the decision The Trump administration cited barriers to US trade and investment, as well as concerns over national security and foreign policy interests in the region For South Africa, the US pointed to corruption In a letter to South African President Cyril Ramaphosa, Trump said Pretoria's actions on international security and its relations and cooperation with governments of concern to Washington risked… «Trump to remove Rwanda and South Africa from US trade deal» deserves attention because it may change political, diplomatic or security risks. For «Trump to remove Rwanda and South Africa from US trade deal», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 15.0,
+      "editorial_score": 13.83,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -76,7 +105,7 @@
       "impact": "For «Opposition party organiser killed before South Africa elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "Al Jazeera English",
       "published": "2026-11-03T16:39:00+00:00",
-      "age_hours": 1.6,
+      "age_hours": 7.2,
       "within_24h": true,
       "link": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
       "original_source": true,
@@ -98,37 +127,7 @@
       ],
       "opportunity_flag": true,
       "detailed_summary": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections. «Opposition party organiser killed before South Africa elections» is worth following because of its possible economic, institutional or regional effects. For «Opposition party organiser killed before South Africa elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 14.17,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "Mining giant joins fight to stop killer toad march across Australia",
-      "summary": "Rio Tinto is ploughing millions of dollars into stopping the poisonous cane toad reaching the Pilbara region of western Australia, where the mining giant has a vast iron ore operation The firm, alongside Curtin University in Perth and others, will spend A$28m (£14.5m) building a \"toad containment zone\" to prevent the pest travelling south While the cane toad is not a direct threat to Rio Tinto's business, it produces toxins lethal to native wildlife and poses a threat to Pilbara's ecosystem Rio Tinto has previously faced criticism for destroying two sacred Aboriginal rock shelters in Pilbara which sat above tonnes of iron ore The decision cost the former chief executive his job, provoked a widespread backlash and saw Rio Tinto commit to rebuilding trust with Indigenous communities Commenting on the proposed containment zone, Roberta Hunter, a ranger in Australia's Nyangumarta Warrarn Indigenous Protected Area, said: \"Cane toads destroy the water and animals \"When toads come close to our country, we want to be there to stop them because we don't want the country to be destroyed.\" The…",
-      "why": "«Mining giant joins fight to stop killer toad march across Australia» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Mining giant joins fight to stop killer toad march across Australia», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-03T15:05:01+00:00",
-      "age_hours": 3.2,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Rio Tinto is ploughing millions of dollars into stopping the poisonous cane toad reaching the Pilbara region of western Australia, where the mining giant has a vast iron ore operation The firm, alongside Curtin University in Perth and others, will spend A$28m (£14.5m) building a \"toad containment zone\" to prevent the pest travelling south While the cane toad is not a direct threat to Rio Tinto's business, it produces toxins lethal to native wildlife and poses a threat to Pilbara's ecosystem Rio Tinto has previously faced criticism for destroying two sacred Aboriginal rock shelters in Pilbara which sat above tonnes of iron ore The decision cost the former chief executive his job, provoked a widespread backlash and saw Rio Tinto commit to rebuilding trust with Indigenous communities Commenting on the proposed containment zone, Roberta Hunter, a ranger in Australia's Nyangumarta Warrarn Indigenous Protected Area, said: \"Cane toads destroy the water and animals \"When toads come close to our country, we want to be there to stop them because we don't want the country to be destroyed.\" The… «Mining giant joins fight to stop killer toad march across Australia» deserves attention because it may change political, diplomatic or security risks. For «Mining giant joins fight to stop killer toad march across Australia», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 13.33,
+      "editorial_score": 13.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -138,16 +137,16 @@
         "Segurança"
       ],
       "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "summary": "Last month, the UN said last month that civilian casualties in Ukraine were at a \"record level\" Russian strikes on Ukraine – including on an aid centre, a hospice and a hospital – have killed at least 38 civilians and injured scores of others across Ukraine over the last 24 hours At least 33 people are known to have died in a glide bomb attack in the southern Zaporizhzhia region on Monday night, and President Volodymyr Zelensky said the number of victims was set to rise as more than 50 people could be trapped under the rubble He called the strike in Komyshuvakha village \"one of the largest mass killings committed by Russia during this war\" Ukraine had proposed to extend and expand last week's ceasefire in the Kherson region which allowed people from the frontline Russian-occupied town of Oleshky to evacuate, Zelensky added The attack on a school building being used as an aid distribution centre in Komyshuvakha was Moscow's response, he said Elsewhere, a hospice was attacked in the central city of Dnipro and a hospital was hit in the north-eastern city of Kharkiv, where Zelensky said…",
+      "summary": "More than 50 people are feared to be trapped under the rubble Russian strikes on Ukraine – including on an aid centre, a hospice and a hospital – have killed at least 38 civilians and injured scores of others over the last 24 hours At least 33 people are known to have died in a glide bomb attack in the southern Zaporizhzhia region on Monday night, and President Volodymyr Zelensky said the number of victims was set to rise as more than 50 people could be trapped under the rubble He called the strike in Komyshuvakha village \"one of the largest mass killings committed by Russia during this war\" Ukraine had proposed to extend and expand last week's ceasefire in the Kherson region which allowed people from the frontline Russian-occupied town of Oleshky to evacuate, Zelensky added The attack on a school building being used as an aid distribution centre in Komyshuvakha was Moscow's response, he said Elsewhere, a hospice was attacked in the central city of Dnipro and a hospital was hit in the north-eastern city of Kharkiv, where Zelensky said 73 people were wounded, most of them elderly…",
       "why": "«Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital» deserves attention because it may change political, diplomatic or security risks.",
       "impact": "For «Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "BBC World",
       "published": "2026-11-03T16:57:41+00:00",
-      "age_hours": 1.3,
+      "age_hours": 6.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-015",
       "cluster_size": 2,
       "source_count": 2,
       "sources": [
@@ -164,67 +163,67 @@
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Last month, the UN said last month that civilian casualties in Ukraine were at a \"record level\" Russian strikes on Ukraine – including on an aid centre, a hospice and a hospital – have killed at least 38 civilians and injured scores of others across Ukraine over the last 24 hours At least 33 people are known to have died in a glide bomb attack in the southern Zaporizhzhia region on Monday night, and President Volodymyr Zelensky said the number of victims was set to rise as more than 50 people could be trapped under the rubble He called the strike in Komyshuvakha village \"one of the largest mass killings committed by Russia during this war\" Ukraine had proposed to extend and expand last week's ceasefire in the Kherson region which allowed people from the frontline Russian-occupied town of Oleshky to evacuate, Zelensky added The attack on a school building being used as an aid distribution centre in Komyshuvakha was Moscow's response, he said Elsewhere, a hospice was attacked in the central city of Dnipro and a hospital was hit in the north-eastern city of Kharkiv, where Zelensky said… «Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital» deserves attention because it may change political, diplomatic or security risks. For «Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 13.23,
+      "detailed_summary": "More than 50 people are feared to be trapped under the rubble Russian strikes on Ukraine – including on an aid centre, a hospice and a hospital – have killed at least 38 civilians and injured scores of others over the last 24 hours At least 33 people are known to have died in a glide bomb attack in the southern Zaporizhzhia region on Monday night, and President Volodymyr Zelensky said the number of victims was set to rise as more than 50 people could be trapped under the rubble He called the strike in Komyshuvakha village \"one of the largest mass killings committed by Russia during this war\" Ukraine had proposed to extend and expand last week's ceasefire in the Kherson region which allowed people from the frontline Russian-occupied town of Oleshky to evacuate, Zelensky added The attack on a school building being used as an aid distribution centre in Komyshuvakha was Moscow's response, he said Elsewhere, a hospice was attacked in the central city of Dnipro and a hospital was hit in the north-eastern city of Kharkiv, where Zelensky said 73 people were wounded, most of them elderly… «Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital» deserves attention because it may change political, diplomatic or security risks. For «Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 12.06,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique: Water supply to Maputo Airport partially disrupted on Tuesday after fault in Chamanculo – ADM",
-      "summary": "“As a result of this incident, the water supply to Maputo International Airport is partially restricted, with facilities operating at only minimum levels of water delivery. This may cause temporary disruption to some services,” reads the note Mozambique Airports says it is monitoring the situation in coordination with the relevant authorities, with a view to restoring normal water supply as soon as possible ADM also regrets any inconvenience caused and thanks passengers, users and partners of Maputo International Airport for their understanding and cooperation Source: Aeroportos de Moçambique / Press Release",
-      "why": "«Mozambique: Water supply to Maputo Airport partially disrupted on Tuesday after fault in Chamanculo – ADM» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Mozambique: Water supply to Maputo Airport partially disrupted on Tuesday after fault in Chamanculo – ADM», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-11-03T17:32:40+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-water-supply-to-maputo-airport-partially-disrupted-on-tuesday-after-fault-in-chamanculo-adm/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "“As a result of this incident, the water supply to Maputo International Airport is partially restricted, with facilities operating at only minimum levels of water delivery. This may cause temporary disruption to some services,” reads the note Mozambique Airports says it is monitoring the situation in coordination with the relevant authorities, with a view to restoring normal water supply as soon as possible ADM also regrets any inconvenience caused and thanks passengers, users and partners of Maputo International Airport for their understanding and cooperation Source: Aeroportos de Moçambique / Press Release. «Mozambique: Water supply to Maputo Airport partially disrupted on Tuesday after fault in Chamanculo – ADM» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Water supply to Maputo Airport partially disrupted on Tuesday after fault in Chamanculo – ADM», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 12.85,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
         "Segurança"
       ],
-      "title": "Mozambique and Malawi strengthen cooperation in defense and security",
-      "summary": "Maputo, 03 Nov (AIM) – The governments of Mozambique and Malawi are adopting measures aimed at strengthening cooperation mechanisms in the fields of defense and security in order to prevent and fight against cross-border threats, including human and drug trafficking, illegal immigration, smuggling, and other forms of organized crime. The measures are being discussed in the 17th Session of the Joint Permanent Commission on Defense and Security (JPCDS), which started on Monday and closes on Wednesday, in Malawian city of Blantyre. According to Casimiro Mueio, Permanent Secretary of Mozambique’s Ministry of National Defense, there is a need to accelerate the implementation of decisions reached during the previous session held in Maputo in July 2025. He explained that information sharing and strengthened migration control is crucial to preventing human trafficking and locating missing minors. For his part, Malawi’s Principal Secretary for Defence, Gift C.",
-      "why": "«Mozambique and Malawi strengthen cooperation in defense and security» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Mozambique and Malawi strengthen cooperation in defense and security», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "AIM News",
-      "published": "2026-11-03T09:02:32+00:00",
-      "age_hours": 9.2,
+      "title": "Greenland's parliament ratifies Trump's US security agreement",
+      "summary": "The US is set to expand its military footprint on the Arctic island, part of the Kingdom of Denmark. It follows pressure from Donald Trump earlier in the year which opened a major rift in the transatlantic alliance Greenland's parliament on Tuesday signed off on a trilateral security and military-access agreement with the United States and Denmark that paves the way for an expanded US' military presence on the strategically located and mineral-rich island The deal has alleviated pressure coming from US President Donald Trump , who earlier this year had repeatedly threatened to take control of the self-governing Danish territory, citing US security interests After months of negotiation the agreement was signed in September by Trump, Danish Prime Minister Mette Frederiksen and Greenlandic Prime Minister Jens-Frederik Nielsen on the sidelines of the UN General Assembly in New York The agreement allows for two new US military bases and Trump's \"Golden Dome\" missile defence system.",
+      "why": "«Greenland's parliament ratifies Trump's US security agreement» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Greenland's parliament ratifies Trump's US security agreement», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-11-03T20:08:00+00:00",
+      "age_hours": 3.7,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/03/mozambique-and-malawi-strengthen-cooperation-in-defense-and-security/",
+      "link": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mocambique-006",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM News"
+        "DW English"
       ],
-      "primary_source": "AIM News",
+      "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 03 Nov (AIM) – The governments of Mozambique and Malawi are adopting measures aimed at strengthening cooperation mechanisms in the fields of defense and security in order to prevent and fight against cross-border threats, including human and drug trafficking, illegal immigration, smuggling, and other forms of organized crime. The measures are being discussed in the 17th Session of the Joint Permanent Commission on Defense and Security (JPCDS), which started on Monday and closes on Wednesday, in Malawian city of Blantyre. According to Casimiro Mueio, Permanent Secretary of Mozambique’s Ministry of National Defense, there is a need to accelerate the implementation of decisions reached during the previous session held in Maputo in July 2025. He explained that information sharing and strengthened migration control is crucial to preventing human trafficking and locating missing minors. For his part, Malawi’s Principal Secretary for Defence, Gift C. «Mozambique and Malawi strengthen cooperation in defense and security» deserves attention because it may change political, diplomatic or security risks. For «Mozambique and Malawi strengthen cooperation in defense and security», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 12.08,
-      "source_tier": "B",
+      "detailed_summary": "The US is set to expand its military footprint on the Arctic island, part of the Kingdom of Denmark. It follows pressure from Donald Trump earlier in the year which opened a major rift in the transatlantic alliance Greenland's parliament on Tuesday signed off on a trilateral security and military-access agreement with the United States and Denmark that paves the way for an expanded US' military presence on the strategically located and mineral-rich island The deal has alleviated pressure coming from US President Donald Trump , who earlier this year had repeatedly threatened to take control of the self-governing Danish territory, citing US security interests After months of negotiation the agreement was signed in September by Trump, Danish Prime Minister Mette Frederiksen and Greenlandic Prime Minister Jens-Frederik Nielsen on the sidelines of the UN General Assembly in New York The agreement allows for two new US military bases and Trump's \"Golden Dome\" missile defence system. «Greenland's parliament ratifies Trump's US security agreement» deserves attention because it may change political, diplomatic or security risks. For «Greenland's parliament ratifies Trump's US security agreement», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.23,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "First polls close in pivotal US midterm elections",
+      "summary": "With control of the US Congress on the line, results from Tuesday's races will have marked implications for the country",
+      "why": "«First polls close in pivotal US midterm elections» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «First polls close in pivotal US midterm elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-03T23:03:42+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "With control of the US Congress on the line, results from Tuesday's races will have marked implications for the country. «First polls close in pivotal US midterm elections» is worth following because of its possible economic, institutional or regional effects. For «First polls close in pivotal US midterm elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.83,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -238,11 +237,11 @@
       "impact": "For «UK's King Charles III decries 'monstrous injustice' of slave trade», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "DW English",
       "published": "2026-11-03T18:08:00+00:00",
-      "age_hours": 0.1,
+      "age_hours": 5.7,
       "within_24h": true,
       "link": "https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-012",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -252,60 +251,24 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "King Charles has told leaders at a Commonwealth summit that the legacy of the transatlantic slave trade \"fills my heart with horror.\" He did not address calls for apologies and reparations The United Kingdom 's King Charles III on Tuesday opened this week's Commonwealth Heads of Government Meeting in Antigua and Barbuda , a summit of 56 Commonwealth member-state leaders, by speaking of the tragic legacy of the transatlantic slave trade Charles told those gathered that he had furthered his \"own understanding of the issues through listening, learning and looking.\" \"The ​transatlantic trade in enslaved persons still casts a shadow over these islands and other members of our Commonwealth. As I have said before, that shameful chapter of history is one that fills my heart with ⁠horror ​and my soul with the most profound personal sorrow.\" The monarch stopped short of apologizing for Britain's role in the dark trade, as well as refraining from any talk of reparations . «UK's King Charles III decries 'monstrous injustice' of slave trade» helps explain a concrete economic or business change relevant to Mundo. For «UK's King Charles III decries 'monstrous injustice' of slave trade», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.98,
+      "editorial_score": 10.81,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Agricultural Campaign Plan budgeted at 189.8 million dollars launched",
-      "summary": "Maputo, 03 Nov (AIM) – Mozambique’s Agriculture Ministry on Monday launched 2026/27 Agricultural Campaign Plan budgeted at 189.8 million US dollars aimed at “transforming the agricultural sector through a sustainable increase in production and productivity, the integration of value chains and the strengthening of producers’ competitiveness, promoting the transition from subsistence farming to a market-oriented commercial sector.” The plan is funded by the World Bank, the African Development Bank and the International Fund for Agricultural Development (IFAD). In a statement, the Ministry’s explains that the plan was presented during an Agricultural Campaign preparation meeting chaired by Agriculture Minister Roberto Albino. The minister challenged managers of projects being implemented by the Ministry of Agriculture, to ensure that their interventions converge, so as to contribute to meeting the targets set for the 2026/27 Agricultural Campaign, in line with the private-sector-centred operational model. “The Plan is mandatory. We are no longer here to discuss it.",
-      "why": "«Agricultural Campaign Plan budgeted at 189.8 million dollars launched» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Agricultural Campaign Plan budgeted at 189.8 million dollars launched», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "AIM News",
-      "published": "2026-11-03T08:37:59+00:00",
-      "age_hours": 9.6,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/03/agricultural-campaign-plan-budgeted-at-189-8-million-dollars-launched/",
-      "original_source": true,
-      "event_id": "evt-mocambique-007",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "AIM News"
-      ],
-      "primary_source": "AIM News",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM News",
-          "title": "FUNAE to invest 50 million dollars in solar mini-grids construction",
-          "link": "https://aimnews.org/2026/11/03/funae-to-invest-50-million-dollars-in-solar-mini-grids-construction/"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 03 Nov (AIM) – Mozambique’s Agriculture Ministry on Monday launched 2026/27 Agricultural Campaign Plan budgeted at 189.8 million US dollars aimed at “transforming the agricultural sector through a sustainable increase in production and productivity, the integration of value chains and the strengthening of producers’ competitiveness, promoting the transition from subsistence farming to a market-oriented commercial sector.” The plan is funded by the World Bank, the African Development Bank and the International Fund for Agricultural Development (IFAD). In a statement, the Ministry’s explains that the plan was presented during an Agricultural Campaign preparation meeting chaired by Agriculture Minister Roberto Albino. The minister challenged managers of projects being implemented by the Ministry of Agriculture, to ensure that their interventions converge, so as to contribute to meeting the targets set for the 2026/27 Agricultural Campaign, in line with the private-sector-centred operational model. “The Plan is mandatory. We are no longer here to discuss it. «Agricultural Campaign Plan budgeted at 189.8 million dollars launched» helps explain a concrete economic or business change relevant to Moçambique. For «Agricultural Campaign Plan budgeted at 189.8 million dollars launched», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.0,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
-      "summary": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data",
-      "why": "«South Carolina shrimpers weigh costs, vote in crucial US midterms» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «South Carolina shrimpers weigh costs, vote in crucial US midterms», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "US midterm election results live: Polls start closing in some states",
+      "summary": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky",
+      "why": "«US midterm election results live: Polls start closing in some states» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «US midterm election results live: Polls start closing in some states», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-11-03T17:22:45+00:00",
-      "age_hours": 0.9,
+      "published": "2026-11-03T22:30:00+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -316,36 +279,7 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data. «South Carolina shrimpers weigh costs, vote in crucial US midterms» matters because it may change energy and investment decisions affecting Mundo. For «South Carolina shrimpers weigh costs, vote in crucial US midterms», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 10.81,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
-      "summary": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government",
-      "why": "«Israel political deadlock leaves Netanyahu’s future hanging in the balance» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Israel political deadlock leaves Netanyahu’s future hanging in the balance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-03T16:49:10+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government. «Israel political deadlock leaves Netanyahu’s future hanging in the balance» is worth following because of its possible economic, institutional or regional effects. For «Israel political deadlock leaves Netanyahu’s future hanging in the balance», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "detailed_summary": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky. «US midterm election results live: Polls start closing in some states» is worth following because of its possible economic, institutional or regional effects. For «US midterm election results live: Polls start closing in some states», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "editorial_score": 10.71,
       "source_tier": "A",
       "editorial_status": "HOJE"
@@ -361,7 +295,7 @@
       "impact": "For «Uganda arrests former army deputy chief stripped of military rank», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-11-03T08:08:07+00:00",
-      "age_hours": 10.1,
+      "age_hours": 15.7,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cq398ep2lzd0o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -375,7 +309,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Uganda accuses Peter Elwelu of stockpiling weapons and organising activities against the government Uganda has arrested former deputy military chief and presidential adviser Peter Elwelu over allegations of involvement in activities aimed at destabilising the country Acting military spokesman Chris Magezi said Elwelu, whom he described as a \"renegade\" officer, was arrested on Monday evening and would be charged in court The arrest comes days after Uganda's defence chief, Muhoozi Kainerugaba, announced that he had stripped Elwelu of his lieutenant general rank and demoted him to a private Elwelu has not commented on the allegations Elwelu rose to prominence in 2016 when he oversaw a deadly military raid on the palace of a regional king accused of leading a separatist movement. He was subsequently appointed army chief He later rose to become the deputy chief of defence forces before being named presidential adviser In May 2024, the US government imposed sanctions on him over alleged human rights abuses, including extrajudicial killings committed by government forces. «Uganda arrests former army deputy chief stripped of military rank» deserves attention because it may change political, diplomatic or security risks. For «Uganda arrests former army deputy chief stripped of military rank», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 8.9,
+      "editorial_score": 7.73,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -399,7 +333,7 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
+    "Moçambique": 2,
     "África": 3,
     "Mundo": 5
   },

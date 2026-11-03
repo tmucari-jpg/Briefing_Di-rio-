@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T18:16:01.160972+00:00",
+  "updated_at": "2026-11-03T23:52:53.942852+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,11 +16,11 @@
       "impact": "No caso de «Governo cria Zona Económica Especial da Moamba», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Jornal Notícias",
       "published": "2026-11-03T17:29:47+00:00",
-      "age_hours": 0.8,
+      "age_hours": 6.4,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/governo-cria-zona-economica-especial-da-moamba/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -30,62 +30,124 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O governo acaba de criar a Zona Económica Especial da Moamba, localizada no distrito com o mesmo nome, na província de Maputo, abrangendo uma área territorial de 64 mil hectares, que inclui ainda parte dos postos administrativos de Moamba-Sede, Pessene e Ressano Garcia. De acordo com o porta-voz do Governo, Inocêncio Impissa, falando, no fim da 32ª sessão do Conselho de Ministros, a iniciativa visa incrementar a capacidade produtiva e comercial, ampliar a base tributária, estimular a criação de ecossistemas de inovação, promover o emprego e contribuir para a geração de divisas para o país mediante a concentração de regimes de incentivo, procedimentos simplificados e mecanismos de facilitação da atividade económica e de investimentos. «Governo cria Zona Económica Especial da Moamba» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo cria Zona Económica Especial da Moamba», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 14.83,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça",
-      "summary": "Os Governos de Moçambique e do Maláui estão a analisar novas medidas para reforçar a cooperação nos domínios da defesa e segurança, com destaque para o combate à criminalidade transfronteiriça, […]",
-      "why": "«Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-11-03T13:15:00+00:00",
-      "age_hours": 5.0,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/03/desenvolvimento-2/mocambique-e-malaui-reforcam-cooperacao-militar-para-combater-criminalidade-transfronteirica/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "Diário Económico",
-        "AIM Notícias"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "Moçambique e Malawi reforçam coordenação militar e policial para combater ameaças transfronteiriças",
-          "link": "https://aimnews.org/2026/11/03/mocambique-e-malawi-reforcam-coordenacao-militar-e-policial-para-combater-ameacas-transfronteiricas/"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Os Governos de Moçambique e do Maláui estão a analisar novas medidas para reforçar a cooperação nos domínios da defesa e segurança, com destaque para o combate à criminalidade transfronteiriça, […]. «Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique e Maláui Reforçam Cooperação Militar Para Combater Criminalidade Transfronteiriça», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 14.46,
+      "editorial_score": 13.67,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas",
-      "summary": "Um ciberataque aos sistemas de segurança dos refrigeradores e congeladores de supermercados europeus é apenas um sinal da ameaça que se tornará cada vez mais frequente, alertou o responsável pela cibersegurança do Reino Unido, Richard Horne",
-      "why": "«Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "title": "Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos",
+      "summary": "Os norte-americanos estão a escolher os novos representantes no Congresso. Está em causa o controlo das duas câmaras e a capacidade do presidente norte-americano de manter a sua agenda política numa altura em que os índices de aprovação de Donald Trump são dos mais baixos de sempre Enquanto aguarda os resultados das intercalares, Trump decidiu proclamar a \"Semana do Anti-Comunismo\" para 1 a 7 de novembro",
+      "why": "«Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-11-03T17:12:42+00:00",
-      "age_hours": 1.1,
+      "published": "2026-11-03T23:48:33+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/centro-de-ciberseguranca-exige-tomada-de-medidas-urgentes-para-tecnologias-desatualizadas_n1776613",
+      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-intercalares-chamam-200-milhoes-as-urnas-nos-estados-unidos_e1776677",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 6,
+      "source_count": 2,
+      "sources": [
+        "RTP Notícias",
+        "Euronews Português"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Euronews Português",
+          "title": "Resultados das eleições intercalares 2026 nos EUA: atualizações em direto com mapas e gráficos",
+          "link": "https://pt.euronews.com/2026/11/03/resultados-das-eleicoes-intercalares-2026-nos-eua-atualizacoes-em-direto-com-mapas-e-grafi"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Eleições intercalares nos EUA. Sondagens apontam para derrota dos Republicanos",
+          "link": "https://www.rtp.pt/noticias/mundo/eleicoes-intercalares-nos-eua-sondagens-apontam-para-derrota-dos-republicanos_v1776560"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Os norte-americanos estão a escolher os novos representantes no Congresso. Está em causa o controlo das duas câmaras e a capacidade do presidente norte-americano de manter a sua agenda política numa altura em que os índices de aprovação de Donald Trump são dos mais baixos de sempre Enquanto aguarda os resultados das intercalares, Trump decidiu proclamar a \"Semana do Anti-Comunismo\" para 1 a 7 de novembro. «Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 12.48,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens",
+      "summary": "Maputo, 03 de Nov (AIM) – O Presidente da República, Daniel Chapo, anunciou que o Governo está a estudar a possibilidade de isentar os jovens dos custos de legalização de empresas e criar um regime fiscal específico para pequenas e médias empresas (PME), numa iniciativa que visa facilitar a formalização de negócios e estimular o empreendedorismo juvenil em Moçambique. O Chefe do Estado avançou esta informação esta terça-feira, 3 de Novembro, em Maputo, durante uma audiência concedida à Associação Nacional dos Jovens Empresários (ANJE), liderada pela sua presidente, Mara Cancune. Na ocasião, Daniel Chapo defendeu a necessidade de reduzir os encargos financeiros e fiscais que dificultam a criação e o crescimento de empresas lideradas por jovens, sobretudo os custos de formalização, que podem limitar o acesso a oportunidades de negócio, incluindo concursos públicos. Segundo o Presidente da República, está em curso um estudo para avaliar a viabilidade da isenção dos custos de legalização e da criação de condições fiscais diferenciadas para as empresas de jovens.",
+      "why": "«PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-03T20:21:35+00:00",
+      "age_hours": 3.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/03/pr-estuda-isencao-de-custos-de-legalizacao-e-regime-fiscal-especial-para-empresas-de-jovens/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 03 de Nov (AIM) – O Presidente da República, Daniel Chapo, anunciou que o Governo está a estudar a possibilidade de isentar os jovens dos custos de legalização de empresas e criar um regime fiscal específico para pequenas e médias empresas (PME), numa iniciativa que visa facilitar a formalização de negócios e estimular o empreendedorismo juvenil em Moçambique. O Chefe do Estado avançou esta informação esta terça-feira, 3 de Novembro, em Maputo, durante uma audiência concedida à Associação Nacional dos Jovens Empresários (ANJE), liderada pela sua presidente, Mara Cancune. Na ocasião, Daniel Chapo defendeu a necessidade de reduzir os encargos financeiros e fiscais que dificultam a criação e o crescimento de empresas lideradas por jovens, sobretudo os custos de formalização, que podem limitar o acesso a oportunidades de negócio, incluindo concursos públicos. Segundo o Presidente da República, está em curso um estudo para avaliar a viabilidade da isenção dos custos de legalização e da criação de condições fiscais diferenciadas para as empresas de jovens. «PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.27,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "CM aprova alterações ao regime remuneratório dos órgãos de soberania",
+      "summary": "Maputo, 3 Nov (AIM) – O Conselho de Ministros aprovou alterações ao regime de remuneração dos titulares e membros dos órgãos de soberania e de outros órgãos públicos, com o objectivo de actualizar o enquadramento remuneratório face à criação de novas instituições e às alterações das respectivas estruturas orgânicas. O anúncio foi feito esta terça-feira, em Maputo, pelo porta-voz do Governo, Inocêncio Impissa, no balanço da 32.ª Sessão Ordinária do Conselho de Ministros. A decisão altera o anexo II do Decreto n.º 34/2023 e o Decreto n.º 35/2023, ambos de 20 de Junho, que estabelecem o regime remuneratório dos demais membros dos órgãos de soberania e titulares de cargos políticos não abrangidos pela Lei n.º 5/2022, de 14 de Fevereiro. Segundo Impissa, a alteração pretende assegurar a coerência e actualidade do regime remuneratório, evitando lacunas, sobreposições e assimetrias no tratamento dos titulares e membros das instituições públicas.",
+      "why": "«CM aprova alterações ao regime remuneratório dos órgãos de soberania» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «CM aprova alterações ao regime remuneratório dos órgãos de soberania», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-03T20:09:17+00:00",
+      "age_hours": 3.7,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/03/cm-aprova-alteracoes-ao-regime-remuneratorio-dos-orgaos-de-soberania/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 3 Nov (AIM) – O Conselho de Ministros aprovou alterações ao regime de remuneração dos titulares e membros dos órgãos de soberania e de outros órgãos públicos, com o objectivo de actualizar o enquadramento remuneratório face à criação de novas instituições e às alterações das respectivas estruturas orgânicas. O anúncio foi feito esta terça-feira, em Maputo, pelo porta-voz do Governo, Inocêncio Impissa, no balanço da 32.ª Sessão Ordinária do Conselho de Ministros. A decisão altera o anexo II do Decreto n.º 34/2023 e o Decreto n.º 35/2023, ambos de 20 de Junho, que estabelecem o regime remuneratório dos demais membros dos órgãos de soberania e titulares de cargos políticos não abrangidos pela Lei n.º 5/2022, de 14 de Fevereiro. Segundo Impissa, a alteração pretende assegurar a coerência e actualidade do regime remuneratório, evitando lacunas, sobreposições e assimetrias no tratamento dos titulares e membros das instituições públicas. «CM aprova alterações ao regime remuneratório dos órgãos de soberania» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «CM aprova alterações ao regime remuneratório dos órgãos de soberania», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.23,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Rússia intensificou os ataques à Ucrânia",
+      "summary": "Dezenas de civis morreram nas últimas 24 horas. Kiev respondeu com ataques a infraestruturas energéticas russas. Apesar da escalada, os dois países confirmaram novas negociações na próxima semana em Abu Dhabi",
+      "why": "«Rússia intensificou os ataques à Ucrânia» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Rússia intensificou os ataques à Ucrânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-03T23:12:47+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/russia-intensificou-os-ataques-a-ucrania_v1776688",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -96,8 +158,8 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Um ciberataque aos sistemas de segurança dos refrigeradores e congeladores de supermercados europeus é apenas um sinal da ameaça que se tornará cada vez mais frequente, alertou o responsável pela cibersegurança do Reino Unido, Richard Horne. «Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Centro de cibersegurança exige tomada de medidas urgentes para tecnologias desatualizadas», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 12.77,
+      "detailed_summary": "Dezenas de civis morreram nas últimas 24 horas. Kiev respondeu com ataques a infraestruturas energéticas russas. Apesar da escalada, os dois países confirmaram novas negociações na próxima semana em Abu Dhabi. «Rússia intensificou os ataques à Ucrânia» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Rússia intensificou os ataques à Ucrânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 11.85,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -112,11 +174,11 @@
       "impact": "No caso de «Novos gestores para EMODRAGA e Agência do Vale do Zambeze», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-11-03T16:57:23+00:00",
-      "age_hours": 1.3,
+      "age_hours": 6.9,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/novos-gestores-para-emodraga-e-agencia-do-vale-do-zambeze/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -126,36 +188,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O Governo acaba de nomear, Celso Lourenço da Cunha, para o cargo de presidente do Conselho de Administração da Agência de Desenvolvimento do Vale do Zambeze. Numa outra resolução da 32ª sessão do Conselho de Ministro, foi nomeado Paulo Jafar Thermamat, para o cargo de presidente do Conselho de Administração da Empresa Moçambicana de Dragagem (EMODRAGA). Na mesma sessão, o Governo apreciou a informação sobre o incêndio que deflagrou no domingo (12 de Novembro) no Serviço de Oncologia do Hospital Central de Maputo onde decorre ainda uma investigação para apurar as reais causas deste incidente. Segundo o porta-voz, Inocêncio Impissa, o Governo agradece a onda de solidariedade nacional e internacional que desde os primeiros momentos tem recebido. Ainda neste contexto, os membros do Conselho de Ministros decidiram doar um mínimo de um dia de salário por cada membro em apoio aos esforços de reposição dos serviços de Oncologia do Hospital Central de Maputo. O conteúdo Novos gestores para EMODRAGA e Agência do Vale do Zambeze aparece primeiro em Jornal Notícias. «Novos gestores para EMODRAGA e Agência do Vale do Zambeze» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Novos gestores para EMODRAGA e Agência do Vale do Zambeze», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.73,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Ruptura de conduta de água na Junta provoca condicionamento no trânsito",
-      "summary": "A ruptura de uma conduta de abastecimento de água está a provocar constrangimentos na circulação rodoviária, na Avenida de Moçambique, depois de uma escavação realizada para a passagem de cabos eléctricos da Electricidade de Moçambique (EDM). A abertura do terreno foi efectuada durante o fim-de-semana, com o objectivo de permitir a instalação de cabos de […]",
-      "why": "«Ruptura de conduta de água na Junta provoca condicionamento no trânsito» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Ruptura de conduta de água na Junta provoca condicionamento no trânsito», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-11-03T12:08:33+00:00",
-      "age_hours": 6.1,
-      "within_24h": true,
-      "link": "https://opais.co.mz/ruptura-de-conduta-de-agua-na-junta-provoca-condicionamento-no-transito/",
-      "original_source": true,
-      "event_id": "evt-mocambique-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A ruptura de uma conduta de abastecimento de água está a provocar constrangimentos na circulação rodoviária, na Avenida de Moçambique, depois de uma escavação realizada para a passagem de cabos eléctricos da Electricidade de Moçambique (EDM). A abertura do terreno foi efectuada durante o fim-de-semana, com o objectivo de permitir a instalação de cabos de […]. «Ruptura de conduta de água na Junta provoca condicionamento no trânsito» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Ruptura de conduta de água na Junta provoca condicionamento no trânsito», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.73,
+      "editorial_score": 11.56,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -170,7 +203,7 @@
       "impact": "No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-11-03T15:32:47+00:00",
-      "age_hours": 2.7,
+      "age_hours": 8.3,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/impasse-no-saara-ocidental-eua-e-russia-bloqueiam-missao-da-onu_v1776597",
       "original_source": true,
@@ -184,7 +217,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário. «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 11.44,
+      "editorial_score": 10.27,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -200,11 +233,11 @@
       "impact": "No caso de «FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Diário Económico",
       "published": "2026-11-03T14:15:00+00:00",
-      "age_hours": 4.0,
+      "age_hours": 9.6,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/11/03/energia-3/funae-vai-investir-50-milhoes-de-dolares-em-100-mini-redes-solares-a-partir-de-2027/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-009",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -214,154 +247,38 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O Fundo de Energia (FUNAE) prevê iniciar, em 2027, a construção de 100 mini-redes solares nas províncias da Zambézia, Tete e Niassa, num investimento estimado em 50 milhões de dólares. […]. «FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 11.17,
+      "editorial_score": 10.0,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "África Austral lança plataforma regional para monitorar mercado de trabalho",
-      "summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas",
-      "why": "«África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
-      "impact": "No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Notícias ONU",
-      "published": "2026-11-03T12:00:00+00:00",
-      "age_hours": 6.3,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854812",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas. «África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.69,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
       "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Protestos estudantis regressam a França",
-      "summary": "Os estudantes prometem regressar aos protestos e não desistir da contestação, em resposta às medidas anunciadas pelo governo, que consideram insuficientes. No regresso às aulas, mais de 40 escolas estão já bloqueadas",
-      "why": "«Protestos estudantis regressam a França» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Protestos estudantis regressam a França», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-03T15:54:00+00:00",
-      "age_hours": 2.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/protestos-estudantis-regressam-a-franca_n1776602",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Os estudantes prometem regressar aos protestos e não desistir da contestação, em resposta às medidas anunciadas pelo governo, que consideram insuficientes. No regresso às aulas, mais de 40 escolas estão já bloqueadas. «Protestos estudantis regressam a França» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Protestos estudantis regressam a França», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.5,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
       "tags": [
         "Economia",
         "Segurança"
       ],
-      "title": "Eleições Municipais na África do Sul. Segurança mobiliza 10 mil militares",
-      "summary": "As eleições, a 4 de novembro, realizam-se num clima de tensão social, marcado pelo desemprego, pela crise dos serviços públicos e pelo crescente descontentamento face à imigração. O fortalecimento dos movimentos anti-imigração levou os partidos a endurecer o discurso, colocando o tema no centro do debate político e da estabilidade do país. Algumas lideranças têm usado essa retórica para conquistar votos numa altura de crescente instabilidade/ Antevisão",
-      "why": "«Eleições Municipais na África do Sul. Segurança mobiliza 10 mil militares» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Eleições Municipais na África do Sul. Segurança mobiliza 10 mil militares», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "RTP Notícias",
-      "published": "2026-11-02T15:45:47+00:00",
-      "age_hours": 26.5,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-municipais-na-africa-do-sul-seguranca-mobiliza-10-mil-militares_v1776370",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "update",
-      "opportunity_flag": true,
-      "detailed_summary": "As eleições, a 4 de novembro, realizam-se num clima de tensão social, marcado pelo desemprego, pela crise dos serviços públicos e pelo crescente descontentamento face à imigração. O fortalecimento dos movimentos anti-imigração levou os partidos a endurecer o discurso, colocando o tema no centro do debate político e da estabilidade do país. Algumas lideranças têm usado essa retórica para conquistar votos numa altura de crescente instabilidade/ Antevisão. «Eleições Municipais na África do Sul. Segurança mobiliza 10 mil militares» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Eleições Municipais na África do Sul. Segurança mobiliza 10 mil militares», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 10.42,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes",
-      "summary": "Agência das Nações Unidas para Migrações, OIM, afirma que onda de desinformação está aprofundando polarização e desconfiança dentro das comunidades; informações enganosas circulam nas redes sociais, com impulso da Inteligência Artificial",
-      "why": "«ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-11-03T12:00:00+00:00",
-      "age_hours": 6.3,
+      "title": "Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA",
+      "summary": "Ainda havia esperança de um acordo entre os Estados Unidos e o Irão, afirmou o Qatar na terça‑feira, numa altura em que mediadores trocavam propostas em tempo real após conversações em Teerão.“Se não houvesse esperança, não haveria negociações”, disse o porta‑voz do ministério dos Negócios Estrangeiros do Qatar, Majed Al Ansari, numa conferência de imprensa semanal em Doha.Uma delegação catari reuniu‑se com responsáveis iranianos durante mais de três horas na segunda‑feira, antes de regressar a Doha nessa noite, e Washington e Teerão estavam agora a analisar propostas, acrescentou Al Ansari.Entretanto, o Qatar trabalhava num acordo provisório destinado a reforçar a confiança e a permitir que ambas as partes demonstrassem que cumpririam os seus compromissos.“A confiança constrói‑se através do processo, não por ações específicas”, afirmou Al Ansari, acrescentando que um acordo provisório poderia ser um primeiro passo rumo a uma paz duradoura.A guerra em curso começou com ataques dos Estados Unidos e de Israel contra o Irão no fim de fevereiro, que levaram a bloqueios separados dos EUA…",
+      "why": "«Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-03T18:26:12+00:00",
+      "age_hours": 5.4,
       "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854820",
+      "link": "https://pt.euronews.com/2026/11/03/qatar-ve-esperanca-em-acordo-eua-irao-apesar-de-ataques-dos-eua",
       "original_source": true,
-      "event_id": "evt-mundo-006",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Notícias ONU"
+        "Euronews Português"
       ],
-      "primary_source": "Notícias ONU",
+      "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Agência das Nações Unidas para Migrações, OIM, afirma que onda de desinformação está aprofundando polarização e desconfiança dentro das comunidades; informações enganosas circulam nas redes sociais, com impulso da Inteligência Artificial. «ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «ONU preocupada com rápida disseminação de narrativas falsas sobre migrantes», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 9.69,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Jornalista premiada denunciou casos de abuso sexual por militares no México",
-      "summary": "Zorayda Gallegos realizou investigação por 12 anos acompanhando mais de 520 mulheres no país; ela fala de impunidade e retaliações às vítimas e aos jornalistas; entrega do Prêmio Breach/Valdez de Jornalismo e Direitos Humanos de 2026 coincide com Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas",
-      "why": "«Jornalista premiada denunciou casos de abuso sexual por militares no México» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Jornalista premiada denunciou casos de abuso sexual por militares no México», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-11-03T12:00:00+00:00",
-      "age_hours": 6.3,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854823",
-      "original_source": true,
-      "event_id": "evt-mundo-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Zorayda Gallegos realizou investigação por 12 anos acompanhando mais de 520 mulheres no país; ela fala de impunidade e retaliações às vítimas e aos jornalistas; entrega do Prêmio Breach/Valdez de Jornalismo e Direitos Humanos de 2026 coincide com Dia Internacional pelo Fim da Impunidade dos Crimes contra Jornalistas. «Jornalista premiada denunciou casos de abuso sexual por militares no México» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Jornalista premiada denunciou casos de abuso sexual por militares no México», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 9.69,
-      "source_tier": "A",
+      "detailed_summary": "Ainda havia esperança de um acordo entre os Estados Unidos e o Irão, afirmou o Qatar na terça‑feira, numa altura em que mediadores trocavam propostas em tempo real após conversações em Teerão.“Se não houvesse esperança, não haveria negociações”, disse o porta‑voz do ministério dos Negócios Estrangeiros do Qatar, Majed Al Ansari, numa conferência de imprensa semanal em Doha.Uma delegação catari reuniu‑se com responsáveis iranianos durante mais de três horas na segunda‑feira, antes de regressar a Doha nessa noite, e Washington e Teerão estavam agora a analisar propostas, acrescentou Al Ansari.Entretanto, o Qatar trabalhava num acordo provisório destinado a reforçar a confiança e a permitir que ambas as partes demonstrassem que cumpririam os seus compromissos.“A confiança constrói‑se através do processo, não por ações específicas”, afirmou Al Ansari, acrescentando que um acordo provisório poderia ser um primeiro passo rumo a uma paz duradoura.A guerra em curso começou com ataques dos Estados Unidos e de Israel contra o Irão no fim de fevereiro, que levaram a bloqueios separados dos EUA… «Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 7.88,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -375,11 +292,11 @@
       "impact": "No caso de «Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-11-03T17:58:31+00:00",
-      "age_hours": 0.3,
+      "age_hours": 5.9,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/11/03/irao-ameaca-novo-campo-de-batalha-apos-alegado-ataque-dos-eua-em-qeshm",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -389,38 +306,9 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O presidente do parlamento do Irão, Mohammad Bagher Ghalibaf, advertiu na terça-feira que qualquer erro estratégico dos EUA abriria “um novo campo de batalha na guerra”, horas depois de um avião da Força Aérea dos EUA ter, segundo alegações, atingido um sistema de mísseis do IRGC na ilha de Qeshm.Ghalibaf disse ao parlamento que o Irão estava no seu mais alto nível de prontidão defensiva e que a responsabilidade de evitar nova escalada recaía sobre Washington. “A bola está do lado da América para impedir a guerra”, disse.As declarações surgiram depois de moradores da ilha de Qeshm, de Hengam e de Bandar Abbas terem relatado explosões sucessivas e abalos durante a noite, segundo as agências iranianas IRNA e Fars.Meios de comunicação dos EUA noticiaram que um avião da Força Aérea norte-americana tinha atingido um sistema de lançamento de mísseis superfície-ar do IRGC na ilha, depois de um míssil ter sido disparado de Qeshm contra uma aeronave dos EUA no estreito de Ormuz.A operação foi descrita como limitada e destinada a proteger o transporte marítimo comercial. «Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.94,
+      "editorial_score": 7.77,
       "source_tier": "C",
       "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040",
-      "summary": "Alerta da Organização Internacional do Trabalho coloca agricultura e construção entre os setores mais vulneráveis; especialistas defendem mudanças nas jornadas laborais e medidas de proteção para reduzir os impactos do calor",
-      "why": "«Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
-      "impact": "No caso de «Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Notícias ONU",
-      "published": "2026-11-02T12:00:00+00:00",
-      "age_hours": 30.3,
-      "within_24h": false,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854810",
-      "original_source": true,
-      "event_id": "evt-áfrica-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "update",
-      "opportunity_flag": true,
-      "detailed_summary": "Alerta da Organização Internacional do Trabalho coloca agricultura e construção entre os setores mais vulneráveis; especialistas defendem mudanças nas jornadas laborais e medidas de proteção para reduzir os impactos do calor. «Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 7.3,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -443,8 +331,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 4,
-    "Mundo": 5
+    "África": 1,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
