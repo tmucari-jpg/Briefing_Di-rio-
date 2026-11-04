@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T23:52:53.942852+00:00",
+  "updated_at": "2026-11-04T10:34:39.649933+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -10,17 +10,141 @@
       "tags": [
         "Economia"
       ],
-      "title": "Governo cria Zona Económica Especial da Moamba",
-      "summary": "O governo acaba de criar a Zona Económica Especial da Moamba, localizada no distrito com o mesmo nome, na província de Maputo, abrangendo uma área territorial de 64 mil hectares, que inclui ainda parte dos postos administrativos de Moamba-Sede, Pessene e Ressano Garcia. De acordo com o porta-voz do Governo, Inocêncio Impissa, falando, no fim da 32ª sessão do Conselho de Ministros, a iniciativa visa incrementar a capacidade produtiva e comercial, ampliar a base tributária, estimular a criação de ecossistemas de inovação, promover o emprego e contribuir para a geração de divisas para o país mediante a concentração de regimes de incentivo, procedimentos simplificados e mecanismos de facilitação da atividade económica e de investimentos.",
-      "why": "«Governo cria Zona Económica Especial da Moamba» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Governo cria Zona Económica Especial da Moamba», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-03T17:29:47+00:00",
-      "age_hours": 6.4,
+      "title": "CTA Quer Transformar Relações de Amizade Entre Moçambique e Namíbia em Negócios",
+      "summary": "A Confederação das Associações Económicas de Moçambique (CTA) pretende converter as relações históricas de amizade entre Moçambique e Namíbia em oportunidades concretas de comércio, investimento e parcerias empresariais. A intenção […]",
+      "why": "«CTA Quer Transformar Relações de Amizade Entre Moçambique e Namíbia em Negócios» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «CTA Quer Transformar Relações de Amizade Entre Moçambique e Namíbia em Negócios», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-11-04T08:15:00+00:00",
+      "age_hours": 2.3,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/governo-cria-zona-economica-especial-da-moamba/",
+      "link": "https://www.diarioeconomico.co.mz/2026/11/04/negocios/cta-quer-transformar-relacoes-de-amizade-entre-mocambique-e-namibia-em-negocios/",
       "original_source": true,
-      "event_id": "evt-mocambique-007",
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "Diário Económico",
+        "AIM Notícias"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM Notícias",
+          "title": "CTA quer transformar amizade entre Moçambique e Namíbia em negócios concretos",
+          "link": "https://aimnews.org/2026/11/03/cta-quer-transformar-amizade-entre-mocambique-e-namibia-em-negocios-concretos/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "A Confederação das Associações Económicas de Moçambique (CTA) pretende converter as relações históricas de amizade entre Moçambique e Namíbia em oportunidades concretas de comércio, investimento e parcerias empresariais. A intenção […]. «CTA Quer Transformar Relações de Amizade Entre Moçambique e Namíbia em Negócios» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «CTA Quer Transformar Relações de Amizade Entre Moçambique e Namíbia em Negócios», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 15.02,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Moçambique prevê construção de oito novos postos de gás em 2027",
+      "summary": "O Governo pretende reduzir gradualmente a dependência dos combustíveis líquidos importados, através do reforço da utilização do gás natural como alternativa energética, anunciou o ministro dos Recursos Minerais e Energia, Estevão Pale. Neste contexto, o governante referiu a inauguração, em 2026, da Unidade de Processamento Integrado de Gás Natural, localizada no distrito de Inhassoro, província […]",
+      "why": "«Moçambique prevê construção de oito novos postos de gás em 2027» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Moçambique prevê construção de oito novos postos de gás em 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-11-04T09:22:46+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://opais.co.mz/mocambique-preve-construcao-de-oito-novos-postos-de-gas-natural-em-2027/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo pretende reduzir gradualmente a dependência dos combustíveis líquidos importados, através do reforço da utilização do gás natural como alternativa energética, anunciou o ministro dos Recursos Minerais e Energia, Estevão Pale. Neste contexto, o governante referiu a inauguração, em 2026, da Unidade de Processamento Integrado de Gás Natural, localizada no distrito de Inhassoro, província […]. «Moçambique prevê construção de oito novos postos de gás em 2027» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Moçambique prevê construção de oito novos postos de gás em 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.75,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Estevão Pale anuncia medidas para normalizar abastecimento de combustíveis em Moçambique",
+      "summary": "O Ministro dos Recursos Minerais e Energia, Estevão Pale, anunciou que o Governo está a implementar um conjunto de medidas para normalizar o abastecimento de combustíveis no mercado nacional, reduzir os constrangimentos nas importações e minimizar o impacto dos custos energéticos sobre as famílias e os sectores produtivos. O governante prestou estas informações durante uma […]",
+      "why": "«Estevão Pale anuncia medidas para normalizar abastecimento de combustíveis em Moçambique» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Estevão Pale anuncia medidas para normalizar abastecimento de combustíveis em Moçambique», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-11-04T09:44:47+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://opais.co.mz/estevao-pale-anuncia-medidas-para-normalizar-abastecimento-de-combustiveis-em-mocambique/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Ministro dos Recursos Minerais e Energia, Estevão Pale, anunciou que o Governo está a implementar um conjunto de medidas para normalizar o abastecimento de combustíveis no mercado nacional, reduzir os constrangimentos nas importações e minimizar o impacto dos custos energéticos sobre as famílias e os sectores produtivos. O governante prestou estas informações durante uma […]. «Estevão Pale anuncia medidas para normalizar abastecimento de combustíveis em Moçambique» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Estevão Pale anuncia medidas para normalizar abastecimento de combustíveis em Moçambique», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.83,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "IA"
+      ],
+      "title": "Deputados canalizam um dia de salário para apoiar Oncologia do HCM",
+      "summary": "A Assembleia da República (AR) decidiu canalizar o equivalente a um dia de salário dos deputados para apoiar os esforços na recuperação do Serviço de Oncologia do Hospital Central de Maputo (HCM) que foi consumido por um incêndio na manhã de domingo (1 de Novembro), causando um retrocesso nos esforços e capacidade de tratamento do cancro em Moçambique. A informação foi avançada, há instantes, pela presidente do Parlamento moçambicano, Margarida Talapa, na abertura dos trabalhos da sessão de Informações do Governo. Na sequência, Talapa disse que a decisão constitui uma manifestação de solidariedade dos deputados para com os milhares de moçambicanos que dependem dos serviços de Oncologia para o diagnóstico, tratamento e acompanhamento de doenças cancerígenas. A contribuição foi anunciada ao HCM, numa visita realizada àquela unidade sanitária pela Comissão dos Assuntos Sociais, do Género, Tecnologia e Comunicação Social, a terceira comissão da Assembleia da República, em coordenação com o Gabinete Parlamentar da Mulher.",
+      "why": "«Deputados canalizam um dia de salário para apoiar Oncologia do HCM» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Deputados canalizam um dia de salário para apoiar Oncologia do HCM», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-04T08:58:14+00:00",
+      "age_hours": 1.6,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/deputados-canalizam-um-dia-de-salario-para-apoiar-oncologia-do-hcm/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A Assembleia da República (AR) decidiu canalizar o equivalente a um dia de salário dos deputados para apoiar os esforços na recuperação do Serviço de Oncologia do Hospital Central de Maputo (HCM) que foi consumido por um incêndio na manhã de domingo (1 de Novembro), causando um retrocesso nos esforços e capacidade de tratamento do cancro em Moçambique. A informação foi avançada, há instantes, pela presidente do Parlamento moçambicano, Margarida Talapa, na abertura dos trabalhos da sessão de Informações do Governo. Na sequência, Talapa disse que a decisão constitui uma manifestação de solidariedade dos deputados para com os milhares de moçambicanos que dependem dos serviços de Oncologia para o diagnóstico, tratamento e acompanhamento de doenças cancerígenas. A contribuição foi anunciada ao HCM, numa visita realizada àquela unidade sanitária pela Comissão dos Assuntos Sociais, do Género, Tecnologia e Comunicação Social, a terceira comissão da Assembleia da República, em coordenação com o Gabinete Parlamentar da Mulher. «Deputados canalizam um dia de salário para apoiar Oncologia do HCM» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Deputados canalizam um dia de salário para apoiar Oncologia do HCM», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 13.67,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Renamo exige inquérito à poluição das águas em Moma",
+      "summary": "A bancada parlamentar da Renamo exige a criação urgente de uma Comissão Parlamentar de Inquérito para investigar a alegada contaminação de água nos distritos de Moma e Larde, na província de Nampula, na sequência de derrames de óleos minerais e combustíveis associados às actividades de mineração de grande escala naquela região. A preocupação foi manifestada esta quarta-feira, pelo deputado Arnaldo Chalaua, na sua intervenção antes da apreciação da Ordem do Dia. Chalaua chamou atenção aos riscos que a situação representa para a saúde pública, pesca e agricultura nas comunidades afectadas. Segundo o parlamentar, a poluição está a atingir fontes de abastecimento de água utilizadas pelas populações, incluindo furos, poços tradicionais e lagoas, criando condições que podem comprometer a segurança do consumo humano e outras actividades essenciais à sobrevivência das famílias. Chalaua apontou como exemplo a Lagoa de Pilivili, onde, segundo denúncias de organizações que acompanham a situação, terá sido identificada contaminação por combustíveis.",
+      "why": "«Renamo exige inquérito à poluição das águas em Moma» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Renamo exige inquérito à poluição das águas em Moma», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-04T10:18:24+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/renamo-exige-inquerito-a-poluicao-das-aguas-em-moma/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -29,8 +153,8 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "O governo acaba de criar a Zona Económica Especial da Moamba, localizada no distrito com o mesmo nome, na província de Maputo, abrangendo uma área territorial de 64 mil hectares, que inclui ainda parte dos postos administrativos de Moamba-Sede, Pessene e Ressano Garcia. De acordo com o porta-voz do Governo, Inocêncio Impissa, falando, no fim da 32ª sessão do Conselho de Ministros, a iniciativa visa incrementar a capacidade produtiva e comercial, ampliar a base tributária, estimular a criação de ecossistemas de inovação, promover o emprego e contribuir para a geração de divisas para o país mediante a concentração de regimes de incentivo, procedimentos simplificados e mecanismos de facilitação da atividade económica e de investimentos. «Governo cria Zona Económica Especial da Moamba» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Governo cria Zona Económica Especial da Moamba», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.67,
+      "detailed_summary": "A bancada parlamentar da Renamo exige a criação urgente de uma Comissão Parlamentar de Inquérito para investigar a alegada contaminação de água nos distritos de Moma e Larde, na província de Nampula, na sequência de derrames de óleos minerais e combustíveis associados às actividades de mineração de grande escala naquela região. A preocupação foi manifestada esta quarta-feira, pelo deputado Arnaldo Chalaua, na sua intervenção antes da apreciação da Ordem do Dia. Chalaua chamou atenção aos riscos que a situação representa para a saúde pública, pesca e agricultura nas comunidades afectadas. Segundo o parlamentar, a poluição está a atingir fontes de abastecimento de água utilizadas pelas populações, incluindo furos, poços tradicionais e lagoas, criando condições que podem comprometer a segurança do consumo humano e outras actividades essenciais à sobrevivência das famílias. Chalaua apontou como exemplo a Lagoa de Pilivili, onde, segundo denúncias de organizações que acompanham a situação, terá sido identificada contaminação por combustíveis. «Renamo exige inquérito à poluição das águas em Moma» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Renamo exige inquérito à poluição das águas em Moma», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 11.94,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -39,99 +163,40 @@
       "tags": [
         "Economia"
       ],
-      "title": "Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos",
-      "summary": "Os norte-americanos estão a escolher os novos representantes no Congresso. Está em causa o controlo das duas câmaras e a capacidade do presidente norte-americano de manter a sua agenda política numa altura em que os índices de aprovação de Donald Trump são dos mais baixos de sempre Enquanto aguarda os resultados das intercalares, Trump decidiu proclamar a \"Semana do Anti-Comunismo\" para 1 a 7 de novembro",
-      "why": "«Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Democratas conquistam Congresso e impõem derrota a Trump",
+      "summary": "Os democratas conquistaram as duas câmaras do Congresso norte-americano nas eleições intercalares de terça-feira, alcançando vitórias surpreendentes em estados republicanos e impondo uma pesada derrota política ao Presidente Donald Trump A dimensão da vitória, confirmada pelas projeções dos principais órgãos de comunicação social norte-americanos, superou as expectativas do Partido Democrata, que recuperou o controlo do Senado e da Câmara dos Representantes, até agora dominados pelos republicanos Os resultados representam uma mudança profunda no equilíbrio político em Washington e obrigarão Trump a enfrentar um Congresso controlado pela oposição durante os últimos dois anos do seu mandato presidencial Segundo os dados provisórios divulgados durante a madrugada, os democratas tinham assegurado pelo menos 54 lugares no Senado e 225 na Câmara dos Representantes, ultrapassando as maiorias necessárias em ambas as câmaras, embora várias disputas continuem sem vencedor declarado A conquista do Senado constituiu a maior surpresa da noite eleitoral, depois de os democratas retirarem aos…",
+      "why": "«Democratas conquistam Congresso e impõem derrota a Trump» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Democratas conquistam Congresso e impõem derrota a Trump», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-11-03T23:48:33+00:00",
-      "age_hours": 0.1,
+      "published": "2026-11-04T09:13:24+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-intercalares-chamam-200-milhoes-as-urnas-nos-estados-unidos_e1776677",
+      "link": "https://www.rtp.pt/noticias/mundo/democratas-conquistam-congresso-e-impoem-derrota-a-trump_n1776797",
       "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 6,
-      "source_count": 2,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 3,
+      "source_count": 1,
       "sources": [
-        "RTP Notícias",
-        "Euronews Português"
+        "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
       "confirmations": [
         {
-          "source": "Euronews Português",
-          "title": "Resultados das eleições intercalares 2026 nos EUA: atualizações em direto com mapas e gráficos",
-          "link": "https://pt.euronews.com/2026/11/03/resultados-das-eleicoes-intercalares-2026-nos-eua-atualizacoes-em-direto-com-mapas-e-grafi"
+          "source": "RTP Notícias",
+          "title": "Trump atribui derrota \"em parte\" a guerra no Irão",
+          "link": "https://www.rtp.pt/noticias/mundo/trump-atribui-derrota-em-parte-a-guerra-no-irao_n1776752"
         },
         {
           "source": "RTP Notícias",
-          "title": "Eleições intercalares nos EUA. Sondagens apontam para derrota dos Republicanos",
-          "link": "https://www.rtp.pt/noticias/mundo/eleicoes-intercalares-nos-eua-sondagens-apontam-para-derrota-dos-republicanos_v1776560"
+          "title": "Petrolíferas dos EUA lucram 116 mil milhões de euros com guerra no Irão",
+          "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/petroliferas-dos-eua-lucram-116-mil-milhoes-de-euros-com-guerra-no-irao_n1776540"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Os norte-americanos estão a escolher os novos representantes no Congresso. Está em causa o controlo das duas câmaras e a capacidade do presidente norte-americano de manter a sua agenda política numa altura em que os índices de aprovação de Donald Trump são dos mais baixos de sempre Enquanto aguarda os resultados das intercalares, Trump decidiu proclamar a \"Semana do Anti-Comunismo\" para 1 a 7 de novembro. «Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições intercalares chamam 200 milhões às urnas nos Estados Unidos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 12.48,
+      "detailed_summary": "Os democratas conquistaram as duas câmaras do Congresso norte-americano nas eleições intercalares de terça-feira, alcançando vitórias surpreendentes em estados republicanos e impondo uma pesada derrota política ao Presidente Donald Trump A dimensão da vitória, confirmada pelas projeções dos principais órgãos de comunicação social norte-americanos, superou as expectativas do Partido Democrata, que recuperou o controlo do Senado e da Câmara dos Representantes, até agora dominados pelos republicanos Os resultados representam uma mudança profunda no equilíbrio político em Washington e obrigarão Trump a enfrentar um Congresso controlado pela oposição durante os últimos dois anos do seu mandato presidencial Segundo os dados provisórios divulgados durante a madrugada, os democratas tinham assegurado pelo menos 54 lugares no Senado e 225 na Câmara dos Representantes, ultrapassando as maiorias necessárias em ambas as câmaras, embora várias disputas continuem sem vencedor declarado A conquista do Senado constituiu a maior surpresa da noite eleitoral, depois de os democratas retirarem aos… «Democratas conquistam Congresso e impõem derrota a Trump» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Democratas conquistam Congresso e impõem derrota a Trump», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.71,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens",
-      "summary": "Maputo, 03 de Nov (AIM) – O Presidente da República, Daniel Chapo, anunciou que o Governo está a estudar a possibilidade de isentar os jovens dos custos de legalização de empresas e criar um regime fiscal específico para pequenas e médias empresas (PME), numa iniciativa que visa facilitar a formalização de negócios e estimular o empreendedorismo juvenil em Moçambique. O Chefe do Estado avançou esta informação esta terça-feira, 3 de Novembro, em Maputo, durante uma audiência concedida à Associação Nacional dos Jovens Empresários (ANJE), liderada pela sua presidente, Mara Cancune. Na ocasião, Daniel Chapo defendeu a necessidade de reduzir os encargos financeiros e fiscais que dificultam a criação e o crescimento de empresas lideradas por jovens, sobretudo os custos de formalização, que podem limitar o acesso a oportunidades de negócio, incluindo concursos públicos. Segundo o Presidente da República, está em curso um estudo para avaliar a viabilidade da isenção dos custos de legalização e da criação de condições fiscais diferenciadas para as empresas de jovens.",
-      "why": "«PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-03T20:21:35+00:00",
-      "age_hours": 3.5,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/03/pr-estuda-isencao-de-custos-de-legalizacao-e-regime-fiscal-especial-para-empresas-de-jovens/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 03 de Nov (AIM) – O Presidente da República, Daniel Chapo, anunciou que o Governo está a estudar a possibilidade de isentar os jovens dos custos de legalização de empresas e criar um regime fiscal específico para pequenas e médias empresas (PME), numa iniciativa que visa facilitar a formalização de negócios e estimular o empreendedorismo juvenil em Moçambique. O Chefe do Estado avançou esta informação esta terça-feira, 3 de Novembro, em Maputo, durante uma audiência concedida à Associação Nacional dos Jovens Empresários (ANJE), liderada pela sua presidente, Mara Cancune. Na ocasião, Daniel Chapo defendeu a necessidade de reduzir os encargos financeiros e fiscais que dificultam a criação e o crescimento de empresas lideradas por jovens, sobretudo os custos de formalização, que podem limitar o acesso a oportunidades de negócio, incluindo concursos públicos. Segundo o Presidente da República, está em curso um estudo para avaliar a viabilidade da isenção dos custos de legalização e da criação de condições fiscais diferenciadas para as empresas de jovens. «PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PR estuda isenção de custos de legalização e regime fiscal especial para empresas de jovens», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.27,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "CM aprova alterações ao regime remuneratório dos órgãos de soberania",
-      "summary": "Maputo, 3 Nov (AIM) – O Conselho de Ministros aprovou alterações ao regime de remuneração dos titulares e membros dos órgãos de soberania e de outros órgãos públicos, com o objectivo de actualizar o enquadramento remuneratório face à criação de novas instituições e às alterações das respectivas estruturas orgânicas. O anúncio foi feito esta terça-feira, em Maputo, pelo porta-voz do Governo, Inocêncio Impissa, no balanço da 32.ª Sessão Ordinária do Conselho de Ministros. A decisão altera o anexo II do Decreto n.º 34/2023 e o Decreto n.º 35/2023, ambos de 20 de Junho, que estabelecem o regime remuneratório dos demais membros dos órgãos de soberania e titulares de cargos políticos não abrangidos pela Lei n.º 5/2022, de 14 de Fevereiro. Segundo Impissa, a alteração pretende assegurar a coerência e actualidade do regime remuneratório, evitando lacunas, sobreposições e assimetrias no tratamento dos titulares e membros das instituições públicas.",
-      "why": "«CM aprova alterações ao regime remuneratório dos órgãos de soberania» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «CM aprova alterações ao regime remuneratório dos órgãos de soberania», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-03T20:09:17+00:00",
-      "age_hours": 3.7,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/03/cm-aprova-alteracoes-ao-regime-remuneratorio-dos-orgaos-de-soberania/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 3 Nov (AIM) – O Conselho de Ministros aprovou alterações ao regime de remuneração dos titulares e membros dos órgãos de soberania e de outros órgãos públicos, com o objectivo de actualizar o enquadramento remuneratório face à criação de novas instituições e às alterações das respectivas estruturas orgânicas. O anúncio foi feito esta terça-feira, em Maputo, pelo porta-voz do Governo, Inocêncio Impissa, no balanço da 32.ª Sessão Ordinária do Conselho de Ministros. A decisão altera o anexo II do Decreto n.º 34/2023 e o Decreto n.º 35/2023, ambos de 20 de Junho, que estabelecem o regime remuneratório dos demais membros dos órgãos de soberania e titulares de cargos políticos não abrangidos pela Lei n.º 5/2022, de 14 de Fevereiro. Segundo Impissa, a alteração pretende assegurar a coerência e actualidade do regime remuneratório, evitando lacunas, sobreposições e assimetrias no tratamento dos titulares e membros das instituições públicas. «CM aprova alterações ao regime remuneratório dos órgãos de soberania» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «CM aprova alterações ao regime remuneratório dos órgãos de soberania», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.23,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -139,17 +204,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Rússia intensificou os ataques à Ucrânia",
-      "summary": "Dezenas de civis morreram nas últimas 24 horas. Kiev respondeu com ataques a infraestruturas energéticas russas. Apesar da escalada, os dois países confirmaram novas negociações na próxima semana em Abu Dhabi",
-      "why": "«Rússia intensificou os ataques à Ucrânia» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Rússia intensificou os ataques à Ucrânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "MNE \"otimista\" com possibilidade de Cimeira Ibero-Americana em Portugal em 2030",
+      "summary": "O ministro dos Negócios Estrangeiros está \"otimista\" quanto à possibilidade de Portugal receber a Cimeira Ibero-Americana em 2030. Em declarações à RTP Antena 1, na antecipação da XXX Cimeira Ibero-Americana, que decorre a partir desta quarta-feira em Madrid, Paulo Rangel adiantou que já deu início aos contactos com os restantes países para avaliar o apoio à candidatura",
+      "why": "«MNE \"otimista\" com possibilidade de Cimeira Ibero-Americana em Portugal em 2030» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «MNE \"otimista\" com possibilidade de Cimeira Ibero-Americana em Portugal em 2030», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-11-03T23:12:47+00:00",
-      "age_hours": 0.7,
+      "published": "2026-11-04T08:24:59+00:00",
+      "age_hours": 2.2,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/russia-intensificou-os-ataques-a-ucrania_v1776688",
+      "link": "https://www.rtp.pt/noticias/mundo/mne-otimista-com-possibilidade-de-cimeira-ibero-americana-em-portugal-em-2030_n1776789",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -158,38 +223,38 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Dezenas de civis morreram nas últimas 24 horas. Kiev respondeu com ataques a infraestruturas energéticas russas. Apesar da escalada, os dois países confirmaram novas negociações na próxima semana em Abu Dhabi. «Rússia intensificou os ataques à Ucrânia» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Rússia intensificou os ataques à Ucrânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 11.85,
+      "detailed_summary": "O ministro dos Negócios Estrangeiros está \"otimista\" quanto à possibilidade de Portugal receber a Cimeira Ibero-Americana em 2030. Em declarações à RTP Antena 1, na antecipação da XXX Cimeira Ibero-Americana, que decorre a partir desta quarta-feira em Madrid, Paulo Rangel adiantou que já deu início aos contactos com os restantes países para avaliar o apoio à candidatura. «MNE \"otimista\" com possibilidade de Cimeira Ibero-Americana em Portugal em 2030» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «MNE \"otimista\" com possibilidade de Cimeira Ibero-Americana em Portugal em 2030», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.54,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Novos gestores para EMODRAGA e Agência do Vale do Zambeze",
-      "summary": "O Governo acaba de nomear, Celso Lourenço da Cunha, para o cargo de presidente do Conselho de Administração da Agência de Desenvolvimento do Vale do Zambeze. Numa outra resolução da 32ª sessão do Conselho de Ministro, foi nomeado Paulo Jafar Thermamat, para o cargo de presidente do Conselho de Administração da Empresa Moçambicana de Dragagem (EMODRAGA). Na mesma sessão, o Governo apreciou a informação sobre o incêndio que deflagrou no domingo (12 de Novembro) no Serviço de Oncologia do Hospital Central de Maputo onde decorre ainda uma investigação para apurar as reais causas deste incidente. Segundo o porta-voz, Inocêncio Impissa, o Governo agradece a onda de solidariedade nacional e internacional que desde os primeiros momentos tem recebido. Ainda neste contexto, os membros do Conselho de Ministros decidiram doar um mínimo de um dia de salário por cada membro em apoio aos esforços de reposição dos serviços de Oncologia do Hospital Central de Maputo. O conteúdo Novos gestores para EMODRAGA e Agência do Vale do Zambeze aparece primeiro em Jornal Notícias",
-      "why": "«Novos gestores para EMODRAGA e Agência do Vale do Zambeze» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Novos gestores para EMODRAGA e Agência do Vale do Zambeze», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-03T16:57:23+00:00",
-      "age_hours": 6.9,
+      "title": "Mundo tem cerca de 2 bilhões de pessoas fora da internet, diz relatório da ONU",
+      "summary": "Apesar de 76% dos cidadãos globais estarem online, desigualdade digital persiste; UIT realça que 93% das populações mais ricas acessam a rede, enquanto apenas 32% o fazem em economias de baixa renda; no espaço lusófono, são urgentes investimentos em infraestrutura e capacitação; Brasil e Portugal já estão na 5G",
+      "why": "«Mundo tem cerca de 2 bilhões de pessoas fora da internet, diz relatório da ONU» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «Mundo tem cerca de 2 bilhões de pessoas fora da internet, diz relatório da ONU», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Notícias ONU",
+      "published": "2026-11-03T12:00:00+00:00",
+      "age_hours": 22.6,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/novos-gestores-para-emodraga-e-agencia-do-vale-do-zambeze/",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854826",
       "original_source": true,
-      "event_id": "evt-mocambique-008",
+      "event_id": "evt-mundo-021",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Jornal Notícias"
+        "Notícias ONU"
       ],
-      "primary_source": "Jornal Notícias",
+      "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "O Governo acaba de nomear, Celso Lourenço da Cunha, para o cargo de presidente do Conselho de Administração da Agência de Desenvolvimento do Vale do Zambeze. Numa outra resolução da 32ª sessão do Conselho de Ministro, foi nomeado Paulo Jafar Thermamat, para o cargo de presidente do Conselho de Administração da Empresa Moçambicana de Dragagem (EMODRAGA). Na mesma sessão, o Governo apreciou a informação sobre o incêndio que deflagrou no domingo (12 de Novembro) no Serviço de Oncologia do Hospital Central de Maputo onde decorre ainda uma investigação para apurar as reais causas deste incidente. Segundo o porta-voz, Inocêncio Impissa, o Governo agradece a onda de solidariedade nacional e internacional que desde os primeiros momentos tem recebido. Ainda neste contexto, os membros do Conselho de Ministros decidiram doar um mínimo de um dia de salário por cada membro em apoio aos esforços de reposição dos serviços de Oncologia do Hospital Central de Maputo. O conteúdo Novos gestores para EMODRAGA e Agência do Vale do Zambeze aparece primeiro em Jornal Notícias. «Novos gestores para EMODRAGA e Agência do Vale do Zambeze» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Novos gestores para EMODRAGA e Agência do Vale do Zambeze», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.56,
-      "source_tier": "B",
+      "detailed_summary": "Apesar de 76% dos cidadãos globais estarem online, desigualdade digital persiste; UIT realça que 93% das populações mais ricas acessam a rede, enquanto apenas 32% o fazem em economias de baixa renda; no espaço lusófono, são urgentes investimentos em infraestrutura e capacitação; Brasil e Portugal já estão na 5G. «Mundo tem cerca de 2 bilhões de pessoas fora da internet, diz relatório da ONU» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Mundo tem cerca de 2 bilhões de pessoas fora da internet, diz relatório da ONU», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 9.29,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -203,7 +268,7 @@
       "impact": "No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-11-03T15:32:47+00:00",
-      "age_hours": 8.3,
+      "age_hours": 19.0,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/impasse-no-saara-ocidental-eua-e-russia-bloqueiam-missao-da-onu_v1776597",
       "original_source": true,
@@ -217,98 +282,96 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário. «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 10.27,
+      "editorial_score": 8.04,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "Energia",
         "Economia"
       ],
-      "title": "FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027",
-      "summary": "O Fundo de Energia (FUNAE) prevê iniciar, em 2027, a construção de 100 mini-redes solares nas províncias da Zambézia, Tete e Niassa, num investimento estimado em 50 milhões de dólares. […]",
-      "why": "«FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-11-03T14:15:00+00:00",
-      "age_hours": 9.6,
+      "title": "Portugal: Manifestantes pela habitação regressam ao Rossio após decisão judicial",
+      "summary": "Manifestantes pela habitação regressaram ao histórico Rossio, em Lisboa, montando cerca de 100 tendas após uma decisão judicial, numa altura em que o governo enfrenta crescente pressão sobre a crise da habitação",
+      "why": "«Portugal: Manifestantes pela habitação regressam ao Rossio após decisão judicial» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Portugal: Manifestantes pela habitação regressam ao Rossio após decisão judicial», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-04T10:19:36+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/03/energia-3/funae-vai-investir-50-milhoes-de-dolares-em-100-mini-redes-solares-a-partir-de-2027/",
+      "link": "https://pt.euronews.com/video/2026/11/04/portugal-manifestantes-pela-habitacao-regressam-ao-rossio-apos-decisao-judicial",
       "original_source": true,
-      "event_id": "evt-mocambique-009",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Diário Económico"
+        "Euronews Português"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Manifestantes pela habitação regressaram ao histórico Rossio, em Lisboa, montando cerca de 100 tendas após uma decisão judicial, numa altura em que o governo enfrenta crescente pressão sobre a crise da habitação. «Portugal: Manifestantes pela habitação regressam ao Rossio após decisão judicial» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Portugal: Manifestantes pela habitação regressam ao Rossio após decisão judicial», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.96,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "África Austral lança plataforma regional para monitorar mercado de trabalho",
+      "summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas",
+      "why": "«África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
+      "impact": "No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Notícias ONU",
+      "published": "2026-11-03T12:00:00+00:00",
+      "age_hours": 22.6,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854812",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "O Fundo de Energia (FUNAE) prevê iniciar, em 2027, a construção de 100 mini-redes solares nas províncias da Zambézia, Tete e Niassa, num investimento estimado em 50 milhões de dólares. […]. «FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «FUNAE Vai Investir 50 Milhões de Dólares em 100 Mini-Redes Solares a Partir de 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 10.0,
-      "source_tier": "B",
+      "detailed_summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas. «África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 7.29,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA",
-      "summary": "Ainda havia esperança de um acordo entre os Estados Unidos e o Irão, afirmou o Qatar na terça‑feira, numa altura em que mediadores trocavam propostas em tempo real após conversações em Teerão.“Se não houvesse esperança, não haveria negociações”, disse o porta‑voz do ministério dos Negócios Estrangeiros do Qatar, Majed Al Ansari, numa conferência de imprensa semanal em Doha.Uma delegação catari reuniu‑se com responsáveis iranianos durante mais de três horas na segunda‑feira, antes de regressar a Doha nessa noite, e Washington e Teerão estavam agora a analisar propostas, acrescentou Al Ansari.Entretanto, o Qatar trabalhava num acordo provisório destinado a reforçar a confiança e a permitir que ambas as partes demonstrassem que cumpririam os seus compromissos.“A confiança constrói‑se através do processo, não por ações específicas”, afirmou Al Ansari, acrescentando que um acordo provisório poderia ser um primeiro passo rumo a uma paz duradoura.A guerra em curso começou com ataques dos Estados Unidos e de Israel contra o Irão no fim de fevereiro, que levaram a bloqueios separados dos EUA…",
-      "why": "«Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-03T18:26:12+00:00",
-      "age_hours": 5.4,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/03/qatar-ve-esperanca-em-acordo-eua-irao-apesar-de-ataques-dos-eua",
+      "title": "Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040",
+      "summary": "Alerta da Organização Internacional do Trabalho coloca agricultura e construção entre os setores mais vulneráveis; especialistas defendem mudanças nas jornadas laborais e medidas de proteção para reduzir os impactos do calor",
+      "why": "«Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
+      "impact": "No caso de «Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Notícias ONU",
+      "published": "2026-11-02T12:00:00+00:00",
+      "age_hours": 46.6,
+      "within_24h": false,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854810",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Euronews Português"
+        "Notícias ONU"
       ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Ainda havia esperança de um acordo entre os Estados Unidos e o Irão, afirmou o Qatar na terça‑feira, numa altura em que mediadores trocavam propostas em tempo real após conversações em Teerão.“Se não houvesse esperança, não haveria negociações”, disse o porta‑voz do ministério dos Negócios Estrangeiros do Qatar, Majed Al Ansari, numa conferência de imprensa semanal em Doha.Uma delegação catari reuniu‑se com responsáveis iranianos durante mais de três horas na segunda‑feira, antes de regressar a Doha nessa noite, e Washington e Teerão estavam agora a analisar propostas, acrescentou Al Ansari.Entretanto, o Qatar trabalhava num acordo provisório destinado a reforçar a confiança e a permitir que ambas as partes demonstrassem que cumpririam os seus compromissos.“A confiança constrói‑se através do processo, não por ações específicas”, afirmou Al Ansari, acrescentando que um acordo provisório poderia ser um primeiro passo rumo a uma paz duradoura.A guerra em curso começou com ataques dos Estados Unidos e de Israel contra o Irão no fim de fevereiro, que levaram a bloqueios separados dos EUA… «Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Qatar vê esperança em acordo EUA-Irão apesar de ataques dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.88,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm",
-      "summary": "O presidente do parlamento do Irão, Mohammad Bagher Ghalibaf, advertiu na terça-feira que qualquer erro estratégico dos EUA abriria “um novo campo de batalha na guerra”, horas depois de um avião da Força Aérea dos EUA ter, segundo alegações, atingido um sistema de mísseis do IRGC na ilha de Qeshm.Ghalibaf disse ao parlamento que o Irão estava no seu mais alto nível de prontidão defensiva e que a responsabilidade de evitar nova escalada recaía sobre Washington. “A bola está do lado da América para impedir a guerra”, disse.As declarações surgiram depois de moradores da ilha de Qeshm, de Hengam e de Bandar Abbas terem relatado explosões sucessivas e abalos durante a noite, segundo as agências iranianas IRNA e Fars.Meios de comunicação dos EUA noticiaram que um avião da Força Aérea norte-americana tinha atingido um sistema de lançamento de mísseis superfície-ar do IRGC na ilha, depois de um míssil ter sido disparado de Qeshm contra uma aeronave dos EUA no estreito de Ormuz.A operação foi descrita como limitada e destinada a proteger o transporte marítimo comercial.",
-      "why": "«Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-03T17:58:31+00:00",
-      "age_hours": 5.9,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/03/irao-ameaca-novo-campo-de-batalha-apos-alegado-ataque-dos-eua-em-qeshm",
-      "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O presidente do parlamento do Irão, Mohammad Bagher Ghalibaf, advertiu na terça-feira que qualquer erro estratégico dos EUA abriria “um novo campo de batalha na guerra”, horas depois de um avião da Força Aérea dos EUA ter, segundo alegações, atingido um sistema de mísseis do IRGC na ilha de Qeshm.Ghalibaf disse ao parlamento que o Irão estava no seu mais alto nível de prontidão defensiva e que a responsabilidade de evitar nova escalada recaía sobre Washington. “A bola está do lado da América para impedir a guerra”, disse.As declarações surgiram depois de moradores da ilha de Qeshm, de Hengam e de Bandar Abbas terem relatado explosões sucessivas e abalos durante a noite, segundo as agências iranianas IRNA e Fars.Meios de comunicação dos EUA noticiaram que um avião da Força Aérea norte-americana tinha atingido um sistema de lançamento de mísseis superfície-ar do IRGC na ilha, depois de um míssil ter sido disparado de Qeshm contra uma aeronave dos EUA no estreito de Ormuz.A operação foi descrita como limitada e destinada a proteger o transporte marítimo comercial. «Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão ameaça “novo campo de batalha” após alegado ataque dos EUA em Qeshm», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.77,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
+      "primary_source": "Notícias ONU",
+      "status": "update",
+      "opportunity_flag": true,
+      "detailed_summary": "Alerta da Organização Internacional do Trabalho coloca agricultura e construção entre os setores mais vulneráveis; especialistas defendem mudanças nas jornadas laborais e medidas de proteção para reduzir os impactos do calor. «Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Calor extremo pode eliminar 2,4 milhões de empregos na África até 2040», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 6.79,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -331,7 +394,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
+    "África": 3,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
