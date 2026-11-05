@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T18:30:02.271640+00:00",
+  "updated_at": "2026-11-05T00:12:11.707872+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,11 +16,11 @@
       "impact": "No caso de «TRANS-LOG MOZ 2026: BAD Apela à Redução de Riscos Para Atrair Capital Privado às Infra-Estruturas», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
       "published": "2026-11-04T15:30:00+00:00",
-      "age_hours": 3.0,
+      "age_hours": 8.7,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/11/04/negocios/infra-estruturas/trans-log-moz-2026-bad-apela-a-reducao-de-riscos-para-atrair-capital-privado-as-infra-estruturas/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 2,
       "source_count": 2,
       "sources": [
@@ -38,7 +38,65 @@
       ],
       "opportunity_flag": true,
       "detailed_summary": "O Banco Africano de Desenvolvimento (BAD) defendeu, esta quarta-feira (4), em Maputo, a necessidade de reforçar os mecanismos de redução de riscos associados aos investimentos em infra-estruturas, de modo a […]. «TRANS-LOG MOZ 2026: BAD Apela à Redução de Riscos Para Atrair Capital Privado às Infra-Estruturas» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «TRANS-LOG MOZ 2026: BAD Apela à Redução de Riscos Para Atrair Capital Privado às Infra-Estruturas», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 14.88,
+      "editorial_score": 13.69,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo reforça medidas de combate à corrupção",
+      "summary": "Maputo, 04 Nov (AIM) – O Governo moçambicano assumiu o compromisso de reforçar o combate à corrupção, através do fortalecimento do quadro legal e institucional de prevenção e responsabilização, com destaque para a aprovação da Lei n.º 12/2024, de 18 de Junho, relativa à probidade pública. a garantia foi dada hoje, em Maputo, pelo o Secretário Permanente do Ministério da Justiça, Assuntos Constitucionais e Religiosos, Tuarique Abdala. O dirigente, que falava em representação da Primeira-Ministra, Maria Benvinda Delfina Levi, destacou o papel do Observatório da Justiça na promoção da ética, integridade e transparência em Moçambique. “O Observatório da Justiça afirma-se como uma entidade empenhada na disseminação da ética e da integridade em Moçambique”, afirmou.",
+      "why": "«Governo reforça medidas de combate à corrupção» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo reforça medidas de combate à corrupção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-04T21:07:23+00:00",
+      "age_hours": 3.1,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/04/governo-reforca-medidas-de-combate-a-corrupcao/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 04 Nov (AIM) – O Governo moçambicano assumiu o compromisso de reforçar o combate à corrupção, através do fortalecimento do quadro legal e institucional de prevenção e responsabilização, com destaque para a aprovação da Lei n.º 12/2024, de 18 de Junho, relativa à probidade pública. a garantia foi dada hoje, em Maputo, pelo o Secretário Permanente do Ministério da Justiça, Assuntos Constitucionais e Religiosos, Tuarique Abdala. O dirigente, que falava em representação da Primeira-Ministra, Maria Benvinda Delfina Levi, destacou o papel do Observatório da Justiça na promoção da ética, integridade e transparência em Moçambique. “O Observatório da Justiça afirma-se como uma entidade empenhada na disseminação da ética e da integridade em Moçambique”, afirmou. «Governo reforça medidas de combate à corrupção» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo reforça medidas de combate à corrupção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.35,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "FRELIMO convoca Comité Central Extraordinária para Novembro",
+      "summary": "Maputo, 04 Nov (AIM) – A FRELIMO, partido no poder, vai reunir a 5.ª Sessão Extraordinária do Comité Central nos dias 27 e 28 de Novembro próximo, na Escola Central do partido, na cidade da Matola, província de Maputo, para apreciar e aprovar instrumentos fundamentais à preparação do XIII Congresso, anunciou hoje, em Maputo, a Comissão Política do partido. A informação foi partilhada pelo porta-voz do Comité Central, Pedro Guiliche, no final da Sessão Ordinária da Comissão Política, dirigida pelo Presidente da FRELIMO e da República, Daniel Chapo. Segundo Guiliche, a reunião do Comité Central, órgão máximo do partido no intervalo entre congressos, terá como agenda três matérias centrais, nomeadamente, a apreciação e aprovação da directiva sobre as eleições internas para os órgãos do partido, o Código de Conduta Ética e Disciplina Partidária e as teses ao XIII Congresso da FRELIMO. A aprovação destes instrumentos enquadra-se nos preparativos do XIII Congresso, previsto para decorrer de 20 a 25 de Julho de 2027, na cidade de Nampula, zona norte.",
+      "why": "«FRELIMO convoca Comité Central Extraordinária para Novembro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «FRELIMO convoca Comité Central Extraordinária para Novembro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-04T20:59:45+00:00",
+      "age_hours": 3.2,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/04/frelimo-convoca-comite-central-extraordinaria-para-novembro/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 04 Nov (AIM) – A FRELIMO, partido no poder, vai reunir a 5.ª Sessão Extraordinária do Comité Central nos dias 27 e 28 de Novembro próximo, na Escola Central do partido, na cidade da Matola, província de Maputo, para apreciar e aprovar instrumentos fundamentais à preparação do XIII Congresso, anunciou hoje, em Maputo, a Comissão Política do partido. A informação foi partilhada pelo porta-voz do Comité Central, Pedro Guiliche, no final da Sessão Ordinária da Comissão Política, dirigida pelo Presidente da FRELIMO e da República, Daniel Chapo. Segundo Guiliche, a reunião do Comité Central, órgão máximo do partido no intervalo entre congressos, terá como agenda três matérias centrais, nomeadamente, a apreciação e aprovação da directiva sobre as eleições internas para os órgãos do partido, o Código de Conduta Ética e Disciplina Partidária e as teses ao XIII Congresso da FRELIMO. A aprovação destes instrumentos enquadra-se nos preparativos do XIII Congresso, previsto para decorrer de 20 a 25 de Julho de 2027, na cidade de Nampula, zona norte. «FRELIMO convoca Comité Central Extraordinária para Novembro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «FRELIMO convoca Comité Central Extraordinária para Novembro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.33,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -53,35 +111,87 @@
       "impact": "No caso de «Mais 27 mil milhões de meticais para mitigar impactos do El Niño», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
       "published": "2026-11-04T18:04:00+00:00",
-      "age_hours": 0.4,
+      "age_hours": 6.1,
       "within_24h": true,
       "link": "https://opais.co.mz/mais-27-mil-milhoes-de-meticais-para-mitigar-impactos-do-el-nino/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 4,
-      "source_count": 2,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "O País",
-        "AIM Notícias"
+        "O País"
       ],
       "primary_source": "O País",
       "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A primeira-ministra, Maria Benvinda Levi, anunciou, nesta quarta-feira, na Assembleia da República, que o Governo prevê mobilizar cerca de 27 mil milhões de meticais para implementar o Plano Nacional de Mitigação dos Impactos do Fenómeno El Niño 2026/2027, face à previsão de seca severa em 76 distritos das províncias de Maputo, Gaza, Inhambane, Sofala, Manica […]. «Mais 27 mil milhões de meticais para mitigar impactos do El Niño» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Mais 27 mil milhões de meticais para mitigar impactos do El Niño», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 11.73,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid",
+      "summary": "O Presidente da Ucrânia, Volodymyr Zelensky, chegou hoje a Madrid, onde prevê reunir-se com os líderes da comunidade ibero-americana que estão na capital espanhola para uma cimeira, segundo o governo espanhol A presença de Zelensky em Madrid, para reuniões paralelas aos trabalhos da 30.ª Cimeira Ibero-Americana, só hoje foi revelada, por motivos de segurança, segundo fontes do executivo de Espanha Está previsto um encontro de Zelensky na quinta-feira à tarde com líderes dos países da comunidade ibero-americana, após o plenário da cimeira O Presidente da Ucrânia vai ainda manter encontros com o Rei de Espanha, Felipe VI, e com o primeiro-ministro espanhol, Pedro Sánchez, entre outras reuniões bilaterais A 30.ª Cimeira Ibero-Americana arranca hoje ao final da tarde em Madrid com 10 dos 22 países da comunidade representados por chefes de Estado e Governo, como é o caso de Portugal O Presidente da República, António José Seguro, e o primeiro-ministro, Luís Montenegro, participam, pela primeira vez, hoje e na quinta-feira, na Cimeira Ibero-americana, que este ano terá ainda os…",
+      "why": "«Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-04T21:20:25+00:00",
+      "age_hours": 2.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-soma-se-a-30a-cimeira-ibero-americana-de-madrid_n1776895",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 2,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
       "confirmations": [
         {
-          "source": "O País",
-          "title": "Fraudes nas telecomunicações caem 64%, mas prejuízos ultrapassam 128 milhões de meticais",
-          "link": "https://opais.co.mz/fraudes-nas-telecomunicacoes-caem-64-em-mocambique-mas-prejuizos-ultrapassam-128-milhoes-de-meticais/"
-        },
-        {
-          "source": "AIM Notícias",
-          "title": "Governo mobiliza 27 mil milhões de meticais para mitigar efeitos do El Niño",
-          "link": "https://aimnews.org/2026/11/04/governo-mobiliza-27-mil-milhoes-de-meticais-para-mitigar-efeitos-do-el-nino/"
+          "source": "RTP Notícias",
+          "title": "MNE \"otimista\" com possibilidade de Cimeira Ibero-Americana em Portugal em 2030",
+          "link": "https://www.rtp.pt/noticias/mundo/mne-otimista-com-possibilidade-de-cimeira-ibero-americana-em-portugal-em-2030_n1776789"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "A primeira-ministra, Maria Benvinda Levi, anunciou, nesta quarta-feira, na Assembleia da República, que o Governo prevê mobilizar cerca de 27 mil milhões de meticais para implementar o Plano Nacional de Mitigação dos Impactos do Fenómeno El Niño 2026/2027, face à previsão de seca severa em 76 distritos das províncias de Maputo, Gaza, Inhambane, Sofala, Manica […]. «Mais 27 mil milhões de meticais para mitigar impactos do El Niño» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Mais 27 mil milhões de meticais para mitigar impactos do El Niño», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 14.42,
-      "source_tier": "B",
+      "detailed_summary": "O Presidente da Ucrânia, Volodymyr Zelensky, chegou hoje a Madrid, onde prevê reunir-se com os líderes da comunidade ibero-americana que estão na capital espanhola para uma cimeira, segundo o governo espanhol A presença de Zelensky em Madrid, para reuniões paralelas aos trabalhos da 30.ª Cimeira Ibero-Americana, só hoje foi revelada, por motivos de segurança, segundo fontes do executivo de Espanha Está previsto um encontro de Zelensky na quinta-feira à tarde com líderes dos países da comunidade ibero-americana, após o plenário da cimeira O Presidente da Ucrânia vai ainda manter encontros com o Rei de Espanha, Felipe VI, e com o primeiro-ministro espanhol, Pedro Sánchez, entre outras reuniões bilaterais A 30.ª Cimeira Ibero-Americana arranca hoje ao final da tarde em Madrid com 10 dos 22 países da comunidade representados por chefes de Estado e Governo, como é o caso de Portugal O Presidente da República, António José Seguro, e o primeiro-ministro, Luís Montenegro, participam, pela primeira vez, hoje e na quinta-feira, na Cimeira Ibero-americana, que este ano terá ainda os… «Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.4,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Banco Central Europeu alerta para fraudes com convites para euro digital",
+      "summary": "O Banco Central Europeu (BCE) alertou hoje, no seu `site`, para um esquema fraudulento que envolve o investimento no euro digital, prometendo rendimentos elevados sem qualquer risco Os burlões distribuem cartas falsas do BCE nas quais convidam os cidadãos a participar num suposto projeto-piloto do euro digital e os incentivam a investir dinheiro, prometendo rendimentos elevados sem qualquer risco O BCE alerta que se trata de um esquema fraudulento, uma vez que a instituição não oferece produtos de investimento relacionados com o euro digital, nem solicita aos cidadãos que invistam dinheiro em projetos relacionados com o euro digital Por isso, recomenda aos cidadãos que não respondam a estas ofertas, não transfiram qualquer montante e não partilhem informações pessoais nem financeiras Se um cidadão acreditar ter sido vítima de uma fraude, deve contactar a polícia local, recomenda o BCE",
+      "why": "«Banco Central Europeu alerta para fraudes com convites para euro digital» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «Banco Central Europeu alerta para fraudes com convites para euro digital», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "RTP Notícias",
+      "published": "2026-11-04T21:01:13+00:00",
+      "age_hours": 3.2,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/banco-central-europeu-alerta-para-fraudes-com-convites-para-euro-digital_n1776906",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O Banco Central Europeu (BCE) alertou hoje, no seu `site`, para um esquema fraudulento que envolve o investimento no euro digital, prometendo rendimentos elevados sem qualquer risco Os burlões distribuem cartas falsas do BCE nas quais convidam os cidadãos a participar num suposto projeto-piloto do euro digital e os incentivam a investir dinheiro, prometendo rendimentos elevados sem qualquer risco O BCE alerta que se trata de um esquema fraudulento, uma vez que a instituição não oferece produtos de investimento relacionados com o euro digital, nem solicita aos cidadãos que invistam dinheiro em projetos relacionados com o euro digital Por isso, recomenda aos cidadãos que não respondam a estas ofertas, não transfiram qualquer montante e não partilhem informações pessoais nem financeiras Se um cidadão acreditar ter sido vítima de uma fraude, deve contactar a polícia local, recomenda o BCE. «Banco Central Europeu alerta para fraudes com convites para euro digital» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Banco Central Europeu alerta para fraudes com convites para euro digital», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 11.33,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -89,15 +199,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Confirmados mais de 800 convidados para o Mozambique Tourism Summit em Vilankulo",
-      "summary": "A cidade de Vilankulo, na província de Inhambane, acolhe, entre os dias 5 e 6 de Novembro, a segunda edição do Mozambique Tourism Summit, que deverá mobilizar cerca de 800 convidados, entre investidores, operadores turísticos e governantes. O Governo provincial espera que o encontro resulte em novos investimentos nos sectores hoteleiro e do turismo de […]",
-      "why": "«Confirmados mais de 800 convidados para o Mozambique Tourism Summit em Vilankulo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Confirmados mais de 800 convidados para o Mozambique Tourism Summit em Vilankulo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Chapo defende mais produção e menos nascimentos no país",
+      "summary": "O Presidente da República diz que o País deve crescer mais economicamente do que em número de novos nascimentos. Daniel Chapo defende mais financiamento para iniciativas juvenis, para fazer face ao desemprego. Chapo falava na abertura da Conferência Nacional de População e Desenvolvimento. O Governo reuniu políticos, académicos, estudantes e várias personalidades para discutir estratégias […]",
+      "why": "«Chapo defende mais produção e menos nascimentos no país» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Chapo defende mais produção e menos nascimentos no país», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "O País",
-      "published": "2026-11-04T17:22:01+00:00",
-      "age_hours": 1.1,
+      "published": "2026-11-04T19:27:09+00:00",
+      "age_hours": 4.7,
       "within_24h": true,
-      "link": "https://opais.co.mz/confirmados-mais-de-800-convidados-para-o-mozambique-tourism-summit-em-vilankulo/",
+      "link": "https://opais.co.mz/chapo-defende-mais-producao-e-menos-nascimentos-no-pais/",
       "original_source": true,
       "event_id": "evt-mocambique-003",
       "cluster_size": 1,
@@ -108,140 +218,126 @@
       "primary_source": "O País",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "A cidade de Vilankulo, na província de Inhambane, acolhe, entre os dias 5 e 6 de Novembro, a segunda edição do Mozambique Tourism Summit, que deverá mobilizar cerca de 800 convidados, entre investidores, operadores turísticos e governantes. O Governo provincial espera que o encontro resulte em novos investimentos nos sectores hoteleiro e do turismo de […]. «Confirmados mais de 800 convidados para o Mozambique Tourism Summit em Vilankulo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Confirmados mais de 800 convidados para o Mozambique Tourism Summit em Vilankulo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.77,
+      "detailed_summary": "O Presidente da República diz que o País deve crescer mais economicamente do que em número de novos nascimentos. Daniel Chapo defende mais financiamento para iniciativas juvenis, para fazer face ao desemprego. Chapo falava na abertura da Conferência Nacional de População e Desenvolvimento. O Governo reuniu políticos, académicos, estudantes e várias personalidades para discutir estratégias […]. «Chapo defende mais produção e menos nascimentos no país» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Chapo defende mais produção e menos nascimentos no país», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 11.02,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "África",
       "tags": [
-        "Energia",
-        "IA",
-        "Economia"
+        "Energia"
       ],
-      "title": "Tânia Tomé lança plataforma e aplicação de liderança IA nos PALOP",
-      "summary": "A empreendedora moçambicana, Tânia Tomé, em colaboração com a Brandulogy e a Womenice Global Foundation, lança, quarta-feira (11), em Maputo, a primeira plataforma e aplicação de liderança com Inteligência Artificial dos Países Africanos de Língua Oficial Portuguesa (PALOP). A plataforma apresenta um ecossistema digital de Liderança, Inclusão e Performance que integra Inteligência Artificial e a Metodologia Succenergy , com o objectivo de ampliar o acesso ao desenvolvimento pessoal, profissional e organizacional nos PALOP, na Lusofonia e noutros mercados internacionais. A iniciativa integra a metodologia Succenergy e três soluções de Inteligência Artificial para Liderança, Inclusão e Performance, com ferramentas dirigidas a empresas, instituições, empreendedores, micronegócios, vendedores informais, mulheres e jovens.",
-      "why": "«Tânia Tomé lança plataforma e aplicação de liderança IA nos PALOP» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Tânia Tomé lança plataforma e aplicação de liderança IA nos PALOP», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-04T15:13:37+00:00",
-      "age_hours": 3.3,
+      "title": "Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes",
+      "summary": "Coordenadora humanitária da ONU no país fala dos impactos em hospitais; ela relatou que a falta de combustível afeta entrega de alimentos, justamente num momento em que secas estão abalando colheitas ao redor do país",
+      "why": "«Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes» merece atenção porque pode alterar decisões de energia e investimento em África.",
+      "impact": "No caso de «Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
+      "source": "Notícias ONU",
+      "published": "2026-11-04T12:00:00+00:00",
+      "age_hours": 12.2,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/tania-tome-lanca-plataforma-e-aplicacao-de-lideranca-ia-nos-palop/",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854833",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Jornal Notícias"
+        "Notícias ONU"
       ],
-      "primary_source": "Jornal Notícias",
+      "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A empreendedora moçambicana, Tânia Tomé, em colaboração com a Brandulogy e a Womenice Global Foundation, lança, quarta-feira (11), em Maputo, a primeira plataforma e aplicação de liderança com Inteligência Artificial dos Países Africanos de Língua Oficial Portuguesa (PALOP). A plataforma apresenta um ecossistema digital de Liderança, Inclusão e Performance que integra Inteligência Artificial e a Metodologia Succenergy , com o objectivo de ampliar o acesso ao desenvolvimento pessoal, profissional e organizacional nos PALOP, na Lusofonia e noutros mercados internacionais. A iniciativa integra a metodologia Succenergy e três soluções de Inteligência Artificial para Liderança, Inclusão e Performance, com ferramentas dirigidas a empresas, instituições, empreendedores, micronegócios, vendedores informais, mulheres e jovens. «Tânia Tomé lança plataforma e aplicação de liderança IA nos PALOP» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Tânia Tomé lança plataforma e aplicação de liderança IA nos PALOP», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.31,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "MANICA: GOVERNO VAI ASFALTAR 150 QUILÓMETROS DE ESTRADAS",
-      "summary": "Chimoio (Moçambique), 04 Nov (AIM) – O Governo vai iniciar, em Março de 2027, as obras de asfaltagem de cerca de 150 quilómetros de estradas em três distritos da província de Manica, centro de Moçambique, no âmbito do programa Mais Estradas. A empreitada abrange os troços Espungabera–Chiurairwe, na Estrada Regional n.º 441 (ER-441), com uma extensão de 36 quilómetros; Chimoio–Macate, na ER-523, com 42 quilómetros; e Dombe–Chitausse, na Estrada Nacional n.º 1 (EN1), com 52 quilómetros. As obras estão inseridas no programa Mais Estradas, recentemente lançado pelo Governo moçambicano, que visa melhorar a transitabilidade de pessoas e bens, através da expansão da rede de estradas asfaltadas no país. Moçambique possui cerca de 30 mil quilómetros de estradas, dos quais apenas 8.400 quilómetros estão asfaltados, correspondendo a 28 por cento da rede rodoviária nacional. Na província de Manica, a rede de estradas estende-se por cerca de três mil quilómetros, dos quais 900 quilómetros estão asfaltados.",
-      "why": "«MANICA: GOVERNO VAI ASFALTAR 150 QUILÓMETROS DE ESTRADAS» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «MANICA: GOVERNO VAI ASFALTAR 150 QUILÓMETROS DE ESTRADAS», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-04T17:26:56+00:00",
-      "age_hours": 1.0,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/04/manica-governo-vai-asfaltar-150-quilometros-de-estradas/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Chimoio (Moçambique), 04 Nov (AIM) – O Governo vai iniciar, em Março de 2027, as obras de asfaltagem de cerca de 150 quilómetros de estradas em três distritos da província de Manica, centro de Moçambique, no âmbito do programa Mais Estradas. A empreitada abrange os troços Espungabera–Chiurairwe, na Estrada Regional n.º 441 (ER-441), com uma extensão de 36 quilómetros; Chimoio–Macate, na ER-523, com 42 quilómetros; e Dombe–Chitausse, na Estrada Nacional n.º 1 (EN1), com 52 quilómetros. As obras estão inseridas no programa Mais Estradas, recentemente lançado pelo Governo moçambicano, que visa melhorar a transitabilidade de pessoas e bens, através da expansão da rede de estradas asfaltadas no país. Moçambique possui cerca de 30 mil quilómetros de estradas, dos quais apenas 8.400 quilómetros estão asfaltados, correspondendo a 28 por cento da rede rodoviária nacional. Na província de Manica, a rede de estradas estende-se por cerca de três mil quilómetros, dos quais 900 quilómetros estão asfaltados. «MANICA: GOVERNO VAI ASFALTAR 150 QUILÓMETROS DE ESTRADAS» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «MANICA: GOVERNO VAI ASFALTAR 150 QUILÓMETROS DE ESTRADAS», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.79,
-      "source_tier": "B",
+      "detailed_summary": "Coordenadora humanitária da ONU no país fala dos impactos em hospitais; ela relatou que a falta de combustível afeta entrega de alimentos, justamente num momento em que secas estão abalando colheitas ao redor do país. «Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
+      "editorial_score": 9.46,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo",
+      "summary": "Dandara Araújo da Silva é a entrevistada do Podcast ONU News; nascida em São Gonçalo, nos arredores do Rio de Janeiro, ela investiu nos estudos, venceu barreiras raciais e socioeconômicas para realizar o próprio sonho de se formar; hoje, trabalha na Agência Internacional de Energia Atômica, Aiea, na Áustria, e quer ir além",
+      "why": "«A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-11-04T12:00:00+00:00",
+      "age_hours": 12.2,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854825",
+      "original_source": true,
+      "event_id": "evt-mundo-010",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Dandara Araújo da Silva é a entrevistada do Podcast ONU News; nascida em São Gonçalo, nos arredores do Rio de Janeiro, ela investiu nos estudos, venceu barreiras raciais e socioeconômicas para realizar o próprio sonho de se formar; hoje, trabalha na Agência Internacional de Energia Atômica, Aiea, na Áustria, e quer ir além. «A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 9.46,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
       "tags": [
         "Segurança"
       ],
-      "title": "\"Todos sabem porque é que perdemos\". Vance atribui derrota eleitoral à guerra no Irão",
-      "summary": "Segundo JD Vance, \"muitas pessoas que votaram em Trump/Vance em 2024 votaram nos democratas em 2026\" e a culpa é da guerra no Irão",
-      "why": "«\"Todos sabem porque é que perdemos\". Vance atribui derrota eleitoral à guerra no Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «\"Todos sabem porque é que perdemos\". Vance atribui derrota eleitoral à guerra no Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU",
+      "summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário",
+      "why": "«Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
-      "published": "2026-11-04T16:59:47+00:00",
-      "age_hours": 1.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/todos-sabem-porque-e-que-perdemos-vance-atribui-derrota-eleitoral-a-guerra-no-irao_n1776904",
+      "published": "2026-11-03T15:32:47+00:00",
+      "age_hours": 32.7,
+      "within_24h": false,
+      "link": "https://www.rtp.pt/noticias/mundo/impasse-no-saara-ocidental-eua-e-russia-bloqueiam-missao-da-onu_v1776597",
       "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 3,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Principal negociador do Irão vê nos resultados eleitorais dos EUA um \"não à guerra\"",
-          "link": "https://www.rtp.pt/noticias/mundo/principal-negociador-do-irao-ve-nos-resultados-eleitorais-dos-eua-um-nao-a-guerra_n1776821"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Trump atribui derrota \"em parte\" a guerra no Irão",
-          "link": "https://www.rtp.pt/noticias/mundo/trump-atribui-derrota-em-parte-a-guerra-no-irao_n1776752"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Segundo JD Vance, \"muitas pessoas que votaram em Trump/Vance em 2024 votaram nos democratas em 2026\" e a culpa é da guerra no Irão. «\"Todos sabem porque é que perdemos\". Vance atribui derrota eleitoral à guerra no Irão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «\"Todos sabem porque é que perdemos\". Vance atribui derrota eleitoral à guerra no Irão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.69,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Após intercalares. Oposição israelita acusa Netanyahu de prejudicar relações com os EUA",
-      "summary": "A oposição israelita aproveitou os resultados históricos das eleições intercalares norte-americanas para acusar Benjamin Netanyahu de prejudicar as relações com os Estados Unidos. Os rivais do primeiro-ministro prosseguem, entretanto, os esforços para formar um Governo que não o inclua",
-      "why": "«Após intercalares. Oposição israelita acusa Netanyahu de prejudicar relações com os EUA» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Após intercalares. Oposição israelita acusa Netanyahu de prejudicar relações com os EUA», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-04T18:01:52+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/apos-intercalares-oposicao-israelita-acusa-netanyahu-de-prejudicar-relacoes-com-os-eua_n1776921",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": false,
-      "detailed_summary": "A oposição israelita aproveitou os resultados históricos das eleições intercalares norte-americanas para acusar Benjamin Netanyahu de prejudicar as relações com os Estados Unidos. Os rivais do primeiro-ministro prosseguem, entretanto, os esforços para formar um Governo que não o inclua. «Após intercalares. Oposição israelita acusa Netanyahu de prejudicar relações com os EUA» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Após intercalares. Oposição israelita acusa Netanyahu de prejudicar relações com os EUA», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.9,
+      "detailed_summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário. «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 7.23,
       "source_tier": "A",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "África Austral lança plataforma regional para monitorar mercado de trabalho",
+      "summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas",
+      "why": "«África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
+      "impact": "No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Notícias ONU",
+      "published": "2026-11-03T12:00:00+00:00",
+      "age_hours": 36.2,
+      "within_24h": false,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854812",
+      "original_source": true,
+      "event_id": "evt-áfrica-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "update",
+      "opportunity_flag": true,
+      "detailed_summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas. «África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 7.12,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Mundo",
@@ -254,11 +350,11 @@
       "impact": "No caso de «Deputado iraniano diz à Euronews que mísseis de Teerão atingirão a Europa se os EUA usarem bases…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
       "published": "2026-11-04T12:07:13+00:00",
-      "age_hours": 6.4,
+      "age_hours": 12.1,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/11/04/deputado-iraniano-diz-a-euronews-que-misseis-de-teerao-atingirao-a-europa-se-os-eua-usarem",
       "original_source": true,
-      "event_id": "evt-mundo-006",
+      "event_id": "evt-mundo-009",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -268,7 +364,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Ahmad Bakhshayesh Ardestani, membro da Comissão de Segurança do parlamento iraniano, afirmou que o Irão atacaria qualquer base europeia usada contra o país, incluindo em Itália e na Alemanha. Meios de comunicação estatais alertam que qualquer novo confronto pode atingir “o coração da Europa”. «Deputado iraniano diz à Euronews que mísseis de Teerão atingirão a Europa se os EUA usarem bases…» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Deputado iraniano diz à Euronews que mísseis de Teerão atingirão a Europa se os EUA usarem bases…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 7.67,
+      "editorial_score": 6.48,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -283,11 +379,11 @@
       "impact": "No caso de «Reino Unido: polícia detém 25 apoiantes da Palestine Action junto ao Supremo Tribunal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-11-04T16:49:37+00:00",
-      "age_hours": 1.7,
+      "age_hours": 7.4,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/11/04/reino-unido-policia-detem-25-apoiantes-da-palestine-action-junto-ao-supremo-tribunal",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -297,38 +393,9 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Polícia deteve apoiantes da Palestine Action junto ao Supremo Tribunal, em Londres, Reino Unido, na quarta-feira, 4 de novembro, quando foi retomada a batalha judicial sobre a proibição do grupo pelo governo britânico. «Reino Unido: polícia detém 25 apoiantes da Palestine Action junto ao Supremo Tribunal» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Reino Unido: polícia detém 25 apoiantes da Palestine Action junto ao Supremo Tribunal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.65,
+      "editorial_score": 6.46,
       "source_tier": "C",
       "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU",
-      "summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário",
-      "why": "«Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "RTP Notícias",
-      "published": "2026-11-03T15:32:47+00:00",
-      "age_hours": 27.0,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/impasse-no-saara-ocidental-eua-e-russia-bloqueiam-missao-da-onu_v1776597",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário. «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 7.41,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -351,8 +418,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
-    "Mundo": 4
+    "África": 3,
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
