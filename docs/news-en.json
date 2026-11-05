@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T18:34:16.499353+00:00",
+  "updated_at": "2026-11-05T23:57:59.937258+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,7 +16,7 @@
       "impact": "For «Mozambique prepares alternative to declining Pande and Temane gas production», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-11-05T16:39:56+00:00",
-      "age_hours": 1.9,
+      "age_hours": 7.3,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-prepares-alternative-to-declining-pande-and-temane-gas-production/",
       "original_source": true,
@@ -30,8 +30,38 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Beluluane Gas Company (BGC) today announced the appointment of the VGI/PRDW consortium as Owner’s Engineer for the future terminal, a step expected to consolidate the engineering designs and support the selection of the contractor responsible for building the infrastructure According to a company statement, the consortium will “consolidate all engineering designs and provide support” in completing the process of appointing the Engineering, Procurement and Construction (EPC) contractor BGC says this step will enable the project to reach financial close before the end of 2027, with the initial financing to be provided by Matola Gas Company (MGC) and Gigajoule International (GI) Beluluane Gas Company is a company registered in Mozambique, established in 2016 by South African company Gigajoule and French multinational TotalEnergies to develop an LNG import project through the port of Matola, on the outskirts of Maputo The statement issued today adds that bringing the terminal into operation before supplies from the Pande and Temane gas fields are exhausted is considered crucial to… «Mozambique prepares alternative to declining Pande and Temane gas production» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique prepares alternative to declining Pande and Temane gas production», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 15.6,
+      "editorial_score": 14.48,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Economia"
+      ],
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "summary": "Hundreds of billions of dollars in market value has been wiped from major tech firms in a stock market rout after the US midterm elections sparked concerns of a slowdown in AI development Following Democratic wins after election campaigns run on slowing AI, shares in firms across the tech and artificial intelligence sectors plummeted The tech-heavy Nasdaq composite stock index closed down by more than 5.5% to lose an estimated $2.5tn in market capitalisation, according to Dow Jones data, while other key US stock indexes also saw big losses in their worst days since 2025 The sell-off comes on top of broader concerns about whether the huge amounts being spent on AI will pay off Democrats in races across the US campaigned to slow the onslaught of data centres and AI, and there were dozens of measures on ballots around the country aimed at restricting the development of the hubs crucial for powering the technology Texas governor-elect Gina Hinojosa campaigned heavily against data centres, pledging a moratorium on new construction in the sector Shares in companies heavily exposed to AI…",
+      "why": "«Major tech stocks plunge as US midterms add to fears of AI slowdown» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «Major tech stocks plunge as US midterms add to fears of AI slowdown», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-05T23:21:34+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Hundreds of billions of dollars in market value has been wiped from major tech firms in a stock market rout after the US midterm elections sparked concerns of a slowdown in AI development Following Democratic wins after election campaigns run on slowing AI, shares in firms across the tech and artificial intelligence sectors plummeted The tech-heavy Nasdaq composite stock index closed down by more than 5.5% to lose an estimated $2.5tn in market capitalisation, according to Dow Jones data, while other key US stock indexes also saw big losses in their worst days since 2025 The sell-off comes on top of broader concerns about whether the huge amounts being spent on AI will pay off Democrats in races across the US campaigned to slow the onslaught of data centres and AI, and there were dozens of measures on ballots around the country aimed at restricting the development of the hubs crucial for powering the technology Texas governor-elect Gina Hinojosa campaigned heavily against data centres, pledging a moratorium on new construction in the sector Shares in companies heavily exposed to AI… «Major tech stocks plunge as US midterms add to fears of AI slowdown» points to a concrete change in the adoption, regulation or use of technology. For «Major tech stocks plunge as US midterms add to fears of AI slowdown», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
+      "editorial_score": 12.88,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -46,7 +76,7 @@
       "impact": "For «Mozambique: Finland donates €1M food from Ukraine to Cabo Delgado displaced», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-11-05T17:35:00+00:00",
-      "age_hours": 1.0,
+      "age_hours": 6.4,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-finland-donates-e1m-food-from-ukraine-to-cabo-delgado-displaced/",
       "original_source": true,
@@ -60,26 +90,26 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "The Government of Finland on Wednesday donated food to support 330,000 people affected by the armed conflict in the Mozambican province of Cabo Delgado. The initiative, valued at around €1 million, involved the purchase of food products from Ukraine The donation, comprising rice and soya oil, was formally handed over on Wednesday in Pemba, Cabo Delgado, by Finland’s Ambassador to Mozambique, Satu Lassila, to the Cabo Delgado provincial government and the World Food Programme (WFP) On the occasion, the Finnish ambassador expressed concern about the humanitarian situation in the province, which has been affected by attacks by extremist groups for almost a decade “The humanitarian situation in Cabo Delgado is worrying. Mozambique must remain on the international agenda. «Mozambique: Finland donates €1M food from Ukraine to Cabo Delgado displaced» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique: Finland donates €1M food from Ukraine to Cabo Delgado displaced», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 13.79,
+      "editorial_score": 12.67,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Jordanian officer killed in stabbing attack in Amman",
-      "summary": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman",
-      "why": "«Jordanian officer killed in stabbing attack in Amman» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Jordanian officer killed in stabbing attack in Amman», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "title": "South Africa’s ANC on track for new lows in local polls",
+      "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections",
+      "why": "«South Africa’s ANC on track for new lows in local polls» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «South Africa’s ANC on track for new lows in local polls», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "Al Jazeera English",
-      "published": "2026-11-05T17:08:45+00:00",
-      "age_hours": 1.4,
+      "published": "2026-11-05T21:48:16+00:00",
+      "age_hours": 2.2,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -88,8 +118,8 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman. «Jordanian officer killed in stabbing attack in Amman» deserves attention because it may change political, diplomatic or security risks. For «Jordanian officer killed in stabbing attack in Amman», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.71,
+      "detailed_summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections. «South Africa’s ANC on track for new lows in local polls» is worth following because of its possible economic, institutional or regional effects. For «South Africa’s ANC on track for new lows in local polls», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "editorial_score": 12.54,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -98,17 +128,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "After the landslide victory of the Students' List, Serbia's judiciary springs into life after years of stalled and unresolved cases and investigations",
-      "summary": "The landslide victory of the Students' List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward. How can this be?",
-      "why": "«After the landslide victory of the Students' List, Serbia's judiciary springs into life after years of…» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «After the landslide victory of the Students' List, Serbia's judiciary springs into life after years of…», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "title": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
+      "summary": "US President Donald Trump said the Ukraine war was close to being settled and that ending it might involve \"all of Europe.\" US President Donald Trump on Thursday said a \"very big\" deal is in the works with Russia to end the Ukraine war Trump made the comments after he had an unscheduled meeting with Russian ⁠President Vladimir Putin's special envoy Kirill Dmitriev at the White House Speaking to ​reporters later, the president said the Russia-Ukraine war was ​very close to being settled and that bringing it to an end might involve \"all of Europe.\" \"I can't tell you what I discussed. But I'm just telling you, it's going to be an agreement, it's going to be a big agreement,\" Trump said in the Oval Office \"It's going to be very big. It's going to involve more than Ukraine , and I could even say it might involve all of Europe.",
+      "why": "«Trump raises prospect of 'big, beautiful' Russia-Ukraine deal» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Trump raises prospect of 'big, beautiful' Russia-Ukraine deal», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "DW English",
-      "published": "2026-11-05T17:00:00+00:00",
-      "age_hours": 1.6,
+      "published": "2026-11-05T23:32:00+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://www.dw.com/en/after-the-landslide-victory-of-the-students-list-serbia-s-judiciary-springs-into-life-after-years-of-stalled-and-unresolved-cases-and-investigations/a-79868652?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -116,9 +146,9 @@
       ],
       "primary_source": "DW English",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "The landslide victory of the Students' List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward. How can this be? «After the landslide victory of the Students' List, Serbia's judiciary springs into life after years of…» deserves attention because it may change political, diplomatic or security risks. For «After the landslide victory of the Students' List, Serbia's judiciary springs into life after years of…», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.67,
+      "opportunity_flag": false,
+      "detailed_summary": "US President Donald Trump said the Ukraine war was close to being settled and that ending it might involve \"all of Europe.\" US President Donald Trump on Thursday said a \"very big\" deal is in the works with Russia to end the Ukraine war Trump made the comments after he had an unscheduled meeting with Russian ⁠President Vladimir Putin's special envoy Kirill Dmitriev at the White House Speaking to ​reporters later, the president said the Russia-Ukraine war was ​very close to being settled and that bringing it to an end might involve \"all of Europe.\" \"I can't tell you what I discussed. But I'm just telling you, it's going to be an agreement, it's going to be a big agreement,\" Trump said in the Oval Office \"It's going to be very big. It's going to involve more than Ukraine , and I could even say it might involve all of Europe. «Trump raises prospect of 'big, beautiful' Russia-Ukraine deal» deserves attention because it may change political, diplomatic or security risks. For «Trump raises prospect of 'big, beautiful' Russia-Ukraine deal», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.92,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -127,17 +157,46 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-      "summary": "Watch: Hong Kong pro-democracy advocate Joshua Wong jailed for 10 years Joshua Wong, once the face of Hong Kong's democracy movement, has been sentenced to 10 years in jail for colluding with foreign forces under the city's sweeping national security law Wong is among hundreds of campaigners and ordinary Hongkongers arrested under the law, which was imposed in 2020 following explosive pro-democracy protests against Beijing's growing control Critics say the far-reaching law has silenced dissent, but authorities argue that it is needed to maintain stability and deny it has weakened the city's cherished autonomy Having already spent the last six years in jail, Wong, who was due to be freed in January, will now spend another decade behind bars Silenced and erased, Hong Kong's decade of protest is now a defiant memory What a defiant mogul's trial says about Hong Kong Wong, who turned 30 last month, has already been imprisoned multiple times for his activism which started when he was in his early teens On Thursday, he arrived in court wearing a dark blue long-sleeved shirt, khaki trousers…",
-      "why": "«Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-05T13:51:03+00:00",
-      "age_hours": 4.7,
+      "title": "Saudi coalition intercepts missile fired towards Medina",
+      "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu",
+      "why": "«Saudi coalition intercepts missile fired towards Medina» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Saudi coalition intercepts missile fired towards Medina», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T20:48:47+00:00",
+      "age_hours": 3.2,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mundo-009",
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu. «Saudi coalition intercepts missile fired towards Medina» deserves attention because it may change political, diplomatic or security risks. For «Saudi coalition intercepts missile fired towards Medina», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.33,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "summary": "People exercise in a park in Delhi on Thursday, breathing in hazy, polluted air There are two cardboard boxes in Meenu Rana's living room in Delhi. One is filled with Diwali decorations and twinkling lights. The other holds air purifiers \"The mornings have already started feeling stuffy. It will get worse in the coming days, so it's better to be prepared,\" says the 43-year-old teacher She is not alone. Every year, as winter and the festive season approach, residents of India's capital begin preparing for something far less celebratory: months of breathing polluted air Delhi and its satellite cities record some of the world's highest pollution levels through the year. But as winter sets in, the air often becomes unbearable Falling temperatures and slower winds trap pollutants close to the ground instead of allowing them to disperse.",
+      "why": "«Delhi's toxic winter air is back - is the Indian capital prepared for pollution?» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Delhi's toxic winter air is back - is the Indian capital prepared for pollution?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-05T23:16:53+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -146,65 +205,7 @@
       "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Watch: Hong Kong pro-democracy advocate Joshua Wong jailed for 10 years Joshua Wong, once the face of Hong Kong's democracy movement, has been sentenced to 10 years in jail for colluding with foreign forces under the city's sweeping national security law Wong is among hundreds of campaigners and ordinary Hongkongers arrested under the law, which was imposed in 2020 following explosive pro-democracy protests against Beijing's growing control Critics say the far-reaching law has silenced dissent, but authorities argue that it is needed to maintain stability and deny it has weakened the city's cherished autonomy Having already spent the last six years in jail, Wong, who was due to be freed in January, will now spend another decade behind bars Silenced and erased, Hong Kong's decade of protest is now a defiant memory What a defiant mogul's trial says about Hong Kong Wong, who turned 30 last month, has already been imprisoned multiple times for his activism which started when he was in his early teens On Thursday, he arrived in court wearing a dark blue long-sleeved shirt, khaki trousers… «Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years» deserves attention because it may change political, diplomatic or security risks. For «Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.02,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "AI stocks plunge after election, driving down US markets",
-      "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry",
-      "why": "«AI stocks plunge after election, driving down US markets» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «AI stocks plunge after election, driving down US markets», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-05T17:56:17+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry. «AI stocks plunge after election, driving down US markets» helps explain a concrete economic or business change relevant to Mundo. For «AI stocks plunge after election, driving down US markets», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 10.88,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "France: More than 600,000 protest as anger grows over cost of living",
-      "summary": "Demonstrators took to the streets in several French cities to call for government action on the high cost of living. Protests were largely peaceful, but there were some reports of escalation, including in Paris Hundreds of thousands of people descended on the streets of French cities on Thursday for a new round of protests over rising cost of living Interior Minister Laurent Nunez said the total number of protesters ballooned over the course of the afternoon, from 270,000 to 600,000 by the evening The five unions that organized the protests represent public and private sectors, and are calling on the government to address deteriorating public services and high prices of goods Public and private sector workers were joined by students, who have organized their numerous protests of their own over the course of the past month One of the biggest student protests in October turned violent, with rioters having vandalized stores.",
-      "why": "«France: More than 600,000 protest as anger grows over cost of living» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «France: More than 600,000 protest as anger grows over cost of living», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-11-05T17:51:00+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Demonstrators took to the streets in several French cities to call for government action on the high cost of living. Protests were largely peaceful, but there were some reports of escalation, including in Paris Hundreds of thousands of people descended on the streets of French cities on Thursday for a new round of protests over rising cost of living Interior Minister Laurent Nunez said the total number of protesters ballooned over the course of the afternoon, from 270,000 to 600,000 by the evening The five unions that organized the protests represent public and private sectors, and are calling on the government to address deteriorating public services and high prices of goods Public and private sector workers were joined by students, who have organized their numerous protests of their own over the course of the past month One of the biggest student protests in October turned violent, with rioters having vandalized stores. «France: More than 600,000 protest as anger grows over cost of living» is worth following because of its possible economic, institutional or regional effects. For «France: More than 600,000 protest as anger grows over cost of living», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "detailed_summary": "People exercise in a park in Delhi on Thursday, breathing in hazy, polluted air There are two cardboard boxes in Meenu Rana's living room in Delhi. One is filled with Diwali decorations and twinkling lights. The other holds air purifiers \"The mornings have already started feeling stuffy. It will get worse in the coming days, so it's better to be prepared,\" says the 43-year-old teacher She is not alone. Every year, as winter and the festive season approach, residents of India's capital begin preparing for something far less celebratory: months of breathing polluted air Delhi and its satellite cities record some of the world's highest pollution levels through the year. But as winter sets in, the air often becomes unbearable Falling temperatures and slower winds trap pollutants close to the ground instead of allowing them to disperse. «Delhi's toxic winter air is back - is the Indian capital prepared for pollution?» is worth following because of its possible economic, institutional or regional effects. For «Delhi's toxic winter air is back - is the Indian capital prepared for pollution?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "editorial_score": 10.85,
       "source_tier": "A",
       "editorial_status": "HOJE"
@@ -220,11 +221,11 @@
       "impact": "For «Government to mobilize about 27 billion meticais for mitigation of El Niño», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "AIM News",
       "published": "2026-11-05T07:19:36+00:00",
-      "age_hours": 11.2,
+      "age_hours": 16.6,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/05/government-to-mobilize-about-27-billion-meticais-for-mitigation-of-el-nino/",
       "original_source": true,
-      "event_id": "evt-mocambique-008",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -234,36 +235,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 05 Nov (AIM) – The Mozambican government plans to mobilize approximately 27 billion meticais (1.7 billion US dollars at the current exchange rate) to implement the 2026/27 National Plan for Mitigating the Impacts of El Niño weather phenomenon. The plan aims to cover sectors of agriculture, health, education, water supply, food assistance, and social protection sectors. According to the Prime Minister Benvinda Levi, who was speaking on Wednesday at the country’s parliament, Assembly of the Republic, in response to concerns raised by parliamentary groups, the measure is also aimed at distributing agricultural input kits to over 185,000 households, incusing the construction of multi-purpose silos to complement small-scale irrigation systems, and the rehabilitation or construction of dams, water supply systems, and multi-purpose boreholes, “all aimed at benefiting more than one million people.” The 2026/27 rainy season points to normal rainfall in the Northern provinces of Nampula, Cabo Delgado, and Niassa. «Government to mobilize about 27 billion meticais for mitigation of El Niño» is worth following because of its possible economic, institutional or regional effects. For «Government to mobilize about 27 billion meticais for mitigation of El Niño», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 10.67,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Frelimo Extraordinary Session to take place on November 27-28",
-      "summary": "Maputo, 05 Nov (AIM) – Mozambique’s ruling Frelimo Party has announced that the 5th Extraordinary Session of its Central Committee will take place on November 27–28 at the party’s Central School in Matola city, southern Maputo province. According to the party’s Central Committee spokesperson, Pedro Guiliche – speaking following an Ordinary Session of the Political Commission, which was chaired by the party’s President Daniel Chapo – the party will focus on three main agenda items: the review and approval of the directive on internal elections for party bodies; the Code of Ethical Conduct and Party Discipline; and the theses for the 13th Congress. The approval of these instruments is part of the preparations for the 13th Congress, scheduled to take place from July 20 to 25, 2027, in the northern city of Nampula.",
-      "why": "«Frelimo Extraordinary Session to take place on November 27-28» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Frelimo Extraordinary Session to take place on November 27-28», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "AIM News",
-      "published": "2026-11-05T06:58:31+00:00",
-      "age_hours": 11.6,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/05/frelimo-extraordinary-session-to-take-place-on-november-27-28/",
-      "original_source": true,
-      "event_id": "evt-mocambique-009",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM News"
-      ],
-      "primary_source": "AIM News",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 05 Nov (AIM) – Mozambique’s ruling Frelimo Party has announced that the 5th Extraordinary Session of its Central Committee will take place on November 27–28 at the party’s Central School in Matola city, southern Maputo province. According to the party’s Central Committee spokesperson, Pedro Guiliche – speaking following an Ordinary Session of the Political Commission, which was chaired by the party’s President Daniel Chapo – the party will focus on three main agenda items: the review and approval of the directive on internal elections for party bodies; the Code of Ethical Conduct and Party Discipline; and the theses for the 13th Congress. The approval of these instruments is part of the preparations for the 13th Congress, scheduled to take place from July 20 to 25, 2027, in the northern city of Nampula. «Frelimo Extraordinary Session to take place on November 27-28» is worth following because of its possible economic, institutional or regional effects. For «Frelimo Extraordinary Session to take place on November 27-28», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 10.58,
+      "editorial_score": 9.54,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -278,11 +250,11 @@
       "impact": "For «Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-11-05T11:23:22+00:00",
-      "age_hours": 7.2,
+      "age_hours": 12.6,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cm1dwl13zge7o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -292,38 +264,9 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Cetirizine is commonly used to relieve allergy symptoms Kenyan pharmacists have warned women against inserting allergy tablets into their vaginas in an attempt to make them tighter, following the spread of potentially dangerous medical advice on social media The warning follows a wave of social media posts promoting cetirizine - a widely available oral antihistamine used to treat allergies - as a way of tightening the vagina, supposedly to enhance sexual pleasure Although antihistamines can sometimes cause dryness as a side effect, experts say this does not strengthen vaginal muscles \"Dryness is not tightness... instead, it may increase friction, discomfort, and the risk of tissue injury,\" the Pharmaceutical Society of Kenya (PSK) said \"Inserting oral tablets is unsafe. Cetirizine tablets are made to be swallowed. «Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening» deserves attention because it may change political, diplomatic or security risks. For «Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 10.5,
+      "editorial_score": 9.38,
       "source_tier": "A",
       "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "ANC under pressure to reverse South Africa decline",
-      "summary": "More than 500 parties are contesting the elections South Africans are voting in highly contested local elections likely to see a haemorrhaging of votes for the country's biggest party, the African National Congress (ANC) This year's voting season has been marked by intense campaigns that have included politicians spinning cars, watching grannies knit and even wading through giant-sized potholes Election officials say voting is going smoothly, despite long queues at some polling stations Leaders are campaigning to head South Africa's nearly 300 municipalities, responsible for basic service provision such as water, electricity and refuse collection For the ANC, the elections are a chance to prove it still has what it takes to govern.",
-      "why": "«ANC under pressure to reverse South Africa decline» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «ANC under pressure to reverse South Africa decline», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "BBC Africa",
-      "published": "2026-11-04T11:47:44+00:00",
-      "age_hours": 30.8,
-      "within_24h": false,
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC Africa"
-      ],
-      "primary_source": "BBC Africa",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "More than 500 parties are contesting the elections South Africans are voting in highly contested local elections likely to see a haemorrhaging of votes for the country's biggest party, the African National Congress (ANC) This year's voting season has been marked by intense campaigns that have included politicians spinning cars, watching grannies knit and even wading through giant-sized potholes Election officials say voting is going smoothly, despite long queues at some polling stations Leaders are campaigning to head South Africa's nearly 300 municipalities, responsible for basic service provision such as water, electricity and refuse collection For the ANC, the elections are a chance to prove it still has what it takes to govern. «ANC under pressure to reverse South Africa decline» is worth following because of its possible economic, institutional or regional effects. For «ANC under pressure to reverse South Africa decline», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 8.29,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -345,9 +288,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 4,
+    "Moçambique": 3,
     "África": 2,
-    "Mundo": 5
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
