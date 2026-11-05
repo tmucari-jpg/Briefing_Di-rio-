@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T00:12:11.707872+00:00",
+  "updated_at": "2026-11-05T10:27:21.930538+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,38 +8,175 @@
     {
       "section": "Moçambique",
       "tags": [
+        "Segurança"
+      ],
+      "title": "ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana",
+      "summary": "Margarida Ruco Machava O INCÊNDIO que na manhã de domingo, 1 de Novembro, atingiu o Serviço de Oncologia do Hospital Central de Maputo deixou imagens preocupantes. Parte de uma unidade dedicada ao tratamento de doentes com cancro foi destruída, despertando consternação e inquietação em muitas famílias. Mas, no meio desta ocorrência, houve também uma demonstração daquilo que somos capazes de fazer quando a protecção da vida se torna uma preocupação colectiva. Os 22 pacientes internados foram retirados em segurança, graças à intervenção dos profissionais envolvidos na resposta à emergência. Este acontecimento convida-nos a reflectir sobre uma verdade que, por vezes, esquecemos: a solidariedade não é apenas um sentimento, é uma forma de agir em defesa da vida e da dignidade humana. Quem enfrenta uma doença, como o cancro, necessita de cuidados médicos, mas também de segurança, acolhimento e confiança de que não ficará sozinho nos momentos de maior vulnerabilidade.",
+      "why": "«ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-05T10:17:58+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/essencialmente-humanos-incendio-na-oncologia-e-a-solidariedade-humana/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Margarida Ruco Machava O INCÊNDIO que na manhã de domingo, 1 de Novembro, atingiu o Serviço de Oncologia do Hospital Central de Maputo deixou imagens preocupantes. Parte de uma unidade dedicada ao tratamento de doentes com cancro foi destruída, despertando consternação e inquietação em muitas famílias. Mas, no meio desta ocorrência, houve também uma demonstração daquilo que somos capazes de fazer quando a protecção da vida se torna uma preocupação colectiva. Os 22 pacientes internados foram retirados em segurança, graças à intervenção dos profissionais envolvidos na resposta à emergência. Este acontecimento convida-nos a reflectir sobre uma verdade que, por vezes, esquecemos: a solidariedade não é apenas um sentimento, é uma forma de agir em defesa da vida e da dignidade humana. Quem enfrenta uma doença, como o cancro, necessita de cuidados médicos, mas também de segurança, acolhimento e confiança de que não ficará sozinho nos momentos de maior vulnerabilidade. «ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.96,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
         "Economia"
       ],
-      "title": "TRANS-LOG MOZ 2026: BAD Apela à Redução de Riscos Para Atrair Capital Privado às Infra-Estruturas",
-      "summary": "O Banco Africano de Desenvolvimento (BAD) defendeu, esta quarta-feira (4), em Maputo, a necessidade de reforçar os mecanismos de redução de riscos associados aos investimentos em infra-estruturas, de modo a […]",
-      "why": "«TRANS-LOG MOZ 2026: BAD Apela à Redução de Riscos Para Atrair Capital Privado às Infra-Estruturas» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «TRANS-LOG MOZ 2026: BAD Apela à Redução de Riscos Para Atrair Capital Privado às Infra-Estruturas», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e Agrícolas",
+      "summary": "Angola partilhou com Moçambique a sua experiência na mobilização de investimento privado para o desenvolvimento de plataformas logísticas e o aproveitamento da produção agrícola ao longo do Corredor do Lobito. […]",
+      "why": "«TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
-      "published": "2026-11-04T15:30:00+00:00",
-      "age_hours": 8.7,
+      "published": "2026-11-05T10:00:00+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/04/negocios/infra-estruturas/trans-log-moz-2026-bad-apela-a-reducao-de-riscos-para-atrair-capital-privado-as-infra-estruturas/",
+      "link": "https://www.diarioeconomico.co.mz/2026/11/05/negocios/infra-estruturas/trans-log-moz-2026-angola-destaca-participacao-privada-na-expansao-das-plataformas-logisticas-e-agricolas/",
       "original_source": true,
-      "event_id": "evt-mocambique-007",
-      "cluster_size": 2,
-      "source_count": 2,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "Diário Económico",
-        "AIM Notícias"
+        "Diário Económico"
       ],
       "primary_source": "Diário Económico",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "País prevê investimento de 77 milhões de dólares para infra-estruturas hídricas",
-          "link": "https://aimnews.org/2026/11/04/pais-preve-investimento-de-77-milhoes-de-dolares-para-infra-estruturas-hidricas/"
-        }
-      ],
       "opportunity_flag": true,
-      "detailed_summary": "O Banco Africano de Desenvolvimento (BAD) defendeu, esta quarta-feira (4), em Maputo, a necessidade de reforçar os mecanismos de redução de riscos associados aos investimentos em infra-estruturas, de modo a […]. «TRANS-LOG MOZ 2026: BAD Apela à Redução de Riscos Para Atrair Capital Privado às Infra-Estruturas» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «TRANS-LOG MOZ 2026: BAD Apela à Redução de Riscos Para Atrair Capital Privado às Infra-Estruturas», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.69,
+      "detailed_summary": "Angola partilhou com Moçambique a sua experiência na mobilização de investimento privado para o desenvolvimento de plataformas logísticas e o aproveitamento da produção agrícola ao longo do Corredor do Lobito. […]. «TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.92,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar Investimentos em Moçambique",
+      "summary": "As empresas moçambicanas precisam de melhorar a sua organização interna, reforçar a capacidade técnica e investir na qualificação dos trabalhadores para responder às exigências de um mercado em expansão e […]",
+      "why": "«Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-11-05T09:45:00+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/11/05/negocios/empresas/synapse-strategy-summit-2026-especialistas-defendem-empresas-mais-preparadas-para-aproveitar-investimentos-em-mocambique/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "As empresas moçambicanas precisam de melhorar a sua organização interna, reforçar a capacidade técnica e investir na qualificação dos trabalhadores para responder às exigências de um mercado em expansão e […]. «Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.85,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Oito painéis na agenda da Conferência de Turismo em Vilankulo",
+      "summary": "A II Conferência Internacional de Turismo que arranca, esta manhã (5 de Novembro), na vila turística de Vilankulo, província de Inhambane, tem como pano de fundo o debate de oito temas virados ao desenvolvimento do sector. O evento, a ser presidido pelo Chefe de Estado, Daniel Chapo, abordará a “Transformação do potencial turístico de Moçambique em projetos bancáveis – Diálogo com investidores globais”; “Referência internacional: destinos que se reinventaram”; bem como o “Desenvolvimento do Turismo Sustentável: Inovação Digital e Oportunidades de Investimento”. Igualmente, o encontro de dois dias vai discutir “O Turismo como Motor de Integração Regional, Investimento e Transformação Económica na África Austral”; Conectividade e Infra-estruturas: A Nova Fronteira para o Crescimento do Turismo em Moçambique”; “Investimento estratégico”; “Itália e Moçambique: Parcerias Estratégicas para o Investimento e Desenvolvimento do Turismo”; “A Cultura como Activo Económico do Turismo”; e “O sector privado moçambicano como motor do desenvolvimento do turismo”.",
+      "why": "«Oito painéis na agenda da Conferência de Turismo em Vilankulo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Oito painéis na agenda da Conferência de Turismo em Vilankulo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-05T08:31:48+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/oito-paineis-na-agenda-da-conferencia-de-turismo-em-vilankulo/",
+      "original_source": true,
+      "event_id": "evt-mocambique-006",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A II Conferência Internacional de Turismo que arranca, esta manhã (5 de Novembro), na vila turística de Vilankulo, província de Inhambane, tem como pano de fundo o debate de oito temas virados ao desenvolvimento do sector. O evento, a ser presidido pelo Chefe de Estado, Daniel Chapo, abordará a “Transformação do potencial turístico de Moçambique em projetos bancáveis – Diálogo com investidores globais”; “Referência internacional: destinos que se reinventaram”; bem como o “Desenvolvimento do Turismo Sustentável: Inovação Digital e Oportunidades de Investimento”. Igualmente, o encontro de dois dias vai discutir “O Turismo como Motor de Integração Regional, Investimento e Transformação Económica na África Austral”; Conectividade e Infra-estruturas: A Nova Fronteira para o Crescimento do Turismo em Moçambique”; “Investimento estratégico”; “Itália e Moçambique: Parcerias Estratégicas para o Investimento e Desenvolvimento do Turismo”; “A Cultura como Activo Económico do Turismo”; e “O sector privado moçambicano como motor do desenvolvimento do turismo”. «Oito painéis na agenda da Conferência de Turismo em Vilankulo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Oito painéis na agenda da Conferência de Turismo em Vilankulo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.6,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong",
+      "summary": "O Governo de Taiwan condenou hoje a sentença de dez anos de prisão aplicada ao ativista de Hong Kong Joshua Wong e denunciou a \"perseguição política interminável\" contra os defensores da democracia na antiga colónia britânica Num comunicado divulgado após o anúncio da sentença, o Conselho para os Assuntos da China Continental (MAC, na sigla inglesa), organismo responsável pelas relações de Taiwan com Pequim, acusou o Partido Comunista Chinês (PCC) e o Executivo de Hong Kong de continuarem a utilizar \"instrumentos autoritários\" para \"fabricar acusações\" contra os ativistas pró-democracia Segundo o organismo, estes instrumentos, incluindo a Lei de Segurança Nacional de 2020, visam \"reprimir\" o \"direito legítimo\" da população de Hong Kong a aspirar à liberdade, à democracia e aos direitos humanos, prejudicando a imagem internacional e os fundamentos do Estado de direito no território \"O PCC e o Executivo de Hong Kong devem pôr fim à repressão e à perseguição judicial contra os ativistas pró-democracia e acabar com os processos políticos abusivos em nome da `segurança nacional`\"…",
+      "why": "«Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-05T09:04:18+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/taiwan-condena-pena-de-prisao-de-joshua-wong-e-denuncia-perseguicao-politica-em-hong-kong_n1777034",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo de Taiwan condenou hoje a sentença de dez anos de prisão aplicada ao ativista de Hong Kong Joshua Wong e denunciou a \"perseguição política interminável\" contra os defensores da democracia na antiga colónia britânica Num comunicado divulgado após o anúncio da sentença, o Conselho para os Assuntos da China Continental (MAC, na sigla inglesa), organismo responsável pelas relações de Taiwan com Pequim, acusou o Partido Comunista Chinês (PCC) e o Executivo de Hong Kong de continuarem a utilizar \"instrumentos autoritários\" para \"fabricar acusações\" contra os ativistas pró-democracia Segundo o organismo, estes instrumentos, incluindo a Lei de Segurança Nacional de 2020, visam \"reprimir\" o \"direito legítimo\" da população de Hong Kong a aspirar à liberdade, à democracia e aos direitos humanos, prejudicando a imagem internacional e os fundamentos do Estado de direito no território \"O PCC e o Executivo de Hong Kong devem pôr fim à repressão e à perseguição judicial contra os ativistas pró-democracia e acabar com os processos políticos abusivos em nome da `segurança nacional`\"… «Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.71,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Voos europeus voltam a ser alvo de ameaças de bomba",
+      "summary": "Um avião comercial A320, que fazia a rota entre Dublin e Roma, foi desviado para a base aérea de Évreux, no noroeste da França, devido a uma ameaça de bomba. O governo francês está a acompanhar a situação \"em tempo real\"",
+      "why": "«Voos europeus voltam a ser alvo de ameaças de bomba» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Voos europeus voltam a ser alvo de ameaças de bomba», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-05T09:22:26+00:00",
+      "age_hours": 1.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/voos-europeus-voltam-a-ser-alvo-de-ameacas-de-bomba_n1777038",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Um avião comercial A320, que fazia a rota entre Dublin e Roma, foi desviado para a base aérea de Évreux, no noroeste da França, devido a uma ameaça de bomba. O governo francês está a acompanhar a situação \"em tempo real\". «Voos europeus voltam a ser alvo de ameaças de bomba» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Voos europeus voltam a ser alvo de ameaças de bomba», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.77,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -53,11 +190,11 @@
       "impact": "No caso de «Governo reforça medidas de combate à corrupção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-11-04T21:07:23+00:00",
-      "age_hours": 3.1,
+      "age_hours": 13.3,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/04/governo-reforca-medidas-de-combate-a-corrupcao/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -67,321 +204,66 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 04 Nov (AIM) – O Governo moçambicano assumiu o compromisso de reforçar o combate à corrupção, através do fortalecimento do quadro legal e institucional de prevenção e responsabilização, com destaque para a aprovação da Lei n.º 12/2024, de 18 de Junho, relativa à probidade pública. a garantia foi dada hoje, em Maputo, pelo o Secretário Permanente do Ministério da Justiça, Assuntos Constitucionais e Religiosos, Tuarique Abdala. O dirigente, que falava em representação da Primeira-Ministra, Maria Benvinda Delfina Levi, destacou o papel do Observatório da Justiça na promoção da ética, integridade e transparência em Moçambique. “O Observatório da Justiça afirma-se como uma entidade empenhada na disseminação da ética e da integridade em Moçambique”, afirmou. «Governo reforça medidas de combate à corrupção» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo reforça medidas de combate à corrupção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.35,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "FRELIMO convoca Comité Central Extraordinária para Novembro",
-      "summary": "Maputo, 04 Nov (AIM) – A FRELIMO, partido no poder, vai reunir a 5.ª Sessão Extraordinária do Comité Central nos dias 27 e 28 de Novembro próximo, na Escola Central do partido, na cidade da Matola, província de Maputo, para apreciar e aprovar instrumentos fundamentais à preparação do XIII Congresso, anunciou hoje, em Maputo, a Comissão Política do partido. A informação foi partilhada pelo porta-voz do Comité Central, Pedro Guiliche, no final da Sessão Ordinária da Comissão Política, dirigida pelo Presidente da FRELIMO e da República, Daniel Chapo. Segundo Guiliche, a reunião do Comité Central, órgão máximo do partido no intervalo entre congressos, terá como agenda três matérias centrais, nomeadamente, a apreciação e aprovação da directiva sobre as eleições internas para os órgãos do partido, o Código de Conduta Ética e Disciplina Partidária e as teses ao XIII Congresso da FRELIMO. A aprovação destes instrumentos enquadra-se nos preparativos do XIII Congresso, previsto para decorrer de 20 a 25 de Julho de 2027, na cidade de Nampula, zona norte.",
-      "why": "«FRELIMO convoca Comité Central Extraordinária para Novembro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «FRELIMO convoca Comité Central Extraordinária para Novembro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-04T20:59:45+00:00",
-      "age_hours": 3.2,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/04/frelimo-convoca-comite-central-extraordinaria-para-novembro/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 04 Nov (AIM) – A FRELIMO, partido no poder, vai reunir a 5.ª Sessão Extraordinária do Comité Central nos dias 27 e 28 de Novembro próximo, na Escola Central do partido, na cidade da Matola, província de Maputo, para apreciar e aprovar instrumentos fundamentais à preparação do XIII Congresso, anunciou hoje, em Maputo, a Comissão Política do partido. A informação foi partilhada pelo porta-voz do Comité Central, Pedro Guiliche, no final da Sessão Ordinária da Comissão Política, dirigida pelo Presidente da FRELIMO e da República, Daniel Chapo. Segundo Guiliche, a reunião do Comité Central, órgão máximo do partido no intervalo entre congressos, terá como agenda três matérias centrais, nomeadamente, a apreciação e aprovação da directiva sobre as eleições internas para os órgãos do partido, o Código de Conduta Ética e Disciplina Partidária e as teses ao XIII Congresso da FRELIMO. A aprovação destes instrumentos enquadra-se nos preparativos do XIII Congresso, previsto para decorrer de 20 a 25 de Julho de 2027, na cidade de Nampula, zona norte. «FRELIMO convoca Comité Central Extraordinária para Novembro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «FRELIMO convoca Comité Central Extraordinária para Novembro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.33,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mais 27 mil milhões de meticais para mitigar impactos do El Niño",
-      "summary": "A primeira-ministra, Maria Benvinda Levi, anunciou, nesta quarta-feira, na Assembleia da República, que o Governo prevê mobilizar cerca de 27 mil milhões de meticais para implementar o Plano Nacional de Mitigação dos Impactos do Fenómeno El Niño 2026/2027, face à previsão de seca severa em 76 distritos das províncias de Maputo, Gaza, Inhambane, Sofala, Manica […]",
-      "why": "«Mais 27 mil milhões de meticais para mitigar impactos do El Niño» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Mais 27 mil milhões de meticais para mitigar impactos do El Niño», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-11-04T18:04:00+00:00",
-      "age_hours": 6.1,
-      "within_24h": true,
-      "link": "https://opais.co.mz/mais-27-mil-milhoes-de-meticais-para-mitigar-impactos-do-el-nino/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A primeira-ministra, Maria Benvinda Levi, anunciou, nesta quarta-feira, na Assembleia da República, que o Governo prevê mobilizar cerca de 27 mil milhões de meticais para implementar o Plano Nacional de Mitigação dos Impactos do Fenómeno El Niño 2026/2027, face à previsão de seca severa em 76 distritos das províncias de Maputo, Gaza, Inhambane, Sofala, Manica […]. «Mais 27 mil milhões de meticais para mitigar impactos do El Niño» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Mais 27 mil milhões de meticais para mitigar impactos do El Niño», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.73,
+      "editorial_score": 10.23,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid",
-      "summary": "O Presidente da Ucrânia, Volodymyr Zelensky, chegou hoje a Madrid, onde prevê reunir-se com os líderes da comunidade ibero-americana que estão na capital espanhola para uma cimeira, segundo o governo espanhol A presença de Zelensky em Madrid, para reuniões paralelas aos trabalhos da 30.ª Cimeira Ibero-Americana, só hoje foi revelada, por motivos de segurança, segundo fontes do executivo de Espanha Está previsto um encontro de Zelensky na quinta-feira à tarde com líderes dos países da comunidade ibero-americana, após o plenário da cimeira O Presidente da Ucrânia vai ainda manter encontros com o Rei de Espanha, Felipe VI, e com o primeiro-ministro espanhol, Pedro Sánchez, entre outras reuniões bilaterais A 30.ª Cimeira Ibero-Americana arranca hoje ao final da tarde em Madrid com 10 dos 22 países da comunidade representados por chefes de Estado e Governo, como é o caso de Portugal O Presidente da República, António José Seguro, e o primeiro-ministro, Luís Montenegro, participam, pela primeira vez, hoje e na quinta-feira, na Cimeira Ibero-americana, que este ano terá ainda os…",
-      "why": "«Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-04T21:20:25+00:00",
-      "age_hours": 2.9,
+      "title": "Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional",
+      "summary": "Anunciou o astronauta da NASA, Anil Menon, que ele e os colegas Luke Delaney e Jessica Watkins já tinham votado a partir da estação espacial, sublinhando que o processo decorreu através de um sistema eletrónico seguro que garante que os boletins chegam aos responsáveis eleitorais.Numa publicação na plataforma X, Menon escreveu que é de facto possível votar mesmo a partir do espaço.Juntou um vídeo de 29 segundos em que mostra um autocolante com a inscrição “I voted” e faz uma visita guiada àquilo que descreveu como a sua própria “secção de voto”, que na realidade era a sua cabine privada na Estação Espacial Internacional.",
+      "why": "«Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-05T08:35:49+00:00",
+      "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-soma-se-a-30a-cimeira-ibero-americana-de-madrid_n1776895",
+      "link": "https://pt.euronews.com/2026/11/05/estados-unidos-astronautas-da-nasa-votam-a-partir-da-estacao-espacial-internacional",
       "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 2,
-      "source_count": 1,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 3,
+      "source_count": 2,
       "sources": [
+        "Euronews Português",
         "RTP Notícias"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Euronews Português",
       "status": "today",
       "confirmations": [
         {
           "source": "RTP Notícias",
-          "title": "MNE \"otimista\" com possibilidade de Cimeira Ibero-Americana em Portugal em 2030",
-          "link": "https://www.rtp.pt/noticias/mundo/mne-otimista-com-possibilidade-de-cimeira-ibero-americana-em-portugal-em-2030_n1776789"
+          "title": "As reações às intercalares nos Estados Unidos",
+          "link": "https://www.rtp.pt/noticias/mundo/as-reacoes-as-intercalares-nos-estados-unidos_v1776859"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Tsunami azul nas intercalares dos Estados Unidos",
+          "link": "https://www.rtp.pt/noticias/mundo/tsunami-azul-nas-intercalares-dos-estados-unidos_v1776858"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "O Presidente da Ucrânia, Volodymyr Zelensky, chegou hoje a Madrid, onde prevê reunir-se com os líderes da comunidade ibero-americana que estão na capital espanhola para uma cimeira, segundo o governo espanhol A presença de Zelensky em Madrid, para reuniões paralelas aos trabalhos da 30.ª Cimeira Ibero-Americana, só hoje foi revelada, por motivos de segurança, segundo fontes do executivo de Espanha Está previsto um encontro de Zelensky na quinta-feira à tarde com líderes dos países da comunidade ibero-americana, após o plenário da cimeira O Presidente da Ucrânia vai ainda manter encontros com o Rei de Espanha, Felipe VI, e com o primeiro-ministro espanhol, Pedro Sánchez, entre outras reuniões bilaterais A 30.ª Cimeira Ibero-Americana arranca hoje ao final da tarde em Madrid com 10 dos 22 países da comunidade representados por chefes de Estado e Governo, como é o caso de Portugal O Presidente da República, António José Seguro, e o primeiro-ministro, Luís Montenegro, participam, pela primeira vez, hoje e na quinta-feira, na Cimeira Ibero-americana, que este ano terá ainda os… «Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Zelensky soma-se a 30.ª Cimeira Ibero-Americana de Madrid», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.4,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Banco Central Europeu alerta para fraudes com convites para euro digital",
-      "summary": "O Banco Central Europeu (BCE) alertou hoje, no seu `site`, para um esquema fraudulento que envolve o investimento no euro digital, prometendo rendimentos elevados sem qualquer risco Os burlões distribuem cartas falsas do BCE nas quais convidam os cidadãos a participar num suposto projeto-piloto do euro digital e os incentivam a investir dinheiro, prometendo rendimentos elevados sem qualquer risco O BCE alerta que se trata de um esquema fraudulento, uma vez que a instituição não oferece produtos de investimento relacionados com o euro digital, nem solicita aos cidadãos que invistam dinheiro em projetos relacionados com o euro digital Por isso, recomenda aos cidadãos que não respondam a estas ofertas, não transfiram qualquer montante e não partilhem informações pessoais nem financeiras Se um cidadão acreditar ter sido vítima de uma fraude, deve contactar a polícia local, recomenda o BCE",
-      "why": "«Banco Central Europeu alerta para fraudes com convites para euro digital» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Banco Central Europeu alerta para fraudes com convites para euro digital», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "RTP Notícias",
-      "published": "2026-11-04T21:01:13+00:00",
-      "age_hours": 3.2,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/banco-central-europeu-alerta-para-fraudes-com-convites-para-euro-digital_n1776906",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Banco Central Europeu (BCE) alertou hoje, no seu `site`, para um esquema fraudulento que envolve o investimento no euro digital, prometendo rendimentos elevados sem qualquer risco Os burlões distribuem cartas falsas do BCE nas quais convidam os cidadãos a participar num suposto projeto-piloto do euro digital e os incentivam a investir dinheiro, prometendo rendimentos elevados sem qualquer risco O BCE alerta que se trata de um esquema fraudulento, uma vez que a instituição não oferece produtos de investimento relacionados com o euro digital, nem solicita aos cidadãos que invistam dinheiro em projetos relacionados com o euro digital Por isso, recomenda aos cidadãos que não respondam a estas ofertas, não transfiram qualquer montante e não partilhem informações pessoais nem financeiras Se um cidadão acreditar ter sido vítima de uma fraude, deve contactar a polícia local, recomenda o BCE. «Banco Central Europeu alerta para fraudes com convites para euro digital» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Banco Central Europeu alerta para fraudes com convites para euro digital», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.33,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Chapo defende mais produção e menos nascimentos no país",
-      "summary": "O Presidente da República diz que o País deve crescer mais economicamente do que em número de novos nascimentos. Daniel Chapo defende mais financiamento para iniciativas juvenis, para fazer face ao desemprego. Chapo falava na abertura da Conferência Nacional de População e Desenvolvimento. O Governo reuniu políticos, académicos, estudantes e várias personalidades para discutir estratégias […]",
-      "why": "«Chapo defende mais produção e menos nascimentos no país» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Chapo defende mais produção e menos nascimentos no país», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "O País",
-      "published": "2026-11-04T19:27:09+00:00",
-      "age_hours": 4.7,
-      "within_24h": true,
-      "link": "https://opais.co.mz/chapo-defende-mais-producao-e-menos-nascimentos-no-pais/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Presidente da República diz que o País deve crescer mais economicamente do que em número de novos nascimentos. Daniel Chapo defende mais financiamento para iniciativas juvenis, para fazer face ao desemprego. Chapo falava na abertura da Conferência Nacional de População e Desenvolvimento. O Governo reuniu políticos, académicos, estudantes e várias personalidades para discutir estratégias […]. «Chapo defende mais produção e menos nascimentos no país» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Chapo defende mais produção e menos nascimentos no país», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.02,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes",
-      "summary": "Coordenadora humanitária da ONU no país fala dos impactos em hospitais; ela relatou que a falta de combustível afeta entrega de alimentos, justamente num momento em que secas estão abalando colheitas ao redor do país",
-      "why": "«Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes» merece atenção porque pode alterar decisões de energia e investimento em África.",
-      "impact": "No caso de «Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "source": "Notícias ONU",
-      "published": "2026-11-04T12:00:00+00:00",
-      "age_hours": 12.2,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854833",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Coordenadora humanitária da ONU no país fala dos impactos em hospitais; ela relatou que a falta de combustível afeta entrega de alimentos, justamente num momento em que secas estão abalando colheitas ao redor do país. «Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Ataques com drones deixam sudaneses sem energia e combustível e afetam doentes», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "editorial_score": 9.46,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo",
-      "summary": "Dandara Araújo da Silva é a entrevistada do Podcast ONU News; nascida em São Gonçalo, nos arredores do Rio de Janeiro, ela investiu nos estudos, venceu barreiras raciais e socioeconômicas para realizar o próprio sonho de se formar; hoje, trabalha na Agência Internacional de Energia Atômica, Aiea, na Áustria, e quer ir além",
-      "why": "«A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-11-04T12:00:00+00:00",
-      "age_hours": 12.2,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854825",
-      "original_source": true,
-      "event_id": "evt-mundo-010",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Dandara Araújo da Silva é a entrevistada do Podcast ONU News; nascida em São Gonçalo, nos arredores do Rio de Janeiro, ela investiu nos estudos, venceu barreiras raciais e socioeconômicas para realizar o próprio sonho de se formar; hoje, trabalha na Agência Internacional de Energia Atômica, Aiea, na Áustria, e quer ir além. «A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «A jovem engenheira nuclear que saiu da periferia no Brasil para ganhar o mundo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 9.46,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU",
-      "summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário",
-      "why": "«Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "RTP Notícias",
-      "published": "2026-11-03T15:32:47+00:00",
-      "age_hours": 32.7,
-      "within_24h": false,
-      "link": "https://www.rtp.pt/noticias/mundo/impasse-no-saara-ocidental-eua-e-russia-bloqueiam-missao-da-onu_v1776597",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "A Rússia e os Estados Unidos vetaram propostas rivais no Conselho de Segurança da ONU, bloqueando a renovação do mandato da missão das Nações Unidas no Saara Ocidental. A MINURSO termina assim, e agrava a incerteza sobre o futuro do território. Marrocos controla a maior parte do Saara Ocidental, cuja independência é reivindicada pela Frente Polisário. «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Impasse no Saara Ocidental. EUA e Rússia bloqueiam Missão da ONU», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 7.23,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "África Austral lança plataforma regional para monitorar mercado de trabalho",
-      "summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas",
-      "why": "«África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
-      "impact": "No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Notícias ONU",
-      "published": "2026-11-03T12:00:00+00:00",
-      "age_hours": 36.2,
-      "within_24h": false,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854812",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "update",
-      "opportunity_flag": true,
-      "detailed_summary": "Dados da iniciativa reúnem indicadores de emprego, qualificação profissional e desigualdade de gênero; meta é apoiar a formulação de políticas públicas baseadas em estatísticas. «África Austral lança plataforma regional para monitorar mercado de trabalho» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «África Austral lança plataforma regional para monitorar mercado de trabalho», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 7.12,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Deputado iraniano diz à Euronews que mísseis de Teerão atingirão a Europa se os EUA usarem bases europeias",
-      "summary": "Ahmad Bakhshayesh Ardestani, membro da Comissão de Segurança do parlamento iraniano, afirmou que o Irão atacaria qualquer base europeia usada contra o país, incluindo em Itália e na Alemanha. Meios de comunicação estatais alertam que qualquer novo confronto pode atingir “o coração da Europa”",
-      "why": "«Deputado iraniano diz à Euronews que mísseis de Teerão atingirão a Europa se os EUA usarem bases…» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Deputado iraniano diz à Euronews que mísseis de Teerão atingirão a Europa se os EUA usarem bases…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-04T12:07:13+00:00",
-      "age_hours": 12.1,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/04/deputado-iraniano-diz-a-euronews-que-misseis-de-teerao-atingirao-a-europa-se-os-eua-usarem",
-      "original_source": true,
-      "event_id": "evt-mundo-009",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Ahmad Bakhshayesh Ardestani, membro da Comissão de Segurança do parlamento iraniano, afirmou que o Irão atacaria qualquer base europeia usada contra o país, incluindo em Itália e na Alemanha. Meios de comunicação estatais alertam que qualquer novo confronto pode atingir “o coração da Europa”. «Deputado iraniano diz à Euronews que mísseis de Teerão atingirão a Europa se os EUA usarem bases…» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Deputado iraniano diz à Euronews que mísseis de Teerão atingirão a Europa se os EUA usarem bases…», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 6.48,
+      "detailed_summary": "Anunciou o astronauta da NASA, Anil Menon, que ele e os colegas Luke Delaney e Jessica Watkins já tinham votado a partir da estação espacial, sublinhando que o processo decorreu através de um sistema eletrónico seguro que garante que os boletins chegam aos responsáveis eleitorais.Numa publicação na plataforma X, Menon escreveu que é de facto possível votar mesmo a partir do espaço.Juntou um vídeo de 29 segundos em que mostra um autocolante com a inscrição “I voted” e faz uma visita guiada àquilo que descreveu como a sua própria “secção de voto”, que na realidade era a sua cabine privada na Estação Espacial Internacional. «Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 10.1,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Reino Unido: polícia detém 25 apoiantes da Palestine Action junto ao Supremo Tribunal",
-      "summary": "Polícia deteve apoiantes da Palestine Action junto ao Supremo Tribunal, em Londres, Reino Unido, na quarta-feira, 4 de novembro, quando foi retomada a batalha judicial sobre a proibição do grupo pelo governo britânico",
-      "why": "«Reino Unido: polícia detém 25 apoiantes da Palestine Action junto ao Supremo Tribunal» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Reino Unido: polícia detém 25 apoiantes da Palestine Action junto ao Supremo Tribunal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação",
+      "summary": "No programa de hoje:Eric Ham, analista político e autor de bestsellers em Washington, questiona como irá reagir um Donald Trump enfraquecido após as eleições intercalares nos Estados Unidos, nas quais os democratas passaram a controlar tanto o Senado como a Câmara dos Representantes.Xavier Volatier, responsável pela área de Transatlantic Private Wealth do Banque Transatlantique em Nova Iorque, explica o que as intercalares significam para os investidores europeus.Shona Murray relata, a partir de Helsínquia, a reação da Europa à vitória democrata e o que esperar das conversações sobre a Ucrânia previstas para a próxima semana.Reza Pahlavi, filho do último xá do Irão, explica a Vincenzo Genovese por que razão a UE deve congelar bens ligados ao regime de Teerão e demonstrar a mesma determinação que mostrou em relação a Vladimir Putin.Kevin Curran, professor de cibersegurança na Universidade de Ulster, explica como piratas informáticos podem assumir o controlo de frigoríficos de supermercados e de sistemas de refrigeração de bancos de sangue, e o que isso significa para as…",
+      "why": "«EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-11-04T16:49:37+00:00",
-      "age_hours": 7.4,
+      "published": "2026-11-05T07:03:59+00:00",
+      "age_hours": 3.4,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/11/04/reino-unido-policia-detem-25-apoiantes-da-palestine-action-junto-ao-supremo-tribunal",
+      "link": "https://pt.euronews.com/2026/11/05/eua-derrota-nas-intercalares-enfraquece-trump-e-levanta-duvidas-sobre-reacao",
       "original_source": true,
       "event_id": "evt-mundo-006",
       "cluster_size": 1,
@@ -391,9 +273,9 @@
       ],
       "primary_source": "Euronews Português",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Polícia deteve apoiantes da Palestine Action junto ao Supremo Tribunal, em Londres, Reino Unido, na quarta-feira, 4 de novembro, quando foi retomada a batalha judicial sobre a proibição do grupo pelo governo britânico. «Reino Unido: polícia detém 25 apoiantes da Palestine Action junto ao Supremo Tribunal» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Reino Unido: polícia detém 25 apoiantes da Palestine Action junto ao Supremo Tribunal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 6.46,
+      "opportunity_flag": true,
+      "detailed_summary": "No programa de hoje:Eric Ham, analista político e autor de bestsellers em Washington, questiona como irá reagir um Donald Trump enfraquecido após as eleições intercalares nos Estados Unidos, nas quais os democratas passaram a controlar tanto o Senado como a Câmara dos Representantes.Xavier Volatier, responsável pela área de Transatlantic Private Wealth do Banque Transatlantique em Nova Iorque, explica o que as intercalares significam para os investidores europeus.Shona Murray relata, a partir de Helsínquia, a reação da Europa à vitória democrata e o que esperar das conversações sobre a Ucrânia previstas para a próxima semana.Reza Pahlavi, filho do último xá do Irão, explica a Vincenzo Genovese por que razão a UE deve congelar bens ligados ao regime de Teerão e demonstrar a mesma determinação que mostrou em relação a Vladimir Putin.Kevin Curran, professor de cibersegurança na Universidade de Ulster, explica como piratas informáticos podem assumir o controlo de frigoríficos de supermercados e de sistemas de refrigeração de bancos de sangue, e o que isso significa para as… «EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.29,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -418,8 +300,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 3,
-    "Mundo": 5
+    "África": 0,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

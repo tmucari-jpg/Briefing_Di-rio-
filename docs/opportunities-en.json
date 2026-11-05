@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-11-05T00:12:33.666038+00:00",
+  "updated_at": "2026-11-05T10:27:43.611415+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Empregos estratégicos",
+      "title": "Mozambique’s Tax Authority is recruiting 650 staff to strengthen revenue collection and inspections",
+      "summary": "Mozambique’s Tax Authority (AT) will recruit 650 staff nationwide, including tax officers and guards, to strengthen revenue collection, tax inspections and customs control, according to a recruitment notice consulted by Lusa on Thursday. The notice states that the AT is opening a public recruitment process to fill 650 vacancies, including 350 in the technical career… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique’s Tax Authority is recruiting 650 staff to strengthen revenue collection and inspections” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique’s Tax Authority is recruiting 650 staff to strengthen revenue collection and inspections”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-05T09:37:04+00:00",
+      "age_hours": 0.8,
+      "link": "https://clubofmozambique.com/news/mozambiques-tax-authority-is-recruiting-650-staff-to-strengthen-revenue-collection-and-inspections/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 9
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",

@@ -1,25 +1,84 @@
 {
-  "updated_at": "2026-11-05T00:12:19.219877+00:00",
+  "updated_at": "2026-11-05T10:27:28.267667+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "South Korea tests Arctic shipping route amid Russia-West row",
+      "summary": "For South Korean ships, navigating off north coast of Russia dramatically reduces travel time to Europe, but the pro-Ukraine coalition might see it as undermining their efforts to isolate Moscow A South Korean container ship completed a voyage to Western Europe through the Arctic Ocean off the northern coast of Russia in October, fueling Seoul's hopes of exploiting the route as a shortcut for trade The ship made the round trip from Busan to Rotterdam in just 50 days, saving at least 10 days compared to the fastest travel times along the more commonly used Suez Canal route. The Northern Sea Route (NSR) is not only around 7,000 kilometers (4,350 miles) shorter, it also avoids the geopolitical flashpoint of the Middle East But the faster delivery times might not exactly trigger celebrations across western European capitals Analysts say the nations arrayed against Russia over its invasion of Ukraine fear that South Korean President Lee Jae-myung is looking to boost Seoul's economic relations with Moscow.",
+      "why": "«South Korea tests Arctic shipping route amid Russia-West row» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «South Korea tests Arctic shipping route amid Russia-West row», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-11-05T09:45:00+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "For South Korean ships, navigating off north coast of Russia dramatically reduces travel time to Europe, but the pro-Ukraine coalition might see it as undermining their efforts to isolate Moscow A South Korean container ship completed a voyage to Western Europe through the Arctic Ocean off the northern coast of Russia in October, fueling Seoul's hopes of exploiting the route as a shortcut for trade The ship made the round trip from Busan to Rotterdam in just 50 days, saving at least 10 days compared to the fastest travel times along the more commonly used Suez Canal route. The Northern Sea Route (NSR) is not only around 7,000 kilometers (4,350 miles) shorter, it also avoids the geopolitical flashpoint of the Middle East But the faster delivery times might not exactly trigger celebrations across western European capitals Analysts say the nations arrayed against Russia over its invasion of Ukraine fear that South Korean President Lee Jae-myung is looking to boost Seoul's economic relations with Moscow. «South Korea tests Arctic shipping route amid Russia-West row» matters because it may change energy and investment decisions affecting Mundo. For «South Korea tests Arctic shipping route amid Russia-West row», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 13.85,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
       "section": "Moçambique",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Energia",
+        "Economia"
       ],
-      "title": "Mozambique Chamber of Commerce launches Social Responsibility Award",
-      "summary": "On the occasion, CCM Vice-President for Internal Affairs Ilda Matabel said the award also seeks to raise the profile of initiatives which, despite producing positive results in communities, do not always receive the recognition they deserve “May this award serve as a platform for sharing experiences and bringing the business sector and communities closer together,” Matabel said, stressing that the CCM hopes to support companies that have contributed to improving people’s quality of life, particularly in the most vulnerable communities Photo: Câmara de Comércio de Moçambique The Chairman of the Board of Directors of the Mozambique Chamber of Commerce and Investments (CCMI), Thani Cabir, said that social responsibility should be regarded as an investment in the country’s future, stressing that business growth should go hand in hand with the development of the communities in which companies operate For her part, the Vice-President of the Social Responsibility and Sustainability portfolio at CCM, Felícia Nhama, explained that the initiative is open to small, medium-sized and large…",
-      "why": "«Mozambique Chamber of Commerce launches Social Responsibility Award» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Mozambique Chamber of Commerce launches Social Responsibility Award», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "title": "Mozambique: Fuel import bill surges 79.4% in Q2",
+      "summary": "Statistical data from the Bank of Mozambique indicate that fuel imports amounted to US$236.4 million (€203.5 million) in the first quarter and US$424.2 million (€365.1 million) in the second This represented a 79.4% increase in Mozambique’s fuel import bill from the first to the second quarter, a period marked by fuel supply difficulties in several regions of the country and constraints on access to foreign currency to finance imports In April and May, long queues formed at filling stations, some petrol stations were temporarily closed, and supply difficulties affected transport operators, businesses and consumers Over the same six-month period, Mozambique imported intermediate goods worth a total of US$1,198.7 million (€1,031.5 million), with fuels accounting for around 55% of this import category On 7 May, the Government decided to increase fuel prices, with the price of diesel rising by 45.5% and petrol by 12.1%.",
+      "why": "«Mozambique: Fuel import bill surges 79.4% in Q2» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Mozambique: Fuel import bill surges 79.4% in Q2», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-11-04T14:04:03+00:00",
-      "age_hours": 10.1,
+      "published": "2026-11-05T09:27:13+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-chamber-of-commerce-launches-social-responsibility-award/",
+      "link": "https://clubofmozambique.com/news/mozambique-fuel-import-bill-surges-79-4-in-q2/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Statistical data from the Bank of Mozambique indicate that fuel imports amounted to US$236.4 million (€203.5 million) in the first quarter and US$424.2 million (€365.1 million) in the second This represented a 79.4% increase in Mozambique’s fuel import bill from the first to the second quarter, a period marked by fuel supply difficulties in several regions of the country and constraints on access to foreign currency to finance imports In April and May, long queues formed at filling stations, some petrol stations were temporarily closed, and supply difficulties affected transport operators, businesses and consumers Over the same six-month period, Mozambique imported intermediate goods worth a total of US$1,198.7 million (€1,031.5 million), with fuels accounting for around 55% of this import category On 7 May, the Government decided to increase fuel prices, with the price of diesel rising by 45.5% and petrol by 12.1%. «Mozambique: Fuel import bill surges 79.4% in Q2» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique: Fuel import bill surges 79.4% in Q2», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 13.79,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique: Private sector returns to growth in October, PMI shows",
+      "summary": "Mozambique’s private sector regained momentum in October, as new orders rose at the sharpest pace in over five years and lifted business activity back into growth. Firms responded by raising their input purchases at a record rate However, stronger demand also added to cost pressures, with purchase prices rising at the quickest pace in nearly four-and-a-half years. Business optimism nonetheless remained historically elevated, despite easing slightly from September’s near nine-year high The headline figure derived from the survey is the Purchasing Managers’ IndexTM (PMI®). Readings above 50.0 signal an improvement in business conditions on the previous month, while readings below 50.0 show a deterioration The Mozambique PMI recorded above the 50.0 neutral threshold for the fourth consecutive month in October, signalling a further improvement in private sector operating conditions.",
+      "why": "«Mozambique: Private sector returns to growth in October, PMI shows» helps explain a concrete economic or business change relevant to Moçambique.",
+      "impact": "For «Mozambique: Private sector returns to growth in October, PMI shows», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-05T08:11:45+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-private-sector-returns-to-growth-in-october-pmi-shows/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -29,10 +88,163 @@
       ],
       "primary_source": "Club of Mozambique",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "On the occasion, CCM Vice-President for Internal Affairs Ilda Matabel said the award also seeks to raise the profile of initiatives which, despite producing positive results in communities, do not always receive the recognition they deserve “May this award serve as a platform for sharing experiences and bringing the business sector and communities closer together,” Matabel said, stressing that the CCM hopes to support companies that have contributed to improving people’s quality of life, particularly in the most vulnerable communities Photo: Câmara de Comércio de Moçambique The Chairman of the Board of Directors of the Mozambique Chamber of Commerce and Investments (CCMI), Thani Cabir, said that social responsibility should be regarded as an investment in the country’s future, stressing that business growth should go hand in hand with the development of the communities in which companies operate For her part, the Vice-President of the Social Responsibility and Sustainability portfolio at CCM, Felícia Nhama, explained that the initiative is open to small, medium-sized and large… «Mozambique Chamber of Commerce launches Social Responsibility Award» deserves attention because it may change political, diplomatic or security risks. For «Mozambique Chamber of Commerce launches Social Responsibility Award», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 13.9,
+      "opportunity_flag": false,
+      "detailed_summary": "Mozambique’s private sector regained momentum in October, as new orders rose at the sharpest pace in over five years and lifted business activity back into growth. Firms responded by raising their input purchases at a record rate However, stronger demand also added to cost pressures, with purchase prices rising at the quickest pace in nearly four-and-a-half years. Business optimism nonetheless remained historically elevated, despite easing slightly from September’s near nine-year high The headline figure derived from the survey is the Purchasing Managers’ IndexTM (PMI®). Readings above 50.0 signal an improvement in business conditions on the previous month, while readings below 50.0 show a deterioration The Mozambique PMI recorded above the 50.0 neutral threshold for the fourth consecutive month in October, signalling a further improvement in private sector operating conditions. «Mozambique: Private sector returns to growth in October, PMI shows» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Private sector returns to growth in October, PMI shows», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 13.52,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "summary": "Watch: Hong Kong pro-democracy advocate Joshua Wong jailed for 10 years Joshua Wong, once the face of Hong Kong's democracy movement, has been sentenced to 10 years in jail for colluding with foreign forces under the city's sweeping national security law Wong is among hundreds of campaigners and ordinary Hongkongers arrested under the law, which was imposed in 2020 following explosive pro-democracy protests against Beijing's growing control Critics say the far-reaching law has silenced dissent, but authorities argue that it is needed to maintain stability and deny it has weakened the city's cherished autonomy Having already spent the last six years in jail, Wong, who was due to be freed in January, will now spend another decade behind bars Silenced and erased, Hong Kong's decade of protest is now a defiant memory What a defiant mogul's trial says about Hong Kong Wong, who turned 30 last month, has already been imprisoned multiple times for his activism which started when he was a teen On Thursday, he arrived in court wearing a dark blue long-sleeved shirt, khaki trousers and…",
+      "why": "«Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-05T08:07:22+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-007",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera English"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Al Jazeera English",
+          "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+          "link": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Watch: Hong Kong pro-democracy advocate Joshua Wong jailed for 10 years Joshua Wong, once the face of Hong Kong's democracy movement, has been sentenced to 10 years in jail for colluding with foreign forces under the city's sweeping national security law Wong is among hundreds of campaigners and ordinary Hongkongers arrested under the law, which was imposed in 2020 following explosive pro-democracy protests against Beijing's growing control Critics say the far-reaching law has silenced dissent, but authorities argue that it is needed to maintain stability and deny it has weakened the city's cherished autonomy Having already spent the last six years in jail, Wong, who was due to be freed in January, will now spend another decade behind bars Silenced and erased, Hong Kong's decade of protest is now a defiant memory What a defiant mogul's trial says about Hong Kong Wong, who turned 30 last month, has already been imprisoned multiple times for his activism which started when he was a teen On Thursday, he arrived in court wearing a dark blue long-sleeved shirt, khaki trousers and… «Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years» deserves attention because it may change political, diplomatic or security risks. For «Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 13.02,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Government to mobilize about 27 billion meticais for mitigation of El Niño",
+      "summary": "Maputo, 05 Nov (AIM) – The Mozambican government plans to mobilize approximately 27 billion meticais (1.7 billion US dollars at the current exchange rate) to implement the 2026/27 National Plan for Mitigating the Impacts of El Niño weather phenomenon. The plan aims to cover sectors of agriculture, health, education, water supply, food assistance, and social protection sectors. According to the Prime Minister Benvinda Levi, who was speaking on Wednesday at the country’s parliament, Assembly of the Republic, in response to concerns raised by parliamentary groups, the measure is also aimed at distributing agricultural input kits to over 185,000 households, incusing the construction of multi-purpose silos to complement small-scale irrigation systems, and the rehabilitation or construction of dams, water supply systems, and multi-purpose boreholes, “all aimed at benefiting more than one million people.” The 2026/27 rainy season points to normal rainfall in the Northern provinces of Nampula, Cabo Delgado, and Niassa.",
+      "why": "«Government to mobilize about 27 billion meticais for mitigation of El Niño» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Government to mobilize about 27 billion meticais for mitigation of El Niño», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "AIM News",
+      "published": "2026-11-05T07:19:36+00:00",
+      "age_hours": 3.1,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/05/government-to-mobilize-about-27-billion-meticais-for-mitigation-of-el-nino/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 05 Nov (AIM) – The Mozambican government plans to mobilize approximately 27 billion meticais (1.7 billion US dollars at the current exchange rate) to implement the 2026/27 National Plan for Mitigating the Impacts of El Niño weather phenomenon. The plan aims to cover sectors of agriculture, health, education, water supply, food assistance, and social protection sectors. According to the Prime Minister Benvinda Levi, who was speaking on Wednesday at the country’s parliament, Assembly of the Republic, in response to concerns raised by parliamentary groups, the measure is also aimed at distributing agricultural input kits to over 185,000 households, incusing the construction of multi-purpose silos to complement small-scale irrigation systems, and the rehabilitation or construction of dams, water supply systems, and multi-purpose boreholes, “all aimed at benefiting more than one million people.” The 2026/27 rainy season points to normal rainfall in the Northern provinces of Nampula, Cabo Delgado, and Niassa. «Government to mobilize about 27 billion meticais for mitigation of El Niño» is worth following because of its possible economic, institutional or regional effects. For «Government to mobilize about 27 billion meticais for mitigation of El Niño», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.35,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Frelimo Extraordinary Session to take place on November 27-28",
+      "summary": "Maputo, 05 Nov (AIM) – Mozambique’s ruling Frelimo Party has announced that the 5th Extraordinary Session of its Central Committee will take place on November 27–28 at the party’s Central School in Matola city, southern Maputo province. According to the party’s Central Committee spokesperson, Pedro Guiliche – speaking following an Ordinary Session of the Political Commission, which was chaired by the party’s President Daniel Chapo – the party will focus on three main agenda items: the review and approval of the directive on internal elections for party bodies; the Code of Ethical Conduct and Party Discipline; and the theses for the 13th Congress. The approval of these instruments is part of the preparations for the 13th Congress, scheduled to take place from July 20 to 25, 2027, in the northern city of Nampula.",
+      "why": "«Frelimo Extraordinary Session to take place on November 27-28» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Frelimo Extraordinary Session to take place on November 27-28», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "AIM News",
+      "published": "2026-11-05T06:58:31+00:00",
+      "age_hours": 3.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/05/frelimo-extraordinary-session-to-take-place-on-november-27-28/",
+      "original_source": true,
+      "event_id": "evt-mocambique-007",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 05 Nov (AIM) – Mozambique’s ruling Frelimo Party has announced that the 5th Extraordinary Session of its Central Committee will take place on November 27–28 at the party’s Central School in Matola city, southern Maputo province. According to the party’s Central Committee spokesperson, Pedro Guiliche – speaking following an Ordinary Session of the Political Commission, which was chaired by the party’s President Daniel Chapo – the party will focus on three main agenda items: the review and approval of the directive on internal elections for party bodies; the Code of Ethical Conduct and Party Discipline; and the theses for the 13th Congress. The approval of these instruments is part of the preparations for the 13th Congress, scheduled to take place from July 20 to 25, 2027, in the northern city of Nampula. «Frelimo Extraordinary Session to take place on November 27-28» is worth following because of its possible economic, institutional or regional effects. For «Frelimo Extraordinary Session to take place on November 27-28», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.27,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Several European flights receive bomb threats, some divert",
+      "summary": "Several flights across Europe have either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris; more soon followed Several commercial flights made either unscheduled or high-alert landings in France, Italy, Belgium and Bulgaria, according to authorities in the various countries Planes made unscheduled landings in Evreux, France; and in Bulgaria.",
+      "why": "«Several European flights receive bomb threats, some divert» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Several European flights receive bomb threats, some divert», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-11-05T10:10:00+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Several flights across Europe have either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris; more soon followed Several commercial flights made either unscheduled or high-alert landings in France, Italy, Belgium and Bulgaria, according to authorities in the various countries Planes made unscheduled landings in Evreux, France; and in Bulgaria. «Several European flights receive bomb threats, some divert» deserves attention because it may change political, diplomatic or security risks. For «Several European flights receive bomb threats, some divert», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.94,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "US sanctions Indian and Turkish firms accused of helping Iran",
+      "summary": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers",
+      "why": "«US sanctions Indian and Turkish firms accused of helping Iran» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «US sanctions Indian and Turkish firms accused of helping Iran», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-05T09:57:04+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers. «US sanctions Indian and Turkish firms accused of helping Iran» deserves attention because it may change political, diplomatic or security risks. For «US sanctions Indian and Turkish firms accused of helping Iran», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 10.9,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -47,11 +259,11 @@
       "impact": "For «Africa's shifting role in the global drug trade», the effects may reach prices, projects, suppliers and supply chains connected to África.",
       "source": "DW English",
       "published": "2026-11-04T15:18:00+00:00",
-      "age_hours": 8.9,
+      "age_hours": 19.2,
       "within_24h": true,
       "link": "https://www.dw.com/en/africa-s-shifting-role-in-the-global-drug-trade/a-79847720?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -61,43 +273,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Recent discoveries of meth labs suggest parts of Africa are moving beyond drug transit and becoming sites of synthetic drug production For years, Africa was primarily known as a transit point for international drug trafficking networks But recent drug seizures and laboratory discoveries show that illicit drugs are no longer only passing through African countries — they are increasingly being manufactured there Recent discoveries of methamphetamine laboratories in countries such as Nigeria , South Africa , Kenya and Mozambique have fueled concerns that Africa is becoming a significant production hub for synthetic drugs According to the UN Office on Drugs and Crime (UNODC), synthetic drug production increasingly involves transnational criminal networks and clandestine laboratories capable of supplying both local and international markets The debate gained new urgency this year after Nigeria's National Drug Law Enforcement Agency (NDLEA) dismantled what the agency described as the largest clandestine methamphetamine laboratory ever uncovered in the country The operation in Nigeria's… «Africa's shifting role in the global drug trade» matters because it may change energy and investment decisions affecting África. For «Africa's shifting role in the global drug trade», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 12.15,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Trump blames Iran war for midterms losses",
-      "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
-      "why": "«Trump blames Iran war for midterms losses» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Trump blames Iran war for midterms losses», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T23:30:01+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Al Jazeera English",
-          "title": "US midterm election results live: Trump blames Iran war after losses",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections. «Trump blames Iran war for midterms losses» deserves attention because it may change political, diplomatic or security risks. For «Trump blames Iran war for midterms losses», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.85,
+      "editorial_score": 10.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -112,11 +288,11 @@
       "impact": "For «British man infected with Ebola in DR Congo to be flown back to UK», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-11-04T18:34:19+00:00",
-      "age_hours": 5.6,
+      "age_hours": 15.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/crq8nj7xqdv9o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -126,210 +302,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "DR Congo has been facing the deadliest Ebola outbreak in the country's history A British man who has tested positive for Ebola in the Democratic Republic of Congo will be flown back to the UK It is the first confirmed case of a UK national contracting Ebola during the most recent outbreak of the rare but deadly virus in DR Congo, which has so far led to more than 5,000 deaths It is not clear when the flight will take place Earlier, a UK government spokesperson said there were \"well-established procedures for dealing with cases like this\" and that the risk to the public remains low Reuters news agency reported the infected man is a healthcare worker, citing an internal document BBC News has not seen Imported Ebola cases are extremely rare in the UK and have resulted in no deaths There have only been four confirmed cases of the virus in the UK - one, in 1976, resulting from a laboratory incident, and three involving health workers who were responding to an outbreak in West Africa between 2014 and 2015 A UK government spokesperson said: \"The UK has well-established procedures for… «British man infected with Ebola in DR Congo to be flown back to UK» is worth following because of its possible economic, institutional or regional effects. For «British man infected with Ebola in DR Congo to be flown back to UK», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 11.83,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Sudan factories struggle to restart after devastating wartime losses",
-      "summary": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen",
-      "why": "«Sudan factories struggle to restart after devastating wartime losses» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Sudan factories struggle to restart after devastating wartime losses», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T22:31:09+00:00",
-      "age_hours": 1.7,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen. «Sudan factories struggle to restart after devastating wartime losses» deserves attention because it may change political, diplomatic or security risks. For «Sudan factories struggle to restart after devastating wartime losses», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 11.65,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
-      "summary": "Aiwanger was Bavaria's Economy Minister and the chairman of the right-wing populist Free Voters party. The circumstances surrounding his death are still unclear Bavarian politician Hubert Aiwanger was found dead in a hotel in Berlin on Wednesday, the German capital's public prosecutor's office said Aiwanger was Bavaria's deputy premier, economy minister and the chairman of the right-wing populist Free Voters party. He was 55 years old The circumstances surrounding Aiwanger's death are still unclear.",
-      "why": "«Bavarian politician Hubert Aiwanger found dead in Berlin hotel» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «Bavarian politician Hubert Aiwanger found dead in Berlin hotel», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "DW English",
-      "published": "2026-11-04T21:00:00+00:00",
-      "age_hours": 3.2,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Aiwanger was Bavaria's Economy Minister and the chairman of the right-wing populist Free Voters party. The circumstances surrounding his death are still unclear Bavarian politician Hubert Aiwanger was found dead in a hotel in Berlin on Wednesday, the German capital's public prosecutor's office said Aiwanger was Bavaria's deputy premier, economy minister and the chairman of the right-wing populist Free Voters party. He was 55 years old The circumstances surrounding Aiwanger's death are still unclear. «Bavarian politician Hubert Aiwanger found dead in Berlin hotel» helps explain a concrete economic or business change relevant to Mundo. For «Bavarian politician Hubert Aiwanger found dead in Berlin hotel», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.33,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Wawira Njiru, Kenya's school feeder and German Africa Prize recipient",
-      "summary": "From a small fundraiser to a major enterprise, Wawira Njiru's Kenyan school feeding scheme has been more successful than she ever thought possible. She's now being awarded the German Africa Prize From starting a modest fundraiser for 25 school children, Wawira Njiru, 35, has become a social entrepreneur with a staggering 6,000 staff on her payroll, feeding 600,000 kids in Kenya every day with her organization Food4Education (F4E), an engagement for which she is being honored with this year's German Africa Prize . How did this transformation come to pass? The answer may be in her character. Stubborn and hardworking, that's how Njiru sees herself. \"It's hard to tell me something is not possible.\" Thinking back to how she began, she explained, \"My dream then, my ambition was to feed 100 kids every day.",
-      "why": "«Wawira Njiru, Kenya's school feeder and German Africa Prize recipient» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Wawira Njiru, Kenya's school feeder and German Africa Prize recipient», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-11-04T10:53:00+00:00",
-      "age_hours": 13.3,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/wawira-njiru-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-áfrica-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "From a small fundraiser to a major enterprise, Wawira Njiru's Kenyan school feeding scheme has been more successful than she ever thought possible. She's now being awarded the German Africa Prize From starting a modest fundraiser for 25 school children, Wawira Njiru, 35, has become a social entrepreneur with a staggering 6,000 staff on her payroll, feeding 600,000 kids in Kenya every day with her organization Food4Education (F4E), an engagement for which she is being honored with this year's German Africa Prize . How did this transformation come to pass? The answer may be in her character. Stubborn and hardworking, that's how Njiru sees herself. \"It's hard to tell me something is not possible.\" Thinking back to how she began, she explained, \"My dream then, my ambition was to feed 100 kids every day. «Wawira Njiru, Kenya's school feeder and German Africa Prize recipient» deserves attention because it may change political, diplomatic or security risks. For «Wawira Njiru, Kenya's school feeder and German Africa Prize recipient», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 11.23,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique vows to recover US$1.9 billion in the ‘hidden debts’ case",
-      "summary": "The Mozambican Government today assured that the various court rulings in favour of the State in the hidden debts case have helped to “restore the country’s international image” and that everything will be done to recover the US$1.9 billion. “The successive court rulings have helped restore Mozambique’s international image and strengthen confidence in the markets.… Source",
-      "why": "«Mozambique vows to recover US$1.9 billion in the ‘hidden debts’ case» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Mozambique vows to recover US$1.9 billion in the ‘hidden debts’ case», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Club of Mozambique",
-      "published": "2026-11-04T14:50:56+00:00",
-      "age_hours": 9.4,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-vows-to-recover-us1-9-billion-in-the-hidden-debts-case/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The Mozambican Government today assured that the various court rulings in favour of the State in the hidden debts case have helped to “restore the country’s international image” and that everything will be done to recover the US$1.9 billion. “The successive court rulings have helped restore Mozambique’s international image and strengthen confidence in the markets.… Source. «Mozambique vows to recover US$1.9 billion in the ‘hidden debts’ case» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique vows to recover US$1.9 billion in the ‘hidden debts’ case», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.04,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Democrats take House and Senate from Republicans in US midterm rout",
-      "summary": "Democrats will control both chambers of Congress after flipping seats in Republican strongholds across the US in an election seen as a repudiation of President Donald Trump By late Tuesday night, it was clear that Democrats had succeeded in turning the 2026 US midterm elections into the so-called \"blue wave\" that had been predicted by pollsters But by Wednesday morning, the scale of the victory had turned into a \"blue tsunami,\" surprising even the most optimistic political pundits In January, Democrats are set to have a commanding majority of at least 237 to 139 in the House and a 54 to 44 advantage in the Senate Democratic candidates flipped seven highly competitive Senate seats, including in what have for decades been reliably Republican districts in \"red\" states Texas voted in James Talarico as its first Democratic Senator since 1988, while electing a Democratic governor, Gina Hinojosa, for the first time in over 30 years The heartland state of Kansas, where farmers have been hit by high diesel prices and tariffs, will send a Democrat, Adam Hamilton, to the US Senate for the…",
-      "why": "«Democrats take House and Senate from Republicans in US midterm rout» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Democrats take House and Senate from Republicans in US midterm rout», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-11-04T23:04:00+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Democrats will control both chambers of Congress after flipping seats in Republican strongholds across the US in an election seen as a repudiation of President Donald Trump By late Tuesday night, it was clear that Democrats had succeeded in turning the 2026 US midterm elections into the so-called \"blue wave\" that had been predicted by pollsters But by Wednesday morning, the scale of the victory had turned into a \"blue tsunami,\" surprising even the most optimistic political pundits In January, Democrats are set to have a commanding majority of at least 237 to 139 in the House and a 54 to 44 advantage in the Senate Democratic candidates flipped seven highly competitive Senate seats, including in what have for decades been reliably Republican districts in \"red\" states Texas voted in James Talarico as its first Democratic Senator since 1988, while electing a Democratic governor, Gina Hinojosa, for the first time in over 30 years The heartland state of Kansas, where farmers have been hit by high diesel prices and tariffs, will send a Democrat, Adam Hamilton, to the US Senate for the… «Democrats take House and Senate from Republicans in US midterm rout» is worth following because of its possible economic, institutional or regional effects. For «Democrats take House and Senate from Republicans in US midterm rout», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.77,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "summary": "US tariffs on Canada featured heavily in Michigan and Maine, where Democratic candidates won big on Tuesday It was the midterm result that many in Canada had hoped for - a Democratic sweep that was in part a repudiation by American voters of Donald Trump's tariff on close trade allies \"I was doing cartwheels down the street,\" said Ontario Premier Doug Ford on Wednesday morning, calling it \"a victory for Canada\" Tuesday night's result is unlikely to grant Canada relief from those tariffs any time soon, but there is anticipation that the political shifts could create a more favourable environment for Ottawa to get the best deal now that on-again-off-again trade talks are back on US voters cited affordability as a main concern heading into the midterms and a survey by the Cato Institute in September , external suggested that about 75% believe the tariffs have raised prices In states like Maine and Michigan, tariffs played a significant role in the hard-fought races In Maine, incumbent Republican Senator Susan Collins clashed with the White House over tariffs She successfully lobbied to…",
-      "why": "«US midterm results a 'victory' for Canadians hopeful of tariff relief» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «US midterm results a 'victory' for Canadians hopeful of tariff relief», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "BBC World",
-      "published": "2026-11-04T18:01:31+00:00",
-      "age_hours": 6.2,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-010",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "US tariffs on Canada featured heavily in Michigan and Maine, where Democratic candidates won big on Tuesday It was the midterm result that many in Canada had hoped for - a Democratic sweep that was in part a repudiation by American voters of Donald Trump's tariff on close trade allies \"I was doing cartwheels down the street,\" said Ontario Premier Doug Ford on Wednesday morning, calling it \"a victory for Canada\" Tuesday night's result is unlikely to grant Canada relief from those tariffs any time soon, but there is anticipation that the political shifts could create a more favourable environment for Ottawa to get the best deal now that on-again-off-again trade talks are back on US voters cited affordability as a main concern heading into the midterms and a survey by the Cato Institute in September , external suggested that about 75% believe the tariffs have raised prices In states like Maine and Michigan, tariffs played a significant role in the hard-fought races In Maine, incumbent Republican Senator Susan Collins clashed with the White House over tariffs She successfully lobbied to… «US midterm results a 'victory' for Canadians hopeful of tariff relief» helps explain a concrete economic or business change relevant to Mundo. For «US midterm results a 'victory' for Canadians hopeful of tariff relief», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 10.71,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Palestinians, Israelis react after Democrats sweep US midterms",
-      "summary": "Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections",
-      "why": "«Palestinians, Israelis react after Democrats sweep US midterms» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Palestinians, Israelis react after Democrats sweep US midterms», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-04T22:06:24+00:00",
-      "age_hours": 2.1,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections. «Palestinians, Israelis react after Democrats sweep US midterms» is worth following because of its possible economic, institutional or regional effects. For «Palestinians, Israelis react after Democrats sweep US midterms», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.56,
+      "editorial_score": 9.69,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -344,11 +317,11 @@
       "impact": "For «ANC under pressure to reverse South Africa decline», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-11-04T11:47:44+00:00",
-      "age_hours": 12.4,
+      "age_hours": 22.7,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-004",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -358,7 +331,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "More than 500 parties are contesting the elections South Africans are voting in highly contested local elections likely to see a haemorrhaging of votes for the country's biggest party, the African National Congress (ANC) This year's voting season has been marked by intense campaigns that have included politicians spinning cars, watching grannies knit and even wading through giant-sized potholes Election officials say voting is going smoothly, despite long queues at some polling stations Leaders are campaigning to head South Africa's nearly 300 municipalities, responsible for basic service provision such as water, electricity and refuse collection For the ANC, the elections are a chance to prove it still has what it takes to govern. «ANC under pressure to reverse South Africa decline» is worth following because of its possible economic, institutional or regional effects. For «ANC under pressure to reverse South Africa decline», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 10.42,
+      "editorial_score": 8.27,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -382,9 +355,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 2,
-    "África": 5,
-    "Mundo": 5
+    "Moçambique": 4,
+    "África": 3,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
