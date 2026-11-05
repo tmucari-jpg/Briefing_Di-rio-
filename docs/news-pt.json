@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T10:27:21.930538+00:00",
+  "updated_at": "2026-11-05T18:34:08.551452+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,106 +8,87 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Segurança"
+        "Energia",
+        "Economia"
       ],
-      "title": "ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana",
-      "summary": "Margarida Ruco Machava O INCÊNDIO que na manhã de domingo, 1 de Novembro, atingiu o Serviço de Oncologia do Hospital Central de Maputo deixou imagens preocupantes. Parte de uma unidade dedicada ao tratamento de doentes com cancro foi destruída, despertando consternação e inquietação em muitas famílias. Mas, no meio desta ocorrência, houve também uma demonstração daquilo que somos capazes de fazer quando a protecção da vida se torna uma preocupação colectiva. Os 22 pacientes internados foram retirados em segurança, graças à intervenção dos profissionais envolvidos na resposta à emergência. Este acontecimento convida-nos a reflectir sobre uma verdade que, por vezes, esquecemos: a solidariedade não é apenas um sentimento, é uma forma de agir em defesa da vida e da dignidade humana. Quem enfrenta uma doença, como o cancro, necessita de cuidados médicos, mas também de segurança, acolhimento e confiança de que não ficará sozinho nos momentos de maior vulnerabilidade.",
-      "why": "«ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-05T10:17:58+00:00",
+      "title": "Mozambique LNG prevê investir 4,5 mil milhões de dólares em contratos com empresas nacionais",
+      "summary": "Maputo, 5 de Novembro de 2026 (AIM) – O projecto Mozambique LNG prevê investir cerca de 4,5 mil milhões de dólares norte-americanos em contratos com empresas moçambicanas durante a fase de construção, uma perspectiva que esteve em destaque num encontro de negócios que reuniu, esta quarta-feira, em Maputo, mais de 200 empresas nacionais. Promovido pela TotalEnergies EP Mozambique Area 1 Limitada (TEPMA1), operadora do projecto, o encontro, denominado Speed Meeting, permitiu aos empresários estabelecer contacto directo com as equipas de aquisições, esclarecer dúvidas sobre os procedimentos de contratação e obter informações sobre oportunidades de fornecimento actuais e futuras. A iniciativa, que terá continuidade na próxima semana, com uma sessão na cidade de Pemba, enquadra-se na estratégia de promoção do conteúdo local e de desenvolvimento de fornecedores nacionais.",
+      "why": "«Mozambique LNG prevê investir 4,5 mil milhões de dólares em contratos com empresas nacionais» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Mozambique LNG prevê investir 4,5 mil milhões de dólares em contratos com empresas nacionais», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-05T17:13:34+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/05/mozambique-lng-preve-investir-45-mil-milhoes-de-dolares-em-contratos-com-empresas-nacionais/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "AIM Notícias",
+        "Diário Económico"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Diário Económico",
+          "title": "Mozambique LNG Reúne Mais de 200 Empresas Moçambicanas Para Apresentar Oportunidades de Contratação",
+          "link": "https://www.diarioeconomico.co.mz/2026/11/05/negocios/empresas/mozambique-lng-reune-mais-de-200-empresas-mocambicanas-para-apresentar-oportunidades-de-contratacao/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 5 de Novembro de 2026 (AIM) – O projecto Mozambique LNG prevê investir cerca de 4,5 mil milhões de dólares norte-americanos em contratos com empresas moçambicanas durante a fase de construção, uma perspectiva que esteve em destaque num encontro de negócios que reuniu, esta quarta-feira, em Maputo, mais de 200 empresas nacionais. Promovido pela TotalEnergies EP Mozambique Area 1 Limitada (TEPMA1), operadora do projecto, o encontro, denominado Speed Meeting, permitiu aos empresários estabelecer contacto directo com as equipas de aquisições, esclarecer dúvidas sobre os procedimentos de contratação e obter informações sobre oportunidades de fornecimento actuais e futuras. A iniciativa, que terá continuidade na próxima semana, com uma sessão na cidade de Pemba, enquadra-se na estratégia de promoção do conteúdo local e de desenvolvimento de fornecedores nacionais. «Mozambique LNG prevê investir 4,5 mil milhões de dólares em contratos com empresas nacionais» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Mozambique LNG prevê investir 4,5 mil milhões de dólares em contratos com empresas nacionais», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 15.23,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Projectos de gás podem elevar crescimento económico até 22%",
+      "summary": "A economia moçambicana poderá registar um crescimento de aproximadamente 21% a 22% até 2042, caso avance o projecto de gás natural da ExxonMobil, na Área 4 da Bacia do Rovuma, juntando-se ao empreendimento da TotalEnergies, na Área 1. A perspectiva foi apresentada pelo presidente da Câmara de Petróleo e Gás de Moçambique, Florival Mucave, que […]",
+      "why": "«Projectos de gás podem elevar crescimento económico até 22%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Projectos de gás podem elevar crescimento económico até 22%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-11-05T18:22:18+00:00",
       "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/essencialmente-humanos-incendio-na-oncologia-e-a-solidariedade-humana/",
+      "link": "https://opais.co.mz/projectos-de-gas-podem-elevar-crescimento-economico-ate-22/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Jornal Notícias"
+        "O País"
       ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Margarida Ruco Machava O INCÊNDIO que na manhã de domingo, 1 de Novembro, atingiu o Serviço de Oncologia do Hospital Central de Maputo deixou imagens preocupantes. Parte de uma unidade dedicada ao tratamento de doentes com cancro foi destruída, despertando consternação e inquietação em muitas famílias. Mas, no meio desta ocorrência, houve também uma demonstração daquilo que somos capazes de fazer quando a protecção da vida se torna uma preocupação colectiva. Os 22 pacientes internados foram retirados em segurança, graças à intervenção dos profissionais envolvidos na resposta à emergência. Este acontecimento convida-nos a reflectir sobre uma verdade que, por vezes, esquecemos: a solidariedade não é apenas um sentimento, é uma forma de agir em defesa da vida e da dignidade humana. Quem enfrenta uma doença, como o cancro, necessita de cuidados médicos, mas também de segurança, acolhimento e confiança de que não ficará sozinho nos momentos de maior vulnerabilidade. «ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «ESSENCIALMENTE HUMANOS: Incêndio na Oncologia e a solidariedade humana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.96,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e Agrícolas",
-      "summary": "Angola partilhou com Moçambique a sua experiência na mobilização de investimento privado para o desenvolvimento de plataformas logísticas e o aproveitamento da produção agrícola ao longo do Corredor do Lobito. […]",
-      "why": "«TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-11-05T10:00:00+00:00",
-      "age_hours": 0.4,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/05/negocios/infra-estruturas/trans-log-moz-2026-angola-destaca-participacao-privada-na-expansao-das-plataformas-logisticas-e-agricolas/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
+      "primary_source": "O País",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Angola partilhou com Moçambique a sua experiência na mobilização de investimento privado para o desenvolvimento de plataformas logísticas e o aproveitamento da produção agrícola ao longo do Corredor do Lobito. […]. «TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «TRANS-LOG MOZ 2026: Angola Destaca Participação Privada na Expansão das Plataformas Logísticas e…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.92,
+      "detailed_summary": "A economia moçambicana poderá registar um crescimento de aproximadamente 21% a 22% até 2042, caso avance o projecto de gás natural da ExxonMobil, na Área 4 da Bacia do Rovuma, juntando-se ao empreendimento da TotalEnergies, na Área 1. A perspectiva foi apresentada pelo presidente da Câmara de Petróleo e Gás de Moçambique, Florival Mucave, que […]. «Projectos de gás podem elevar crescimento económico até 22%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Projectos de gás podem elevar crescimento económico até 22%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.96,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar Investimentos em Moçambique",
-      "summary": "As empresas moçambicanas precisam de melhorar a sua organização interna, reforçar a capacidade técnica e investir na qualificação dos trabalhadores para responder às exigências de um mercado em expansão e […]",
-      "why": "«Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Diário Económico",
-      "published": "2026-11-05T09:45:00+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/05/negocios/empresas/synapse-strategy-summit-2026-especialistas-defendem-empresas-mais-preparadas-para-aproveitar-investimentos-em-mocambique/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "As empresas moçambicanas precisam de melhorar a sua organização interna, reforçar a capacidade técnica e investir na qualificação dos trabalhadores para responder às exigências de um mercado em expansão e […]. «Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Synapse Strategy Summit 2026: Especialistas Defendem Empresas Mais Preparadas Para Aproveitar…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.85,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Oito painéis na agenda da Conferência de Turismo em Vilankulo",
-      "summary": "A II Conferência Internacional de Turismo que arranca, esta manhã (5 de Novembro), na vila turística de Vilankulo, província de Inhambane, tem como pano de fundo o debate de oito temas virados ao desenvolvimento do sector. O evento, a ser presidido pelo Chefe de Estado, Daniel Chapo, abordará a “Transformação do potencial turístico de Moçambique em projetos bancáveis – Diálogo com investidores globais”; “Referência internacional: destinos que se reinventaram”; bem como o “Desenvolvimento do Turismo Sustentável: Inovação Digital e Oportunidades de Investimento”. Igualmente, o encontro de dois dias vai discutir “O Turismo como Motor de Integração Regional, Investimento e Transformação Económica na África Austral”; Conectividade e Infra-estruturas: A Nova Fronteira para o Crescimento do Turismo em Moçambique”; “Investimento estratégico”; “Itália e Moçambique: Parcerias Estratégicas para o Investimento e Desenvolvimento do Turismo”; “A Cultura como Activo Económico do Turismo”; e “O sector privado moçambicano como motor do desenvolvimento do turismo”.",
-      "why": "«Oito painéis na agenda da Conferência de Turismo em Vilankulo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Oito painéis na agenda da Conferência de Turismo em Vilankulo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Terminal de GNL da Matola alcança marco crítico",
+      "summary": "A Beluluane Gás Company (BGC) anunciou ontem o consórcio VGI/PRDW como Engenheiro do Proprietário para a construção do futuro terminal de gás natural liquefeito (GNL). O consórcio seleccionado vai consolidar todos os projectos de engenharia e prestar apoio na conclusão do processo de contratação do empreiteiro EPC (Engenharia, Aquisição e Construção), indica um comunicado recebido pelo nosso jornal. O documento esclarece que, a medida permitirá à BGC alcançar o fecho financeiro antes do final de 2027, com o valor inicial a ser assegurado pela Matola Gas Company (MGC) e pela Gigajoule International (GI). A MGC fornece gás à Matola desde 2005 e abastece actualmente duas centrais eléctricas e mais de 35 indústrias com gás moçambicano. A GI é accionista fundadora da MGC e, desde 2015, também accionista da Gigawatt Moçambique, uma central eléctrica combinada a gás e solar de 140 MW em Ressano Garcia.",
+      "why": "«Terminal de GNL da Matola alcança marco crítico» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Terminal de GNL da Matola alcança marco crítico», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-11-05T08:31:48+00:00",
+      "published": "2026-11-05T16:37:18+00:00",
       "age_hours": 1.9,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/oito-paineis-na-agenda-da-conferencia-de-turismo-em-vilankulo/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/terminal-de-gnl-da-matola-alcanca-marco-critico/",
       "original_source": true,
-      "event_id": "evt-mocambique-006",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -116,38 +97,75 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "A II Conferência Internacional de Turismo que arranca, esta manhã (5 de Novembro), na vila turística de Vilankulo, província de Inhambane, tem como pano de fundo o debate de oito temas virados ao desenvolvimento do sector. O evento, a ser presidido pelo Chefe de Estado, Daniel Chapo, abordará a “Transformação do potencial turístico de Moçambique em projetos bancáveis – Diálogo com investidores globais”; “Referência internacional: destinos que se reinventaram”; bem como o “Desenvolvimento do Turismo Sustentável: Inovação Digital e Oportunidades de Investimento”. Igualmente, o encontro de dois dias vai discutir “O Turismo como Motor de Integração Regional, Investimento e Transformação Económica na África Austral”; Conectividade e Infra-estruturas: A Nova Fronteira para o Crescimento do Turismo em Moçambique”; “Investimento estratégico”; “Itália e Moçambique: Parcerias Estratégicas para o Investimento e Desenvolvimento do Turismo”; “A Cultura como Activo Económico do Turismo”; e “O sector privado moçambicano como motor do desenvolvimento do turismo”. «Oito painéis na agenda da Conferência de Turismo em Vilankulo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Oito painéis na agenda da Conferência de Turismo em Vilankulo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.6,
+      "detailed_summary": "A Beluluane Gás Company (BGC) anunciou ontem o consórcio VGI/PRDW como Engenheiro do Proprietário para a construção do futuro terminal de gás natural liquefeito (GNL). O consórcio seleccionado vai consolidar todos os projectos de engenharia e prestar apoio na conclusão do processo de contratação do empreiteiro EPC (Engenharia, Aquisição e Construção), indica um comunicado recebido pelo nosso jornal. O documento esclarece que, a medida permitirá à BGC alcançar o fecho financeiro antes do final de 2027, com o valor inicial a ser assegurado pela Matola Gas Company (MGC) e pela Gigajoule International (GI). A MGC fornece gás à Matola desde 2005 e abastece actualmente duas centrais eléctricas e mais de 35 indústrias com gás moçambicano. A GI é accionista fundadora da MGC e, desde 2015, também accionista da Gigawatt Moçambique, uma central eléctrica combinada a gás e solar de 140 MW em Ressano Garcia. «Terminal de GNL da Matola alcança marco crítico» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Terminal de GNL da Matola alcança marco crítico», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.6,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "PM defende aumento da produção para reduzir dependência das importações",
+      "summary": "Maputo, 5 de Nov (AIM) – A Primeira-Ministra, Maria Benvinda Levi, defende o reforço da produção e da produtividade nacional, sobretudo nos sectores agrário e pesqueiro, como resposta ao elevado custo de vida, à dependência das importações e aos desafios do crescimento económico em Moçambique. A posição foi expressa esta quinta-feira, na Assembleia da República, durante o encerramento da Sessão de Informações do Governo, ocasião em que a governante apelou à mobilização de todos os sectores da sociedade para dinamizar a capacidade produtiva do país e reduzir a dependência de bens provenientes do exterior. “Todos nós somos chamados a continuar a apostar no aumento da produção e produtividade interna, sobretudo agrícola e pesqueira”, afirmou Maria Benvinda Levi. A Primeira-Ministra considerou que a diversificação da base produtiva nacional é fundamental para aumentar as exportações, reduzir as importações, criar postos de trabalho, melhorar os rendimentos das famílias e aliviar o custo de vida.",
+      "why": "«PM defende aumento da produção para reduzir dependência das importações» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «PM defende aumento da produção para reduzir dependência das importações», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-05T17:32:29+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/05/pm-defende-aumento-da-producao-para-reduzir-dependencia-das-importacoes/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "AIM Notícias",
+        "Jornal Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Jornal Notícias",
+          "title": "Balama deve aumentar a produção para o fim da dependência externa",
+          "link": "https://www.jornalnoticias.co.mz/destaque/balama-deve-aumentar-a-producao-para-o-fim-da-dependencia-externa/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 5 de Nov (AIM) – A Primeira-Ministra, Maria Benvinda Levi, defende o reforço da produção e da produtividade nacional, sobretudo nos sectores agrário e pesqueiro, como resposta ao elevado custo de vida, à dependência das importações e aos desafios do crescimento económico em Moçambique. A posição foi expressa esta quinta-feira, na Assembleia da República, durante o encerramento da Sessão de Informações do Governo, ocasião em que a governante apelou à mobilização de todos os sectores da sociedade para dinamizar a capacidade produtiva do país e reduzir a dependência de bens provenientes do exterior. “Todos nós somos chamados a continuar a apostar no aumento da produção e produtividade interna, sobretudo agrícola e pesqueira”, afirmou Maria Benvinda Levi. A Primeira-Ministra considerou que a diversificação da base produtiva nacional é fundamental para aumentar as exportações, reduzir as importações, criar postos de trabalho, melhorar os rendimentos das famílias e aliviar o custo de vida. «PM defende aumento da produção para reduzir dependência das importações» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PM defende aumento da produção para reduzir dependência das importações», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 14.29,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
       "tags": [
         "Segurança"
       ],
-      "title": "Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong",
-      "summary": "O Governo de Taiwan condenou hoje a sentença de dez anos de prisão aplicada ao ativista de Hong Kong Joshua Wong e denunciou a \"perseguição política interminável\" contra os defensores da democracia na antiga colónia britânica Num comunicado divulgado após o anúncio da sentença, o Conselho para os Assuntos da China Continental (MAC, na sigla inglesa), organismo responsável pelas relações de Taiwan com Pequim, acusou o Partido Comunista Chinês (PCC) e o Executivo de Hong Kong de continuarem a utilizar \"instrumentos autoritários\" para \"fabricar acusações\" contra os ativistas pró-democracia Segundo o organismo, estes instrumentos, incluindo a Lei de Segurança Nacional de 2020, visam \"reprimir\" o \"direito legítimo\" da população de Hong Kong a aspirar à liberdade, à democracia e aos direitos humanos, prejudicando a imagem internacional e os fundamentos do Estado de direito no território \"O PCC e o Executivo de Hong Kong devem pôr fim à repressão e à perseguição judicial contra os ativistas pró-democracia e acabar com os processos políticos abusivos em nome da `segurança nacional`\"…",
-      "why": "«Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-05T09:04:18+00:00",
-      "age_hours": 1.4,
+      "title": "ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte",
+      "summary": "A Administração Nacional de Estradas (ANE) integrou 15 recém-formados universitários, entre os quais quatro mulheres, num programa de estágios em projectos rodoviários nos corredores de Nacala e Mtwara, no norte […]",
+      "why": "«ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-11-05T14:27:39+00:00",
+      "age_hours": 4.1,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/taiwan-condena-pena-de-prisao-de-joshua-wong-e-denuncia-perseguicao-politica-em-hong-kong_n1777034",
+      "link": "https://www.diarioeconomico.co.mz/2026/11/05/negocios/infra-estruturas/ane-integra-15-recem-formados-em-estagios-nos-corredores-rodoviarios-do-norte/",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mocambique-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "Diário Económico"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "Diário Económico",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo de Taiwan condenou hoje a sentença de dez anos de prisão aplicada ao ativista de Hong Kong Joshua Wong e denunciou a \"perseguição política interminável\" contra os defensores da democracia na antiga colónia britânica Num comunicado divulgado após o anúncio da sentença, o Conselho para os Assuntos da China Continental (MAC, na sigla inglesa), organismo responsável pelas relações de Taiwan com Pequim, acusou o Partido Comunista Chinês (PCC) e o Executivo de Hong Kong de continuarem a utilizar \"instrumentos autoritários\" para \"fabricar acusações\" contra os ativistas pró-democracia Segundo o organismo, estes instrumentos, incluindo a Lei de Segurança Nacional de 2020, visam \"reprimir\" o \"direito legítimo\" da população de Hong Kong a aspirar à liberdade, à democracia e aos direitos humanos, prejudicando a imagem internacional e os fundamentos do Estado de direito no território \"O PCC e o Executivo de Hong Kong devem pôr fim à repressão e à perseguição judicial contra os ativistas pró-democracia e acabar com os processos políticos abusivos em nome da `segurança nacional`\"… «Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Taiwan condena pena de prisão de Joshua Wong e denuncia perseguição política em Hong Kong», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.71,
-      "source_tier": "A",
+      "opportunity_flag": true,
+      "detailed_summary": "A Administração Nacional de Estradas (ANE) integrou 15 recém-formados universitários, entre os quais quatro mulheres, num programa de estágios em projectos rodoviários nos corredores de Nacala e Mtwara, no norte […]. «ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 10.15,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -161,11 +179,11 @@
       "impact": "No caso de «Voos europeus voltam a ser alvo de ameaças de bomba», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
       "published": "2026-11-05T09:22:26+00:00",
-      "age_hours": 1.1,
+      "age_hours": 9.2,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/voos-europeus-voltam-a-ser-alvo-de-ameacas-de-bomba_n1777038",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -175,56 +193,56 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Um avião comercial A320, que fazia a rota entre Dublin e Roma, foi desviado para a base aérea de Évreux, no noroeste da França, devido a uma ameaça de bomba. O governo francês está a acompanhar a situação \"em tempo real\". «Voos europeus voltam a ser alvo de ameaças de bomba» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Voos europeus voltam a ser alvo de ameaças de bomba», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.77,
+      "editorial_score": 9.08,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo reforça medidas de combate à corrupção",
-      "summary": "Maputo, 04 Nov (AIM) – O Governo moçambicano assumiu o compromisso de reforçar o combate à corrupção, através do fortalecimento do quadro legal e institucional de prevenção e responsabilização, com destaque para a aprovação da Lei n.º 12/2024, de 18 de Junho, relativa à probidade pública. a garantia foi dada hoje, em Maputo, pelo o Secretário Permanente do Ministério da Justiça, Assuntos Constitucionais e Religiosos, Tuarique Abdala. O dirigente, que falava em representação da Primeira-Ministra, Maria Benvinda Delfina Levi, destacou o papel do Observatório da Justiça na promoção da ética, integridade e transparência em Moçambique. “O Observatório da Justiça afirma-se como uma entidade empenhada na disseminação da ética e da integridade em Moçambique”, afirmou.",
-      "why": "«Governo reforça medidas de combate à corrupção» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo reforça medidas de combate à corrupção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-04T21:07:23+00:00",
-      "age_hours": 13.3,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/04/governo-reforca-medidas-de-combate-a-corrupcao/",
-      "original_source": true,
-      "event_id": "evt-mocambique-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 04 Nov (AIM) – O Governo moçambicano assumiu o compromisso de reforçar o combate à corrupção, através do fortalecimento do quadro legal e institucional de prevenção e responsabilização, com destaque para a aprovação da Lei n.º 12/2024, de 18 de Junho, relativa à probidade pública. a garantia foi dada hoje, em Maputo, pelo o Secretário Permanente do Ministério da Justiça, Assuntos Constitucionais e Religiosos, Tuarique Abdala. O dirigente, que falava em representação da Primeira-Ministra, Maria Benvinda Delfina Levi, destacou o papel do Observatório da Justiça na promoção da ética, integridade e transparência em Moçambique. “O Observatório da Justiça afirma-se como uma entidade empenhada na disseminação da ética e da integridade em Moçambique”, afirmou. «Governo reforça medidas de combate à corrupção» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo reforça medidas de combate à corrupção», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.23,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional",
-      "summary": "Anunciou o astronauta da NASA, Anil Menon, que ele e os colegas Luke Delaney e Jessica Watkins já tinham votado a partir da estação espacial, sublinhando que o processo decorreu através de um sistema eletrónico seguro que garante que os boletins chegam aos responsáveis eleitorais.Numa publicação na plataforma X, Menon escreveu que é de facto possível votar mesmo a partir do espaço.Juntou um vídeo de 29 segundos em que mostra um autocolante com a inscrição “I voted” e faz uma visita guiada àquilo que descreveu como a sua própria “secção de voto”, que na realidade era a sua cabine privada na Estação Espacial Internacional.",
-      "why": "«Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "Rússia coloca operações da Japan Tobacco International sob controlo estatal",
+      "summary": "Na quinta-feira, o presidente russo Vladimir Putin colocou as operações da Japan Tobacco International (JTI) sob controlo estatal, ordenando por decreto a sua transferência para a holding AO Promyshlennye aktivy, ligada ao Estado.A ordem abrange as fábricas da JTI em São Petersburgo, Rostov-do-Don, na região de Lipetsk e na região de Leninegrado.A empresa emprega cerca de 4 000 pessoas na Rússia e detém aproximadamente 40% do mercado russo de cigarros, o que a torna o maior fabricante do país.A gama de produtos da empresa na Rússia inclui as marcas internacionais Winston, Glamour, Camel, LD e Sobranie, e as marcas nacionais Pyotr I, Russky Stil e Donskoi Tabak.A JTI, cuja sede se situa em Genebra, entrou no mercado russo em 1999 e adquiriu o produtor local Donskoi Tabak em 2018.O grupo JT investiu 4,6 mil milhões de dólares nas suas operações na Rússia ao longo de mais de 20 anos, segundo um perfil da empresa atualizado em novembro de 2025.Após a invasão da Ucrânia pela Rússia, em 2022, a empresa não abandonou o país, mas suspendeu novos investimentos na produção e no marketing na…",
+      "why": "«Rússia coloca operações da Japan Tobacco International sob controlo estatal» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «Rússia coloca operações da Japan Tobacco International sob controlo estatal», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Euronews Português",
-      "published": "2026-11-05T08:35:49+00:00",
-      "age_hours": 1.9,
+      "published": "2026-11-05T18:03:19+00:00",
+      "age_hours": 0.5,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/05/estados-unidos-astronautas-da-nasa-votam-a-partir-da-estacao-espacial-internacional",
+      "link": "https://pt.euronews.com/2026/11/05/russia-coloca-operacoes-da-japan-tobacco-international-sob-controlo-estatal",
       "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 3,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Na quinta-feira, o presidente russo Vladimir Putin colocou as operações da Japan Tobacco International (JTI) sob controlo estatal, ordenando por decreto a sua transferência para a holding AO Promyshlennye aktivy, ligada ao Estado.A ordem abrange as fábricas da JTI em São Petersburgo, Rostov-do-Don, na região de Lipetsk e na região de Leninegrado.A empresa emprega cerca de 4 000 pessoas na Rússia e detém aproximadamente 40% do mercado russo de cigarros, o que a torna o maior fabricante do país.A gama de produtos da empresa na Rússia inclui as marcas internacionais Winston, Glamour, Camel, LD e Sobranie, e as marcas nacionais Pyotr I, Russky Stil e Donskoi Tabak.A JTI, cuja sede se situa em Genebra, entrou no mercado russo em 1999 e adquiriu o produtor local Donskoi Tabak em 2018.O grupo JT investiu 4,6 mil milhões de dólares nas suas operações na Rússia ao longo de mais de 20 anos, segundo um perfil da empresa atualizado em novembro de 2025.Após a invasão da Ucrânia pela Rússia, em 2022, a empresa não abandonou o país, mas suspendeu novos investimentos na produção e no marketing na… «Rússia coloca operações da Japan Tobacco International sob controlo estatal» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Rússia coloca operações da Japan Tobacco International sob controlo estatal», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 8.9,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Coreia do Sul alarga patrulhas antipirataria junto ao estreito de Ormuz",
+      "summary": "A Coreia do Sul planeia alargar as suas patrulhas navais do Golfo de Ádem a águas próximas de Omã, após um aumento da pirataria ao largo da costa da Somália, informou na quinta-feira o Ministério da Defesa.Desde 2009, a Unidade Cheonghae da marinha escolta navios mercantes ao largo da Somália. Pelo plano agora apresentado, passaria também a patrulhar perto de Duqm, um porto em Omã a cerca de 650 quilómetros do Estreito de Ormuz.As patrulhas permaneceriam fora do estreito e a unidade continuaria sob comando sul-coreano.Segundo o Ministério da Defesa da Coreia do Sul, foram registados até agora este ano 36 incidentes de pirataria ao largo da Somália, acima dos 11 em todo o ano de 2025. A mesma fonte indicou que os piratas se aventuraram mais em direção a Omã, à medida que forças navais internacionais se deslocaram para o mar Vermelho e para o Estreito de Ormuz.A marinha planeia enviar um avião de patrulha P-8A Poseidon, uma equipa de inativação de explosivos e meios não tripulados para limpar minas marítimas.",
+      "why": "«Coreia do Sul alarga patrulhas antipirataria junto ao estreito de Ormuz» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Coreia do Sul alarga patrulhas antipirataria junto ao estreito de Ormuz», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-05T14:22:38+00:00",
+      "age_hours": 4.2,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/11/05/coreia-do-sul-alarga-patrulhas-antipirataria-junto-ao-estreito-de-ormuz",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 2,
       "source_count": 2,
       "sources": [
         "Euronews Português",
@@ -235,47 +253,13 @@
       "confirmations": [
         {
           "source": "RTP Notícias",
-          "title": "As reações às intercalares nos Estados Unidos",
-          "link": "https://www.rtp.pt/noticias/mundo/as-reacoes-as-intercalares-nos-estados-unidos_v1776859"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Tsunami azul nas intercalares dos Estados Unidos",
-          "link": "https://www.rtp.pt/noticias/mundo/tsunami-azul-nas-intercalares-dos-estados-unidos_v1776858"
+          "title": "Coreia do Sul reforça missão naval perto do estreito de Ormuz",
+          "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/coreia-do-sul-reforca-missao-naval-perto-do-estreito-de-ormuz_n1776990"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Anunciou o astronauta da NASA, Anil Menon, que ele e os colegas Luke Delaney e Jessica Watkins já tinham votado a partir da estação espacial, sublinhando que o processo decorreu através de um sistema eletrónico seguro que garante que os boletins chegam aos responsáveis eleitorais.Numa publicação na plataforma X, Menon escreveu que é de facto possível votar mesmo a partir do espaço.Juntou um vídeo de 29 segundos em que mostra um autocolante com a inscrição “I voted” e faz uma visita guiada àquilo que descreveu como a sua própria “secção de voto”, que na realidade era a sua cabine privada na Estação Espacial Internacional. «Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Estados Unidos: astronautas da NASA votam a partir da Estação Espacial Internacional», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 10.1,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação",
-      "summary": "No programa de hoje:Eric Ham, analista político e autor de bestsellers em Washington, questiona como irá reagir um Donald Trump enfraquecido após as eleições intercalares nos Estados Unidos, nas quais os democratas passaram a controlar tanto o Senado como a Câmara dos Representantes.Xavier Volatier, responsável pela área de Transatlantic Private Wealth do Banque Transatlantique em Nova Iorque, explica o que as intercalares significam para os investidores europeus.Shona Murray relata, a partir de Helsínquia, a reação da Europa à vitória democrata e o que esperar das conversações sobre a Ucrânia previstas para a próxima semana.Reza Pahlavi, filho do último xá do Irão, explica a Vincenzo Genovese por que razão a UE deve congelar bens ligados ao regime de Teerão e demonstrar a mesma determinação que mostrou em relação a Vladimir Putin.Kevin Curran, professor de cibersegurança na Universidade de Ulster, explica como piratas informáticos podem assumir o controlo de frigoríficos de supermercados e de sistemas de refrigeração de bancos de sangue, e o que isso significa para as…",
-      "why": "«EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-05T07:03:59+00:00",
-      "age_hours": 3.4,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/05/eua-derrota-nas-intercalares-enfraquece-trump-e-levanta-duvidas-sobre-reacao",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "No programa de hoje:Eric Ham, analista político e autor de bestsellers em Washington, questiona como irá reagir um Donald Trump enfraquecido após as eleições intercalares nos Estados Unidos, nas quais os democratas passaram a controlar tanto o Senado como a Câmara dos Representantes.Xavier Volatier, responsável pela área de Transatlantic Private Wealth do Banque Transatlantique em Nova Iorque, explica o que as intercalares significam para os investidores europeus.Shona Murray relata, a partir de Helsínquia, a reação da Europa à vitória democrata e o que esperar das conversações sobre a Ucrânia previstas para a próxima semana.Reza Pahlavi, filho do último xá do Irão, explica a Vincenzo Genovese por que razão a UE deve congelar bens ligados ao regime de Teerão e demonstrar a mesma determinação que mostrou em relação a Vladimir Putin.Kevin Curran, professor de cibersegurança na Universidade de Ulster, explica como piratas informáticos podem assumir o controlo de frigoríficos de supermercados e de sistemas de refrigeração de bancos de sangue, e o que isso significa para as… «EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «EUA: derrota nas intercalares enfraquece Trump e levanta dúvidas sobre reação», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.29,
+      "detailed_summary": "A Coreia do Sul planeia alargar as suas patrulhas navais do Golfo de Ádem a águas próximas de Omã, após um aumento da pirataria ao largo da costa da Somália, informou na quinta-feira o Ministério da Defesa.Desde 2009, a Unidade Cheonghae da marinha escolta navios mercantes ao largo da Somália. Pelo plano agora apresentado, passaria também a patrulhar perto de Duqm, um porto em Omã a cerca de 650 quilómetros do Estreito de Ormuz.As patrulhas permaneceriam fora do estreito e a unidade continuaria sob comando sul-coreano.Segundo o Ministério da Defesa da Coreia do Sul, foram registados até agora este ano 36 incidentes de pirataria ao largo da Somália, acima dos 11 em todo o ano de 2025. A mesma fonte indicou que os piratas se aventuraram mais em direção a Omã, à medida que forças navais internacionais se deslocaram para o mar Vermelho e para o Estreito de Ormuz.A marinha planeia enviar um avião de patrulha P-8A Poseidon, uma equipa de inativação de explosivos e meios não tripulados para limpar minas marítimas. «Coreia do Sul alarga patrulhas antipirataria junto ao estreito de Ormuz» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Coreia do Sul alarga patrulhas antipirataria junto ao estreito de Ormuz», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 8.62,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -301,7 +285,7 @@
   "section_counts": {
     "Moçambique": 5,
     "África": 0,
-    "Mundo": 4
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
