@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T23:57:53.223981+00:00",
+  "updated_at": "2026-11-06T10:28:55.186217+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,239 +8,79 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia"
-      ],
-      "title": "Terminal de GNL da Matola pode alcançar fecho financeiro antes do final de 2027",
-      "summary": "Maputo, 05 de Nov (AIM) – A Beluluane Gas Company (BGC) nomeou o consórcio VGI/PRDW para liderar a engenharia do futuro terminal de Gás Natural Liquefeito (GNL) da Matola, uma etapa do projecto que deverá permitir o fecho financeiro antes do final de 2027. A infra-estrutura é considerada estratégica para assegurar o abastecimento de gás às centrais eléctricas e à indústria nacional face à perspectiva de esgotamento das reservas de Pande e Temane. A construção do futuro terminal de Gás Natural Liquefeito (GNL) da Matola entrou numa nova fase, com a nomeação do consórcio VGI/PRDW como Engenheiro do Proprietário (Owner’s Engineer). O anúncio foi feito esta quinta-feira, 5 de Novembro, pela Beluluane Gas Company (BGC), que prevê alcançar o fecho financeiro do projecto antes do final de 2027. O consórcio terá a responsabilidade de consolidar os diferentes projectos de engenharia e prestar assistência técnica à conclusão do processo de contratação do empreiteiro responsável pela Engenharia, Aquisição e Construção (EPC).",
-      "why": "«Terminal de GNL da Matola pode alcançar fecho financeiro antes do final de 2027» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Terminal de GNL da Matola pode alcançar fecho financeiro antes do final de 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-05T20:18:21+00:00",
-      "age_hours": 3.7,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/05/terminal-de-gnl-da-matola-pode-alcancar-fecho-financeiro-antes-do-final-de-2027/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "AIM Notícias",
-        "Jornal Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Jornal Notícias",
-          "title": "Terminal de GNL da Matola alcança marco crítico",
-          "link": "https://www.jornalnoticias.co.mz/destaque/terminal-de-gnl-da-matola-alcanca-marco-critico/"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 05 de Nov (AIM) – A Beluluane Gas Company (BGC) nomeou o consórcio VGI/PRDW para liderar a engenharia do futuro terminal de Gás Natural Liquefeito (GNL) da Matola, uma etapa do projecto que deverá permitir o fecho financeiro antes do final de 2027. A infra-estrutura é considerada estratégica para assegurar o abastecimento de gás às centrais eléctricas e à indústria nacional face à perspectiva de esgotamento das reservas de Pande e Temane. A construção do futuro terminal de Gás Natural Liquefeito (GNL) da Matola entrou numa nova fase, com a nomeação do consórcio VGI/PRDW como Engenheiro do Proprietário (Owner’s Engineer). O anúncio foi feito esta quinta-feira, 5 de Novembro, pela Beluluane Gas Company (BGC), que prevê alcançar o fecho financeiro do projecto antes do final de 2027. O consórcio terá a responsabilidade de consolidar os diferentes projectos de engenharia e prestar assistência técnica à conclusão do processo de contratação do empreiteiro responsável pela Engenharia, Aquisição e Construção (EPC). «Terminal de GNL da Matola pode alcançar fecho financeiro antes do final de 2027» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Terminal de GNL da Matola pode alcançar fecho financeiro antes do final de 2027», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 15.73,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
         "Energia",
-        "Economia"
-      ],
-      "title": "Projectos de gás podem elevar crescimento económico até 22%",
-      "summary": "A economia moçambicana poderá registar um crescimento de aproximadamente 21% a 22% até 2042, caso avance o projecto de gás natural da ExxonMobil, na Área 4 da Bacia do Rovuma, juntando-se ao empreendimento da TotalEnergies, na Área 1. A perspectiva foi apresentada pelo presidente da Câmara de Petróleo e Gás de Moçambique, Florival Mucave, que […]",
-      "why": "«Projectos de gás podem elevar crescimento económico até 22%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Projectos de gás podem elevar crescimento económico até 22%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-11-05T18:22:18+00:00",
-      "age_hours": 5.6,
-      "within_24h": true,
-      "link": "https://opais.co.mz/projectos-de-gas-podem-elevar-crescimento-economico-ate-22/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A economia moçambicana poderá registar um crescimento de aproximadamente 21% a 22% até 2042, caso avance o projecto de gás natural da ExxonMobil, na Área 4 da Bacia do Rovuma, juntando-se ao empreendimento da TotalEnergies, na Área 1. A perspectiva foi apresentada pelo presidente da Câmara de Petróleo e Gás de Moçambique, Florival Mucave, que […]. «Projectos de gás podem elevar crescimento económico até 22%» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Projectos de gás podem elevar crescimento económico até 22%», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 13.83,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "PM defende aumento da produção para reduzir dependência das importações",
-      "summary": "Maputo, 5 de Nov (AIM) – A Primeira-Ministra, Maria Benvinda Levi, defende o reforço da produção e da produtividade nacional, sobretudo nos sectores agrário e pesqueiro, como resposta ao elevado custo de vida, à dependência das importações e aos desafios do crescimento económico em Moçambique. A posição foi expressa esta quinta-feira, na Assembleia da República, durante o encerramento da Sessão de Informações do Governo, ocasião em que a governante apelou à mobilização de todos os sectores da sociedade para dinamizar a capacidade produtiva do país e reduzir a dependência de bens provenientes do exterior. “Todos nós somos chamados a continuar a apostar no aumento da produção e produtividade interna, sobretudo agrícola e pesqueira”, afirmou Maria Benvinda Levi. A Primeira-Ministra considerou que a diversificação da base produtiva nacional é fundamental para aumentar as exportações, reduzir as importações, criar postos de trabalho, melhorar os rendimentos das famílias e aliviar o custo de vida.",
-      "why": "«PM defende aumento da produção para reduzir dependência das importações» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «PM defende aumento da produção para reduzir dependência das importações», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-05T17:32:29+00:00",
-      "age_hours": 6.4,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/05/pm-defende-aumento-da-producao-para-reduzir-dependencia-das-importacoes/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "AIM Notícias",
-        "Jornal Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Jornal Notícias",
-          "title": "Balama deve aumentar a produção para o fim da dependência externa",
-          "link": "https://www.jornalnoticias.co.mz/destaque/balama-deve-aumentar-a-producao-para-o-fim-da-dependencia-externa/"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 5 de Nov (AIM) – A Primeira-Ministra, Maria Benvinda Levi, defende o reforço da produção e da produtividade nacional, sobretudo nos sectores agrário e pesqueiro, como resposta ao elevado custo de vida, à dependência das importações e aos desafios do crescimento económico em Moçambique. A posição foi expressa esta quinta-feira, na Assembleia da República, durante o encerramento da Sessão de Informações do Governo, ocasião em que a governante apelou à mobilização de todos os sectores da sociedade para dinamizar a capacidade produtiva do país e reduzir a dependência de bens provenientes do exterior. “Todos nós somos chamados a continuar a apostar no aumento da produção e produtividade interna, sobretudo agrícola e pesqueira”, afirmou Maria Benvinda Levi. A Primeira-Ministra considerou que a diversificação da base produtiva nacional é fundamental para aumentar as exportações, reduzir as importações, criar postos de trabalho, melhorar os rendimentos das famílias e aliviar o custo de vida. «PM defende aumento da produção para reduzir dependência das importações» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PM defende aumento da produção para reduzir dependência das importações», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 13.17,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Solenta Aviation inaugura voos regulares para Vilankulo",
-      "summary": "A companhia aérea Solenta Aviation inaugurou, esta quinta-feira, uma nova ligação entre Maputo e Vilankulo, com três voos semanais previstos. A operação arranca numa altura em que o Governo prepara a apresentação de projectos turísticos, incluindo uma proposta de transformação do Aeroporto de Vilankulo para receber aeronaves de maior dimensão e novos empreendimentos hoteleiros na […]",
-      "why": "«Solenta Aviation inaugura voos regulares para Vilankulo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Solenta Aviation inaugura voos regulares para Vilankulo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-11-05T14:03:22+00:00",
-      "age_hours": 9.9,
-      "within_24h": true,
-      "link": "https://opais.co.mz/solenta-aviation-inaugura-voos-regulares-para-vilankulo/",
-      "original_source": true,
-      "event_id": "evt-mocambique-009",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A companhia aérea Solenta Aviation inaugurou, esta quinta-feira, uma nova ligação entre Maputo e Vilankulo, com três voos semanais previstos. A operação arranca numa altura em que o Governo prepara a apresentação de projectos turísticos, incluindo uma proposta de transformação do Aeroporto de Vilankulo para receber aeronaves de maior dimensão e novos empreendimentos hoteleiros na […]. «Solenta Aviation inaugura voos regulares para Vilankulo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Solenta Aviation inaugura voos regulares para Vilankulo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.94,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Há 90 milhões de deslocados em risco face a mudanças do clima",
-      "summary": "A agência da ONU para os Refugiados alertou hoje para os graves riscos enfrentados por 90 milhões de deslocados que vivem em países com uma exposição elevada ou extrema às alterações do clima",
-      "why": "«Há 90 milhões de deslocados em risco face a mudanças do clima» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Há 90 milhões de deslocados em risco face a mudanças do clima», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-05T23:22:18+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/ha-90-milhoes-de-deslocados-em-risco-face-a-mudancas-do-clima_n1777250",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "A agência da ONU para os Refugiados alertou hoje para os graves riscos enfrentados por 90 milhões de deslocados que vivem em países com uma exposição elevada ou extrema às alterações do clima. «Há 90 milhões de deslocados em risco face a mudanças do clima» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Há 90 milhões de deslocados em risco face a mudanças do clima», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.88,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Flávio Bolsonaro omite detalhes da fuga para os EUA e nega ajuda de governos",
-      "summary": "O senador brasileiro Flávio Bolsonaro, derrotado na segunda volta das eleições presidenciais, recusou revelar como conseguiu fugir do Brasil para os Estados Unidos, mas negou ter recebido ajuda de qualquer Governo",
-      "why": "«Flávio Bolsonaro omite detalhes da fuga para os EUA e nega ajuda de governos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Flávio Bolsonaro omite detalhes da fuga para os EUA e nega ajuda de governos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-05T21:34:25+00:00",
-      "age_hours": 2.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/flavio-bolsonaro-omite-detalhes-da-fuga-para-os-eua-e-nega-ajuda-de-governos_n1777217",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O senador brasileiro Flávio Bolsonaro, derrotado na segunda volta das eleições presidenciais, recusou revelar como conseguiu fugir do Brasil para os Estados Unidos, mas negou ter recebido ajuda de qualquer Governo. «Flávio Bolsonaro omite detalhes da fuga para os EUA e nega ajuda de governos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Flávio Bolsonaro omite detalhes da fuga para os EUA e nega ajuda de governos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.5,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Agência da ONU mostra como alta do petróleo afeta países de forma diferente",
-      "summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período",
-      "why": "«Agência da ONU mostra como alta do petróleo afeta países de forma diferente» merece atenção porque pode alterar decisões de energia e investimento em África.",
-      "impact": "No caso de «Agência da ONU mostra como alta do petróleo afeta países de forma diferente», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "source": "Notícias ONU",
-      "published": "2026-11-05T12:00:00+00:00",
-      "age_hours": 12.0,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854840",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período. «Agência da ONU mostra como alta do petróleo afeta países de forma diferente» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Agência da ONU mostra como alta do petróleo afeta países de forma diferente», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "editorial_score": 9.5,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
+        "IA",
         "Segurança"
       ],
-      "title": "ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte",
-      "summary": "A Administração Nacional de Estradas (ANE) integrou 15 recém-formados universitários, entre os quais quatro mulheres, num programa de estágios em projectos rodoviários nos corredores de Nacala e Mtwara, no norte […]",
-      "why": "«ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-11-05T14:27:39+00:00",
-      "age_hours": 9.5,
+      "title": "Maputo acolhe competição nacional de robótica",
+      "summary": "O Ministério da Educação e Cultura (MEC) e a STEMMOZ, realizam, hoje e amanha, no Pavilhão do Maxaquene, na cidade de Maputo, a Competição Nacional de Robótica (SNRC 2026), cuja abertura será dirigida pelo Secretário de Estado do Ensino Técnico-Profissional, Leo Jamal. A competição de dois dias reúne 55 estudantes das 10 províncias do país e da Cidade de Maputo. Do total de estudantes, 33 são raparigas (60%), promovendo a participação feminina na ciência, tecnologia e inovação, sob o lema “Machamba do Futuro – Sistemas Alimentares Sustentáveis”. Os participantes vão construir e programar robôs para simular soluções nas áreas de produção alimentar, conservação da água, gestão de energia e segurança das colheitas, indica o comunicado na posse do Notícias. Foto: Sharlen Adija Leia mais… O conteúdo Maputo acolhe competição nacional de robótica aparece primeiro em Jornal Notícias",
+      "why": "«Maputo acolhe competição nacional de robótica» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Maputo acolhe competição nacional de robótica», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-06T09:44:40+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/05/negocios/infra-estruturas/ane-integra-15-recem-formados-em-estagios-nos-corredores-rodoviarios-do-norte/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/maputo-acolhe-competicao-nacional-de-robotica/",
       "original_source": true,
-      "event_id": "evt-mocambique-008",
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Ministério da Educação e Cultura (MEC) e a STEMMOZ, realizam, hoje e amanha, no Pavilhão do Maxaquene, na cidade de Maputo, a Competição Nacional de Robótica (SNRC 2026), cuja abertura será dirigida pelo Secretário de Estado do Ensino Técnico-Profissional, Leo Jamal. A competição de dois dias reúne 55 estudantes das 10 províncias do país e da Cidade de Maputo. Do total de estudantes, 33 são raparigas (60%), promovendo a participação feminina na ciência, tecnologia e inovação, sob o lema “Machamba do Futuro – Sistemas Alimentares Sustentáveis”. Os participantes vão construir e programar robôs para simular soluções nas áreas de produção alimentar, conservação da água, gestão de energia e segurança das colheitas, indica o comunicado na posse do Notícias. Foto: Sharlen Adija Leia mais… O conteúdo Maputo acolhe competição nacional de robótica aparece primeiro em Jornal Notícias. «Maputo acolhe competição nacional de robótica» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Maputo acolhe competição nacional de robótica», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 16.85,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em Moçambique",
+      "summary": "À margem do Mozambique Tourism Summit 2026, que decorre em Vilankulo, a Câmara de Comércio Moçambique–Itália (CCMI) e a Agência Nacional para o Desenvolvimento e Investimento Turístico (ANDITUR, FP) assinaram, nesta quinta-feira, um memorando de entendimento que marca uma nova etapa na cooperação institucional e empresarial entre Moçambique e Itália, com vista à promoção do […]",
+      "why": "«CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "O País",
+      "published": "2026-11-06T10:22:12+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://opais.co.mz/ccmi-e-anditur-assinam-memorando-de-entendimento-para-impulsionar-investimento-italiano-no-turismo-em-mocambique/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "À margem do Mozambique Tourism Summit 2026, que decorre em Vilankulo, a Câmara de Comércio Moçambique–Itália (CCMI) e a Agência Nacional para o Desenvolvimento e Investimento Turístico (ANDITUR, FP) assinaram, nesta quinta-feira, um memorando de entendimento que marca uma nova etapa na cooperação institucional e empresarial entre Moçambique e Itália, com vista à promoção do […]. «CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.98,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional",
+      "summary": "A Namíbia defendeu, esta quarta-feira, 4 de Novembro, em Maputo, o reforço dos postos fronteiriços de paragem única e a harmonização dos procedimentos administrativos para facilitar a circulação de mercadorias […]",
+      "why": "«TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Diário Económico",
+      "published": "2026-11-06T10:10:00+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/11/06/negocios/infra-estruturas/trans-log-moz-2026-namibia-defende-fronteiras-de-paragem-unica-para-agilizar-comercio-regional/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -248,10 +88,134 @@
       ],
       "primary_source": "Diário Económico",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "A Administração Nacional de Estradas (ANE) integrou 15 recém-formados universitários, entre os quais quatro mulheres, num programa de estágios em projectos rodoviários nos corredores de Nacala e Mtwara, no norte […]. «ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «ANE Integra 15 Recém-Formados em Estágios Nos Corredores Rodoviários do Norte», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 9.02,
+      "opportunity_flag": false,
+      "detailed_summary": "A Namíbia defendeu, esta quarta-feira, 4 de Novembro, em Maputo, o reforço dos postos fronteiriços de paragem única e a harmonização dos procedimentos administrativos para facilitar a circulação de mercadorias […]. «TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.94,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "País aposta na certificação e protecção de marcas para valorizar produtos nacionais",
+      "summary": "Maputo, 06 de Nov (AIM) – Moçambique participa, de 4 a 6 de Novembro, no Global Forum on Quality e Standards, que decorre em Viena, na Áustria, através de uma delegação chefiada pela Secretária de Estado da Indústria e que integra a Directora-Geral do Instituto da Propriedade Industrial (IPI). A presença moçambicana no fórum enquadra-se nos esforços de fortalecimento do Sistema Nacional de Infra-estrutura da Qualidade, com enfoque na melhoria dos padrões de qualidade dos produtos e serviços nacionais e no reforço da capacidade das empresas moçambicanas para competir nos mercados interno e internacional. Durante o encontro, a delegação tem igualmente a oportunidade de acompanhar experiências e iniciativas internacionais ligadas à normalização, certificação e avaliação da conformidade, áreas consideradas relevantes para a valorização da produção nacional e o acesso a novos mercados.",
+      "why": "«País aposta na certificação e protecção de marcas para valorizar produtos nacionais» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «País aposta na certificação e protecção de marcas para valorizar produtos nacionais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-06T09:57:29+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/06/pais-aposta-na-certificacao-e-proteccao-de-marcas-para-valorizar-produtos-nacionais/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 06 de Nov (AIM) – Moçambique participa, de 4 a 6 de Novembro, no Global Forum on Quality e Standards, que decorre em Viena, na Áustria, através de uma delegação chefiada pela Secretária de Estado da Indústria e que integra a Directora-Geral do Instituto da Propriedade Industrial (IPI). A presença moçambicana no fórum enquadra-se nos esforços de fortalecimento do Sistema Nacional de Infra-estrutura da Qualidade, com enfoque na melhoria dos padrões de qualidade dos produtos e serviços nacionais e no reforço da capacidade das empresas moçambicanas para competir nos mercados interno e internacional. Durante o encontro, a delegação tem igualmente a oportunidade de acompanhar experiências e iniciativas internacionais ligadas à normalização, certificação e avaliação da conformidade, áreas consideradas relevantes para a valorização da produção nacional e o acesso a novos mercados. «País aposta na certificação e protecção de marcas para valorizar produtos nacionais» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «País aposta na certificação e protecção de marcas para valorizar produtos nacionais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.9,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Censo 2027 Será o Primeiro Totalmente Digital do País",
+      "summary": "O Governo comunicou na quinta-feira, 5 de Novembro, que prevê lançar, nos próximos 90 dias, uma “Plataforma Nacional de Seguimento da Declaração de Maputo sobre População e Desenvolvimento”, destinada a […]",
+      "why": "«Censo 2027 Será o Primeiro Totalmente Digital do País» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Censo 2027 Será o Primeiro Totalmente Digital do País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-11-06T09:15:00+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/11/06/economia/desenvolvimento/censo-2027-sera-o-primeiro-totalmente-digital-do-pais/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo comunicou na quinta-feira, 5 de Novembro, que prevê lançar, nos próximos 90 dias, uma “Plataforma Nacional de Seguimento da Declaração de Maputo sobre População e Desenvolvimento”, destinada a […]. «Censo 2027 Será o Primeiro Totalmente Digital do País» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Censo 2027 Será o Primeiro Totalmente Digital do País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.75,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"",
+      "summary": "A guerra da Rússia contra a Ucrânia está perto de ser resolvida, segundo Donald Trump, que anunciou que está para breve um \"grande acordo\" que pode envolver \"toda a Europa\"",
+      "why": "«Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-06T09:48:28+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/trump-perto-de-chegar-a-acordo-com-putin-sobre-a-ucrania-e-toda-a-europa_n1777326",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 2,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Ucrânia. Donald Trump antecipa acordo de paz com alcance europeu",
+          "link": "https://www.rtp.pt/noticias/mundo/ucrania-donald-trump-antecipa-acordo-de-paz-com-alcance-europeu_v1777318"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "A guerra da Rússia contra a Ucrânia está perto de ser resolvida, segundo Donald Trump, que anunciou que está para breve um \"grande acordo\" que pode envolver \"toda a Europa\". «Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 11.85,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia",
+        "Segurança"
+      ],
+      "title": "China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba",
+      "summary": "A China rejeitou hoje as sanções impostas pelos Estados Unidos contra duas empresas chinesas acusadas de fornecer equipamento militar a Cuba e advertiu que adotará \"todas as medidas necessárias\" para proteger os direitos e interesses das suas empresas \"A cooperação entre China e Cuba é aberta e transparente\", afirmou, em conferência de imprensa, o porta-voz do ministério dos Negócios Estrangeiros chinês Guo Jiakun, que manifestou a oposição de Pequim às sanções unilaterais e à aplicação extraterritorial de medidas norte-americanas Guo assegurou que a China rejeita firmemente que Washington \"interfira e prejudique\" a cooperação entre os dois países e reiterou o apoio de Pequim a Cuba na defesa da sua soberania e contra ingerências externas As sanções, anunciadas na quinta-feira pelo departamento do Tesouro norte-americano, visam as empresas chinesas CEIEC e Beijing H&C Technologies, acusadas por Washington de fornecer componentes e equipamento militar às Forças Armadas cubanas através da empresa local Duna O porta-voz chinês não respondeu diretamente às acusações nem especificou que…",
+      "why": "«China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-06T08:35:59+00:00",
+      "age_hours": 1.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/china-rejeita-sancoes-dos-eua-contra-empresas-acusadas-de-fornecer-armas-a-cuba_n1777313",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A China rejeitou hoje as sanções impostas pelos Estados Unidos contra duas empresas chinesas acusadas de fornecer equipamento militar a Cuba e advertiu que adotará \"todas as medidas necessárias\" para proteger os direitos e interesses das suas empresas \"A cooperação entre China e Cuba é aberta e transparente\", afirmou, em conferência de imprensa, o porta-voz do ministério dos Negócios Estrangeiros chinês Guo Jiakun, que manifestou a oposição de Pequim às sanções unilaterais e à aplicação extraterritorial de medidas norte-americanas Guo assegurou que a China rejeita firmemente que Washington \"interfira e prejudique\" a cooperação entre os dois países e reiterou o apoio de Pequim a Cuba na defesa da sua soberania e contra ingerências externas As sanções, anunciadas na quinta-feira pelo departamento do Tesouro norte-americano, visam as empresas chinesas CEIEC e Beijing H&C Technologies, acusadas por Washington de fornecer componentes e equipamento militar às Forças Armadas cubanas através da empresa local Duna O porta-voz chinês não respondeu diretamente às acusações nem especificou que… «China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.6,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -265,11 +229,11 @@
       "impact": "No caso de «Espanha: Zelensky apela à América Latina para ajudar a reparar rede eléctrica da Ucrânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-11-05T21:55:02+00:00",
-      "age_hours": 2.0,
+      "age_hours": 12.6,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/11/05/espanha-zelensky-apela-a-america-latina-para-ajudar-a-reparar-rede-electrica-da-ucrania",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-011",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -279,37 +243,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O presidente ucraniano Volodymyr Zelensky apelou a Espanha e a países latino-americanos para ajudarem urgentemente a reparar a infraestrutura energética danificada da Ucrânia. Encontrou-se também com o rei Filipe VI durante a Cimeira Ibero-Americana em Madrid. «Espanha: Zelensky apela à América Latina para ajudar a reparar rede eléctrica da Ucrânia» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Espanha: Zelensky apela à América Latina para ajudar a reparar rede eléctrica da Ucrânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 8.58,
+      "editorial_score": 6.38,
       "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Guterres ressalta cultura ibero-americana como escudo frente à IA",
-      "summary": "Em Cimeira sobre região em Madri, secretário-geral António Guterres exaltou região como superpotência cultural diante da inteligência artificial; ele apontou arte, empatia e as humanidades como a maior força no futuro digital",
-      "why": "«Guterres ressalta cultura ibero-americana como escudo frente à IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Guterres ressalta cultura ibero-americana como escudo frente à IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-11-05T12:00:00+00:00",
-      "age_hours": 12.0,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854848",
-      "original_source": true,
-      "event_id": "evt-mundo-012",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Em Cimeira sobre região em Madri, secretário-geral António Guterres exaltou região como superpotência cultural diante da inteligência artificial; ele apontou arte, empatia e as humanidades como a maior força no futuro digital. «Guterres ressalta cultura ibero-americana como escudo frente à IA» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Guterres ressalta cultura ibero-americana como escudo frente à IA», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 8.5,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -323,11 +258,11 @@
       "impact": "No caso de «Rússia coloca operações da Japan Tobacco International sob controlo estatal», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Euronews Português",
       "published": "2026-11-05T18:03:19+00:00",
-      "age_hours": 5.9,
+      "age_hours": 16.4,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/11/05/russia-coloca-operacoes-da-japan-tobacco-international-sob-controlo-estatal",
       "original_source": true,
-      "event_id": "evt-mundo-008",
+      "event_id": "evt-mundo-017",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -337,7 +272,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Na quinta-feira, o presidente russo Vladimir Putin colocou as operações da Japan Tobacco International (JTI) sob controlo estatal, ordenando por decreto a sua transferência para a holding AO Promyshlennye aktivy, ligada ao Estado.A ordem abrange as fábricas da JTI em São Petersburgo, Rostov-do-Don, na região de Lipetsk e na região de Leninegrado.A empresa emprega cerca de 4 000 pessoas na Rússia e detém aproximadamente 40% do mercado russo de cigarros, o que a torna o maior fabricante do país.A gama de produtos da empresa na Rússia inclui as marcas internacionais Winston, Glamour, Camel, LD e Sobranie, e as marcas nacionais Pyotr I, Russky Stil e Donskoi Tabak.A JTI, cuja sede se situa em Genebra, entrou no mercado russo em 1999 e adquiriu o produtor local Donskoi Tabak em 2018.O grupo JT investiu 4,6 mil milhões de dólares nas suas operações na Rússia ao longo de mais de 20 anos, segundo um perfil da empresa atualizado em novembro de 2025.Após a invasão da Ucrânia pela Rússia, em 2022, a empresa não abandonou o país, mas suspendeu novos investimentos na produção e no marketing na… «Rússia coloca operações da Japan Tobacco International sob controlo estatal» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Rússia coloca operações da Japan Tobacco International sob controlo estatal», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 7.77,
+      "editorial_score": 5.58,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -362,8 +297,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
-    "Mundo": 5
+    "África": 0,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
