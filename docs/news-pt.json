@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T10:28:55.186217+00:00",
+  "updated_at": "2026-11-06T17:50:14.783293+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,60 +8,37 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
-        "IA",
-        "Segurança"
-      ],
-      "title": "Maputo acolhe competição nacional de robótica",
-      "summary": "O Ministério da Educação e Cultura (MEC) e a STEMMOZ, realizam, hoje e amanha, no Pavilhão do Maxaquene, na cidade de Maputo, a Competição Nacional de Robótica (SNRC 2026), cuja abertura será dirigida pelo Secretário de Estado do Ensino Técnico-Profissional, Leo Jamal. A competição de dois dias reúne 55 estudantes das 10 províncias do país e da Cidade de Maputo. Do total de estudantes, 33 são raparigas (60%), promovendo a participação feminina na ciência, tecnologia e inovação, sob o lema “Machamba do Futuro – Sistemas Alimentares Sustentáveis”. Os participantes vão construir e programar robôs para simular soluções nas áreas de produção alimentar, conservação da água, gestão de energia e segurança das colheitas, indica o comunicado na posse do Notícias. Foto: Sharlen Adija Leia mais… O conteúdo Maputo acolhe competição nacional de robótica aparece primeiro em Jornal Notícias",
-      "why": "«Maputo acolhe competição nacional de robótica» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Maputo acolhe competição nacional de robótica», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-06T09:44:40+00:00",
-      "age_hours": 0.7,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/maputo-acolhe-competicao-nacional-de-robotica/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Ministério da Educação e Cultura (MEC) e a STEMMOZ, realizam, hoje e amanha, no Pavilhão do Maxaquene, na cidade de Maputo, a Competição Nacional de Robótica (SNRC 2026), cuja abertura será dirigida pelo Secretário de Estado do Ensino Técnico-Profissional, Leo Jamal. A competição de dois dias reúne 55 estudantes das 10 províncias do país e da Cidade de Maputo. Do total de estudantes, 33 são raparigas (60%), promovendo a participação feminina na ciência, tecnologia e inovação, sob o lema “Machamba do Futuro – Sistemas Alimentares Sustentáveis”. Os participantes vão construir e programar robôs para simular soluções nas áreas de produção alimentar, conservação da água, gestão de energia e segurança das colheitas, indica o comunicado na posse do Notícias. Foto: Sharlen Adija Leia mais… O conteúdo Maputo acolhe competição nacional de robótica aparece primeiro em Jornal Notícias. «Maputo acolhe competição nacional de robótica» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Maputo acolhe competição nacional de robótica», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 16.85,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
         "Economia"
       ],
-      "title": "CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em Moçambique",
-      "summary": "À margem do Mozambique Tourism Summit 2026, que decorre em Vilankulo, a Câmara de Comércio Moçambique–Itália (CCMI) e a Agência Nacional para o Desenvolvimento e Investimento Turístico (ANDITUR, FP) assinaram, nesta quinta-feira, um memorando de entendimento que marca uma nova etapa na cooperação institucional e empresarial entre Moçambique e Itália, com vista à promoção do […]",
-      "why": "«CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Metade da água potável de Maputo é desperdiçada",
+      "summary": "Mais da metade da água potável produzida pela empresa Água e Saneamento de Maputo perde-se antes de chegar aos consumidores devido à degradação das condutas. Para resolver o problema, a empresa necessita de mil milhões de dólares. Criada há cinco meses, a empresa Águas e Saneamento de Maputo herdou uma rede que fornece o precioso […]",
+      "why": "«Metade da água potável de Maputo é desperdiçada» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Metade da água potável de Maputo é desperdiçada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
-      "published": "2026-11-06T10:22:12+00:00",
-      "age_hours": 0.1,
+      "published": "2026-11-06T16:02:02+00:00",
+      "age_hours": 1.8,
       "within_24h": true,
-      "link": "https://opais.co.mz/ccmi-e-anditur-assinam-memorando-de-entendimento-para-impulsionar-investimento-italiano-no-turismo-em-mocambique/",
+      "link": "https://opais.co.mz/metade-da-agua-potavel-de-maputo-e-desperdicada/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
+      "cluster_size": 2,
+      "source_count": 2,
       "sources": [
-        "O País"
+        "O País",
+        "Jornal Notícias"
       ],
       "primary_source": "O País",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "À margem do Mozambique Tourism Summit 2026, que decorre em Vilankulo, a Câmara de Comércio Moçambique–Itália (CCMI) e a Agência Nacional para o Desenvolvimento e Investimento Turístico (ANDITUR, FP) assinaram, nesta quinta-feira, um memorando de entendimento que marca uma nova etapa na cooperação institucional e empresarial entre Moçambique e Itália, com vista à promoção do […]. «CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em…» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «CCMI e ANDITUR assinam memorando de entendimento para impulsionar investimento italiano no turismo em…», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.98,
+      "confirmations": [
+        {
+          "source": "Jornal Notícias",
+          "title": "Maputo e Matola-Rio sem água neste fim-de-semana",
+          "link": "https://www.jornalnoticias.co.mz/destaque/maputo-e-matola-rio-sem-agua-neste-fim-de-semana/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Mais da metade da água potável produzida pela empresa Água e Saneamento de Maputo perde-se antes de chegar aos consumidores devido à degradação das condutas. Para resolver o problema, a empresa necessita de mil milhões de dólares. Criada há cinco meses, a empresa Águas e Saneamento de Maputo herdou uma rede que fornece o precioso […]. «Metade da água potável de Maputo é desperdiçada» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Metade da água potável de Maputo é desperdiçada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 14.12,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -70,17 +47,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional",
-      "summary": "A Namíbia defendeu, esta quarta-feira, 4 de Novembro, em Maputo, o reforço dos postos fronteiriços de paragem única e a harmonização dos procedimentos administrativos para facilitar a circulação de mercadorias […]",
-      "why": "«TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027",
+      "summary": "O Standard Bank considera que 2027 poderá ser um ano de ajustamento macroeconómico em Moçambique, num contexto de pressões fiscais, desequilíbrios no mercado cambial e recuperação lenta da actividade económica. […]",
+      "why": "«Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
-      "published": "2026-11-06T10:10:00+00:00",
-      "age_hours": 0.3,
+      "published": "2026-11-06T15:20:22+00:00",
+      "age_hours": 2.5,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/06/negocios/infra-estruturas/trans-log-moz-2026-namibia-defende-fronteiras-de-paragem-unica-para-agilizar-comercio-regional/",
+      "link": "https://www.diarioeconomico.co.mz/2026/11/06/economia/economic-briefing-standard-bank-anteve-ajustamento-macroeconomico-em-mocambique-em-2027/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -89,8 +66,37 @@
       "primary_source": "Diário Económico",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A Namíbia defendeu, esta quarta-feira, 4 de Novembro, em Maputo, o reforço dos postos fronteiriços de paragem única e a harmonização dos procedimentos administrativos para facilitar a circulação de mercadorias […]. «TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «TRANS-LOG MOZ 2026: Namíbia Defende Fronteiras de Paragem Única Para Agilizar Comércio Regional», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.94,
+      "detailed_summary": "O Standard Bank considera que 2027 poderá ser um ano de ajustamento macroeconómico em Moçambique, num contexto de pressões fiscais, desequilíbrios no mercado cambial e recuperação lenta da actividade económica. […]. «Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.48,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "IA"
+      ],
+      "title": "Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova geração",
+      "summary": "Falando na terceira edição da Cimeira Rússia–África, o presidente russo Vladimir Putin sugeriu que os países africanos se liguem a redes de pagamento internacionais de alta tecnologia. Durante a visita a uma exposição de soluções russas avançadas, o chefe de Estado e os líderes africanos puderam conhecer as capacidades da empresa A7 em pagamentos transfronteiriços. […]",
+      "why": "«Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
+      "source": "O País",
+      "published": "2026-11-06T16:26:19+00:00",
+      "age_hours": 1.4,
+      "within_24h": true,
+      "link": "https://opais.co.mz/vladimir-putin-aconselha-os-paises-africanos-a-aderirem-as-redes-de-pagamento-internacionais-de-nova-geracao/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Falando na terceira edição da Cimeira Rússia–África, o presidente russo Vladimir Putin sugeriu que os países africanos se liguem a redes de pagamento internacionais de alta tecnologia. Durante a visita a uma exposição de soluções russas avançadas, o chefe de Estado e os líderes africanos puderam conhecer as capacidades da empresa A7 em pagamentos transfronteiriços. […]. «Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
+      "editorial_score": 12.71,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -99,17 +105,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "País aposta na certificação e protecção de marcas para valorizar produtos nacionais",
-      "summary": "Maputo, 06 de Nov (AIM) – Moçambique participa, de 4 a 6 de Novembro, no Global Forum on Quality e Standards, que decorre em Viena, na Áustria, através de uma delegação chefiada pela Secretária de Estado da Indústria e que integra a Directora-Geral do Instituto da Propriedade Industrial (IPI). A presença moçambicana no fórum enquadra-se nos esforços de fortalecimento do Sistema Nacional de Infra-estrutura da Qualidade, com enfoque na melhoria dos padrões de qualidade dos produtos e serviços nacionais e no reforço da capacidade das empresas moçambicanas para competir nos mercados interno e internacional. Durante o encontro, a delegação tem igualmente a oportunidade de acompanhar experiências e iniciativas internacionais ligadas à normalização, certificação e avaliação da conformidade, áreas consideradas relevantes para a valorização da produção nacional e o acesso a novos mercados.",
-      "why": "«País aposta na certificação e protecção de marcas para valorizar produtos nacionais» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «País aposta na certificação e protecção de marcas para valorizar produtos nacionais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "title": "Moçambique lança primeiro leilão eletrónico de activos",
+      "summary": "Maputo, 6 de Novembro (AIM) – O Governo moçambicano lançou hoje, em Maputo, o primeiro leilão electrónico de bens apreendidos e declarados perdidos a favor do Estado. A iniciativa, coordenada pelo Gabinete de Gestão de Activos (GGA), visa reforçar o sistema nacional de recuperação e gestão de activos, tornando-o mais sólido, eficiente e credível. No âmbito desta iniciativa, o Executivo colocou à disposição dos interessados 14 viaturas, cujos preços de licitação inicial são 30 por cento inferiores aos respectivos valores de avaliação. “Para este leilão em particular, que marca o lançamento das hastas públicas electrónicas, estamos a disponibilizar 14 viaturas. Estas possuem valores diferenciados, mas contam com uma redução de 30 por cento sobre o preço de avaliação. O processo está aberto a todos os cidadãos, que poderão entrar, licitar e adquirir os referidos bens”, explicou a Ministra das Finanças, Carla Louveira.",
+      "why": "«Moçambique lança primeiro leilão eletrónico de activos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Moçambique lança primeiro leilão eletrónico de activos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-11-06T09:57:29+00:00",
-      "age_hours": 0.5,
+      "published": "2026-11-06T15:42:37+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/06/pais-aposta-na-certificacao-e-proteccao-de-marcas-para-valorizar-produtos-nacionais/",
+      "link": "https://aimnews.org/2026/11/06/mocambique-lanca-primeiro-leilao-eletronico-de-activos/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -118,8 +124,8 @@
       "primary_source": "AIM Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Maputo, 06 de Nov (AIM) – Moçambique participa, de 4 a 6 de Novembro, no Global Forum on Quality e Standards, que decorre em Viena, na Áustria, através de uma delegação chefiada pela Secretária de Estado da Indústria e que integra a Directora-Geral do Instituto da Propriedade Industrial (IPI). A presença moçambicana no fórum enquadra-se nos esforços de fortalecimento do Sistema Nacional de Infra-estrutura da Qualidade, com enfoque na melhoria dos padrões de qualidade dos produtos e serviços nacionais e no reforço da capacidade das empresas moçambicanas para competir nos mercados interno e internacional. Durante o encontro, a delegação tem igualmente a oportunidade de acompanhar experiências e iniciativas internacionais ligadas à normalização, certificação e avaliação da conformidade, áreas consideradas relevantes para a valorização da produção nacional e o acesso a novos mercados. «País aposta na certificação e protecção de marcas para valorizar produtos nacionais» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «País aposta na certificação e protecção de marcas para valorizar produtos nacionais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.9,
+      "detailed_summary": "Maputo, 6 de Novembro (AIM) – O Governo moçambicano lançou hoje, em Maputo, o primeiro leilão electrónico de bens apreendidos e declarados perdidos a favor do Estado. A iniciativa, coordenada pelo Gabinete de Gestão de Activos (GGA), visa reforçar o sistema nacional de recuperação e gestão de activos, tornando-o mais sólido, eficiente e credível. No âmbito desta iniciativa, o Executivo colocou à disposição dos interessados 14 viaturas, cujos preços de licitação inicial são 30 por cento inferiores aos respectivos valores de avaliação. “Para este leilão em particular, que marca o lançamento das hastas públicas electrónicas, estamos a disponibilizar 14 viaturas. Estas possuem valores diferenciados, mas contam com uma redução de 30 por cento sobre o preço de avaliação. O processo está aberto a todos os cidadãos, que poderão entrar, licitar e adquirir os referidos bens”, explicou a Ministra das Finanças, Carla Louveira. «Moçambique lança primeiro leilão eletrónico de activos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique lança primeiro leilão eletrónico de activos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.56,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -128,28 +134,147 @@
       "tags": [
         "Economia"
       ],
-      "title": "Censo 2027 Será o Primeiro Totalmente Digital do País",
-      "summary": "O Governo comunicou na quinta-feira, 5 de Novembro, que prevê lançar, nos próximos 90 dias, uma “Plataforma Nacional de Seguimento da Declaração de Maputo sobre População e Desenvolvimento”, destinada a […]",
-      "why": "«Censo 2027 Será o Primeiro Totalmente Digital do País» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Censo 2027 Será o Primeiro Totalmente Digital do País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-11-06T09:15:00+00:00",
-      "age_hours": 1.2,
+      "title": "Moçambique e EUA reforçam cooperação no treino de forças especiais",
+      "summary": "Maputo, 6 de Novembro (AIM) – Moçambique e os Estados Unidos da América abordaram o reforço da formação e do treino de forças especiais para o combate ao terrorismo, no quadro da cooperação bilateral no domínio da defesa, durante um encontro entre o ministro da Defesa Nacional, Custódio Chume, e representantes do Comando dos Estados Unidos para África (AFRICOM). O encontro teve lugar em Maputo e contou com a participação do Vice-Comandante do AFRICOM, Tenente-General John Brennan Jr., e do Vice-Comandante para as Relações Civil-Militares, Embaixador Peter Vrooman. Segundo informações divulgadas por Custódio Chume, as conversações abrangeram igualmente a cooperação nas áreas naval e da saúde militar, além da formação e capacitação das forças especiais. Durante a audiência, as partes passaram em revista o actual quadro da cooperação bilateral no sector da defesa, tendo reafirmado o compromisso de aprofundar a parceria, com enfoque no reforço das capacidades nacionais de defesa. (AIM)",
+      "why": "«Moçambique e EUA reforçam cooperação no treino de forças especiais» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Moçambique e EUA reforçam cooperação no treino de forças especiais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-06T12:20:51+00:00",
+      "age_hours": 5.5,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/06/economia/desenvolvimento/censo-2027-sera-o-primeiro-totalmente-digital-do-pais/",
+      "link": "https://aimnews.org/2026/11/06/mocambique-e-eua-reforcam-cooperacao-no-treino-de-forcas-especiais/",
       "original_source": true,
       "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Diário Económico"
+        "AIM Notícias"
       ],
-      "primary_source": "Diário Económico",
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 6 de Novembro (AIM) – Moçambique e os Estados Unidos da América abordaram o reforço da formação e do treino de forças especiais para o combate ao terrorismo, no quadro da cooperação bilateral no domínio da defesa, durante um encontro entre o ministro da Defesa Nacional, Custódio Chume, e representantes do Comando dos Estados Unidos para África (AFRICOM). O encontro teve lugar em Maputo e contou com a participação do Vice-Comandante do AFRICOM, Tenente-General John Brennan Jr., e do Vice-Comandante para as Relações Civil-Militares, Embaixador Peter Vrooman. Segundo informações divulgadas por Custódio Chume, as conversações abrangeram igualmente a cooperação nas áreas naval e da saúde militar, além da formação e capacitação das forças especiais. Durante a audiência, as partes passaram em revista o actual quadro da cooperação bilateral no sector da defesa, tendo reafirmado o compromisso de aprofundar a parceria, com enfoque no reforço das capacidades nacionais de defesa. (AIM). «Moçambique e EUA reforçam cooperação no treino de forças especiais» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique e EUA reforçam cooperação no treino de forças especiais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 11.85,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Projeto em Uganda transforma lixo eletrônico em emprego e renda",
+      "summary": "Cooperativa, apoiada pela Organização Internacional para Migrações, OIM, recupera painéis solares e baterias, unindo inclusão e sustentabilidade; se nada mudar, mundo terá que enfrentar 82 milhões de toneladas de resíduos deste tipo em 2030",
+      "why": "«Projeto em Uganda transforma lixo eletrônico em emprego e renda» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
+      "impact": "No caso de «Projeto em Uganda transforma lixo eletrônico em emprego e renda», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Notícias ONU",
+      "published": "2026-11-06T12:00:00+00:00",
+      "age_hours": 5.8,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854852",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Cooperativa, apoiada pela Organização Internacional para Migrações, OIM, recupera painéis solares e baterias, unindo inclusão e sustentabilidade; se nada mudar, mundo terá que enfrentar 82 milhões de toneladas de resíduos deste tipo em 2030. «Projeto em Uganda transforma lixo eletrônico em emprego e renda» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Projeto em Uganda transforma lixo eletrônico em emprego e renda», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 10.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA",
+        "Segurança"
+      ],
+      "title": "ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial",
+      "summary": "Informações falsas custam bilhões e ameaçam progresso; chefe do Sistema ONU no Brasil, Igor Garafulic, detalha parceria com o país para promover a integridade da informação, segurança cibernética e governança ética da IA",
+      "why": "«ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-11-06T12:00:00+00:00",
+      "age_hours": 5.8,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854851",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Informações falsas custam bilhões e ameaçam progresso; chefe do Sistema ONU no Brasil, Igor Garafulic, detalha parceria com o país para promover a integridade da informação, segurança cibernética e governança ética da IA. «ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 10.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão",
+      "summary": "O presidente russo Vladimir Putin reuniu-se em Moscovo, esta quinta-feira, com o secretário do Conselho Supremo de Segurança Nacional do Irão, Mohsen Rezaei, que entregou uma mensagem pessoal do aiatola Mojtaba Khamenei sobre a guerra no Irão e discutiu aquilo que ambas as partes chamaram “reforço dos laços”.O principal responsável pela segurança do Irão descreveu o encontro como “uma troca de pontos de vista extremamente importante”, que abrangeu “a situação pós-guerra e a segurança regional”.A Rússia tem sido um apoiante de longa data do Irão, alegadamente fornecendo a Teerão informações de inteligência e equipamento durante a guerra.",
+      "why": "«Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-06T16:20:43+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/11/06/irao-entrega-mensagem-de-khamenei-a-putin-e-discute-gasoduto-russia-irao",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Governo comunicou na quinta-feira, 5 de Novembro, que prevê lançar, nos próximos 90 dias, uma “Plataforma Nacional de Seguimento da Declaração de Maputo sobre População e Desenvolvimento”, destinada a […]. «Censo 2027 Será o Primeiro Totalmente Digital do País» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Censo 2027 Será o Primeiro Totalmente Digital do País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.75,
-      "source_tier": "B",
+      "detailed_summary": "O presidente russo Vladimir Putin reuniu-se em Moscovo, esta quinta-feira, com o secretário do Conselho Supremo de Segurança Nacional do Irão, Mohsen Rezaei, que entregou uma mensagem pessoal do aiatola Mojtaba Khamenei sobre a guerra no Irão e discutiu aquilo que ambas as partes chamaram “reforço dos laços”.O principal responsável pela segurança do Irão descreveu o encontro como “uma troca de pontos de vista extremamente importante”, que abrangeu “a situação pós-guerra e a segurança regional”.A Rússia tem sido um apoiante de longa data do Irão, alegadamente fornecendo a Teerão informações de inteligência e equipamento durante a guerra. «Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 10.69,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Azerbaijão e Ucrânia reforçam cooperação energética e comercial",
+      "summary": "Azerbaijão e Ucrânia formalizaram uma ampla expansão da sua cooperação económica e energética, ao concluírem a 14.ª reunião da sua Comissão Intergovernamental Conjunta na cidade ucraniana ocidental de Uzhhorod. As conversações bilaterais assinalam a primeira vez que a comissão se reúne em território ucraniano desde o início da invasão russa em grande escala. Co-presididas pelo ministro da Energia do Azerbaijão, Parviz Shahbazov, e pelo primeiro vice-primeiro-ministro e ministro da Energia da Ucrânia, Denys Shmyhal, as delegações assinaram um Protocolo formal e adotaram um Plano de Ação abrangente para 2026-2027. Os acordos estratégicos abrangem 14 setores distintos, com forte enfoque na resiliência da infraestrutura energética e nas ligações comerciais transfronteiriças, numa altura de graves obstáculos logísticos em tempo de guerra.",
+      "why": "«Azerbaijão e Ucrânia reforçam cooperação energética e comercial» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Azerbaijão e Ucrânia reforçam cooperação energética e comercial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-06T15:31:23+00:00",
+      "age_hours": 2.3,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/11/06/azerbaijao-e-ucrania-reforcam-cooperacao-energetica-e-comercial",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Azerbaijão e Ucrânia formalizaram uma ampla expansão da sua cooperação económica e energética, ao concluírem a 14.ª reunião da sua Comissão Intergovernamental Conjunta na cidade ucraniana ocidental de Uzhhorod. As conversações bilaterais assinalam a primeira vez que a comissão se reúne em território ucraniano desde o início da invasão russa em grande escala. Co-presididas pelo ministro da Energia do Azerbaijão, Parviz Shahbazov, e pelo primeiro vice-primeiro-ministro e ministro da Energia da Ucrânia, Denys Shmyhal, as delegações assinaram um Protocolo formal e adotaram um Plano de Ação abrangente para 2026-2027. Os acordos estratégicos abrangem 14 setores distintos, com forte enfoque na resiliência da infraestrutura energética e nas ligações comerciais transfronteiriças, numa altura de graves obstáculos logísticos em tempo de guerra. «Azerbaijão e Ucrânia reforçam cooperação energética e comercial» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Azerbaijão e Ucrânia reforçam cooperação energética e comercial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 10.52,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -163,11 +288,11 @@
       "impact": "No caso de «Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
       "published": "2026-11-06T09:48:28+00:00",
-      "age_hours": 0.7,
+      "age_hours": 8.0,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/trump-perto-de-chegar-a-acordo-com-putin-sobre-a-ucrania-e-toda-a-europa_n1777326",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-006",
       "cluster_size": 2,
       "source_count": 1,
       "sources": [
@@ -184,27 +309,26 @@
       ],
       "opportunity_flag": false,
       "detailed_summary": "A guerra da Rússia contra a Ucrânia está perto de ser resolvida, segundo Donald Trump, que anunciou que está para breve um \"grande acordo\" que pode envolver \"toda a Europa\". «Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.85,
+      "editorial_score": 10.33,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia",
-        "Segurança"
+        "Economia"
       ],
-      "title": "China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba",
-      "summary": "A China rejeitou hoje as sanções impostas pelos Estados Unidos contra duas empresas chinesas acusadas de fornecer equipamento militar a Cuba e advertiu que adotará \"todas as medidas necessárias\" para proteger os direitos e interesses das suas empresas \"A cooperação entre China e Cuba é aberta e transparente\", afirmou, em conferência de imprensa, o porta-voz do ministério dos Negócios Estrangeiros chinês Guo Jiakun, que manifestou a oposição de Pequim às sanções unilaterais e à aplicação extraterritorial de medidas norte-americanas Guo assegurou que a China rejeita firmemente que Washington \"interfira e prejudique\" a cooperação entre os dois países e reiterou o apoio de Pequim a Cuba na defesa da sua soberania e contra ingerências externas As sanções, anunciadas na quinta-feira pelo departamento do Tesouro norte-americano, visam as empresas chinesas CEIEC e Beijing H&C Technologies, acusadas por Washington de fornecer componentes e equipamento militar às Forças Armadas cubanas através da empresa local Duna O porta-voz chinês não respondeu diretamente às acusações nem especificou que…",
-      "why": "«China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro",
+      "summary": "Eisenkot deve ser o próximo primeiro-ministro de Israel. Onze dias depois das eleições, garantiu o apoio de 67 deputados. Só precisava de 61. Está cada vez mais perto a saída de Benjamin Netanyahu do Governo",
+      "why": "«Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-11-06T08:35:59+00:00",
-      "age_hours": 1.9,
+      "published": "2026-11-06T13:57:47+00:00",
+      "age_hours": 3.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/china-rejeita-sancoes-dos-eua-contra-empresas-acusadas-de-fornecer-armas-a-cuba_n1777313",
+      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-israel-gadi-eisenkot-mais-perto-de-ser-primeiro-ministro_v1777399",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -213,68 +337,68 @@
       "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A China rejeitou hoje as sanções impostas pelos Estados Unidos contra duas empresas chinesas acusadas de fornecer equipamento militar a Cuba e advertiu que adotará \"todas as medidas necessárias\" para proteger os direitos e interesses das suas empresas \"A cooperação entre China e Cuba é aberta e transparente\", afirmou, em conferência de imprensa, o porta-voz do ministério dos Negócios Estrangeiros chinês Guo Jiakun, que manifestou a oposição de Pequim às sanções unilaterais e à aplicação extraterritorial de medidas norte-americanas Guo assegurou que a China rejeita firmemente que Washington \"interfira e prejudique\" a cooperação entre os dois países e reiterou o apoio de Pequim a Cuba na defesa da sua soberania e contra ingerências externas As sanções, anunciadas na quinta-feira pelo departamento do Tesouro norte-americano, visam as empresas chinesas CEIEC e Beijing H&C Technologies, acusadas por Washington de fornecer componentes e equipamento militar às Forças Armadas cubanas através da empresa local Duna O porta-voz chinês não respondeu diretamente às acusações nem especificou que… «China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «China rejeita sanções dos EUA contra empresas acusadas de fornecer armas a Cuba», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 10.6,
+      "detailed_summary": "Eisenkot deve ser o próximo primeiro-ministro de Israel. Onze dias depois das eleições, garantiu o apoio de 67 deputados. Só precisava de 61. Está cada vez mais perto a saída de Benjamin Netanyahu do Governo. «Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.19,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Espanha: Zelensky apela à América Latina para ajudar a reparar rede eléctrica da Ucrânia",
-      "summary": "O presidente ucraniano Volodymyr Zelensky apelou a Espanha e a países latino-americanos para ajudarem urgentemente a reparar a infraestrutura energética danificada da Ucrânia. Encontrou-se também com o rei Filipe VI durante a Cimeira Ibero-Americana em Madrid",
-      "why": "«Espanha: Zelensky apela à América Latina para ajudar a reparar rede eléctrica da Ucrânia» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Espanha: Zelensky apela à América Latina para ajudar a reparar rede eléctrica da Ucrânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-05T21:55:02+00:00",
-      "age_hours": 12.6,
+      "title": "Jornalistas aprimoram conhecimentos sobre segurança social em Nampula",
+      "summary": "Jornalistas de diversos órgãos de comunicação social da província de Nampula reuniram-se, esta sexta-feira (6), em Nacala, para aprimorar seus conhecimentos sobre Segurança Social Obrigatória. Através da formação, o Instituto Nacional de Segurança Social (INSS) pretende envolver os profissionais de comunicação social na disseminação do quadro legal e de outras informações sobre o sistema, de modo a sensibilizar os contribuintes sobre a importância do cumprimento das suas obrigações contributivas e promover uma maior compreensão dos mecanismos de protecção social. O seminário surge num contexto em que o INSS enfrenta desafios relacionados com a cobrança de contribuições junto dos empregadores e dos trabalhadores por conta própria, o que reforça a necessidade de ampliar a divulgação de informações sobre os direitos, deveres e procedimentos inerentes à Segurança Social Obrigatória.",
+      "why": "«Jornalistas aprimoram conhecimentos sobre segurança social em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Jornalistas aprimoram conhecimentos sobre segurança social em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-06T13:39:06+00:00",
+      "age_hours": 4.2,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/11/05/espanha-zelensky-apela-a-america-latina-para-ajudar-a-reparar-rede-electrica-da-ucrania",
+      "link": "https://www.jornalnoticias.co.mz/destaque/jornalistas-aprimoram-conhecimentos-sobre-seguranca-social-em-nampula/",
       "original_source": true,
-      "event_id": "evt-mundo-011",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Euronews Português"
+        "Jornal Notícias"
       ],
-      "primary_source": "Euronews Português",
+      "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O presidente ucraniano Volodymyr Zelensky apelou a Espanha e a países latino-americanos para ajudarem urgentemente a reparar a infraestrutura energética danificada da Ucrânia. Encontrou-se também com o rei Filipe VI durante a Cimeira Ibero-Americana em Madrid. «Espanha: Zelensky apela à América Latina para ajudar a reparar rede eléctrica da Ucrânia» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Espanha: Zelensky apela à América Latina para ajudar a reparar rede eléctrica da Ucrânia», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 6.38,
-      "source_tier": "C",
+      "detailed_summary": "Jornalistas de diversos órgãos de comunicação social da província de Nampula reuniram-se, esta sexta-feira (6), em Nacala, para aprimorar seus conhecimentos sobre Segurança Social Obrigatória. Através da formação, o Instituto Nacional de Segurança Social (INSS) pretende envolver os profissionais de comunicação social na disseminação do quadro legal e de outras informações sobre o sistema, de modo a sensibilizar os contribuintes sobre a importância do cumprimento das suas obrigações contributivas e promover uma maior compreensão dos mecanismos de protecção social. O seminário surge num contexto em que o INSS enfrenta desafios relacionados com a cobrança de contribuições junto dos empregadores e dos trabalhadores por conta própria, o que reforça a necessidade de ampliar a divulgação de informações sobre os direitos, deveres e procedimentos inerentes à Segurança Social Obrigatória. «Jornalistas aprimoram conhecimentos sobre segurança social em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Jornalistas aprimoram conhecimentos sobre segurança social em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 10.12,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Rússia coloca operações da Japan Tobacco International sob controlo estatal",
-      "summary": "Na quinta-feira, o presidente russo Vladimir Putin colocou as operações da Japan Tobacco International (JTI) sob controlo estatal, ordenando por decreto a sua transferência para a holding AO Promyshlennye aktivy, ligada ao Estado.A ordem abrange as fábricas da JTI em São Petersburgo, Rostov-do-Don, na região de Lipetsk e na região de Leninegrado.A empresa emprega cerca de 4 000 pessoas na Rússia e detém aproximadamente 40% do mercado russo de cigarros, o que a torna o maior fabricante do país.A gama de produtos da empresa na Rússia inclui as marcas internacionais Winston, Glamour, Camel, LD e Sobranie, e as marcas nacionais Pyotr I, Russky Stil e Donskoi Tabak.A JTI, cuja sede se situa em Genebra, entrou no mercado russo em 1999 e adquiriu o produtor local Donskoi Tabak em 2018.O grupo JT investiu 4,6 mil milhões de dólares nas suas operações na Rússia ao longo de mais de 20 anos, segundo um perfil da empresa atualizado em novembro de 2025.Após a invasão da Ucrânia pela Rússia, em 2022, a empresa não abandonou o país, mas suspendeu novos investimentos na produção e no marketing na…",
-      "why": "«Rússia coloca operações da Japan Tobacco International sob controlo estatal» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Rússia coloca operações da Japan Tobacco International sob controlo estatal», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Euronews Português",
-      "published": "2026-11-05T18:03:19+00:00",
-      "age_hours": 16.4,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/05/russia-coloca-operacoes-da-japan-tobacco-international-sob-controlo-estatal",
+      "title": "Agência da ONU mostra como alta do petróleo afeta países de forma diferente",
+      "summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período",
+      "why": "«Agência da ONU mostra como alta do petróleo afeta países de forma diferente» merece atenção porque pode alterar decisões de energia e investimento em África.",
+      "impact": "No caso de «Agência da ONU mostra como alta do petróleo afeta países de forma diferente», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
+      "source": "Notícias ONU",
+      "published": "2026-11-05T12:00:00+00:00",
+      "age_hours": 29.8,
+      "within_24h": false,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854840",
       "original_source": true,
-      "event_id": "evt-mundo-017",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Euronews Português"
+        "Notícias ONU"
       ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Na quinta-feira, o presidente russo Vladimir Putin colocou as operações da Japan Tobacco International (JTI) sob controlo estatal, ordenando por decreto a sua transferência para a holding AO Promyshlennye aktivy, ligada ao Estado.A ordem abrange as fábricas da JTI em São Petersburgo, Rostov-do-Don, na região de Lipetsk e na região de Leninegrado.A empresa emprega cerca de 4 000 pessoas na Rússia e detém aproximadamente 40% do mercado russo de cigarros, o que a torna o maior fabricante do país.A gama de produtos da empresa na Rússia inclui as marcas internacionais Winston, Glamour, Camel, LD e Sobranie, e as marcas nacionais Pyotr I, Russky Stil e Donskoi Tabak.A JTI, cuja sede se situa em Genebra, entrou no mercado russo em 1999 e adquiriu o produtor local Donskoi Tabak em 2018.O grupo JT investiu 4,6 mil milhões de dólares nas suas operações na Rússia ao longo de mais de 20 anos, segundo um perfil da empresa atualizado em novembro de 2025.Após a invasão da Ucrânia pela Rússia, em 2022, a empresa não abandonou o país, mas suspendeu novos investimentos na produção e no marketing na… «Rússia coloca operações da Japan Tobacco International sob controlo estatal» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Rússia coloca operações da Japan Tobacco International sob controlo estatal», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 5.58,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
+      "primary_source": "Notícias ONU",
+      "status": "update",
+      "opportunity_flag": false,
+      "detailed_summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período. «Agência da ONU mostra como alta do petróleo afeta países de forma diferente» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Agência da ONU mostra como alta do petróleo afeta países de forma diferente», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
+      "editorial_score": 7.32,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -297,8 +421,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 0,
-    "Mundo": 4
+    "África": 3,
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
