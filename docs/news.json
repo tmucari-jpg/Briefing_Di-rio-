@@ -1,47 +1,10 @@
 {
-  "updated_at": "2026-11-06T17:50:14.783293+00:00",
+  "updated_at": "2026-11-06T23:40:18.479237+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Metade da água potável de Maputo é desperdiçada",
-      "summary": "Mais da metade da água potável produzida pela empresa Água e Saneamento de Maputo perde-se antes de chegar aos consumidores devido à degradação das condutas. Para resolver o problema, a empresa necessita de mil milhões de dólares. Criada há cinco meses, a empresa Águas e Saneamento de Maputo herdou uma rede que fornece o precioso […]",
-      "why": "«Metade da água potável de Maputo é desperdiçada» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Metade da água potável de Maputo é desperdiçada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-11-06T16:02:02+00:00",
-      "age_hours": 1.8,
-      "within_24h": true,
-      "link": "https://opais.co.mz/metade-da-agua-potavel-de-maputo-e-desperdicada/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "O País",
-        "Jornal Notícias"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "Jornal Notícias",
-          "title": "Maputo e Matola-Rio sem água neste fim-de-semana",
-          "link": "https://www.jornalnoticias.co.mz/destaque/maputo-e-matola-rio-sem-agua-neste-fim-de-semana/"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Mais da metade da água potável produzida pela empresa Água e Saneamento de Maputo perde-se antes de chegar aos consumidores devido à degradação das condutas. Para resolver o problema, a empresa necessita de mil milhões de dólares. Criada há cinco meses, a empresa Águas e Saneamento de Maputo herdou uma rede que fornece o precioso […]. «Metade da água potável de Maputo é desperdiçada» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Metade da água potável de Maputo é desperdiçada», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 14.12,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
     {
       "section": "Moçambique",
       "tags": [
@@ -53,11 +16,11 @@
       "impact": "No caso de «Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
       "published": "2026-11-06T15:20:22+00:00",
-      "age_hours": 2.5,
+      "age_hours": 8.3,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/11/06/economia/economic-briefing-standard-bank-anteve-ajustamento-macroeconomico-em-mocambique-em-2027/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -67,7 +30,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Standard Bank considera que 2027 poderá ser um ano de ajustamento macroeconómico em Moçambique, num contexto de pressões fiscais, desequilíbrios no mercado cambial e recuperação lenta da actividade económica. […]. «Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.48,
+      "editorial_score": 12.27,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -81,10 +44,10 @@
       "why": "«Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
       "impact": "No caso de «Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
       "source": "O País",
-      "published": "2026-11-06T16:26:19+00:00",
-      "age_hours": 1.4,
+      "published": "2026-11-06T18:21:40+00:00",
+      "age_hours": 5.3,
       "within_24h": true,
-      "link": "https://opais.co.mz/vladimir-putin-aconselha-os-paises-africanos-a-aderirem-as-redes-de-pagamento-internacionais-de-nova-geracao/",
+      "link": "https://opais.co.mz/vladimir-putin-aconselha-os-paises-africanos-a-aderirem-as-redes-de-pagamento-internacionais-de-nova-geracao-2/",
       "original_source": true,
       "event_id": "evt-áfrica-001",
       "cluster_size": 1,
@@ -96,8 +59,37 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Falando na terceira edição da Cimeira Rússia–África, o presidente russo Vladimir Putin sugeriu que os países africanos se liguem a redes de pagamento internacionais de alta tecnologia. Durante a visita a uma exposição de soluções russas avançadas, o chefe de Estado e os líderes africanos puderam conhecer as capacidades da empresa A7 em pagamentos transfronteiriços. […]. «Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
-      "editorial_score": 12.71,
+      "editorial_score": 11.9,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Zelensky diz que Rússia prepara ataque ao setor energético e pontes",
+      "summary": "O Presidente ucraniano, Volodymyr Zelensky, assegurou hoje que tem \"informações\" sobre um ataque russo em preparação contra o país, visando infraestruturas civis e energéticas, bem como pontes \"Dispomos de informações que indicam que está a ser preparado um novo ataque contra o sector energético, contra as nossas pontes sobre o rio Dnieper e contra as infraestruturas civis\", afirmou Zelensky no seu discurso diário, apelando aos parceiros de Kiev para que disponibilizem mísseis intercetores para os sistemas de defesa antiaérea Patriot Os recentes ataques russos causaram danos significativos no sector energético e nas infraestruturas, especialmente na capital.",
+      "why": "«Zelensky diz que Rússia prepara ataque ao setor energético e pontes» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Zelensky diz que Rússia prepara ataque ao setor energético e pontes», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-06T22:45:07+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-diz-que-russia-prepara-ataque-ao-setor-energetico-e-pontes_n1777530",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente ucraniano, Volodymyr Zelensky, assegurou hoje que tem \"informações\" sobre um ataque russo em preparação contra o país, visando infraestruturas civis e energéticas, bem como pontes \"Dispomos de informações que indicam que está a ser preparado um novo ataque contra o sector energético, contra as nossas pontes sobre o rio Dnieper e contra as infraestruturas civis\", afirmou Zelensky no seu discurso diário, apelando aos parceiros de Kiev para que disponibilizem mísseis intercetores para os sistemas de defesa antiaérea Patriot Os recentes ataques russos causaram danos significativos no sector energético e nas infraestruturas, especialmente na capital. «Zelensky diz que Rússia prepara ataque ao setor energético e pontes» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Zelensky diz que Rússia prepara ataque ao setor energético e pontes», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 11.81,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -111,11 +103,11 @@
       "impact": "No caso de «Moçambique lança primeiro leilão eletrónico de activos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-11-06T15:42:37+00:00",
-      "age_hours": 2.1,
+      "age_hours": 8.0,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/06/mocambique-lanca-primeiro-leilao-eletronico-de-activos/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -125,7 +117,36 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 6 de Novembro (AIM) – O Governo moçambicano lançou hoje, em Maputo, o primeiro leilão electrónico de bens apreendidos e declarados perdidos a favor do Estado. A iniciativa, coordenada pelo Gabinete de Gestão de Activos (GGA), visa reforçar o sistema nacional de recuperação e gestão de activos, tornando-o mais sólido, eficiente e credível. No âmbito desta iniciativa, o Executivo colocou à disposição dos interessados 14 viaturas, cujos preços de licitação inicial são 30 por cento inferiores aos respectivos valores de avaliação. “Para este leilão em particular, que marca o lançamento das hastas públicas electrónicas, estamos a disponibilizar 14 viaturas. Estas possuem valores diferenciados, mas contam com uma redução de 30 por cento sobre o preço de avaliação. O processo está aberto a todos os cidadãos, que poderão entrar, licitar e adquirir os referidos bens”, explicou a Ministra das Finanças, Carla Louveira. «Moçambique lança primeiro leilão eletrónico de activos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique lança primeiro leilão eletrónico de activos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.56,
+      "editorial_score": 11.33,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Maputo e Matola-Rio sem água neste fim-de-semana",
+      "summary": "Vários bairros dos municípios da Cidade de Maputo e da Vila de Matola-Rio vão registar, entre sábado e segunda-feira (7 e 9 de Novembro), restrições no fornecimento de água potável da rede pública, devido aos trabalhos de manutenção programada. De acordo com o comunicado da Água e Saneamento de Maputo (SAAS-Maputo), durante o fim-de-semana serão realizadas intervenções de manutenção na Área Operacional da Matola-Rio e no Centro Distribuidor de Chamanculo, prevendo-se a normalização do serviço a partir de segunda-feira, 9 de Novembro corrente. O documento explica que, as restrições vão afectar os bairros de Matola-Rio, parte de Chinonanquila, Djuba e Djonasse. Na cidade de Maputo serão atingidos os bairros Central A e B, Polana Caniço A e B, Sommerschield, Coop, Urbanização, Alto Maé A e B, Malanga, Mikadjuine, Munhuana, Jardim, Unidade 7, Nsalene Inhagoia A, Xipamanine e Aeroporto A e B. O conteúdo Maputo e Matola-Rio sem água neste fim-de-semana aparece primeiro em Jornal Notícias",
+      "why": "«Maputo e Matola-Rio sem água neste fim-de-semana» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Maputo e Matola-Rio sem água neste fim-de-semana», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-06T15:03:11+00:00",
+      "age_hours": 8.6,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/maputo-e-matola-rio-sem-agua-neste-fim-de-semana/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Vários bairros dos municípios da Cidade de Maputo e da Vila de Matola-Rio vão registar, entre sábado e segunda-feira (7 e 9 de Novembro), restrições no fornecimento de água potável da rede pública, devido aos trabalhos de manutenção programada. De acordo com o comunicado da Água e Saneamento de Maputo (SAAS-Maputo), durante o fim-de-semana serão realizadas intervenções de manutenção na Área Operacional da Matola-Rio e no Centro Distribuidor de Chamanculo, prevendo-se a normalização do serviço a partir de segunda-feira, 9 de Novembro corrente. O documento explica que, as restrições vão afectar os bairros de Matola-Rio, parte de Chinonanquila, Djuba e Djonasse. Na cidade de Maputo serão atingidos os bairros Central A e B, Polana Caniço A e B, Sommerschield, Coop, Urbanização, Alto Maé A e B, Malanga, Mikadjuine, Munhuana, Jardim, Unidade 7, Nsalene Inhagoia A, Xipamanine e Aeroporto A e B. O conteúdo Maputo e Matola-Rio sem água neste fim-de-semana aparece primeiro em Jornal Notícias. «Maputo e Matola-Rio sem água neste fim-de-semana» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Maputo e Matola-Rio sem água neste fim-de-semana», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 11.21,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -140,7 +161,7 @@
       "impact": "No caso de «Moçambique e EUA reforçam cooperação no treino de forças especiais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-11-06T12:20:51+00:00",
-      "age_hours": 5.5,
+      "age_hours": 11.3,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/06/mocambique-e-eua-reforcam-cooperacao-no-treino-de-forcas-especiais/",
       "original_source": true,
@@ -154,66 +175,36 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 6 de Novembro (AIM) – Moçambique e os Estados Unidos da América abordaram o reforço da formação e do treino de forças especiais para o combate ao terrorismo, no quadro da cooperação bilateral no domínio da defesa, durante um encontro entre o ministro da Defesa Nacional, Custódio Chume, e representantes do Comando dos Estados Unidos para África (AFRICOM). O encontro teve lugar em Maputo e contou com a participação do Vice-Comandante do AFRICOM, Tenente-General John Brennan Jr., e do Vice-Comandante para as Relações Civil-Militares, Embaixador Peter Vrooman. Segundo informações divulgadas por Custódio Chume, as conversações abrangeram igualmente a cooperação nas áreas naval e da saúde militar, além da formação e capacitação das forças especiais. Durante a audiência, as partes passaram em revista o actual quadro da cooperação bilateral no sector da defesa, tendo reafirmado o compromisso de aprofundar a parceria, com enfoque no reforço das capacidades nacionais de defesa. (AIM). «Moçambique e EUA reforçam cooperação no treino de forças especiais» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique e EUA reforçam cooperação no treino de forças especiais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.85,
+      "editorial_score": 10.65,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Projeto em Uganda transforma lixo eletrônico em emprego e renda",
-      "summary": "Cooperativa, apoiada pela Organização Internacional para Migrações, OIM, recupera painéis solares e baterias, unindo inclusão e sustentabilidade; se nada mudar, mundo terá que enfrentar 82 milhões de toneladas de resíduos deste tipo em 2030",
-      "why": "«Projeto em Uganda transforma lixo eletrônico em emprego e renda» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
-      "impact": "No caso de «Projeto em Uganda transforma lixo eletrônico em emprego e renda», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Notícias ONU",
-      "published": "2026-11-06T12:00:00+00:00",
-      "age_hours": 5.8,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854852",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Cooperativa, apoiada pela Organização Internacional para Migrações, OIM, recupera painéis solares e baterias, unindo inclusão e sustentabilidade; se nada mudar, mundo terá que enfrentar 82 milhões de toneladas de resíduos deste tipo em 2030. «Projeto em Uganda transforma lixo eletrônico em emprego e renda» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Projeto em Uganda transforma lixo eletrônico em emprego e renda», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.79,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA",
-        "Segurança"
+        "Energia"
       ],
-      "title": "ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial",
-      "summary": "Informações falsas custam bilhões e ameaçam progresso; chefe do Sistema ONU no Brasil, Igor Garafulic, detalha parceria com o país para promover a integridade da informação, segurança cibernética e governança ética da IA",
-      "why": "«ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-11-06T12:00:00+00:00",
-      "age_hours": 5.8,
+      "title": "Brasil aprova Plano de Transição Energética nas vésperas da COP31",
+      "summary": "O Governo brasileiro aprovou hoje o Plano Nacional de Transição Energética com ações a serem executadas nos próximos quatro anos, nas vésperas da COP31, que decorrerá em Antalya, na Turquia No plano estabelecem-se diretrizes para reduzir gradualmente dependência de combustíveis fósseis no Brasil, para que a transição seja feita de forma justa, com planeamento e responsabilidade, sem desconsiderar os compromissos ambientais, mas também os seus impactos económicos, sociais e tecnológicos, segundo o Governo Durante uma reunião extraordinária do Conselho Nacional de Política Energética (CNPE), que aprovou o Plano, o Presidente brasileiro, Lula da Silva, afirmou que o Brasil pode liderar mundialmente a redução da dependência de combustíveis fósseis, mesmo sendo um país produtor de petróleo Lula destacou que o Brasil tem condições de apresentar alternativas concretas para a transição energética, e o que o Governo brasileiro levará exemplos daquilo que o país fez, e não apenas \"palpites\", ao encontro internacional, defendendo que a experiência brasileira pode servir de referência para…",
+      "why": "«Brasil aprova Plano de Transição Energética nas vésperas da COP31» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Brasil aprova Plano de Transição Energética nas vésperas da COP31», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-06T21:55:18+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854851",
+      "link": "https://www.rtp.pt/noticias/mundo/brasil-aprova-plano-de-transicao-energetica-nas-vesperas-da-cop31_n1777476",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Notícias ONU"
+        "RTP Notícias"
       ],
-      "primary_source": "Notícias ONU",
+      "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Informações falsas custam bilhões e ameaçam progresso; chefe do Sistema ONU no Brasil, Igor Garafulic, detalha parceria com o país para promover a integridade da informação, segurança cibernética e governança ética da IA. «ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «ONU Brasil reforça ações contra desinformação e riscos da inteligência artificial», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 10.79,
+      "opportunity_flag": false,
+      "detailed_summary": "O Governo brasileiro aprovou hoje o Plano Nacional de Transição Energética com ações a serem executadas nos próximos quatro anos, nas vésperas da COP31, que decorrerá em Antalya, na Turquia No plano estabelecem-se diretrizes para reduzir gradualmente dependência de combustíveis fósseis no Brasil, para que a transição seja feita de forma justa, com planeamento e responsabilidade, sem desconsiderar os compromissos ambientais, mas também os seus impactos económicos, sociais e tecnológicos, segundo o Governo Durante uma reunião extraordinária do Conselho Nacional de Política Energética (CNPE), que aprovou o Plano, o Presidente brasileiro, Lula da Silva, afirmou que o Brasil pode liderar mundialmente a redução da dependência de combustíveis fósseis, mesmo sendo um país produtor de petróleo Lula destacou que o Brasil tem condições de apresentar alternativas concretas para a transição energética, e o que o Governo brasileiro levará exemplos daquilo que o país fez, e não apenas \"palpites\", ao encontro internacional, defendendo que a experiência brasileira pode servir de referência para… «Brasil aprova Plano de Transição Energética nas vésperas da COP31» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Brasil aprova Plano de Transição Energética nas vésperas da COP31», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.65,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -229,11 +220,11 @@
       "impact": "No caso de «Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-11-06T16:20:43+00:00",
-      "age_hours": 1.5,
+      "age_hours": 7.3,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/11/06/irao-entrega-mensagem-de-khamenei-a-putin-e-discute-gasoduto-russia-irao",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -243,7 +234,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O presidente russo Vladimir Putin reuniu-se em Moscovo, esta quinta-feira, com o secretário do Conselho Supremo de Segurança Nacional do Irão, Mohsen Rezaei, que entregou uma mensagem pessoal do aiatola Mojtaba Khamenei sobre a guerra no Irão e discutiu aquilo que ambas as partes chamaram “reforço dos laços”.O principal responsável pela segurança do Irão descreveu o encontro como “uma troca de pontos de vista extremamente importante”, que abrangeu “a situação pós-guerra e a segurança regional”.A Rússia tem sido um apoiante de longa data do Irão, alegadamente fornecendo a Teerão informações de inteligência e equipamento durante a guerra. «Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 10.69,
+      "editorial_score": 9.48,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -259,11 +250,11 @@
       "impact": "No caso de «Azerbaijão e Ucrânia reforçam cooperação energética e comercial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
       "source": "Euronews Português",
       "published": "2026-11-06T15:31:23+00:00",
-      "age_hours": 2.3,
+      "age_hours": 8.1,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/11/06/azerbaijao-e-ucrania-reforcam-cooperacao-energetica-e-comercial",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -273,73 +264,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Azerbaijão e Ucrânia formalizaram uma ampla expansão da sua cooperação económica e energética, ao concluírem a 14.ª reunião da sua Comissão Intergovernamental Conjunta na cidade ucraniana ocidental de Uzhhorod. As conversações bilaterais assinalam a primeira vez que a comissão se reúne em território ucraniano desde o início da invasão russa em grande escala. Co-presididas pelo ministro da Energia do Azerbaijão, Parviz Shahbazov, e pelo primeiro vice-primeiro-ministro e ministro da Energia da Ucrânia, Denys Shmyhal, as delegações assinaram um Protocolo formal e adotaram um Plano de Ação abrangente para 2026-2027. Os acordos estratégicos abrangem 14 setores distintos, com forte enfoque na resiliência da infraestrutura energética e nas ligações comerciais transfronteiriças, numa altura de graves obstáculos logísticos em tempo de guerra. «Azerbaijão e Ucrânia reforçam cooperação energética e comercial» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Azerbaijão e Ucrânia reforçam cooperação energética e comercial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 10.52,
+      "editorial_score": 9.31,
       "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"",
-      "summary": "A guerra da Rússia contra a Ucrânia está perto de ser resolvida, segundo Donald Trump, que anunciou que está para breve um \"grande acordo\" que pode envolver \"toda a Europa\"",
-      "why": "«Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-06T09:48:28+00:00",
-      "age_hours": 8.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/trump-perto-de-chegar-a-acordo-com-putin-sobre-a-ucrania-e-toda-a-europa_n1777326",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Ucrânia. Donald Trump antecipa acordo de paz com alcance europeu",
-          "link": "https://www.rtp.pt/noticias/mundo/ucrania-donald-trump-antecipa-acordo-de-paz-com-alcance-europeu_v1777318"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "A guerra da Rússia contra a Ucrânia está perto de ser resolvida, segundo Donald Trump, que anunciou que está para breve um \"grande acordo\" que pode envolver \"toda a Europa\". «Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Trump perto de chegar a acordo com Putin sobre a Ucrânia e \"toda a Europa\"», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 10.33,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro",
-      "summary": "Eisenkot deve ser o próximo primeiro-ministro de Israel. Onze dias depois das eleições, garantiu o apoio de 67 deputados. Só precisava de 61. Está cada vez mais perto a saída de Benjamin Netanyahu do Governo",
-      "why": "«Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-06T13:57:47+00:00",
-      "age_hours": 3.9,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-israel-gadi-eisenkot-mais-perto-de-ser-primeiro-ministro_v1777399",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Eisenkot deve ser o próximo primeiro-ministro de Israel. Onze dias depois das eleições, garantiu o apoio de 67 deputados. Só precisava de 61. Está cada vez mais perto a saída de Benjamin Netanyahu do Governo. «Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições Israel. Gadi Eisenkot mais perto de ser primeiro-ministro», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.19,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -353,7 +279,7 @@
       "impact": "No caso de «Jornalistas aprimoram conhecimentos sobre segurança social em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Jornal Notícias",
       "published": "2026-11-06T13:39:06+00:00",
-      "age_hours": 4.2,
+      "age_hours": 10.0,
       "within_24h": true,
       "link": "https://www.jornalnoticias.co.mz/destaque/jornalistas-aprimoram-conhecimentos-sobre-seguranca-social-em-nampula/",
       "original_source": true,
@@ -367,38 +293,9 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Jornalistas de diversos órgãos de comunicação social da província de Nampula reuniram-se, esta sexta-feira (6), em Nacala, para aprimorar seus conhecimentos sobre Segurança Social Obrigatória. Através da formação, o Instituto Nacional de Segurança Social (INSS) pretende envolver os profissionais de comunicação social na disseminação do quadro legal e de outras informações sobre o sistema, de modo a sensibilizar os contribuintes sobre a importância do cumprimento das suas obrigações contributivas e promover uma maior compreensão dos mecanismos de protecção social. O seminário surge num contexto em que o INSS enfrenta desafios relacionados com a cobrança de contribuições junto dos empregadores e dos trabalhadores por conta própria, o que reforça a necessidade de ampliar a divulgação de informações sobre os direitos, deveres e procedimentos inerentes à Segurança Social Obrigatória. «Jornalistas aprimoram conhecimentos sobre segurança social em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Jornalistas aprimoram conhecimentos sobre segurança social em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 10.12,
+      "editorial_score": 8.92,
       "source_tier": "B",
       "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Agência da ONU mostra como alta do petróleo afeta países de forma diferente",
-      "summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período",
-      "why": "«Agência da ONU mostra como alta do petróleo afeta países de forma diferente» merece atenção porque pode alterar decisões de energia e investimento em África.",
-      "impact": "No caso de «Agência da ONU mostra como alta do petróleo afeta países de forma diferente», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "source": "Notícias ONU",
-      "published": "2026-11-05T12:00:00+00:00",
-      "age_hours": 29.8,
-      "within_24h": false,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854840",
-      "original_source": true,
-      "event_id": "evt-áfrica-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "update",
-      "opportunity_flag": false,
-      "detailed_summary": "Entre fevereiro e agosto, o valor cobrado pelo diesel disparou em 83% na Nigéria comparado a 9% na Irlanda; em Mianmar, consumidores tiveram acréscimo de 51% no preço da gasolina enquanto a conta dos suecos subiu apenas 3% no mesmo período. «Agência da ONU mostra como alta do petróleo afeta países de forma diferente» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Agência da ONU mostra como alta do petróleo afeta países de forma diferente», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "editorial_score": 7.32,
-      "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -421,8 +318,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 3,
-    "Mundo": 5
+    "África": 1,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
