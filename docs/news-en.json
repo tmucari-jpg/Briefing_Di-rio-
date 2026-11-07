@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T16:46:10.218084+00:00",
+  "updated_at": "2026-11-07T20:41:53.637107+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,17 +8,17 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend",
-      "summary": "Traffic on National Road Seven (N7), in Tete province, will be restricted on Saturday and Sunday (7 and 8 November) due to works involving road cutting and the installation of a water main at two points along the road in the Chithatha area of Moatize municipality According to a press release from the National Roads… Source",
-      "why": "«Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "title": "EUMAM MOZ supports Lar Nossa Senhora dos Desamparados with essential supplies",
+      "summary": "The initiative was attended by the EUMAM MOZ Force Commander, Brigadier General Sérgio Estrela, who, accompanied by Mission personnel, visited both the female and male residential wards of the care home. Beyond the delivery of the donated items, the visit provided opportunities for interaction and engagement with the residents in an atmosphere of fellowship and sharing, enabling Mission personnel to gain a better understanding of the realities and challenges faced by this community Photo: European Union Military Assistance Mission in Mozambique The Nossa Senhora dos Desamparados Care Home carries out valuable social assistance work that requires a continuous response to the needs of its residents.",
+      "why": "«EUMAM MOZ supports Lar Nossa Senhora dos Desamparados with essential supplies» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «EUMAM MOZ supports Lar Nossa Senhora dos Desamparados with essential supplies», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-11-07T14:14:34+00:00",
-      "age_hours": 2.5,
+      "published": "2026-11-07T18:30:05+00:00",
+      "age_hours": 2.2,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-roadworks-disrupt-traffic-on-n7-in-moatize-this-weekend/",
+      "link": "https://clubofmozambique.com/news/eumam-moz-supports-lar-nossa-senhora-dos-desamparados-with-essential-supplies/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -29,9 +29,98 @@
       "primary_source": "Club of Mozambique",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Traffic on National Road Seven (N7), in Tete province, will be restricted on Saturday and Sunday (7 and 8 November) due to works involving road cutting and the installation of a water main at two points along the road in the Chithatha area of Moatize municipality According to a press release from the National Roads… Source. «Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 12.48,
+      "detailed_summary": "The initiative was attended by the EUMAM MOZ Force Commander, Brigadier General Sérgio Estrela, who, accompanied by Mission personnel, visited both the female and male residential wards of the care home. Beyond the delivery of the donated items, the visit provided opportunities for interaction and engagement with the residents in an atmosphere of fellowship and sharing, enabling Mission personnel to gain a better understanding of the realities and challenges faced by this community Photo: European Union Military Assistance Mission in Mozambique The Nossa Senhora dos Desamparados Care Home carries out valuable social assistance work that requires a continuous response to the needs of its residents. «EUMAM MOZ supports Lar Nossa Senhora dos Desamparados with essential supplies» deserves attention because it may change political, diplomatic or security risks. For «EUMAM MOZ supports Lar Nossa Senhora dos Desamparados with essential supplies», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "editorial_score": 13.54,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "South Africa's ANC facing worst-ever performance in local elections",
+      "summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages South Africa's African National Congress (ANC) is heading for an historically poor election performance , with the near-final tally from Wednesday's municipal polls showing it coming in with just over 30% of the vote The ANC also lost its majority in six of the eight metropolitan regions, South Africa's Electoral Commission said Saturday in sharing the results after 98% of votes were counted South African voters in 2026 are angry about water and electricity shortages, with the ANC taking the blame for the poor state of municipalities. High unemployment, crime, and widespread corruption are other pressing issues ANC leader, and South African president, Cyril Ramaphosa , has not yet addressed the poor performance as of Saturday evening.",
+      "why": "«South Africa's ANC facing worst-ever performance in local elections» helps explain a concrete economic or business change relevant to África.",
+      "impact": "For «South Africa's ANC facing worst-ever performance in local elections», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "DW English",
+      "published": "2026-11-07T18:07:00+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages South Africa's African National Congress (ANC) is heading for an historically poor election performance , with the near-final tally from Wednesday's municipal polls showing it coming in with just over 30% of the vote The ANC also lost its majority in six of the eight metropolitan regions, South Africa's Electoral Commission said Saturday in sharing the results after 98% of votes were counted South African voters in 2026 are angry about water and electricity shortages, with the ANC taking the blame for the poor state of municipalities. High unemployment, crime, and widespread corruption are other pressing issues ANC leader, and South African president, Cyril Ramaphosa , has not yet addressed the poor performance as of Saturday evening. «South Africa's ANC facing worst-ever performance in local elections» helps explain a concrete economic or business change relevant to África. For «South Africa's ANC facing worst-ever performance in local elections», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 13.46,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "More than 140,000 rally as new protests against rising costs sweep France",
+      "summary": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters",
+      "why": "«More than 140,000 rally as new protests against rising costs sweep France» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «More than 140,000 rally as new protests against rising costs sweep France», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-07T20:12:22+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters. «More than 140,000 rally as new protests against rising costs sweep France» matters because it may change energy and investment decisions affecting Mundo. For «More than 140,000 rally as new protests against rising costs sweep France», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 12.9,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "The US has announced a reward of up to $20 million for information about Iran's nuclear programme The State Department's Rewards for Justice is also offering to potentially relocate the person who provides such details President Donald Trump claimed last year that Iran's nuclear facilities had been \"completely and totally obliterated \" following a bombing campaign by the US and Israel Iran insists its nuclear programme is peaceful and that it has no intention of developing a nuclear weapon Meanwhile, the US military says it is setting up a task force to enhance Washington's efforts to restrict Iran's movement of weapons and sanctioned material across its borders The US military's Central Command (Centcom) said Task Force Iron Gate would operate from Tampa, Florida, and would work with other US government agencies As well as the movement of weapons, it will also focus on dual-use and illegal revenue streams Centcom estimates that its naval blockade of Iran's ports has prevented the country from exporting more than $25bn in crude oil Major construction ongoing near Iran missile bases…",
+      "why": "«US offers $20m reward for information about Iran's nuclear programme» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «US offers $20m reward for information about Iran's nuclear programme», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-07T18:14:38+00:00",
+      "age_hours": 2.5,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-009",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The US has announced a reward of up to $20 million for information about Iran's nuclear programme The State Department's Rewards for Justice is also offering to potentially relocate the person who provides such details President Donald Trump claimed last year that Iran's nuclear facilities had been \"completely and totally obliterated \" following a bombing campaign by the US and Israel Iran insists its nuclear programme is peaceful and that it has no intention of developing a nuclear weapon Meanwhile, the US military says it is setting up a task force to enhance Washington's efforts to restrict Iran's movement of weapons and sanctioned material across its borders The US military's Central Command (Centcom) said Task Force Iron Gate would operate from Tampa, Florida, and would work with other US government agencies As well as the movement of weapons, it will also focus on dual-use and illegal revenue streams Centcom estimates that its naval blockade of Iran's ports has prevented the country from exporting more than $25bn in crude oil Major construction ongoing near Iran missile bases… «US offers $20m reward for information about Iran's nuclear programme» matters because it may change energy and investment decisions affecting Mundo. For «US offers $20m reward for information about Iran's nuclear programme», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 12.48,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -39,15 +128,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Five killed and at least 10 injured in Krakow shooting",
-      "summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland",
-      "why": "«Five killed and at least 10 injured in Krakow shooting» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «Five killed and at least 10 injured in Krakow shooting», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+      "summary": "President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM",
+      "why": "«Israel’s president picks Eisenkot over Netanyahu to form next government» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Israel’s president picks Eisenkot over Netanyahu to form next government», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-11-07T16:06:58+00:00",
-      "age_hours": 0.7,
+      "published": "2026-11-07T20:26:58+00:00",
+      "age_hours": 0.2,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 2,
@@ -61,32 +150,61 @@
       "confirmations": [
         {
           "source": "DW English",
-          "title": "Poland: At least 5 killed in shooting in Krakow, police say",
-          "link": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf"
+          "title": "Israeli president picks Gadi Eisenkot to form government",
+          "link": "https://www.dw.com/en/israeli-president-picks-gadi-eisenkot-to-form-government/a-79888288?maca=en-rss-en-all-1573-rdf"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland. «Five killed and at least 10 injured in Krakow shooting» helps explain a concrete economic or business change relevant to Mundo. For «Five killed and at least 10 injured in Krakow shooting», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 12.35,
+      "detailed_summary": "President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM. «Israel’s president picks Eisenkot over Netanyahu to form next government» is worth following because of its possible economic, institutional or regional effects. For «Israel’s president picks Eisenkot over Netanyahu to form next government», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 12.46,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend",
+      "summary": "Traffic on National Road Seven (N7), in Tete province, will be restricted on Saturday and Sunday (7 and 8 November) due to works involving road cutting and the installation of a water main at two points along the road in the Chithatha area of Moatize municipality According to a press release from the National Roads… Source",
+      "why": "«Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-07T14:14:34+00:00",
+      "age_hours": 6.5,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-roadworks-disrupt-traffic-on-n7-in-moatize-this-weekend/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Traffic on National Road Seven (N7), in Tete province, will be restricted on Saturday and Sunday (7 and 8 November) due to works involving road cutting and the installation of a water main at two points along the road in the Chithatha area of Moatize municipality According to a press release from the National Roads… Source. «Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 11.65,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "New Zealand election too close to call with over 95% of votes counted",
-      "summary": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren't expected until later this month once special votes have been counted The two main parties were effectively deadlocked in New Zealand 's close-fought general elections on Saturday, with the rising cost of living and general economic problems the main issues at stake Results with 95% votes counted showed the ruling center-right National Party and the opposition Labour Party neck-and-neck with just under 30% of the vote The National Party held a slim lead of about 3,500 votes more than Labour late on Saturday night Incumbent Prime Minister Cristopher Luxon, who heads the National Party, said that his party \"is once again the largest party in parliament, and we have a pathway to forming the next government.\" The National Party currently governs in coalition with the pro-business ACT and the right-wing populist New Zealand First.",
-      "why": "«New Zealand election too close to call with over 95% of votes counted» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «New Zealand election too close to call with over 95% of votes counted», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "Armenia's selective prosecution: A threat to EU relations?",
+      "summary": "While Brussels has refrained from harsh criticism, Armenian civil society has warned of selective justice against opposition figures. Could the EU's pragmatic stance risk repeating past mistakes?",
+      "why": "«Armenia's selective prosecution: A threat to EU relations?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Armenia's selective prosecution: A threat to EU relations?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "DW English",
-      "published": "2026-11-07T11:54:00+00:00",
-      "age_hours": 4.9,
+      "published": "2026-11-07T18:36:00+00:00",
+      "age_hours": 2.1,
       "within_24h": true,
-      "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-009",
+      "event_id": "evt-mundo-008",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -95,8 +213,8 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren't expected until later this month once special votes have been counted The two main parties were effectively deadlocked in New Zealand 's close-fought general elections on Saturday, with the rising cost of living and general economic problems the main issues at stake Results with 95% votes counted showed the ruling center-right National Party and the opposition Labour Party neck-and-neck with just under 30% of the vote The National Party held a slim lead of about 3,500 votes more than Labour late on Saturday night Incumbent Prime Minister Cristopher Luxon, who heads the National Party, said that his party \"is once again the largest party in parliament, and we have a pathway to forming the next government.\" The National Party currently governs in coalition with the pro-business ACT and the right-wing populist New Zealand First. «New Zealand election too close to call with over 95% of votes counted» helps explain a concrete economic or business change relevant to Mundo. For «New Zealand election too close to call with over 95% of votes counted», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.98,
+      "detailed_summary": "While Brussels has refrained from harsh criticism, Armenian civil society has warned of selective justice against opposition figures. Could the EU's pragmatic stance risk repeating past mistakes? «Armenia's selective prosecution: A threat to EU relations?» deserves attention because it may change political, diplomatic or security risks. For «Armenia's selective prosecution: A threat to EU relations?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.56,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -111,11 +229,11 @@
       "impact": "For «No clear winner after tight New Zealand general election», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "BBC World",
       "published": "2026-11-07T15:56:28+00:00",
-      "age_hours": 0.8,
+      "age_hours": 4.8,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-012",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -125,123 +243,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "New Zealand election 'too close to call' - so who's won? There was no clear winner following New Zealand's election on Saturday, as the leaders of its two major parties preparing for negotiations to form a coalition government Prime Minister Christopher Luxon's centre-right National Party won 42 seats but was 19 short of the simple majority needed to form a government, despite being the largest party, preliminary results show Combined with their coalition partners ACT and New Zealand First, they would have a slim lead over the left-leaning bloc if a deal could be reached But opposition leader Chris Hipkins, whose Labour Party won 36 seats, showed no signs of conceding, saying the \"shape of the next government\" will remain uncertain \"for a while\" The tight result followed a campaign shaped by the cost of living and unemployment Projections show the National Party on 42 seats and Labour on 36. «No clear winner after tight New Zealand general election» helps explain a concrete economic or business change relevant to Mundo. For «No clear winner after tight New Zealand general election», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.83,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-      "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment",
-      "why": "«Iran’s IRGC says building underground sites for weapons production, storage» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Iran’s IRGC says building underground sites for weapons production, storage», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-07T15:34:58+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment. «Iran’s IRGC says building underground sites for weapons production, storage» is worth following because of its possible economic, institutional or regional effects. For «Iran’s IRGC says building underground sites for weapons production, storage», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.75,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Sudan war and climate change see parents struggle to feed their children",
-      "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition",
-      "why": "«Sudan war and climate change see parents struggle to feed their children» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Sudan war and climate change see parents struggle to feed their children», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-07T10:36:32+00:00",
-      "age_hours": 6.2,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition. «Sudan war and climate change see parents struggle to feed their children» deserves attention because it may change political, diplomatic or security risks. For «Sudan war and climate change see parents struggle to feed their children», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 10.71,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend",
-      "summary": "Several neighbourhoods in Maputo City and the Matola-Rio area will experience water supply restrictions this weekend. According to a statement from Maputo Water and Sanitation (SAAS-Maputo), maintenance work is under way in the Matola-Rio Operational Area and at the Chamanculo Distribution Centre in Maputo City. Services are expected to return to normal on Monday, 9… Source",
-      "why": "«Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-11-07T03:00:00+00:00",
-      "age_hours": 13.8,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-maputo-and-matola-rio-face-water-supply-disruptions-this-weekend/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Several neighbourhoods in Maputo City and the Matola-Rio area will experience water supply restrictions this weekend. According to a statement from Maputo Water and Sanitation (SAAS-Maputo), maintenance work is under way in the Matola-Rio Operational Area and at the Chamanculo Distribution Centre in Maputo City. Services are expected to return to normal on Monday, 9… Source. «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 10.12,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Four things we learned this week about 2028 White House race",
-      "summary": "Democratic Senator Jon Ossoff and Republican Vice-President JD Vance Ballots are still being counted in the US midterm elections but the political landscape is already pivoting to the 2028 White House race Buoyed by major gains in Congress, Democrats will have momentum as they prepare for the contest to succeed President Donald Trump But a good showing in the midterms does not guarantee a White House win two years later. Barack Obama was re-elected in 2012 despite huge Republican gains in 2010 No one has yet entered the presidential race but potential candidates will be preparing behind the scenes Vice-President's JD Vance's reflection on where the midterms went wrong for Republicans has been interpreted as him paving the way for a 2028 run The results of Tuesday's election and the historic size of Democratic gains could shape the White House race in several ways.",
-      "why": "«Four things we learned this week about 2028 White House race» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Four things we learned this week about 2028 White House race», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-07T12:23:28+00:00",
-      "age_hours": 4.4,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Democratic Senator Jon Ossoff and Republican Vice-President JD Vance Ballots are still being counted in the US midterm elections but the political landscape is already pivoting to the 2028 White House race Buoyed by major gains in Congress, Democrats will have momentum as they prepare for the contest to succeed President Donald Trump But a good showing in the midterms does not guarantee a White House win two years later. Barack Obama was re-elected in 2012 despite huge Republican gains in 2010 No one has yet entered the presidential race but potential candidates will be preparing behind the scenes Vice-President's JD Vance's reflection on where the midterms went wrong for Republicans has been interpreted as him paving the way for a 2028 run The results of Tuesday's election and the historic size of Democratic gains could shape the White House race in several ways. «Four things we learned this week about 2028 White House race» is worth following because of its possible economic, institutional or regional effects. For «Four things we learned this week about 2028 White House race», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.08,
+      "editorial_score": 11.0,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -256,7 +258,7 @@
       "impact": "For «Somalia's top court rejects president's term extension amid political crisis», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-11-06T08:18:10+00:00",
-      "age_hours": 32.5,
+      "age_hours": 36.4,
       "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -270,7 +272,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "President Hassan Sheikh Mohamud's four-year mandate expired in May Somalia's Supreme Court has ruled that President Hassan Sheikh Mohamud unlawfully extended his term, escalating a political crisis and a standoff between the presidency and judiciary Thursday's ruling came a day after Mohamud dismissed Chief Justice Bashe Yusuf Ahmed - a move which the court said the president lacked the authority to take The court also ordered political leaders to agree on an electoral plan within 30 days and hold elections within 90 days, potentially disrupting government plans for nationwide polls next year Mohamud's four-year mandate expired in May, but his administration extended it by a year through law changes approved by parliament in March Opposition groups accuse him of using the constitutional changes to prolong his rule But the president insists the reforms are necessary to move Somalia towards fully democratic elections, replacing the clan-based system in which elders pick their representatives which has been used since 2012 Somalia last held nationwide direct elections in 1969 and has… «Somalia's top court rejects president's term extension amid political crisis» deserves attention because it may change political, diplomatic or security risks. For «Somalia's top court rejects president's term extension amid political crisis», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 7.23,
+      "editorial_score": 7.11,
       "source_tier": "A",
       "editorial_status": "ACTUALIZAÇÃO"
     }
