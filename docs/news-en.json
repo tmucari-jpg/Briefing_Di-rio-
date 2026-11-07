@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T23:40:25.135705+00:00",
+  "updated_at": "2026-11-07T09:41:41.659790+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -17,11 +17,11 @@
       "impact": "For «AI stocks climb after trillions wiped from market values», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
       "source": "BBC World",
       "published": "2026-11-06T21:06:25+00:00",
-      "age_hours": 2.6,
+      "age_hours": 12.6,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-014",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -31,8 +31,132 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Shares in artificial intelligence and technology firms have recovered slightly from an enormous sell-off that wiped trillions of dollars off stock values The tech-heavy Nasdaq stock index closed in positive territory following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September On Thursday, businesses closely linked to artificial intelligence development took a hammering on stock markets, particularly chip and semiconductor makers But the Nasdaq Composite bounced back slightly on Friday, ending the day up 1.1%, partly reversing some of its 5.5% fall The S&P 500, which tracks the share prices of the largest publicly-traded US companies, closed up 0.3%, while the Dow Jones Industrial… «AI stocks climb after trillions wiped from market values» points to a concrete change in the adoption, regulation or use of technology. For «AI stocks climb after trillions wiped from market values», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
-      "editorial_score": 17.46,
+      "editorial_score": 15.38,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "summary": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi Russia launched strikes on Kyiv and surrounding areas overnight, Russian and Ukrainian authorities said on Saturday Russia's Defense Ministry said the strikes hit the Northern Bridge and the Meridian Plant Moscow said that the bridge was being used by the Ukrainian military to transport weapons and military equipment, while the plant is used to produce Flamingo cruise missiles It said the strikes damaged several energy and industrial facilities in the Kyiv region, as well as an electricity substation in the neighboring Zhytomyr region and a cargo vessel in the Black Sea Kyiv Mayor Vitali Klitschko confirmed the strikes on the Northern Bridge, adding that the Ukrainian capital found itself in an \"extremely difficult\" situation regarding power, heating and water supplies.",
+      "why": "«Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-11-07T09:21:00+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "DW English",
+        "Al Jazeera English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Al Jazeera English",
+          "title": "Russia launches missile attack on Kyiv, injuring residents",
+          "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi Russia launched strikes on Kyiv and surrounding areas overnight, Russian and Ukrainian authorities said on Saturday Russia's Defense Ministry said the strikes hit the Northern Bridge and the Meridian Plant Moscow said that the bridge was being used by the Ukrainian military to transport weapons and military equipment, while the plant is used to produce Flamingo cruise missiles It said the strikes damaged several energy and industrial facilities in the Kyiv region, as well as an electricity substation in the neighboring Zhytomyr region and a cargo vessel in the Black Sea Kyiv Mayor Vitali Klitschko confirmed the strikes on the Northern Bridge, adding that the Ukrainian capital found itself in an \"extremely difficult\" situation regarding power, heating and water supplies. «Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks» matters because it may change energy and investment decisions affecting Mundo. For «Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 13.44,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "New Zealand election too close to call with half the votes counted",
+      "summary": "Early results after polls closed in New Zealand show the two main parties neck-and-neck. The country has strict election-day laws on political reporting to prevent voters from being swayed at the last minute Voters in New Zealand cast their ballots on the final day of close-fought general elections on Saturday, with the rising cost of living and general economic problems the main issues at stake Results with over half of votes counted at 9:44 p.m.",
+      "why": "«New Zealand election too close to call with half the votes counted» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «New Zealand election too close to call with half the votes counted», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "DW English",
+      "published": "2026-11-07T09:35:00+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Early results after polls closed in New Zealand show the two main parties neck-and-neck. The country has strict election-day laws on political reporting to prevent voters from being swayed at the last minute Voters in New Zealand cast their ballots on the final day of close-fought general elections on Saturday, with the rising cost of living and general economic problems the main issues at stake Results with over half of votes counted at 9:44 p.m. «New Zealand election too close to call with half the votes counted» helps explain a concrete economic or business change relevant to Mundo. For «New Zealand election too close to call with half the votes counted», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 11.98,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+      "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections",
+      "why": "«Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-07T08:45:36+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections. «Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?» deserves attention because it may change political, diplomatic or security risks. For «Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.81,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend",
+      "summary": "Several neighbourhoods in Maputo City and the Matola-Rio area will experience water supply restrictions this weekend. According to a statement from Maputo Water and Sanitation (SAAS-Maputo), maintenance work is under way in the Matola-Rio Operational Area and at the Chamanculo Distribution Centre in Maputo City. Services are expected to return to normal on Monday, 9… Source",
+      "why": "«Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-07T03:00:00+00:00",
+      "age_hours": 6.7,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-maputo-and-matola-rio-face-water-supply-disruptions-this-weekend/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Several neighbourhoods in Maputo City and the Matola-Rio area will experience water supply restrictions this weekend. According to a statement from Maputo Water and Sanitation (SAAS-Maputo), maintenance work is under way in the Matola-Rio Operational Area and at the Chamanculo Distribution Centre in Maputo City. Services are expected to return to normal on Monday, 9… Source. «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 11.6,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -46,11 +170,11 @@
       "impact": "For «Mozambique: When Gaza’s governor comes calling at a farmer’s machamba in Songatcheca — Photos», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-11-06T16:22:23+00:00",
-      "age_hours": 7.3,
+      "age_hours": 17.3,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-when-gazas-governor-comes-calling-at-a-farmers-machamba-in-songatcheca-photos/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -60,38 +184,8 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "The governor congratulated Nelson Mucuio on his efforts and urged him to continue his work and increase investment in agricultural production, with a view to creating more employment opportunities for young people The farmer has 16 hectares, ten of which are currently under cultivation, growing watermelon, tomatoes, cabbage and other vegetables Nelson Mucuio’s farm uses a drip irrigation system, a technique that saves water, reduces waste and increases productivity. «Mozambique: When Gaza’s governor comes calling at a farmer’s machamba in Songatcheca — Photos» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: When Gaza’s governor comes calling at a farmer’s machamba in Songatcheca — Photos», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 13.48,
+      "editorial_score": 11.4,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Tankers carrying Russian diesel to the US change course",
-      "summary": "Despite an ostensible deal between Donald Trump and Vladimir Putin to bring diesel to the US, tankers are reportedly unable to dock due to existing sanctions Several sanctioned tankers headed for the US carrying Russian diesel are said to have changed course, one toward Brazil and the other into the Mediterranean, according to data from marine data company Kpler and vessel traffic site MarineTraffic.com The tankers reportedly departed from the Baltic Sea port of Primorsk last month and had declared their destinations as the US east coast This all comes after US President Donald Trump eased sanctions on Russian oil last month , in a deal with with Russian leader Vladimir Putin to secure a large amount of diesel directly to the US at a time when diesel prices have skyrocketed across the country The agreement caused shock and drew criticism in Ukraine and Europe.",
-      "why": "«Tankers carrying Russian diesel to the US change course» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Tankers carrying Russian diesel to the US change course», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-11-06T20:55:00+00:00",
-      "age_hours": 2.8,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Despite an ostensible deal between Donald Trump and Vladimir Putin to bring diesel to the US, tankers are reportedly unable to dock due to existing sanctions Several sanctioned tankers headed for the US carrying Russian diesel are said to have changed course, one toward Brazil and the other into the Mediterranean, according to data from marine data company Kpler and vessel traffic site MarineTraffic.com The tankers reportedly departed from the Baltic Sea port of Primorsk last month and had declared their destinations as the US east coast This all comes after US President Donald Trump eased sanctions on Russian oil last month , in a deal with with Russian leader Vladimir Putin to secure a large amount of diesel directly to the US at a time when diesel prices have skyrocketed across the country The agreement caused shock and drew criticism in Ukraine and Europe. «Tankers carrying Russian diesel to the US change course» matters because it may change energy and investment decisions affecting Mundo. For «Tankers carrying Russian diesel to the US change course», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 12.42,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -105,11 +199,11 @@
       "impact": "For «Movement of tourists increases by 254 percent», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "AIM News",
       "published": "2026-11-06T10:02:00+00:00",
-      "age_hours": 13.6,
+      "age_hours": 23.7,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/06/movement-of-tourists-increases-by-254-percent/",
       "original_source": true,
-      "event_id": "evt-mocambique-008",
+      "event_id": "evt-mocambique-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -119,162 +213,8 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 06 Nov (AIM) – The Mozambican President Daniel Chapo has revealed that the movement of tourists and investors arriving in the country increased by 254 percent this year, when compared to the same period in 2025. According to Chapo, speaking at the opening of the second edition of the Mozambique Tourism Summit, in Vilankulo, southern province of Inhambane, the growth is the result of reforms introduced to boost the tourism sector. “The results stem from measures introduced in recent months to facilitate the entry of visitors and attract investment, including the implementation of an electronic visa platform and the creation of the so-called “Visa Gold”, designed to attract foreign investors”, he said. The President highlighted the creation of the National Agency for Tourism Development and Investment (Anditur), which replaced the former National Tourism Institute (Inatur), as well as the Southern Corridor Special Tourism Economic Zone, which incorporates the destinations of Vilankulo, Pomene and Inhassoro, all in Inhambane province. «Movement of tourists increases by 254 percent» helps explain a concrete economic or business change relevant to Moçambique. For «Movement of tourists increases by 254 percent», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 12.17,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Weather Alert: INAM warns heatwave to continue in Manica and Tete provinces in central Mozambique",
-      "summary": "According to INAM, the continued flow of hot and humid air is causing a heatwave to persist across the central and inland parts of the country The heatwave affects specific areas in two provinces in the central region In Manica province, the warning covers the districts of Guro, Tambara, Macossa, Barué, Vanduzi, Manica, Macate, Sussundenga, Gondola, Mossurize and Machaze , as well as the city of Chimoio In Tete province , the heatwave affects the districts of Magoe, Cahora-Bassa, Changara, Marara, Doa and Mutarara, as well as Tete city In these areas, temperatures could range between 7 and 43 degrees Celsius until 8 November The bulletin highlights that a change in weather conditions is expected on Saturday, 7 November, with thunderstorms, showers or rain, and gusty winds In addition, INAM forecasts a sharp drop in temperatures on Sunday, 8 November, affecting the southern part of the country, particularly Maputo and Gaza provinces In view of the high temperatures forecast, INAM reiterates the need for the public in the affected regions to take precautionary measures The next…",
-      "why": "«Weather Alert: INAM warns heatwave to continue in Manica and Tete provinces in central Mozambique» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Weather Alert: INAM warns heatwave to continue in Manica and Tete provinces in central Mozambique», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-11-06T14:36:49+00:00",
-      "age_hours": 9.1,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/weather-alert-inam-warns-heatwave-to-continue-in-manica-and-tete-provinces-in-central-mozambique/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "According to INAM, the continued flow of hot and humid air is causing a heatwave to persist across the central and inland parts of the country The heatwave affects specific areas in two provinces in the central region In Manica province, the warning covers the districts of Guro, Tambara, Macossa, Barué, Vanduzi, Manica, Macate, Sussundenga, Gondola, Mossurize and Machaze , as well as the city of Chimoio In Tete province , the heatwave affects the districts of Magoe, Cahora-Bassa, Changara, Marara, Doa and Mutarara, as well as Tete city In these areas, temperatures could range between 7 and 43 degrees Celsius until 8 November The bulletin highlights that a change in weather conditions is expected on Saturday, 7 November, with thunderstorms, showers or rain, and gusty winds In addition, INAM forecasts a sharp drop in temperatures on Sunday, 8 November, affecting the southern part of the country, particularly Maputo and Gaza provinces In view of the high temperatures forecast, INAM reiterates the need for the public in the affected regions to take precautionary measures The next… «Weather Alert: INAM warns heatwave to continue in Manica and Tete provinces in central Mozambique» deserves attention because it may change political, diplomatic or security risks. For «Weather Alert: INAM warns heatwave to continue in Manica and Tete provinces in central Mozambique», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 12.1,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Protesters break into Microsoft data centre site in Amsterdam",
-      "summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use",
-      "why": "«Protesters break into Microsoft data centre site in Amsterdam» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Protesters break into Microsoft data centre site in Amsterdam», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-06T21:04:40+00:00",
-      "age_hours": 2.6,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "Al Jazeera English",
-        "DW English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "DW English",
-          "title": "Data center protesters break into Microsoft site in Amsterdam",
-          "link": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Data centres face protests across Europe due to the massive amounts of computing power and water they use. «Protesters break into Microsoft data centre site in Amsterdam» is worth following because of its possible economic, institutional or regional effects. For «Protesters break into Microsoft data centre site in Amsterdam», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 11.96,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Paraguay Senate dismisses President Santiago Pena over bank crisis",
-      "summary": "Paraguay’s Senate has ousted President Santiago Pena over the collapse of a major bank tied to his government. Millions of customers' accounts are frozen, with public pension and health care funds also tied up Paraguay's Senate on Friday impeached President Santiago Pena over a banking crisis that left millions of people unable to access their deposits Senators voted overwhelmingly to remove Pena for misconduct in office The move cleared the way for Vice President Pedro Alliana to succeed him.",
-      "why": "«Paraguay Senate dismisses President Santiago Pena over bank crisis» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Paraguay Senate dismisses President Santiago Pena over bank crisis», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "DW English",
-      "published": "2026-11-06T23:23:00+00:00",
-      "age_hours": 0.3,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/paraguay-senate-dismisses-president-santiago-pena-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Paraguay’s Senate has ousted President Santiago Pena over the collapse of a major bank tied to his government. Millions of customers' accounts are frozen, with public pension and health care funds also tied up Paraguay's Senate on Friday impeached President Santiago Pena over a banking crisis that left millions of people unable to access their deposits Senators voted overwhelmingly to remove Pena for misconduct in office The move cleared the way for Vice President Pedro Alliana to succeed him. «Paraguay Senate dismisses President Santiago Pena over bank crisis» is worth following because of its possible economic, institutional or regional effects. For «Paraguay Senate dismisses President Santiago Pena over bank crisis», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.94,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Zambia's civil service overhaul raises questions",
-      "summary": "Government-backed dismissals and restructuring are fueling debate in Zambia. Opposition politicians are questioning the transparency of the plans; officials say the changes are necessary Many people living in Zambia seek careers in the civil service because of the stability and security traditionally associated with government employment. But recent retirements, dismissals and restructuring exercises across several public institutions have unsettled that perception and sparked a national debate about the government's use of \"national interest\" provisions Among those affected is former public relations officer Godfrey Chilabi, whose departure from the Zambia Police Service was announced in October. Choosing not to publicly discuss the circumstances surrounding his exit, Chilabi simply told media that he had been retired in the national interest \"Yes, I have been retired in national interest,\" Chilabi said.",
-      "why": "«Zambia's civil service overhaul raises questions» matters because it may change energy and investment decisions affecting África.",
-      "impact": "For «Zambia's civil service overhaul raises questions», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-11-06T13:28:00+00:00",
-      "age_hours": 10.2,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-áfrica-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Government-backed dismissals and restructuring are fueling debate in Zambia. Opposition politicians are questioning the transparency of the plans; officials say the changes are necessary Many people living in Zambia seek careers in the civil service because of the stability and security traditionally associated with government employment. But recent retirements, dismissals and restructuring exercises across several public institutions have unsettled that perception and sparked a national debate about the government's use of \"national interest\" provisions Among those affected is former public relations officer Godfrey Chilabi, whose departure from the Zambia Police Service was announced in October. Choosing not to publicly discuss the circumstances surrounding his exit, Chilabi simply told media that he had been retired in the national interest \"Yes, I have been retired in national interest,\" Chilabi said. «Zambia's civil service overhaul raises questions» matters because it may change energy and investment decisions affecting África. For «Zambia's civil service overhaul raises questions», the effects may reach prices, projects, suppliers and supply chains connected to África.",
-      "editorial_score": 10.88,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
-      "summary": "Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling",
-      "why": "«Trump names Stephen Miller as new chief of staff, replacing Susie Wiles» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Trump names Stephen Miller as new chief of staff, replacing Susie Wiles», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-06T19:08:31+00:00",
-      "age_hours": 4.5,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling. «Trump names Stephen Miller as new chief of staff, replacing Susie Wiles» is worth following because of its possible economic, institutional or regional effects. For «Trump names Stephen Miller as new chief of staff, replacing Susie Wiles», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "editorial_score": 10.06,
-      "source_tier": "A",
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -288,23 +228,23 @@
       "impact": "For «Somalia's top court rejects president's term extension amid political crisis», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-11-06T08:18:10+00:00",
-      "age_hours": 15.4,
-      "within_24h": true,
+      "age_hours": 25.4,
+      "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
         "BBC Africa"
       ],
       "primary_source": "BBC Africa",
-      "status": "today",
+      "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "President Hassan Sheikh Mohamud's four-year mandate expired in May Somalia's Supreme Court has ruled that President Hassan Sheikh Mohamud unlawfully extended his term, escalating a political crisis and a standoff between the presidency and judiciary Thursday's ruling came a day after Mohamud dismissed Chief Justice Bashe Yusuf Ahmed - a move which the court said the president lacked the authority to take The court also ordered political leaders to agree on an electoral plan within 30 days and hold elections within 90 days, potentially disrupting government plans for nationwide polls next year Mohamud's four-year mandate expired in May, but his administration extended it by a year through law changes approved by parliament in March Opposition groups accuse him of using the constitutional changes to prolong his rule But the president insists the reforms are necessary to move Somalia towards fully democratic elections, replacing the clan-based system in which elders pick their representatives which has been used since 2012 Somalia last held nationwide direct elections in 1969 and has… «Somalia's top court rejects president's term extension amid political crisis» deserves attention because it may change political, diplomatic or security risks. For «Somalia's top court rejects president's term extension amid political crisis», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 8.79,
+      "editorial_score": 7.46,
       "source_tier": "A",
-      "editorial_status": "HOJE"
+      "editorial_status": "ACTUALIZAÇÃO"
     }
   ],
   "watch": [
@@ -327,8 +267,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 3,
-    "África": 2,
-    "Mundo": 5
+    "África": 1,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
