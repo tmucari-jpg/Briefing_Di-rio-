@@ -1,66 +1,38 @@
 {
-  "updated_at": "2026-11-07T09:41:35.885119+00:00",
+  "updated_at": "2026-11-07T16:46:02.246423+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
+        "Energia",
         "Economia"
       ],
-      "title": "Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas",
-      "summary": "\"A situação do abastecimento energético da capital é extremamente difícil. Isto afeta o funcionamento dos sistemas de aquecimento e de abastecimento de água da cidade\", descreve o presidente da câmara de Kiev, Vitali Klitschko",
-      "why": "«Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-07T08:11:57+00:00",
-      "age_hours": 1.5,
+      "title": "Moçambique adopta planeamento geoespacial para reduzir custos da electrificação",
+      "summary": "Maputo, 07 Nov (AIM) – Moçambique passa a dispor de instrumentos de planificação geoespacial para orientar os investimentos na electrificação do país. A medida poderá ajudar na identificação das soluções de menor custo para cada região e maximizar o impacto económico e social dos recursos aplicados no sector. Trata-se do Plano Nacional Geoespacial de Electrificação de Menor Custo 2026-2030 e da Plataforma Integrada de Electrificação de Moçambique lançados sexta-feira (06), em Maputo, pelo ministro dos Recursos Minerais e Energia, Estêvão Pale. “Este instrumento garante que cada metical investido na electrificação traga o maior impacto social e económico possível para cada assentamento humano, de forma eficiente e ao menor custo por ligação”, afirmou Pale. O plano utiliza modelação avançada e dados geoespaciais para determinar a combinação mais eficiente entre a extensão da rede eléctrica nacional e soluções fora da rede, tendo em conta as características dos diferentes assentamentos humanos.",
+      "why": "«Moçambique adopta planeamento geoespacial para reduzir custos da electrificação» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Moçambique adopta planeamento geoespacial para reduzir custos da electrificação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-07T13:16:27+00:00",
+      "age_hours": 3.5,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/kiev-com-abastecimentos-comprometidos-ataques-russos-atingem-ponte-e-infraestruturas-energeticas_n1777559",
+      "link": "https://aimnews.org/2026/11/07/mocambique-adopta-planeamento-geoespacial-para-reduzir-custos-da-electrificacao/",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "AIM Notícias"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "AIM Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "\"A situação do abastecimento energético da capital é extremamente difícil. Isto afeta o funcionamento dos sistemas de aquecimento e de abastecimento de água da cidade\", descreve o presidente da câmara de Kiev, Vitali Klitschko. «Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 11.69,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Forças do Irão afirmam estar \"mais poderosas\" do que no início da guerra",
-      "summary": "As forças armadas iranianas afirmaram hoje estar \"mais poderosas\" do que no início da guerra, declarando-se prontas para responder a qualquer ataque de forma imediata e \"sem limites geográficos\", na sequência das recentes ameaças norte-americanas Embora as negociações diplomáticas para evitar uma retoma das hostilidades se tenham intensificado recentemente, o Presidente dos Estados Unidos, Donald Trump, mantém em aberto a possibilidade de novos bombardeamentos sobre a República Islâmica \"As forças armadas da República Islâmica encontram-se hoje num estado de alerta mais elevado e são mais poderosas do que eram no início da guerra\", declarou o porta-voz do exército, Mohammad Akraminia, citado pela agência oficial Irna \"Por ordem do Guia Supremo, qualquer resposta das forças armadas será imediata, eficaz e sem limites geográficos\", acrescentou Na noite de sexta-feira para sábado, a televisão estatal iraniana voltou a dar notícia de duas explosões na ilha de Qeshm, tendo a agência Tasnim referido, por seu lado, dois mísseis que a teriam atingido Sem confirmar, o exército do Irão…",
-      "why": "«Forças do Irão afirmam estar \"mais poderosas\" do que no início da guerra» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Forças do Irão afirmam estar \"mais poderosas\" do que no início da guerra», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-07T08:07:54+00:00",
-      "age_hours": 1.6,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/forcas-do-irao-afirmam-estar-mais-poderosas-do-que-no-inicio-da-guerra_n1777555",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "As forças armadas iranianas afirmaram hoje estar \"mais poderosas\" do que no início da guerra, declarando-se prontas para responder a qualquer ataque de forma imediata e \"sem limites geográficos\", na sequência das recentes ameaças norte-americanas Embora as negociações diplomáticas para evitar uma retoma das hostilidades se tenham intensificado recentemente, o Presidente dos Estados Unidos, Donald Trump, mantém em aberto a possibilidade de novos bombardeamentos sobre a República Islâmica \"As forças armadas da República Islâmica encontram-se hoje num estado de alerta mais elevado e são mais poderosas do que eram no início da guerra\", declarou o porta-voz do exército, Mohammad Akraminia, citado pela agência oficial Irna \"Por ordem do Guia Supremo, qualquer resposta das forças armadas será imediata, eficaz e sem limites geográficos\", acrescentou Na noite de sexta-feira para sábado, a televisão estatal iraniana voltou a dar notícia de duas explosões na ilha de Qeshm, tendo a agência Tasnim referido, por seu lado, dois mísseis que a teriam atingido Sem confirmar, o exército do Irão… «Forças do Irão afirmam estar \"mais poderosas\" do que no início da guerra» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Forças do Irão afirmam estar \"mais poderosas\" do que no início da guerra», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.67,
-      "source_tier": "A",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 07 Nov (AIM) – Moçambique passa a dispor de instrumentos de planificação geoespacial para orientar os investimentos na electrificação do país. A medida poderá ajudar na identificação das soluções de menor custo para cada região e maximizar o impacto económico e social dos recursos aplicados no sector. Trata-se do Plano Nacional Geoespacial de Electrificação de Menor Custo 2026-2030 e da Plataforma Integrada de Electrificação de Moçambique lançados sexta-feira (06), em Maputo, pelo ministro dos Recursos Minerais e Energia, Estêvão Pale. “Este instrumento garante que cada metical investido na electrificação traga o maior impacto social e económico possível para cada assentamento humano, de forma eficiente e ao menor custo por ligação”, afirmou Pale. O plano utiliza modelação avançada e dados geoespaciais para determinar a combinação mais eficiente entre a extensão da rede eléctrica nacional e soluções fora da rede, tendo em conta as características dos diferentes assentamentos humanos. «Moçambique adopta planeamento geoespacial para reduzir custos da electrificação» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Moçambique adopta planeamento geoespacial para reduzir custos da electrificação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.27,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -68,17 +40,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027",
-      "summary": "O Standard Bank considera que 2027 poderá ser um ano de ajustamento macroeconómico em Moçambique, num contexto de pressões fiscais, desequilíbrios no mercado cambial e recuperação lenta da actividade económica. […]",
-      "why": "«Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Vodacom e ANDITUR Estabelecem Parceria Para Digitalizar Sector do Turismo",
+      "summary": "A Vodacom Moçambique e a Agência Nacional para o Desenvolvimento e Investimento Turístico (ANDITUR) assinaram um memorando de entendimento para acelerar a digitalização e a promoção do sector do turismo […]",
+      "why": "«Vodacom e ANDITUR Estabelecem Parceria Para Digitalizar Sector do Turismo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Vodacom e ANDITUR Estabelecem Parceria Para Digitalizar Sector do Turismo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
-      "published": "2026-11-06T15:20:22+00:00",
-      "age_hours": 18.3,
+      "published": "2026-11-07T15:30:05+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/06/economia/economic-briefing-standard-bank-anteve-ajustamento-macroeconomico-em-mocambique-em-2027/",
+      "link": "https://www.diarioeconomico.co.mz/2026/11/07/negocios/turismo/vodacom-e-anditur-estabelecem-parceria-para-digitalizar-sector-do-turismo/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -86,26 +58,55 @@
       ],
       "primary_source": "Diário Económico",
       "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A Vodacom Moçambique e a Agência Nacional para o Desenvolvimento e Investimento Turístico (ANDITUR) assinaram um memorando de entendimento para acelerar a digitalização e a promoção do sector do turismo […]. «Vodacom e ANDITUR Estabelecem Parceria Para Digitalizar Sector do Turismo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Vodacom e ANDITUR Estabelecem Parceria Para Digitalizar Sector do Turismo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.73,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai",
+      "summary": "Os filhos de Tobias Joaquim Dai enalteceram, este sábado, o percurso militar e humano do antigo ministro da Defesa Nacional, destacando o seu contributo para a independência de Moçambique, a defesa da soberania nacional e a construção da paz. Na cerimónia fúnebre, realizada no Quartel-General das Forças Armadas de Defesa de Moçambique, em Maputo, a […]",
+      "why": "«Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "O País",
+      "published": "2026-11-07T10:01:06+00:00",
+      "age_hours": 6.7,
+      "within_24h": true,
+      "link": "https://opais.co.mz/filhos-destacam-legado-de-disciplina-humildade-e-amor-de-tobias-joaquim-dai/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O Standard Bank considera que 2027 poderá ser um ano de ajustamento macroeconómico em Moçambique, num contexto de pressões fiscais, desequilíbrios no mercado cambial e recuperação lenta da actividade económica. […]. «Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Economic Briefing: Standard Bank Antevê Ajustamento Macroeconómico em Moçambique em 2027», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 10.19,
+      "detailed_summary": "Os filhos de Tobias Joaquim Dai enalteceram, este sábado, o percurso militar e humano do antigo ministro da Defesa Nacional, destacando o seu contributo para a independência de Moçambique, a defesa da soberania nacional e a construção da paz. Na cerimónia fúnebre, realizada no Quartel-General das Forças Armadas de Defesa de Moçambique, em Maputo, a […]. «Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 11.6,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "África",
       "tags": [
-        "IA"
+        "Economia"
       ],
-      "title": "Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova geração",
-      "summary": "Falando na terceira edição da Cimeira Rússia–África, o presidente russo Vladimir Putin sugeriu que os países africanos se liguem a redes de pagamento internacionais de alta tecnologia. Durante a visita a uma exposição de soluções russas avançadas, o chefe de Estado e os líderes africanos puderam conhecer as capacidades da empresa A7 em pagamentos transfronteiriços. […]",
-      "why": "«Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
+      "title": "Eleições na RAS: ANC sofre queda histórica",
+      "summary": "O Congresso Nacional Africano regista uma queda expressiva nas eleições autárquicas de 2026, na África do Sul, ao conquistar 31 por cento dos votos, contra os 46 por cento de 2021. A Aliança Democrática alcança 24,6 por cento, enquanto o partido uMkhonto weSizwe obtém 9,6 por cento. Os resultados preliminares das eleições autárquicas realizadas a […]",
+      "why": "«Eleições na RAS: ANC sofre queda histórica» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Eleições na RAS: ANC sofre queda histórica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "O País",
-      "published": "2026-11-06T18:21:40+00:00",
-      "age_hours": 15.3,
+      "published": "2026-11-07T13:18:07+00:00",
+      "age_hours": 3.5,
       "within_24h": true,
-      "link": "https://opais.co.mz/vladimir-putin-aconselha-os-paises-africanos-a-aderirem-as-redes-de-pagamento-internacionais-de-nova-geracao-2/",
+      "link": "https://opais.co.mz/eleicoes-na-ras-anc-sofre-queda-historica/",
       "original_source": true,
       "event_id": "evt-áfrica-001",
       "cluster_size": 1,
@@ -116,115 +117,98 @@
       "primary_source": "O País",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Falando na terceira edição da Cimeira Rússia–África, o presidente russo Vladimir Putin sugeriu que os países africanos se liguem a redes de pagamento internacionais de alta tecnologia. Durante a visita a uma exposição de soluções russas avançadas, o chefe de Estado e os líderes africanos puderam conhecer as capacidades da empresa A7 em pagamentos transfronteiriços. […]. «Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Vladimir Putin aconselha os países africanos a aderirem às redes de pagamento internacionais de nova…», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em África.",
-      "editorial_score": 9.81,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique lança primeiro leilão eletrónico de activos",
-      "summary": "Maputo, 6 de Novembro (AIM) – O Governo moçambicano lançou hoje, em Maputo, o primeiro leilão electrónico de bens apreendidos e declarados perdidos a favor do Estado. A iniciativa, coordenada pelo Gabinete de Gestão de Activos (GGA), visa reforçar o sistema nacional de recuperação e gestão de activos, tornando-o mais sólido, eficiente e credível. No âmbito desta iniciativa, o Executivo colocou à disposição dos interessados 14 viaturas, cujos preços de licitação inicial são 30 por cento inferiores aos respectivos valores de avaliação. “Para este leilão em particular, que marca o lançamento das hastas públicas electrónicas, estamos a disponibilizar 14 viaturas. Estas possuem valores diferenciados, mas contam com uma redução de 30 por cento sobre o preço de avaliação. O processo está aberto a todos os cidadãos, que poderão entrar, licitar e adquirir os referidos bens”, explicou a Ministra das Finanças, Carla Louveira.",
-      "why": "«Moçambique lança primeiro leilão eletrónico de activos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Moçambique lança primeiro leilão eletrónico de activos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-06T15:42:37+00:00",
-      "age_hours": 18.0,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/06/mocambique-lanca-primeiro-leilao-eletronico-de-activos/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 6 de Novembro (AIM) – O Governo moçambicano lançou hoje, em Maputo, o primeiro leilão electrónico de bens apreendidos e declarados perdidos a favor do Estado. A iniciativa, coordenada pelo Gabinete de Gestão de Activos (GGA), visa reforçar o sistema nacional de recuperação e gestão de activos, tornando-o mais sólido, eficiente e credível. No âmbito desta iniciativa, o Executivo colocou à disposição dos interessados 14 viaturas, cujos preços de licitação inicial são 30 por cento inferiores aos respectivos valores de avaliação. “Para este leilão em particular, que marca o lançamento das hastas públicas electrónicas, estamos a disponibilizar 14 viaturas. Estas possuem valores diferenciados, mas contam com uma redução de 30 por cento sobre o preço de avaliação. O processo está aberto a todos os cidadãos, que poderão entrar, licitar e adquirir os referidos bens”, explicou a Ministra das Finanças, Carla Louveira. «Moçambique lança primeiro leilão eletrónico de activos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique lança primeiro leilão eletrónico de activos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.25,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Maputo e Matola-Rio sem água neste fim-de-semana",
-      "summary": "Vários bairros dos municípios da Cidade de Maputo e da Vila de Matola-Rio vão registar, entre sábado e segunda-feira (7 e 9 de Novembro), restrições no fornecimento de água potável da rede pública, devido aos trabalhos de manutenção programada. De acordo com o comunicado da Água e Saneamento de Maputo (SAAS-Maputo), durante o fim-de-semana serão realizadas intervenções de manutenção na Área Operacional da Matola-Rio e no Centro Distribuidor de Chamanculo, prevendo-se a normalização do serviço a partir de segunda-feira, 9 de Novembro corrente. O documento explica que, as restrições vão afectar os bairros de Matola-Rio, parte de Chinonanquila, Djuba e Djonasse. Na cidade de Maputo serão atingidos os bairros Central A e B, Polana Caniço A e B, Sommerschield, Coop, Urbanização, Alto Maé A e B, Malanga, Mikadjuine, Munhuana, Jardim, Unidade 7, Nsalene Inhagoia A, Xipamanine e Aeroporto A e B. O conteúdo Maputo e Matola-Rio sem água neste fim-de-semana aparece primeiro em Jornal Notícias",
-      "why": "«Maputo e Matola-Rio sem água neste fim-de-semana» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Maputo e Matola-Rio sem água neste fim-de-semana», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-06T15:03:11+00:00",
-      "age_hours": 18.6,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/maputo-e-matola-rio-sem-agua-neste-fim-de-semana/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Vários bairros dos municípios da Cidade de Maputo e da Vila de Matola-Rio vão registar, entre sábado e segunda-feira (7 e 9 de Novembro), restrições no fornecimento de água potável da rede pública, devido aos trabalhos de manutenção programada. De acordo com o comunicado da Água e Saneamento de Maputo (SAAS-Maputo), durante o fim-de-semana serão realizadas intervenções de manutenção na Área Operacional da Matola-Rio e no Centro Distribuidor de Chamanculo, prevendo-se a normalização do serviço a partir de segunda-feira, 9 de Novembro corrente. O documento explica que, as restrições vão afectar os bairros de Matola-Rio, parte de Chinonanquila, Djuba e Djonasse. Na cidade de Maputo serão atingidos os bairros Central A e B, Polana Caniço A e B, Sommerschield, Coop, Urbanização, Alto Maé A e B, Malanga, Mikadjuine, Munhuana, Jardim, Unidade 7, Nsalene Inhagoia A, Xipamanine e Aeroporto A e B. O conteúdo Maputo e Matola-Rio sem água neste fim-de-semana aparece primeiro em Jornal Notícias. «Maputo e Matola-Rio sem água neste fim-de-semana» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Maputo e Matola-Rio sem água neste fim-de-semana», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.12,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique e EUA reforçam cooperação no treino de forças especiais",
-      "summary": "Maputo, 6 de Novembro (AIM) – Moçambique e os Estados Unidos da América abordaram o reforço da formação e do treino de forças especiais para o combate ao terrorismo, no quadro da cooperação bilateral no domínio da defesa, durante um encontro entre o ministro da Defesa Nacional, Custódio Chume, e representantes do Comando dos Estados Unidos para África (AFRICOM). O encontro teve lugar em Maputo e contou com a participação do Vice-Comandante do AFRICOM, Tenente-General John Brennan Jr., e do Vice-Comandante para as Relações Civil-Militares, Embaixador Peter Vrooman. Segundo informações divulgadas por Custódio Chume, as conversações abrangeram igualmente a cooperação nas áreas naval e da saúde militar, além da formação e capacitação das forças especiais. Durante a audiência, as partes passaram em revista o actual quadro da cooperação bilateral no sector da defesa, tendo reafirmado o compromisso de aprofundar a parceria, com enfoque no reforço das capacidades nacionais de defesa. (AIM)",
-      "why": "«Moçambique e EUA reforçam cooperação no treino de forças especiais» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Moçambique e EUA reforçam cooperação no treino de forças especiais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-06T12:20:51+00:00",
-      "age_hours": 21.3,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/06/mocambique-e-eua-reforcam-cooperacao-no-treino-de-forcas-especiais/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 6 de Novembro (AIM) – Moçambique e os Estados Unidos da América abordaram o reforço da formação e do treino de forças especiais para o combate ao terrorismo, no quadro da cooperação bilateral no domínio da defesa, durante um encontro entre o ministro da Defesa Nacional, Custódio Chume, e representantes do Comando dos Estados Unidos para África (AFRICOM). O encontro teve lugar em Maputo e contou com a participação do Vice-Comandante do AFRICOM, Tenente-General John Brennan Jr., e do Vice-Comandante para as Relações Civil-Militares, Embaixador Peter Vrooman. Segundo informações divulgadas por Custódio Chume, as conversações abrangeram igualmente a cooperação nas áreas naval e da saúde militar, além da formação e capacitação das forças especiais. Durante a audiência, as partes passaram em revista o actual quadro da cooperação bilateral no sector da defesa, tendo reafirmado o compromisso de aprofundar a parceria, com enfoque no reforço das capacidades nacionais de defesa. (AIM). «Moçambique e EUA reforçam cooperação no treino de forças especiais» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique e EUA reforçam cooperação no treino de forças especiais», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 8.56,
+      "detailed_summary": "O Congresso Nacional Africano regista uma queda expressiva nas eleições autárquicas de 2026, na África do Sul, ao conquistar 31 por cento dos votos, contra os 46 por cento de 2021. A Aliança Democrática alcança 24,6 por cento, enquanto o partido uMkhonto weSizwe obtém 9,6 por cento. Os resultados preliminares das eleições autárquicas realizadas a […]. «Eleições na RAS: ANC sofre queda histórica» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições na RAS: ANC sofre queda histórica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 11.27,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia",
+        "Economia"
+      ],
+      "title": "Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas",
+      "summary": "\"A situação do abastecimento energético da capital é extremamente difícil. Isto afeta o funcionamento dos sistemas de aquecimento e de abastecimento de água da cidade\", descreve no Telegram o presidente da câmara de Kiev, Vitali Klitschko",
+      "why": "«Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-07T08:11:57+00:00",
+      "age_hours": 8.6,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-com-abastecimentos-comprometidos-ataques-russos-atingem-ponte-e-infraestruturas-energeticas_n1777559",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "\"A situação do abastecimento energético da capital é extremamente difícil. Isto afeta o funcionamento dos sistemas de aquecimento e de abastecimento de água da cidade\", descreve no Telegram o presidente da câmara de Kiev, Vitali Klitschko. «Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.21,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
         "Segurança"
       ],
-      "title": "Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão",
-      "summary": "O presidente russo Vladimir Putin reuniu-se em Moscovo, esta quinta-feira, com o secretário do Conselho Supremo de Segurança Nacional do Irão, Mohsen Rezaei, que entregou uma mensagem pessoal do aiatola Mojtaba Khamenei sobre a guerra no Irão e discutiu aquilo que ambas as partes chamaram “reforço dos laços”.O principal responsável pela segurança do Irão descreveu o encontro como “uma troca de pontos de vista extremamente importante”, que abrangeu “a situação pós-guerra e a segurança regional”.A Rússia tem sido um apoiante de longa data do Irão, alegadamente fornecendo a Teerão informações de inteligência e equipamento durante a guerra.",
-      "why": "«Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "title": "União Europeia “deplora” condenação de ex-deputado e ativista pró-democracia português em Macau",
+      "summary": "Au Kam San, antigo deputado pró-democracia de Macau, foi condenado a 12 anos e seis meses de prisão no primeiro processo relacionado com a lei da segurança nacional de Macau, introduzida pela China em 2009. O julgamento de Au, 69 anos, decorreu à porta fechada e com um advogado oficioso nomeado pelo tribunal, o que levantou sérias preocupações quanto à sua imparcialidade, tanto por parte da família como da comunidade internacional.Numa carta aberta, a esposa de Au, Virginia Cheang, escreveu que esperava que as autoridades permitissem, no mínimo, à família trocar cartas com Au e visitá-lo regularmente, sem condições.“De um julgamento à porta fechada a um veredicto público, que tipo de operação é esta?",
+      "why": "«União Europeia “deplora” condenação de ex-deputado e ativista pró-democracia português em Macau» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «União Europeia “deplora” condenação de ex-deputado e ativista pró-democracia português em Macau», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-11-06T16:20:43+00:00",
-      "age_hours": 17.3,
+      "published": "2026-11-07T12:09:49+00:00",
+      "age_hours": 4.6,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/06/irao-entrega-mensagem-de-khamenei-a-putin-e-discute-gasoduto-russia-irao",
+      "link": "https://pt.euronews.com/2026/11/07/uniao-europeia-deplora-condenacao-de-ex-deputado-e-ativista-pro-democracia-portugues-em-ma",
       "original_source": true,
-      "event_id": "evt-mundo-010",
+      "event_id": "evt-mundo-003",
+      "cluster_size": 3,
+      "source_count": 2,
+      "sources": [
+        "Euronews Português",
+        "RTP Notícias"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Macau expressa \"forte oposição\" a críticas internacionais à condenação de Au Kam San",
+          "link": "https://www.rtp.pt/noticias/mundo/macau-expressa-forte-oposicao-a-criticas-internacionais-a-condenacao-de-au-kam-san_n1777554"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Portugal e União Europeia repudiam condenação em Macau de cidadão português",
+          "link": "https://www.rtp.pt/noticias/pais/portugal-e-uniao-europeia-repudiam-condenacao-em-macau-de-cidadao-portugues_n1777444"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Au Kam San, antigo deputado pró-democracia de Macau, foi condenado a 12 anos e seis meses de prisão no primeiro processo relacionado com a lei da segurança nacional de Macau, introduzida pela China em 2009. O julgamento de Au, 69 anos, decorreu à porta fechada e com um advogado oficioso nomeado pelo tribunal, o que levantou sérias preocupações quanto à sua imparcialidade, tanto por parte da família como da comunidade internacional.Numa carta aberta, a esposa de Au, Virginia Cheang, escreveu que esperava que as autoridades permitissem, no mínimo, à família trocar cartas com Au e visitá-lo regularmente, sem condições.“De um julgamento à porta fechada a um veredicto público, que tipo de operação é esta? «União Europeia “deplora” condenação de ex-deputado e ativista pró-democracia português em Macau» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «União Europeia “deplora” condenação de ex-deputado e ativista pró-democracia português em Macau», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 9.54,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Nova Zelândia apura votos em eleição renhida centrada no custo de vida",
+      "summary": "Os resultados iniciais das eleições legislativas na Nova Zelândia mostram uma disputa renhida entre os dois principais partidos do país, após uma campanha centrada no custo de vida e na economia.O primeiro-ministro Christopher Luxon e a coligação de direita liderada pelo Partido Nacional procuram garantir um segundo mandato, enfrentando o principal adversário, Chris Hipkins, do Partido Trabalhista.Com as urnas encerradas e a contagem dos votos em curso, o resultado continua demasiado renhido para ser antecipado.",
+      "why": "«Nova Zelândia apura votos em eleição renhida centrada no custo de vida» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «Nova Zelândia apura votos em eleição renhida centrada no custo de vida», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Euronews Português",
+      "published": "2026-11-07T12:43:46+00:00",
+      "age_hours": 4.0,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/11/07/nova-zelandia-apura-votos-em-eleicao-renhida-centrada-no-custo-de-vida",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -233,68 +217,9 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O presidente russo Vladimir Putin reuniu-se em Moscovo, esta quinta-feira, com o secretário do Conselho Supremo de Segurança Nacional do Irão, Mohsen Rezaei, que entregou uma mensagem pessoal do aiatola Mojtaba Khamenei sobre a guerra no Irão e discutiu aquilo que ambas as partes chamaram “reforço dos laços”.O principal responsável pela segurança do Irão descreveu o encontro como “uma troca de pontos de vista extremamente importante”, que abrangeu “a situação pós-guerra e a segurança regional”.A Rússia tem sido um apoiante de longa data do Irão, alegadamente fornecendo a Teerão informações de inteligência e equipamento durante a guerra. «Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Irão entrega mensagem de Khamenei a Putin e discute gasoduto Rússia-Irão», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 7.4,
+      "detailed_summary": "Os resultados iniciais das eleições legislativas na Nova Zelândia mostram uma disputa renhida entre os dois principais partidos do país, após uma campanha centrada no custo de vida e na economia.O primeiro-ministro Christopher Luxon e a coligação de direita liderada pelo Partido Nacional procuram garantir um segundo mandato, enfrentando o principal adversário, Chris Hipkins, do Partido Trabalhista.Com as urnas encerradas e a contagem dos votos em curso, o resultado continua demasiado renhido para ser antecipado. «Nova Zelândia apura votos em eleição renhida centrada no custo de vida» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Nova Zelândia apura votos em eleição renhida centrada no custo de vida», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 8.17,
       "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia",
-        "Segurança"
-      ],
-      "title": "Azerbaijão e Ucrânia reforçam cooperação energética e comercial",
-      "summary": "Azerbaijão e Ucrânia formalizaram uma ampla expansão da sua cooperação económica e energética, ao concluírem a 14.ª reunião da sua Comissão Intergovernamental Conjunta na cidade ucraniana ocidental de Uzhhorod. As conversações bilaterais assinalam a primeira vez que a comissão se reúne em território ucraniano desde o início da invasão russa em grande escala. Co-presididas pelo ministro da Energia do Azerbaijão, Parviz Shahbazov, e pelo primeiro vice-primeiro-ministro e ministro da Energia da Ucrânia, Denys Shmyhal, as delegações assinaram um Protocolo formal e adotaram um Plano de Ação abrangente para 2026-2027. Os acordos estratégicos abrangem 14 setores distintos, com forte enfoque na resiliência da infraestrutura energética e nas ligações comerciais transfronteiriças, numa altura de graves obstáculos logísticos em tempo de guerra.",
-      "why": "«Azerbaijão e Ucrânia reforçam cooperação energética e comercial» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Azerbaijão e Ucrânia reforçam cooperação energética e comercial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-06T15:31:23+00:00",
-      "age_hours": 18.2,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/06/azerbaijao-e-ucrania-reforcam-cooperacao-energetica-e-comercial",
-      "original_source": true,
-      "event_id": "evt-mundo-011",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Azerbaijão e Ucrânia formalizaram uma ampla expansão da sua cooperação económica e energética, ao concluírem a 14.ª reunião da sua Comissão Intergovernamental Conjunta na cidade ucraniana ocidental de Uzhhorod. As conversações bilaterais assinalam a primeira vez que a comissão se reúne em território ucraniano desde o início da invasão russa em grande escala. Co-presididas pelo ministro da Energia do Azerbaijão, Parviz Shahbazov, e pelo primeiro vice-primeiro-ministro e ministro da Energia da Ucrânia, Denys Shmyhal, as delegações assinaram um Protocolo formal e adotaram um Plano de Ação abrangente para 2026-2027. Os acordos estratégicos abrangem 14 setores distintos, com forte enfoque na resiliência da infraestrutura energética e nas ligações comerciais transfronteiriças, numa altura de graves obstáculos logísticos em tempo de guerra. «Azerbaijão e Ucrânia reforçam cooperação energética e comercial» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Azerbaijão e Ucrânia reforçam cooperação energética e comercial», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 7.21,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Jornalistas aprimoram conhecimentos sobre segurança social em Nampula",
-      "summary": "Jornalistas de diversos órgãos de comunicação social da província de Nampula reuniram-se, esta sexta-feira (6), em Nacala, para aprimorar seus conhecimentos sobre Segurança Social Obrigatória. Através da formação, o Instituto Nacional de Segurança Social (INSS) pretende envolver os profissionais de comunicação social na disseminação do quadro legal e de outras informações sobre o sistema, de modo a sensibilizar os contribuintes sobre a importância do cumprimento das suas obrigações contributivas e promover uma maior compreensão dos mecanismos de protecção social. O seminário surge num contexto em que o INSS enfrenta desafios relacionados com a cobrança de contribuições junto dos empregadores e dos trabalhadores por conta própria, o que reforça a necessidade de ampliar a divulgação de informações sobre os direitos, deveres e procedimentos inerentes à Segurança Social Obrigatória.",
-      "why": "«Jornalistas aprimoram conhecimentos sobre segurança social em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Jornalistas aprimoram conhecimentos sobre segurança social em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-06T13:39:06+00:00",
-      "age_hours": 20.0,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/jornalistas-aprimoram-conhecimentos-sobre-seguranca-social-em-nampula/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Jornalistas de diversos órgãos de comunicação social da província de Nampula reuniram-se, esta sexta-feira (6), em Nacala, para aprimorar seus conhecimentos sobre Segurança Social Obrigatória. Através da formação, o Instituto Nacional de Segurança Social (INSS) pretende envolver os profissionais de comunicação social na disseminação do quadro legal e de outras informações sobre o sistema, de modo a sensibilizar os contribuintes sobre a importância do cumprimento das suas obrigações contributivas e promover uma maior compreensão dos mecanismos de protecção social. O seminário surge num contexto em que o INSS enfrenta desafios relacionados com a cobrança de contribuições junto dos empregadores e dos trabalhadores por conta própria, o que reforça a necessidade de ampliar a divulgação de informações sobre os direitos, deveres e procedimentos inerentes à Segurança Social Obrigatória. «Jornalistas aprimoram conhecimentos sobre segurança social em Nampula» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Jornalistas aprimoram conhecimentos sobre segurança social em Nampula», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 6.83,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     }
   ],
@@ -317,9 +242,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 5,
+    "Moçambique": 3,
     "África": 1,
-    "Mundo": 4
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

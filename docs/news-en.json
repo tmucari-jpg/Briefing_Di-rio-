@@ -1,74 +1,73 @@
 {
-  "updated_at": "2026-11-07T09:41:41.659790+00:00",
+  "updated_at": "2026-11-07T16:46:10.218084+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
-        "IA",
         "Economia"
       ],
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Shares in artificial intelligence and technology firms have recovered slightly from an enormous sell-off that wiped trillions of dollars off stock values The tech-heavy Nasdaq stock index closed in positive territory following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September On Thursday, businesses closely linked to artificial intelligence development took a hammering on stock markets, particularly chip and semiconductor makers But the Nasdaq Composite bounced back slightly on Friday, ending the day up 1.1%, partly reversing some of its 5.5% fall The S&P 500, which tracks the share prices of the largest publicly-traded US companies, closed up 0.3%, while the Dow Jones Industrial…",
-      "why": "«AI stocks climb after trillions wiped from market values» points to a concrete change in the adoption, regulation or use of technology.",
-      "impact": "For «AI stocks climb after trillions wiped from market values», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-06T21:06:25+00:00",
-      "age_hours": 12.6,
+      "title": "Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend",
+      "summary": "Traffic on National Road Seven (N7), in Tete province, will be restricted on Saturday and Sunday (7 and 8 November) due to works involving road cutting and the installation of a water main at two points along the road in the Chithatha area of Moatize municipality According to a press release from the National Roads… Source",
+      "why": "«Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-07T14:14:34+00:00",
+      "age_hours": 2.5,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "link": "https://clubofmozambique.com/news/mozambique-roadworks-disrupt-traffic-on-n7-in-moatize-this-weekend/",
       "original_source": true,
-      "event_id": "evt-mundo-014",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "BBC World"
+        "Club of Mozambique"
       ],
-      "primary_source": "BBC World",
+      "primary_source": "Club of Mozambique",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Shares in artificial intelligence and technology firms have recovered slightly from an enormous sell-off that wiped trillions of dollars off stock values The tech-heavy Nasdaq stock index closed in positive territory following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September On Thursday, businesses closely linked to artificial intelligence development took a hammering on stock markets, particularly chip and semiconductor makers But the Nasdaq Composite bounced back slightly on Friday, ending the day up 1.1%, partly reversing some of its 5.5% fall The S&P 500, which tracks the share prices of the largest publicly-traded US companies, closed up 0.3%, while the Dow Jones Industrial… «AI stocks climb after trillions wiped from market values» points to a concrete change in the adoption, regulation or use of technology. For «AI stocks climb after trillions wiped from market values», the effects may include changes in skills demand, productivity, costs and digital opportunities in Mundo.",
-      "editorial_score": 15.38,
-      "source_tier": "A",
+      "opportunity_flag": false,
+      "detailed_summary": "Traffic on National Road Seven (N7), in Tete province, will be restricted on Saturday and Sunday (7 and 8 November) due to works involving road cutting and the installation of a water main at two points along the road in the Chithatha area of Moatize municipality According to a press release from the National Roads… Source. «Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Roadworks disrupt traffic on N7 in Moatize this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.48,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
-      "summary": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi Russia launched strikes on Kyiv and surrounding areas overnight, Russian and Ukrainian authorities said on Saturday Russia's Defense Ministry said the strikes hit the Northern Bridge and the Meridian Plant Moscow said that the bridge was being used by the Ukrainian military to transport weapons and military equipment, while the plant is used to produce Flamingo cruise missiles It said the strikes damaged several energy and industrial facilities in the Kyiv region, as well as an electricity substation in the neighboring Zhytomyr region and a cargo vessel in the Black Sea Kyiv Mayor Vitali Klitschko confirmed the strikes on the Northern Bridge, adding that the Ukrainian capital found itself in an \"extremely difficult\" situation regarding power, heating and water supplies.",
-      "why": "«Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-11-07T09:21:00+00:00",
-      "age_hours": 0.3,
+      "title": "Five killed and at least 10 injured in Krakow shooting",
+      "summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland",
+      "why": "«Five killed and at least 10 injured in Krakow shooting» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «Five killed and at least 10 injured in Krakow shooting», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-07T16:06:58+00:00",
+      "age_hours": 0.7,
       "within_24h": true,
-      "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mundo-002",
+      "event_id": "evt-mundo-001",
       "cluster_size": 2,
       "source_count": 2,
       "sources": [
-        "DW English",
-        "Al Jazeera English"
+        "Al Jazeera English",
+        "DW English"
       ],
-      "primary_source": "DW English",
+      "primary_source": "Al Jazeera English",
       "status": "today",
       "confirmations": [
         {
-          "source": "Al Jazeera English",
-          "title": "Russia launches missile attack on Kyiv, injuring residents",
-          "link": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss"
+          "source": "DW English",
+          "title": "Poland: At least 5 killed in shooting in Krakow, police say",
+          "link": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi Russia launched strikes on Kyiv and surrounding areas overnight, Russian and Ukrainian authorities said on Saturday Russia's Defense Ministry said the strikes hit the Northern Bridge and the Meridian Plant Moscow said that the bridge was being used by the Ukrainian military to transport weapons and military equipment, while the plant is used to produce Flamingo cruise missiles It said the strikes damaged several energy and industrial facilities in the Kyiv region, as well as an electricity substation in the neighboring Zhytomyr region and a cargo vessel in the Black Sea Kyiv Mayor Vitali Klitschko confirmed the strikes on the Northern Bridge, adding that the Ukrainian capital found itself in an \"extremely difficult\" situation regarding power, heating and water supplies. «Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks» matters because it may change energy and investment decisions affecting Mundo. For «Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 13.44,
+      "detailed_summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland. «Five killed and at least 10 injured in Krakow shooting» helps explain a concrete economic or business change relevant to Mundo. For «Five killed and at least 10 injured in Krakow shooting», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 12.35,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -77,17 +76,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "New Zealand election too close to call with half the votes counted",
-      "summary": "Early results after polls closed in New Zealand show the two main parties neck-and-neck. The country has strict election-day laws on political reporting to prevent voters from being swayed at the last minute Voters in New Zealand cast their ballots on the final day of close-fought general elections on Saturday, with the rising cost of living and general economic problems the main issues at stake Results with over half of votes counted at 9:44 p.m.",
-      "why": "«New Zealand election too close to call with half the votes counted» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «New Zealand election too close to call with half the votes counted», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "title": "New Zealand election too close to call with over 95% of votes counted",
+      "summary": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren't expected until later this month once special votes have been counted The two main parties were effectively deadlocked in New Zealand 's close-fought general elections on Saturday, with the rising cost of living and general economic problems the main issues at stake Results with 95% votes counted showed the ruling center-right National Party and the opposition Labour Party neck-and-neck with just under 30% of the vote The National Party held a slim lead of about 3,500 votes more than Labour late on Saturday night Incumbent Prime Minister Cristopher Luxon, who heads the National Party, said that his party \"is once again the largest party in parliament, and we have a pathway to forming the next government.\" The National Party currently governs in coalition with the pro-business ACT and the right-wing populist New Zealand First.",
+      "why": "«New Zealand election too close to call with over 95% of votes counted» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «New Zealand election too close to call with over 95% of votes counted», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "DW English",
-      "published": "2026-11-07T09:35:00+00:00",
-      "age_hours": 0.1,
+      "published": "2026-11-07T11:54:00+00:00",
+      "age_hours": 4.9,
       "within_24h": true,
-      "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-009",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -96,7 +95,7 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Early results after polls closed in New Zealand show the two main parties neck-and-neck. The country has strict election-day laws on political reporting to prevent voters from being swayed at the last minute Voters in New Zealand cast their ballots on the final day of close-fought general elections on Saturday, with the rising cost of living and general economic problems the main issues at stake Results with over half of votes counted at 9:44 p.m. «New Zealand election too close to call with half the votes counted» helps explain a concrete economic or business change relevant to Mundo. For «New Zealand election too close to call with half the votes counted», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "detailed_summary": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren't expected until later this month once special votes have been counted The two main parties were effectively deadlocked in New Zealand 's close-fought general elections on Saturday, with the rising cost of living and general economic problems the main issues at stake Results with 95% votes counted showed the ruling center-right National Party and the opposition Labour Party neck-and-neck with just under 30% of the vote The National Party held a slim lead of about 3,500 votes more than Labour late on Saturday night Incumbent Prime Minister Cristopher Luxon, who heads the National Party, said that his party \"is once again the largest party in parliament, and we have a pathway to forming the next government.\" The National Party currently governs in coalition with the pro-business ACT and the right-wing populist New Zealand First. «New Zealand election too close to call with over 95% of votes counted» helps explain a concrete economic or business change relevant to Mundo. For «New Zealand election too close to call with over 95% of votes counted», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "editorial_score": 11.98,
       "source_tier": "A",
       "editorial_status": "HOJE"
@@ -104,19 +103,48 @@
     {
       "section": "Mundo",
       "tags": [
-        "Segurança"
+        "Economia"
       ],
-      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-      "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections",
-      "why": "«Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-07T08:45:36+00:00",
-      "age_hours": 0.9,
+      "title": "No clear winner after tight New Zealand general election",
+      "summary": "New Zealand election 'too close to call' - so who's won? There was no clear winner following New Zealand's election on Saturday, as the leaders of its two major parties preparing for negotiations to form a coalition government Prime Minister Christopher Luxon's centre-right National Party won 42 seats but was 19 short of the simple majority needed to form a government, despite being the largest party, preliminary results show Combined with their coalition partners ACT and New Zealand First, they would have a slim lead over the left-leaning bloc if a deal could be reached But opposition leader Chris Hipkins, whose Labour Party won 36 seats, showed no signs of conceding, saying the \"shape of the next government\" will remain uncertain \"for a while\" The tight result followed a campaign shaped by the cost of living and unemployment Projections show the National Party on 42 seats and Labour on 36.",
+      "why": "«No clear winner after tight New Zealand general election» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «No clear winner after tight New Zealand general election», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "BBC World",
+      "published": "2026-11-07T15:56:28+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "New Zealand election 'too close to call' - so who's won? There was no clear winner following New Zealand's election on Saturday, as the leaders of its two major parties preparing for negotiations to form a coalition government Prime Minister Christopher Luxon's centre-right National Party won 42 seats but was 19 short of the simple majority needed to form a government, despite being the largest party, preliminary results show Combined with their coalition partners ACT and New Zealand First, they would have a slim lead over the left-leaning bloc if a deal could be reached But opposition leader Chris Hipkins, whose Labour Party won 36 seats, showed no signs of conceding, saying the \"shape of the next government\" will remain uncertain \"for a while\" The tight result followed a campaign shaped by the cost of living and unemployment Projections show the National Party on 42 seats and Labour on 36. «No clear winner after tight New Zealand general election» helps explain a concrete economic or business change relevant to Mundo. For «No clear winner after tight New Zealand general election», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 11.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+      "summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment",
+      "why": "«Iran’s IRGC says building underground sites for weapons production, storage» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Iran’s IRGC says building underground sites for weapons production, storage», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-07T15:34:58+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -125,8 +153,37 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections. «Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?» deserves attention because it may change political, diplomatic or security risks. For «Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.81,
+      "detailed_summary": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment. «Iran’s IRGC says building underground sites for weapons production, storage» is worth following because of its possible economic, institutional or regional effects. For «Iran’s IRGC says building underground sites for weapons production, storage», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.75,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Sudan war and climate change see parents struggle to feed their children",
+      "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition",
+      "why": "«Sudan war and climate change see parents struggle to feed their children» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Sudan war and climate change see parents struggle to feed their children», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-07T10:36:32+00:00",
+      "age_hours": 6.2,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition. «Sudan war and climate change see parents struggle to feed their children» deserves attention because it may change political, diplomatic or security risks. For «Sudan war and climate change see parents struggle to feed their children», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 10.71,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -141,38 +198,9 @@
       "impact": "For «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-11-07T03:00:00+00:00",
-      "age_hours": 6.7,
+      "age_hours": 13.8,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-maputo-and-matola-rio-face-water-supply-disruptions-this-weekend/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Several neighbourhoods in Maputo City and the Matola-Rio area will experience water supply restrictions this weekend. According to a statement from Maputo Water and Sanitation (SAAS-Maputo), maintenance work is under way in the Matola-Rio Operational Area and at the Chamanculo Distribution Centre in Maputo City. Services are expected to return to normal on Monday, 9… Source. «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 11.6,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Mozambique: When Gaza’s governor comes calling at a farmer’s machamba in Songatcheca — Photos",
-      "summary": "The governor congratulated Nelson Mucuio on his efforts and urged him to continue his work and increase investment in agricultural production, with a view to creating more employment opportunities for young people The farmer has 16 hectares, ten of which are currently under cultivation, growing watermelon, tomatoes, cabbage and other vegetables Nelson Mucuio’s farm uses a drip irrigation system, a technique that saves water, reduces waste and increases productivity.",
-      "why": "«Mozambique: When Gaza’s governor comes calling at a farmer’s machamba in Songatcheca — Photos» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Mozambique: When Gaza’s governor comes calling at a farmer’s machamba in Songatcheca — Photos», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Club of Mozambique",
-      "published": "2026-11-06T16:22:23+00:00",
-      "age_hours": 17.3,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-when-gazas-governor-comes-calling-at-a-farmers-machamba-in-songatcheca-photos/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -182,39 +210,39 @@
       ],
       "primary_source": "Club of Mozambique",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "The governor congratulated Nelson Mucuio on his efforts and urged him to continue his work and increase investment in agricultural production, with a view to creating more employment opportunities for young people The farmer has 16 hectares, ten of which are currently under cultivation, growing watermelon, tomatoes, cabbage and other vegetables Nelson Mucuio’s farm uses a drip irrigation system, a technique that saves water, reduces waste and increases productivity. «Mozambique: When Gaza’s governor comes calling at a farmer’s machamba in Songatcheca — Photos» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: When Gaza’s governor comes calling at a farmer’s machamba in Songatcheca — Photos», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.4,
+      "opportunity_flag": false,
+      "detailed_summary": "Several neighbourhoods in Maputo City and the Matola-Rio area will experience water supply restrictions this weekend. According to a statement from Maputo Water and Sanitation (SAAS-Maputo), maintenance work is under way in the Matola-Rio Operational Area and at the Chamanculo Distribution Centre in Maputo City. Services are expected to return to normal on Monday, 9… Source. «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend» is worth following because of its possible economic, institutional or regional effects. For «Mozambique: Maputo and Matola-Rio face water supply disruptions this weekend», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 10.12,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
         "Economia"
       ],
-      "title": "Movement of tourists increases by 254 percent",
-      "summary": "Maputo, 06 Nov (AIM) – The Mozambican President Daniel Chapo has revealed that the movement of tourists and investors arriving in the country increased by 254 percent this year, when compared to the same period in 2025. According to Chapo, speaking at the opening of the second edition of the Mozambique Tourism Summit, in Vilankulo, southern province of Inhambane, the growth is the result of reforms introduced to boost the tourism sector. “The results stem from measures introduced in recent months to facilitate the entry of visitors and attract investment, including the implementation of an electronic visa platform and the creation of the so-called “Visa Gold”, designed to attract foreign investors”, he said. The President highlighted the creation of the National Agency for Tourism Development and Investment (Anditur), which replaced the former National Tourism Institute (Inatur), as well as the Southern Corridor Special Tourism Economic Zone, which incorporates the destinations of Vilankulo, Pomene and Inhassoro, all in Inhambane province.",
-      "why": "«Movement of tourists increases by 254 percent» helps explain a concrete economic or business change relevant to Moçambique.",
-      "impact": "For «Movement of tourists increases by 254 percent», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "AIM News",
-      "published": "2026-11-06T10:02:00+00:00",
-      "age_hours": 23.7,
+      "title": "Four things we learned this week about 2028 White House race",
+      "summary": "Democratic Senator Jon Ossoff and Republican Vice-President JD Vance Ballots are still being counted in the US midterm elections but the political landscape is already pivoting to the 2028 White House race Buoyed by major gains in Congress, Democrats will have momentum as they prepare for the contest to succeed President Donald Trump But a good showing in the midterms does not guarantee a White House win two years later. Barack Obama was re-elected in 2012 despite huge Republican gains in 2010 No one has yet entered the presidential race but potential candidates will be preparing behind the scenes Vice-President's JD Vance's reflection on where the midterms went wrong for Republicans has been interpreted as him paving the way for a 2028 run The results of Tuesday's election and the historic size of Democratic gains could shape the White House race in several ways.",
+      "why": "«Four things we learned this week about 2028 White House race» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Four things we learned this week about 2028 White House race», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-07T12:23:28+00:00",
+      "age_hours": 4.4,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/06/movement-of-tourists-increases-by-254-percent/",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mocambique-007",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM News"
+        "BBC World"
       ],
-      "primary_source": "AIM News",
+      "primary_source": "BBC World",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 06 Nov (AIM) – The Mozambican President Daniel Chapo has revealed that the movement of tourists and investors arriving in the country increased by 254 percent this year, when compared to the same period in 2025. According to Chapo, speaking at the opening of the second edition of the Mozambique Tourism Summit, in Vilankulo, southern province of Inhambane, the growth is the result of reforms introduced to boost the tourism sector. “The results stem from measures introduced in recent months to facilitate the entry of visitors and attract investment, including the implementation of an electronic visa platform and the creation of the so-called “Visa Gold”, designed to attract foreign investors”, he said. The President highlighted the creation of the National Agency for Tourism Development and Investment (Anditur), which replaced the former National Tourism Institute (Inatur), as well as the Southern Corridor Special Tourism Economic Zone, which incorporates the destinations of Vilankulo, Pomene and Inhassoro, all in Inhambane province. «Movement of tourists increases by 254 percent» helps explain a concrete economic or business change relevant to Moçambique. For «Movement of tourists increases by 254 percent», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 10.06,
-      "source_tier": "B",
+      "opportunity_flag": false,
+      "detailed_summary": "Democratic Senator Jon Ossoff and Republican Vice-President JD Vance Ballots are still being counted in the US midterm elections but the political landscape is already pivoting to the 2028 White House race Buoyed by major gains in Congress, Democrats will have momentum as they prepare for the contest to succeed President Donald Trump But a good showing in the midterms does not guarantee a White House win two years later. Barack Obama was re-elected in 2012 despite huge Republican gains in 2010 No one has yet entered the presidential race but potential candidates will be preparing behind the scenes Vice-President's JD Vance's reflection on where the midterms went wrong for Republicans has been interpreted as him paving the way for a 2028 run The results of Tuesday's election and the historic size of Democratic gains could shape the White House race in several ways. «Four things we learned this week about 2028 White House race» is worth following because of its possible economic, institutional or regional effects. For «Four things we learned this week about 2028 White House race», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.08,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -228,11 +256,11 @@
       "impact": "For «Somalia's top court rejects president's term extension amid political crisis», the effects may reach trade, movement, investment and supply chains connected to África.",
       "source": "BBC Africa",
       "published": "2026-11-06T08:18:10+00:00",
-      "age_hours": 25.4,
+      "age_hours": 32.5,
       "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -242,7 +270,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "President Hassan Sheikh Mohamud's four-year mandate expired in May Somalia's Supreme Court has ruled that President Hassan Sheikh Mohamud unlawfully extended his term, escalating a political crisis and a standoff between the presidency and judiciary Thursday's ruling came a day after Mohamud dismissed Chief Justice Bashe Yusuf Ahmed - a move which the court said the president lacked the authority to take The court also ordered political leaders to agree on an electoral plan within 30 days and hold elections within 90 days, potentially disrupting government plans for nationwide polls next year Mohamud's four-year mandate expired in May, but his administration extended it by a year through law changes approved by parliament in March Opposition groups accuse him of using the constitutional changes to prolong his rule But the president insists the reforms are necessary to move Somalia towards fully democratic elections, replacing the clan-based system in which elders pick their representatives which has been used since 2012 Somalia last held nationwide direct elections in 1969 and has… «Somalia's top court rejects president's term extension amid political crisis» deserves attention because it may change political, diplomatic or security risks. For «Somalia's top court rejects president's term extension amid political crisis», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 7.46,
+      "editorial_score": 7.23,
       "source_tier": "A",
       "editorial_status": "ACTUALIZAÇÃO"
     }
@@ -266,9 +294,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 3,
-    "África": 1,
-    "Mundo": 4
+    "Moçambique": 2,
+    "África": 2,
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
