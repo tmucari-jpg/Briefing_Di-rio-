@@ -1,10 +1,112 @@
 {
-  "updated_at": "2026-11-08T00:13:53.355322+00:00",
+  "updated_at": "2026-11-08T09:56:05.677106+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Mozambique Tourism Summit 2026 encerra com apelo à concretização de investimentos",
+      "summary": "Maputo, 07 de Nov – O Ministro da Economia, Basílio Muhate, em representação do Presidente da República, Daniel Chapo, encerrou os trabalhos da segunda edição do Mozambique Tourism Summit 2026, defendendo a passagem dos compromissos e oportunidades discutidos durante o encontro para projectos efectivos de investimento no sector do turismo. Na cerimónia de encerramento, o governante destacou a necessidade de acelerar as reformas, reforçar as parcerias entre os sectores público e privado e integrar as micro, pequenas e médias empresas na cadeia de valor do turismo. Entre os resultados esperados da conferência constam a concretização de investimentos, o desenvolvimento de novos empreendimentos turísticos, a expansão das infra-estruturas e a criação de oportunidades de emprego, em articulação com a diversificação da economia nacional. Muhate apelou aos participantes para que a próxima edição do encontro, prevista para 2027, seja acompanhada de resultados concretos dos compromissos assumidos, incluindo projectos de investimento efectivamente materializados.",
+      "why": "«Mozambique Tourism Summit 2026 encerra com apelo à concretização de investimentos» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Mozambique Tourism Summit 2026 encerra com apelo à concretização de investimentos», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "AIM Notícias",
+      "published": "2026-11-08T05:29:15+00:00",
+      "age_hours": 4.4,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/08/mozambique-tourism-summit-2026-encerra-com-apelo-a-concretizacao-de-investimentos/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 07 de Nov – O Ministro da Economia, Basílio Muhate, em representação do Presidente da República, Daniel Chapo, encerrou os trabalhos da segunda edição do Mozambique Tourism Summit 2026, defendendo a passagem dos compromissos e oportunidades discutidos durante o encontro para projectos efectivos de investimento no sector do turismo. Na cerimónia de encerramento, o governante destacou a necessidade de acelerar as reformas, reforçar as parcerias entre os sectores público e privado e integrar as micro, pequenas e médias empresas na cadeia de valor do turismo. Entre os resultados esperados da conferência constam a concretização de investimentos, o desenvolvimento de novos empreendimentos turísticos, a expansão das infra-estruturas e a criação de oportunidades de emprego, em articulação com a diversificação da economia nacional. Muhate apelou aos participantes para que a próxima edição do encontro, prevista para 2027, seja acompanhada de resultados concretos dos compromissos assumidos, incluindo projectos de investimento efectivamente materializados. «Mozambique Tourism Summit 2026 encerra com apelo à concretização de investimentos» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Mozambique Tourism Summit 2026 encerra com apelo à concretização de investimentos», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 15.08,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "PR enaltece contributo de Tobias Dai na construção do Estado",
+      "summary": "O Presidente da República, Daniel Chapo, enaltece o papel do Tenente-General na Reserva, Tobias Joaquim Dai na construção do Estado moçambicano, desde a Luta de Libertação Nacional até à reestruturação das forças armadas e à condução da política de Defesa Nacional, considerando que a sua trajectória constitui um capítulo marcante da história do país. O Chefe do Estado falava este sábado, em Maputo, nas exéquias do antigo Ministro da Defesa Nacional, falecido a 2 de Novembro, em Maputo, vítima de doença. Chapo destacou o percurso militar de Tobias Dai, que, aos 21 anos, interrompeu os estudos para se juntar à Frente de Libertação de Moçambique (FRELIMO), em Janeiro de 1971, no Centro de Preparação Político-Militar de Nachingwea, na República Unida da Tanzânia. Durante a luta armada, comandou a secção de Infantaria, o Corpo de Instrutores e o Batalhão de Artilharia Antiaérea.",
+      "why": "«PR enaltece contributo de Tobias Dai na construção do Estado» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «PR enaltece contributo de Tobias Dai na construção do Estado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-08T09:26:43+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/pr-enaltece-contributo-de-tobias-dai-na-construcao-do-estado/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "Jornal Notícias",
+        "AIM Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM Notícias",
+          "title": "PR destaca contributo do Tobias Dai na consolidação do Estado moçambicano",
+          "link": "https://aimnews.org/2026/11/08/pr-destaca-contributo-do-tobias-dai-na-consolidacao-do-estado-mocambicano/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, enaltece o papel do Tenente-General na Reserva, Tobias Joaquim Dai na construção do Estado moçambicano, desde a Luta de Libertação Nacional até à reestruturação das forças armadas e à condução da política de Defesa Nacional, considerando que a sua trajectória constitui um capítulo marcante da história do país. O Chefe do Estado falava este sábado, em Maputo, nas exéquias do antigo Ministro da Defesa Nacional, falecido a 2 de Novembro, em Maputo, vítima de doença. Chapo destacou o percurso militar de Tobias Dai, que, aos 21 anos, interrompeu os estudos para se juntar à Frente de Libertação de Moçambique (FRELIMO), em Janeiro de 1971, no Centro de Preparação Político-Militar de Nachingwea, na República Unida da Tanzânia. Durante a luta armada, comandou a secção de Infantaria, o Corpo de Instrutores e o Batalhão de Artilharia Antiaérea. «PR enaltece contributo de Tobias Dai na construção do Estado» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PR enaltece contributo de Tobias Dai na construção do Estado», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 14.4,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "COP31. Ministra do Ambiente pede ação porque objetivos já existem",
+      "summary": "A ministra do Ambiente e Energia defende que na cimeira do clima que começa segunda-feira na Turquia é preciso \"passar das grandes declarações para a ação\", porque os objetivos já existem",
+      "why": "«COP31. Ministra do Ambiente pede ação porque objetivos já existem» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «COP31. Ministra do Ambiente pede ação porque objetivos já existem», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-08T09:06:40+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/cop31-ministra-do-ambiente-pede-acao-porque-objetivos-ja-existem_n1777695",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 2,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "COP31. Portugal prioriza renováveis e transição justa e alerta para crispação",
+          "link": "https://www.rtp.pt/noticias/mundo/cop31-portugal-prioriza-renovaveis-e-transicao-justa-e-alerta-para-crispacao_n1777694"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "A ministra do Ambiente e Energia defende que na cimeira do clima que começa segunda-feira na Turquia é preciso \"passar das grandes declarações para a ação\", porque os objetivos já existem. «COP31. Ministra do Ambiente pede ação porque objetivos já existem» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «COP31. Ministra do Ambiente pede ação porque objetivos já existem», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 11.83,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -17,11 +119,11 @@
       "impact": "No caso de «Moçambique adopta planeamento geoespacial para reduzir custos da electrificação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-11-07T13:16:27+00:00",
-      "age_hours": 11.0,
+      "age_hours": 20.7,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/07/mocambique-adopta-planeamento-geoespacial-para-reduzir-custos-da-electrificacao/",
       "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -31,7 +133,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 07 Nov (AIM) – Moçambique passa a dispor de instrumentos de planificação geoespacial para orientar os investimentos na electrificação do país. A medida poderá ajudar na identificação das soluções de menor custo para cada região e maximizar o impacto económico e social dos recursos aplicados no sector. Trata-se do Plano Nacional Geoespacial de Electrificação de Menor Custo 2026-2030 e da Plataforma Integrada de Electrificação de Moçambique lançados sexta-feira (06), em Maputo, pelo ministro dos Recursos Minerais e Energia, Estêvão Pale. “Este instrumento garante que cada metical investido na electrificação traga o maior impacto social e económico possível para cada assentamento humano, de forma eficiente e ao menor custo por ligação”, afirmou Pale. O plano utiliza modelação avançada e dados geoespaciais para determinar a combinação mais eficiente entre a extensão da rede eléctrica nacional e soluções fora da rede, tendo em conta as características dos diferentes assentamentos humanos. «Moçambique adopta planeamento geoespacial para reduzir custos da electrificação» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Moçambique adopta planeamento geoespacial para reduzir custos da electrificação», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.71,
+      "editorial_score": 10.69,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -46,11 +148,11 @@
       "impact": "No caso de «Vodacom e ANDITUR Estabelecem Parceria Para Digitalizar Sector do Turismo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Diário Económico",
       "published": "2026-11-07T15:30:05+00:00",
-      "age_hours": 8.7,
+      "age_hours": 18.4,
       "within_24h": true,
       "link": "https://www.diarioeconomico.co.mz/2026/11/07/negocios/turismo/vodacom-e-anditur-estabelecem-parceria-para-digitalizar-sector-do-turismo/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -60,66 +162,8 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "A Vodacom Moçambique e a Agência Nacional para o Desenvolvimento e Investimento Turístico (ANDITUR) assinaram um memorando de entendimento para acelerar a digitalização e a promoção do sector do turismo […]. «Vodacom e ANDITUR Estabelecem Parceria Para Digitalizar Sector do Turismo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Vodacom e ANDITUR Estabelecem Parceria Para Digitalizar Sector do Turismo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 12.19,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Confrontos violentos em Paris em mais uma tarde de manifestações em França",
-      "summary": "Em França, depois de um início de tarde de manifestações tranquilas, houve momentos de tensão, nomeadamente em Paris. Houve confrontos entre manifestantes e polícia, o que levou as autoridades a usar gás lacrimogéneo",
-      "why": "«Confrontos violentos em Paris em mais uma tarde de manifestações em França» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «Confrontos violentos em Paris em mais uma tarde de manifestações em França», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-07T16:49:41+00:00",
-      "age_hours": 7.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/confrontos-violentos-em-paris-em-mais-uma-tarde-de-manifestacoes-em-franca_n1777623",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Em França, depois de um início de tarde de manifestações tranquilas, houve momentos de tensão, nomeadamente em Paris. Houve confrontos entre manifestantes e polícia, o que levou as autoridades a usar gás lacrimogéneo. «Confrontos violentos em Paris em mais uma tarde de manifestações em França» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Confrontos violentos em Paris em mais uma tarde de manifestações em França», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 10.46,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Presidente israelita vai convidar Gadi Eisenkot para formar governo",
-      "summary": "Gadi Eisenkot, líder do bloco de oposição ao atual primeiro-ministro, Benjamin Netanyahu, foi o escolhido para tentar formar governo em Israel",
-      "why": "«Presidente israelita vai convidar Gadi Eisenkot para formar governo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Presidente israelita vai convidar Gadi Eisenkot para formar governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-07T20:15:33+00:00",
-      "age_hours": 4.0,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/presidente-israelita-vai-convidar-gadi-eisenkot-para-formar-governo_n1777646",
-      "original_source": true,
-      "event_id": "evt-mundo-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Gadi Eisenkot, líder do bloco de oposição ao atual primeiro-ministro, Benjamin Netanyahu, foi o escolhido para tentar formar governo em Israel. «Presidente israelita vai convidar Gadi Eisenkot para formar governo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Presidente israelita vai convidar Gadi Eisenkot para formar governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "editorial_score": 10.17,
-      "source_tier": "A",
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -127,17 +171,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai",
-      "summary": "Os filhos de Tobias Joaquim Dai enalteceram, este sábado, o percurso militar e humano do antigo ministro da Defesa Nacional, destacando o seu contributo para a independência de Moçambique, a defesa da soberania nacional e a construção da paz. Na cerimónia fúnebre, realizada no Quartel-General das Forças Armadas de Defesa de Moçambique, em Maputo, a […]",
-      "why": "«Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "title": "Fortes chuvas alagam 70 mil tendas na Faixa de Gaza",
+      "summary": "As fortes chuvas registadas neste sábado, na Faixa de Gaza, inundaram cerca de 70 mil tendas, e deixaram dezenas de milhares de deslocados. Centenas de famílias deslocadas foram vistas a fugir de campos em partes da Cidade de Gaza e nas áreas central e norte da Faixa, depois de verem suas tendas inundadas por água […]",
+      "why": "«Fortes chuvas alagam 70 mil tendas na Faixa de Gaza» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Fortes chuvas alagam 70 mil tendas na Faixa de Gaza», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
-      "published": "2026-11-07T10:01:06+00:00",
-      "age_hours": 14.2,
+      "published": "2026-11-08T09:55:16+00:00",
+      "age_hours": 0.0,
       "within_24h": true,
-      "link": "https://opais.co.mz/filhos-destacam-legado-de-disciplina-humildade-e-amor-de-tobias-joaquim-dai/",
+      "link": "https://opais.co.mz/fortes-chuvas-alagam-70-mil-tendas-na-faixa-de-gaza/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -146,8 +190,8 @@
       "primary_source": "O País",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Os filhos de Tobias Joaquim Dai enalteceram, este sábado, o percurso militar e humano do antigo ministro da Defesa Nacional, destacando o seu contributo para a independência de Moçambique, a defesa da soberania nacional e a construção da paz. Na cerimónia fúnebre, realizada no Quartel-General das Forças Armadas de Defesa de Moçambique, em Maputo, a […]. «Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Filhos destacam legado de disciplina, humildade e amor de Tobias Joaquim Dai», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 10.04,
+      "detailed_summary": "As fortes chuvas registadas neste sábado, na Faixa de Gaza, inundaram cerca de 70 mil tendas, e deixaram dezenas de milhares de deslocados. Centenas de famílias deslocadas foram vistas a fugir de campos em partes da Cidade de Gaza e nas áreas central e norte da Faixa, depois de verem suas tendas inundadas por água […]. «Fortes chuvas alagam 70 mil tendas na Faixa de Gaza» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Fortes chuvas alagam 70 mil tendas na Faixa de Gaza», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 10.0,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -156,15 +200,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Ucrânia: ataques russos atingem região de Kiev e danificam infraestruturas",
-      "summary": "Ataques russos danificaram infraestruturas na região de Kiev e deixaram um jardim‑de‑infância em ruínas na capital ucraniana. Bombeiros combateram um grande incêndio enquanto a Ucrânia enfrentava novos ataques à sua rede energética",
-      "why": "«Ucrânia: ataques russos atingem região de Kiev e danificam infraestruturas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Ucrânia: ataques russos atingem região de Kiev e danificam infraestruturas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "Presidente de Israel encarrega Gadi Eisenkot de formar novo governo",
+      "summary": "Gadi Eisenkot, líder do partido centrista israelita Yashar, vai ser encarregado de formar um novo governo depois de as eleições legislativas do mês passado não terem produzido um vencedor claro.“O presidente Isaac Herzog decidiu encarregar Gadi Eisenkot, presidente do partido ‘Yashar’, de formar um governo”, indicou um comunicado do gabinete do presidente divulgado na noite de sábado.A decisão foi tomada depois de Herzog ter mantido conversações com figuras políticas nos últimos dias, incluindo Eisenkot e o principal rival, o primeiro-ministro Benjamin Netanyahu.Na sequência das consultas, fações que somam 67 membros da Knesset (parlamento israelita) apoiaram Eisenkot, enquanto 46 se declararam a favor de Netanyahu, acrescentou o comunicado.“O presidente convidou Gadi Eisenkot para a residência oficial para a cerimónia de entrega do mandato, que terá lugar amanhã”, acrescentou.Um candidato encarregado de formar governo dispõe de 28 dias para cumprir a tarefa.",
+      "why": "«Presidente de Israel encarrega Gadi Eisenkot de formar novo governo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Presidente de Israel encarrega Gadi Eisenkot de formar novo governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-11-07T21:46:48+00:00",
-      "age_hours": 2.5,
+      "published": "2026-11-08T08:58:13+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://pt.euronews.com/video/2026/11/07/ucrania-ataques-russos-atingem-regiao-de-kiev-e-danificam-infraestruturas",
+      "link": "https://pt.euronews.com/2026/11/08/presidente-de-israel-encarrega-gadi-eisenkot-de-formar-novo-governo",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 2,
@@ -178,14 +222,43 @@
       "confirmations": [
         {
           "source": "RTP Notícias",
-          "title": "Kiev com abastecimentos comprometidos. Ataques russos atingem ponte e infraestruturas energéticas",
-          "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/kiev-com-abastecimentos-comprometidos-ataques-russos-atingem-ponte-e-infraestruturas-energeticas_n1777559"
+          "title": "Presidente israelita convida Gadi Eisenkot para formar governo",
+          "link": "https://www.rtp.pt/noticias/mundo/presidente-israelita-convida-gadi-eisenkot-para-formar-governo_n1777646"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Ataques russos danificaram infraestruturas na região de Kiev e deixaram um jardim‑de‑infância em ruínas na capital ucraniana. Bombeiros combateram um grande incêndio enquanto a Ucrânia enfrentava novos ataques à sua rede energética. «Ucrânia: ataques russos atingem região de Kiev e danificam infraestruturas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Ucrânia: ataques russos atingem região de Kiev e danificam infraestruturas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 9.98,
+      "detailed_summary": "Gadi Eisenkot, líder do partido centrista israelita Yashar, vai ser encarregado de formar um novo governo depois de as eleições legislativas do mês passado não terem produzido um vencedor claro.“O presidente Isaac Herzog decidiu encarregar Gadi Eisenkot, presidente do partido ‘Yashar’, de formar um governo”, indicou um comunicado do gabinete do presidente divulgado na noite de sábado.A decisão foi tomada depois de Herzog ter mantido conversações com figuras políticas nos últimos dias, incluindo Eisenkot e o principal rival, o primeiro-ministro Benjamin Netanyahu.Na sequência das consultas, fações que somam 67 membros da Knesset (parlamento israelita) apoiaram Eisenkot, enquanto 46 se declararam a favor de Netanyahu, acrescentou o comunicado.“O presidente convidou Gadi Eisenkot para a residência oficial para a cerimónia de entrega do mandato, que terá lugar amanhã”, acrescentou.Um candidato encarregado de formar governo dispõe de 28 dias para cumprir a tarefa. «Presidente de Israel encarrega Gadi Eisenkot de formar novo governo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Presidente de Israel encarrega Gadi Eisenkot de formar novo governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 9.29,
       "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Confrontos violentos em Paris em mais uma tarde de manifestações em França",
+      "summary": "Em França, depois de um início de tarde de manifestações tranquilas, houve momentos de tensão, nomeadamente em Paris. Houve confrontos entre manifestantes e polícia, o que levou as autoridades a usar gás lacrimogéneo",
+      "why": "«Confrontos violentos em Paris em mais uma tarde de manifestações em França» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «Confrontos violentos em Paris em mais uma tarde de manifestações em França», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-07T16:49:41+00:00",
+      "age_hours": 17.1,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/confrontos-violentos-em-paris-em-mais-uma-tarde-de-manifestacoes-em-franca_n1777623",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Em França, depois de um início de tarde de manifestações tranquilas, houve momentos de tensão, nomeadamente em Paris. Houve confrontos entre manifestantes e polícia, o que levou as autoridades a usar gás lacrimogéneo. «Confrontos violentos em Paris em mais uma tarde de manifestações em França» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «Confrontos violentos em Paris em mais uma tarde de manifestações em França», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 8.44,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -199,7 +272,7 @@
       "impact": "No caso de «Eleições na RAS: ANC sofre queda histórica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
       "source": "O País",
       "published": "2026-11-07T13:18:07+00:00",
-      "age_hours": 10.9,
+      "age_hours": 20.6,
       "within_24h": true,
       "link": "https://opais.co.mz/eleicoes-na-ras-anc-sofre-queda-historica/",
       "original_source": true,
@@ -213,9 +286,38 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O Congresso Nacional Africano regista uma queda expressiva nas eleições autárquicas de 2026, na África do Sul, ao conquistar 31 por cento dos votos, contra os 46 por cento de 2021. A Aliança Democrática alcança 24,6 por cento, enquanto o partido uMkhonto weSizwe obtém 9,6 por cento. Os resultados preliminares das eleições autárquicas realizadas a […]. «Eleições na RAS: ANC sofre queda histórica» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições na RAS: ANC sofre queda histórica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 9.73,
+      "editorial_score": 7.71,
       "source_tier": "B",
       "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Projeto em Uganda transforma lixo eletrônico em emprego e renda",
+      "summary": "Cooperativa, apoiada pela Organização Internacional para Migrações, OIM, recupera painéis solares e baterias, unindo inclusão e sustentabilidade; se nada mudar, mundo terá que enfrentar 82 milhões de toneladas de resíduos deste tipo em 2030",
+      "why": "«Projeto em Uganda transforma lixo eletrônico em emprego e renda» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África.",
+      "impact": "No caso de «Projeto em Uganda transforma lixo eletrônico em emprego e renda», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "Notícias ONU",
+      "published": "2026-11-06T12:00:00+00:00",
+      "age_hours": 45.9,
+      "within_24h": false,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854852",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "update",
+      "opportunity_flag": true,
+      "detailed_summary": "Cooperativa, apoiada pela Organização Internacional para Migrações, OIM, recupera painéis solares e baterias, unindo inclusão e sustentabilidade; se nada mudar, mundo terá que enfrentar 82 milhões de toneladas de resíduos deste tipo em 2030. «Projeto em Uganda transforma lixo eletrônico em emprego e renda» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para África. No caso de «Projeto em Uganda transforma lixo eletrônico em emprego e renda», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 6.82,
+      "source_tier": "A",
+      "editorial_status": "ACTUALIZAÇÃO"
     },
     {
       "section": "Mundo",
@@ -228,11 +330,11 @@
       "impact": "No caso de «Polónia: tiroteio em Cracóvia faz seis mortos e 16 feridos na praça principal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-11-07T22:11:18+00:00",
-      "age_hours": 2.0,
+      "age_hours": 11.7,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/11/07/polonia-tiroteio-em-cracovia-faz-seis-mortos-e-16-feridos-na-praca-principal",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -242,7 +344,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Imagens mostram pessoas a fugir enquanto carros aceleram durante um tiroteio mortal na Praça do Mercado de Cracóvia, que fez seis mortos e cerca de 15 feridos. «Polónia: tiroteio em Cracóvia faz seis mortos e 16 feridos na praça principal» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Polónia: tiroteio em Cracóvia faz seis mortos e 16 feridos na praça principal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.58,
+      "editorial_score": 5.56,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -266,8 +368,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 3,
-    "África": 1,
+    "Moçambique": 5,
+    "África": 2,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
