@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:59:05.323429+00:00",
+  "updated_at": "2026-11-09T00:43:52.110213+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -16,7 +16,7 @@
       "impact": "For «South Africa's ANC records worst-ever results in local elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-11-08T17:51:03+00:00",
-      "age_hours": 3.1,
+      "age_hours": 6.9,
       "within_24h": true,
       "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
@@ -38,7 +38,37 @@
       ],
       "opportunity_flag": false,
       "detailed_summary": "Voters cast their ballots at a polling station during South Africa's local government elections in Johannesburg South Africa's ANC has recorded its worst-ever showing in local elections since Nelson Mandela led the country out of apartheid and into democracy more than 30 years ago, a result the party has called \"catastrophic\" While it won the most votes of all parties in the country, the African National Congress won 30.76% of the overall vote, one third down from the 46% it gained in 2021, and a far cry from the 64.82% 20 years ago The story of its decline is also clear in the provinces and cities. The party won a majority in just one of the country's nine provinces, Limpopo. In 2021 it won six. It also won the most votes in just two of the eight cities, compared with six at the last local elections The Democratic Alliance (DA) came second in the overall vote with 24.64%, retaining majority control of the city of Cape Town. «South Africa's ANC records worst-ever results in local elections» is worth following because of its possible economic, institutional or regional effects. For «South Africa's ANC records worst-ever results in local elections», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 13.85,
+      "editorial_score": 13.06,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia",
+        "Segurança"
+      ],
+      "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gas field",
+      "summary": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility,",
+      "why": "«Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gas field» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gas field», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-09T00:00:34+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "More than 70 percent of northern Iraq's Kurdish region is without power after a drone struck the Khor Mor gas facility,. «Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gas field» matters because it may change energy and investment decisions affecting Mundo. For «Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gas field», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 12.85,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -53,7 +83,7 @@
       "impact": "For «Mozambique: Chigamane golf project breaks ground as Inhambane swings onto the global golf tourism stage», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
       "source": "Club of Mozambique",
       "published": "2026-11-08T08:44:28+00:00",
-      "age_hours": 12.2,
+      "age_hours": 16.0,
       "within_24h": true,
       "link": "https://clubofmozambique.com/news/mozambique-chigamane-golf-project-breaks-ground-as-inhambane-swings-onto-the-global-golf-tourism-stage/",
       "original_source": true,
@@ -67,24 +97,24 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "The initiative was announced by the Presidency following a ceremony in Chigamane, a locality in the tourist district of Vilankulo, Inhambane province, where Mozambican President Daniel Chapo laid the foundation stone for the construction of the golf courses In a statement, the Presidency said the development represents an investment in diversifying Vilankulo’s tourism offer, seeking to strengthen the district’s ability to attract visitors and consolidate its position as a leading destination in national and international tourism markets The initiative aims to attract tourists from various regions of Mozambique and countries such as South Africa, Zimbabwe, Tanzania and Zambia, thereby laying the groundwork for local economic growth, business development and greater participation by national operators in the tourism value chain,” the statement said The Chigamane golf project forms part of the broader strategy adopted by the Government to develop golf tourism in Inhambane province. «Mozambique: Chigamane golf project breaks ground as Inhambane swings onto the global golf tourism stage» helps explain a concrete economic or business change relevant to Moçambique. For «Mozambique: Chigamane golf project breaks ground as Inhambane swings onto the global golf tourism stage», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 13.46,
+      "editorial_score": 12.67,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Economia"
       ],
-      "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
-      "summary": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans",
-      "why": "«Man United earn 4-4 draw against Aston Villa but remain in relegation zone» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Man United earn 4-4 draw against Aston Villa but remain in relegation zone», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "summary": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government",
+      "why": "«President Milei welcomes Pope Leo during historic visit to Argentina» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «President Milei welcomes Pope Leo during historic visit to Argentina», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-11-08T19:15:36+00:00",
-      "age_hours": 1.7,
+      "published": "2026-11-08T22:16:50+00:00",
+      "age_hours": 2.4,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -95,8 +125,37 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans. «Man United earn 4-4 draw against Aston Villa but remain in relegation zone» matters because it may change energy and investment decisions affecting Mundo. For «Man United earn 4-4 draw against Aston Villa but remain in relegation zone», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.65,
+      "detailed_summary": "Pope Leo XIV's visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government. «President Milei welcomes Pope Leo during historic visit to Argentina» is worth following because of its possible economic, institutional or regional effects. For «President Milei welcomes Pope Leo during historic visit to Argentina», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.5,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Doctor who treated victims of Krakow shooting speaks to the BBC",
+      "summary": "Professor Michal Pędziwiatr, one of two surgeons who treated victims on the street in the aftermath of a mass shooting in Krakow, has spoken to the BBC about his experience Two doctors were eating near the city's Main Market Square on Saturday when a gunman began firing at random, killing six and injuring 15 \"We rushed into the area and started our rescue\" before the emergency services arrived, Pędziwiatr said The pair raced to treat both the attacker and two officers shot while subduing the perpetrator",
+      "why": "«Doctor who treated victims of Krakow shooting speaks to the BBC» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «Doctor who treated victims of Krakow shooting speaks to the BBC», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "BBC World",
+      "published": "2026-11-08T22:05:12+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Professor Michal Pędziwiatr, one of two surgeons who treated victims on the street in the aftermath of a mass shooting in Krakow, has spoken to the BBC about his experience Two doctors were eating near the city's Main Market Square on Saturday when a gunman began firing at random, killing six and injuring 15 \"We rushed into the area and started our rescue\" before the emergency services arrived, Pędziwiatr said The pair raced to treat both the attacker and two officers shot while subduing the perpetrator. «Doctor who treated victims of Krakow shooting speaks to the BBC» helps explain a concrete economic or business change relevant to Mundo. For «Doctor who treated victims of Krakow shooting speaks to the BBC», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 10.46,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -111,11 +170,11 @@
       "impact": "For «Iran: US strikes ship after Hormuz blockade breach», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "DW English",
       "published": "2026-11-08T13:00:00+00:00",
-      "age_hours": 8.0,
+      "age_hours": 11.7,
       "within_24h": true,
       "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-009",
+      "event_id": "evt-mundo-011",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -125,36 +184,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country. On its part, Iran said three \"non compliant\" oil tankers caught fire in the Strait of Hormuz. «Iran: US strikes ship after Hormuz blockade breach» matters because it may change energy and investment decisions affecting Mundo. For «Iran: US strikes ship after Hormuz blockade breach», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 10.33,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "summary": "Reza Zanganeh was one of the three men executed in Iran Iran has executed three men accused of carrying out armed unrest during January's anti-government protests, according to state media Hassan Dioband, Hamid Kazemi and Reza Zanganeh were accused of throwing Molotov cocktails and grenades, using bladed weapons and firearms, and setting fire to public facilities in the city of Karaj, west of Tehran, Iran's state news agency Tasnim , external reported The executions are the latest in a series linked to the protests, including those of people accused of having ties to Israel and the United States The number of executions in Iran has increased since US-Israeli strikes on the Islamic Republic began in late February The protest movement initially sparked in December last year by the high cost of living rapidly evolved into widespread anti-government demonstrations that peaked on 8 and 9 of January Iranian authorities reported more than 3,000 deaths, and blamed the violence on \"terrorist acts\" orchestrated by the US and Israel However foreign-based NGOs gave higher figures and the BBC…",
-      "why": "«Iran executes three men for 'armed unrest' after January protests» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Iran executes three men for 'armed unrest' after January protests», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-08T13:37:50+00:00",
-      "age_hours": 7.4,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Reza Zanganeh was one of the three men executed in Iran Iran has executed three men accused of carrying out armed unrest during January's anti-government protests, according to state media Hassan Dioband, Hamid Kazemi and Reza Zanganeh were accused of throwing Molotov cocktails and grenades, using bladed weapons and firearms, and setting fire to public facilities in the city of Karaj, west of Tehran, Iran's state news agency Tasnim , external reported The executions are the latest in a series linked to the protests, including those of people accused of having ties to Israel and the United States The number of executions in Iran has increased since US-Israeli strikes on the Islamic Republic began in late February The protest movement initially sparked in December last year by the high cost of living rapidly evolved into widespread anti-government demonstrations that peaked on 8 and 9 of January Iranian authorities reported more than 3,000 deaths, and blamed the violence on \"terrorist acts\" orchestrated by the US and Israel However foreign-based NGOs gave higher figures and the BBC… «Iran executes three men for 'armed unrest' after January protests» is worth following because of its possible economic, institutional or regional effects. For «Iran executes three men for 'armed unrest' after January protests», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 9.46,
+      "editorial_score": 9.56,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -169,7 +199,7 @@
       "impact": "For «EUMAM MOZ supports Lar Nossa Senhora dos Desamparados with essential supplies», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
       "published": "2026-11-07T18:30:05+00:00",
-      "age_hours": 26.5,
+      "age_hours": 30.2,
       "within_24h": false,
       "link": "https://clubofmozambique.com/news/eumam-moz-supports-lar-nossa-senhora-dos-desamparados-with-essential-supplies/",
       "original_source": true,
@@ -183,9 +213,38 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "The initiative was attended by the EUMAM MOZ Force Commander, Brigadier General Sérgio Estrela, who, accompanied by Mission personnel, visited both the female and male residential wards of the care home. Beyond the delivery of the donated items, the visit provided opportunities for interaction and engagement with the residents in an atmosphere of fellowship and sharing, enabling Mission personnel to gain a better understanding of the realities and challenges faced by this community Photo: European Union Military Assistance Mission in Mozambique The Nossa Senhora dos Desamparados Care Home carries out valuable social assistance work that requires a continuous response to the needs of its residents. «EUMAM MOZ supports Lar Nossa Senhora dos Desamparados with essential supplies» deserves attention because it may change political, diplomatic or security risks. For «EUMAM MOZ supports Lar Nossa Senhora dos Desamparados with essential supplies», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 9.42,
+      "editorial_score": 9.31,
       "source_tier": "B",
       "editorial_status": "ACTUALIZAÇÃO"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "Reza Zanganeh was one of the three men executed in Iran Iran has executed three men accused of carrying out armed unrest during January's anti-government protests, according to state media Hassan Dioband, Hamid Kazemi and Reza Zanganeh were accused of throwing Molotov cocktails and grenades, using bladed weapons and firearms, and setting fire to public facilities in the city of Karaj, west of Tehran, Iran's state news agency Tasnim , external reported The executions are the latest in a series linked to the protests, including those of people accused of having ties to Israel and the United States The number of executions in Iran has increased since US-Israeli strikes on the Islamic Republic began in late February The protest movement initially sparked in December last year by the high cost of living rapidly evolved into widespread anti-government demonstrations that peaked on 8 and 9 of January Iranian authorities reported more than 3,000 deaths, and blamed the violence on \"terrorist acts\" orchestrated by the US and Israel However foreign-based NGOs gave higher figures and the BBC…",
+      "why": "«Iran executes three men for 'armed unrest' after January protests» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Iran executes three men for 'armed unrest' after January protests», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-08T13:37:50+00:00",
+      "age_hours": 11.1,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-010",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Reza Zanganeh was one of the three men executed in Iran Iran has executed three men accused of carrying out armed unrest during January's anti-government protests, according to state media Hassan Dioband, Hamid Kazemi and Reza Zanganeh were accused of throwing Molotov cocktails and grenades, using bladed weapons and firearms, and setting fire to public facilities in the city of Karaj, west of Tehran, Iran's state news agency Tasnim , external reported The executions are the latest in a series linked to the protests, including those of people accused of having ties to Israel and the United States The number of executions in Iran has increased since US-Israeli strikes on the Islamic Republic began in late February The protest movement initially sparked in December last year by the high cost of living rapidly evolved into widespread anti-government demonstrations that peaked on 8 and 9 of January Iranian authorities reported more than 3,000 deaths, and blamed the violence on \"terrorist acts\" orchestrated by the US and Israel However foreign-based NGOs gave higher figures and the BBC… «Iran executes three men for 'armed unrest' after January protests» is worth following because of its possible economic, institutional or regional effects. For «Iran executes three men for 'armed unrest' after January protests», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 8.69,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
     }
   ],
   "watch": [
@@ -209,7 +268,7 @@
   "section_counts": {
     "Moçambique": 2,
     "África": 1,
-    "Mundo": 3
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {
