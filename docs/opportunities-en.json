@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-11-09T00:44:06.210833+00:00",
+  "updated_at": "2026-11-09T11:00:19.578253+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Investimentos",
+      "title": "Mozambique: Economy minister calls for tourism reforms and stronger PPPs",
+      "summary": "The Mozambican Minister of Economy, Basílio Muhate, has called for measures aimed at boosting reforms in the tourism sector by strengthening public-private partnerships (PPPs), as well as integrating micro, small, and medium-sized enterprises (MSMEs) into the tourism value chain. According to the minister, speaking at the closing ceremony of the 2026 Mozambique Tourism Summit, the… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique: Economy minister calls for tourism reforms and stronger PPPs” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique: Economy minister calls for tourism reforms and stronger PPPs”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-09T08:55:46+00:00",
+      "age_hours": 2.1,
+      "link": "https://clubofmozambique.com/news/mozambique-economy-minister-calls-for-tourism-reforms-and-stronger-ppps/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 8
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",
