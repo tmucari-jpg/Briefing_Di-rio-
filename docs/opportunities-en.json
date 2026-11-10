@@ -1,9 +1,28 @@
 {
-  "updated_at": "2026-11-10T10:51:11.927755+00:00",
+  "updated_at": "2026-11-10T18:30:41.087171+00:00",
   "language": "en",
   "discovery_days": 365,
   "fresh_without_deadline_days": 14,
-  "items": [],
+  "items": [
+    {
+      "section": "Moçambique",
+      "category": "Aquisições",
+      "title": "Mozambique LNG holds Speed Meeting in Pemba with more than 100 Mozambican companies",
+      "summary": "The Mozambique LNG project, operated by TotalEnergies EP Mozambique Area 1 Limitada (TEPMA1), held a Speed Meeting today in Pemba, bringing together more than 100 Mozambican companies. The Speed Meeting provided participating companies with an opportunity to engage directly with the Mozambique LNG project’s procurement teams, clarify questions regarding contracting processes, and obtain information on… Source",
+      "entity": "Club of Mozambique",
+      "deadline": "Confirm in the original source",
+      "eligibility": "Confirm in the original source",
+      "why": "The “Mozambique LNG holds Speed Meeting in Pemba with more than 100 Mozambican companies” opportunity has a responsible entity, a concrete action and a deadline that should be checked before applying.",
+      "action": "Open the original notice for “Mozambique LNG holds Speed Meeting in Pemba with more than 100 Mozambican companies”, confirm the requirements and deadline, and prepare the requested documents.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-10T16:20:57+00:00",
+      "age_hours": 2.2,
+      "link": "https://clubofmozambique.com/news/mozambique-lng-holds-speed-meeting-in-pemba-with-more-than-100-mozambican-companies/",
+      "original_source": true,
+      "verification_status": "Confirm in the original source",
+      "actionability_score": 9
+    }
+  ],
   "categories": [
     "Concursos",
     "Aquisições",

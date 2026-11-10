@@ -1,61 +1,56 @@
 {
-  "updated_at": "2026-11-10T10:50:57.548229+00:00",
+  "updated_at": "2026-11-10T18:30:28.256218+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
-      "section": "Mundo",
+      "section": "Moçambique",
       "tags": [
+        "Energia",
+        "Economia",
         "Segurança"
       ],
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "summary": "The talks come as Ukraine reels from a deadly Russian strike on a village in Zaporizhzhia last week, in which at least 40 people were killed Trilateral talks between Ukraine, Russia and the US aimed at ending the war in Ukraine have begun in Abu Dhabi Although expectations for a breakthrough that ends Russia's full-scale war on Ukraine are low, US officials said yesterday that Moscow and Kyiv were privately showing \"a little bit of flexibility\" on the issue of who would control Ukraine's eastern regions in a postwar scenario Jared Kushner - Donald Trump's son-in-law and part of the US delegation alongside peace envoy Steve Witkoff - said the talks would be focused on addressing the \"postwar security concerns\" of both Russia and Ukraine \"An important part of this process is encouraging all parties to begin thinking seriously about what comes after the war,\" Kushner wrote on X Ahead of the meeting, the two US envoys met Ukrainian and European and Nato officials in Abu Dhabi, and French Foreign Minister Jean-Noël Barrot was adamant that France, the UK and Germany \"will indeed be in the…",
-      "why": "«Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-10T09:07:00+00:00",
-      "age_hours": 1.7,
+      "title": "Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026",
+      "summary": "Photo: World Tourism Forum Institute The award marks a second consecutive year of recognition for Mozambique at the World Tourism Awards, following its selection as Best Sustainable Destination in 2025. Together, the two honours tell a clear story: a country long admired for its coastline, islands and wildlife is now also earning the confidence of international investors Tourism at the heart of a new economic vision Since taking office in January 2025, President Daniel Francisco Chapo has placed tourism at the centre of Mozambique’s economic agenda. He presents the sector as a strategic engine of growth, jobs and social inclusion, and as the surest path to diversifying the economy beyond natural gas, coal and other extractive resources. “Gas will one day run out… tourism will never run out,” the President said earlier this month The Government’s Five-Year Programme for 2025–2029 turns that conviction into concrete targets raising tourism’s contribution to GDP to 6% by 2029 Reforms that open the door to investors The President’s vision has been matched by structural reform.",
+      "why": "«Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-10T17:44:19+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "link": "https://clubofmozambique.com/news/mozambique-named-best-tourism-investment-destination-at-world-tourism-awards-2026/",
       "original_source": true,
-      "event_id": "evt-mundo-005",
-      "cluster_size": 2,
-      "source_count": 2,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "BBC World",
-        "DW English"
+        "Club of Mozambique"
       ],
-      "primary_source": "BBC World",
+      "primary_source": "Club of Mozambique",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "DW English",
-          "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
-          "link": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "The talks come as Ukraine reels from a deadly Russian strike on a village in Zaporizhzhia last week, in which at least 40 people were killed Trilateral talks between Ukraine, Russia and the US aimed at ending the war in Ukraine have begun in Abu Dhabi Although expectations for a breakthrough that ends Russia's full-scale war on Ukraine are low, US officials said yesterday that Moscow and Kyiv were privately showing \"a little bit of flexibility\" on the issue of who would control Ukraine's eastern regions in a postwar scenario Jared Kushner - Donald Trump's son-in-law and part of the US delegation alongside peace envoy Steve Witkoff - said the talks would be focused on addressing the \"postwar security concerns\" of both Russia and Ukraine \"An important part of this process is encouraging all parties to begin thinking seriously about what comes after the war,\" Kushner wrote on X Ahead of the meeting, the two US envoys met Ukrainian and European and Nato officials in Abu Dhabi, and French Foreign Minister Jean-Noël Barrot was adamant that France, the UK and Germany \"will indeed be in the… «Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say» deserves attention because it may change political, diplomatic or security risks. For «Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 14.15,
-      "source_tier": "A",
+      "opportunity_flag": true,
+      "detailed_summary": "Photo: World Tourism Forum Institute The award marks a second consecutive year of recognition for Mozambique at the World Tourism Awards, following its selection as Best Sustainable Destination in 2025. Together, the two honours tell a clear story: a country long admired for its coastline, islands and wildlife is now also earning the confidence of international investors Tourism at the heart of a new economic vision Since taking office in January 2025, President Daniel Francisco Chapo has placed tourism at the centre of Mozambique’s economic agenda. He presents the sector as a strategic engine of growth, jobs and social inclusion, and as the surest path to diversifying the economy beyond natural gas, coal and other extractive resources. “Gas will one day run out… tourism will never run out,” the President said earlier this month The Government’s Five-Year Programme for 2025–2029 turns that conviction into concrete targets raising tourism’s contribution to GDP to 6% by 2029 Reforms that open the door to investors The President’s vision has been matched by structural reform. «Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 17.83,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
+        "IA",
         "Economia"
       ],
-      "title": "COP31: Mozambique seeks increased climate finance for vulnerable countries",
-      "summary": "In a statement, the Presidency said that Daniel Chapo would take part in several high-level meetings and events held as part of the COP31 conference, dedicated to discussing global challenges and responses to climate change “Mozambique’s participation in this summit aims to reaffirm the country’s national commitment to global climate action and mobilise international cooperation to address the impacts of climate change, with particular attention to the need to strengthen climate finance for the most vulnerable countries,” the statement reads READ: Mozambique: President Chapo heads to Antalya for COP31 climate summit The World Climate Action Summit, which forms part of the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31), is taking place in Antalya, Türkiye, until 20 November.",
-      "why": "«COP31: Mozambique seeks increased climate finance for vulnerable countries» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «COP31: Mozambique seeks increased climate finance for vulnerable countries», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "title": "Mozambique and Portugal set to expand cooperation",
+      "summary": "The announcement was made following a meeting between Mozambican President Daniel Chapo and the Portuguese Parliament’s Speaker, who is visiting the country Photo: Presidência da República de Moçambique Photo: Presidência da República de Moçambique Photo: Presidência da República de Moçambique Speaking to the press, Aguiar-Branco said the meeting had provided an opportunity to discuss various matters of common interest, with particular emphasis on deepening relations between the two countries and identifying new opportunities for cooperation In the parliamentary sphere, he highlighted the cooperation protocol signed on Monday at the Assembly of the Republic of Mozambique, which establishes new forms of collaboration between the two legislative bodies, particularly in the fields of digital technology and artificial intelligence During the meeting, Aguiar-Branco also conveyed to the Mozambican Head of State Portugal’s commitment to restoring peace in Cabo Delgado province, linking stability in the region to stronger economic relations and increased Portuguese investment in Mozambique…",
+      "why": "«Mozambique and Portugal set to expand cooperation» points to a concrete change in the adoption, regulation or use of technology.",
+      "impact": "For «Mozambique and Portugal set to expand cooperation», the effects may include changes in skills demand, productivity, costs and digital opportunities in Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-11-10T07:20:10+00:00",
-      "age_hours": 3.5,
+      "published": "2026-11-10T16:15:38+00:00",
+      "age_hours": 2.2,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/cop31-mozambique-seeks-increased-climate-finance-for-vulnerable-countries/",
+      "link": "https://clubofmozambique.com/news/mozambique-and-portugal-set-to-expand-cooperation/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -65,96 +60,38 @@
       ],
       "primary_source": "Club of Mozambique",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "In a statement, the Presidency said that Daniel Chapo would take part in several high-level meetings and events held as part of the COP31 conference, dedicated to discussing global challenges and responses to climate change “Mozambique’s participation in this summit aims to reaffirm the country’s national commitment to global climate action and mobilise international cooperation to address the impacts of climate change, with particular attention to the need to strengthen climate finance for the most vulnerable countries,” the statement reads READ: Mozambique: President Chapo heads to Antalya for COP31 climate summit The World Climate Action Summit, which forms part of the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31), is taking place in Antalya, Türkiye, until 20 November. «COP31: Mozambique seeks increased climate finance for vulnerable countries» is worth following because of its possible economic, institutional or regional effects. For «COP31: Mozambique seeks increased climate finance for vulnerable countries», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
-      "editorial_score": 12.27,
+      "opportunity_flag": true,
+      "detailed_summary": "The announcement was made following a meeting between Mozambican President Daniel Chapo and the Portuguese Parliament’s Speaker, who is visiting the country Photo: Presidência da República de Moçambique Photo: Presidência da República de Moçambique Photo: Presidência da República de Moçambique Speaking to the press, Aguiar-Branco said the meeting had provided an opportunity to discuss various matters of common interest, with particular emphasis on deepening relations between the two countries and identifying new opportunities for cooperation In the parliamentary sphere, he highlighted the cooperation protocol signed on Monday at the Assembly of the Republic of Mozambique, which establishes new forms of collaboration between the two legislative bodies, particularly in the fields of digital technology and artificial intelligence During the meeting, Aguiar-Branco also conveyed to the Mozambican Head of State Portugal’s commitment to restoring peace in Cabo Delgado province, linking stability in the region to stronger economic relations and increased Portuguese investment in Mozambique… «Mozambique and Portugal set to expand cooperation» points to a concrete change in the adoption, regulation or use of technology. For «Mozambique and Portugal set to expand cooperation», the effects may include changes in skills demand, productivity, costs and digital opportunities in Moçambique.",
+      "editorial_score": 16.54,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "África",
+      "section": "Mundo",
       "tags": [
         "Segurança"
       ],
-      "title": "DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels",
-      "summary": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders Some 66 soldiers have been sentenced to death in DR Congo on charged of cowardice, mutiny, and failure to obey orders. The sentence was handed down by the Goma Garrison Military Court At least 71 members of the Armed Forces of the Democratic Republic of Congo (FARDC) were arrested in several separate incidents related to the fierce fighting between the military and rebel groups near the country's borders with Uganda, Rwanda, and Burundi They were arrested on allegations of abandoning their posts or running away from clashes with FRN rebels. Prosecutors had sought capital punishment for 70 of the defendants, while asking for a 10-year jail term for an intelligence officer.",
-      "why": "«DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "title": "Victims of Nazi war in Poland call on Germany for support",
+      "summary": "More than 80 years after the end of World War II, Polish victims of the Nazi regime are still waiting for a \"humanitarian gesture\" from Germany. The 2027 draft budget hasn't left them much hope for possible reparations \"We can no longer wait,\" declared Polish victims' organizations in a dramatic appeal to German civil society, published on November 5 on the website of the Foundation for Polish–German Reconciliation \"Around 50,000 survivors of Nazi persecution during the German occupation still live in Poland today. They include former concentration camp and prison inmates, people deported to Germany for forced labor and those subjected to other forms of Nazi repression ,\" wrote the signatories of the appeal The open letter pointed out that many of the survivors are over 90 years old, struggling with illness and rising costs, and in need of help in their daily lives.",
+      "why": "«Victims of Nazi war in Poland call on Germany for support» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Victims of Nazi war in Poland call on Germany for support», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
       "source": "DW English",
-      "published": "2026-11-10T09:43:00+00:00",
-      "age_hours": 1.1,
+      "published": "2026-11-10T17:53:00+00:00",
+      "age_hours": 0.6,
       "within_24h": true,
-      "link": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders Some 66 soldiers have been sentenced to death in DR Congo on charged of cowardice, mutiny, and failure to obey orders. The sentence was handed down by the Goma Garrison Military Court At least 71 members of the Armed Forces of the Democratic Republic of Congo (FARDC) were arrested in several separate incidents related to the fierce fighting between the military and rebel groups near the country's borders with Uganda, Rwanda, and Burundi They were arrested on allegations of abandoning their posts or running away from clashes with FRN rebels. Prosecutors had sought capital punishment for 70 of the defendants, while asking for a 10-year jail term for an intelligence officer. «DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels» deserves attention because it may change political, diplomatic or security risks. For «DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 11.77,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Fact check: Online disinformation rife after Krakow mass shooting",
-      "summary": "Fake and AI-manipulated images spread online in the hours after the Krakow attack, fueling false narratives about the mass shooting. DW Fact Check examined what's real, and what isn't A gunman killed six people in a shooting spree in Krakow's Old Town on Saturday, before being shot and detained by police. The gunman, who is also suspected of killing three family members before the attack, later died in hospital On Monday, Poland's national prosecutor's office announced a formal investigation Nevertheless, much is still unknown about the details of the crime, leaving social media users to fill the information vacuum with fake images of the attacker and alleged screenshots of his online profile. DW Fact Check breaks down the developing story Claim: A viral picture has been circulating on social media claiming to be the real image of the suspected attacker But the unusual sharpness of this picture raises doubt of its authenticity. It is difficult to imagine capturing such a clear image in a chaotic situation DW checked the image using two different AI detectors.",
-      "why": "«Fact check: Online disinformation rife after Krakow mass shooting» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Fact check: Online disinformation rife after Krakow mass shooting», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-11-10T10:02:00+00:00",
-      "age_hours": 0.8,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "DW English"
-      ],
-      "primary_source": "DW English",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Fake and AI-manipulated images spread online in the hours after the Krakow attack, fueling false narratives about the mass shooting. DW Fact Check examined what's real, and what isn't A gunman killed six people in a shooting spree in Krakow's Old Town on Saturday, before being shot and detained by police. The gunman, who is also suspected of killing three family members before the attack, later died in hospital On Monday, Poland's national prosecutor's office announced a formal investigation Nevertheless, much is still unknown about the details of the crime, leaving social media users to fill the information vacuum with fake images of the attacker and alleged screenshots of his online profile. DW Fact Check breaks down the developing story Claim: A viral picture has been circulating on social media claiming to be the real image of the suspected attacker But the unusual sharpness of this picture raises doubt of its authenticity. It is difficult to imagine capturing such a clear image in a chaotic situation DW checked the image using two different AI detectors. «Fact check: Online disinformation rife after Krakow mass shooting» matters because it may change energy and investment decisions affecting Mundo. For «Fact check: Online disinformation rife after Krakow mass shooting», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 10.83,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Nvidia spy scandal fuels debate over chip exports to China",
-      "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy",
-      "why": "«Nvidia spy scandal fuels debate over chip exports to China» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Nvidia spy scandal fuels debate over chip exports to China», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-10T09:42:04+00:00",
-      "age_hours": 1.1,
-      "within_24h": true,
-      "link": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
+      "link": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Al Jazeera English"
+        "DW English"
       ],
-      "primary_source": "Al Jazeera English",
+      "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy. «Nvidia spy scandal fuels debate over chip exports to China» matters because it may change energy and investment decisions affecting Mundo. For «Nvidia spy scandal fuels debate over chip exports to China», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 10.77,
+      "detailed_summary": "More than 80 years after the end of World War II, Polish victims of the Nazi regime are still waiting for a \"humanitarian gesture\" from Germany. The 2027 draft budget hasn't left them much hope for possible reparations \"We can no longer wait,\" declared Polish victims' organizations in a dramatic appeal to German civil society, published on November 5 on the website of the Foundation for Polish–German Reconciliation \"Around 50,000 survivors of Nazi persecution during the German occupation still live in Poland today. They include former concentration camp and prison inmates, people deported to Germany for forced labor and those subjected to other forms of Nazi repression ,\" wrote the signatories of the appeal The open letter pointed out that many of the survivors are over 90 years old, struggling with illness and rising costs, and in need of help in their daily lives. «Victims of Nazi war in Poland call on Germany for support» deserves attention because it may change political, diplomatic or security risks. For «Victims of Nazi war in Poland call on Germany for support», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.88,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -163,17 +100,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Watch: Man smashes Chinese government building with excavator",
-      "summary": "Police in China's Shaanxi province say they have detained a 47-year-old man for damaging a government building with \"construction machinery\" on Monday afternoon Videos circulating on social media show an excavator tearing down the facade of the building. Local media reported that staff inside the building were urgently evacuated No one was injured in the incident, said the police, who did not provide a motive for the act",
-      "why": "«Watch: Man smashes Chinese government building with excavator» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Watch: Man smashes Chinese government building with excavator», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Gadi Eisenkot has vowed to oust Benjamin Netanyahu, but still has to get enough parties on board Israel's new parliament has been sworn in, as opposition leader Gadi Eisenkot seeks to oust caretaker Prime Minister Benjamin Netanyahu The former army chief has been tasked with forming a government after receiving more recommendations from members of the Knesset than Netanyahu, although not all those backing him are willing to govern together Eisenkot's bloc of four parties won 48 seats in October's election, while Netanyahu's bloc won 53, leaving both short of a majority in the 120-seat Knesset.",
+      "why": "«Israel's new parliament sworn in as leaders compete to form government» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Israel's new parliament sworn in as leaders compete to form government», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
       "source": "BBC World",
-      "published": "2026-11-10T09:37:15+00:00",
-      "age_hours": 1.2,
+      "published": "2026-11-10T17:03:16+00:00",
+      "age_hours": 1.5,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-mundo-003",
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -182,39 +119,68 @@
       "primary_source": "BBC World",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Police in China's Shaanxi province say they have detained a 47-year-old man for damaging a government building with \"construction machinery\" on Monday afternoon Videos circulating on social media show an excavator tearing down the facade of the building. Local media reported that staff inside the building were urgently evacuated No one was injured in the incident, said the police, who did not provide a motive for the act. «Watch: Man smashes Chinese government building with excavator» is worth following because of its possible economic, institutional or regional effects. For «Watch: Man smashes Chinese government building with excavator», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.75,
+      "detailed_summary": "Gadi Eisenkot has vowed to oust Benjamin Netanyahu, but still has to get enough parties on board Israel's new parliament has been sworn in, as opposition leader Gadi Eisenkot seeks to oust caretaker Prime Minister Benjamin Netanyahu The former army chief has been tasked with forming a government after receiving more recommendations from members of the Knesset than Netanyahu, although not all those backing him are willing to govern together Eisenkot's bloc of four parties won 48 seats in October's election, while Netanyahu's bloc won 53, leaving both short of a majority in the 120-seat Knesset. «Israel's new parliament sworn in as leaders compete to form government» is worth following because of its possible economic, institutional or regional effects. For «Israel's new parliament sworn in as leaders compete to form government», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.69,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Iran denies role in fridge hack, France summons ambassador",
+      "summary": "France has said it rules \"nothing\" out in response to a cyberattack on supermarket refrigeration units. Iran, however, said it categorically rejected Paris' \"baseless and one-sided accusations\" of IRGC involvement",
+      "why": "«Iran denies role in fridge hack, France summons ambassador» helps explain a concrete economic or business change relevant to Mundo.",
+      "impact": "For «Iran denies role in fridge hack, France summons ambassador», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "source": "DW English",
+      "published": "2026-11-10T15:57:00+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-008",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "France has said it rules \"nothing\" out in response to a cyberattack on supermarket refrigeration units. Iran, however, said it categorically rejected Paris' \"baseless and one-sided accusations\" of IRGC involvement. «Iran denies role in fridge hack, France summons ambassador» helps explain a concrete economic or business change relevant to Mundo. For «Iran denies role in fridge hack, France summons ambassador», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
+      "editorial_score": 10.46,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "África",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
-      "summary": "Voters cast their ballots at a polling station during South Africa's local government elections in Johannesburg South Africa's ANC has recorded its worst-ever showing in local elections since Nelson Mandela led the country out of apartheid and into democracy more than 30 years ago, a result the party has called \"catastrophic\" While it won the most votes of all parties in the country, the African National Congress won 31% of the overall vote, one third down from the 46% it gained in 2021, and a far cry from the 65% 20 years ago The story of its decline is also clear in the provinces and cities. The party won a majority in just one of the country's nine provinces, Limpopo. In 2021 it won six. It also won the most votes in just two of the eight cities, compared with six at the last local elections The Democratic Alliance (DA) came second in the overall vote with 25%, retaining majority control of the city of Cape Town.",
-      "why": "«'Devastating message' as ANC records worst-ever result in South Africa election» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «'Devastating message' as ANC records worst-ever result in South Africa election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "source": "BBC Africa",
-      "published": "2026-11-08T17:51:03+00:00",
-      "age_hours": 41.0,
-      "within_24h": false,
-      "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+      "title": "DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels",
+      "summary": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders Some 66 soldiers have been sentenced to death in DR Congo on charges of cowardice, mutiny, and failure to obey orders. The sentence was handed down by the Goma Garrison Military Court At least 71 members of the Armed Forces of the Democratic Republic of Congo (FARDC) were arrested in several separate incidents related to the fierce fighting between the military and rebel groups near the country's borders with Uganda, Rwanda, and Burundi They were arrested on allegations of abandoning their posts or running away from clashes with FRN rebels. Prosecutors had sought capital punishment for 70 of the defendants, while asking for a 10-year jail term for an intelligence officer.",
+      "why": "«DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "DW English",
+      "published": "2026-11-10T09:43:00+00:00",
+      "age_hours": 8.8,
+      "within_24h": true,
+      "link": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "BBC Africa"
+        "DW English"
       ],
-      "primary_source": "BBC Africa",
-      "status": "update",
+      "primary_source": "DW English",
+      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Voters cast their ballots at a polling station during South Africa's local government elections in Johannesburg South Africa's ANC has recorded its worst-ever showing in local elections since Nelson Mandela led the country out of apartheid and into democracy more than 30 years ago, a result the party has called \"catastrophic\" While it won the most votes of all parties in the country, the African National Congress won 31% of the overall vote, one third down from the 46% it gained in 2021, and a far cry from the 65% 20 years ago The story of its decline is also clear in the provinces and cities. The party won a majority in just one of the country's nine provinces, Limpopo. In 2021 it won six. It also won the most votes in just two of the eight cities, compared with six at the last local elections The Democratic Alliance (DA) came second in the overall vote with 25%, retaining majority control of the city of Cape Town. «'Devastating message' as ANC records worst-ever result in South Africa election» is worth following because of its possible economic, institutional or regional effects. For «'Devastating message' as ANC records worst-ever result in South Africa election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 7.97,
+      "detailed_summary": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders Some 66 soldiers have been sentenced to death in DR Congo on charges of cowardice, mutiny, and failure to obey orders. The sentence was handed down by the Goma Garrison Military Court At least 71 members of the Armed Forces of the Democratic Republic of Congo (FARDC) were arrested in several separate incidents related to the fierce fighting between the military and rebel groups near the country's borders with Uganda, Rwanda, and Burundi They were arrested on allegations of abandoning their posts or running away from clashes with FRN rebels. Prosecutors had sought capital punishment for 70 of the defendants, while asking for a 10-year jail term for an intelligence officer. «DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels» deserves attention because it may change political, diplomatic or security risks. For «DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 10.17,
       "source_tier": "A",
-      "editorial_status": "ACTUALIZAÇÃO"
+      "editorial_status": "HOJE"
     }
   ],
   "watch": [
@@ -236,9 +202,9 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 1,
-    "África": 2,
-    "Mundo": 4
+    "Moçambique": 2,
+    "África": 1,
+    "Mundo": 3
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

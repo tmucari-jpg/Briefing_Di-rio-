@@ -1,10 +1,84 @@
 {
-  "updated_at": "2026-11-10T10:50:51.646628+00:00",
+  "updated_at": "2026-11-10T18:30:21.435319+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado",
+      "summary": "Os Estados Unidos da América querem reforçar a cooperação militar e de segurança com Moçambique, com enfoque na província de Cabo Delgado. A intenção passa pela intensificação dos exercícios conjuntos, formação das Forças de Defesa e Segurança e partilha de informações para combater o terrorismo e proteger os investimentos no sector do gás natural. A […]",
+      "why": "«EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "O País",
+      "published": "2026-11-10T18:24:55+00:00",
+      "age_hours": 0.1,
+      "within_24h": true,
+      "link": "https://opais.co.mz/eua-querem-reforcar-cooperacao-militar-com-mocambique-em-cabo-delgado/",
+      "original_source": true,
+      "event_id": "evt-mocambique-001",
+      "cluster_size": 3,
+      "source_count": 2,
+      "sources": [
+        "O País",
+        "Jornal Notícias"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Jornal Notícias",
+          "title": "Cabo Delgado aposta em novas técnicas para enfrentar o El Niño",
+          "link": "https://www.jornalnoticias.co.mz/destaque/cabo-delgado-aposta-em-novas-tecnicas-para-enfrentar-o-el-nino/"
+        },
+        {
+          "source": "Jornal Notícias",
+          "title": "Moçambique e Portugal reforçam cooperação em diversos domínios",
+          "link": "https://www.jornalnoticias.co.mz/destaque/mocambique-e-portugal-reforcam-cooperacao-em-diversos-dominios/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "Os Estados Unidos da América querem reforçar a cooperação militar e de segurança com Moçambique, com enfoque na província de Cabo Delgado. A intenção passa pela intensificação dos exercícios conjuntos, formação das Forças de Defesa e Segurança e partilha de informações para combater o terrorismo e proteger os investimentos no sector do gás natural. A […]. «EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 17.48,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Boane retoma produção agrícola em Massaca",
+      "summary": "O distrito de Boane, na província de Maputo, conta com mais 7,3 hectares preparados para a produção agrícola irrigada, na sequência da recuperação da primeira fase do Regadio de Massaca, paralisado em 2015. A intervenção, 11 anos depois, inclui dois tanques piscícolas em betão e outras infra-estruturas de apoio, num investimento superior a cinco milhões de meticais e deverá beneficiar mais de 80 produtores. Na cerimónia de entrega, o governador da província de Maputo, Manuel Tule, revelou que dos 51 regadios existentes na província, com uma área potencial de quatro mil hectares, apenas 2.064 estão em plena exploração. Apontou a degradação dos canais, avarias de moto-bombas, dificuldades de acesso à energia e combustível, salinização dos solos e efeitos das cheias entre os factores que condicionam o funcionamento destas infra-estruturas, defendendo a recuperação dos sistemas de irrigação para reduzir a dependência das chuvas. Por sua vez, a presidente do Município de Boane, Geraldina Uchavo, defendeu o aumento da produção hortícola para abastecer os mercados do Grande Maputo.",
+      "why": "«Boane retoma produção agrícola em Massaca» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Boane retoma produção agrícola em Massaca», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-10T11:25:23+00:00",
+      "age_hours": 7.1,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/sociedade-nacional/boane-retoma-producao-agricola-em-massaca/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "O distrito de Boane, na província de Maputo, conta com mais 7,3 hectares preparados para a produção agrícola irrigada, na sequência da recuperação da primeira fase do Regadio de Massaca, paralisado em 2015. A intervenção, 11 anos depois, inclui dois tanques piscícolas em betão e outras infra-estruturas de apoio, num investimento superior a cinco milhões de meticais e deverá beneficiar mais de 80 produtores. Na cerimónia de entrega, o governador da província de Maputo, Manuel Tule, revelou que dos 51 regadios existentes na província, com uma área potencial de quatro mil hectares, apenas 2.064 estão em plena exploração. Apontou a degradação dos canais, avarias de moto-bombas, dificuldades de acesso à energia e combustível, salinização dos solos e efeitos das cheias entre os factores que condicionam o funcionamento destas infra-estruturas, defendendo a recuperação dos sistemas de irrigação para reduzir a dependência das chuvas. Por sua vez, a presidente do Município de Boane, Geraldina Uchavo, defendeu o aumento da produção hortícola para abastecer os mercados do Grande Maputo. «Boane retoma produção agrícola em Massaca» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Boane retoma produção agrícola em Massaca», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.52,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
     {
       "section": "Moçambique",
       "tags": [
@@ -17,11 +91,11 @@
       "impact": "No caso de «Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-11-10T10:45:17+00:00",
-      "age_hours": 0.1,
+      "age_hours": 7.7,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/10/zambia-sociedade-civil-exige-divulgacao-de-acordo-de-saude-de-15-mil-milhoes-de-dolares/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -31,7 +105,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "Maputo, 10 de Nov (AIM) – Organizações da sociedade civil da Zâmbia exigem que o Governo divulgue integralmente o acordo de financiamento da saúde de 1,5 mil milhões de dólares assinado com os Estados Unidos de América, alegando falta de transparência e pedindo esclarecimentos sobre possíveis ligações entre a assistência médica e o acesso aos recursos minerais do país. O pedido consta de um comunicado divulgado esta semana por uma coligação que integra organizações como a ActionAid Zambia, Publish What You Pay Zambia, Oxfam, Fight Inequality Alliance e Zambia Alliance for Women. O acordo, assinado pelos dois governos a 8 de Outubro, prevê a disponibilização de cerca de 1,5 mil milhões de dólares para financiar o sector da saúde zambiano durante cinco anos. Segundo as organizações, o entendimento resulta de um memorando assinado em Março de 2026, que terá previsto a partilha de dados de pacientes, amostras biológicas e outras formas de cooperação em áreas como inteligência artificial, tecnologia de defesa, energia e infra-estruturas. «Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.98,
+      "editorial_score": 13.4,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -47,11 +121,11 @@
       "impact": "No caso de «Governo apresenta em Doha prioridades para acelerar digitalização do país», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
       "source": "AIM Notícias",
       "published": "2026-11-10T10:05:28+00:00",
-      "age_hours": 0.8,
+      "age_hours": 8.4,
       "within_24h": true,
       "link": "https://aimnews.org/2026/11/10/governo-apresenta-em-doha-prioridades-para-acelerar-digitalizacao-do-pais/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -61,45 +135,38 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Maputo, 10 de Nove (AIM) – Moçambique apresentou, em Doha, no Qatar, as prioridades para acelerar a transformação digital do país, com enfoque na expansão da Internet de banda larga, implementação da tecnologia 5G, utilização da inteligência artificial e reforço da cibersegurança e da protecção de dados. A posição foi apresentada pelo Ministro das Comunicações e Transformação Digital, Américo Muchanga, durante a Conferência de Plenipotenciários da União Internacional das Telecomunicações (UIT 2026), que decorre de 9 a 12 de Novembro, em Doha. Na sua intervenção, o governante destacou a visão de Moçambique para a construção de uma sociedade digital inclusiva, segura e sustentável, assente na inovação tecnológica e na utilização das tecnologias de informação e comunicação como instrumentos de desenvolvimento. Entre as prioridades apresentadas consta igualmente a aplicação da inteligência artificial e do Big Data na prevenção e gestão de desastres, com vista ao reforço da capacidade de antecipação e resposta a fenómenos que afectam o país. «Governo apresenta em Doha prioridades para acelerar digitalização do país» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Governo apresenta em Doha prioridades para acelerar digitalização do país», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 14.83,
+      "editorial_score": 13.25,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Moçambique",
+      "section": "Mundo",
       "tags": [
-        "IA"
+        "Economia",
+        "Segurança"
       ],
-      "title": "Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar",
-      "summary": "O Presidente da República, Daniel Chapo, e o Presidente da Assembleia da República Portuguesa, José Pedro Aguiar-Branco, defendem o reforço da cooperação entre Moçambique e Portugal, com a abertura de novas áreas de colaboração nos domínios digital e da inteligência artificial. O assunto foi abordado esta terça-feira, em Maputo, durante uma audiência concedida pelo Chefe […]",
-      "why": "«Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "O País",
-      "published": "2026-11-10T10:04:57+00:00",
-      "age_hours": 0.8,
+      "title": "EUA afastam necessidade de nova ofensiva militar contra Teerão",
+      "summary": "O secretário de Estado norte-americano, Marco Rubio, afirmou hoje que a pressão económica sobre o Irão torna desnecessária uma nova ofensiva militar, mas acusou Teerão de apresentar condições \"absurdas\" para um acordo de paz \"A campanha de pressão económica contra o Irão é tão devastadora que não há necessidade, neste momento, de grandes operações de combate\", declarou Rubio, após uma reunião dos ministros dos Negócios Estrangeiros do G7, em Paris \"Foi isso que disse hoje aos nossos aliados\", acrescentou o chefe da diplomacia norte-americana Rubio avisou, contudo, que Washington mantém a possibilidade de recorrer à força militar caso as autoridades iranianas ultrapassem determinadas linhas vermelhas \"Obviamente, se o Irão ultrapassar certas linhas vermelhas, se o seu regime fizer determinadas coisas que não deveriam acontecer, as Forças Armadas norte-americanas, a força militar mais capaz do mundo, estão preparadas para responder\", afirmou Rubio O secretário de Estado garantiu igualmente que Washington continua disponível para negociar um acordo que permita terminar a guerra, mas…",
+      "why": "«EUA afastam necessidade de nova ofensiva militar contra Teerão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «EUA afastam necessidade de nova ofensiva militar contra Teerão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-10T18:25:50+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-e-portugal-preparam-novas-areas-de-cooperacao-digital-e-parlamentar/",
+      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eua-afastam-necessidade-de-nova-ofensiva-militar-contra-teerao_n1778176",
       "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 2,
-      "source_count": 2,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "O País",
-        "Jornal Notícias"
+        "RTP Notícias"
       ],
-      "primary_source": "O País",
+      "primary_source": "RTP Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Jornal Notícias",
-          "title": "Moçambique e Portugal reforçam cooperação em diversos domínios",
-          "link": "https://www.jornalnoticias.co.mz/destaque/mocambique-e-portugal-reforcam-cooperacao-em-diversos-dominios/"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, e o Presidente da Assembleia da República Portuguesa, José Pedro Aguiar-Branco, defendem o reforço da cooperação entre Moçambique e Portugal, com a abertura de novas áreas de colaboração nos domínios digital e da inteligência artificial. O assunto foi abordado esta terça-feira, em Maputo, durante uma audiência concedida pelo Chefe […]. «Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 14.33,
-      "source_tier": "B",
+      "detailed_summary": "O secretário de Estado norte-americano, Marco Rubio, afirmou hoje que a pressão económica sobre o Irão torna desnecessária uma nova ofensiva militar, mas acusou Teerão de apresentar condições \"absurdas\" para um acordo de paz \"A campanha de pressão económica contra o Irão é tão devastadora que não há necessidade, neste momento, de grandes operações de combate\", declarou Rubio, após uma reunião dos ministros dos Negócios Estrangeiros do G7, em Paris \"Foi isso que disse hoje aos nossos aliados\", acrescentou o chefe da diplomacia norte-americana Rubio avisou, contudo, que Washington mantém a possibilidade de recorrer à força militar caso as autoridades iranianas ultrapassem determinadas linhas vermelhas \"Obviamente, se o Irão ultrapassar certas linhas vermelhas, se o seu regime fizer determinadas coisas que não deveriam acontecer, as Forças Armadas norte-americanas, a força militar mais capaz do mundo, estão preparadas para responder\", afirmou Rubio O secretário de Estado garantiu igualmente que Washington continua disponível para negociar um acordo que permita terminar a guerra, mas… «EUA afastam necessidade de nova ofensiva militar contra Teerão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «EUA afastam necessidade de nova ofensiva militar contra Teerão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.98,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -107,15 +174,15 @@
       "tags": [
         "Economia"
       ],
-      "title": "Governo avalia apoio para estudantes em Portugal",
-      "summary": "O Governo está a avaliar medidas para melhorar a integração e o acompanhamento de cerca de três mil estudantes moçambicanos em Portugal, em alinhamento com a visão de valorização do capital humano. As medidas decorrem das recomendações apresentadas durante um encontro realizado em Lisboa, entre o Secretário de Estado da Ciência e Ensino Superior, Isaú Meneses, e representantes dos estudantes moçambicanos. Entre as principais prioridades destacam-se o reforço da articulação com a Agência para a Integração, Migrações e Asilo (AIMA), a melhoria do acolhimento dos novos estudantes e a criação de uma plataforma de comunicação, com vista a responder aos desafios relacionados com a regularização documental, bolsas de estudo e integração. Isaú Meneses assegurou o encaminhamento das preocupações apresentadas e destacou as reformas em curso para melhorar a qualidade do ensino superior em Moçambique. O conteúdo Governo avalia apoio para estudantes em Portugal aparece primeiro em Jornal Notícias",
-      "why": "«Governo avalia apoio para estudantes em Portugal» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo avalia apoio para estudantes em Portugal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "title": "“Planificação e Desenvolvimento” em Conselho Coordenador na Matola",
+      "summary": "O Ministério da Planificação e Desenvolvimento (MPD) realiza, a partir desta quarta até sexta-feira (11 a 13 de Novembro), na cidade da Matola, província de Maputo, o seu II Conselho Coordenador, a decorrer sob o lema “Por uma Planificação Transformadora Focada em Resultados e com Impacto no Desenvolvimento Socio-Económico do país”. A sessão solene de abertura será dirigida pelo ministro da Planificação e Desenvolvimento, Salim Valá e reúne cerca de 120 participantes, entre dirigentes e quadros superiores, representantes de instituições tuteladas e responsáveis provinciais de planificação, indica o comunicado de imprensa. O evento visa discutir as prioridades estratégicas de desenvolvimento para 2027 e avaliar os resultados alcançados este ano, marcado pela desaceleração económica, restrições fiscais, choques climáticos e necessidade de criação de mais oportunidades de emprego e rendimento.",
+      "why": "«“Planificação e Desenvolvimento” em Conselho Coordenador na Matola» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «“Planificação e Desenvolvimento” em Conselho Coordenador na Matola», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
       "source": "Jornal Notícias",
-      "published": "2026-11-10T10:28:44+00:00",
-      "age_hours": 0.4,
+      "published": "2026-11-10T12:38:55+00:00",
+      "age_hours": 5.9,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/governo-avalia-apoio-para-estudantes-em-portugal/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/planificacao-e-desenvolvimento-em-conselho-coordenador-na-matola/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -125,188 +192,97 @@
       ],
       "primary_source": "Jornal Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo está a avaliar medidas para melhorar a integração e o acompanhamento de cerca de três mil estudantes moçambicanos em Portugal, em alinhamento com a visão de valorização do capital humano. As medidas decorrem das recomendações apresentadas durante um encontro realizado em Lisboa, entre o Secretário de Estado da Ciência e Ensino Superior, Isaú Meneses, e representantes dos estudantes moçambicanos. Entre as principais prioridades destacam-se o reforço da articulação com a Agência para a Integração, Migrações e Asilo (AIMA), a melhoria do acolhimento dos novos estudantes e a criação de uma plataforma de comunicação, com vista a responder aos desafios relacionados com a regularização documental, bolsas de estudo e integração. Isaú Meneses assegurou o encaminhamento das preocupações apresentadas e destacou as reformas em curso para melhorar a qualidade do ensino superior em Moçambique. O conteúdo Governo avalia apoio para estudantes em Portugal aparece primeiro em Jornal Notícias. «Governo avalia apoio para estudantes em Portugal» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo avalia apoio para estudantes em Portugal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.92,
+      "opportunity_flag": true,
+      "detailed_summary": "O Ministério da Planificação e Desenvolvimento (MPD) realiza, a partir desta quarta até sexta-feira (11 a 13 de Novembro), na cidade da Matola, província de Maputo, o seu II Conselho Coordenador, a decorrer sob o lema “Por uma Planificação Transformadora Focada em Resultados e com Impacto no Desenvolvimento Socio-Económico do país”. A sessão solene de abertura será dirigida pelo ministro da Planificação e Desenvolvimento, Salim Valá e reúne cerca de 120 participantes, entre dirigentes e quadros superiores, representantes de instituições tuteladas e responsáveis provinciais de planificação, indica o comunicado de imprensa. O evento visa discutir as prioridades estratégicas de desenvolvimento para 2027 e avaliar os resultados alcançados este ano, marcado pela desaceleração económica, restrições fiscais, choques climáticos e necessidade de criação de mais oportunidades de emprego e rendimento. «“Planificação e Desenvolvimento” em Conselho Coordenador na Matola» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «“Planificação e Desenvolvimento” em Conselho Coordenador na Matola», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 12.77,
       "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi",
-      "summary": "Abu Dabhi acolhe as primeiras conversações desde fevereiro que vão ter por base a proposta dos EUA para uma \"arquitetura de segurança a longo prazo\" entre Moscovo e a Europa. As autoridades norte-americanas querem um \"fim definitivo\" para a guerra entre a Rússia e a Ucrânia",
-      "why": "«\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-10T09:24:22+00:00",
-      "age_hours": 1.4,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/fim-definitivo-a-procura-da-paz-para-a-ucrania-em-abu-dhabi_n1778032",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 6,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Ucrânia. Trump mantém otimismo na paz apesar da violência no terreno",
-          "link": "https://www.rtp.pt/noticias/mundo/ucrania-trump-mantem-otimismo-na-paz-apesar-da-violencia-no-terreno_v1778037"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Rússia intensifica bombardeamentos contra estruturas enérgéticas da Ucrânia",
-          "link": "https://www.rtp.pt/noticias/mundo/russia-intensifica-bombardeamentos-contra-estruturas-energeticas-da-ucrania_v1777962"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Abu Dabhi acolhe as primeiras conversações desde fevereiro que vão ter por base a proposta dos EUA para uma \"arquitetura de segurança a longo prazo\" entre Moscovo e a Europa. As autoridades norte-americanas querem um \"fim definitivo\" para a guerra entre a Rússia e a Ucrânia. «\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 12.71,
-      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "África",
       "tags": [
-        "Segurança"
+        "Energia"
       ],
-      "title": "África do Sul detém nove suspeitos de recrutamento militar para a Rússia",
-      "summary": "Nove estrangeiros foram detidos na África do Sul, suspeitos de tentarem viajar para a Rússia com o objectivo de combater na guerra contra a Ucrânia. As detenções ocorreram no Aeroporto Internacional O.R. Tambo e num hotel próximo, em Joanesburgo, na sequência de uma investigação que envolveu os serviços de informações, a Interpol e forças de […]",
-      "why": "«África do Sul detém nove suspeitos de recrutamento militar para a Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «África do Sul detém nove suspeitos de recrutamento militar para a Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "O País",
-      "published": "2026-11-10T07:32:42+00:00",
-      "age_hours": 3.3,
+      "title": "Alterações climáticas. Impacto desproporcional em África",
+      "summary": "O aquecimento global agrava os riscos climáticos em África. O Instituto de Recursos Mundiais refere a crise climática como \"o exemplo perfeito da injustiça\". O continente representa apenas dois a três por cento das emissões globais de gases com efeito de estufa",
+      "why": "«Alterações climáticas. Impacto desproporcional em África» merece atenção porque pode alterar decisões de energia e investimento em África.",
+      "impact": "No caso de «Alterações climáticas. Impacto desproporcional em África», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
+      "source": "RTP Notícias",
+      "published": "2026-11-10T15:35:47+00:00",
+      "age_hours": 2.9,
       "within_24h": true,
-      "link": "https://opais.co.mz/africa-do-sul-detem-nove-suspeitos-de-recrutamento-militar-para-a-russia/",
+      "link": "https://www.rtp.pt/noticias/mundo/alteracoes-climaticas-impacto-desproporcional-em-africa_v1778153",
       "original_source": true,
       "event_id": "evt-áfrica-001",
       "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Nove estrangeiros foram detidos na África do Sul, suspeitos de tentarem viajar para a Rússia com o objectivo de combater na guerra contra a Ucrânia. As detenções ocorreram no Aeroporto Internacional O.R. Tambo e num hotel próximo, em Joanesburgo, na sequência de uma investigação que envolveu os serviços de informações, a Interpol e forças de […]. «África do Sul detém nove suspeitos de recrutamento militar para a Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «África do Sul detém nove suspeitos de recrutamento militar para a Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 12.31,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Chapo lança “PROSPERA” para aproximar produtores dos mercados",
-      "summary": "O Presidente da República, Daniel Chapo, lançou, esta segunda-feira, na província de Niassa, a iniciativa PROSPERA, que visa facilitar o acesso dos produtores dos sectores da agricultura, pecuária e pescas à assistência técnica, informação, financiamento e mercados. O lançamento teve lugar no povoado de Miala, distrito de Sanga, no âmbito da cerimónia central da Campanha […]",
-      "why": "«Chapo lança “PROSPERA” para aproximar produtores dos mercados» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Chapo lança “PROSPERA” para aproximar produtores dos mercados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-11-10T10:15:51+00:00",
-      "age_hours": 0.6,
-      "within_24h": true,
-      "link": "https://opais.co.mz/chapo-lanca-prospera-para-aproximar-produtores-dos-mercados/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "O País",
-        "AIM Notícias"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "AIM Notícias",
-          "title": "Moçambique lança PROSPERA para transformar a produção agrária",
-          "link": "https://aimnews.org/2026/11/09/mocambique-lanca-prospera-para-transformar-a-producao-agraria/"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, lançou, esta segunda-feira, na província de Niassa, a iniciativa PROSPERA, que visa facilitar o acesso dos produtores dos sectores da agricultura, pecuária e pescas à assistência técnica, informação, financiamento e mercados. O lançamento teve lugar no povoado de Miala, distrito de Sanga, no âmbito da cerimónia central da Campanha […]. «Chapo lança “PROSPERA” para aproximar produtores dos mercados» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo lança “PROSPERA” para aproximar produtores dos mercados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 11.38,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso",
-      "summary": "O secretário da Defesa dos Estados Unidos, Pete Hegseth, enfrenta um processo de destituição promovido pelo republicano Thomas Massie, devido à gestão do conflito no Irão",
-      "why": "«Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-10T08:18:47+00:00",
-      "age_hours": 2.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/irao-pete-hegseth-enfrenta-ameaca-de-destituicao-no-congresso_v1778034",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 3,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Iniciado processo de destituição contra secretário de Defesa dos EUA no Congresso",
-          "link": "https://www.rtp.pt/noticias/mundo/iniciado-processo-de-destituicao-contra-secretario-de-defesa-dos-eua-no-congresso_n1777977"
-        },
-        {
-          "source": "RTP Notícias",
-          "title": "Secretário da Defesa dos EUA defende guerra face a ameaça de destituição",
-          "link": "https://www.rtp.pt/noticias/mundo/secretario-da-defesa-dos-eua-defende-guerra-face-a-ameaca-de-destituicao_n1777940"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "O secretário da Defesa dos Estados Unidos, Pete Hegseth, enfrenta um processo de destituição promovido pelo republicano Thomas Massie, devido à gestão do conflito no Irão. «Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 10.48,
+      "detailed_summary": "O aquecimento global agrava os riscos climáticos em África. O Instituto de Recursos Mundiais refere a crise climática como \"o exemplo perfeito da injustiça\". O continente representa apenas dois a três por cento das emissões globais de gases com efeito de estufa. «Alterações climáticas. Impacto desproporcional em África» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Alterações climáticas. Impacto desproporcional em África», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
+      "editorial_score": 11.4,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "IA",
         "Economia"
       ],
-      "title": "MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline",
-      "summary": "Prevê-se que a economia móvel do Médio Oriente e Norte de África atinja 421 mil milhões de euros até 2030, mas um novo relatório do sector sublinha um problema persistente: o crescimento económico está a acelerar, mas milhões de pessoas continuam sem beneficiar da economia digital.O relatório Mobile Economy MENA 2026 da GSMA, divulgado no dia de abertura do MWC26 Doha, revelou que as tecnologias e serviços móveis geraram, em 2025, um valor económico estimado em 340 mil milhões de euros, sustentando 2,2 milhões de postos de trabalho e contribuindo com cerca de 35,8 mil milhões de euros para as finanças públicas.Entretanto, 48 % da população da região MENA usou internet móvel no ano passado, enquanto 49 % continuou offline apesar de viver em zonas com cobertura de rede móvel.Os números evidenciam um desafio que vai além da infraestrutura: garantir que as pessoas possam pagar, aceder e utilizar a tecnologia que têm ao seu alcance.Doha no centro do debate global sobre conectividadeO MWC26 Doha deste ano ganha importância acrescida por decorrer em paralelo com a Conferência de…",
-      "why": "«MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-10T06:00:17+00:00",
-      "age_hours": 4.8,
+      "title": "Grupo ligado a ataque a supermercados é gerido por divisão das forças armadas iranianas",
+      "summary": "O governo francês acusou o grupo Shahid Kaveh de ser o responsável pelo ataque \"sem precedentes\" aos sistemas de refrigeração de 700 supermercados. De acordo com as investigações mais recentes, os hackers liderados por Teerão fazem-se passar por vigilantes antes dos ataques",
+      "why": "«Grupo ligado a ataque a supermercados é gerido por divisão das forças armadas iranianas» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Grupo ligado a ataque a supermercados é gerido por divisão das forças armadas iranianas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-10T17:28:03+00:00",
+      "age_hours": 1.0,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/10/mena-economia-movel-deve-atingir-421-mil-milhoes-milhoes-continuam-offline",
+      "link": "https://www.rtp.pt/noticias/mundo/grupo-ligado-a-ataque-a-supermercados-e-gerido-por-divisao-das-forcas-armadas-iranianas_n1778180",
       "original_source": true,
-      "event_id": "evt-mundo-007",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Euronews Português"
+        "RTP Notícias"
       ],
-      "primary_source": "Euronews Português",
+      "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Prevê-se que a economia móvel do Médio Oriente e Norte de África atinja 421 mil milhões de euros até 2030, mas um novo relatório do sector sublinha um problema persistente: o crescimento económico está a acelerar, mas milhões de pessoas continuam sem beneficiar da economia digital.O relatório Mobile Economy MENA 2026 da GSMA, divulgado no dia de abertura do MWC26 Doha, revelou que as tecnologias e serviços móveis geraram, em 2025, um valor económico estimado em 340 mil milhões de euros, sustentando 2,2 milhões de postos de trabalho e contribuindo com cerca de 35,8 mil milhões de euros para as finanças públicas.Entretanto, 48 % da população da região MENA usou internet móvel no ano passado, enquanto 49 % continuou offline apesar de viver em zonas com cobertura de rede móvel.Os números evidenciam um desafio que vai além da infraestrutura: garantir que as pessoas possam pagar, aceder e utilizar a tecnologia que têm ao seu alcance.Doha no centro do debate global sobre conectividadeO MWC26 Doha deste ano ganha importância acrescida por decorrer em paralelo com a Conferência de… «MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 10.0,
-      "source_tier": "C",
+      "opportunity_flag": true,
+      "detailed_summary": "O governo francês acusou o grupo Shahid Kaveh de ser o responsável pelo ataque \"sem precedentes\" aos sistemas de refrigeração de 700 supermercados. De acordo com as investigações mais recentes, os hackers liderados por Teerão fazem-se passar por vigilantes antes dos ataques. «Grupo ligado a ataque a supermercados é gerido por divisão das forças armadas iranianas» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Grupo ligado a ataque a supermercados é gerido por divisão das forças armadas iranianas», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.79,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Energia"
+      ],
+      "title": "COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima",
+      "summary": "Evento em Antália conta com representantes de 200 países; com um forte fenômeno El Niño ameaçando agravar eventos climáticos extremos, negociadores enfrentam questões complexas sobre financiamento climático, energia limpa e a proteção de comunidades que já vivenciam as consequências das mudanças climáticas",
+      "why": "«COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
+      "impact": "No caso de «COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-11-10T12:00:00+00:00",
+      "age_hours": 6.5,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854878",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Evento em Antália conta com representantes de 200 países; com um forte fenômeno El Niño ameaçando agravar eventos climáticos extremos, negociadores enfrentam questões complexas sobre financiamento climático, energia limpa e a proteção de comunidades que já vivenciam as consequências das mudanças climáticas. «COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
+      "editorial_score": 10.65,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -314,46 +290,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA",
-      "summary": "Dias depois de o partido do presidente dos Estados Unidos, Donald Trump, sofrer uma derrota drástica nas eleições intercalares, um deputado republicano avançou com um pedido de destituição do secretário da Defesa dos Estados Unidos, Pete Hegseth, por causa da guerra no Irão, abrindo caminho a uma votação na Câmara dos Representantes já esta semana.O congressista republicano Thomas Massie apresentou oito artigos de acusação em que acusa Hegseth de abusar dos seus poderes e de travar ilegalmente a guerra no Irão.",
-      "why": "«Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-10T06:17:37+00:00",
-      "age_hours": 4.6,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/10/congressista-republicano-apresenta-oito-artigos-para-destituir-secretario-da-defesa-dos-eu",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Dias depois de o partido do presidente dos Estados Unidos, Donald Trump, sofrer uma derrota drástica nas eleições intercalares, um deputado republicano avançou com um pedido de destituição do secretário da Defesa dos Estados Unidos, Pete Hegseth, por causa da guerra no Irão, abrindo caminho a uma votação na Câmara dos Representantes já esta semana.O congressista republicano Thomas Massie apresentou oito artigos de acusação em que acusa Hegseth de abusar dos seus poderes e de travar ilegalmente a guerra no Irão. «Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.04,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "IA"
-      ],
-      "title": "Começa Semana da Ciência e da Paz",
-      "summary": "Com avanço da tecnologia, permanece questionável se a ciência vai unir ou dividir a humanidade; conhecimento só cumpre seu papel quando guiado por ética, diálogo e busca da paz global",
-      "why": "«Começa Semana da Ciência e da Paz» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Começa Semana da Ciência e da Paz», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "title": "Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
+      "summary": "Celebra faz apelo por conhecimento sem fronteiras e paz sem barreiras; agência da ONU sublinha que, em 2026, diplomacia científica lembra que cooperação é a maior ferramenta para sustentabilidade e paz global",
+      "why": "«Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Notícias ONU",
-      "published": "2026-11-09T12:00:00+00:00",
-      "age_hours": 22.8,
+      "published": "2026-11-10T12:00:00+00:00",
+      "age_hours": 6.5,
       "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854866",
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854881",
       "original_source": true,
-      "event_id": "evt-mundo-017",
+      "event_id": "evt-mundo-006",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -362,9 +309,104 @@
       "primary_source": "Notícias ONU",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Com avanço da tecnologia, permanece questionável se a ciência vai unir ou dividir a humanidade; conhecimento só cumpre seu papel quando guiado por ética, diálogo e busca da paz global. «Começa Semana da Ciência e da Paz» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Começa Semana da Ciência e da Paz», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
-      "editorial_score": 7.25,
+      "detailed_summary": "Celebra faz apelo por conhecimento sem fronteiras e paz sem barreiras; agência da ONU sublinha que, em 2026, diplomacia científica lembra que cooperação é a maior ferramenta para sustentabilidade e paz global. «Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.65,
       "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações",
+      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou na segunda-feira que há um impulso para pôr fim à guerra com o Irão, ao declarar que o país “do ponto de vista militar está praticamente derrotado”, mas manteve em aberto a possibilidade de novos ataques.“O Irão, do ponto de vista militar, está praticamente derrotado. Estamos apenas a manter o statu quo”, disse Trump aos jornalistas, na segunda-feira, numa conferência de imprensa na Casa Branca.",
+      "why": "«Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-10T12:13:44+00:00",
+      "age_hours": 6.3,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/11/10/trump-diz-que-a-guerra-com-o-irao-praticamente-terminou-mas-teerao-nega-quaisquer-negociac",
+      "original_source": true,
+      "event_id": "evt-mundo-004",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "Euronews Português",
+        "RTP Notícias"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Irão está \"militarmente acabado\", assegura Trump",
+          "link": "https://www.rtp.pt/noticias/mundo/irao-esta-militarmente-acabado-assegura-trump_n1777992"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O presidente dos Estados Unidos, Donald Trump, afirmou na segunda-feira que há um impulso para pôr fim à guerra com o Irão, ao declarar que o país “do ponto de vista militar está praticamente derrotado”, mas manteve em aberto a possibilidade de novos ataques.“O Irão, do ponto de vista militar, está praticamente derrotado. Estamos apenas a manter o statu quo”, disse Trump aos jornalistas, na segunda-feira, numa conferência de imprensa na Casa Branca. «Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 9.19,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Perto de 64.000 nigerianos refugiaram-se no Níger",
+      "summary": "Perto de 64.000 nigerianos fugiram para o Níger desde o início do ano devido à violência que assola o norte do país, anunciou ontem o Alto Comissariado das Nações Unidas para os Refugiados (ACNUR). “Quase 64.000 pessoas chegaram ao Níger, desde o início do ano, em fuga à violência no norte da Nigéria, o que […]",
+      "why": "«Perto de 64.000 nigerianos refugiaram-se no Níger» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Perto de 64.000 nigerianos refugiaram-se no Níger», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "source": "O País",
+      "published": "2026-11-10T14:23:23+00:00",
+      "age_hours": 4.1,
+      "within_24h": true,
+      "link": "https://opais.co.mz/perto-de-64-000-nigerianos-refugiaram-se-no-niger/",
+      "original_source": true,
+      "event_id": "evt-áfrica-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Perto de 64.000 nigerianos fugiram para o Níger desde o início do ano devido à violência que assola o norte do país, anunciou ontem o Alto Comissariado das Nações Unidas para os Refugiados (ACNUR). “Quase 64.000 pessoas chegaram ao Níger, desde o início do ano, em fuga à violência no norte da Nigéria, o que […]. «Perto de 64.000 nigerianos refugiaram-se no Níger» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Perto de 64.000 nigerianos refugiaram-se no Níger», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 9.15,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden",
+      "summary": "Os conflitos no Corno de África, no Iémen e no Irão suscitaram preocupação sobre a forma como a instabilidade na região poderá fomentar indiretamente a pirataria num ponto de passagem crítico entre o Ocidente e a Ásia, segundo indicaram comandantes da força naval da União Europeia sediados em Djibuti.A agência Associated Press (AP) acompanhou a fragata espanhola Santa María numa das suas patrulhas habituais a partir de Djibuti em direção ao golfo de Áden, com o Iémen a norte e a Somalilândia e a Somália a sul.Mais de 200 marinheiros, incluindo uma equipa de operações especiais treinada para recuperar navios capturados por piratas, encontram-se destacados no navio-almirante da Operação Atalanta, a missão antipirataria da Força Naval da União Europeia.O comodoro português, José Rodrigues Pedra, ao comando da operação, explicou a partir da ponte da Santa María que, embora os combates no Iémen, no Irão e noutras zonas da região não estejam ligados diretamente ao recente aumento da atividade pirata, “uma crise gera outra crise”.Há mais de duas décadas, a pirataria abalou esta parte do…",
+      "why": "«Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "Euronews Português",
+      "published": "2026-11-10T12:59:30+00:00",
+      "age_hours": 5.5,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/11/10/espanha-combate-pirataria-fragata-santa-maria-patrulha-o-golfo-de-aden",
+      "original_source": true,
+      "event_id": "evt-áfrica-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Os conflitos no Corno de África, no Iémen e no Irão suscitaram preocupação sobre a forma como a instabilidade na região poderá fomentar indiretamente a pirataria num ponto de passagem crítico entre o Ocidente e a Ásia, segundo indicaram comandantes da força naval da União Europeia sediados em Djibuti.A agência Associated Press (AP) acompanhou a fragata espanhola Santa María numa das suas patrulhas habituais a partir de Djibuti em direção ao golfo de Áden, com o Iémen a norte e a Somalilândia e a Somália a sul.Mais de 200 marinheiros, incluindo uma equipa de operações especiais treinada para recuperar navios capturados por piratas, encontram-se destacados no navio-almirante da Operação Atalanta, a missão antipirataria da Força Naval da União Europeia.O comodoro português, José Rodrigues Pedra, ao comando da operação, explicou a partir da ponte da Santa María que, embora os combates no Iémen, no Irão e noutras zonas da região não estejam ligados diretamente ao recente aumento da atividade pirata, “uma crise gera outra crise”.Há mais de duas décadas, a pirataria abalou esta parte do… «Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 6.85,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     }
   ],
@@ -388,7 +430,7 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 1,
+    "África": 3,
     "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
