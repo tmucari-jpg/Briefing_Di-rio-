@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T21:24:03.636864+00:00",
+  "updated_at": "2026-11-10T10:50:51.646628+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,17 +8,18 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Economia"
+        "Energia",
+        "IA"
       ],
-      "title": "CPLP é a oitava maior economia do mundo",
-      "summary": "Maputo, 9 Nov (AIM) – O presidente da Assembleia da República de Portugal, José Pedro Aguiar-Branco, afirmou esta segunda-feira, em Maputo, que a Comunidade dos Países de Língua Portuguesa (CPLP) é a quinta maior exportadora para a China e representa a oitava maior economia do mundo, destacando o potencial económico e estratégico do espaço lusófono. A declaração foi feita durante uma palestra na Universidade Eduardo Mondlane (UEM), subordinada ao tema «O Papel dos Parlamentos no Espaço da Comunidade dos Países de Língua Portuguesa: 30 Anos de Cooperação e Diálogo», na qual defendeu o reforço dos mecanismos de cooperação entre os Estados-membros. Segundo Aguiar-Branco, a CPLP resulta de uma realidade histórica, cultural e humana que ultrapassa as fronteiras nacionais e se reflecte na circulação de pessoas, na actividade económica e nas relações entre os países de língua portuguesa. «Não foram os políticos que inventaram a CPLP.",
-      "why": "«CPLP é a oitava maior economia do mundo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «CPLP é a oitava maior economia do mundo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares",
+      "summary": "Maputo, 10 de Nov (AIM) – Organizações da sociedade civil da Zâmbia exigem que o Governo divulgue integralmente o acordo de financiamento da saúde de 1,5 mil milhões de dólares assinado com os Estados Unidos de América, alegando falta de transparência e pedindo esclarecimentos sobre possíveis ligações entre a assistência médica e o acesso aos recursos minerais do país. O pedido consta de um comunicado divulgado esta semana por uma coligação que integra organizações como a ActionAid Zambia, Publish What You Pay Zambia, Oxfam, Fight Inequality Alliance e Zambia Alliance for Women. O acordo, assinado pelos dois governos a 8 de Outubro, prevê a disponibilização de cerca de 1,5 mil milhões de dólares para financiar o sector da saúde zambiano durante cinco anos. Segundo as organizações, o entendimento resulta de um memorando assinado em Março de 2026, que terá previsto a partilha de dados de pacientes, amostras biológicas e outras formas de cooperação em áreas como inteligência artificial, tecnologia de defesa, energia e infra-estruturas.",
+      "why": "«Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "AIM Notícias",
-      "published": "2026-11-09T20:20:27+00:00",
-      "age_hours": 1.1,
+      "published": "2026-11-10T10:45:17+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://aimnews.org/2026/11/09/cplp-e-a-oitava-maior-economia-do-mundo/",
+      "link": "https://aimnews.org/2026/11/10/zambia-sociedade-civil-exige-divulgacao-de-acordo-de-saude-de-15-mil-milhoes-de-dolares/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -28,86 +29,29 @@
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 9 Nov (AIM) – O presidente da Assembleia da República de Portugal, José Pedro Aguiar-Branco, afirmou esta segunda-feira, em Maputo, que a Comunidade dos Países de Língua Portuguesa (CPLP) é a quinta maior exportadora para a China e representa a oitava maior economia do mundo, destacando o potencial económico e estratégico do espaço lusófono. A declaração foi feita durante uma palestra na Universidade Eduardo Mondlane (UEM), subordinada ao tema «O Papel dos Parlamentos no Espaço da Comunidade dos Países de Língua Portuguesa: 30 Anos de Cooperação e Diálogo», na qual defendeu o reforço dos mecanismos de cooperação entre os Estados-membros. Segundo Aguiar-Branco, a CPLP resulta de uma realidade histórica, cultural e humana que ultrapassa as fronteiras nacionais e se reflecte na circulação de pessoas, na actividade económica e nas relações entre os países de língua portuguesa. «Não foram os políticos que inventaram a CPLP. «CPLP é a oitava maior economia do mundo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «CPLP é a oitava maior economia do mundo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.77,
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 10 de Nov (AIM) – Organizações da sociedade civil da Zâmbia exigem que o Governo divulgue integralmente o acordo de financiamento da saúde de 1,5 mil milhões de dólares assinado com os Estados Unidos de América, alegando falta de transparência e pedindo esclarecimentos sobre possíveis ligações entre a assistência médica e o acesso aos recursos minerais do país. O pedido consta de um comunicado divulgado esta semana por uma coligação que integra organizações como a ActionAid Zambia, Publish What You Pay Zambia, Oxfam, Fight Inequality Alliance e Zambia Alliance for Women. O acordo, assinado pelos dois governos a 8 de Outubro, prevê a disponibilização de cerca de 1,5 mil milhões de dólares para financiar o sector da saúde zambiano durante cinco anos. Segundo as organizações, o entendimento resulta de um memorando assinado em Março de 2026, que terá previsto a partilha de dados de pacientes, amostras biológicas e outras formas de cooperação em áreas como inteligência artificial, tecnologia de defesa, energia e infra-estruturas. «Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.98,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Moçambique",
       "tags": [
+        "IA",
         "Segurança"
       ],
-      "title": "Moçambique com 85 milhões para combater efeitos do El Niño",
-      "summary": "O Governo moçambicano mobilizou cerca de 85 milhões de dólares para financiar medidas de mitigação dos efeitos do fenómeno El Niño, com destaque para a protecção da produção agrícola e da segurança alimentar no país. O anúncio foi feito pelo Presidente da República, Daniel Chapo, durante o lançamento da Campanha Agrária 2026/2027, na província do […]",
-      "why": "«Moçambique com 85 milhões para combater efeitos do El Niño» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Moçambique com 85 milhões para combater efeitos do El Niño», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "source": "O País",
-      "published": "2026-11-09T18:10:16+00:00",
-      "age_hours": 3.2,
+      "title": "Governo apresenta em Doha prioridades para acelerar digitalização do país",
+      "summary": "Maputo, 10 de Nove (AIM) – Moçambique apresentou, em Doha, no Qatar, as prioridades para acelerar a transformação digital do país, com enfoque na expansão da Internet de banda larga, implementação da tecnologia 5G, utilização da inteligência artificial e reforço da cibersegurança e da protecção de dados. A posição foi apresentada pelo Ministro das Comunicações e Transformação Digital, Américo Muchanga, durante a Conferência de Plenipotenciários da União Internacional das Telecomunicações (UIT 2026), que decorre de 9 a 12 de Novembro, em Doha. Na sua intervenção, o governante destacou a visão de Moçambique para a construção de uma sociedade digital inclusiva, segura e sustentável, assente na inovação tecnológica e na utilização das tecnologias de informação e comunicação como instrumentos de desenvolvimento. Entre as prioridades apresentadas consta igualmente a aplicação da inteligência artificial e do Big Data na prevenção e gestão de desastres, com vista ao reforço da capacidade de antecipação e resposta a fenómenos que afectam o país.",
+      "why": "«Governo apresenta em Doha prioridades para acelerar digitalização do país» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Governo apresenta em Doha prioridades para acelerar digitalização do país», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-10T10:05:28+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://opais.co.mz/mocambique-com-85-milhoes-para-combater-efeitos-do-el-nino/",
+      "link": "https://aimnews.org/2026/11/10/governo-apresenta-em-doha-prioridades-para-acelerar-digitalizacao-do-pais/",
       "original_source": true,
       "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "O País"
-      ],
-      "primary_source": "O País",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Governo moçambicano mobilizou cerca de 85 milhões de dólares para financiar medidas de mitigação dos efeitos do fenómeno El Niño, com destaque para a protecção da produção agrícola e da segurança alimentar no país. O anúncio foi feito pelo Presidente da República, Daniel Chapo, durante o lançamento da Campanha Agrária 2026/2027, na província do […]. «Moçambique com 85 milhões para combater efeitos do El Niño» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Moçambique com 85 milhões para combater efeitos do El Niño», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.33,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Lançado Festival Internacionalde Jazz de Maputo",
-      "summary": "O Governo moçambicano renovou, hoje (9 de Novembro), o seu compromisso de fazer de tudo para facilitar o empreendorismo dos artistas, de modo a valorizar o esforço criativo e tornar previsível o retorno dos investimentos que se fazem no sector. Para o efeito a Secretária de Estado da Cultura, Matilde Muocha, que representou o Presidente da República na cerimónia de lançamento do Festival Internacional de Jazz de Maputo que decorreu na capital do pais, destacou a total disponibilidade do executivo de apoiar todas as iniciativas de fortalecimento das indústrias culturais e criativas. Referiu-se, de forma particular, a acções concretas em curso, promovidas pelo Governo, visando criar condições que tornem viáveis investimentos na área cultural. O Festival internacional de Jazz de Maputo é uma iniciativa da Fundação Moreira Chonguiça que, na voz do seu patrono, deixou a garantia de que o evento vai ocorrer anualmente nos dias 6, 7, 8 e 9 de Novembro, abraçando as celebrações do Dia da Cidade de Maputo, numa parceria com o Conselho Municipal da capital do país.",
-      "why": "«Lançado Festival Internacionalde Jazz de Maputo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Lançado Festival Internacionalde Jazz de Maputo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-09T17:33:39+00:00",
-      "age_hours": 3.8,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/lancado-festival-internacionalde-jazz-de-maputo/",
-      "original_source": true,
-      "event_id": "evt-mocambique-005",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Governo moçambicano renovou, hoje (9 de Novembro), o seu compromisso de fazer de tudo para facilitar o empreendorismo dos artistas, de modo a valorizar o esforço criativo e tornar previsível o retorno dos investimentos que se fazem no sector. Para o efeito a Secretária de Estado da Cultura, Matilde Muocha, que representou o Presidente da República na cerimónia de lançamento do Festival Internacional de Jazz de Maputo que decorreu na capital do pais, destacou a total disponibilidade do executivo de apoiar todas as iniciativas de fortalecimento das indústrias culturais e criativas. Referiu-se, de forma particular, a acções concretas em curso, promovidas pelo Governo, visando criar condições que tornem viáveis investimentos na área cultural. O Festival internacional de Jazz de Maputo é uma iniciativa da Fundação Moreira Chonguiça que, na voz do seu patrono, deixou a garantia de que o evento vai ocorrer anualmente nos dias 6, 7, 8 e 9 de Novembro, abraçando as celebrações do Dia da Cidade de Maputo, numa parceria com o Conselho Municipal da capital do país. «Lançado Festival Internacionalde Jazz de Maputo» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Lançado Festival Internacionalde Jazz de Maputo», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.21,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Moçambique lança PROSPERA para transformar a produção agrária",
-      "summary": "Maputo, 09 de Nov (AIM) – Moçambique lançou esta segunda-feira, no distrito de Sanga, província do Niassa, zona norte, o PROSPERA, um novo mecanismo de promoção e coordenação dos sectores da agricultura, pecuária e pescas, que introduz uma abordagem de produção agrária assente no acesso ao conhecimento, à assistência técnica, à inovação tecnológica, ao financiamento e aos mercados. A iniciativa, lançada pelo Presidente da República, Daniel Chapo, em simultâneo com a Campanha Agrária 2026/2027, pretende reforçar a capacidade produtiva das famílias e acelerar a transição para uma agricultura mais organizada, competitiva e orientada para o agro-negócio. O novo mecanismo surge como parte do Programa de Transformação Agrária e pretende estabelecer uma ligação mais directa entre os produtores, os serviços de extensão agrária, os especialistas, as instituições financeiras e os operadores de mercado, facilitando o acesso à informação e às oportunidades disponíveis ao longo das cadeias de valor.",
-      "why": "«Moçambique lança PROSPERA para transformar a produção agrária» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Moçambique lança PROSPERA para transformar a produção agrária», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-09T20:09:58+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/09/mocambique-lanca-prospera-para-transformar-a-producao-agraria/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -115,9 +59,46 @@
       ],
       "primary_source": "AIM Notícias",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 09 de Nov (AIM) – Moçambique lançou esta segunda-feira, no distrito de Sanga, província do Niassa, zona norte, o PROSPERA, um novo mecanismo de promoção e coordenação dos sectores da agricultura, pecuária e pescas, que introduz uma abordagem de produção agrária assente no acesso ao conhecimento, à assistência técnica, à inovação tecnológica, ao financiamento e aos mercados. A iniciativa, lançada pelo Presidente da República, Daniel Chapo, em simultâneo com a Campanha Agrária 2026/2027, pretende reforçar a capacidade produtiva das famílias e acelerar a transição para uma agricultura mais organizada, competitiva e orientada para o agro-negócio. O novo mecanismo surge como parte do Programa de Transformação Agrária e pretende estabelecer uma ligação mais directa entre os produtores, os serviços de extensão agrária, os especialistas, as instituições financeiras e os operadores de mercado, facilitando o acesso à informação e às oportunidades disponíveis ao longo das cadeias de valor. «Moçambique lança PROSPERA para transformar a produção agrária» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Moçambique lança PROSPERA para transformar a produção agrária», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.75,
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 10 de Nove (AIM) – Moçambique apresentou, em Doha, no Qatar, as prioridades para acelerar a transformação digital do país, com enfoque na expansão da Internet de banda larga, implementação da tecnologia 5G, utilização da inteligência artificial e reforço da cibersegurança e da protecção de dados. A posição foi apresentada pelo Ministro das Comunicações e Transformação Digital, Américo Muchanga, durante a Conferência de Plenipotenciários da União Internacional das Telecomunicações (UIT 2026), que decorre de 9 a 12 de Novembro, em Doha. Na sua intervenção, o governante destacou a visão de Moçambique para a construção de uma sociedade digital inclusiva, segura e sustentável, assente na inovação tecnológica e na utilização das tecnologias de informação e comunicação como instrumentos de desenvolvimento. Entre as prioridades apresentadas consta igualmente a aplicação da inteligência artificial e do Big Data na prevenção e gestão de desastres, com vista ao reforço da capacidade de antecipação e resposta a fenómenos que afectam o país. «Governo apresenta em Doha prioridades para acelerar digitalização do país» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Governo apresenta em Doha prioridades para acelerar digitalização do país», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 14.83,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "IA"
+      ],
+      "title": "Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar",
+      "summary": "O Presidente da República, Daniel Chapo, e o Presidente da Assembleia da República Portuguesa, José Pedro Aguiar-Branco, defendem o reforço da cooperação entre Moçambique e Portugal, com a abertura de novas áreas de colaboração nos domínios digital e da inteligência artificial. O assunto foi abordado esta terça-feira, em Maputo, durante uma audiência concedida pelo Chefe […]",
+      "why": "«Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "source": "O País",
+      "published": "2026-11-10T10:04:57+00:00",
+      "age_hours": 0.8,
+      "within_24h": true,
+      "link": "https://opais.co.mz/mocambique-e-portugal-preparam-novas-areas-de-cooperacao-digital-e-parlamentar/",
+      "original_source": true,
+      "event_id": "evt-mocambique-005",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "O País",
+        "Jornal Notícias"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Jornal Notícias",
+          "title": "Moçambique e Portugal reforçam cooperação em diversos domínios",
+          "link": "https://www.jornalnoticias.co.mz/destaque/mocambique-e-portugal-reforcam-cooperacao-em-diversos-dominios/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, e o Presidente da Assembleia da República Portuguesa, José Pedro Aguiar-Branco, defendem o reforço da cooperação entre Moçambique e Portugal, com a abertura de novas áreas de colaboração nos domínios digital e da inteligência artificial. O assunto foi abordado esta terça-feira, em Maputo, durante uma audiência concedida pelo Chefe […]. «Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Moçambique e Portugal preparam novas áreas de cooperação digital e parlamentar», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
+      "editorial_score": 14.33,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -126,27 +107,27 @@
       "tags": [
         "Economia"
       ],
-      "title": "Restos mortais de Tobias Dai já repousam em Manica",
-      "summary": "Os restos mortais de Tobias Joaquim Dai, antigo ministro da Defesa Nacional e uma das figuras de destaque da história político-militar de Moçambique, foram a enterrar esta segunda-feira, na região de Macadera, sua terra natal, no distrito de Manica, província de Manica. A cerimónia fúnebre ficou marcada por homenagens de governantes, familiares, amigos, antigos combatentes, […]",
-      "why": "«Restos mortais de Tobias Dai já repousam em Manica» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Restos mortais de Tobias Dai já repousam em Manica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "O País",
-      "published": "2026-11-09T19:22:04+00:00",
-      "age_hours": 2.0,
+      "title": "Governo avalia apoio para estudantes em Portugal",
+      "summary": "O Governo está a avaliar medidas para melhorar a integração e o acompanhamento de cerca de três mil estudantes moçambicanos em Portugal, em alinhamento com a visão de valorização do capital humano. As medidas decorrem das recomendações apresentadas durante um encontro realizado em Lisboa, entre o Secretário de Estado da Ciência e Ensino Superior, Isaú Meneses, e representantes dos estudantes moçambicanos. Entre as principais prioridades destacam-se o reforço da articulação com a Agência para a Integração, Migrações e Asilo (AIMA), a melhoria do acolhimento dos novos estudantes e a criação de uma plataforma de comunicação, com vista a responder aos desafios relacionados com a regularização documental, bolsas de estudo e integração. Isaú Meneses assegurou o encaminhamento das preocupações apresentadas e destacou as reformas em curso para melhorar a qualidade do ensino superior em Moçambique. O conteúdo Governo avalia apoio para estudantes em Portugal aparece primeiro em Jornal Notícias",
+      "why": "«Governo avalia apoio para estudantes em Portugal» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo avalia apoio para estudantes em Portugal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-10T10:28:44+00:00",
+      "age_hours": 0.4,
       "within_24h": true,
-      "link": "https://opais.co.mz/restos-mortais-de-tobias-dai-ja-repousam-em-manica/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/governo-avalia-apoio-para-estudantes-em-portugal/",
       "original_source": true,
-      "event_id": "evt-mocambique-003",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "Jornal Notícias"
       ],
-      "primary_source": "O País",
+      "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Os restos mortais de Tobias Joaquim Dai, antigo ministro da Defesa Nacional e uma das figuras de destaque da história político-militar de Moçambique, foram a enterrar esta segunda-feira, na região de Macadera, sua terra natal, no distrito de Manica, província de Manica. A cerimónia fúnebre ficou marcada por homenagens de governantes, familiares, amigos, antigos combatentes, […]. «Restos mortais de Tobias Dai já repousam em Manica» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Restos mortais de Tobias Dai já repousam em Manica», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 12.58,
+      "detailed_summary": "O Governo está a avaliar medidas para melhorar a integração e o acompanhamento de cerca de três mil estudantes moçambicanos em Portugal, em alinhamento com a visão de valorização do capital humano. As medidas decorrem das recomendações apresentadas durante um encontro realizado em Lisboa, entre o Secretário de Estado da Ciência e Ensino Superior, Isaú Meneses, e representantes dos estudantes moçambicanos. Entre as principais prioridades destacam-se o reforço da articulação com a Agência para a Integração, Migrações e Asilo (AIMA), a melhoria do acolhimento dos novos estudantes e a criação de uma plataforma de comunicação, com vista a responder aos desafios relacionados com a regularização documental, bolsas de estudo e integração. Isaú Meneses assegurou o encaminhamento das preocupações apresentadas e destacou as reformas em curso para melhorar a qualidade do ensino superior em Moçambique. O conteúdo Governo avalia apoio para estudantes em Portugal aparece primeiro em Jornal Notícias. «Governo avalia apoio para estudantes em Portugal» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo avalia apoio para estudantes em Portugal», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.92,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -155,54 +136,18 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Rússia intensifica bombardeamentos contra estruturas enérgéticas da Ucrânia",
-      "summary": "Em resposta Kiev reivindicou ter atingido uma fábrica de combustivel sólido para mísseis e a segunda maior refinaria da Rússia, a principal fonte de financiamento da máquina de guerra russa",
-      "why": "«Rússia intensifica bombardeamentos contra estruturas enérgéticas da Ucrânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Rússia intensifica bombardeamentos contra estruturas enérgéticas da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi",
+      "summary": "Abu Dabhi acolhe as primeiras conversações desde fevereiro que vão ter por base a proposta dos EUA para uma \"arquitetura de segurança a longo prazo\" entre Moscovo e a Europa. As autoridades norte-americanas querem um \"fim definitivo\" para a guerra entre a Rússia e a Ucrânia",
+      "why": "«\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-11-09T21:06:47+00:00",
-      "age_hours": 0.3,
+      "published": "2026-11-10T09:24:22+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/russia-intensifica-bombardeamentos-contra-estruturas-energeticas-da-ucrania_v1777962",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 2,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Roménia acusa Rússia de envolver países europeus num conflito com a Ucrânia",
-          "link": "https://www.rtp.pt/noticias/mundo/romenia-acusa-russia-de-envolver-paises-europeus-num-conflito-com-a-ucrania_n1777919"
-        }
-      ],
-      "opportunity_flag": true,
-      "detailed_summary": "Em resposta Kiev reivindicou ter atingido uma fábrica de combustivel sólido para mísseis e a segunda maior refinaria da Rússia, a principal fonte de financiamento da máquina de guerra russa. «Rússia intensifica bombardeamentos contra estruturas enérgéticas da Ucrânia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia intensifica bombardeamentos contra estruturas enérgéticas da Ucrânia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.94,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Eleições em Israel. Eisenkot tem de negociar formação do governo",
-      "summary": "Gadi Eisenkot toma posse como Primeiro-Ministro de Israel esta terça-feira. Se o novo governo não reunir o apoio suficiente no parlamento, pode ter de renunciar e permitir o regresso de Netanyahu ao cargo",
-      "why": "«Eleições em Israel. Eisenkot tem de negociar formação do governo» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Eleições em Israel. Eisenkot tem de negociar formação do governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-09T21:09:47+00:00",
-      "age_hours": 0.2,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/eleicoes-em-israel-eisenkot-tem-de-negociar-formacao-do-governo_v1777964",
+      "link": "https://www.rtp.pt/noticias/mundo/fim-definitivo-a-procura-da-paz-para-a-ucrania-em-abu-dhabi_n1778032",
       "original_source": true,
       "event_id": "evt-mundo-001",
-      "cluster_size": 2,
+      "cluster_size": 6,
       "source_count": 1,
       "sources": [
         "RTP Notícias"
@@ -212,32 +157,145 @@
       "confirmations": [
         {
           "source": "RTP Notícias",
-          "title": "Trump considera Eisenkot um líder forte",
-          "link": "https://www.rtp.pt/noticias/mundo/trump-considera-eisenkot-um-lider-forte_v1777882"
+          "title": "Ucrânia. Trump mantém otimismo na paz apesar da violência no terreno",
+          "link": "https://www.rtp.pt/noticias/mundo/ucrania-trump-mantem-otimismo-na-paz-apesar-da-violencia-no-terreno_v1778037"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Rússia intensifica bombardeamentos contra estruturas enérgéticas da Ucrânia",
+          "link": "https://www.rtp.pt/noticias/mundo/russia-intensifica-bombardeamentos-contra-estruturas-energeticas-da-ucrania_v1777962"
         }
       ],
       "opportunity_flag": false,
-      "detailed_summary": "Gadi Eisenkot toma posse como Primeiro-Ministro de Israel esta terça-feira. Se o novo governo não reunir o apoio suficiente no parlamento, pode ter de renunciar e permitir o regresso de Netanyahu ao cargo. «Eleições em Israel. Eisenkot tem de negociar formação do governo» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eleições em Israel. Eisenkot tem de negociar formação do governo», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.96,
+      "detailed_summary": "Abu Dabhi acolhe as primeiras conversações desde fevereiro que vão ter por base a proposta dos EUA para uma \"arquitetura de segurança a longo prazo\" entre Moscovo e a Europa. As autoridades norte-americanas querem um \"fim definitivo\" para a guerra entre a Rússia e a Ucrânia. «\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «\"Fim definitivo\"? À procura da paz para a Ucrânia em Abu Dhabi», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 12.71,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "África do Sul detém nove suspeitos de recrutamento militar para a Rússia",
+      "summary": "Nove estrangeiros foram detidos na África do Sul, suspeitos de tentarem viajar para a Rússia com o objectivo de combater na guerra contra a Ucrânia. As detenções ocorreram no Aeroporto Internacional O.R. Tambo e num hotel próximo, em Joanesburgo, na sequência de uma investigação que envolveu os serviços de informações, a Interpol e forças de […]",
+      "why": "«África do Sul detém nove suspeitos de recrutamento militar para a Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «África do Sul detém nove suspeitos de recrutamento militar para a Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "O País",
+      "published": "2026-11-10T07:32:42+00:00",
+      "age_hours": 3.3,
+      "within_24h": true,
+      "link": "https://opais.co.mz/africa-do-sul-detem-nove-suspeitos-de-recrutamento-militar-para-a-russia/",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Nove estrangeiros foram detidos na África do Sul, suspeitos de tentarem viajar para a Rússia com o objectivo de combater na guerra contra a Ucrânia. As detenções ocorreram no Aeroporto Internacional O.R. Tambo e num hotel próximo, em Joanesburgo, na sequência de uma investigação que envolveu os serviços de informações, a Interpol e forças de […]. «África do Sul detém nove suspeitos de recrutamento militar para a Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «África do Sul detém nove suspeitos de recrutamento militar para a Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 12.31,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Chapo lança “PROSPERA” para aproximar produtores dos mercados",
+      "summary": "O Presidente da República, Daniel Chapo, lançou, esta segunda-feira, na província de Niassa, a iniciativa PROSPERA, que visa facilitar o acesso dos produtores dos sectores da agricultura, pecuária e pescas à assistência técnica, informação, financiamento e mercados. O lançamento teve lugar no povoado de Miala, distrito de Sanga, no âmbito da cerimónia central da Campanha […]",
+      "why": "«Chapo lança “PROSPERA” para aproximar produtores dos mercados» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Chapo lança “PROSPERA” para aproximar produtores dos mercados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "O País",
+      "published": "2026-11-10T10:15:51+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://opais.co.mz/chapo-lanca-prospera-para-aproximar-produtores-dos-mercados/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "O País",
+        "AIM Notícias"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM Notícias",
+          "title": "Moçambique lança PROSPERA para transformar a produção agrária",
+          "link": "https://aimnews.org/2026/11/09/mocambique-lanca-prospera-para-transformar-a-producao-agraria/"
+        }
+      ],
+      "opportunity_flag": true,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, lançou, esta segunda-feira, na província de Niassa, a iniciativa PROSPERA, que visa facilitar o acesso dos produtores dos sectores da agricultura, pecuária e pescas à assistência técnica, informação, financiamento e mercados. O lançamento teve lugar no povoado de Miala, distrito de Sanga, no âmbito da cerimónia central da Campanha […]. «Chapo lança “PROSPERA” para aproximar produtores dos mercados» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Chapo lança “PROSPERA” para aproximar produtores dos mercados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 11.38,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso",
+      "summary": "O secretário da Defesa dos Estados Unidos, Pete Hegseth, enfrenta um processo de destituição promovido pelo republicano Thomas Massie, devido à gestão do conflito no Irão",
+      "why": "«Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-10T08:18:47+00:00",
+      "age_hours": 2.5,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/irao-pete-hegseth-enfrenta-ameaca-de-destituicao-no-congresso_v1778034",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 3,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "RTP Notícias",
+          "title": "Iniciado processo de destituição contra secretário de Defesa dos EUA no Congresso",
+          "link": "https://www.rtp.pt/noticias/mundo/iniciado-processo-de-destituicao-contra-secretario-de-defesa-dos-eua-no-congresso_n1777977"
+        },
+        {
+          "source": "RTP Notícias",
+          "title": "Secretário da Defesa dos EUA defende guerra face a ameaça de destituição",
+          "link": "https://www.rtp.pt/noticias/mundo/secretario-da-defesa-dos-eua-defende-guerra-face-a-ameaca-de-destituicao_n1777940"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "O secretário da Defesa dos Estados Unidos, Pete Hegseth, enfrenta um processo de destituição promovido pelo republicano Thomas Massie, devido à gestão do conflito no Irão. «Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão. Pete Hegseth enfrenta ameaça de destituição no Congresso», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.48,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
+        "IA",
         "Economia"
       ],
-      "title": "Argentina: Papa León XIV pede ao Governo de Milei que proteja os mais vulneráveis",
-      "summary": "O Papa Leão XIV pediu nesta segunda-feira que a Argentina proteja as pessoas mais vulneráveis e colocou a atenção em quem tem deficiência no centro da sua mensagem durante o primeiro dia completo no país. O Pontífice visitou o Cottolengo Don Orione, um centro assistencial situado em Claypole, a sul de Buenos Aires, cuja atividade foi afetada pelas medidas de austeridade do Governo de Javier Milei.A instituição, fundada em 1935 por um sacerdote italiano, acolhe mais de 400 pessoas com deficiência numa propriedade de 50 hectares. Conhecido como a “cidade da caridade”, o centro sofreu as consequências dos cortes nos serviços de saúde e sociais, bem como das dificuldades de financiamento dos programas especializados de apoio e terapia.Durante a visita, Leão XIV abraçou residentes em cadeiras de rodas, conversou com eles e deu-lhes a sua bênção. A chegada do Papa levou alguns trabalhadores e residentes às lágrimas.",
-      "why": "«Argentina: Papa León XIV pede ao Governo de Milei que proteja os mais vulneráveis» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Argentina: Papa León XIV pede ao Governo de Milei que proteja os mais vulneráveis», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "title": "MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline",
+      "summary": "Prevê-se que a economia móvel do Médio Oriente e Norte de África atinja 421 mil milhões de euros até 2030, mas um novo relatório do sector sublinha um problema persistente: o crescimento económico está a acelerar, mas milhões de pessoas continuam sem beneficiar da economia digital.O relatório Mobile Economy MENA 2026 da GSMA, divulgado no dia de abertura do MWC26 Doha, revelou que as tecnologias e serviços móveis geraram, em 2025, um valor económico estimado em 340 mil milhões de euros, sustentando 2,2 milhões de postos de trabalho e contribuindo com cerca de 35,8 mil milhões de euros para as finanças públicas.Entretanto, 48 % da população da região MENA usou internet móvel no ano passado, enquanto 49 % continuou offline apesar de viver em zonas com cobertura de rede móvel.Os números evidenciam um desafio que vai além da infraestrutura: garantir que as pessoas possam pagar, aceder e utilizar a tecnologia que têm ao seu alcance.Doha no centro do debate global sobre conectividadeO MWC26 Doha deste ano ganha importância acrescida por decorrer em paralelo com a Conferência de…",
+      "why": "«MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
       "source": "Euronews Português",
-      "published": "2026-11-09T18:41:31+00:00",
-      "age_hours": 2.7,
+      "published": "2026-11-10T06:00:17+00:00",
+      "age_hours": 4.8,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/09/argentina-papa-leon-xiv-pede-ao-governo-de-milei-que-proteja-os-mais-vulneraveis",
+      "link": "https://pt.euronews.com/2026/11/10/mena-economia-movel-deve-atingir-421-mil-milhoes-milhoes-continuam-offline",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-mundo-007",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -245,9 +303,9 @@
       ],
       "primary_source": "Euronews Português",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Papa Leão XIV pediu nesta segunda-feira que a Argentina proteja as pessoas mais vulneráveis e colocou a atenção em quem tem deficiência no centro da sua mensagem durante o primeiro dia completo no país. O Pontífice visitou o Cottolengo Don Orione, um centro assistencial situado em Claypole, a sul de Buenos Aires, cuja atividade foi afetada pelas medidas de austeridade do Governo de Javier Milei.A instituição, fundada em 1935 por um sacerdote italiano, acolhe mais de 400 pessoas com deficiência numa propriedade de 50 hectares. Conhecido como a “cidade da caridade”, o centro sofreu as consequências dos cortes nos serviços de saúde e sociais, bem como das dificuldades de financiamento dos programas especializados de apoio e terapia.Durante a visita, Leão XIV abraçou residentes em cadeiras de rodas, conversou com eles e deu-lhes a sua bênção. A chegada do Papa levou alguns trabalhadores e residentes às lágrimas. «Argentina: Papa León XIV pede ao Governo de Milei que proteja os mais vulneráveis» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Argentina: Papa León XIV pede ao Governo de Milei que proteja os mais vulneráveis», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.44,
+      "opportunity_flag": false,
+      "detailed_summary": "Prevê-se que a economia móvel do Médio Oriente e Norte de África atinja 421 mil milhões de euros até 2030, mas um novo relatório do sector sublinha um problema persistente: o crescimento económico está a acelerar, mas milhões de pessoas continuam sem beneficiar da economia digital.O relatório Mobile Economy MENA 2026 da GSMA, divulgado no dia de abertura do MWC26 Doha, revelou que as tecnologias e serviços móveis geraram, em 2025, um valor económico estimado em 340 mil milhões de euros, sustentando 2,2 milhões de postos de trabalho e contribuindo com cerca de 35,8 mil milhões de euros para as finanças públicas.Entretanto, 48 % da população da região MENA usou internet móvel no ano passado, enquanto 49 % continuou offline apesar de viver em zonas com cobertura de rede móvel.Os números evidenciam um desafio que vai além da infraestrutura: garantir que as pessoas possam pagar, aceder e utilizar a tecnologia que têm ao seu alcance.Doha no centro do debate global sobre conectividadeO MWC26 Doha deste ano ganha importância acrescida por decorrer em paralelo com a Conferência de… «MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «MENA: economia móvel deve atingir €421 mil milhões, milhões continuam offline», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 10.0,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -256,17 +314,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Donald Trump planeia encontrar-se com Putin e Xi na China na próxima semana",
-      "summary": "Donald Trump, Vladimir Putin e Xi Jinping poderão reunir-se na China na próxima semana para conversações trilaterais sobre o fim da guerra no Irão.Trump disse a jornalistas que esperava encontrar-se com os líderes russo e chinês numa cimeira Ásia-Pacífico em Shenzhen, na China, agendada para 18 e 19 de novembro.“Bem, vou à China”, disse Trump no domingo, “e uma das reuniões, penso, será com o presidente Putin e o presidente Xi, e isso será interessante.”Acrescentou: “Vamos falar de muitas coisas, incluindo desnuclearização, mas vamos falar de muitas coisas. Estamos a tentar pôr fim à guerra no Irão.”Se se concretizar, será histórico, embora seja improvável que os três líderes discutam algo de substancial, já que os seus interesses divergem.",
-      "why": "«Donald Trump planeia encontrar-se com Putin e Xi na China na próxima semana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Donald Trump planeia encontrar-se com Putin e Xi na China na próxima semana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA",
+      "summary": "Dias depois de o partido do presidente dos Estados Unidos, Donald Trump, sofrer uma derrota drástica nas eleições intercalares, um deputado republicano avançou com um pedido de destituição do secretário da Defesa dos Estados Unidos, Pete Hegseth, por causa da guerra no Irão, abrindo caminho a uma votação na Câmara dos Representantes já esta semana.O congressista republicano Thomas Massie apresentou oito artigos de acusação em que acusa Hegseth de abusar dos seus poderes e de travar ilegalmente a guerra no Irão.",
+      "why": "«Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-11-09T07:54:41+00:00",
-      "age_hours": 13.5,
+      "published": "2026-11-10T06:17:37+00:00",
+      "age_hours": 4.6,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/09/donald-trump-planeia-encontrar-se-com-putin-e-xi-na-china-na-proxima-semana",
+      "link": "https://pt.euronews.com/2026/11/10/congressista-republicano-apresenta-oito-artigos-para-destituir-secretario-da-defesa-dos-eu",
       "original_source": true,
-      "event_id": "evt-mundo-016",
+      "event_id": "evt-mundo-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -275,9 +333,38 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Donald Trump, Vladimir Putin e Xi Jinping poderão reunir-se na China na próxima semana para conversações trilaterais sobre o fim da guerra no Irão.Trump disse a jornalistas que esperava encontrar-se com os líderes russo e chinês numa cimeira Ásia-Pacífico em Shenzhen, na China, agendada para 18 e 19 de novembro.“Bem, vou à China”, disse Trump no domingo, “e uma das reuniões, penso, será com o presidente Putin e o presidente Xi, e isso será interessante.”Acrescentou: “Vamos falar de muitas coisas, incluindo desnuclearização, mas vamos falar de muitas coisas. Estamos a tentar pôr fim à guerra no Irão.”Se se concretizar, será histórico, embora seja improvável que os três líderes discutam algo de substancial, já que os seus interesses divergem. «Donald Trump planeia encontrar-se com Putin e Xi na China na próxima semana» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Donald Trump planeia encontrar-se com Putin e Xi na China na próxima semana», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 6.19,
+      "detailed_summary": "Dias depois de o partido do presidente dos Estados Unidos, Donald Trump, sofrer uma derrota drástica nas eleições intercalares, um deputado republicano avançou com um pedido de destituição do secretário da Defesa dos Estados Unidos, Pete Hegseth, por causa da guerra no Irão, abrindo caminho a uma votação na Câmara dos Representantes já esta semana.O congressista republicano Thomas Massie apresentou oito artigos de acusação em que acusa Hegseth de abusar dos seus poderes e de travar ilegalmente a guerra no Irão. «Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Congressista republicano apresenta oito artigos para destituir secretário da Defesa dos EUA», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.04,
       "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "IA"
+      ],
+      "title": "Começa Semana da Ciência e da Paz",
+      "summary": "Com avanço da tecnologia, permanece questionável se a ciência vai unir ou dividir a humanidade; conhecimento só cumpre seu papel quando guiado por ética, diálogo e busca da paz global",
+      "why": "«Começa Semana da Ciência e da Paz» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
+      "impact": "No caso de «Começa Semana da Ciência e da Paz», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "source": "Notícias ONU",
+      "published": "2026-11-09T12:00:00+00:00",
+      "age_hours": 22.8,
+      "within_24h": true,
+      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854866",
+      "original_source": true,
+      "event_id": "evt-mundo-017",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Notícias ONU"
+      ],
+      "primary_source": "Notícias ONU",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Com avanço da tecnologia, permanece questionável se a ciência vai unir ou dividir a humanidade; conhecimento só cumpre seu papel quando guiado por ética, diálogo e busca da paz global. «Começa Semana da Ciência e da Paz» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Começa Semana da Ciência e da Paz», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Mundo.",
+      "editorial_score": 7.25,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     }
   ],
@@ -301,8 +388,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 0,
-    "Mundo": 4
+    "África": 1,
+    "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

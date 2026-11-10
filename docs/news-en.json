@@ -1,25 +1,61 @@
 {
-  "updated_at": "2026-11-09T21:24:09.478623+00:00",
+  "updated_at": "2026-11-10T10:50:57.548229+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
   "carry_forward_hours": 0,
   "items": [
     {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "The talks come as Ukraine reels from a deadly Russian strike on a village in Zaporizhzhia last week, in which at least 40 people were killed Trilateral talks between Ukraine, Russia and the US aimed at ending the war in Ukraine have begun in Abu Dhabi Although expectations for a breakthrough that ends Russia's full-scale war on Ukraine are low, US officials said yesterday that Moscow and Kyiv were privately showing \"a little bit of flexibility\" on the issue of who would control Ukraine's eastern regions in a postwar scenario Jared Kushner - Donald Trump's son-in-law and part of the US delegation alongside peace envoy Steve Witkoff - said the talks would be focused on addressing the \"postwar security concerns\" of both Russia and Ukraine \"An important part of this process is encouraging all parties to begin thinking seriously about what comes after the war,\" Kushner wrote on X Ahead of the meeting, the two US envoys met Ukrainian and European and Nato officials in Abu Dhabi, and French Foreign Minister Jean-Noël Barrot was adamant that France, the UK and Germany \"will indeed be in the…",
+      "why": "«Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-10T09:07:00+00:00",
+      "age_hours": 1.7,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 2,
+      "source_count": 2,
+      "sources": [
+        "BBC World",
+        "DW English"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "DW English",
+          "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+          "link": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "The talks come as Ukraine reels from a deadly Russian strike on a village in Zaporizhzhia last week, in which at least 40 people were killed Trilateral talks between Ukraine, Russia and the US aimed at ending the war in Ukraine have begun in Abu Dhabi Although expectations for a breakthrough that ends Russia's full-scale war on Ukraine are low, US officials said yesterday that Moscow and Kyiv were privately showing \"a little bit of flexibility\" on the issue of who would control Ukraine's eastern regions in a postwar scenario Jared Kushner - Donald Trump's son-in-law and part of the US delegation alongside peace envoy Steve Witkoff - said the talks would be focused on addressing the \"postwar security concerns\" of both Russia and Ukraine \"An important part of this process is encouraging all parties to begin thinking seriously about what comes after the war,\" Kushner wrote on X Ahead of the meeting, the two US envoys met Ukrainian and European and Nato officials in Abu Dhabi, and French Foreign Minister Jean-Noël Barrot was adamant that France, the UK and Germany \"will indeed be in the… «Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say» deserves attention because it may change political, diplomatic or security risks. For «Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 14.15,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
       "section": "Moçambique",
       "tags": [
-        "Energia",
         "Economia"
       ],
-      "title": "Mozambique: Estevão Pale unveils geospatial plan and integrated platform to guide electrification investment",
-      "summary": "Mineral Resources and Energy Minister Estevão Pale has launched the National Geospatial Least-Cost Electrification Plan 2026–2030 and the Integrated Electrification Platform. These tools are designed to guide investment in the sector by identifying the lowest-cost solutions for each region and maximising the economic and social impact of the resources invested. According to Estevão Pale, the… Source",
-      "why": "«Mozambique: Estevão Pale unveils geospatial plan and integrated platform to guide electrification…» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Mozambique: Estevão Pale unveils geospatial plan and integrated platform to guide electrification…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "title": "COP31: Mozambique seeks increased climate finance for vulnerable countries",
+      "summary": "In a statement, the Presidency said that Daniel Chapo would take part in several high-level meetings and events held as part of the COP31 conference, dedicated to discussing global challenges and responses to climate change “Mozambique’s participation in this summit aims to reaffirm the country’s national commitment to global climate action and mobilise international cooperation to address the impacts of climate change, with particular attention to the need to strengthen climate finance for the most vulnerable countries,” the statement reads READ: Mozambique: President Chapo heads to Antalya for COP31 climate summit The World Climate Action Summit, which forms part of the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31), is taking place in Antalya, Türkiye, until 20 November.",
+      "why": "«COP31: Mozambique seeks increased climate finance for vulnerable countries» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «COP31: Mozambique seeks increased climate finance for vulnerable countries», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-11-09T18:45:36+00:00",
-      "age_hours": 2.6,
+      "published": "2026-11-10T07:20:10+00:00",
+      "age_hours": 3.5,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-estevao-pale-unveils-geospatial-plan-and-integrated-platform-to-guide-electrification-investment/",
+      "link": "https://clubofmozambique.com/news/cop31-mozambique-seeks-increased-climate-finance-for-vulnerable-countries/",
       "original_source": true,
       "event_id": "evt-mocambique-002",
       "cluster_size": 1,
@@ -29,101 +65,28 @@
       ],
       "primary_source": "Club of Mozambique",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Mineral Resources and Energy Minister Estevão Pale has launched the National Geospatial Least-Cost Electrification Plan 2026–2030 and the Integrated Electrification Platform. These tools are designed to guide investment in the sector by identifying the lowest-cost solutions for each region and maximising the economic and social impact of the resources invested. According to Estevão Pale, the… Source. «Mozambique: Estevão Pale unveils geospatial plan and integrated platform to guide electrification…» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique: Estevão Pale unveils geospatial plan and integrated platform to guide electrification…», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 15.46,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Mozambique: President Chapo heads to Antalya for COP31 climate summit",
-      "summary": "Mozambican President Daniel Francisco Chapo will attend the World Climate Action Summit from 11 to 12 November, as part of the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31), taking place in Antalya, Republic of Türkiye, under the theme “Towards a Sustainable, Resilient and Equitable Future” During his stay in the country, the Head of State will also take part in several high-level meetings and events dedicated to the climate agenda, providing opportunities for dialogue and coordination on global challenges and responses to climate change Mozambique’s participation in the Summit aims to reaffirm the country’s commitment to global climate action and mobilise international cooperation to address the impacts of climate change, with particular attention to the need to strengthen climate finance for the most vulnerable countries The President will be accompanied on the visit by the First Lady, Gueta Chapo; the Minister in the Presidency for Civil Affairs, Ricardo Sengo; the Secretary of State for Land and Environment, Gustavo Dgedge…",
-      "why": "«Mozambique: President Chapo heads to Antalya for COP31 climate summit» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Mozambique: President Chapo heads to Antalya for COP31 climate summit», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-11-09T19:29:07+00:00",
-      "age_hours": 1.9,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-president-chapo-heads-to-antalya-for-cop31-climate-summit/",
-      "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Mozambican President Daniel Francisco Chapo will attend the World Climate Action Summit from 11 to 12 November, as part of the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31), taking place in Antalya, Republic of Türkiye, under the theme “Towards a Sustainable, Resilient and Equitable Future” During his stay in the country, the Head of State will also take part in several high-level meetings and events dedicated to the climate agenda, providing opportunities for dialogue and coordination on global challenges and responses to climate change Mozambique’s participation in the Summit aims to reaffirm the country’s commitment to global climate action and mobilise international cooperation to address the impacts of climate change, with particular attention to the need to strengthen climate finance for the most vulnerable countries The President will be accompanied on the visit by the First Lady, Gueta Chapo; the Minister in the Presidency for Civil Affairs, Ricardo Sengo; the Secretary of State for Land and Environment, Gustavo Dgedge… «Mozambique: President Chapo heads to Antalya for COP31 climate summit» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: President Chapo heads to Antalya for COP31 climate summit», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
-      "editorial_score": 13.6,
+      "detailed_summary": "In a statement, the Presidency said that Daniel Chapo would take part in several high-level meetings and events held as part of the COP31 conference, dedicated to discussing global challenges and responses to climate change “Mozambique’s participation in this summit aims to reaffirm the country’s national commitment to global climate action and mobilise international cooperation to address the impacts of climate change, with particular attention to the need to strengthen climate finance for the most vulnerable countries,” the statement reads READ: Mozambique: President Chapo heads to Antalya for COP31 climate summit The World Climate Action Summit, which forms part of the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change (COP31), is taking place in Antalya, Türkiye, until 20 November. «COP31: Mozambique seeks increased climate finance for vulnerable countries» is worth following because of its possible economic, institutional or regional effects. For «COP31: Mozambique seeks increased climate finance for vulnerable countries», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.27,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
-        "Economia",
         "Segurança"
       ],
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "summary": "Fridges and freezers in hundreds of supermarkets across France were affected last month France has accused Iran's Islamic Revolutionary Guard Corps (IRGC) of being behind cyber-attacks that raised the temperatures of supermarket fridges and freezers across the country last month Foreign Minister Jean-Noël Barrot said the attack was \"unprecedented in both its scale and its level of aggression\", adding those who were responsible would be hit with sanctions Iran has yet to respond officially, but some Iranian media outlets have dismissed the allegations as baseless The French hacking, which led to the destruction of tons of frozen and chilled food in France was followed by a similar attack against supermarkets across several other European countries.",
-      "why": "«France accuses Iran of supermarket fridge hacking» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «France accuses Iran of supermarket fridge hacking», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-09T20:20:08+00:00",
+      "title": "DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels",
+      "summary": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders Some 66 soldiers have been sentenced to death in DR Congo on charged of cowardice, mutiny, and failure to obey orders. The sentence was handed down by the Goma Garrison Military Court At least 71 members of the Armed Forces of the Democratic Republic of Congo (FARDC) were arrested in several separate incidents related to the fierce fighting between the military and rebel groups near the country's borders with Uganda, Rwanda, and Burundi They were arrested on allegations of abandoning their posts or running away from clashes with FRN rebels. Prosecutors had sought capital punishment for 70 of the defendants, while asking for a 10-year jail term for an intelligence officer.",
+      "why": "«DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "DW English",
+      "published": "2026-11-10T09:43:00+00:00",
       "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 3,
-      "source_count": 3,
-      "sources": [
-        "BBC World",
-        "DW English",
-        "Al Jazeera English"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "DW English",
-          "title": "French officials blame Iran for supermarket fridge hacking",
-          "link": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-rdf"
-        },
-        {
-          "source": "Al Jazeera English",
-          "title": "France accuses Iran of cyberattack on supermarket fridges",
-          "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "Fridges and freezers in hundreds of supermarkets across France were affected last month France has accused Iran's Islamic Revolutionary Guard Corps (IRGC) of being behind cyber-attacks that raised the temperatures of supermarket fridges and freezers across the country last month Foreign Minister Jean-Noël Barrot said the attack was \"unprecedented in both its scale and its level of aggression\", adding those who were responsible would be hit with sanctions Iran has yet to respond officially, but some Iranian media outlets have dismissed the allegations as baseless The French hacking, which led to the destruction of tons of frozen and chilled food in France was followed by a similar attack against supermarkets across several other European countries. «France accuses Iran of supermarket fridge hacking» deserves attention because it may change political, diplomatic or security risks. For «France accuses Iran of supermarket fridge hacking», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 12.27,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over Iran war",
-      "summary": "Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval Republican lawmaker Thomas Massie, an outspoken critic of President Donald Trump , introduced eight articles of impeachment against US Defense Secretary Pete Hegseth on Monday as pressure builds on the Trump administration over the Iran war The resolution proposed by the Kentucky congressman accuses Hegseth of conducting the war illegally without congressional authorization. Massie also claims Hegseth has abused his powers as the head of the Pentagon Massie is using a special procedure that could see the US House of Representatives vote on the resolution within two days, with the legislative chamber still dominated by Republicans To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Trump defended Hegseth in a telephone interview with the Reuters news agency after the articles were filed \"Well, he won two wars.",
-      "why": "«Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over…» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over…», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-11-09T20:15:00+00:00",
-      "age_hours": 1.2,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-004",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -132,56 +95,56 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval Republican lawmaker Thomas Massie, an outspoken critic of President Donald Trump , introduced eight articles of impeachment against US Defense Secretary Pete Hegseth on Monday as pressure builds on the Trump administration over the Iran war The resolution proposed by the Kentucky congressman accuses Hegseth of conducting the war illegally without congressional authorization. Massie also claims Hegseth has abused his powers as the head of the Pentagon Massie is using a special procedure that could see the US House of Representatives vote on the resolution within two days, with the legislative chamber still dominated by Republicans To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video Trump defended Hegseth in a telephone interview with the Reuters news agency after the articles were filed \"Well, he won two wars. «Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over…» deserves attention because it may change political, diplomatic or security risks. For «Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over…», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 11.75,
+      "detailed_summary": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders Some 66 soldiers have been sentenced to death in DR Congo on charged of cowardice, mutiny, and failure to obey orders. The sentence was handed down by the Goma Garrison Military Court At least 71 members of the Armed Forces of the Democratic Republic of Congo (FARDC) were arrested in several separate incidents related to the fierce fighting between the military and rebel groups near the country's borders with Uganda, Rwanda, and Burundi They were arrested on allegations of abandoning their posts or running away from clashes with FRN rebels. Prosecutors had sought capital punishment for 70 of the defendants, while asking for a 10-year jail term for an intelligence officer. «DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels» deserves attention because it may change political, diplomatic or security risks. For «DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 11.77,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "Will Najib Razak be transferred to house arrest?",
-      "summary": "Malaysia's king and government in a standoff after attorney general disputed order allowing former PM to leave jail",
-      "why": "«Will Najib Razak be transferred to house arrest?» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Will Najib Razak be transferred to house arrest?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-09T21:13:02+00:00",
-      "age_hours": 0.2,
+      "title": "Fact check: Online disinformation rife after Krakow mass shooting",
+      "summary": "Fake and AI-manipulated images spread online in the hours after the Krakow attack, fueling false narratives about the mass shooting. DW Fact Check examined what's real, and what isn't A gunman killed six people in a shooting spree in Krakow's Old Town on Saturday, before being shot and detained by police. The gunman, who is also suspected of killing three family members before the attack, later died in hospital On Monday, Poland's national prosecutor's office announced a formal investigation Nevertheless, much is still unknown about the details of the crime, leaving social media users to fill the information vacuum with fake images of the attacker and alleged screenshots of his online profile. DW Fact Check breaks down the developing story Claim: A viral picture has been circulating on social media claiming to be the real image of the suspected attacker But the unusual sharpness of this picture raises doubt of its authenticity. It is difficult to imagine capturing such a clear image in a chaotic situation DW checked the image using two different AI detectors.",
+      "why": "«Fact check: Online disinformation rife after Krakow mass shooting» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Fact check: Online disinformation rife after Krakow mass shooting», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-11-10T10:02:00+00:00",
+      "age_hours": 0.8,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/9/will-najib-razak-be-transferred-to-house-arrest?traffic_source=rss",
+      "link": "https://www.dw.com/en/fact-check-online-disinformation-rife-after-krakow-mass-shooting/a-79900620?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "Al Jazeera English"
+        "DW English"
       ],
-      "primary_source": "Al Jazeera English",
+      "primary_source": "DW English",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Malaysia's king and government in a standoff after attorney general disputed order allowing former PM to leave jail. «Will Najib Razak be transferred to house arrest?» is worth following because of its possible economic, institutional or regional effects. For «Will Najib Razak be transferred to house arrest?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.96,
+      "opportunity_flag": true,
+      "detailed_summary": "Fake and AI-manipulated images spread online in the hours after the Krakow attack, fueling false narratives about the mass shooting. DW Fact Check examined what's real, and what isn't A gunman killed six people in a shooting spree in Krakow's Old Town on Saturday, before being shot and detained by police. The gunman, who is also suspected of killing three family members before the attack, later died in hospital On Monday, Poland's national prosecutor's office announced a formal investigation Nevertheless, much is still unknown about the details of the crime, leaving social media users to fill the information vacuum with fake images of the attacker and alleged screenshots of his online profile. DW Fact Check breaks down the developing story Claim: A viral picture has been circulating on social media claiming to be the real image of the suspected attacker But the unusual sharpness of this picture raises doubt of its authenticity. It is difficult to imagine capturing such a clear image in a chaotic situation DW checked the image using two different AI detectors. «Fact check: Online disinformation rife after Krakow mass shooting» matters because it may change energy and investment decisions affecting Mundo. For «Fact check: Online disinformation rife after Krakow mass shooting», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 10.83,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Economia"
+        "Energia"
       ],
-      "title": "What’s next for US Republicans and Trumpism?",
-      "summary": "Republican politician Tom Garrett argues his party lost US midterm elections because it made promises it couldn’t keep",
-      "why": "«What’s next for US Republicans and Trumpism?» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «What’s next for US Republicans and Trumpism?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "title": "Nvidia spy scandal fuels debate over chip exports to China",
+      "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy",
+      "why": "«Nvidia spy scandal fuels debate over chip exports to China» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Nvidia spy scandal fuels debate over chip exports to China», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
       "source": "Al Jazeera English",
-      "published": "2026-11-09T19:02:54+00:00",
-      "age_hours": 2.4,
+      "published": "2026-11-10T09:42:04+00:00",
+      "age_hours": 1.1,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss",
+      "link": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-mundo-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -190,8 +153,37 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Republican politician Tom Garrett argues his party lost US midterm elections because it made promises it couldn’t keep. «What’s next for US Republicans and Trumpism?» is worth following because of its possible economic, institutional or regional effects. For «What’s next for US Republicans and Trumpism?», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 10.5,
+      "detailed_summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy. «Nvidia spy scandal fuels debate over chip exports to China» matters because it may change energy and investment decisions affecting Mundo. For «Nvidia spy scandal fuels debate over chip exports to China», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 10.77,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Watch: Man smashes Chinese government building with excavator",
+      "summary": "Police in China's Shaanxi province say they have detained a 47-year-old man for damaging a government building with \"construction machinery\" on Monday afternoon Videos circulating on social media show an excavator tearing down the facade of the building. Local media reported that staff inside the building were urgently evacuated No one was injured in the incident, said the police, who did not provide a motive for the act",
+      "why": "«Watch: Man smashes Chinese government building with excavator» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Watch: Man smashes Chinese government building with excavator», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-10T09:37:15+00:00",
+      "age_hours": 1.2,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Police in China's Shaanxi province say they have detained a 47-year-old man for damaging a government building with \"construction machinery\" on Monday afternoon Videos circulating on social media show an excavator tearing down the facade of the building. Local media reported that staff inside the building were urgently evacuated No one was injured in the incident, said the police, who did not provide a motive for the act. «Watch: Man smashes Chinese government building with excavator» is worth following because of its possible economic, institutional or regional effects. For «Watch: Man smashes Chinese government building with excavator», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.75,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -206,11 +198,11 @@
       "impact": "For «'Devastating message' as ANC records worst-ever result in South Africa election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
       "source": "BBC Africa",
       "published": "2026-11-08T17:51:03+00:00",
-      "age_hours": 27.6,
+      "age_hours": 41.0,
       "within_24h": false,
       "link": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -220,7 +212,7 @@
       "status": "update",
       "opportunity_flag": false,
       "detailed_summary": "Voters cast their ballots at a polling station during South Africa's local government elections in Johannesburg South Africa's ANC has recorded its worst-ever showing in local elections since Nelson Mandela led the country out of apartheid and into democracy more than 30 years ago, a result the party has called \"catastrophic\" While it won the most votes of all parties in the country, the African National Congress won 31% of the overall vote, one third down from the 46% it gained in 2021, and a far cry from the 65% 20 years ago The story of its decline is also clear in the provinces and cities. The party won a majority in just one of the country's nine provinces, Limpopo. In 2021 it won six. It also won the most votes in just two of the eight cities, compared with six at the last local elections The Democratic Alliance (DA) came second in the overall vote with 25%, retaining majority control of the city of Cape Town. «'Devastating message' as ANC records worst-ever result in South Africa election» is worth following because of its possible economic, institutional or regional effects. For «'Devastating message' as ANC records worst-ever result in South Africa election», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
-      "editorial_score": 8.39,
+      "editorial_score": 7.97,
       "source_tier": "A",
       "editorial_status": "ACTUALIZAÇÃO"
     }
@@ -244,8 +236,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 2,
-    "África": 1,
+    "Moçambique": 1,
+    "África": 2,
     "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
