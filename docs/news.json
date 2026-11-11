@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:55:54.956398+00:00",
+  "updated_at": "2026-11-11T10:26:53.747314+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -8,45 +8,203 @@
     {
       "section": "Moçambique",
       "tags": [
-        "Energia",
-        "Economia",
-        "Segurança"
+        "Energia"
       ],
-      "title": "EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado",
-      "summary": "Os Estados Unidos da América querem reforçar a cooperação militar e de segurança com Moçambique, com enfoque na província de Cabo Delgado. A intenção passa pela intensificação dos exercícios conjuntos, formação das Forças de Defesa e Segurança e partilha de informações para combater o terrorismo e proteger os investimentos no sector do gás natural. A […]",
-      "why": "«EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "O País",
-      "published": "2026-11-10T18:24:55+00:00",
-      "age_hours": 5.5,
+      "title": "Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo",
+      "summary": "A subida do caudal do rio Maputo, provocada pelo aumento das descargas da barragem de Pongolapoort, na África do Sul, poderá agravar as inundações nas zonas ribeirinhas e condicionar a […]",
+      "why": "«Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-11-11T10:10:00+00:00",
+      "age_hours": 0.3,
       "within_24h": true,
-      "link": "https://opais.co.mz/eua-querem-reforcar-cooperacao-militar-com-mocambique-em-cabo-delgado/",
+      "link": "https://www.diarioeconomico.co.mz/2026/11/11/negocios/infra-estruturas/descargas-em-barragem-sul-africana-aumentam-risco-de-inundacoes-em-maputo/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 3,
-      "source_count": 2,
+      "source_count": 3,
       "sources": [
+        "Diário Económico",
         "O País",
         "Jornal Notícias"
       ],
-      "primary_source": "O País",
+      "primary_source": "Diário Económico",
       "status": "today",
       "confirmations": [
         {
-          "source": "Jornal Notícias",
-          "title": "Cabo Delgado aposta em novas técnicas para enfrentar o El Niño",
-          "link": "https://www.jornalnoticias.co.mz/destaque/cabo-delgado-aposta-em-novas-tecnicas-para-enfrentar-o-el-nino/"
+          "source": "O País",
+          "title": "Descarga de barragem sul-africana ameaça inundar machambas e estradas em Maputo",
+          "link": "https://opais.co.mz/subida-do-caudal-do-rio-maputo-pode-agravar-inundacoes-nas-zonas-ribeirinhas/"
         },
         {
           "source": "Jornal Notícias",
-          "title": "Moçambique e Portugal reforçam cooperação em diversos domínios",
-          "link": "https://www.jornalnoticias.co.mz/destaque/mocambique-e-portugal-reforcam-cooperacao-em-diversos-dominios/"
+          "title": "PM na abertura da Conferência de Gás e LNG em Maputo",
+          "link": "https://www.jornalnoticias.co.mz/destaque/pm-na-abertura-da-conferencia-de-gas-e-lng-em-maputo/"
         }
       ],
-      "opportunity_flag": true,
-      "detailed_summary": "Os Estados Unidos da América querem reforçar a cooperação militar e de segurança com Moçambique, com enfoque na província de Cabo Delgado. A intenção passa pela intensificação dos exercícios conjuntos, formação das Forças de Defesa e Segurança e partilha de informações para combater o terrorismo e proteger os investimentos no sector do gás natural. A […]. «EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «EUA querem reforçar cooperação militar com Moçambique em Cabo Delgado», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 16.35,
+      "opportunity_flag": false,
+      "detailed_summary": "A subida do caudal do rio Maputo, provocada pelo aumento das descargas da barragem de Pongolapoort, na África do Sul, poderá agravar as inundações nas zonas ribeirinhas e condicionar a […]. «Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 15.44,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia",
+        "Economia"
+      ],
+      "title": "Mais empresas devem beneficiar das oportunidades de exploração do gás natural",
+      "summary": "Maputo, 11 Nov (AIM) – A liderança do projecto Mozambique LNG, operado pela TotalEnergies EP Mozambique Área 1 Limitada (TEPMA1), quer que mais empresas moçambicanas beneficiem das oportunidades associadas a este grande empreendimento energético. A mesma liderança julga ser importante que as empresas compreendam os requisitos do mesmo e estejam preparadas para responder de forma competitiva. “Para que mais empresas moçambicanas possam beneficiar das oportunidades associadas ao Mozambique LNG, é importante que compreendam os requisitos do Projecto e estejam preparadas para responder de forma competitiva”, disse Edna Simbine, gestora de Conteúdo Local da TEPMA1, durante um “Speed Meeting” (Encontro de Negócios) realizado esta terça-feira, em Pemba, província nortenha de Cabo Delgado, e que reuniu mais de 100 empresas moçambicanas. “Os Speed Meetings contribuem para esse objectivo, aproximando fornecedores e equipas de aquisições.",
+      "why": "«Mais empresas devem beneficiar das oportunidades de exploração do gás natural» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Mais empresas devem beneficiar das oportunidades de exploração do gás natural», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "AIM Notícias",
+      "published": "2026-11-11T09:56:08+00:00",
+      "age_hours": 0.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/11/mais-empresas-devem-beneficiar-das-oportunidades-de-exploracao-do-gas-natural/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM Notícias"
+      ],
+      "primary_source": "AIM Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Maputo, 11 Nov (AIM) – A liderança do projecto Mozambique LNG, operado pela TotalEnergies EP Mozambique Área 1 Limitada (TEPMA1), quer que mais empresas moçambicanas beneficiem das oportunidades associadas a este grande empreendimento energético. A mesma liderança julga ser importante que as empresas compreendam os requisitos do mesmo e estejam preparadas para responder de forma competitiva. “Para que mais empresas moçambicanas possam beneficiar das oportunidades associadas ao Mozambique LNG, é importante que compreendam os requisitos do Projecto e estejam preparadas para responder de forma competitiva”, disse Edna Simbine, gestora de Conteúdo Local da TEPMA1, durante um “Speed Meeting” (Encontro de Negócios) realizado esta terça-feira, em Pemba, província nortenha de Cabo Delgado, e que reuniu mais de 100 empresas moçambicanas. “Os Speed Meetings contribuem para esse objectivo, aproximando fornecedores e equipas de aquisições. «Mais empresas devem beneficiar das oportunidades de exploração do gás natural» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Mais empresas devem beneficiar das oportunidades de exploração do gás natural», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 14.9,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas",
+      "summary": "A melhoria de infra-estruturas sociais, mobilidade, iluminação pública, oportunidades para jovens e assistência a pessoas vulneráveis continuam a ser os principais desafios que a cidade de Maputo enfrenta para prover serviços, conforme as necessidades dos munícipes. O reconhecimento foi feito pelo presidente do município, Rasaque Manhique, nas celebrações, ontem, dos 139 anos da elevação de Maputo à categoria de cidade. Segundo Manhique, as autoridades continuam a trabalhar para que cada munícipe encontre a oportunidade de realizar as suas actividades e viver com dignidade e segurança. Contudo, apontou que a capital está a viver uma transformação estrutural, com obras de saneamento e drenagem, criando-se bases para que seja mais resistente às chuvas e menos vulnerável às inundações. Para o efeito, foram construídos 9,5 quilómetros de colectores de águas residuais, ligando a zona alta da cidade à Estação de Tratamento de Águas Residuais de Infulene, passando a beneficiar mais de 128 mil munícipes.",
+      "why": "«Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-11T09:23:51+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/aos-139-anos-cidade-de-maputo-continua-a-enfrentar-desafios-de-infra-estruturas/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A melhoria de infra-estruturas sociais, mobilidade, iluminação pública, oportunidades para jovens e assistência a pessoas vulneráveis continuam a ser os principais desafios que a cidade de Maputo enfrenta para prover serviços, conforme as necessidades dos munícipes. O reconhecimento foi feito pelo presidente do município, Rasaque Manhique, nas celebrações, ontem, dos 139 anos da elevação de Maputo à categoria de cidade. Segundo Manhique, as autoridades continuam a trabalhar para que cada munícipe encontre a oportunidade de realizar as suas actividades e viver com dignidade e segurança. Contudo, apontou que a capital está a viver uma transformação estrutural, com obras de saneamento e drenagem, criando-se bases para que seja mais resistente às chuvas e menos vulnerável às inundações. Para o efeito, foram construídos 9,5 quilómetros de colectores de águas residuais, ligando a zona alta da cidade à Estação de Tratamento de Águas Residuais de Infulene, passando a beneficiar mais de 128 mil munícipes. «Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.79,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa",
+      "summary": "Desde a derrota de Donald Trump nas eleições intercalares que muitas vozes aguardam o momento \"borda fora\" de Pete Hegseth. Foi o que quase aconteceu na terça-feira - quase. Na primeira conferência de imprensa em seis meses, o secretário norte-americano da Defesa - ou da Guerra, na terminologia da Administração - classificou a tentativa de impeachment como uma \"farsa\" e um ato de \"sabotagem\"",
+      "why": "«Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-11T09:42:46+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/pete-hegseth-a-tona-de-agua-republicanos-impedem-destituicao-do-secretario-da-defesa_n1778355",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 3,
+      "source_count": 2,
+      "sources": [
+        "RTP Notícias",
+        "Euronews Português"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "Euronews Português",
+          "title": "Republicanos travam destituição do secretário de Defesa dos EUA pela guerra com o Irão",
+          "link": "https://pt.euronews.com/2026/11/11/republicanos-travam-impeachment-do-secretario-de-defesa-dos-eua-pela-guerra-com-o-irao"
+        },
+        {
+          "source": "Euronews Português",
+          "title": "Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações",
+          "link": "https://pt.euronews.com/2026/11/10/trump-diz-que-a-guerra-com-o-irao-praticamente-terminou-mas-teerao-nega-quaisquer-negociac"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Desde a derrota de Donald Trump nas eleições intercalares que muitas vozes aguardam o momento \"borda fora\" de Pete Hegseth. Foi o que quase aconteceu na terça-feira - quase. Na primeira conferência de imprensa em seis meses, o secretário norte-americano da Defesa - ou da Guerra, na terminologia da Administração - classificou a tentativa de impeachment como uma \"farsa\" e um ato de \"sabotagem\". «Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 13.35,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica",
+      "summary": "O artista plástico moçambicano Cartur inaugura, esta quarta-feira, na Fundação Fernando Leite Couto, em Maputo, a exposição individual intitulada “A Dor da Moeda Contada em Metical”, que reflecte sobre o impacto socioeconómico do custo de vida e a capacidade de resistência das famílias moçambicanas. A exposição, cuja abertura está marcada para às 18 horas, apresenta […]",
+      "why": "«Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
+      "impact": "No caso de «Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "O País",
+      "published": "2026-11-11T06:41:39+00:00",
+      "age_hours": 3.7,
+      "within_24h": true,
+      "link": "https://opais.co.mz/cartur-inaugura-exposicao-sobre-impacto-do-custo-de-vida-na-economia-domestica/",
+      "original_source": true,
+      "event_id": "evt-mocambique-008",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "O País"
+      ],
+      "primary_source": "O País",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O artista plástico moçambicano Cartur inaugura, esta quarta-feira, na Fundação Fernando Leite Couto, em Maputo, a exposição individual intitulada “A Dor da Moeda Contada em Metical”, que reflecte sobre o impacto socioeconómico do custo de vida e a capacidade de resistência das famílias moçambicanas. A exposição, cuja abertura está marcada para às 18 horas, apresenta […]. «Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 13.23,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático",
+      "summary": "Muitos governos ainda não estabeleceram metas, deixando os países beneficiários com dificuldades em planear e atrair investimento privado",
+      "why": "«Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
+      "impact": "No caso de «Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "source": "RTP Notícias",
+      "published": "2026-11-11T09:26:41+00:00",
+      "age_hours": 1.0,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/paises-em-desenvolvimento-entre-parentesis-enquanto-mais-ricos-adiam-financiamento-climatico_n1778359",
+      "original_source": true,
+      "event_id": "evt-mundo-005",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Muitos governos ainda não estabeleceram metas, deixando os países beneficiários com dificuldades em planear e atrair investimento privado. «Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "editorial_score": 11.79,
+      "source_tier": "A",
       "editorial_status": "HOJE"
     },
     {
@@ -60,216 +218,9 @@
       "impact": "No caso de «Constitucional valida lei das carreiras militares das Forças Armadas de Angola», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-11-10T19:52:25+00:00",
-      "age_hours": 4.1,
+      "age_hours": 14.6,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/constitucional-valida-lei-das-carreiras-militares-das-forcas-armadas-de-angola_n1778243",
-      "original_source": true,
-      "event_id": "evt-áfrica-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Tribunal Constitucional de Angola recusou o pedido de inconstitucionalidade da lei que altera as carreiras dos militares das Forças Armadas, feito pelo principal partido da oposição, a UNITA O Tribunal julgou improcedente, num acórdão a que a Lusa teve hoje acesso, o pedido de declaração de inconstitucionalidade apresentado, em junho, pelo grupo parlamentar da União Nacional para a Independência Total de Angola (UNITA) Os juízes conselheiros entenderam que não se verifica \"qualquer ofensa aos princípios da legalidade, da igualdade, da proporcionalidade, da segurança jurídica, da proteção da confiança, da proibição do excesso ou do direito a um processo equitativo\" Em causa está a Lei 3/26 -- Lei de Alteração à Lei das Carreiras dos Militares das Forças Armadas Angolanas, de iniciativa do Governo, aprovada no princípio deste ano pela Assembleia Nacional O grupo parlamentar da UNITA pediu a revisão de quatro artigos \"por violação de princípios, direitos, liberdades, garantias e normas estruturantes da Constituição da República de Angola\" O principal partido da oposição argumentou… «Constitucional valida lei das carreiras militares das Forças Armadas de Angola» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Constitucional valida lei das carreiras militares das Forças Armadas de Angola», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 13.15,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "Boane retoma produção agrícola em Massaca",
-      "summary": "O distrito de Boane, na província de Maputo, conta com mais 7,3 hectares preparados para a produção agrícola irrigada, na sequência da recuperação da primeira fase do Regadio de Massaca, paralisado em 2015. A intervenção, 11 anos depois, inclui dois tanques piscícolas em betão e outras infra-estruturas de apoio, num investimento superior a cinco milhões de meticais e deverá beneficiar mais de 80 produtores. Na cerimónia de entrega, o governador da província de Maputo, Manuel Tule, revelou que dos 51 regadios existentes na província, com uma área potencial de quatro mil hectares, apenas 2.064 estão em plena exploração. Apontou a degradação dos canais, avarias de moto-bombas, dificuldades de acesso à energia e combustível, salinização dos solos e efeitos das cheias entre os factores que condicionam o funcionamento destas infra-estruturas, defendendo a recuperação dos sistemas de irrigação para reduzir a dependência das chuvas. Por sua vez, a presidente do Município de Boane, Geraldina Uchavo, defendeu o aumento da produção hortícola para abastecer os mercados do Grande Maputo.",
-      "why": "«Boane retoma produção agrícola em Massaca» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Boane retoma produção agrícola em Massaca», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-10T11:25:23+00:00",
-      "age_hours": 12.5,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/sociedade-nacional/boane-retoma-producao-agricola-em-massaca/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O distrito de Boane, na província de Maputo, conta com mais 7,3 hectares preparados para a produção agrícola irrigada, na sequência da recuperação da primeira fase do Regadio de Massaca, paralisado em 2015. A intervenção, 11 anos depois, inclui dois tanques piscícolas em betão e outras infra-estruturas de apoio, num investimento superior a cinco milhões de meticais e deverá beneficiar mais de 80 produtores. Na cerimónia de entrega, o governador da província de Maputo, Manuel Tule, revelou que dos 51 regadios existentes na província, com uma área potencial de quatro mil hectares, apenas 2.064 estão em plena exploração. Apontou a degradação dos canais, avarias de moto-bombas, dificuldades de acesso à energia e combustível, salinização dos solos e efeitos das cheias entre os factores que condicionam o funcionamento destas infra-estruturas, defendendo a recuperação dos sistemas de irrigação para reduzir a dependência das chuvas. Por sua vez, a presidente do Município de Boane, Geraldina Uchavo, defendeu o aumento da produção hortícola para abastecer os mercados do Grande Maputo. «Boane retoma produção agrícola em Massaca» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Boane retoma produção agrícola em Massaca», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.4,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
-        "IA"
-      ],
-      "title": "Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares",
-      "summary": "Maputo, 10 de Nov (AIM) – Organizações da sociedade civil da Zâmbia exigem que o Governo divulgue integralmente o acordo de financiamento da saúde de 1,5 mil milhões de dólares assinado com os Estados Unidos de América, alegando falta de transparência e pedindo esclarecimentos sobre possíveis ligações entre a assistência médica e o acesso aos recursos minerais do país. O pedido consta de um comunicado divulgado esta semana por uma coligação que integra organizações como a ActionAid Zambia, Publish What You Pay Zambia, Oxfam, Fight Inequality Alliance e Zambia Alliance for Women. O acordo, assinado pelos dois governos a 8 de Outubro, prevê a disponibilização de cerca de 1,5 mil milhões de dólares para financiar o sector da saúde zambiano durante cinco anos. Segundo as organizações, o entendimento resulta de um memorando assinado em Março de 2026, que terá previsto a partilha de dados de pacientes, amostras biológicas e outras formas de cooperação em áreas como inteligência artificial, tecnologia de defesa, energia e infra-estruturas.",
-      "why": "«Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-10T10:45:17+00:00",
-      "age_hours": 13.2,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/10/zambia-sociedade-civil-exige-divulgacao-de-acordo-de-saude-de-15-mil-milhoes-de-dolares/",
-      "original_source": true,
-      "event_id": "evt-mocambique-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 10 de Nov (AIM) – Organizações da sociedade civil da Zâmbia exigem que o Governo divulgue integralmente o acordo de financiamento da saúde de 1,5 mil milhões de dólares assinado com os Estados Unidos de América, alegando falta de transparência e pedindo esclarecimentos sobre possíveis ligações entre a assistência médica e o acesso aos recursos minerais do país. O pedido consta de um comunicado divulgado esta semana por uma coligação que integra organizações como a ActionAid Zambia, Publish What You Pay Zambia, Oxfam, Fight Inequality Alliance e Zambia Alliance for Women. O acordo, assinado pelos dois governos a 8 de Outubro, prevê a disponibilização de cerca de 1,5 mil milhões de dólares para financiar o sector da saúde zambiano durante cinco anos. Segundo as organizações, o entendimento resulta de um memorando assinado em Março de 2026, que terá previsto a partilha de dados de pacientes, amostras biológicas e outras formas de cooperação em áreas como inteligência artificial, tecnologia de defesa, energia e infra-estruturas. «Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Zâmbia: Sociedade civil exige divulgação de acordo de saúde de 1,5 mil milhões de dólares», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 12.25,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "IA",
-        "Segurança"
-      ],
-      "title": "Governo apresenta em Doha prioridades para acelerar digitalização do país",
-      "summary": "Maputo, 10 de Nove (AIM) – Moçambique apresentou, em Doha, no Qatar, as prioridades para acelerar a transformação digital do país, com enfoque na expansão da Internet de banda larga, implementação da tecnologia 5G, utilização da inteligência artificial e reforço da cibersegurança e da protecção de dados. A posição foi apresentada pelo Ministro das Comunicações e Transformação Digital, Américo Muchanga, durante a Conferência de Plenipotenciários da União Internacional das Telecomunicações (UIT 2026), que decorre de 9 a 12 de Novembro, em Doha. Na sua intervenção, o governante destacou a visão de Moçambique para a construção de uma sociedade digital inclusiva, segura e sustentável, assente na inovação tecnológica e na utilização das tecnologias de informação e comunicação como instrumentos de desenvolvimento. Entre as prioridades apresentadas consta igualmente a aplicação da inteligência artificial e do Big Data na prevenção e gestão de desastres, com vista ao reforço da capacidade de antecipação e resposta a fenómenos que afectam o país.",
-      "why": "«Governo apresenta em Doha prioridades para acelerar digitalização do país» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia.",
-      "impact": "No caso de «Governo apresenta em Doha prioridades para acelerar digitalização do país», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-10T10:05:28+00:00",
-      "age_hours": 13.8,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/10/governo-apresenta-em-doha-prioridades-para-acelerar-digitalizacao-do-pais/",
-      "original_source": true,
-      "event_id": "evt-mocambique-006",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "AIM Notícias"
-      ],
-      "primary_source": "AIM Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Maputo, 10 de Nove (AIM) – Moçambique apresentou, em Doha, no Qatar, as prioridades para acelerar a transformação digital do país, com enfoque na expansão da Internet de banda larga, implementação da tecnologia 5G, utilização da inteligência artificial e reforço da cibersegurança e da protecção de dados. A posição foi apresentada pelo Ministro das Comunicações e Transformação Digital, Américo Muchanga, durante a Conferência de Plenipotenciários da União Internacional das Telecomunicações (UIT 2026), que decorre de 9 a 12 de Novembro, em Doha. Na sua intervenção, o governante destacou a visão de Moçambique para a construção de uma sociedade digital inclusiva, segura e sustentável, assente na inovação tecnológica e na utilização das tecnologias de informação e comunicação como instrumentos de desenvolvimento. Entre as prioridades apresentadas consta igualmente a aplicação da inteligência artificial e do Big Data na prevenção e gestão de desastres, com vista ao reforço da capacidade de antecipação e resposta a fenómenos que afectam o país. «Governo apresenta em Doha prioridades para acelerar digitalização do país» é relevante por mostrar uma mudança concreta na adopção, regulação ou uso da tecnologia. No caso de «Governo apresenta em Doha prioridades para acelerar digitalização do país», os efeitos podem incluir mudanças nas competências procuradas, produtividade, custos e oportunidades digitais em Moçambique.",
-      "editorial_score": 12.12,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia",
-        "Segurança"
-      ],
-      "title": "EUA afastam necessidade de nova ofensiva militar contra Teerão",
-      "summary": "O secretário de Estado norte-americano, Marco Rubio, afirmou hoje que a pressão económica sobre o Irão torna desnecessária uma nova ofensiva militar, mas acusou Teerão de apresentar condições \"absurdas\" para um acordo de paz \"A campanha de pressão económica contra o Irão é tão devastadora que não há necessidade, neste momento, de grandes operações de combate\", declarou Rubio, após uma reunião dos ministros dos Negócios Estrangeiros do G7, em Paris \"Foi isso que disse hoje aos nossos aliados\", acrescentou o chefe da diplomacia norte-americana Rubio avisou, contudo, que Washington mantém a possibilidade de recorrer à força militar caso as autoridades iranianas ultrapassem determinadas linhas vermelhas \"Obviamente, se o Irão ultrapassar certas linhas vermelhas, se o seu regime fizer determinadas coisas que não deveriam acontecer, as Forças Armadas norte-americanas, a força militar mais capaz do mundo, estão preparadas para responder\", afirmou Rubio O secretário de Estado garantiu igualmente que Washington continua disponível para negociar um acordo que permita terminar a guerra, mas…",
-      "why": "«EUA afastam necessidade de nova ofensiva militar contra Teerão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «EUA afastam necessidade de nova ofensiva militar contra Teerão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-10T18:25:50+00:00",
-      "age_hours": 5.5,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eua-afastam-necessidade-de-nova-ofensiva-militar-contra-teerao_n1778176",
-      "original_source": true,
-      "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O secretário de Estado norte-americano, Marco Rubio, afirmou hoje que a pressão económica sobre o Irão torna desnecessária uma nova ofensiva militar, mas acusou Teerão de apresentar condições \"absurdas\" para um acordo de paz \"A campanha de pressão económica contra o Irão é tão devastadora que não há necessidade, neste momento, de grandes operações de combate\", declarou Rubio, após uma reunião dos ministros dos Negócios Estrangeiros do G7, em Paris \"Foi isso que disse hoje aos nossos aliados\", acrescentou o chefe da diplomacia norte-americana Rubio avisou, contudo, que Washington mantém a possibilidade de recorrer à força militar caso as autoridades iranianas ultrapassem determinadas linhas vermelhas \"Obviamente, se o Irão ultrapassar certas linhas vermelhas, se o seu regime fizer determinadas coisas que não deveriam acontecer, as Forças Armadas norte-americanas, a força militar mais capaz do mundo, estão preparadas para responder\", afirmou Rubio O secretário de Estado garantiu igualmente que Washington continua disponível para negociar um acordo que permita terminar a guerra, mas… «EUA afastam necessidade de nova ofensiva militar contra Teerão» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «EUA afastam necessidade de nova ofensiva militar contra Teerão», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 11.85,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "“Planificação e Desenvolvimento” em Conselho Coordenador na Matola",
-      "summary": "O Ministério da Planificação e Desenvolvimento (MPD) realiza, a partir desta quarta até sexta-feira (11 a 13 de Novembro), na cidade da Matola, província de Maputo, o seu II Conselho Coordenador, a decorrer sob o lema “Por uma Planificação Transformadora Focada em Resultados e com Impacto no Desenvolvimento Socio-Económico do país”. A sessão solene de abertura será dirigida pelo ministro da Planificação e Desenvolvimento, Salim Valá e reúne cerca de 120 participantes, entre dirigentes e quadros superiores, representantes de instituições tuteladas e responsáveis provinciais de planificação, indica o comunicado de imprensa. O evento visa discutir as prioridades estratégicas de desenvolvimento para 2027 e avaliar os resultados alcançados este ano, marcado pela desaceleração económica, restrições fiscais, choques climáticos e necessidade de criação de mais oportunidades de emprego e rendimento.",
-      "why": "«“Planificação e Desenvolvimento” em Conselho Coordenador na Matola» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «“Planificação e Desenvolvimento” em Conselho Coordenador na Matola», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "Jornal Notícias",
-      "published": "2026-11-10T12:38:55+00:00",
-      "age_hours": 11.3,
-      "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/planificacao-e-desenvolvimento-em-conselho-coordenador-na-matola/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Jornal Notícias"
-      ],
-      "primary_source": "Jornal Notícias",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "O Ministério da Planificação e Desenvolvimento (MPD) realiza, a partir desta quarta até sexta-feira (11 a 13 de Novembro), na cidade da Matola, província de Maputo, o seu II Conselho Coordenador, a decorrer sob o lema “Por uma Planificação Transformadora Focada em Resultados e com Impacto no Desenvolvimento Socio-Económico do país”. A sessão solene de abertura será dirigida pelo ministro da Planificação e Desenvolvimento, Salim Valá e reúne cerca de 120 participantes, entre dirigentes e quadros superiores, representantes de instituições tuteladas e responsáveis provinciais de planificação, indica o comunicado de imprensa. O evento visa discutir as prioridades estratégicas de desenvolvimento para 2027 e avaliar os resultados alcançados este ano, marcado pela desaceleração económica, restrições fiscais, choques climáticos e necessidade de criação de mais oportunidades de emprego e rendimento. «“Planificação e Desenvolvimento” em Conselho Coordenador na Matola» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «“Planificação e Desenvolvimento” em Conselho Coordenador na Matola», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.65,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "PR são-tomense convida MLSTP a indicar primeiro-ministro mas pede sustentabilidade",
-      "summary": "O Presidente são-tomense convidou hoje o Movimento de Libertação de São Tomé e Príncipe (MLSTP), vencedor das últimas eleições sem maioria absoluta, a indicar o primeiro-ministro, mas exigiu provas de sustentabilidade parlamentar Segundo uma publicação da Presidência da República nas redes sociais, o chefe de Estado exigiu o envio, por escrito e num período de 24 horas, do nome da individualidade para o cargo de primeiro- ministro, \"acompanhada de elementos que permitam aferir a respetiva sustentabilidade parlamentar, nomeadamente quanto à existência de apoio político suficiente na Assembleia Nacional para assegurar a viabilização do Programa do Governo e o regular exercício das funções governativas\" \"Reitero a importância desse procedimento para a salvaguarda do interesse nacional, o respeito pelos princípios democráticos e a promoção da estabilidade política e institucional da República Democrática de São Tomé e Príncipe\", refere a Presidência, que cita a carta do Presidente da República enviada ao MLSTP Minutos antes, a Presidência da República anunciou que o chefe de Estado…",
-      "why": "«PR são-tomense convida MLSTP a indicar primeiro-ministro mas pede sustentabilidade» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «PR são-tomense convida MLSTP a indicar primeiro-ministro mas pede sustentabilidade», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "source": "RTP Notícias",
-      "published": "2026-11-10T22:10:04+00:00",
-      "age_hours": 1.8,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/pr-sao-tomense-convida-mlstp-a-indicar-primeiro-ministro-mas-pede-sustentabilidade_n1778247",
-      "original_source": true,
-      "event_id": "evt-mundo-001",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "RTP Notícias"
-      ],
-      "primary_source": "RTP Notícias",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente são-tomense convidou hoje o Movimento de Libertação de São Tomé e Príncipe (MLSTP), vencedor das últimas eleições sem maioria absoluta, a indicar o primeiro-ministro, mas exigiu provas de sustentabilidade parlamentar Segundo uma publicação da Presidência da República nas redes sociais, o chefe de Estado exigiu o envio, por escrito e num período de 24 horas, do nome da individualidade para o cargo de primeiro- ministro, \"acompanhada de elementos que permitam aferir a respetiva sustentabilidade parlamentar, nomeadamente quanto à existência de apoio político suficiente na Assembleia Nacional para assegurar a viabilização do Programa do Governo e o regular exercício das funções governativas\" \"Reitero a importância desse procedimento para a salvaguarda do interesse nacional, o respeito pelos princípios democráticos e a promoção da estabilidade política e institucional da República Democrática de São Tomé e Príncipe\", refere a Presidência, que cita a carta do Presidente da República enviada ao MLSTP Minutos antes, a Presidência da República anunciou que o chefe de Estado… «PR são-tomense convida MLSTP a indicar primeiro-ministro mas pede sustentabilidade» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «PR são-tomense convida MLSTP a indicar primeiro-ministro mas pede sustentabilidade», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 10.62,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Energia"
-      ],
-      "title": "Alterações climáticas. Impacto desproporcional em África",
-      "summary": "O aquecimento global agrava os riscos climáticos em África. O Instituto de Recursos Mundiais refere a crise climática como \"o exemplo perfeito da injustiça\". O continente representa apenas dois a três por cento das emissões globais de gases com efeito de estufa",
-      "why": "«Alterações climáticas. Impacto desproporcional em África» merece atenção porque pode alterar decisões de energia e investimento em África.",
-      "impact": "No caso de «Alterações climáticas. Impacto desproporcional em África», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "source": "RTP Notícias",
-      "published": "2026-11-10T15:35:47+00:00",
-      "age_hours": 8.3,
-      "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/alteracoes-climaticas-impacto-desproporcional-em-africa_v1778153",
       "original_source": true,
       "event_id": "evt-áfrica-002",
       "cluster_size": 1,
@@ -279,134 +230,126 @@
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O aquecimento global agrava os riscos climáticos em África. O Instituto de Recursos Mundiais refere a crise climática como \"o exemplo perfeito da injustiça\". O continente representa apenas dois a três por cento das emissões globais de gases com efeito de estufa. «Alterações climáticas. Impacto desproporcional em África» merece atenção porque pode alterar decisões de energia e investimento em África. No caso de «Alterações climáticas. Impacto desproporcional em África», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a África.",
-      "editorial_score": 10.27,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Energia"
-      ],
-      "title": "COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima",
-      "summary": "Evento em Antália conta com representantes de 200 países; com um forte fenômeno El Niño ameaçando agravar eventos climáticos extremos, negociadores enfrentam questões complexas sobre financiamento climático, energia limpa e a proteção de comunidades que já vivenciam as consequências das mudanças climáticas",
-      "why": "«COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima» merece atenção porque pode alterar decisões de energia e investimento em Mundo.",
-      "impact": "No caso de «COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-11-10T12:00:00+00:00",
-      "age_hours": 11.9,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854878",
-      "original_source": true,
-      "event_id": "evt-mundo-007",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Evento em Antália conta com representantes de 200 países; com um forte fenômeno El Niño ameaçando agravar eventos climáticos extremos, negociadores enfrentam questões complexas sobre financiamento climático, energia limpa e a proteção de comunidades que já vivenciam as consequências das mudanças climáticas. «COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima» merece atenção porque pode alterar decisões de energia e investimento em Mundo. No caso de «COP31: Mais de 90 mil pessoas na Turquia à procura de resultados para o clima», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Mundo.",
-      "editorial_score": 9.52,
+      "detailed_summary": "O Tribunal Constitucional de Angola recusou o pedido de inconstitucionalidade da lei que altera as carreiras dos militares das Forças Armadas, feito pelo principal partido da oposição, a UNITA O Tribunal julgou improcedente, num acórdão a que a Lusa teve hoje acesso, o pedido de declaração de inconstitucionalidade apresentado, em junho, pelo grupo parlamentar da União Nacional para a Independência Total de Angola (UNITA) Os juízes conselheiros entenderam que não se verifica \"qualquer ofensa aos princípios da legalidade, da igualdade, da proporcionalidade, da segurança jurídica, da proteção da confiança, da proibição do excesso ou do direito a um processo equitativo\" Em causa está a Lei 3/26 -- Lei de Alteração à Lei das Carreiras dos Militares das Forças Armadas Angolanas, de iniciativa do Governo, aprovada no princípio deste ano pela Assembleia Nacional O grupo parlamentar da UNITA pediu a revisão de quatro artigos \"por violação de princípios, direitos, liberdades, garantias e normas estruturantes da Constituição da República de Angola\" O principal partido da oposição argumentou… «Constitucional valida lei das carreiras militares das Forças Armadas de Angola» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Constitucional valida lei das carreiras militares das Forças Armadas de Angola», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 10.96,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
-      "summary": "Celebra faz apelo por conhecimento sem fronteiras e paz sem barreiras; agência da ONU sublinha que, em 2026, diplomacia científica lembra que cooperação é a maior ferramenta para sustentabilidade e paz global",
-      "why": "«Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Notícias ONU",
-      "published": "2026-11-10T12:00:00+00:00",
-      "age_hours": 11.9,
-      "within_24h": true,
-      "link": "https://news.un.org/feed/view/pt/story/2026/11/1854881",
-      "original_source": true,
-      "event_id": "evt-mundo-008",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Notícias ONU"
-      ],
-      "primary_source": "Notícias ONU",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Celebra faz apelo por conhecimento sem fronteiras e paz sem barreiras; agência da ONU sublinha que, em 2026, diplomacia científica lembra que cooperação é a maior ferramenta para sustentabilidade e paz global. «Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Unesco marca Dia Mundial da Ciência pela Paz e pelo Desenvolvimento», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 9.52,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações",
-      "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou na segunda-feira que há um impulso para pôr fim à guerra com o Irão, ao declarar que o país “do ponto de vista militar está praticamente derrotado”, mas manteve em aberto a possibilidade de novos ataques.“O Irão, do ponto de vista militar, está praticamente derrotado. Estamos apenas a manter o statu quo”, disse Trump aos jornalistas, na segunda-feira, numa conferência de imprensa na Casa Branca.",
-      "why": "«Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "source": "Euronews Português",
-      "published": "2026-11-10T12:13:44+00:00",
-      "age_hours": 11.7,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/10/trump-diz-que-a-guerra-com-o-irao-praticamente-terminou-mas-teerao-nega-quaisquer-negociac",
-      "original_source": true,
-      "event_id": "evt-mundo-006",
-      "cluster_size": 2,
-      "source_count": 2,
-      "sources": [
-        "Euronews Português",
-        "RTP Notícias"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "RTP Notícias",
-          "title": "Irão está \"militarmente acabado\", assegura Trump",
-          "link": "https://www.rtp.pt/noticias/mundo/irao-esta-militarmente-acabado-assegura-trump_n1777992"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "O presidente dos Estados Unidos, Donald Trump, afirmou na segunda-feira que há um impulso para pôr fim à guerra com o Irão, ao declarar que o país “do ponto de vista militar está praticamente derrotado”, mas manteve em aberto a possibilidade de novos ataques.“O Irão, do ponto de vista militar, está praticamente derrotado. Estamos apenas a manter o statu quo”, disse Trump aos jornalistas, na segunda-feira, numa conferência de imprensa na Casa Branca. «Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.06,
-      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
       "section": "África",
       "tags": [
-        "Economia"
+        "Segurança"
       ],
-      "title": "Perto de 64.000 nigerianos refugiaram-se no Níger",
-      "summary": "Perto de 64.000 nigerianos fugiram para o Níger desde o início do ano devido à violência que assola o norte do país, anunciou ontem o Alto Comissariado das Nações Unidas para os Refugiados (ACNUR). “Quase 64.000 pessoas chegaram ao Níger, desde o início do ano, em fuga à violência no norte da Nigéria, o que […]",
-      "why": "«Perto de 64.000 nigerianos refugiaram-se no Níger» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Perto de 64.000 nigerianos refugiaram-se no Níger», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "source": "O País",
-      "published": "2026-11-10T14:23:23+00:00",
-      "age_hours": 9.5,
+      "title": "Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos",
+      "summary": "O surto de ébola na República Democrática do Congo (RDCongo) ultrapassou os 11 mil casos, informou hoje o Governo, numa altura em que a doença continua a espalhar-se no país De acordo com os dados mais recentes do Ministério da Saúde, 11.042 pessoas foram infetadas pelo vírus mortal, que já provocou 5.387 mortes, quase metade dos infetados, naquele que se tornou o surto mais letal alguma vez registado na RDCongo Além disso, um total de 2.990 doentes recuperaram da doença até à data, e outros 651 encontram-se hospitalizados ou em isolamento A taxa de monitorização dos contactos situa-se nos 79,7%, informaram as autoridades de saúde As províncias orientais de Ituri e Kivu do Norte são os territórios mais atingidos do país, concentrando 57,7% e 32,7% dos novos casos registados a 09 de novembro, respetivamente O surto foi declarado em meados de maio, em Ituri, e, desde então, as autoridades congolesas têm tido dificuldades em contê-lo devido a diversos fatores, entre os quais conflitos armados, uma crise no sistema de saúde, precariedade das vias de acesso e episódios de violência por…",
+      "why": "«Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "source": "RTP Notícias",
+      "published": "2026-11-11T07:35:38+00:00",
+      "age_hours": 2.9,
       "within_24h": true,
-      "link": "https://opais.co.mz/perto-de-64-000-nigerianos-refugiaram-se-no-niger/",
+      "link": "https://www.rtp.pt/noticias/mundo/surto-de-ebola-na-republica-democratica-do-congo-ultrapassa-11-mil-casos_n1778334",
       "original_source": true,
-      "event_id": "evt-áfrica-003",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "O País"
+        "RTP Notícias"
       ],
-      "primary_source": "O País",
+      "primary_source": "RTP Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Perto de 64.000 nigerianos fugiram para o Níger desde o início do ano devido à violência que assola o norte do país, anunciou ontem o Alto Comissariado das Nações Unidas para os Refugiados (ACNUR). “Quase 64.000 pessoas chegaram ao Níger, desde o início do ano, em fuga à violência no norte da Nigéria, o que […]. «Perto de 64.000 nigerianos refugiaram-se no Níger» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Perto de 64.000 nigerianos refugiaram-se no Níger», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
-      "editorial_score": 8.02,
+      "detailed_summary": "O surto de ébola na República Democrática do Congo (RDCongo) ultrapassou os 11 mil casos, informou hoje o Governo, numa altura em que a doença continua a espalhar-se no país De acordo com os dados mais recentes do Ministério da Saúde, 11.042 pessoas foram infetadas pelo vírus mortal, que já provocou 5.387 mortes, quase metade dos infetados, naquele que se tornou o surto mais letal alguma vez registado na RDCongo Além disso, um total de 2.990 doentes recuperaram da doença até à data, e outros 651 encontram-se hospitalizados ou em isolamento A taxa de monitorização dos contactos situa-se nos 79,7%, informaram as autoridades de saúde As províncias orientais de Ituri e Kivu do Norte são os territórios mais atingidos do país, concentrando 57,7% e 32,7% dos novos casos registados a 09 de novembro, respetivamente O surto foi declarado em meados de maio, em Ituri, e, desde então, as autoridades congolesas têm tido dificuldades em contê-lo devido a diversos fatores, entre os quais conflitos armados, uma crise no sistema de saúde, precariedade das vias de acesso e episódios de violência por… «Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
+      "editorial_score": 10.4,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados",
+      "summary": "O Presidente da República, Daniel Chapo, lançou, esta segunda-feira, 9 de Novembro, na província de Niassa, a iniciativa “PROSPERA”, destinada a facilitar o acesso dos produtores dos sectores da agricultura, […]",
+      "why": "«Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-11-11T09:35:00+00:00",
+      "age_hours": 0.9,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/11/11/negocios/agronegocios/governo-lanca-prospera-para-melhorar-acesso-dos-produtores-aos-mercados/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "O Presidente da República, Daniel Chapo, lançou, esta segunda-feira, 9 de Novembro, na província de Niassa, a iniciativa “PROSPERA”, destinada a facilitar o acesso dos produtores dos sectores da agricultura, […]. «Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 9.81,
       "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia",
+      "summary": "Um militar norte-americano, de 41 anos, foi detido nas proximidades de Gloucester, sob a acusação de espionagem a favor da Rússia, no âmbito de uma operação antiterrorista realizada pelas autoridades britânicas com o apoio das forças armadas e das autoridades policiais norte-americanas.O militar em questão foi detido na terça-feira ao abrigo da legislação de segurança nacional e encaminhado para uma esquadra em Londres, onde permanece sob custódia, segundo informações da Polícia Metropolitana.\"Esta detenção e investigação significativas resultam de uma estreita colaboração entre as autoridades do Reino Unido e dos Estados Unidos\", afirmou Vicki Evans, coordenadora nacional sénior para o combate ao terrorismo.\"As acusações são graves e a nossa investigação está muito longe de estar concluída\", acrescentou a mesma responsável.As autoridades referiram ainda que o caso \"não está ligado a quaisquer outras investigações em curso da Polícia Antiterrorismo\".Kash Patel, diretor do FBI, agradeceu à polícia e aos serviços de informações britânicos o trabalho desenvolvido neste caso.“Esta…",
+      "why": "«Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-11T09:49:25+00:00",
+      "age_hours": 0.6,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/2026/11/11/reino-unido-detem-militar-dos-eua-por-suspeita-de-espionagem-para-a-russia",
+      "original_source": true,
+      "event_id": "evt-mundo-002",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Um militar norte-americano, de 41 anos, foi detido nas proximidades de Gloucester, sob a acusação de espionagem a favor da Rússia, no âmbito de uma operação antiterrorista realizada pelas autoridades britânicas com o apoio das forças armadas e das autoridades policiais norte-americanas.O militar em questão foi detido na terça-feira ao abrigo da legislação de segurança nacional e encaminhado para uma esquadra em Londres, onde permanece sob custódia, segundo informações da Polícia Metropolitana.\"Esta detenção e investigação significativas resultam de uma estreita colaboração entre as autoridades do Reino Unido e dos Estados Unidos\", afirmou Vicki Evans, coordenadora nacional sénior para o combate ao terrorismo.\"As acusações são graves e a nossa investigação está muito longe de estar concluída\", acrescentou a mesma responsável.As autoridades referiram ainda que o caso \"não está ligado a quaisquer outras investigações em curso da Polícia Antiterrorismo\".Kash Patel, diretor do FBI, agradeceu à polícia e aos serviços de informações britânicos o trabalho desenvolvido neste caso.“Esta… «Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.88,
+      "source_tier": "C",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Turquia: banda otomana recebe líderes mundiais na COP31",
+      "summary": "Uma banda militar de estilo otomano recebe os delegados internacionais na COP31, em Antália, com marchas tradicionais e ritmos vibrantes",
+      "why": "«Turquia: banda otomana recebe líderes mundiais na COP31» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Turquia: banda otomana recebe líderes mundiais na COP31», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "Euronews Português",
+      "published": "2026-11-11T10:16:33+00:00",
+      "age_hours": 0.2,
+      "within_24h": true,
+      "link": "https://pt.euronews.com/video/2026/11/11/turquia-banda-otomana-recebe-lideres-mundiais-na-cop31",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Euronews Português"
+      ],
+      "primary_source": "Euronews Português",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Uma banda militar de estilo otomano recebe os delegados internacionais na COP31, em Antália, com marchas tradicionais e ritmos vibrantes. «Turquia: banda otomana recebe líderes mundiais na COP31» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Turquia: banda otomana recebe líderes mundiais na COP31», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 7.96,
+      "source_tier": "C",
       "editorial_status": "HOJE"
     },
     {
@@ -420,7 +363,7 @@
       "impact": "No caso de «Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "Euronews Português",
       "published": "2026-11-10T12:59:30+00:00",
-      "age_hours": 10.9,
+      "age_hours": 21.5,
       "within_24h": true,
       "link": "https://pt.euronews.com/2026/11/10/espanha-combate-pirataria-fragata-santa-maria-patrulha-o-golfo-de-aden",
       "original_source": true,
@@ -434,7 +377,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Os conflitos no Corno de África, no Iémen e no Irão suscitaram preocupação sobre a forma como a instabilidade na região poderá fomentar indiretamente a pirataria num ponto de passagem crítico entre o Ocidente e a Ásia, segundo indicaram comandantes da força naval da União Europeia sediados em Djibuti.A agência Associated Press (AP) acompanhou a fragata espanhola Santa María numa das suas patrulhas habituais a partir de Djibuti em direção ao golfo de Áden, com o Iémen a norte e a Somalilândia e a Somália a sul.Mais de 200 marinheiros, incluindo uma equipa de operações especiais treinada para recuperar navios capturados por piratas, encontram-se destacados no navio-almirante da Operação Atalanta, a missão antipirataria da Força Naval da União Europeia.O comodoro português, José Rodrigues Pedra, ao comando da operação, explicou a partir da ponte da Santa María que, embora os combates no Iémen, no Irão e noutras zonas da região não estejam ligados diretamente ao recente aumento da atividade pirata, “uma crise gera outra crise”.Há mais de duas décadas, a pirataria abalou esta parte do… «Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 5.73,
+      "editorial_score": 3.52,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
@@ -459,8 +402,8 @@
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
     "Moçambique": 5,
-    "África": 4,
-    "Mundo": 5
+    "África": 3,
+    "Mundo": 4
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
   "briefing_intro": {

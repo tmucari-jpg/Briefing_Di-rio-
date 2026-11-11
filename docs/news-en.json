@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:55:59.811084+00:00",
+  "updated_at": "2026-11-11T10:27:06.554559+00:00",
   "language": "en",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -12,15 +12,75 @@
         "Economia",
         "Segurança"
       ],
-      "title": "Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026",
-      "summary": "Photo: World Tourism Forum Institute The award marks a second consecutive year of recognition for Mozambique at the World Tourism Awards, following its selection as Best Sustainable Destination in 2025. Together, the two honours tell a clear story: a country long admired for its coastline, islands and wildlife is now also earning the confidence of international investors Tourism at the heart of a new economic vision Since taking office in January 2025, President Daniel Francisco Chapo has placed tourism at the centre of Mozambique’s economic agenda. He presents the sector as a strategic engine of growth, jobs and social inclusion, and as the surest path to diversifying the economy beyond natural gas, coal and other extractive resources. “Gas will one day run out… tourism will never run out,” the President said earlier this month The Government’s Five-Year Programme for 2025–2029 turns that conviction into concrete targets raising tourism’s contribution to GDP to 6% by 2029 Reforms that open the door to investors The President’s vision has been matched by structural reform.",
-      "why": "«Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026» matters because it may change energy and investment decisions affecting Moçambique.",
-      "impact": "For «Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "title": "Mozambique attracts US$1.88 billion in FDI in H1",
+      "summary": "The total comprised inflows of US$1.286 billion (€1.091 billion) in the first quarter of 2026 and US$594.5 million (€517 million) in the second quarter, according to statistical data from the Bank of Mozambique Despite the slowdown observed between April and June, the structure of foreign investment remains largely dominated by megaprojects associated with natural resources, particularly natural gas, oil and mining, which continue to absorb most of the external capital directed towards the Mozambican economy In the documents accompanying the Economic and Social Plan and State Budget (PESOE), the Government projected a new historic high of US$5.88 billion (€4.988 billion) in FDI for 2026, driven mainly by progress on liquefied natural gas projects in the north of the country In the first quarter, the extractive industries attracted US$1.209 billion (€1.048 billion), equivalent to approximately 94% of all FDI received by the country during that period, highlighting the decisive weight of major energy and mining projects in attracting foreign investment The dominance of this sector…",
+      "why": "«Mozambique attracts US$1.88 billion in FDI in H1» matters because it may change energy and investment decisions affecting Moçambique.",
+      "impact": "For «Mozambique attracts US$1.88 billion in FDI in H1», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
       "source": "Club of Mozambique",
-      "published": "2026-11-10T17:44:19+00:00",
-      "age_hours": 6.2,
+      "published": "2026-11-11T08:44:20+00:00",
+      "age_hours": 1.7,
       "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-named-best-tourism-investment-destination-at-world-tourism-awards-2026/",
+      "link": "https://clubofmozambique.com/news/mozambique-attracts-us1-88-billion-in-fdi-in-h1/",
+      "original_source": true,
+      "event_id": "evt-mocambique-004",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Club of Mozambique"
+      ],
+      "primary_source": "Club of Mozambique",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "The total comprised inflows of US$1.286 billion (€1.091 billion) in the first quarter of 2026 and US$594.5 million (€517 million) in the second quarter, according to statistical data from the Bank of Mozambique Despite the slowdown observed between April and June, the structure of foreign investment remains largely dominated by megaprojects associated with natural resources, particularly natural gas, oil and mining, which continue to absorb most of the external capital directed towards the Mozambican economy In the documents accompanying the Economic and Social Plan and State Budget (PESOE), the Government projected a new historic high of US$5.88 billion (€4.988 billion) in FDI for 2026, driven mainly by progress on liquefied natural gas projects in the north of the country In the first quarter, the extractive industries attracted US$1.209 billion (€1.048 billion), equivalent to approximately 94% of all FDI received by the country during that period, highlighting the decisive weight of major energy and mining projects in attracting foreign investment The dominance of this sector… «Mozambique attracts US$1.88 billion in FDI in H1» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique attracts US$1.88 billion in FDI in H1», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
+      "editorial_score": 17.65,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Energia",
+        "Economia",
+        "Segurança"
+      ],
+      "title": "US warns Madagascar over growing military ties with Russia",
+      "summary": "Madagascar has signed defence deals with Russia since the military seized power a year ago The US has warned Madagascar against strengthening its ties with Russia, saying similar partnerships with military-led governments in West Africa have failed to improve security US Africa Command deputy head Lt Gen John Brennan said Madagascar's strategic location in the Indian Ocean made it important to global trade He warned against what he called the \"Sahel model\", which he said risked fuelling instability across the continent Mali, Burkina Faso and Niger, all under military rule, have severed ties with the Western partners and turned to Russia to military support their fight against jihadist groups Russia has expanded its military cooperation with Madagascar since the military seized power in 2025, supplying weapons and military instructors \"We are concerned about Russia wanting to \"proliferate [the Sahel model] elsewhere across the continent\", Brennan told reporters in an online briefing \"Madagascar sits in a location that is extremely important, as is Mozambique, and we don't want to see…",
+      "why": "«US warns Madagascar over growing military ties with Russia» matters because it may change energy and investment decisions affecting África.",
+      "impact": "For «US warns Madagascar over growing military ties with Russia», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "source": "BBC Africa",
+      "published": "2026-11-11T07:30:15+00:00",
+      "age_hours": 2.9,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "Madagascar has signed defence deals with Russia since the military seized power a year ago The US has warned Madagascar against strengthening its ties with Russia, saying similar partnerships with military-led governments in West Africa have failed to improve security US Africa Command deputy head Lt Gen John Brennan said Madagascar's strategic location in the Indian Ocean made it important to global trade He warned against what he called the \"Sahel model\", which he said risked fuelling instability across the continent Mali, Burkina Faso and Niger, all under military rule, have severed ties with the Western partners and turned to Russia to military support their fight against jihadist groups Russia has expanded its military cooperation with Madagascar since the military seized power in 2025, supplying weapons and military instructors \"We are concerned about Russia wanting to \"proliferate [the Sahel model] elsewhere across the continent\", Brennan told reporters in an online briefing \"Madagascar sits in a location that is extremely important, as is Mozambique, and we don't want to see… «US warns Madagascar over growing military ties with Russia» matters because it may change energy and investment decisions affecting África. For «US warns Madagascar over growing military ties with Russia», the effects may reach prices, projects, suppliers and supply chains connected to África.",
+      "editorial_score": 16.4,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "Mozambique: Moderate flood risk in Maputo River basin after South Africa’s Pongolapoort Dam increases discharge rate",
+      "summary": "The National Directorate for Water Resources Management (DNGRH) yesterday warned of a moderate risk of flooding in the Maputo River basin after Pongolapoort Dam, also known as Jozini Dam, in northern KwaZulu-Natal, South Africa, opened its sluice gates on Saturday, 8 November, raising the discharge rate to 700 cubic metres per second The directorate said the effects could be felt in Mozambique within 48 hours of the announcement, with the Maputo River expected to continue rising and potentially reach its peak during that period. The increased flow could worsen flooding on riverside farmland and disrupt road traffic in Catuane, Salamanga and Tinonganine, in Matutuíne district, Maputo province, southern Mozambique The DNGRH advised riverside communities to avoid crossing the river or entering flooded areas, particularly farmland.",
+      "why": "«Mozambique: Moderate flood risk in Maputo River basin after South Africa’s Pongolapoort Dam increases…» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Mozambique: Moderate flood risk in Maputo River basin after South Africa’s Pongolapoort Dam increases…», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "source": "Club of Mozambique",
+      "published": "2026-11-11T10:07:54+00:00",
+      "age_hours": 0.3,
+      "within_24h": true,
+      "link": "https://clubofmozambique.com/news/mozambique-moderate-flood-risk-in-maputo-river-basin-after-south-africas-pongolapoort-dam-increases-discharge-rate/",
       "original_source": true,
       "event_id": "evt-mocambique-001",
       "cluster_size": 1,
@@ -30,56 +90,150 @@
       ],
       "primary_source": "Club of Mozambique",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Photo: World Tourism Forum Institute The award marks a second consecutive year of recognition for Mozambique at the World Tourism Awards, following its selection as Best Sustainable Destination in 2025. Together, the two honours tell a clear story: a country long admired for its coastline, islands and wildlife is now also earning the confidence of international investors Tourism at the heart of a new economic vision Since taking office in January 2025, President Daniel Francisco Chapo has placed tourism at the centre of Mozambique’s economic agenda. He presents the sector as a strategic engine of growth, jobs and social inclusion, and as the surest path to diversifying the economy beyond natural gas, coal and other extractive resources. “Gas will one day run out… tourism will never run out,” the President said earlier this month The Government’s Five-Year Programme for 2025–2029 turns that conviction into concrete targets raising tourism’s contribution to GDP to 6% by 2029 Reforms that open the door to investors The President’s vision has been matched by structural reform. «Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026» matters because it may change energy and investment decisions affecting Moçambique. For «Mozambique named Best Tourism Investment Destination at World Tourism Awards 2026», the effects may reach prices, projects, suppliers and supply chains connected to Moçambique.",
-      "editorial_score": 16.71,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "IA",
-        "Economia"
-      ],
-      "title": "Mozambique and Portugal set to expand cooperation",
-      "summary": "The announcement was made following a meeting between Mozambican President Daniel Chapo and the Portuguese Parliament’s Speaker, who is visiting the country Photo: Presidência da República de Moçambique Photo: Presidência da República de Moçambique Photo: Presidência da República de Moçambique Speaking to the press, Aguiar-Branco said the meeting had provided an opportunity to discuss various matters of common interest, with particular emphasis on deepening relations between the two countries and identifying new opportunities for cooperation In the parliamentary sphere, he highlighted the cooperation protocol signed on Monday at the Assembly of the Republic of Mozambique, which establishes new forms of collaboration between the two legislative bodies, particularly in the fields of digital technology and artificial intelligence During the meeting, Aguiar-Branco also conveyed to the Mozambican Head of State Portugal’s commitment to restoring peace in Cabo Delgado province, linking stability in the region to stronger economic relations and increased Portuguese investment in Mozambique…",
-      "why": "«Mozambique and Portugal set to expand cooperation» points to a concrete change in the adoption, regulation or use of technology.",
-      "impact": "For «Mozambique and Portugal set to expand cooperation», the effects may include changes in skills demand, productivity, costs and digital opportunities in Moçambique.",
-      "source": "Club of Mozambique",
-      "published": "2026-11-10T16:15:38+00:00",
-      "age_hours": 7.7,
-      "within_24h": true,
-      "link": "https://clubofmozambique.com/news/mozambique-and-portugal-set-to-expand-cooperation/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Club of Mozambique"
-      ],
-      "primary_source": "Club of Mozambique",
-      "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "The announcement was made following a meeting between Mozambican President Daniel Chapo and the Portuguese Parliament’s Speaker, who is visiting the country Photo: Presidência da República de Moçambique Photo: Presidência da República de Moçambique Photo: Presidência da República de Moçambique Speaking to the press, Aguiar-Branco said the meeting had provided an opportunity to discuss various matters of common interest, with particular emphasis on deepening relations between the two countries and identifying new opportunities for cooperation In the parliamentary sphere, he highlighted the cooperation protocol signed on Monday at the Assembly of the Republic of Mozambique, which establishes new forms of collaboration between the two legislative bodies, particularly in the fields of digital technology and artificial intelligence During the meeting, Aguiar-Branco also conveyed to the Mozambican Head of State Portugal’s commitment to restoring peace in Cabo Delgado province, linking stability in the region to stronger economic relations and increased Portuguese investment in Mozambique… «Mozambique and Portugal set to expand cooperation» points to a concrete change in the adoption, regulation or use of technology. For «Mozambique and Portugal set to expand cooperation», the effects may include changes in skills demand, productivity, costs and digital opportunities in Moçambique.",
-      "editorial_score": 15.4,
+      "opportunity_flag": false,
+      "detailed_summary": "The National Directorate for Water Resources Management (DNGRH) yesterday warned of a moderate risk of flooding in the Maputo River basin after Pongolapoort Dam, also known as Jozini Dam, in northern KwaZulu-Natal, South Africa, opened its sluice gates on Saturday, 8 November, raising the discharge rate to 700 cubic metres per second The directorate said the effects could be felt in Mozambique within 48 hours of the announcement, with the Maputo River expected to continue rising and potentially reach its peak during that period. The increased flow could worsen flooding on riverside farmland and disrupt road traffic in Catuane, Salamanga and Tinonganine, in Matutuíne district, Maputo province, southern Mozambique The DNGRH advised riverside communities to avoid crossing the river or entering flooded areas, particularly farmland. «Mozambique: Moderate flood risk in Maputo River basin after South Africa’s Pongolapoort Dam increases…» deserves attention because it may change political, diplomatic or security risks. For «Mozambique: Moderate flood risk in Maputo River basin after South Africa’s Pongolapoort Dam increases…», the effects may reach trade, movement, investment and supply chains connected to Moçambique.",
+      "editorial_score": 13.94,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
       "section": "Mundo",
       "tags": [
-        "Energia"
+        "Energia",
+        "Segurança"
       ],
-      "title": "Fire contained on platform in Iran’s South Pars gas field",
-      "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said",
-      "why": "«Fire contained on platform in Iran’s South Pars gas field» matters because it may change energy and investment decisions affecting Mundo.",
-      "impact": "For «Fire contained on platform in Iran’s South Pars gas field», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-10T23:38:02+00:00",
-      "age_hours": 0.3,
+      "title": "Germany slips in climate protection rankings as other countries make gains",
+      "summary": "Record renewable energy growth is driving climate progress in some countries, but Germany and many major emitters are falling behind Germany has slipped down the climate action ranking for the third consecutive year, with the former green leader now being outperformed by Brazil, Colombia and Romania In its worst performance since 2019, the country fell to place 25 and received a \"medium\" rating overall on the yearly Climate Change Performance Index (CCPI), which assesses efforts to curb global warming in 64 countries plus the European Union Still, \"a number of countries have been making good progress for years,\" said Jan Burck, CCPI lead author, in a statement. Denmark is leading the way across all four categories assessed — energy use, greenhouse gas emissions, renewable energy and national climate policy.",
+      "why": "«Germany slips in climate protection rankings as other countries make gains» matters because it may change energy and investment decisions affecting Mundo.",
+      "impact": "For «Germany slips in climate protection rankings as other countries make gains», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "source": "DW English",
+      "published": "2026-11-11T06:41:00+00:00",
+      "age_hours": 3.8,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+      "link": "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf",
+      "original_source": true,
+      "event_id": "evt-mundo-007",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "DW English"
+      ],
+      "primary_source": "DW English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Record renewable energy growth is driving climate progress in some countries, but Germany and many major emitters are falling behind Germany has slipped down the climate action ranking for the third consecutive year, with the former green leader now being outperformed by Brazil, Colombia and Romania In its worst performance since 2019, the country fell to place 25 and received a \"medium\" rating overall on the yearly Climate Change Performance Index (CCPI), which assesses efforts to curb global warming in 64 countries plus the European Union Still, \"a number of countries have been making good progress for years,\" said Jan Burck, CCPI lead author, in a statement. Denmark is leading the way across all four categories assessed — energy use, greenhouse gas emissions, renewable energy and national climate policy. «Germany slips in climate protection rankings as other countries make gains» matters because it may change energy and investment decisions affecting Mundo. For «Germany slips in climate protection rankings as other countries make gains», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
+      "editorial_score": 13.21,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Government to conduct inspections in over 5,000 schools",
+      "summary": "Maputo, 11 Nov (AIM) – The Mozambican education ministry plans to carry out inspections in 5,250 schools in 2027 “as part of efforts to strengthen oversight and improve the quality of education.” According to Edson Macuácua, education minister, speaking at the opening of the First National Training Seminar for Inspectors, held in Ponta do Ouro, southern Maputo province, the target represents 35 per cent of the country’s educational establishments, up from 4,880 schools (32.5 per cent) targeted in 2026. However, the country’s education system demands concrete measures more that just inspections. The country’s National Association of Teachers (ANAPRO) has been calling for a response to the long-running dispute over the government’s failure to pay teachers for overtime since 2023. ANAPRO once said that it has lost confidence in the government institutions it was negotiating with. Anapro claims that all means of dialogue had been tried, without any satisfactory reply to their demands.",
+      "why": "«Government to conduct inspections in over 5,000 schools» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Government to conduct inspections in over 5,000 schools», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "AIM News",
+      "published": "2026-11-11T09:43:40+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/11/government-to-conduct-inspections-in-over-5000-schools/",
+      "original_source": true,
+      "event_id": "evt-mocambique-002",
+      "cluster_size": 2,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "confirmations": [
+        {
+          "source": "AIM News",
+          "title": "Government to use big data to improve disaster preparedness",
+          "link": "https://aimnews.org/2026/11/11/government-to-use-big-data-to-improve-disaster-preparedness/"
+        }
+      ],
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 11 Nov (AIM) – The Mozambican education ministry plans to carry out inspections in 5,250 schools in 2027 “as part of efforts to strengthen oversight and improve the quality of education.” According to Edson Macuácua, education minister, speaking at the opening of the First National Training Seminar for Inspectors, held in Ponta do Ouro, southern Maputo province, the target represents 35 per cent of the country’s educational establishments, up from 4,880 schools (32.5 per cent) targeted in 2026. However, the country’s education system demands concrete measures more that just inspections. The country’s National Association of Teachers (ANAPRO) has been calling for a response to the long-running dispute over the government’s failure to pay teachers for overtime since 2023. ANAPRO once said that it has lost confidence in the government institutions it was negotiating with. Anapro claims that all means of dialogue had been tried, without any satisfactory reply to their demands. «Government to conduct inspections in over 5,000 schools» is worth following because of its possible economic, institutional or regional effects. For «Government to conduct inspections in over 5,000 schools», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.85,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Gaza needs 18 million meticais to tackle drought",
+      "summary": "Maputo, 11 Nov (AIM) – Mozambique’s relief agency, the National Disaster Management Institute (INGD), needs over 18 million meticais (just over 280,000 US dollars at the current exchange rate) to respond to the drought caused by the El Niño phenomenon in southern province of Gaza, which is expected to affect 422,000 households. According to INGD in Gaza, these figures serve as a guide for planning and mobilizing resources to assist vulnerable communities. The 2026/27 rainy season points to normal rainfall in the Northern provinces of Nampula, Cabo Delgado, and Niassa. However, it points out a risk of severe drought in 76 districts across the southern provinces of Maputo, Gaza, Inhambane, and central provinces of Sofala, Manica, and Tete, due to the influence of the El Niño phenomenon.",
+      "why": "«Gaza needs 18 million meticais to tackle drought» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Gaza needs 18 million meticais to tackle drought», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "source": "AIM News",
+      "published": "2026-11-11T08:56:54+00:00",
+      "age_hours": 1.5,
+      "within_24h": true,
+      "link": "https://aimnews.org/2026/11/11/gaza-needs-18-million-meticais-to-tackle-drought/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "AIM News"
+      ],
+      "primary_source": "AIM News",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Maputo, 11 Nov (AIM) – Mozambique’s relief agency, the National Disaster Management Institute (INGD), needs over 18 million meticais (just over 280,000 US dollars at the current exchange rate) to respond to the drought caused by the El Niño phenomenon in southern province of Gaza, which is expected to affect 422,000 households. According to INGD in Gaza, these figures serve as a guide for planning and mobilizing resources to assist vulnerable communities. The 2026/27 rainy season points to normal rainfall in the Northern provinces of Nampula, Cabo Delgado, and Niassa. However, it points out a risk of severe drought in 76 districts across the southern provinces of Maputo, Gaza, Inhambane, and central provinces of Sofala, Manica, and Tete, due to the influence of the El Niño phenomenon. «Gaza needs 18 million meticais to tackle drought» is worth following because of its possible economic, institutional or regional effects. For «Gaza needs 18 million meticais to tackle drought», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Moçambique.",
+      "editorial_score": 12.69,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Segurança"
+      ],
+      "title": "What do Kyiv residents think about giving up territory to Russia?",
+      "summary": "US President Donald Trump says post-war Ukraine will have a 'different shape' ahead of peace talks in Abu Dhabi",
+      "why": "«What do Kyiv residents think about giving up territory to Russia?» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «What do Kyiv residents think about giving up territory to Russia?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-11T09:07:59+00:00",
+      "age_hours": 1.3,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Al Jazeera English"
+      ],
+      "primary_source": "Al Jazeera English",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "US President Donald Trump says post-war Ukraine will have a 'different shape' ahead of peace talks in Abu Dhabi. «What do Kyiv residents think about giving up territory to Russia?» deserves attention because it may change political, diplomatic or security risks. For «What do Kyiv residents think about giving up territory to Russia?», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
+      "editorial_score": 11.73,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
+      "summary": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison",
+      "why": "«Pakistan’s PTI demands access to jailed Khan after overnight hospital visit» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Pakistan’s PTI demands access to jailed Khan after overnight hospital visit», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-11T09:47:25+00:00",
+      "age_hours": 0.7,
+      "within_24h": true,
+      "link": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss",
       "original_source": true,
       "event_id": "evt-mundo-001",
       "cluster_size": 1,
@@ -90,8 +244,8 @@
       "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said. «Fire contained on platform in Iran’s South Pars gas field» matters because it may change energy and investment decisions affecting Mundo. For «Fire contained on platform in Iran’s South Pars gas field», the effects may reach prices, projects, suppliers and supply chains connected to Mundo.",
-      "editorial_score": 11.94,
+      "detailed_summary": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison. «Pakistan’s PTI demands access to jailed Khan after overnight hospital visit» is worth following because of its possible economic, institutional or regional effects. For «Pakistan’s PTI demands access to jailed Khan after overnight hospital visit», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.85,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -100,75 +254,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Massive fire as Israeli settlers burn down business near Nablus",
-      "summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus",
-      "why": "«Massive fire as Israeli settlers burn down business near Nablus» helps explain a concrete economic or business change relevant to Mundo.",
-      "impact": "For «Massive fire as Israeli settlers burn down business near Nablus», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "source": "Al Jazeera English",
-      "published": "2026-11-10T23:33:43+00:00",
-      "age_hours": 0.4,
+      "title": "Spain: Housing crisis prompts general strike",
+      "summary": "Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain's November 29 elections Workers across Spain gathered en mass on Wednesday, marching and setting up picket lines despite stormy weather in many areas of the country This is the first general strike in Spain in 14 years, amid a worsening cost of living and lack of housing crisis that has left many unable to support themselves Symbolized by the eviction and death of 87-year-old Maricarmen Abascal in Madrid earlier this year, the crisis has also prompted a snap election set for November 29 The government of left-wing Prime Minister Pedro Sanchez attempted to pass legislation to ease the plight of renters, but was blocked in parliament by opposition parties.",
+      "why": "«Spain: Housing crisis prompts general strike» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Spain: Housing crisis prompts general strike», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "DW English",
+      "published": "2026-11-11T09:11:00+00:00",
+      "age_hours": 1.3,
       "within_24h": true,
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/massive-fire-as-israeli-settlers-burn-down-business-near-nablus?traffic_source=rss",
+      "link": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-rdf",
       "original_source": true,
       "event_id": "evt-mundo-002",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Al Jazeera English"
-      ],
-      "primary_source": "Al Jazeera English",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Israeli settlers have set fire to Palestinian property in the village of Luban ash-Sharqiya, near Nablus. «Massive fire as Israeli settlers burn down business near Nablus» helps explain a concrete economic or business change relevant to Mundo. For «Massive fire as Israeli settlers burn down business near Nablus», the effects may reach prices, demand, finance, hiring or supplier opportunities.",
-      "editorial_score": 11.92,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-      "summary": "The US Food and Drug Administration (FDA) told makers of popular weight-loss GLP-1 drugs that they must add warning labels about a rare eye condition that can cause sudden blindness Manufacturers of Ozempic, Wegovy, Mounjaro and Zepbound must warn about nonarteritic anterior ischemic optic neuropathy (NAION). The disorder happens when vessels supplying blood to the optic nerves become blocked, depriving the nerves of oxygen The condition can cause painless decreased vision in one eye, which can be permanent, the FDA said In a statement to the BBC, the American Academy of Ophthalmology said \"any added risk appears small, and it has not been established that these medications cause NAION\" \"GLP-1 medications offer important benefits for people with diabetes, obesity, and heart disease, so our message to patients is simple,\" the group said. \"Don't stop your medication without talking to your doctor, and if you notice sudden, painless vision loss in one eye, see an ophthalmologist promptly.\" There is no known treatment to reverse vision loss caused by NAION.",
-      "why": "«Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-10T18:43:04+00:00",
-      "age_hours": 5.2,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-010",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The US Food and Drug Administration (FDA) told makers of popular weight-loss GLP-1 drugs that they must add warning labels about a rare eye condition that can cause sudden blindness Manufacturers of Ozempic, Wegovy, Mounjaro and Zepbound must warn about nonarteritic anterior ischemic optic neuropathy (NAION). The disorder happens when vessels supplying blood to the optic nerves become blocked, depriving the nerves of oxygen The condition can cause painless decreased vision in one eye, which can be permanent, the FDA said In a statement to the BBC, the American Academy of Ophthalmology said \"any added risk appears small, and it has not been established that these medications cause NAION\" \"GLP-1 medications offer important benefits for people with diabetes, obesity, and heart disease, so our message to patients is simple,\" the group said. \"Don't stop your medication without talking to your doctor, and if you notice sudden, painless vision loss in one eye, see an ophthalmologist promptly.\" There is no known treatment to reverse vision loss caused by NAION. «Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness» deserves attention because it may change political, diplomatic or security risks. For «Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 10.92,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Victims of Nazi war in Poland call on Germany for support",
-      "summary": "More than 80 years after the end of World War II, Polish victims of the Nazi regime are still waiting for a \"humanitarian gesture\" from Germany. The 2027 draft budget hasn't left them much hope for possible reparations \"We can no longer wait,\" declared Polish victims' organizations in a dramatic appeal to German civil society, published on November 5 on the website of the Foundation for Polish–German Reconciliation \"Around 50,000 survivors of Nazi persecution during the German occupation still live in Poland today. They include former concentration camp and prison inmates, people deported to Germany for forced labor and those subjected to other forms of Nazi repression ,\" wrote the signatories of the appeal The open letter pointed out that many of the survivors are over 90 years old, struggling with illness and rising costs, and in need of help in their daily lives.",
-      "why": "«Victims of Nazi war in Poland call on Germany for support» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «Victims of Nazi war in Poland call on Germany for support», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "source": "DW English",
-      "published": "2026-11-10T17:53:00+00:00",
-      "age_hours": 6.0,
-      "within_24h": true,
-      "link": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-all-1573-rdf",
-      "original_source": true,
-      "event_id": "evt-mundo-014",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -177,37 +273,8 @@
       "primary_source": "DW English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "More than 80 years after the end of World War II, Polish victims of the Nazi regime are still waiting for a \"humanitarian gesture\" from Germany. The 2027 draft budget hasn't left them much hope for possible reparations \"We can no longer wait,\" declared Polish victims' organizations in a dramatic appeal to German civil society, published on November 5 on the website of the Foundation for Polish–German Reconciliation \"Around 50,000 survivors of Nazi persecution during the German occupation still live in Poland today. They include former concentration camp and prison inmates, people deported to Germany for forced labor and those subjected to other forms of Nazi repression ,\" wrote the signatories of the appeal The open letter pointed out that many of the survivors are over 90 years old, struggling with illness and rising costs, and in need of help in their daily lives. «Victims of Nazi war in Poland call on Germany for support» deserves attention because it may change political, diplomatic or security risks. For «Victims of Nazi war in Poland call on Germany for support», the effects may reach trade, movement, investment and supply chains connected to Mundo.",
-      "editorial_score": 10.75,
-      "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Mundo",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-      "summary": "The BBC's Jonathan Beale reported from inside Slovyansk, one of four cities that make up Ukraine's \"fortress belt\" - a system of heavily reinforced defence lines in the parts of eastern region of Donetsk still under its control The town has become almost uninhabitable and has been under heavy bombardment from Russian drones, missiles and glide bombs Members of a Ukrainian drone unit that call themselves Peaky Blinders, named after the cult BBC TV series, have taken on the task of intercepting Russian drones Russia wants Kyiv to give up the fortress cities and they are central to talks on a possible peace deal that have resumed after nine months between Ukraine, Russia and the US in Abu Dhabi",
-      "why": "«Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city» is worth following because of its possible economic, institutional or regional effects.",
-      "impact": "For «Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "source": "BBC World",
-      "published": "2026-11-10T18:35:35+00:00",
-      "age_hours": 5.3,
-      "within_24h": true,
-      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-      "original_source": true,
-      "event_id": "evt-mundo-011",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "primary_source": "BBC World",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "The BBC's Jonathan Beale reported from inside Slovyansk, one of four cities that make up Ukraine's \"fortress belt\" - a system of heavily reinforced defence lines in the parts of eastern region of Donetsk still under its control The town has become almost uninhabitable and has been under heavy bombardment from Russian drones, missiles and glide bombs Members of a Ukrainian drone unit that call themselves Peaky Blinders, named after the cult BBC TV series, have taken on the task of intercepting Russian drones Russia wants Kyiv to give up the fortress cities and they are central to talks on a possible peace deal that have resumed after nine months between Ukraine, Russia and the US in Abu Dhabi. «Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city» is worth following because of its possible economic, institutional or regional effects. For «Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
-      "editorial_score": 9.9,
+      "detailed_summary": "Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain's November 29 elections Workers across Spain gathered en mass on Wednesday, marching and setting up picket lines despite stormy weather in many areas of the country This is the first general strike in Spain in 14 years, amid a worsening cost of living and lack of housing crisis that has left many unable to support themselves Symbolized by the eviction and death of 87-year-old Maricarmen Abascal in Madrid earlier this year, the crisis has also prompted a snap election set for November 29 The government of left-wing Prime Minister Pedro Sanchez attempted to pass legislation to ease the plight of renters, but was blocked in parliament by opposition parties. «Spain: Housing crisis prompts general strike» is worth following because of its possible economic, institutional or regional effects. For «Spain: Housing crisis prompts general strike», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 10.73,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -216,27 +283,85 @@
       "tags": [
         "Segurança"
       ],
-      "title": "DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels",
-      "summary": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders Some 66 soldiers have been sentenced to death in DR Congo on charges of cowardice, mutiny, and failure to obey orders. The sentence was handed down by the Goma Garrison Military Court At least 71 members of the Armed Forces of the Democratic Republic of Congo (FARDC) were arrested in several separate incidents related to the fierce fighting between the military and rebel groups near the country's borders with Uganda, Rwanda, and Burundi They were arrested on allegations of abandoning their posts or running away from clashes with FRN rebels. Prosecutors had sought capital punishment for 70 of the defendants, while asking for a 10-year jail term for an intelligence officer.",
-      "why": "«DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels» deserves attention because it may change political, diplomatic or security risks.",
-      "impact": "For «DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "source": "DW English",
-      "published": "2026-11-10T09:43:00+00:00",
-      "age_hours": 14.2,
+      "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+      "summary": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict",
+      "why": "«Ebola cases in DR Congo pass 11,000, with 5,387 deaths» deserves attention because it may change political, diplomatic or security risks.",
+      "impact": "For «Ebola cases in DR Congo pass 11,000, with 5,387 deaths», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "source": "Al Jazeera English",
+      "published": "2026-11-11T04:44:18+00:00",
+      "age_hours": 5.7,
       "within_24h": true,
-      "link": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf",
+      "link": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "DW English"
+        "Al Jazeera English"
       ],
-      "primary_source": "DW English",
+      "primary_source": "Al Jazeera English",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "Dozens of defendants were put on trial over accusations that they abandoned their posts and refused to follow direct orders Some 66 soldiers have been sentenced to death in DR Congo on charges of cowardice, mutiny, and failure to obey orders. The sentence was handed down by the Goma Garrison Military Court At least 71 members of the Armed Forces of the Democratic Republic of Congo (FARDC) were arrested in several separate incidents related to the fierce fighting between the military and rebel groups near the country's borders with Uganda, Rwanda, and Burundi They were arrested on allegations of abandoning their posts or running away from clashes with FRN rebels. Prosecutors had sought capital punishment for 70 of the defendants, while asking for a 10-year jail term for an intelligence officer. «DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels» deserves attention because it may change political, diplomatic or security risks. For «DR Congo: 66 soldiers sentenced to death for 'cowardice' in conflict with FRN rebels», the effects may reach trade, movement, investment and supply chains connected to África.",
-      "editorial_score": 9.04,
+      "detailed_summary": "Authorities struggling to contain DRC's largest Ebola outbreak due to delayed detection and conflict. «Ebola cases in DR Congo pass 11,000, with 5,387 deaths» deserves attention because it may change political, diplomatic or security risks. For «Ebola cases in DR Congo pass 11,000, with 5,387 deaths», the effects may reach trade, movement, investment and supply chains connected to África.",
+      "editorial_score": 9.81,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "summary": "El Salvador's president posted a video on X of the strikes on a complex he said is the headquarters of 400 Mawozo The headquarters of one of Haiti's largest crime gangs has been destroyed by El Salvador's military, the Salvadoran president has said The infamous 400 Mawozo gang, which is known for kidnappings and intimidation tactics, was targeted in a ground and air attack at a complex on the outskirts of Haiti's capital, Port-au-Prince It is El Salvador's first military action on a Haitian target since it deployed more than 2,000 soldiers there last month, as part of a mission to rescue four missing Salvadoran technicians Haiti has been plagued by gang violence for years, with heavily armed groups controlling large parts of the capital, and beyond El Salvador's President Nayib Bukele announced the news on X , external , boasting that most of the gang members fled without trying to fight \"We destroyed the house of [gang leader] Lanmò San Jou and the 400 Mawozo gang's headquarters,\" he wrote on Tuesday As the helicopters circle above, dozens of people can be seen running out of the…",
+      "why": "«Headquarters of Haitian gang destroyed, El Salvador's president says» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «Headquarters of Haitian gang destroyed, El Salvador's president says», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "source": "BBC World",
+      "published": "2026-11-11T02:47:59+00:00",
+      "age_hours": 7.6,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-mundo-012",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "primary_source": "BBC World",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "El Salvador's president posted a video on X of the strikes on a complex he said is the headquarters of 400 Mawozo The headquarters of one of Haiti's largest crime gangs has been destroyed by El Salvador's military, the Salvadoran president has said The infamous 400 Mawozo gang, which is known for kidnappings and intimidation tactics, was targeted in a ground and air attack at a complex on the outskirts of Haiti's capital, Port-au-Prince It is El Salvador's first military action on a Haitian target since it deployed more than 2,000 soldiers there last month, as part of a mission to rescue four missing Salvadoran technicians Haiti has been plagued by gang violence for years, with heavily armed groups controlling large parts of the capital, and beyond El Salvador's President Nayib Bukele announced the news on X , external , boasting that most of the gang members fled without trying to fight \"We destroyed the house of [gang leader] Lanmò San Jou and the 400 Mawozo gang's headquarters,\" he wrote on Tuesday As the helicopters circle above, dozens of people can be seen running out of the… «Headquarters of Haitian gang destroyed, El Salvador's president says» is worth following because of its possible economic, institutional or regional effects. For «Headquarters of Haitian gang destroyed, El Salvador's president says», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in Mundo.",
+      "editorial_score": 9.42,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "África",
+      "tags": [
+        "Economia"
+      ],
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "Agnes Shikoli says she fears either drowning, or being crushed by her house \"It flooded up to here in March,\" Agnes Shikoli says, pointing to a spot halfway up the six-foot [1.8m] corrugated iron wall of her home in Kibera, one of the largest informal settlements in Kenya Her tiny house lies just a couple of metres from the Ngong river, which runs through this densely populated area in the capital, Nairobi The scars of floods in the long rainy season earlier this year can still be seen - including a broken TV in the corner which was immersed in water Tucked out of sight is a photo of her sister Beatrice Khalayi, 58, who died when intense rains caused widespread destruction in Kibera. She was among more than 60 people across the country who lost their lives \"Someone called me to tell me that she had died of electrocution after her house flooded,\" Shikoli recalls.",
+      "why": "«'It can kill us': Kenyans fear impact of El Niño with floods predicted» is worth following because of its possible economic, institutional or regional effects.",
+      "impact": "For «'It can kill us': Kenyans fear impact of El Niño with floods predicted», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "source": "BBC Africa",
+      "published": "2026-11-11T00:18:07+00:00",
+      "age_hours": 10.1,
+      "within_24h": true,
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "original_source": true,
+      "event_id": "evt-áfrica-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "BBC Africa"
+      ],
+      "primary_source": "BBC Africa",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Agnes Shikoli says she fears either drowning, or being crushed by her house \"It flooded up to here in March,\" Agnes Shikoli says, pointing to a spot halfway up the six-foot [1.8m] corrugated iron wall of her home in Kibera, one of the largest informal settlements in Kenya Her tiny house lies just a couple of metres from the Ngong river, which runs through this densely populated area in the capital, Nairobi The scars of floods in the long rainy season earlier this year can still be seen - including a broken TV in the corner which was immersed in water Tucked out of sight is a photo of her sister Beatrice Khalayi, 58, who died when intense rains caused widespread destruction in Kibera. She was among more than 60 people across the country who lost their lives \"Someone called me to tell me that she had died of electrocution after her house flooded,\" Shikoli recalls. «'It can kill us': Kenyans fear impact of El Niño with floods predicted» is worth following because of its possible economic, institutional or regional effects. For «'It can kill us': Kenyans fear impact of El Niño with floods predicted», the impact will depend on what happens next, but it may affect decisions, costs or opportunities in África.",
+      "editorial_score": 8.9,
       "source_tier": "A",
       "editorial_status": "HOJE"
     }
@@ -260,8 +385,8 @@
   "generator": "GitHub Actions · Briefing Diário · Editorial Engine v2",
   "editorial_rule": "Alertas são descoberta; eventos agrupam fontes; só eventos seleccionados são publicados.",
   "section_counts": {
-    "Moçambique": 2,
-    "África": 1,
+    "Moçambique": 4,
+    "África": 3,
     "Mundo": 5
   },
   "editorial": "Curadoria automática v2: descoberta → agrupamento de eventos → cruzamento de fontes → selecção por relevância. Não existe quota mínima de notícias.",
