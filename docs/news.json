@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:26:53.747314+00:00",
+  "updated_at": "2026-11-11T18:25:50.997015+00:00",
   "language": "pt",
   "window_hours": 24,
   "fallback_hours": 48,
@@ -10,71 +10,27 @@
       "tags": [
         "Energia"
       ],
-      "title": "Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo",
-      "summary": "A subida do caudal do rio Maputo, provocada pelo aumento das descargas da barragem de Pongolapoort, na África do Sul, poderá agravar as inundações nas zonas ribeirinhas e condicionar a […]",
-      "why": "«Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "title": "Africa Gas & LNG Summit: Moçambique Pode Atingir 80 Milhões de Toneladas Anuais de GNL em Meados da Década de 2030",
+      "summary": "Moçambique poderá atingir uma capacidade de produção de cerca de 80 milhões de toneladas de gás natural liquefeito (GNL) por ano em meados da década de 2030, segundo Paul Eardley-Taylor, […]",
+      "why": "«Africa Gas & LNG Summit: Moçambique Pode Atingir 80 Milhões de Toneladas Anuais de GNL em Meados da…» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Africa Gas & LNG Summit: Moçambique Pode Atingir 80 Milhões de Toneladas Anuais de GNL em Meados da…», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
       "source": "Diário Económico",
-      "published": "2026-11-11T10:10:00+00:00",
-      "age_hours": 0.3,
+      "published": "2026-11-11T15:45:00+00:00",
+      "age_hours": 2.7,
       "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/11/negocios/infra-estruturas/descargas-em-barragem-sul-africana-aumentam-risco-de-inundacoes-em-maputo/",
+      "link": "https://www.diarioeconomico.co.mz/2026/11/11/oilgas/africa-gas-lng-summit-mocambique-pode-atingir-80-milhoes-de-toneladas-anuais-de-gnl-em-meados-da-decada-de-2030/",
       "original_source": true,
-      "event_id": "evt-mocambique-001",
-      "cluster_size": 3,
-      "source_count": 3,
-      "sources": [
-        "Diário Económico",
-        "O País",
-        "Jornal Notícias"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "confirmations": [
-        {
-          "source": "O País",
-          "title": "Descarga de barragem sul-africana ameaça inundar machambas e estradas em Maputo",
-          "link": "https://opais.co.mz/subida-do-caudal-do-rio-maputo-pode-agravar-inundacoes-nas-zonas-ribeirinhas/"
-        },
-        {
-          "source": "Jornal Notícias",
-          "title": "PM na abertura da Conferência de Gás e LNG em Maputo",
-          "link": "https://www.jornalnoticias.co.mz/destaque/pm-na-abertura-da-conferencia-de-gas-e-lng-em-maputo/"
-        }
-      ],
-      "opportunity_flag": false,
-      "detailed_summary": "A subida do caudal do rio Maputo, provocada pelo aumento das descargas da barragem de Pongolapoort, na África do Sul, poderá agravar as inundações nas zonas ribeirinhas e condicionar a […]. «Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Descargas em Barragem Sul-Africana Aumentam Risco de Inundações em Maputo», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 15.44,
-      "source_tier": "B",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Energia",
-        "Economia"
-      ],
-      "title": "Mais empresas devem beneficiar das oportunidades de exploração do gás natural",
-      "summary": "Maputo, 11 Nov (AIM) – A liderança do projecto Mozambique LNG, operado pela TotalEnergies EP Mozambique Área 1 Limitada (TEPMA1), quer que mais empresas moçambicanas beneficiem das oportunidades associadas a este grande empreendimento energético. A mesma liderança julga ser importante que as empresas compreendam os requisitos do mesmo e estejam preparadas para responder de forma competitiva. “Para que mais empresas moçambicanas possam beneficiar das oportunidades associadas ao Mozambique LNG, é importante que compreendam os requisitos do Projecto e estejam preparadas para responder de forma competitiva”, disse Edna Simbine, gestora de Conteúdo Local da TEPMA1, durante um “Speed Meeting” (Encontro de Negócios) realizado esta terça-feira, em Pemba, província nortenha de Cabo Delgado, e que reuniu mais de 100 empresas moçambicanas. “Os Speed Meetings contribuem para esse objectivo, aproximando fornecedores e equipas de aquisições.",
-      "why": "«Mais empresas devem beneficiar das oportunidades de exploração do gás natural» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
-      "impact": "No caso de «Mais empresas devem beneficiar das oportunidades de exploração do gás natural», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "source": "AIM Notícias",
-      "published": "2026-11-11T09:56:08+00:00",
-      "age_hours": 0.5,
-      "within_24h": true,
-      "link": "https://aimnews.org/2026/11/11/mais-empresas-devem-beneficiar-das-oportunidades-de-exploracao-do-gas-natural/",
-      "original_source": true,
-      "event_id": "evt-mocambique-002",
+      "event_id": "evt-mocambique-004",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "AIM Notícias"
+        "Diário Económico"
       ],
-      "primary_source": "AIM Notícias",
+      "primary_source": "Diário Económico",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Maputo, 11 Nov (AIM) – A liderança do projecto Mozambique LNG, operado pela TotalEnergies EP Mozambique Área 1 Limitada (TEPMA1), quer que mais empresas moçambicanas beneficiem das oportunidades associadas a este grande empreendimento energético. A mesma liderança julga ser importante que as empresas compreendam os requisitos do mesmo e estejam preparadas para responder de forma competitiva. “Para que mais empresas moçambicanas possam beneficiar das oportunidades associadas ao Mozambique LNG, é importante que compreendam os requisitos do Projecto e estejam preparadas para responder de forma competitiva”, disse Edna Simbine, gestora de Conteúdo Local da TEPMA1, durante um “Speed Meeting” (Encontro de Negócios) realizado esta terça-feira, em Pemba, província nortenha de Cabo Delgado, e que reuniu mais de 100 empresas moçambicanas. “Os Speed Meetings contribuem para esse objectivo, aproximando fornecedores e equipas de aquisições. «Mais empresas devem beneficiar das oportunidades de exploração do gás natural» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Mais empresas devem beneficiar das oportunidades de exploração do gás natural», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
-      "editorial_score": 14.9,
+      "opportunity_flag": false,
+      "detailed_summary": "Moçambique poderá atingir uma capacidade de produção de cerca de 80 milhões de toneladas de gás natural liquefeito (GNL) por ano em meados da década de 2030, segundo Paul Eardley-Taylor, […]. «Africa Gas & LNG Summit: Moçambique Pode Atingir 80 Milhões de Toneladas Anuais de GNL em Meados da…» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Africa Gas & LNG Summit: Moçambique Pode Atingir 80 Milhões de Toneladas Anuais de GNL em Meados da…», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 15.44,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -83,17 +39,17 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas",
-      "summary": "A melhoria de infra-estruturas sociais, mobilidade, iluminação pública, oportunidades para jovens e assistência a pessoas vulneráveis continuam a ser os principais desafios que a cidade de Maputo enfrenta para prover serviços, conforme as necessidades dos munícipes. O reconhecimento foi feito pelo presidente do município, Rasaque Manhique, nas celebrações, ontem, dos 139 anos da elevação de Maputo à categoria de cidade. Segundo Manhique, as autoridades continuam a trabalhar para que cada munícipe encontre a oportunidade de realizar as suas actividades e viver com dignidade e segurança. Contudo, apontou que a capital está a viver uma transformação estrutural, com obras de saneamento e drenagem, criando-se bases para que seja mais resistente às chuvas e menos vulnerável às inundações. Para o efeito, foram construídos 9,5 quilómetros de colectores de águas residuais, ligando a zona alta da cidade à Estação de Tratamento de Águas Residuais de Infulene, passando a beneficiar mais de 128 mil munícipes.",
-      "why": "«Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "title": "Banca lança prémio de jornalismo sobre segurança digital",
+      "summary": "A Associação Moçambicana de Bancos (AMB) anunciou a criação de um prémio de jornalismo sobre meios de pagamento electrónicos e segurança digital, com o objectivo de promover a literacia financeira e sensibilizar o público para os riscos associados às transacções electrónicas. O anúncio foi feito pela presidente da AMB, Esselina Macome, durante o lançamento da Pesquisa sobre o Sector Bancário 2026, em Maputo. A iniciativa pretende envolver os órgãos de comunicação social na divulgação de informação sobre os benefícios da digitalização dos serviços financeiros, prevenção de fraudes e protecção dos utilizadores. Macome defendeu que a transformação digital exige maior conhecimento por parte dos cidadãos, destacando o papel dos jornalistas na educação financeira e digital da sociedade. O conteúdo Banca lança prémio de jornalismo sobre segurança digital aparece primeiro em Jornal Notícias",
+      "why": "«Banca lança prémio de jornalismo sobre segurança digital» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Banca lança prémio de jornalismo sobre segurança digital», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
       "source": "Jornal Notícias",
-      "published": "2026-11-11T09:23:51+00:00",
-      "age_hours": 1.0,
+      "published": "2026-11-11T17:11:50+00:00",
+      "age_hours": 1.2,
       "within_24h": true,
-      "link": "https://www.jornalnoticias.co.mz/destaque/aos-139-anos-cidade-de-maputo-continua-a-enfrentar-desafios-de-infra-estruturas/",
+      "link": "https://www.jornalnoticias.co.mz/destaque/banca-lanca-premio-de-jornalismo-sobre-seguranca-digital/",
       "original_source": true,
-      "event_id": "evt-mocambique-004",
+      "event_id": "evt-mocambique-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -102,8 +58,66 @@
       "primary_source": "Jornal Notícias",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "A melhoria de infra-estruturas sociais, mobilidade, iluminação pública, oportunidades para jovens e assistência a pessoas vulneráveis continuam a ser os principais desafios que a cidade de Maputo enfrenta para prover serviços, conforme as necessidades dos munícipes. O reconhecimento foi feito pelo presidente do município, Rasaque Manhique, nas celebrações, ontem, dos 139 anos da elevação de Maputo à categoria de cidade. Segundo Manhique, as autoridades continuam a trabalhar para que cada munícipe encontre a oportunidade de realizar as suas actividades e viver com dignidade e segurança. Contudo, apontou que a capital está a viver uma transformação estrutural, com obras de saneamento e drenagem, criando-se bases para que seja mais resistente às chuvas e menos vulnerável às inundações. Para o efeito, foram construídos 9,5 quilómetros de colectores de águas residuais, ligando a zona alta da cidade à Estação de Tratamento de Águas Residuais de Infulene, passando a beneficiar mais de 128 mil munícipes. «Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Aos 139 anos: Cidade de Maputo continua a enfrentar desafios de infra-estruturas», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
-      "editorial_score": 13.79,
+      "detailed_summary": "A Associação Moçambicana de Bancos (AMB) anunciou a criação de um prémio de jornalismo sobre meios de pagamento electrónicos e segurança digital, com o objectivo de promover a literacia financeira e sensibilizar o público para os riscos associados às transacções electrónicas. O anúncio foi feito pela presidente da AMB, Esselina Macome, durante o lançamento da Pesquisa sobre o Sector Bancário 2026, em Maputo. A iniciativa pretende envolver os órgãos de comunicação social na divulgação de informação sobre os benefícios da digitalização dos serviços financeiros, prevenção de fraudes e protecção dos utilizadores. Macome defendeu que a transformação digital exige maior conhecimento por parte dos cidadãos, destacando o papel dos jornalistas na educação financeira e digital da sociedade. O conteúdo Banca lança prémio de jornalismo sobre segurança digital aparece primeiro em Jornal Notícias. «Banca lança prémio de jornalismo sobre segurança digital» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Banca lança prémio de jornalismo sobre segurança digital», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Moçambique.",
+      "editorial_score": 13.75,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Energia"
+      ],
+      "title": "Niassa: AdM Suspende Voos Nocturnos no Aeroporto de Lichinga",
+      "summary": "A Aeroportos de Moçambique (AdM) suspendeu os voos nocturnos no Aeroporto de Lichinga, na província de Niassa, na sequência do roubo de transformadores responsáveis pelo fornecimento de energia a cerca […]",
+      "why": "«Niassa: AdM Suspende Voos Nocturnos no Aeroporto de Lichinga» merece atenção porque pode alterar decisões de energia e investimento em Moçambique.",
+      "impact": "No caso de «Niassa: AdM Suspende Voos Nocturnos no Aeroporto de Lichinga», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "source": "Diário Económico",
+      "published": "2026-11-11T15:30:00+00:00",
+      "age_hours": 2.9,
+      "within_24h": true,
+      "link": "https://www.diarioeconomico.co.mz/2026/11/11/negocios/aviacao/niassa-adm-suspende-voos-nocturnos-no-aeroporto-de-lichinga/",
+      "original_source": true,
+      "event_id": "evt-mocambique-006",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Diário Económico"
+      ],
+      "primary_source": "Diário Económico",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "A Aeroportos de Moçambique (AdM) suspendeu os voos nocturnos no Aeroporto de Lichinga, na província de Niassa, na sequência do roubo de transformadores responsáveis pelo fornecimento de energia a cerca […]. «Niassa: AdM Suspende Voos Nocturnos no Aeroporto de Lichinga» merece atenção porque pode alterar decisões de energia e investimento em Moçambique. No caso de «Niassa: AdM Suspende Voos Nocturnos no Aeroporto de Lichinga», os efeitos podem chegar aos preços, projectos, fornecedores e cadeias de abastecimento ligados a Moçambique.",
+      "editorial_score": 13.4,
+      "source_tier": "B",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Moçambique",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Eswatini atrai operadores turísticos moçambicanos",
+      "summary": "A Autoridade de Turismo de Eswatini reúne-se, está quinta-feira (12 de Novembro), em Maputo, com operadores turísticos moçambicanos para apresentar novos destinos turísticos e identificar oportunidades de negócio entre os intervenientes dos dois países. De acordo com um comunicado da instituição, o encontro pretende ampliar o conhecimento dos profissionais do sector sobre a oferta turística de Eswatini e criar condições para o estabelecimento de parcerias comerciais com operadores. A iniciativa enquadra-se no reforço das relações turísticas e dos laços de cooperação cultural entre Moçambique e Eswatini, procurando afirmar o reino como destino de eleição no mercado moçambicano. A reunião deverá proporcionar um espaço de intercâmbio, permitindo a partilha de informações sobre produtos, serviços e potencialidades turísticas, bem como a identificação de áreas de colaboração. Com esta aproximação, a Autoridade de Turismo de Eswatini pretende estimular a circulação de visitantes entre os dois mercados e dinamizar oportunidades para as empresas ligadas ao turismo.",
+      "why": "«Eswatini atrai operadores turísticos moçambicanos» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Eswatini atrai operadores turísticos moçambicanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "source": "Jornal Notícias",
+      "published": "2026-11-11T15:51:31+00:00",
+      "age_hours": 2.6,
+      "within_24h": true,
+      "link": "https://www.jornalnoticias.co.mz/destaque/eswatini-atrai-operadores-turisticos-mocambicanos/",
+      "original_source": true,
+      "event_id": "evt-mocambique-003",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "Jornal Notícias"
+      ],
+      "primary_source": "Jornal Notícias",
+      "status": "today",
+      "opportunity_flag": true,
+      "detailed_summary": "A Autoridade de Turismo de Eswatini reúne-se, está quinta-feira (12 de Novembro), em Maputo, com operadores turísticos moçambicanos para apresentar novos destinos turísticos e identificar oportunidades de negócio entre os intervenientes dos dois países. De acordo com um comunicado da instituição, o encontro pretende ampliar o conhecimento dos profissionais do sector sobre a oferta turística de Eswatini e criar condições para o estabelecimento de parcerias comerciais com operadores. A iniciativa enquadra-se no reforço das relações turísticas e dos laços de cooperação cultural entre Moçambique e Eswatini, procurando afirmar o reino como destino de eleição no mercado moçambicano. A reunião deverá proporcionar um espaço de intercâmbio, permitindo a partilha de informações sobre produtos, serviços e potencialidades turísticas, bem como a identificação de áreas de colaboração. Com esta aproximação, a Autoridade de Turismo de Eswatini pretende estimular a circulação de visitantes entre os dois mercados e dinamizar oportunidades para as empresas ligadas ao turismo. «Eswatini atrai operadores turísticos moçambicanos» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Eswatini atrai operadores turísticos moçambicanos», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 12.46,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
@@ -112,40 +126,56 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa",
-      "summary": "Desde a derrota de Donald Trump nas eleições intercalares que muitas vozes aguardam o momento \"borda fora\" de Pete Hegseth. Foi o que quase aconteceu na terça-feira - quase. Na primeira conferência de imprensa em seis meses, o secretário norte-americano da Defesa - ou da Guerra, na terminologia da Administração - classificou a tentativa de impeachment como uma \"farsa\" e um ato de \"sabotagem\"",
-      "why": "«Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Irão não permitirá que material nuclear enriquecido saia do país",
+      "summary": "O Irão não vai permitir que sequer uma partícula de material nuclear enriquecido saia do país e haverá consequências caso ocorram novos ataques dos EUA contra a República Islâmica, afirmou o chefe de segurança iraniano, Mohsen Rezaei",
+      "why": "«Irão não permitirá que material nuclear enriquecido saia do país» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Irão não permitirá que material nuclear enriquecido saia do país», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "RTP Notícias",
-      "published": "2026-11-11T09:42:46+00:00",
-      "age_hours": 0.7,
+      "published": "2026-11-11T11:33:07+00:00",
+      "age_hours": 6.9,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/pete-hegseth-a-tona-de-agua-republicanos-impedem-destituicao-do-secretario-da-defesa_n1778355",
+      "link": "https://www.rtp.pt/noticias/mundo/irao-nao-permitira-que-material-nuclear-enriquecido-saia-do-pais_n1778396",
       "original_source": true,
       "event_id": "evt-mundo-003",
-      "cluster_size": 3,
-      "source_count": 2,
+      "cluster_size": 1,
+      "source_count": 1,
       "sources": [
-        "RTP Notícias",
-        "Euronews Português"
+        "RTP Notícias"
       ],
       "primary_source": "RTP Notícias",
       "status": "today",
-      "confirmations": [
-        {
-          "source": "Euronews Português",
-          "title": "Republicanos travam destituição do secretário de Defesa dos EUA pela guerra com o Irão",
-          "link": "https://pt.euronews.com/2026/11/11/republicanos-travam-impeachment-do-secretario-de-defesa-dos-eua-pela-guerra-com-o-irao"
-        },
-        {
-          "source": "Euronews Português",
-          "title": "Trump diz que a guerra com o Irão \"praticamente terminou\", mas Teerão nega quaisquer negociações",
-          "link": "https://pt.euronews.com/2026/11/10/trump-diz-que-a-guerra-com-o-irao-praticamente-terminou-mas-teerao-nega-quaisquer-negociac"
-        }
-      ],
       "opportunity_flag": false,
-      "detailed_summary": "Desde a derrota de Donald Trump nas eleições intercalares que muitas vozes aguardam o momento \"borda fora\" de Pete Hegseth. Foi o que quase aconteceu na terça-feira - quase. Na primeira conferência de imprensa em seis meses, o secretário norte-americano da Defesa - ou da Guerra, na terminologia da Administração - classificou a tentativa de impeachment como uma \"farsa\" e um ato de \"sabotagem\". «Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Pete Hegseth à tona de água. Republicanos impedem destituição do secretário da Defesa», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 13.35,
+      "detailed_summary": "O Irão não vai permitir que sequer uma partícula de material nuclear enriquecido saia do país e haverá consequências caso ocorram novos ataques dos EUA contra a República Islâmica, afirmou o chefe de segurança iraniano, Mohsen Rezaei. «Irão não permitirá que material nuclear enriquecido saia do país» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Irão não permitirá que material nuclear enriquecido saia do país», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 10.56,
+      "source_tier": "A",
+      "editorial_status": "HOJE"
+    },
+    {
+      "section": "Mundo",
+      "tags": [
+        "Economia"
+      ],
+      "title": "Crise da habitação e salários na base de greve geral em Espanha",
+      "summary": "Esta quarta-feira é dia de greve geral em Espanha - a primeira em 14 anos. Uma paralisação inédita, já que acontece a um dia do arranque da campanha eleitoral e é incentivada pelo atual Governo de Pedro Sánchez",
+      "why": "«Crise da habitação e salários na base de greve geral em Espanha» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Crise da habitação e salários na base de greve geral em Espanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "source": "RTP Notícias",
+      "published": "2026-11-11T14:31:48+00:00",
+      "age_hours": 3.9,
+      "within_24h": true,
+      "link": "https://www.rtp.pt/noticias/mundo/crise-da-habitacao-e-salarios-na-base-de-greve-geral-em-espanha_v1778450",
+      "original_source": true,
+      "event_id": "evt-mundo-001",
+      "cluster_size": 1,
+      "source_count": 1,
+      "sources": [
+        "RTP Notícias"
+      ],
+      "primary_source": "RTP Notícias",
+      "status": "today",
+      "opportunity_flag": false,
+      "detailed_summary": "Esta quarta-feira é dia de greve geral em Espanha - a primeira em 14 anos. Uma paralisação inédita, já que acontece a um dia do arranque da campanha eleitoral e é incentivada pelo atual Governo de Pedro Sánchez. «Crise da habitação e salários na base de greve geral em Espanha» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Crise da habitação e salários na base de greve geral em Espanha», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
+      "editorial_score": 10.19,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -154,17 +184,17 @@
       "tags": [
         "Economia"
       ],
-      "title": "Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica",
-      "summary": "O artista plástico moçambicano Cartur inaugura, esta quarta-feira, na Fundação Fernando Leite Couto, em Maputo, a exposição individual intitulada “A Dor da Moeda Contada em Metical”, que reflecte sobre o impacto socioeconómico do custo de vida e a capacidade de resistência das famílias moçambicanas. A exposição, cuja abertura está marcada para às 18 horas, apresenta […]",
-      "why": "«Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique.",
-      "impact": "No caso de «Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
+      "title": "Mais de 230 mil famílias vulneráveis vão receber 7.500 meticais no País",
+      "summary": "Mais de 230 mil agregados familiares vulneráveis vão receber uma assistência de 7.500 meticais cada para fazer face aos efeitos da seca provocada pelo fenómeno El Niño. O apoio foi anunciado pelo Governo, no distrito de Massingir, província de Gaza, durante o lançamento do Programa de Apoio Social Directo Pós-Emergência. A seca associada ao fenómeno […]",
+      "why": "«Mais de 230 mil famílias vulneráveis vão receber 7.500 meticais no País» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Mais de 230 mil famílias vulneráveis vão receber 7.500 meticais no País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
       "source": "O País",
-      "published": "2026-11-11T06:41:39+00:00",
-      "age_hours": 3.7,
+      "published": "2026-11-11T18:18:13+00:00",
+      "age_hours": 0.1,
       "within_24h": true,
-      "link": "https://opais.co.mz/cartur-inaugura-exposicao-sobre-impacto-do-custo-de-vida-na-economia-domestica/",
+      "link": "https://opais.co.mz/mais-de-230-mil-familias-vulneraveis-vao-receber-7-500-meticais-no-pais/",
       "original_source": true,
-      "event_id": "evt-mocambique-008",
+      "event_id": "evt-mocambique-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -173,38 +203,38 @@
       "primary_source": "O País",
       "status": "today",
       "opportunity_flag": false,
-      "detailed_summary": "O artista plástico moçambicano Cartur inaugura, esta quarta-feira, na Fundação Fernando Leite Couto, em Maputo, a exposição individual intitulada “A Dor da Moeda Contada em Metical”, que reflecte sobre o impacto socioeconómico do custo de vida e a capacidade de resistência das famílias moçambicanas. A exposição, cuja abertura está marcada para às 18 horas, apresenta […]. «Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Moçambique. No caso de «Cartur inaugura exposição sobre impacto do custo de vida na economia doméstica», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 13.23,
+      "detailed_summary": "Mais de 230 mil agregados familiares vulneráveis vão receber uma assistência de 7.500 meticais cada para fazer face aos efeitos da seca provocada pelo fenómeno El Niño. O apoio foi anunciado pelo Governo, no distrito de Massingir, província de Gaza, durante o lançamento do Programa de Apoio Social Directo Pós-Emergência. A seca associada ao fenómeno […]. «Mais de 230 mil famílias vulneráveis vão receber 7.500 meticais no País» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Mais de 230 mil famílias vulneráveis vão receber 7.500 meticais no País», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
+      "editorial_score": 9.98,
       "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
-      "section": "Mundo",
+      "section": "África",
       "tags": [
         "Economia"
       ],
-      "title": "Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático",
-      "summary": "Muitos governos ainda não estabeleceram metas, deixando os países beneficiários com dificuldades em planear e atrair investimento privado",
-      "why": "«Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo.",
-      "impact": "No caso de «Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "source": "RTP Notícias",
-      "published": "2026-11-11T09:26:41+00:00",
-      "age_hours": 1.0,
+      "title": "Maria Manuela Lucas confere posse aos novos directores",
+      "summary": "A Ministra dos Negócios Estrangeiros e Cooperação, Maria Manuela dos Santos Lucas, conferiu posse na quarta-feira, à nova Directora para Integração Regional e Continental, Lúcia Cherinda e ao novo Director Adjunto para África e Médio Oriente, Mário Adamo. Ao proferir o seu discurso no evento, a Ministra Lucas explicou que a movimentação de quadros visa […]",
+      "why": "«Maria Manuela Lucas confere posse aos novos directores» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
+      "impact": "No caso de «Maria Manuela Lucas confere posse aos novos directores», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "source": "O País",
+      "published": "2026-11-11T17:00:40+00:00",
+      "age_hours": 1.4,
       "within_24h": true,
-      "link": "https://www.rtp.pt/noticias/mundo/paises-em-desenvolvimento-entre-parentesis-enquanto-mais-ricos-adiam-financiamento-climatico_n1778359",
+      "link": "https://opais.co.mz/maria-manuela-lucas-confere-posse-aos-novos-directores/",
       "original_source": true,
-      "event_id": "evt-mundo-005",
+      "event_id": "evt-áfrica-001",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
-        "RTP Notícias"
+        "O País"
       ],
-      "primary_source": "RTP Notícias",
+      "primary_source": "O País",
       "status": "today",
-      "opportunity_flag": true,
-      "detailed_summary": "Muitos governos ainda não estabeleceram metas, deixando os países beneficiários com dificuldades em planear e atrair investimento privado. «Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático» ajuda a perceber uma mudança económica ou empresarial concreta com relevância para Mundo. No caso de «Países em desenvolvimento entre parêntesis enquanto mais ricos adiam financiamento climático», os efeitos podem chegar aos preços, procura, financiamento, contratação ou oportunidades para fornecedores.",
-      "editorial_score": 11.79,
-      "source_tier": "A",
+      "opportunity_flag": false,
+      "detailed_summary": "A Ministra dos Negócios Estrangeiros e Cooperação, Maria Manuela dos Santos Lucas, conferiu posse na quarta-feira, à nova Directora para Integração Regional e Continental, Lúcia Cherinda e ao novo Director Adjunto para África e Médio Oriente, Mário Adamo. Ao proferir o seu discurso no evento, a Ministra Lucas explicou que a movimentação de quadros visa […]. «Maria Manuela Lucas confere posse aos novos directores» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Maria Manuela Lucas confere posse aos novos directores», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em África.",
+      "editorial_score": 9.71,
+      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -218,11 +248,11 @@
       "impact": "No caso de «Constitucional valida lei das carreiras militares das Forças Armadas de Angola», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-11-10T19:52:25+00:00",
-      "age_hours": 14.6,
+      "age_hours": 22.6,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/constitucional-valida-lei-das-carreiras-militares-das-forcas-armadas-de-angola_n1778243",
       "original_source": true,
-      "event_id": "evt-áfrica-002",
+      "event_id": "evt-áfrica-003",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -232,7 +262,7 @@
       "status": "today",
       "opportunity_flag": true,
       "detailed_summary": "O Tribunal Constitucional de Angola recusou o pedido de inconstitucionalidade da lei que altera as carreiras dos militares das Forças Armadas, feito pelo principal partido da oposição, a UNITA O Tribunal julgou improcedente, num acórdão a que a Lusa teve hoje acesso, o pedido de declaração de inconstitucionalidade apresentado, em junho, pelo grupo parlamentar da União Nacional para a Independência Total de Angola (UNITA) Os juízes conselheiros entenderam que não se verifica \"qualquer ofensa aos princípios da legalidade, da igualdade, da proporcionalidade, da segurança jurídica, da proteção da confiança, da proibição do excesso ou do direito a um processo equitativo\" Em causa está a Lei 3/26 -- Lei de Alteração à Lei das Carreiras dos Militares das Forças Armadas Angolanas, de iniciativa do Governo, aprovada no princípio deste ano pela Assembleia Nacional O grupo parlamentar da UNITA pediu a revisão de quatro artigos \"por violação de princípios, direitos, liberdades, garantias e normas estruturantes da Constituição da República de Angola\" O principal partido da oposição argumentou… «Constitucional valida lei das carreiras militares das Forças Armadas de Angola» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Constitucional valida lei das carreiras militares das Forças Armadas de Angola», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 10.96,
+      "editorial_score": 9.29,
       "source_tier": "A",
       "editorial_status": "HOJE"
     },
@@ -247,11 +277,11 @@
       "impact": "No caso de «Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
       "source": "RTP Notícias",
       "published": "2026-11-11T07:35:38+00:00",
-      "age_hours": 2.9,
+      "age_hours": 10.8,
       "within_24h": true,
       "link": "https://www.rtp.pt/noticias/mundo/surto-de-ebola-na-republica-democratica-do-congo-ultrapassa-11-mil-casos_n1778334",
       "original_source": true,
-      "event_id": "evt-áfrica-001",
+      "event_id": "evt-áfrica-002",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -261,37 +291,8 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "O surto de ébola na República Democrática do Congo (RDCongo) ultrapassou os 11 mil casos, informou hoje o Governo, numa altura em que a doença continua a espalhar-se no país De acordo com os dados mais recentes do Ministério da Saúde, 11.042 pessoas foram infetadas pelo vírus mortal, que já provocou 5.387 mortes, quase metade dos infetados, naquele que se tornou o surto mais letal alguma vez registado na RDCongo Além disso, um total de 2.990 doentes recuperaram da doença até à data, e outros 651 encontram-se hospitalizados ou em isolamento A taxa de monitorização dos contactos situa-se nos 79,7%, informaram as autoridades de saúde As províncias orientais de Ituri e Kivu do Norte são os territórios mais atingidos do país, concentrando 57,7% e 32,7% dos novos casos registados a 09 de novembro, respetivamente O surto foi declarado em meados de maio, em Ituri, e, desde então, as autoridades congolesas têm tido dificuldades em contê-lo devido a diversos fatores, entre os quais conflitos armados, uma crise no sistema de saúde, precariedade das vias de acesso e episódios de violência por… «Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Surto de ébola na República Democrática do Congo ultrapassa 11 mil casos», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 10.4,
+      "editorial_score": 8.75,
       "source_tier": "A",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "Moçambique",
-      "tags": [
-        "Economia"
-      ],
-      "title": "Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados",
-      "summary": "O Presidente da República, Daniel Chapo, lançou, esta segunda-feira, 9 de Novembro, na província de Niassa, a iniciativa “PROSPERA”, destinada a facilitar o acesso dos produtores dos sectores da agricultura, […]",
-      "why": "«Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados» merece acompanhamento pelo possível efeito económico, institucional ou regional.",
-      "impact": "No caso de «Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "source": "Diário Económico",
-      "published": "2026-11-11T09:35:00+00:00",
-      "age_hours": 0.9,
-      "within_24h": true,
-      "link": "https://www.diarioeconomico.co.mz/2026/11/11/negocios/agronegocios/governo-lanca-prospera-para-melhorar-acesso-dos-produtores-aos-mercados/",
-      "original_source": true,
-      "event_id": "evt-mocambique-003",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Diário Económico"
-      ],
-      "primary_source": "Diário Económico",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "O Presidente da República, Daniel Chapo, lançou, esta segunda-feira, 9 de Novembro, na província de Niassa, a iniciativa “PROSPERA”, destinada a facilitar o acesso dos produtores dos sectores da agricultura, […]. «Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Governo Lança “PROSPERA” Para Melhorar Acesso Dos Produtores Aos Mercados», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Moçambique.",
-      "editorial_score": 9.81,
-      "source_tier": "B",
       "editorial_status": "HOJE"
     },
     {
@@ -299,15 +300,15 @@
       "tags": [
         "Segurança"
       ],
-      "title": "Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia",
-      "summary": "Um militar norte-americano, de 41 anos, foi detido nas proximidades de Gloucester, sob a acusação de espionagem a favor da Rússia, no âmbito de uma operação antiterrorista realizada pelas autoridades britânicas com o apoio das forças armadas e das autoridades policiais norte-americanas.O militar em questão foi detido na terça-feira ao abrigo da legislação de segurança nacional e encaminhado para uma esquadra em Londres, onde permanece sob custódia, segundo informações da Polícia Metropolitana.\"Esta detenção e investigação significativas resultam de uma estreita colaboração entre as autoridades do Reino Unido e dos Estados Unidos\", afirmou Vicki Evans, coordenadora nacional sénior para o combate ao terrorismo.\"As acusações são graves e a nossa investigação está muito longe de estar concluída\", acrescentou a mesma responsável.As autoridades referiram ainda que o caso \"não está ligado a quaisquer outras investigações em curso da Polícia Antiterrorismo\".Kash Patel, diretor do FBI, agradeceu à polícia e aos serviços de informações britânicos o trabalho desenvolvido neste caso.“Esta…",
-      "why": "«Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "title": "Rússia fecha redação de Moscovo do último jornal crítico Novaya Gazeta",
+      "summary": "Fechou o Novaya Gazeta, o último jornal russo abertamente crítico do Kremlin e da guerra total em curso na Ucrânia, depois de as autoridades lhe retirarem o registo de órgão de comunicação social e cortarem a sua capacidade de operar, anunciou o jornal.Num comunicado de 30 de outubro, o jornal afirmou que os serviços de segurança e os censores “forçaram a redação a cessar a sua atividade”.A redação foi obrigada a abandonar as instalações, o sistema de donativos dos leitores foi encerrado, os recursos online foram bloqueados, os contratos de impressão foram rescindidos e os censores estatais nas tipografias recusaram autorizar a publicação do jornal, antes de o seu registo de média ser revogado.“As eleições e os órgãos de poder eleitos foram, na prática, abolidos, as instituições da sociedade civil destruídas, a liberdade de consciência e a dignidade humana esmagadas”, afirmou o jornal na sua declaração de despedida.O editor-chefe, Sergei Sokolov, realizou uma última reunião de redação com a presença de funcionários, do fundador e Nobel da Paz Dmitry Muratov e de jornalistas de…",
+      "why": "«Rússia fecha redação de Moscovo do último jornal crítico Novaya Gazeta» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
+      "impact": "No caso de «Rússia fecha redação de Moscovo do último jornal crítico Novaya Gazeta», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
       "source": "Euronews Português",
-      "published": "2026-11-11T09:49:25+00:00",
-      "age_hours": 0.6,
+      "published": "2026-11-11T12:24:57+00:00",
+      "age_hours": 6.0,
       "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/11/reino-unido-detem-militar-dos-eua-por-suspeita-de-espionagem-para-a-russia",
+      "link": "https://pt.euronews.com/2026/11/11/russia-fecha-redacao-de-moscovo-do-ultimo-jornal-critico-novaya-gazeta",
       "original_source": true,
       "event_id": "evt-mundo-002",
       "cluster_size": 1,
@@ -318,8 +319,8 @@
       "primary_source": "Euronews Português",
       "status": "today",
       "opportunity_flag": true,
-      "detailed_summary": "Um militar norte-americano, de 41 anos, foi detido nas proximidades de Gloucester, sob a acusação de espionagem a favor da Rússia, no âmbito de uma operação antiterrorista realizada pelas autoridades britânicas com o apoio das forças armadas e das autoridades policiais norte-americanas.O militar em questão foi detido na terça-feira ao abrigo da legislação de segurança nacional e encaminhado para uma esquadra em Londres, onde permanece sob custódia, segundo informações da Polícia Metropolitana.\"Esta detenção e investigação significativas resultam de uma estreita colaboração entre as autoridades do Reino Unido e dos Estados Unidos\", afirmou Vicki Evans, coordenadora nacional sénior para o combate ao terrorismo.\"As acusações são graves e a nossa investigação está muito longe de estar concluída\", acrescentou a mesma responsável.As autoridades referiram ainda que o caso \"não está ligado a quaisquer outras investigações em curso da Polícia Antiterrorismo\".Kash Patel, diretor do FBI, agradeceu à polícia e aos serviços de informações britânicos o trabalho desenvolvido neste caso.“Esta… «Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Reino Unido detém militar dos EUA por suspeita de espionagem para a Rússia», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
-      "editorial_score": 8.88,
+      "detailed_summary": "Fechou o Novaya Gazeta, o último jornal russo abertamente crítico do Kremlin e da guerra total em curso na Ucrânia, depois de as autoridades lhe retirarem o registo de órgão de comunicação social e cortarem a sua capacidade de operar, anunciou o jornal.Num comunicado de 30 de outubro, o jornal afirmou que os serviços de segurança e os censores “forçaram a redação a cessar a sua atividade”.A redação foi obrigada a abandonar as instalações, o sistema de donativos dos leitores foi encerrado, os recursos online foram bloqueados, os contratos de impressão foram rescindidos e os censores estatais nas tipografias recusaram autorizar a publicação do jornal, antes de o seu registo de média ser revogado.“As eleições e os órgãos de poder eleitos foram, na prática, abolidos, as instituições da sociedade civil destruídas, a liberdade de consciência e a dignidade humana esmagadas”, afirmou o jornal na sua declaração de despedida.O editor-chefe, Sergei Sokolov, realizou uma última reunião de redação com a presença de funcionários, do fundador e Nobel da Paz Dmitry Muratov e de jornalistas de… «Rússia fecha redação de Moscovo do último jornal crítico Novaya Gazeta» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Rússia fecha redação de Moscovo do último jornal crítico Novaya Gazeta», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a Mundo.",
+      "editorial_score": 8.75,
       "source_tier": "C",
       "editorial_status": "HOJE"
     },
@@ -334,11 +335,11 @@
       "impact": "No caso de «Turquia: banda otomana recebe líderes mundiais na COP31», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
       "source": "Euronews Português",
       "published": "2026-11-11T10:16:33+00:00",
-      "age_hours": 0.2,
+      "age_hours": 8.2,
       "within_24h": true,
       "link": "https://pt.euronews.com/video/2026/11/11/turquia-banda-otomana-recebe-lideres-mundiais-na-cop31",
       "original_source": true,
-      "event_id": "evt-mundo-001",
+      "event_id": "evt-mundo-005",
       "cluster_size": 1,
       "source_count": 1,
       "sources": [
@@ -348,36 +349,7 @@
       "status": "today",
       "opportunity_flag": false,
       "detailed_summary": "Uma banda militar de estilo otomano recebe os delegados internacionais na COP31, em Antália, com marchas tradicionais e ritmos vibrantes. «Turquia: banda otomana recebe líderes mundiais na COP31» merece acompanhamento pelo possível efeito económico, institucional ou regional. No caso de «Turquia: banda otomana recebe líderes mundiais na COP31», o impacto dependerá dos próximos desenvolvimentos, mas poderá afectar decisões, custos ou oportunidades em Mundo.",
-      "editorial_score": 7.96,
-      "source_tier": "C",
-      "editorial_status": "HOJE"
-    },
-    {
-      "section": "África",
-      "tags": [
-        "Segurança"
-      ],
-      "title": "Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden",
-      "summary": "Os conflitos no Corno de África, no Iémen e no Irão suscitaram preocupação sobre a forma como a instabilidade na região poderá fomentar indiretamente a pirataria num ponto de passagem crítico entre o Ocidente e a Ásia, segundo indicaram comandantes da força naval da União Europeia sediados em Djibuti.A agência Associated Press (AP) acompanhou a fragata espanhola Santa María numa das suas patrulhas habituais a partir de Djibuti em direção ao golfo de Áden, com o Iémen a norte e a Somalilândia e a Somália a sul.Mais de 200 marinheiros, incluindo uma equipa de operações especiais treinada para recuperar navios capturados por piratas, encontram-se destacados no navio-almirante da Operação Atalanta, a missão antipirataria da Força Naval da União Europeia.O comodoro português, José Rodrigues Pedra, ao comando da operação, explicou a partir da ponte da Santa María que, embora os combates no Iémen, no Irão e noutras zonas da região não estejam ligados diretamente ao recente aumento da atividade pirata, “uma crise gera outra crise”.Há mais de duas décadas, a pirataria abalou esta parte do…",
-      "why": "«Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança.",
-      "impact": "No caso de «Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "source": "Euronews Português",
-      "published": "2026-11-10T12:59:30+00:00",
-      "age_hours": 21.5,
-      "within_24h": true,
-      "link": "https://pt.euronews.com/2026/11/10/espanha-combate-pirataria-fragata-santa-maria-patrulha-o-golfo-de-aden",
-      "original_source": true,
-      "event_id": "evt-áfrica-004",
-      "cluster_size": 1,
-      "source_count": 1,
-      "sources": [
-        "Euronews Português"
-      ],
-      "primary_source": "Euronews Português",
-      "status": "today",
-      "opportunity_flag": false,
-      "detailed_summary": "Os conflitos no Corno de África, no Iémen e no Irão suscitaram preocupação sobre a forma como a instabilidade na região poderá fomentar indiretamente a pirataria num ponto de passagem crítico entre o Ocidente e a Ásia, segundo indicaram comandantes da força naval da União Europeia sediados em Djibuti.A agência Associated Press (AP) acompanhou a fragata espanhola Santa María numa das suas patrulhas habituais a partir de Djibuti em direção ao golfo de Áden, com o Iémen a norte e a Somalilândia e a Somália a sul.Mais de 200 marinheiros, incluindo uma equipa de operações especiais treinada para recuperar navios capturados por piratas, encontram-se destacados no navio-almirante da Operação Atalanta, a missão antipirataria da Força Naval da União Europeia.O comodoro português, José Rodrigues Pedra, ao comando da operação, explicou a partir da ponte da Santa María que, embora os combates no Iémen, no Irão e noutras zonas da região não estejam ligados diretamente ao recente aumento da atividade pirata, “uma crise gera outra crise”.Há mais de duas décadas, a pirataria abalou esta parte do… «Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden» merece acompanhamento porque pode mudar o nível de risco político, diplomático ou de segurança. No caso de «Espanha combate pirataria: fragata Santa María patrulha o golfo de Áden», os efeitos podem chegar ao comércio, circulação, investimento e cadeias de abastecimento com ligação a África.",
-      "editorial_score": 3.52,
+      "editorial_score": 6.29,
       "source_tier": "C",
       "editorial_status": "HOJE"
     }
